@@ -1,0 +1,5 @@
+*/__pycache__/*
+.env
+data/transnewguinea-org
+data/glottolog-cldf
+automated_cognates/pypyenv
