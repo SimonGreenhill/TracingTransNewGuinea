@@ -1,0 +1,4 @@
+synonyms.original.final.txt:TOTAL SYNONYMS: 15162/ 96014 (15.79%)
+synonyms.original.txt:TOTAL SYNONYMS: 22476/138622 (16.21%)
+synonyms.remapped.final.txt:TOTAL SYNONYMS: 18415/106324 (17.32%)
+synonyms.remapped.txt:TOTAL SYNONYMS: 23913/138622 (17.25%)

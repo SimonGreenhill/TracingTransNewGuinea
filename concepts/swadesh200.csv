@@ -1,0 +1,200 @@
+id,word,slug,concepticon_id,gloss
+2,ashes,ashes,646,ASH
+146,left (hand),left-hand,2182,LEFT HAND
+1,all,all,98,ALL
+101,and,and,1577,AND
+103,at,at,1461,AT
+104,back,back,1291,BACK
+3,bark,bark,1204,BARK
+106,because,because,1157,BECAUSE
+4,belly,belly,1251,BELLY
+107,berry,berry,904,BERRY
+5,big,big,1202,BIG
+6,bird,bird,937,BIRD
+7,black,black,163,BLACK
+8,blood,blood,946,BLOOD
+33,I (pronoun d:1s),i,1209,I
+110,child,child,1304,CHILD (YOUNG HUMAN)
+11,claw,claw,72,CLAW
+12,cloud,cloud,1489,CLOUD
+13,cold,cold,1287,COLD
+113,day,day,1260,DAY (24 HOURS)
+115,dirty,dirty,1230,DIRTY
+14,dog,dog,2009,DOG
+15,dry,dry,1398,DRY
+116,dull,dull,1397,DULL
+117,dust,dust,2,DUST
+16,ear,ear,1247,EAR
+17,earth/soil,earth,1228,EARTH (SOIL)
+18,egg,egg,744,EGG
+19,eye,eye,1248,EYE
+119,far,far,1406,FAR
+120,father,father,1217,FATHER
+21,feather,feather,1201,FEATHER
+122,few,few,1242,FEW
+23,fish,fish,227,FISH
+124,five,five,493,FIVE
+127,flower,flower,239,FLOWER
+128,fog,fog,249,FOG
+129,four,four,1500,FOUR
+25,full,full,1429,FULL
+26,good,good,1035,GOOD
+131,grass,grass,606,GRASS
+27,green,green,1425,GREEN
+132,guts,guts,1334,GUTS
+28,hair,hair,1040,HAIR
+30,head,head,1256,HEAD
+31,heart,heart,1223,HEART
+32,horn,horn,1393,HORN (ANATOMY)
+138,how,how,1239,HOW
+142,if,if,1459,IF
+143,"in, inside",in,1606,INSIDE
+34,knee,knee,1371,KNEE
+144,lake,lake,624,LAKE
+35,leaf,leaf,628,LEAF
+36,liver,liver,1224,LIVER
+37,long,long,1203,LONG
+38,louse,louse,1392,LOUSE
+39,man,man,1554,MAN
+40,many,many,1198,MANY
+41,meat,meat,634,MEAT
+42,moon,moon,1313,MOON
+149,mother,mother,1216,MOTHER
+43,mountain,mountain,639,MOUNTAIN
+44,mouth,mouth,674,MOUTH
+45,name,name,1405,NAME
+151,near,near,1942,NEAR
+46,neck,neck,1333,NECK
+47,new,new,1231,NEW
+48,night,night,1233,NIGHT
+49,nose,nose,1221,NOSE
+50,not,not,1240,NOT
+152,old,old,1229,OLD
+51,one,one,1493,ONE
+153,other,other,197,OTHER
+53,red,red,156,RED
+165,sea,sea,1474,SEA
+58,seed,seed,714,SEED
+167,sharp,sharp,1396,SHARP
+168,short,short,1645,SHORT
+59,skin,skin,763,SKIN
+170,sky,sky,1732,SKY
+60,small,small,1246,SMALL
+61,smoke,smoke,778,SMOKE (EXHAUST)
+172,smooth,smooth,1234,SMOOTH
+173,snake,snake,730,SNAKE
+174,snow,snow,784,SNOW
+175,some,some,1241,SOME
+62,star,star,1430,STAR
+180,stick,stick,1295,STICK
+63,stone,stone,857,STONE
+181,straight,straight,1404,STRAIGHT
+64,sun,sun,1343,SUN
+65,tail,tail,1220,TAIL
+66,that,that,78,THAT
+184,there,there,1937,THERE
+185,they (pronoun d:3p),they,817,THEY
+186,thick,thick,1244,THICK
+187,thin,thin,1400,THIN (SLIM)
+67,this,this,1214,THIS
+68,thou,thou,1215,THOU
+189,three,three,492,THREE
+69,to bite,to-bite,1403,BITE
+108,to blow,to-blow,175,BLOW (OF WIND)
+109,to breathe,to-breathe,1407,BREATHE
+70,to burn,to-burn,2102,BURN
+71,to come,to-come,1446,COME
+111,to count,to-count,1420,COUNT
+112,to cut,to-cut,1432,CUT
+72,to die,to-die,1494,DIE
+114,to dig,to-dig,1418,DIG
+73,to drink,to-drink,1401,DRINK
+74,to eat,to-eat,1336,EAT
+118,to fall,to-fall,1280,FALL
+121,to fear,to-fear,1419,FEAR (BE AFRAID)
+123,to fight,to-fight,1423,FIGHT
+125,to float,to-float,1574,FLOAT
+126,to flow,to-flow,2003,FLOW
+75,to fly,to-fly,1441,FLY (MOVE THROUGH AIR)
+130,to freeze,to-freeze,1431,FREEZE
+76,to give,to-give,1447,GIVE
+77,to hear,to-hear,1408,HEAR
+136,to hit,to-hit,1433,HIT
+137,to hold,to-hold,1448,HOLD
+139,to hunt,to-hunt,1435,HUNT
+78,to kill,to-kill,1417,KILL
+79,to know,to-know,1410,KNOW (SOMETHING)
+145,to laugh,to-laugh,1355,LAUGH
+80,to lie down,to-lie-down,215,LIE DOWN
+148,to live,to-live,2309,LIVE
+89,tongue,tongue,1205,TONGUE
+90,tooth,tooth,1380,TOOTH
+154,to play,to-play,1413,PLAY
+155,to pull,to-pull,1455,PULL
+156,to push,to-push,1452,PUSH
+81,to rain,to-rain,1253,RAIN (RAINING)
+162,to rub,to-rub,1449,RUB
+82,to say,to-say,1458,SAY
+164,to scratch,to-scratch,1436,SCRATCH
+83,to see,to-see,1409,SEE
+166,to sew,to-sew,1457,SEW
+169,to sing,to-sing,1261,SING
+84,to sit,to-sit,1416,SIT
+85,to sleep,to-sleep,1585,SLEEP
+171,to smell,to-smell,1586,SMELL (PERCEIVE)
+176,to spit,to-spit,1440,SPIT
+177,to split,to-split,1437,SPLIT
+178,to squeeze,to-squeeze,1414,SQUEEZE
+179,to stab,to-stab,1434,STAB
+182,to suck,to-suck,1421,SUCK
+183,to swell,to-swell,1573,SWELL
+87,to swim,to-swim,1439,SWIM
+190,to throw,to-throw,1456,THROW
+191,to tie,to-tie,1917,TIE
+192,to turn,to-turn,1588,TURN
+193,to vomit,to-vomit,1278,VOMIT
+88,to walk,to-walk,1443,WALK
+202,to wipe,to-wipe,1454,WIPE
+91,tree,tree,906,TREE
+92,two,two,1498,TWO
+93,warm/hot,warm,2272,HOT OR WARM
+94,water,water,948,WATER
+195,wet,wet,1726,WET
+96,what?,what,1236,WHAT
+196,when?,when,1238,WHEN
+105,bad,bad,1292,BAD
+9,bone,bone,1394,BONE
+10,breast,breast,1402,BREAST
+102,animal,animal,619,ANIMAL
+197,where?,where,1237,WHERE
+97,white,white,1335,WHITE
+98,who?,who,1235,WHO
+198,wide,wide,1243,WIDE
+199,wife,wife,1199,WIFE
+200,wind,wind,960,WIND
+201,wing,wing,1257,WING
+203,with,with,1340,WITH
+99,woman,woman,962,WOMAN
+205,worm,worm,1219,WORM
+22,fire,fire,221,FIRE
+134,heavy,heavy,1210,HEAVY
+135,here,here,136,HERE
+140,husband,husband,1200,HUSBAND
+141,ice,ice,617,ICE
+150,narrow,narrow,1267,NARROW
+52,person,person,683,PERSON
+157,"right (correct, true)",right-correct,1725,CORRECT (RIGHT)
+158,right (hand),right-hand,2183,RIGHT HAND
+159,river,river,666,RIVER
+54,road/path,road,2457,PATH OR ROAD
+55,root,root,670,ROOT
+160,rope,rope,1218,ROPE
+161,rotten,rotten,1728,ROTTEN
+56,round,round,1395,ROUND
+163,salt,salt,1274,SALT
+57,sand,sand,671,SAND
+86,to stand,to-stand,1442,STAND
+188,to think,to-think,1415,THINK (REFLECT)
+95,"we incl. (pronoun d:1p, incl)",we-incl,1131,WE (INCLUSIVE)
+207,year,year,1226,YEAR
+100,yellow,yellow,1424,YELLOW
