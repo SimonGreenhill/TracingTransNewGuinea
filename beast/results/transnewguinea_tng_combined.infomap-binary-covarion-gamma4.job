@@ -1,0 +1,8 @@
+#!/bin/sh
+#SBATCH --job-name transnewguinea_tng_combined.infomap-binary-covarion.asc
+#SBATCH --get-user-env
+#SBATCH --nodes=1
+#SBATCH --output transnewguinea_tng_combined.infomap-binary-covarion.asc.%j.run
+#SBATCH --mail-type=end
+#SBATCH --mail-user=simon@simon.net.nz
+/data/tools/beast/2.7.4/beast/bin/beast -beagle_SSE transnewguinea_tng_combined.infomap-binary-covarion-gamma4.xml

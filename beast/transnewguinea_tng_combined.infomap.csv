@@ -1,0 +1,402 @@
+Language,Taxon,Glottocode,Family,Clade,Classification,Latitude,Longitude
+abaga,abaga_sil-1966,abag1245,Nuclear Trans New Guinea,TNG.Kainantu-Goroka,nucl1709/kain1273/goro1272/nucl1760/nucl1756/kama1374/unun9976,-6.12028,145.665
+aeka,aeka_w69,aeka1244,Nuclear Trans New Guinea,TNG.GreaterBinanderean,nucl1709/bina1276/bina1279/nucl1603/sout2934/orok1268,-8.855095,147.99477
+aeka,aeka_sm2011,aeka1244,Nuclear Trans New Guinea,TNG.GreaterBinanderean,nucl1709/bina1276/bina1279/nucl1603/sout2934/orok1268,-8.855095,147.99477
+aeka,aeka_mv70,aeka1244,Nuclear Trans New Guinea,TNG.GreaterBinanderean,nucl1709/bina1276/bina1279/nucl1603/sout2934/orok1268,-8.855095,147.99477
+aghu,aghu_h70,aghu1255,Nuclear Trans New Guinea,TNG.Awyu-Ok,nucl1709/cent2116/awyu1265/grea1275/awyu1263/awyu1264/mapp1234,-6.34674,140.043
+aghu,aghu_v75,aghu1255,Nuclear Trans New Guinea,TNG.Awyu-Ok,nucl1709/cent2116/awyu1265/grea1275/awyu1263/awyu1264/mapp1234,-6.34674,140.043
+aghu,aghu_mv70,aghu1255,Nuclear Trans New Guinea,TNG.Awyu-Ok,nucl1709/cent2116/awyu1265/grea1275/awyu1263/awyu1264/mapp1234,-6.34674,140.043
+aghu,aghu_v70,aghu1255,Nuclear Trans New Guinea,TNG.Awyu-Ok,nucl1709/cent2116/awyu1265/grea1275/awyu1263/awyu1264/mapp1234,-6.34674,140.043
+aghu,aghu_v00,aghu1255,Nuclear Trans New Guinea,TNG.Awyu-Ok,nucl1709/cent2116/awyu1265/grea1275/awyu1263/awyu1264/mapp1234,-6.34674,140.043
+aisi,aisi_d2016,musa1266,Nuclear Trans New Guinea,TNG.Madang.Kalamic-SouthAdelbert,nucl1709/mada1298/kala1403/sout3148/soge1235/east2767/aisi1234,-5.37407,145.197
+aisi,aisi_d2010,musa1266,Nuclear Trans New Guinea,TNG.Madang.Kalamic-SouthAdelbert,nucl1709/mada1298/kala1403/sout3148/soge1235/east2767/aisi1234,-5.37407,145.197
+alekano,alekano_s56,alek1238,Nuclear Trans New Guinea,TNG.Kainantu-Goroka,nucl1709/kain1273/goro1272/nucl1760/gahu1246,-6.03901,145.387
+alekano,alekano_s78,alek1238,Nuclear Trans New Guinea,TNG.Kainantu-Goroka,nucl1709/kain1273/goro1272/nucl1760/gahu1246,-6.03901,145.387
+alekano,alekano_sil-1965d,alek1238,Nuclear Trans New Guinea,TNG.Kainantu-Goroka,nucl1709/kain1273/goro1272/nucl1760/gahu1246,-6.03901,145.387
+alekano-asaroyufa,alekano-asaroyufa_sil-1975h,alek1238,Nuclear Trans New Guinea,TNG.Kainantu-Goroka,nucl1709/kain1273/goro1272/nucl1760/gahu1246,-6.03901,145.387
+alekano-kefamo,alekano-kefamo_sil-1975g,alek1238,Nuclear Trans New Guinea,TNG.Kainantu-Goroka,nucl1709/kain1273/goro1272/nucl1760/gahu1246,-6.03901,145.387
+alekano-kotuni,alekano-kotuni_sil-1975f,alek1238,Nuclear Trans New Guinea,TNG.Kainantu-Goroka,nucl1709/kain1273/goro1272/nucl1760/gahu1246,-6.03901,145.387
+alekano-notofana,alekano-notofana_sil-1976b,alek1238,Nuclear Trans New Guinea,TNG.Kainantu-Goroka,nucl1709/kain1273/goro1272/nucl1760/gahu1246,-6.03901,145.387
+alekano-wanima,alekano-wanima_sil-1975e,alek1238,Nuclear Trans New Guinea,TNG.Kainantu-Goroka,nucl1709/kain1273/goro1272/nucl1760/gahu1246,-6.03901,145.387
+alekano-wanima,alekano-wanima_sil-1962b,alek1238,Nuclear Trans New Guinea,TNG.Kainantu-Goroka,nucl1709/kain1273/goro1272/nucl1760/gahu1246,-6.03901,145.387
+amaimon,amaimon_z80n,amai1246,Nuclear Trans New Guinea,TNG.Madang.Croiselles,nucl1709/mada1298/croi1234,-5.18742,145.368
+amele,amele_z80m,amel1241,Nuclear Trans New Guinea,TNG.Madang.Croiselles,nucl1709/mada1298/croi1234/mabu1247/gumm1240,-5.29126,145.687
+amowe-bere,amowe-bere_l2008,dudu1240,Nuclear Trans New Guinea,TNG.Madang.RaiCoast,nucl1709/mada1298/raic1241/nuru1240,-5.43119,145.642
+amowe-gomu,amowe-gomu_l2008,dudu1240,Nuclear Trans New Guinea,TNG.Madang.RaiCoast,nucl1709/mada1298/raic1241/nuru1240,-5.43119,145.642
+amowe-tagoe,amowe-tagoe_l2008,dudu1240,Nuclear Trans New Guinea,TNG.Madang.RaiCoast,nucl1709/mada1298/raic1241/nuru1240,-5.43119,145.642
+anam,anam_z80s,anam1247,Nuclear Trans New Guinea,TNG.Madang.Kalamic-SouthAdelbert,nucl1709/mada1298/kala1403/sout3148/osum1243/pomo1272,-4.68869,145.051
+anamgura,anamgura_z80s,anam1248,Nuclear Trans New Guinea,TNG.Madang.Kalamic-SouthAdelbert,nucl1709/mada1298/kala1403/sout3148/osum1243/pomo1272/anam1250,-4.63762,144.991
+anjam,anjam_z80r,anja1238,Nuclear Trans New Guinea,TNG.Madang.RaiCoast,nucl1709/mada1298/raic1241/mind1258/lowe1462/coas1332,-5.45899,145.717
+apali,apali_d2010,apal1256,Nuclear Trans New Guinea,TNG.Madang.Kalamic-SouthAdelbert,nucl1709/mada1298/kala1403/sout3148/soge1235/apal1258,-5.1727,145.023
+apali,apali_z80s,apal1256,Nuclear Trans New Guinea,TNG.Madang.Kalamic-SouthAdelbert,nucl1709/mada1298/kala1403/sout3148/soge1235/apal1258,-5.1727,145.023
+arandai-sebyar,arandai-sebyar_v85,aran1237,South Bird's Head Family,South Bird's Head Family,sout1516/east1439/kemb1251,-2.08016,132.983
+arandai-weriagar,arandai-weriagar_v85,aran1237,South Bird's Head Family,South Bird's Head Family,sout1516/east1439/kemb1251,-2.08016,132.983
+arawum,arawum_z80r,araw1272,Nuclear Trans New Guinea,TNG.Madang.RaiCoast,nucl1709/mada1298/raic1241/kabe1245,-5.52787,145.903
+asas,asas_z80r,asas1240,Nuclear Trans New Guinea,TNG.Madang.RaiCoast,nucl1709/mada1298/raic1241/evap1240/sins1241,-5.69345,145.549
+asmat-casuarina-coast-pirimapun,asmat-casuarina-coast-pirimapun_v80,casu1237,Nuclear Trans New Guinea,TNG.Asmat,nucl1709/cent2116/asma1256/asma1257,-6.43005,138.566
+asmat-central-keenakap-namen,asmat-central-keenakap-namen_v80,cent2117,Nuclear Trans New Guinea,TNG.Asmat,nucl1709/cent2116/asma1256/asma1257/cent2247,-5.80391,138.471
+asmat-central-keenok-komar,asmat-central-keenok-komar_v80,nort2917,Nuclear Trans New Guinea,TNG.Asmat,nucl1709/cent2116/asma1256/asma1257,-4.89854,138.405
+asmat-central-keenok-sawa-erma,asmat-central-keenok-sawa-erma_v80,nort2917,Nuclear Trans New Guinea,TNG.Asmat,nucl1709/cent2116/asma1256/asma1257,-4.89854,138.405
+asmat-central-mismam-suru,asmat-central-mismam-suru_v80,mism1239,Nuclear Trans New Guinea,TNG.Asmat,nucl1709/cent2116/asma1256/asma1257/cent2247/cent2117,,
+asmat-central-mismam-yepem,asmat-central-mismam-yepem_v80,mism1239,Nuclear Trans New Guinea,TNG.Asmat,nucl1709/cent2116/asma1256/asma1257/cent2247/cent2117,,
+asmat-central-simai-ayam,asmat-central-simai-ayam_v80,ajam1240,Nuclear Trans New Guinea,TNG.Asmat,nucl1709/cent2116/asma1256/asma1257/cent2247/cent2117,,
+atemble,atemble_z80s,atem1241,Nuclear Trans New Guinea,TNG.Madang.Kalamic-SouthAdelbert,nucl1709/mada1298/kala1403/sout3148/soge1235/apal1258/grea1297/atan1241,-5.08137,144.806
+atemble,atemble_d2010,atem1241,Nuclear Trans New Guinea,TNG.Madang.Kalamic-SouthAdelbert,nucl1709/mada1298/kala1403/sout3148/soge1235/apal1258/grea1297/atan1241,-5.08137,144.806
+awa,awa_x90,awap1236,Nuclear Trans New Guinea,TNG.Kainantu-Goroka,nucl1709/kain1273/kain1274/gauw1235/awao1234,-6.65534,145.714
+awa,awa_s78,awap1236,Nuclear Trans New Guinea,TNG.Kainantu-Goroka,nucl1709/kain1273/kain1274/gauw1235/awao1234,-6.65534,145.714
+awa,awa_sil-1976,awap1236,Nuclear Trans New Guinea,TNG.Kainantu-Goroka,nucl1709/kain1273/kain1274/gauw1235/awao1234,-6.65534,145.714
+awiyaana,awiyaana_s78,awiy1238,Nuclear Trans New Guinea,TNG.Kainantu-Goroka,nucl1709/kain1273/kain1274/gauw1235/auya1234,-6.54079,145.76
+awyu-asue,awyu-asue_h70,asue1235,Nuclear Trans New Guinea,TNG.Awyu-Ok,nucl1709/cent2116/awyu1265/grea1275/awyu1263/awyu1264,-5.98341,139.123
+awyu-asue,awyu-asue_mv70,asue1235,Nuclear Trans New Guinea,TNG.Awyu-Ok,nucl1709/cent2116/awyu1265/grea1275/awyu1263/awyu1264,-5.98341,139.123
+awyu-asue,awyu-asue_v75,asue1235,Nuclear Trans New Guinea,TNG.Awyu-Ok,nucl1709/cent2116/awyu1265/grea1275/awyu1263/awyu1264,-5.98341,139.123
+awyu-central-busiri,awyu-central-busiri_kl2010,cent2118,Nuclear Trans New Guinea,TNG.Awyu-Ok,nucl1709/cent2116/awyu1265/grea1275/awyu1263/awyu1264/mapp1234,-6.29363,139.693
+awyu-central-ketah,awyu-central-ketah_kl2010,cent2118,Nuclear Trans New Guinea,TNG.Awyu-Ok,nucl1709/cent2116/awyu1265/grea1275/awyu1263/awyu1264/mapp1234,-6.29363,139.693
+awyu-central-nohon,awyu-central-nohon_kl2010,cent2118,Nuclear Trans New Guinea,TNG.Awyu-Ok,nucl1709/cent2116/awyu1265/grea1275/awyu1263/awyu1264/mapp1234,-6.29363,139.693
+awyu-central-taim,awyu-central-taim_kl2010,cent2118,Nuclear Trans New Guinea,TNG.Awyu-Ok,nucl1709/cent2116/awyu1265/grea1275/awyu1263/awyu1264/mapp1234,-6.29363,139.693
+awyu-south,awyu-south_mv70,sout2941,Nuclear Trans New Guinea,TNG.Awyu-Ok,nucl1709/cent2116/awyu1265/grea1275/awyu1263/awyu1264,-7.36301,139.538
+awyu-south,awyu-south_v75,sout2941,Nuclear Trans New Guinea,TNG.Awyu-Ok,nucl1709/cent2116/awyu1265/grea1275/awyu1263/awyu1264,-7.36301,139.538
+awyu-south,awyu-south_v00,sout2941,Nuclear Trans New Guinea,TNG.Awyu-Ok,nucl1709/cent2116/awyu1265/grea1275/awyu1263/awyu1264,-7.36301,139.538
+awyu-south,awyu-south_h70,sout2941,Nuclear Trans New Guinea,TNG.Awyu-Ok,nucl1709/cent2116/awyu1265/grea1275/awyu1263/awyu1264,-7.36301,139.538
+awyu-south,awyu-south_v71,sout2941,Nuclear Trans New Guinea,TNG.Awyu-Ok,nucl1709/cent2116/awyu1265/grea1275/awyu1263/awyu1264,-7.36301,139.538
+bagupi,bagupi_z80m,bagu1252,Nuclear Trans New Guinea,TNG.Madang.Croiselles,nucl1709/mada1298/croi1234/mabu1247/hans1243/silo1242,-5.07778,145.632
+baimak,baimak_z80m,baim1245,Nuclear Trans New Guinea,TNG.Madang.Croiselles,nucl1709/mada1298/croi1234/mabu1247/hans1243/garu1247,-5.18943,145.606
+bamu,bamu_s86,bamu1257,Kiwaian,Kiwaian,kiwa1251,-7.93818,143.545
+bamu,bamu_w73,bamu1257,Kiwaian,Kiwaian,kiwa1251,-7.93818,143.545
+bargam,bargam_z80n,barg1252,Nuclear Trans New Guinea,TNG.Madang.Croiselles,nucl1709/mada1298/croi1234,-4.8723,145.756
+baruga-bareji,baruga-bareji_sm2011,bare1274,Nuclear Trans New Guinea,TNG.GreaterBinanderean,nucl1709/bina1276/bina1279/nucl1603/sout2934/coas1297/baru1268/baru1269,,
+baruga-bareji,baruga-bareji_mv70,bare1274,Nuclear Trans New Guinea,TNG.GreaterBinanderean,nucl1709/bina1276/bina1279/nucl1603/sout2934/coas1297/baru1268/baru1269,,
+baruga-tafota,baruga-tafota_sm2011,tafo1238,Nuclear Trans New Guinea,TNG.GreaterBinanderean,nucl1709/bina1276/bina1279/nucl1603/sout2934/coas1297/baru1268/baru1269,,
+bau,bau_z80m,bauu1244,Nuclear Trans New Guinea,TNG.Madang.Croiselles,nucl1709/mada1298/croi1234/mabu1247/gumm1240/pani1263,-5.26465,145.611
+bauwaki,bauwaki_sil-1973,bauw1240,Mailuan,Mailuan,mail1249/bauw1241,-9.82577,148.815
+beami,beami_s86,beam1240,Bosavi,Bosavi,bosa1245/etor1234,-6.14949,142.508
+beami,beami_mv70,beam1240,Bosavi,Bosavi,bosa1245/etor1234,-6.14949,142.508
+benabena,benabena_s78,bena1264,Nuclear Trans New Guinea,TNG.Kainantu-Goroka,nucl1709/kain1273/goro1272/nucl1760/nucl1756,-6.09974,145.534
+bepour,bepour_z80n,bepo1240,Nuclear Trans New Guinea,TNG.Madang.Croiselles,nucl1709/mada1298/croi1234/grea1298/nort3379/kumi1250/kumi1249,-4.5985,145.442
+bilakura,bilakura_z80n,bila1257,Nuclear Trans New Guinea,TNG.Madang.Croiselles,nucl1709/mada1298/croi1234/grea1298/nort3379/numu1240/kari1319,-4.93116,145.559
+bimin-fagobiw,bimin-fagobiw_vcs2010,bimi1240,Nuclear Trans New Guinea,TNG.Awyu-Ok,nucl1709/cent2116/awyu1265/okok1235/okkk1242/moun1253,-5.38732,142.04
+bimin-sengen,bimin-sengen_vcs2010,bimi1240,Nuclear Trans New Guinea,TNG.Awyu-Ok,nucl1709/cent2116/awyu1265/okok1235/okkk1242/moun1253,-5.38732,142.04
+binahari,binahari_sil-1985,bina1275,Mailuan,Mailuan,mail1249/bina1273,-10.0874,148.835
+binandere,binandere_mv70,bina1278,Nuclear Trans New Guinea,TNG.GreaterBinanderean,nucl1709/bina1276/bina1279/nucl1603/bina1277,,
+binandere,binandere_sm2011,bina1278,Nuclear Trans New Guinea,TNG.GreaterBinanderean,nucl1709/bina1276/bina1279/nucl1603/bina1277,,
+binandere,binandere_w69,bina1278,Nuclear Trans New Guinea,TNG.GreaterBinanderean,nucl1709/bina1276/bina1279/nucl1603/bina1277,,
+biyom,biyom_z80s,biyo1244,Nuclear Trans New Guinea,TNG.Madang.RaiCoast,nucl1709/mada1298/raic1241/unun9972,-5.79929,145.348
+bogaya,bogaya_s73,boga1247,Bogaya,Bogaya,Bogaya,-5.54487,142.255
+bogaya,bogaya_s86,boga1247,Bogaya,Bogaya,Bogaya,-5.54487,142.255
+bongu,bongu_z80r,bong1291,Nuclear Trans New Guinea,TNG.Madang.RaiCoast,nucl1709/mada1298/raic1241/mind1258/lowe1462/coas1332,-5.50519,145.806
+bongu,bongu_mm1871,bong1291,Nuclear Trans New Guinea,TNG.Madang.RaiCoast,nucl1709/mada1298/raic1241/mind1258/lowe1462/coas1332,-5.50519,145.806
+borong,borong_mv70,boro1279,Nuclear Trans New Guinea,TNG.FH.Huon,nucl1709/fini1244/huon1246/west2795/rawl1234/pind1245/koso1246,-6.56688,147.511
+borong,borong_m67,boro1279,Nuclear Trans New Guinea,TNG.FH.Huon,nucl1709/fini1244/huon1246/west2795/rawl1234/pind1245/koso1246,-6.56688,147.511
+brem,brem_z80n,brem1238,Nuclear Trans New Guinea,TNG.Madang.Croiselles,nucl1709/mada1298/croi1234/grea1298/nort3379/mane1269,-4.67372,145.562
+burum,burum_mv70,buru1306,Nuclear Trans New Guinea,TNG.FH.Huon,nucl1709/fini1244/huon1246/west2795/rawl1234/pind1245/koso1246,-6.51663,147.333
+burum,burum_m67,buru1306,Nuclear Trans New Guinea,TNG.FH.Huon,nucl1709/fini1244/huon1246/west2795/rawl1234/pind1245/koso1246,-6.51663,147.333
+citak-citak-senggo,citak-citak-senggo_v80,seng1282,Nuclear Trans New Guinea,TNG.Asmat,nucl1709/cent2116/asma1256/asma1257/cita1246/cita1245,,
+daga,daga_sil-1965c,daga1275,Dagan,Dagan,daga1274/cent2401/sout3381,-9.9747,149.263
+danaru,danaru_z80r,dana1254,Nuclear Trans New Guinea,TNG.Madang.RaiCoast,nucl1709/mada1298/raic1241/peka1243/urig1241,-5.53634,145.457
+dani-lower-grand-valley-tangma,dani-lower-grand-valley-tangma_b67,lowe1415,Nuclear Trans New Guinea,TNG.Dani,nucl1709/dani1287/cent2233/gran1246/sout3374,-4.25684,138.992
+dani-western,dani-western_v75,west2594,Nuclear Trans New Guinea,TNG.Dani,nucl1709/dani1287/cent2233,-3.77127,138.217
+dani-western,dani-western_c97,west2594,Nuclear Trans New Guinea,TNG.Dani,nucl1709/dani1287/cent2233,-3.77127,138.217
+dano-asaro,dano-asaro_sil-1974,dano1240,Nuclear Trans New Guinea,TNG.Kainantu-Goroka,nucl1709/kain1273/goro1272/nucl1760/gahu1246,-5.92188,145.254
+dano-asaro,dano-asaro_s78,dano1240,Nuclear Trans New Guinea,TNG.Kainantu-Goroka,nucl1709/kain1273/goro1272/nucl1760/gahu1246,-5.92188,145.254
+dedua,dedua_mv70,dedu1240,Nuclear Trans New Guinea,TNG.FH.Huon,nucl1709/fini1244/huon1246/west2795/rawl1234/pind1245,-6.38206,147.627
+dedua,dedua_m67,dedu1240,Nuclear Trans New Guinea,TNG.FH.Huon,nucl1709/fini1244/huon1246/west2795/rawl1234/pind1245,-6.38206,147.627
+dima,dima_sil-1973c,dima1252,Dagan,Dagan,daga1274/cent2401,-9.70322,149.605
+doromu-aramaika,doromu-aramaika_d70,doro1266,Manubaran,Manubaran,manu1261,-9.56687,147.986
+doromu-bareika,doromu-bareika_d70,doro1266,Manubaran,Manubaran,manu1261,-9.56687,147.986
+doromu-lofaika,doromu-lofaika_d70,doro1266,Manubaran,Manubaran,manu1261,-9.56687,147.986
+duna,duna_mv70,duna1248,Duna,Duna,Duna,-5.41439,142.475
+duna,duna_s73,duna1248,Duna,Duna,Duna,-5.41439,142.475
+duna,duna_s86,duna1248,Duna,Duna,Duna,-5.41439,142.475
+enga,enga_f75,enga1252,Nuclear Trans New Guinea,TNG.Enga-Kewa-Huli,nucl1709/enga1254/enga1251,-5.45619,143.685
+enga,enga_la73,enga1252,Nuclear Trans New Guinea,TNG.Enga-Kewa-Huli,nucl1709/enga1254/enga1251,-5.45619,143.685
+enga-laiagam,enga-laiagam_dc85,laia1242,Nuclear Trans New Guinea,TNG.Enga-Kewa-Huli,nucl1709/enga1254/enga1251/enga1252,,
+enga-lapalama,enga-lapalama_dc85,lapa1247,Nuclear Trans New Guinea,TNG.Enga-Kewa-Huli,nucl1709/enga1254/enga1251/enga1252,,
+enga-sari,enga-sari_dc85,sari1248,Nuclear Trans New Guinea,TNG.Enga-Kewa-Huli,nucl1709/enga1254/enga1251/enga1252,,
+enga-wapi,enga-wapi_dc85,enga1252,Nuclear Trans New Guinea,TNG.Enga-Kewa-Huli,nucl1709/enga1254/enga1251,-5.45619,143.685
+ewage-notu,ewage-notu_mv70,ewag1241,Nuclear Trans New Guinea,TNG.GreaterBinanderean,nucl1709/bina1276/bina1279/nucl1603/sout2934/coas1297,-8.68756,148.405
+ewage-notu,ewage-notu_sm2011,ewag1241,Nuclear Trans New Guinea,TNG.GreaterBinanderean,nucl1709/bina1276/bina1279/nucl1603/sout2934/coas1297,-8.68756,148.405
+ewage-notu,ewage-notu_w69,ewag1241,Nuclear Trans New Guinea,TNG.GreaterBinanderean,nucl1709/bina1276/bina1279/nucl1603/sout2934/coas1297,-8.68756,148.405
+faita,faita_z80s,fait1240,Nuclear Trans New Guinea,TNG.Madang.Kalamic-SouthAdelbert,nucl1709/mada1298/kala1403/sout3148/soge1235/east2767,-5.59947,145.298
+faiwol-dimtikin,faiwol-dimtikin_vcs2010,faiw1243,Nuclear Trans New Guinea,TNG.Awyu-Ok,nucl1709/cent2116/awyu1265/okok1235/okkk1242/moun1253,-5.4967,141.656
+faiwol-lowbip,faiwol-lowbip_vcs2010,faiw1243,Nuclear Trans New Guinea,TNG.Awyu-Ok,nucl1709/cent2116/awyu1265/okok1235/okkk1242/moun1253,-5.4967,141.656
+faiwol-selbang,faiwol-selbang_vcs2010,faiw1243,Nuclear Trans New Guinea,TNG.Awyu-Ok,nucl1709/cent2116/awyu1265/okok1235/okkk1242/moun1253,-5.4967,141.656
+fembe,fembe_s73,femb1238,East Strickland,East Strickland,east2433,-5.71596,142.254
+fembe,fembe_s86,femb1238,East Strickland,East Strickland,east2433,-5.71596,142.254
+fore,fore_s78,fore1270,Nuclear Trans New Guinea,TNG.Kainantu-Goroka,nucl1709/kain1273/goro1272/nucl1760/fore1273,-6.64473,145.5065
+fuyug,fuyug_sil-1975d,fuyu1242,Fuyug,Fuyug,Fuyug,-8.6371,147.312
+fuyug,fuyug_sil-1973,fuyu1242,Fuyug,Fuyug,Fuyug,-8.6371,147.312
+gadsup,gadsup_s78,gads1258,Nuclear Trans New Guinea,TNG.Kainantu-Goroka,nucl1709/kain1273/kain1274/gauw1235/gads1260,-6.31631,145.997
+gaina,gaina_sm2011,gain1243,Nuclear Trans New Guinea,TNG.GreaterBinanderean,nucl1709/bina1276/bina1279/nucl1603/sout2934/coas1297/gaen1235,-9.14409,148.59
+gaina,gaina_mv70,gain1243,Nuclear Trans New Guinea,TNG.GreaterBinanderean,nucl1709/bina1276/bina1279/nucl1603/sout2934/coas1297/gaen1235,-9.14409,148.59
+gaina,gaina_w69,gain1243,Nuclear Trans New Guinea,TNG.GreaterBinanderean,nucl1709/bina1276/bina1279/nucl1603/sout2934/coas1297/gaen1235,-9.14409,148.59
+gal,gal_z80m,gall1278,Nuclear Trans New Guinea,TNG.Madang.Croiselles,nucl1709/mada1298/croi1234/mabu1247/hans1243/garu1247,-5.16351,145.623
+ganglau,ganglau_z80r,gang1270,Nuclear Trans New Guinea,TNG.Madang.RaiCoast,nucl1709/mada1298/raic1241/yaga1258,-5.57945,146.1305
+garus,garus_z80m,garu1246,Nuclear Trans New Guinea,TNG.Madang.Croiselles,nucl1709/mada1298/croi1234/mabu1247/hans1243/remp1242,-4.9222,145.683
+gavak,gavak_z80n,dimi1244,Nuclear Trans New Guinea,TNG.Madang.Croiselles,nucl1709/mada1298/croi1234/grea1298/nort3379,-4.8296,145.676
+gende,gende_s56,gend1249,Nuclear Trans New Guinea,TNG.Kainantu-Goroka,nucl1709/kain1273/goro1272,-5.67528,145.177
+gende,gende_s78,gend1249,Nuclear Trans New Guinea,TNG.Kainantu-Goroka,nucl1709/kain1273/goro1272,-5.67528,145.177
+gimi,gimi_s78,gimi1243,Nuclear Trans New Guinea,TNG.Kainantu-Goroka,nucl1709/kain1273/goro1272/nucl1760/fore1273,-6.42097,145.214
+girawa,girawa_z80m,gira1247,Nuclear Trans New Guinea,TNG.Madang.Croiselles,nucl1709/mada1298/croi1234/mabu1247/koko1271,-5.35342,145.423
+gobasi-bibo,gobasi-bibo_s73,goba1246,East Strickland,East Strickland,east2433/kubo1241,-6.48678,142.201
+gobasi-bibo,gobasi-bibo_mv70,goba1246,East Strickland,East Strickland,east2433/kubo1241,-6.48678,142.201
+gobasi-honibo,gobasi-honibo_s73,honi1245,East Strickland,East Strickland,east2433/kubo1241/goba1246,,
+gobasi-honibo,gobasi-honibo_s86,honi1245,East Strickland,East Strickland,east2433/kubo1241/goba1246,,
+gumalu,gumalu_z80m,guma1255,Nuclear Trans New Guinea,TNG.Madang.Croiselles,nucl1709/mada1298/croi1234/mabu1247/gumm1240,-5.22189,145.618
+huli,huli_sil-1992,huli1244,Nuclear Trans New Guinea,TNG.Enga-Kewa-Huli,nucl1709/enga1254/kewa1249,-5.97212,142.963
+huli,huli_f75,huli1244,Nuclear Trans New Guinea,TNG.Enga-Kewa-Huli,nucl1709/enga1254/kewa1249,-5.97212,142.963
+humene,humene_d70,hume1246,Kwalean,Kwalean,kwal1257/hume1245,-9.70693,147.562
+hunjara-kaina-ke,hunjara-kaina-ke_sm2011,hunj1241,Nuclear Trans New Guinea,TNG.GreaterBinanderean,nucl1709/bina1276/bina1279/nucl1603/sout2934/orok1268,-8.92,147.9
+inoke-yate,inoke-yate_s78,inok1238,Nuclear Trans New Guinea,TNG.Kainantu-Goroka,nucl1709/kain1273/goro1272/nucl1760/nucl1756/kama1374,-6.32311,145.539
+isabi,isabi_z80s,isab1240,Nuclear Trans New Guinea,TNG.Kainantu-Goroka,nucl1709/kain1273/goro1272/unun9977,-5.83809,145.462
+isebe,isebe_z80m,iseb1246,Nuclear Trans New Guinea,TNG.Madang.Croiselles,nucl1709/mada1298/croi1234/mabu1247/gumm1240/pani1263,-5.20719,145.691
+jilim,jilim_z80r,jili1241,Nuclear Trans New Guinea,TNG.Madang.RaiCoast,nucl1709/mada1298/raic1241/mind1258/uppe1484,-5.56611,145.706
+kalam,kalam_p2013,kala1397,Nuclear Trans New Guinea,TNG.Madang.Kalamic-SouthAdelbert,nucl1709/mada1298/kala1403/kala1404/etpt1234,-5.25216,144.585
+kaluli,kaluli_s86,kalu1248,Bosavi,Bosavi,bosa1245/bosa1246/kalu1249,-6.45932,142.788
+kaluli,kaluli_franklin-and-v73,kalu1248,Bosavi,Bosavi,bosa1245/bosa1246/kalu1249,-6.45932,142.788
+kamano,kamano_s78,kama1370,Nuclear Trans New Guinea,TNG.Kainantu-Goroka,nucl1709/kain1273/goro1272/nucl1760/nucl1756/kama1374,-6.25829,145.728
+kamula,kamula_r76,kamu1260,Kamula-Elevala,Kamula-Elevala,kamu1264,-7.28798,142.639
+kamula,kamula_s86,kamu1260,Kamula-Elevala,Kamula-Elevala,kamu1264,-7.28798,142.639
+kamula,kamula_d2010,kamu1260,Kamula-Elevala,Kamula-Elevala,kamu1264,-7.28798,142.639
+kare,kare_z80m,kare1341,Nuclear Trans New Guinea,TNG.Madang.Croiselles,nucl1709/mada1298/croi1234/mabu1247,-5.07674,145.499
+karoto,karoto_sm2011,gain1243,Nuclear Trans New Guinea,TNG.GreaterBinanderean,nucl1709/bina1276/bina1279/nucl1603/sout2934/coas1297/gaen1235,-9.14409,148.59
+kasua,kasua_franklin-and-v73,kasu1251,Bosavi,Bosavi,bosa1245/bosa1246,-6.64861,142.993
+kasua,kasua_s86,kasu1251,Bosavi,Bosavi,bosa1245/bosa1246,-6.64861,142.993
+kate,kate_m67,kate1253,Nuclear Trans New Guinea,TNG.FH.Huon,nucl1709/fini1244/huon1246/east2705/tran1296/huon1247/kate1254,-6.4795,147.757
+kaure,kaure_v75,kaur1271,Kaure-Kosare,Kaure-Kosare,kaur1274,-3.39188,140.14
+kaure,kaure_v71,kaur1271,Kaure-Kosare,Kaure-Kosare,kaur1274,-3.39188,140.14
+kaure,kaure_c97,kaur1271,Kaure-Kosare,Kaure-Kosare,kaur1274,-3.39188,140.14
+kein,kein_z80m,kein1239,Nuclear Trans New Guinea,TNG.Madang.Croiselles,nucl1709/mada1298/croi1234/mabu1247/koko1271,-5.3373,145.483
+kesawai,kesawai_z80r,kesa1244,Nuclear Trans New Guinea,TNG.Madang.RaiCoast,nucl1709/mada1298/raic1241/evap1240/kesa1245,-5.76797,145.58
+kobol,kobol_z80n,kobo1248,Nuclear Trans New Guinea,TNG.Madang.Croiselles,nucl1709/mada1298/croi1234/omos1240,-4.79614,145.284
+kobon,kobon_dc85,kobo1249,Nuclear Trans New Guinea,TNG.Madang.Kalamic-SouthAdelbert,nucl1709/mada1298/kala1403/kala1404,-5.16446,144.46
+kobon,kobon_p2013,kobo1249,Nuclear Trans New Guinea,TNG.Madang.Kalamic-SouthAdelbert,nucl1709/mada1298/kala1403/kala1404,-5.16446,144.46
+komba,komba_mv70,komb1273,Nuclear Trans New Guinea,TNG.FH.Huon,nucl1709/fini1244/huon1246/west2795/crom1234/timb1264/sele1251,-6.16163,147.28
+komba,komba_m67,komb1273,Nuclear Trans New Guinea,TNG.FH.Huon,nucl1709/fini1244/huon1246/west2795/crom1234/timb1264/sele1251,-6.16163,147.28
+komba-anda,komba-anda_s76,komb1273,Nuclear Trans New Guinea,TNG.FH.Huon,nucl1709/fini1244/huon1246/west2795/crom1234/timb1264/sele1251,-6.16163,147.28
+komba-gwama-north,komba-gwama-north_s76,komb1273,Nuclear Trans New Guinea,TNG.FH.Huon,nucl1709/fini1244/huon1246/west2795/crom1234/timb1264/sele1251,-6.16163,147.28
+komba-gwama-south,komba-gwama-south_s76,komb1273,Nuclear Trans New Guinea,TNG.FH.Huon,nucl1709/fini1244/huon1246/west2795/crom1234/timb1264/sele1251,-6.16163,147.28
+komba-puleng,komba-puleng_s76,komb1273,Nuclear Trans New Guinea,TNG.FH.Huon,nucl1709/fini1244/huon1246/west2795/crom1234/timb1264/sele1251,-6.16163,147.28
+komyandaret,komyandaret_h2009,komy1238,Nuclear Trans New Guinea,TNG.Awyu-Ok,nucl1709/cent2116/awyu1265/grea1275/beck1235/tsak1251,-5.25453,140.213
+korafe,korafe_sm2011,kora1294,Nuclear Trans New Guinea,TNG.GreaterBinanderean,nucl1709/bina1276/bina1279/nucl1603/sout2934/coas1297/gaen1235,-9.07,149.267
+korak,korak_z80n,kora1296,Nuclear Trans New Guinea,TNG.Madang.Croiselles,nucl1709/mada1298/croi1234/grea1298/kowa1247,-4.5998,145.514
+korowai,korowai_h2009,koro1312,Nuclear Trans New Guinea,TNG.Awyu-Ok,nucl1709/cent2116/awyu1265/grea1275/beck1235,-5.26952,140.047
+kowaki,kowaki_z80n,kowa1245,Nuclear Trans New Guinea,TNG.Madang.Croiselles,nucl1709/mada1298/croi1234/grea1298/nort3379/kumi1250/tibo1244/tibo1243,-4.63032,145.412
+kube,kube_m67,kube1244,Nuclear Trans New Guinea,TNG.FH.Huon,nucl1709/fini1244/huon1246/west2795/rawl1234/pind1245,-6.42586,147.536
+kube,kube_mv70,kube1244,Nuclear Trans New Guinea,TNG.FH.Huon,nucl1709/fini1244/huon1246/west2795/rawl1234/pind1245,-6.42586,147.536
+kubo,kubo_s73,kubo1242,East Strickland,East Strickland,east2433/kubo1241,-5.92584,142.183
+kubo,kubo_s86,kubo1242,East Strickland,East Strickland,east2433/kubo1241,-5.92584,142.183
+kubo,kubo_mv70,kubo1242,East Strickland,East Strickland,east2433/kubo1241,-5.92584,142.183
+kuman,kuman_s56,kuma1280,Nuclear Trans New Guinea,TNG.Chimbu-Wahgi,nucl1709/cent2120/simb1258/nucl1617/kuma1279,-5.90586,144.977
+kuman,kuman_t69,kuma1280,Nuclear Trans New Guinea,TNG.Chimbu-Wahgi,nucl1709/cent2120/simb1258/nucl1617/kuma1279,-5.90586,144.977
+kuni-boazi,kuni-boazi_v75,kuni1265,Anim,Anim,anim1240/mari1437/boaz1244,-6.97504,141.365
+kuni-boazi,kuni-boazi_v70,kuni1265,Anim,Anim,anim1240/mari1437/boaz1244,-6.97504,141.365
+kyaka,kyaka_dc85,kyak1244,Nuclear Trans New Guinea,TNG.Enga-Kewa-Huli,nucl1709/enga1254/enga1251,-5.52462,144.119
+lembena,lembena_dc85,lemb1266,Nuclear Trans New Guinea,TNG.Enga-Kewa-Huli,nucl1709/enga1254/enga1251,-4.99504,143.891
+lembena-maibi,lembena-maibi_dc85,lemb1266,Nuclear Trans New Guinea,TNG.Enga-Kewa-Huli,nucl1709/enga1254/enga1251,-4.99504,143.891
+lembena-yariba,lembena-yariba_dc85,lemb1266,Nuclear Trans New Guinea,TNG.Enga-Kewa-Huli,nucl1709/enga1254/enga1251,-4.99504,143.891
+lemio,lemio_z80r,lemi1243,Nuclear Trans New Guinea,TNG.Madang.RaiCoast,nucl1709/mada1298/raic1241/kabe1245,-5.61407,146.441
+maia-pila,maia-pila_z80n,maia1254,Nuclear Trans New Guinea,TNG.Madang.Croiselles,nucl1709/mada1298/croi1234/grea1298/nort3379/kauk1240,-4.50212,145.096
+maia-saki,maia-saki_z80n,maia1254,Nuclear Trans New Guinea,TNG.Madang.Croiselles,nucl1709/mada1298/croi1234/grea1298/nort3379/kauk1240,-4.50212,145.096
+mailu,mailu_s12,mail1248,Mailuan,Mailuan,mail1249,-10.3657,149.521
+mailu-asiaoro,mailu-asiaoro_t75,asia1264,Mailuan,Mailuan,mail1249/mail1248,,
+mailu-baibara,mailu-baibara_t75,baib1249,Mailuan,Mailuan,mail1249/mail1248,,
+mailu-borebo,mailu-borebo_t75,bore1246,Mailuan,Mailuan,mail1249/mail1248,,
+mailu-darava,mailu-darava_t75,dara1252,Mailuan,Mailuan,mail1249/mail1248,,
+mailu-delebai,mailu-delebai_t75,dere1243,Mailuan,Mailuan,mail1249/mail1248,,
+mailu-domara,mailu-domara_t75,doma1262,Mailuan,Mailuan,mail1249/mail1248,,
+mailu-geagea,mailu-geagea_t75,geag1239,Mailuan,Mailuan,mail1249/mail1248,,
+mailu-ilai,mailu-ilai_t75,ilai1239,Mailuan,Mailuan,mail1249/mail1248,,
+mailu-island,mailu-island_t75,isla1273,Mailuan,Mailuan,mail1249/mail1248,,
+maiwa,maiwa_sil-1973b,maiw1251,Dagan,Dagan,daga1274/cent2401,-9.69836,149.274
+maiwa,maiwa_sil-1967,maiw1251,Dagan,Dagan,daga1274/cent2401,-9.69836,149.274
+mala,mala_z80n,mala1494,Nuclear Trans New Guinea,TNG.Madang.Croiselles,nucl1709/mada1298/croi1234/grea1298/nort3379/kauk1240,-4.35889,145.04
+malas,malas_z80n,mala1495,Nuclear Trans New Guinea,TNG.Madang.Croiselles,nucl1709/mada1298/croi1234/grea1298/nort3379/mane1269,-4.76685,145.621
+male,male_z80r,male1291,Nuclear Trans New Guinea,TNG.Madang.RaiCoast,nucl1709/mada1298/raic1241/mind1258/lowe1462/inla1274,-5.49975,145.757
+mandobo-atas,mandobo-atas_v75,mand1444,Nuclear Trans New Guinea,TNG.Awyu-Ok,nucl1709/cent2116/awyu1265/grea1275/awyu1263/dumu1247/mand1473,-5.69357,140.624
+mandobo-atas,mandobo-atas_mv70,mand1444,Nuclear Trans New Guinea,TNG.Awyu-Ok,nucl1709/cent2116/awyu1265/grea1275/awyu1263/dumu1247/mand1473,-5.69357,140.624
+mandobo-atas,mandobo-atas_v00,mand1444,Nuclear Trans New Guinea,TNG.Awyu-Ok,nucl1709/cent2116/awyu1265/grea1275/awyu1263/dumu1247/mand1473,-5.69357,140.624
+mandobo-atas,mandobo-atas_h70,mand1444,Nuclear Trans New Guinea,TNG.Awyu-Ok,nucl1709/cent2116/awyu1265/grea1275/awyu1263/dumu1247/mand1473,-5.69357,140.624
+mape,mape_m67,mape1249,Nuclear Trans New Guinea,TNG.FH.Huon,nucl1709/fini1244/huon1246/east2705/tran1296/huon1247/kate1254,-6.59318,147.682
+maria,maria_d70,mari1438,Manubaran,Manubaran,manu1261,-9.92982,148.303
+maria-maiagolo,maria-maiagolo_d70,mari1438,Manubaran,Manubaran,manu1261,-9.92982,148.303
+maria-maranomu,maria-maranomu_d70,mari1438,Manubaran,Manubaran,manu1261,-9.92982,148.303
+maria-uderi,maria-uderi_d70,uder1239,Manubaran,Manubaran,manu1261/mari1438,,
+matepi,matepi_z80m,mate1260,Nuclear Trans New Guinea,TNG.Madang.Croiselles,nucl1709/mada1298/croi1234/mabu1247/hans1243/uncl1506,-5.13857,145.617
+mauwake,mauwake_z80n,mauw1238,Nuclear Trans New Guinea,TNG.Madang.Croiselles,nucl1709/mada1298/croi1234/grea1298/nort3379/kumi1250/kumi1249,-4.52416,145.394
+mawak,mawak_z80n,mawa1266,Nuclear Trans New Guinea,TNG.Madang.Croiselles,nucl1709/mada1298/croi1234/grea1298/nort3379/kumi1250/tibo1244/tibo1243,-4.61817,145.283
+mawan,mawan_z80m,mawa1267,Nuclear Trans New Guinea,TNG.Madang.Croiselles,nucl1709/mada1298/croi1234/mabu1247/hans1243/silo1242,-5.2219,145.589
+mesem,mesem_mv70,mese1244,Nuclear Trans New Guinea,TNG.FH.Huon,nucl1709/fini1244/huon1246/west2795/rawl1234/naba1257,-6.56072,147.137
+mesem,mesem_m67,mese1244,Nuclear Trans New Guinea,TNG.FH.Huon,nucl1709/fini1244/huon1246/west2795/rawl1234/naba1257,-6.56072,147.137
+miani,miani_z80n,mian1254,Nuclear Trans New Guinea,TNG.Madang.Croiselles,nucl1709/mada1298/croi1234/grea1298/nort3379/kauk1240,-4.42116,145.276
+migabac,migabac_sil-1975,miga1241,Nuclear Trans New Guinea,TNG.FH.Huon,nucl1709/fini1244/huon1246/east2705/tran1296/huon1247/moma1244,-6.33237,147.713
+migabac,migabac_mv70,miga1241,Nuclear Trans New Guinea,TNG.FH.Huon,nucl1709/fini1244/huon1246/east2705/tran1296/huon1247/moma1244,-6.33237,147.713
+migum,migum_z80r,kolo1267,Nuclear Trans New Guinea,TNG.Madang.RaiCoast,nucl1709/mada1298/raic1241/kabe1245,-5.57832,146.212
+mindik,mindik_mv70,buru1306,Nuclear Trans New Guinea,TNG.FH.Huon,nucl1709/fini1244/huon1246/west2795/rawl1234/pind1245/koso1246,-6.51663,147.333
+mindik,mindik_m67,buru1306,Nuclear Trans New Guinea,TNG.FH.Huon,nucl1709/fini1244/huon1246/west2795/rawl1234/pind1245/koso1246,-6.51663,147.333
+moere,moere_z80n,moer1240,Nuclear Trans New Guinea,TNG.Madang.Croiselles,nucl1709/mada1298/croi1234/grea1298/nort3379/kumi1250/kumi1249,-4.62246,145.458
+moresada,moresada_z80s,more1258,Nuclear Trans New Guinea,TNG.Madang.Kalamic-SouthAdelbert,nucl1709/mada1298/kala1403/sout3148/osum1243/pomo1272/anam1250,-4.57497,144.988
+mosimo,mosimo_z80m,mosi1248,Nuclear Trans New Guinea,TNG.Madang.Croiselles,nucl1709/mada1298/croi1234/mabu1247/hans1243/wama1249,-4.95226,145.605
+mulaha,mulaha_d70,mula1254,Kwalean,Kwalean,kwal1257,-9.68333,147.45
+mum,mum_z80s,mumm1238,Nuclear Trans New Guinea,TNG.Madang.Kalamic-SouthAdelbert,nucl1709/mada1298/kala1403/sout3148/soge1235/sika1264,-4.83462,145.059
+mum,mum_d2010,mumm1238,Nuclear Trans New Guinea,TNG.Madang.Kalamic-SouthAdelbert,nucl1709/mada1298/kala1403/sout3148/soge1235/sika1264,-4.83462,145.059
+mungkip,mungkip_mv70,mung1272,Nuclear Trans New Guinea,TNG.FH.Finisterre,nucl1709/fini1244/fini1245/erap1240/boan1245,-6.46208,146.747
+mungkip,mungkip_r2009,mung1272,Nuclear Trans New Guinea,TNG.FH.Finisterre,nucl1709/fini1244/fini1245/erap1240/boan1245,-6.46208,146.747
+munit,munit_z80m,muni1257,Nuclear Trans New Guinea,TNG.Madang.Croiselles,nucl1709/mada1298/croi1234/mabu1247/koko1271,-5.24329,145.548
+murupi,murupi_z80m,muru1273,Nuclear Trans New Guinea,TNG.Madang.Croiselles,nucl1709/mada1298/croi1234/mabu1247/hans1243/wama1249,-5.0245,145.606
+musak,musak_z80s,musa1266,Nuclear Trans New Guinea,TNG.Madang.Kalamic-SouthAdelbert,nucl1709/mada1298/kala1403/sout3148/soge1235/east2767/aisi1234,-5.37407,145.197
+musar,musar_z80n,musa1265,Nuclear Trans New Guinea,TNG.Madang.Croiselles,nucl1709/mada1298/croi1234/grea1298/nort3379/kumi1250/tibo1244/tibo1243,-4.70258,145.413
+nabak,nabak_mv70,naba1256,Nuclear Trans New Guinea,TNG.FH.Huon,nucl1709/fini1244/huon1246/west2795/rawl1234/naba1257,-6.42709,146.966
+nabak,nabak_m67,naba1256,Nuclear Trans New Guinea,TNG.FH.Huon,nucl1709/fini1244/huon1246/west2795/rawl1234/naba1257,-6.42709,146.966
+nakai,nakai_h2009,naka1265,Nuclear Trans New Guinea,TNG.Awyu-Ok,nucl1709/cent2116/awyu1265/okok1235/okkk1242/tang1376,-5.19377,140.512
+nakame-dzenzen,nakame-dzenzen_r2009,naka1264,Nuclear Trans New Guinea,TNG.FH.Finisterre,nucl1709/fini1244/fini1245/erap1240/boan1245,-6.41424,146.782
+nakame-munguleng,nakame-munguleng_r2009,naka1264,Nuclear Trans New Guinea,TNG.FH.Finisterre,nucl1709/fini1244/fini1245/erap1240/boan1245,-6.41424,146.782
+nakame-popof,nakame-popof_r2009,naka1264,Nuclear Trans New Guinea,TNG.FH.Finisterre,nucl1709/fini1244/fini1245/erap1240/boan1245,-6.41424,146.782
+nakame-sikalan,nakame-sikalan_r2009,naka1264,Nuclear Trans New Guinea,TNG.FH.Finisterre,nucl1709/fini1244/fini1245/erap1240/boan1245,-6.41424,146.782
+nakame-sokan,nakame-sokan_r2009,naka1264,Nuclear Trans New Guinea,TNG.FH.Finisterre,nucl1709/fini1244/fini1245/erap1240/boan1245,-6.41424,146.782
+nakame-wasin,nakame-wasin_r2009,naka1264,Nuclear Trans New Guinea,TNG.FH.Finisterre,nucl1709/fini1244/fini1245/erap1240/boan1245,-6.41424,146.782
+nake,nake_z80m,nake1240,Nuclear Trans New Guinea,TNG.Madang.Croiselles,nucl1709/mada1298/croi1234/mabu1247/hans1243/uncl1506,-5.09087,145.655
+nek-goambot,nek-goambot_r2009,nekk1240,Nuclear Trans New Guinea,TNG.FH.Finisterre,nucl1709/fini1244/fini1245/erap1240/boan1245/nekn1234,-6.37697,146.841
+nend,nend_z80s,nend1239,Nuclear Trans New Guinea,TNG.Madang.Kalamic-SouthAdelbert,nucl1709/mada1298/kala1403/sout3148/soge1235/apal1258/grea1297/atan1241,-5.04271,144.886
+nend,nend_d2010,nend1239,Nuclear Trans New Guinea,TNG.Madang.Kalamic-SouthAdelbert,nucl1709/mada1298/kala1403/sout3148/soge1235/apal1258/grea1297/atan1241,-5.04271,144.886
+nobonob,nobonob_z80m,nobo1238,Nuclear Trans New Guinea,TNG.Madang.Croiselles,nucl1709/mada1298/croi1234/mabu1247/hans1243/garu1247,-5.06952,145.712
+nuk-tamben,nuk-tamben_r2009,nukk1240,Nuclear Trans New Guinea,TNG.FH.Finisterre,nucl1709/fini1244/fini1245/erap1240/boan1245/nekn1234,-6.40741,146.875
+nuk-tunam,nuk-tunam_r2009,nukk1240,Nuclear Trans New Guinea,TNG.FH.Finisterre,nucl1709/fini1244/fini1245/erap1240/boan1245/nekn1234,-6.40741,146.875
+ogea,ogea_z80r,ogea1238,Nuclear Trans New Guinea,TNG.Madang.RaiCoast,nucl1709/mada1298/raic1241/nuru1240,-5.37766,145.71
+onabasulu,onabasulu_s73,onob1238,Bosavi,Bosavi,bosa1245/bosa1246,-6.30876,142.776
+onabasulu,onabasulu_s86,onob1238,Bosavi,Bosavi,bosa1245/bosa1246,-6.30876,142.776
+ono,ono_m67,onoo1246,Nuclear Trans New Guinea,TNG.FH.Huon,nucl1709/fini1244/huon1246/east2705/kala1410,-6.19223,147.579
+orokaiva-sose,orokaiva-sose_sm2011,orok1269,Nuclear Trans New Guinea,TNG.GreaterBinanderean,nucl1709/bina1276/bina1279/nucl1603/sout2934/orok1268,-8.79019,148.09
+pal,pal_z80n,pall1244,Nuclear Trans New Guinea,TNG.Madang.Croiselles,nucl1709/mada1298/croi1234/omos1240,-4.756,145.24
+pamosu,pamosu_z80n,pamo1253,Nuclear Trans New Guinea,TNG.Madang.Croiselles,nucl1709/mada1298/croi1234/grea1298/nort3379/kumi1250/tibo1244/tibo1243,-4.69874,145.288
+panim,panim_z80m,pani1258,Nuclear Trans New Guinea,TNG.Madang.Croiselles,nucl1709/mada1298/croi1234/mabu1247/gumm1240/pani1263,-5.21388,145.752
+parawen,parawen_z80n,para1307,Nuclear Trans New Guinea,TNG.Madang.Croiselles,nucl1709/mada1298/croi1234/grea1298/nort3379/numu1240/yara1256,-5.0112,145.418
+pare,pare_s73,pare1271,Kamula-Elevala,Kamula-Elevala,kamu1264/awin1249,-6.46878,141.658
+pare,pare_s86,pare1271,Kamula-Elevala,Kamula-Elevala,kamu1264/awin1249,-6.46878,141.658
+pare,pare_mv70,pare1271,Kamula-Elevala,Kamula-Elevala,kamu1264/awin1249,-6.46878,141.658
+pawaia,pawaia_t69,pawa1255,Pawaia,Pawaia,Pawaia,-6.88021,145.081
+pawaia,pawaia_m73,pawa1255,Pawaia,Pawaia,Pawaia,-6.88021,145.081
+paynamar,paynamar_z80s,payn1244,Nuclear Trans New Guinea,TNG.Madang.Kalamic-SouthAdelbert,nucl1709/mada1298/kala1403/sout3148/soge1235/apal1258/grea1297,-4.94303,144.879
+pulabu,pulabu_z80r,pula1267,Nuclear Trans New Guinea,TNG.Madang.RaiCoast,nucl1709/mada1298/raic1241/kabe1245,-5.59558,145.738
+rapting,rapting_z80m,rapt1240,Nuclear Trans New Guinea,TNG.Madang.Croiselles,nucl1709/mada1298/croi1234/mabu1247/hans1243/uncl1506,-4.99351,145.671
+rempi,rempi_z80m,remp1241,Nuclear Trans New Guinea,TNG.Madang.Croiselles,nucl1709/mada1298/croi1234/mabu1247/hans1243/remp1242,-5.02487,145.782
+rerau,rerau_z80r,rera1240,Nuclear Trans New Guinea,TNG.Madang.RaiCoast,nucl1709/mada1298/raic1241/mind1258/uppe1484,-5.51361,145.716
+saep,saep_z80r,saep1240,Nuclear Trans New Guinea,TNG.Madang.RaiCoast,nucl1709/mada1298/raic1241/yaga1258,-5.64812,146.078
+sam,sam_z80r,samm1244,Nuclear Trans New Guinea,TNG.Madang.RaiCoast,nucl1709/mada1298/raic1241/mind1258/lowe1462/inla1274,-5.55572,145.813
+sam-buan,sam-buan_rj2003,samm1244,Nuclear Trans New Guinea,TNG.Madang.RaiCoast,nucl1709/mada1298/raic1241/mind1258/lowe1462/inla1274,-5.55572,145.813
+sam-songum,sam-songum_rj2003,samm1244,Nuclear Trans New Guinea,TNG.Madang.RaiCoast,nucl1709/mada1298/raic1241/mind1258/lowe1462/inla1274,-5.55572,145.813
+sam-wongbe,sam-wongbe_rj2003,samm1244,Nuclear Trans New Guinea,TNG.Madang.RaiCoast,nucl1709/mada1298/raic1241/mind1258/lowe1462/inla1274,-5.55572,145.813
+samberigi,samberigi_f75,samb1321,Nuclear Trans New Guinea,TNG.Enga-Kewa-Huli,nucl1709/enga1254/kewa1249/anga1291,-6.7028,143.951
+samberigi,samberigi_franklin-and-v73,samb1321,Nuclear Trans New Guinea,TNG.Enga-Kewa-Huli,nucl1709/enga1254/kewa1249/anga1291,-6.7028,143.951
+samo,samo_s73,samo1303,East Strickland,East Strickland,east2433/kubo1241,-6.15496,142.195
+samo,samo_s86,samo1303,East Strickland,East Strickland,east2433/kubo1241,-6.15496,142.195
+samo,samo_mv70,samo1303,East Strickland,East Strickland,east2433/kubo1241,-6.15496,142.195
+samosa,samosa_z80m,samo1306,Nuclear Trans New Guinea,TNG.Madang.Croiselles,nucl1709/mada1298/croi1234/mabu1247/hans1243/wama1249,-5.01391,145.537
+saruga,saruga_z80m,saru1243,Nuclear Trans New Guinea,TNG.Madang.Croiselles,nucl1709/mada1298/croi1234/mabu1247/hans1243/silo1242,-5.08824,145.578
+sausi,sausi_z80r,saus1246,Nuclear Trans New Guinea,TNG.Madang.RaiCoast,nucl1709/mada1298/raic1241/evap1240/kesa1245,-5.6873,145.492
+selepet,selepet_mv70,sele1250,Nuclear Trans New Guinea,TNG.FH.Huon,nucl1709/fini1244/huon1246/west2795/crom1234/timb1264/sele1251,-6.03532,147.234
+selepet,selepet_m67,sele1250,Nuclear Trans New Guinea,TNG.FH.Huon,nucl1709/fini1244/huon1246/west2795/crom1234/timb1264/sele1251,-6.03532,147.234
+setaman-baktamin,setaman-baktamin_vcs2010,seta1246,Nuclear Trans New Guinea,TNG.Awyu-Ok,nucl1709/cent2116/awyu1265/okok1235/okkk1242/moun1253,-5.31134,141.833
+setaman-ngisokabip,setaman-ngisokabip_vcs2010,seta1246,Nuclear Trans New Guinea,TNG.Awyu-Ok,nucl1709/cent2116/awyu1265/okok1235/okkk1242/moun1253,-5.31134,141.833
+setaman-seltamin,setaman-seltamin_vcs2010,seta1246,Nuclear Trans New Guinea,TNG.Awyu-Ok,nucl1709/cent2116/awyu1265/okok1235/okkk1242/moun1253,-5.31134,141.833
+siane,siane_s56,sian1257,Nuclear Trans New Guinea,TNG.Kainantu-Goroka,nucl1709/kain1273/goro1272/nucl1760/nucl1756,-6.13188,145.247
+siane,siane_s78,sian1257,Nuclear Trans New Guinea,TNG.Kainantu-Goroka,nucl1709/kain1273/goro1272/nucl1760/nucl1756,-6.13188,145.247
+siane,siane_sil-1987,sian1257,Nuclear Trans New Guinea,TNG.Kainantu-Goroka,nucl1709/kain1273/goro1272/nucl1760/nucl1756,-6.13188,145.247
+sihan,sihan_z80m,siha1245,Nuclear Trans New Guinea,TNG.Madang.Croiselles,nucl1709/mada1298/croi1234/mabu1247/gumm1240,-5.28029,145.574
+sileibi,sileibi_z80s,sile1255,Nuclear Trans New Guinea,TNG.Madang.Kalamic-SouthAdelbert,nucl1709/mada1298/kala1403/sout3148/soge1235/sika1264,-4.98243,145.225
+silimo,silimo_b67,sili1249,Nuclear Trans New Guinea,TNG.Dani,nucl1709/dani1287/ngal1299,-4.52544,139.003
+silopi,silopi_z80m,silo1240,Nuclear Trans New Guinea,TNG.Madang.Croiselles,nucl1709/mada1298/croi1234/mabu1247/hans1243/silo1242/silo1241,-5.12302,145.586
+sinsauru,sinsauru_z80r,sins1241,Nuclear Trans New Guinea,TNG.Madang.RaiCoast,nucl1709/mada1298/raic1241/evap1240,-5.64336,145.599
+siroi,siroi_z80r,siro1249,Nuclear Trans New Guinea,TNG.Madang.RaiCoast,nucl1709/mada1298/raic1241/kabe1245,-5.52893,145.994
+som,som_sil-1968,somm1240,Nuclear Trans New Guinea,TNG.FH.Finisterre,nucl1709/fini1244/fini1245/uruw1240/saka1297,-6.07366,146.651
+som,som_mv70,somm1240,Nuclear Trans New Guinea,TNG.FH.Finisterre,nucl1709/fini1244/fini1245/uruw1240/saka1297,-6.07366,146.651
+sop,sop_z80r,sopp1247,Nuclear Trans New Guinea,TNG.Madang.RaiCoast,nucl1709/mada1298/raic1241/peka1243,-5.49605,145.361
+southern-kiwai,southern-kiwai_w73,sout2950,Kiwaian,Kiwaian,kiwa1251/sout2949,,
+southern-kiwai,southern-kiwai_mv70,sout2950,Kiwaian,Kiwaian,kiwa1251/sout2949,,
+suena,suena_mv70,suen1241,Nuclear Trans New Guinea,TNG.GreaterBinanderean,nucl1709/bina1276/bina1279/nort2909,-7.76339,147.534
+suena,suena_sm2011,suen1241,Nuclear Trans New Guinea,TNG.GreaterBinanderean,nucl1709/bina1276/bina1279/nort2909,-7.76339,147.534
+suena,suena_w69,suen1241,Nuclear Trans New Guinea,TNG.GreaterBinanderean,nucl1709/bina1276/bina1279/nort2909,-7.76339,147.534
+sumau,sumau_z80r,suma1270,Nuclear Trans New Guinea,TNG.Madang.RaiCoast,nucl1709/mada1298/raic1241/peka1243,-5.48556,145.474
+tairora-north,tairora-north_s78,nort2920,Nuclear Trans New Guinea,TNG.Kainantu-Goroka,nucl1709/kain1273/kain1274/tair1260,-6.51563,145.959
+tairora-south,tairora-south_sil-1976,sout2943,Nuclear Trans New Guinea,TNG.Kainantu-Goroka,nucl1709/kain1273/kain1274/tair1260,-6.35337,145.883
+tangko,tangko_h2009,tang1353,Nuclear Trans New Guinea,TNG.Awyu-Ok,nucl1709/cent2116/awyu1265/okok1235/okkk1242/tang1376,-5.13343,140.269
+tauade,tauade_sil-1980,taua1242,Tauade,Tauade,Tauade,-8.3486,147.094
+tauya,tauya_z80s,tauy1241,Nuclear Trans New Guinea,TNG.Madang.RaiCoast,nucl1709/mada1298/raic1241/unun9972,-5.74255,145.366
+timbe,timbe_m67,timb1251,Nuclear Trans New Guinea,TNG.FH.Huon,nucl1709/fini1244/huon1246/west2795/crom1234/timb1264,-6.06875,147.057
+timbe,timbe_mv70,timb1251,Nuclear Trans New Guinea,TNG.FH.Huon,nucl1709/fini1244/huon1246/west2795/crom1234/timb1264,-6.06875,147.057
+tobo,tobo_m67,tobo1251,Nuclear Trans New Guinea,TNG.FH.Huon,nucl1709/fini1244/huon1246/west2795/rawl1234/pind1245/kube1244,-6.36263,147.376
+tobo,tobo_mv70,tobo1251,Nuclear Trans New Guinea,TNG.FH.Huon,nucl1709/fini1244/huon1246/west2795/rawl1234/pind1245/kube1244,-6.36263,147.376
+tokano,tokano_sil-1965,toka1244,Nuclear Trans New Guinea,TNG.Kainantu-Goroka,nucl1709/kain1273/goro1272/nucl1760/gahu1246,-6.05047,145.298
+tsaukambo,tsaukambo_h2009,tsak1250,Nuclear Trans New Guinea,TNG.Awyu-Ok,nucl1709/cent2116/awyu1265/grea1275/beck1235/tsak1251,-5.39076,140.186
+tureture,tureture_mv70,sout2949,Kiwaian,Kiwaian,kiwa1251,-8.64889,143.244
+tureture,tureture_w73,sout2949,Kiwaian,Kiwaian,kiwa1251,-8.64889,143.244
+uare,uare_d70,uare1241,Kwalean,Kwalean,kwal1257/hume1245,-9.69571,147.687
+uare,uare_sil-1988,uare1241,Kwalean,Kwalean,kwal1257/hume1245,-9.69571,147.687
+ukuriguma,ukuriguma_z80n,ukur1240,Nuclear Trans New Guinea,TNG.Madang.Croiselles,nucl1709/mada1298/croi1234/grea1298/nort3379/numu1240/yara1256,-4.94407,145.514
+urigina,urigina_z80r,urig1240,Nuclear Trans New Guinea,TNG.Madang.RaiCoast,nucl1709/mada1298/raic1241/peka1243/urig1241,-5.58982,145.507
+usan,usan_z80n,usan1239,Nuclear Trans New Guinea,TNG.Madang.Croiselles,nucl1709/mada1298/croi1234/grea1298/nort3379/numu1240/kari1319,-4.84265,145.362
+utarmbung,utarmbung_z80s,utar1238,Nuclear Trans New Guinea,TNG.Madang.Kalamic-SouthAdelbert,nucl1709/mada1298/kala1403/sout3148/osum1243,-4.82756,144.924
+utu,utu_z80m,utuu1240,Nuclear Trans New Guinea,TNG.Madang.Croiselles,nucl1709/mada1298/croi1234/mabu1247/hans1243/silo1242/silo1241,-5.16422,145.544
+uya,uya_z80r,uyaa1238,Nuclear Trans New Guinea,TNG.Madang.RaiCoast,nucl1709/mada1298/raic1241/nuru1240,-5.32246,145.47
+uyajitaya,uyajitaya_z80r,dudu1240,Nuclear Trans New Guinea,TNG.Madang.RaiCoast,nucl1709/mada1298/raic1241/nuru1240,-5.43119,145.642
+uyajitaya-didiwala,uyajitaya-didiwala_rj2003,dudu1240,Nuclear Trans New Guinea,TNG.Madang.RaiCoast,nucl1709/mada1298/raic1241/nuru1240,-5.43119,145.642
+uyajitaya-gisi,uyajitaya-gisi_rj2003,dudu1240,Nuclear Trans New Guinea,TNG.Madang.RaiCoast,nucl1709/mada1298/raic1241/nuru1240,-5.43119,145.642
+uyajitaya-palipa,uyajitaya-palipa_rj2003,dudu1240,Nuclear Trans New Guinea,TNG.Madang.RaiCoast,nucl1709/mada1298/raic1241/nuru1240,-5.43119,145.642
+uyajitaya-palipa,uyajitaya-palipa_l2008,dudu1240,Nuclear Trans New Guinea,TNG.Madang.RaiCoast,nucl1709/mada1298/raic1241/nuru1240,-5.43119,145.642
+uyajitaya-subalulu,uyajitaya-subalulu_rj2003,dudu1240,Nuclear Trans New Guinea,TNG.Madang.RaiCoast,nucl1709/mada1298/raic1241/nuru1240,-5.43119,145.642
+uyajitaya-udibai,uyajitaya-udibai_rj2003,dudu1240,Nuclear Trans New Guinea,TNG.Madang.RaiCoast,nucl1709/mada1298/raic1241/nuru1240,-5.43119,145.642
+uyajitaya-uya,uyajitaya-uya_l2008,dudu1240,Nuclear Trans New Guinea,TNG.Madang.RaiCoast,nucl1709/mada1298/raic1241/nuru1240,-5.43119,145.642
+waboda,waboda_w73,wabo1241,Kiwaian,Kiwaian,kiwa1251,-8.41651,143.501
+waboda,waboda_mv70,wabo1241,Kiwaian,Kiwaian,kiwa1251,-8.41651,143.501
+wadaginam,wadaginam_z80s,wada1263,Nuclear Trans New Guinea,TNG.Madang.Kalamic-SouthAdelbert,nucl1709/mada1298/kala1403/sout3148/osum1243,-4.52754,144.972
+wagi,wagi_sp2011,wagi1249,Nuclear Trans New Guinea,TNG.Madang.Croiselles,nucl1709/mada1298/croi1234/mabu1247/hans1243/garu1247,-5.17834,145.726
+wagi,wagi_z80m,wagi1249,Nuclear Trans New Guinea,TNG.Madang.Croiselles,nucl1709/mada1298/croi1234/mabu1247/hans1243/garu1247,-5.17834,145.726
+wagi-foran,wagi-foran_sp2011,wagi1249,Nuclear Trans New Guinea,TNG.Madang.Croiselles,nucl1709/mada1298/croi1234/mabu1247/hans1243/garu1247,-5.17834,145.726
+wagi-kamba,wagi-kamba_sp2011,wagi1249,Nuclear Trans New Guinea,TNG.Madang.Croiselles,nucl1709/mada1298/croi1234/mabu1247/hans1243/garu1247,-5.17834,145.726
+wagi-mis,wagi-mis_sp2011,wagi1249,Nuclear Trans New Guinea,TNG.Madang.Croiselles,nucl1709/mada1298/croi1234/mabu1247/hans1243/garu1247,-5.17834,145.726
+wagi-silibob,wagi-silibob_sp2011,wagi1249,Nuclear Trans New Guinea,TNG.Madang.Croiselles,nucl1709/mada1298/croi1234/mabu1247/hans1243/garu1247,-5.17834,145.726
+walak,walak_b67,wala1269,Nuclear Trans New Guinea,TNG.Dani,nucl1709/dani1287/cent2233/gran1246/wala1275,-3.8238,138.84
+wamas,wamas_z80m,wama1247,Nuclear Trans New Guinea,TNG.Madang.Croiselles,nucl1709/mada1298/croi1234/mabu1247/hans1243/wama1249,-4.97757,145.541
+wambon,wambon_h2009,wamb1259,Nuclear Trans New Guinea,TNG.Awyu-Ok,nucl1709/cent2116/awyu1265/grea1275/awyu1263/dumu1247/ketu1239,-5.44334,140.48
+wambon,wambon_mv70,wamb1259,Nuclear Trans New Guinea,TNG.Awyu-Ok,nucl1709/cent2116/awyu1265/grea1275/awyu1263/dumu1247/ketu1239,-5.44334,140.48
+wambon,wambon_v75,wamb1259,Nuclear Trans New Guinea,TNG.Awyu-Ok,nucl1709/cent2116/awyu1265/grea1275/awyu1263/dumu1247/ketu1239,-5.44334,140.48
+wambon,wambon_v00,wamb1259,Nuclear Trans New Guinea,TNG.Awyu-Ok,nucl1709/cent2116/awyu1265/grea1275/awyu1263/dumu1247/ketu1239,-5.44334,140.48
+wambon,wambon_h70,wamb1259,Nuclear Trans New Guinea,TNG.Awyu-Ok,nucl1709/cent2116/awyu1265/grea1275/awyu1263/dumu1247/ketu1239,-5.44334,140.48
+wanambre,wanambre_z80n,wana1269,Nuclear Trans New Guinea,TNG.Madang.Croiselles,nucl1709/mada1298/croi1234/grea1298/nort3379/kumi1250/tibo1244,-4.78822,145.419
+wanggom,wanggom_h2009,wang1299,Nuclear Trans New Guinea,TNG.Awyu-Ok,nucl1709/cent2116/awyu1265/grea1275/awyu1263/ndei1235,-5.60094,140.194
+waskia,waskia_z80n,wask1241,Nuclear Trans New Guinea,TNG.Madang.Croiselles,nucl1709/mada1298/croi1234/grea1298/kowa1247,-4.57978,145.979
+watiwa,watiwa_z80r,dump1243,Nuclear Trans New Guinea,TNG.Madang.RaiCoast,nucl1709/mada1298/raic1241/evap1240,-5.82002,145.655
+waube,waube_z80r,kwat1244,Nuclear Trans New Guinea,TNG.Madang.RaiCoast,nucl1709/mada1298/raic1241/nuru1240,-5.53799,145.629
+west-kewa,west-kewa_f75,west2599,Nuclear Trans New Guinea,TNG.Enga-Kewa-Huli,nucl1709/enga1254/kewa1249/anga1291/anga1313/kewa1250,-6.32097,143.73
+west-kewa,west-kewa_franklin-and-v73,west2599,Nuclear Trans New Guinea,TNG.Enga-Kewa-Huli,nucl1709/enga1254/kewa1249/anga1291/anga1313/kewa1250,-6.32097,143.73
+wiru,wiru_f75,wiru1244,Wiru,Wiru,Wiru,-6.35863,144.214
+wiru,wiru_f73,wiru1244,Wiru,Wiru,Wiru,-6.35863,144.214
+yaben,yaben_z80n,yabe1255,Nuclear Trans New Guinea,TNG.Madang.Croiselles,nucl1709/mada1298/croi1234/grea1298/nort3379/numu1240/kari1319,-4.90868,145.361
+yabong,yabong_z80r,yabo1240,Nuclear Trans New Guinea,TNG.Madang.RaiCoast,nucl1709/mada1298/raic1241/yaga1258,-5.61718,146.2065
+yagaria,yagaria_s78,yaga1260,Nuclear Trans New Guinea,TNG.Kainantu-Goroka,nucl1709/kain1273/goro1272/nucl1760/nucl1756/kama1374,-6.32432,145.388
+yagaria-hira,yagaria-hira_sil-2000c,hira1246,Nuclear Trans New Guinea,TNG.Kainantu-Goroka,nucl1709/kain1273/goro1272/nucl1760/nucl1756/kama1374/yaga1260,,
+yagaria-hira,yagaria-hira_sil-2000,hira1246,Nuclear Trans New Guinea,TNG.Kainantu-Goroka,nucl1709/kain1273/goro1272/nucl1760/nucl1756/kama1374/yaga1260,,
+yali-angguruk,yali-angguruk_b67,angg1239,Nuclear Trans New Guinea,TNG.Dani,nucl1709/dani1287/ngal1299/yali1257,-4.0836,139.457
+yangulam,yangulam_z80r,yang1298,Nuclear Trans New Guinea,TNG.Madang.RaiCoast,nucl1709/mada1298/raic1241/nuru1240,-5.52697,145.858
+yaqay,yaqay_mv70,yaqa1246,Anim,Anim,anim1240/mari1437/yaqa1245,-6.66632,139.249
+yaqay,yaqay_v75,yaqa1246,Anim,Anim,anim1240/mari1437/yaqa1245,-6.66632,139.249
+yaqay,yaqay_v71,yaqa1246,Anim,Anim,anim1240/mari1437/yaqa1245,-6.66632,139.249
+yaqay-kogo,yaqay-kogo_kl2010,yaqa1246,Anim,Anim,anim1240/mari1437/yaqa1245,-6.66632,139.249
+yaqay-kotup,yaqay-kotup_kl2010,yaqa1246,Anim,Anim,anim1240/mari1437/yaqa1245,-6.66632,139.249
+yaqay-wairu,yaqay-wairu_kl2010,yaqa1246,Anim,Anim,anim1240/mari1437/yaqa1245,-6.66632,139.249
+yaqay-wanggate,yaqay-wanggate_kl2010,yaqa1246,Anim,Anim,anim1240/mari1437/yaqa1245,-6.66632,139.249
+yarawata,yarawata_z80n,yara1250,Nuclear Trans New Guinea,TNG.Madang.Croiselles,nucl1709/mada1298/croi1234/grea1298/nort3379/numu1240/yara1256,-4.93943,145.454
+yaweyuha,yaweyuha_s78,yawe1241,Nuclear Trans New Guinea,TNG.Kainantu-Goroka,nucl1709/kain1273/goro1272/nucl1760/nucl1756,-6.1868,145.359
+yaweyuha,yaweyuha_sil-1965b,yawe1241,Nuclear Trans New Guinea,TNG.Kainantu-Goroka,nucl1709/kain1273/goro1272/nucl1760/nucl1756,-6.1868,145.359
+yekora,yekora_mv70,yeko1240,Nuclear Trans New Guinea,TNG.GreaterBinanderean,nucl1709/bina1276/bina1279,-7.86248,147.463
+yekora,yekora_sm2011,yeko1240,Nuclear Trans New Guinea,TNG.GreaterBinanderean,nucl1709/bina1276/bina1279,-7.86248,147.463
+yekora,yekora_w69,yeko1240,Nuclear Trans New Guinea,TNG.GreaterBinanderean,nucl1709/bina1276/bina1279,-7.86248,147.463
+yenimu,yenimu_mv70,sout2941,Nuclear Trans New Guinea,TNG.Awyu-Ok,nucl1709/cent2116/awyu1265/grea1275/awyu1263/awyu1264,-7.36301,139.538
+yenimu,yenimu_h70,sout2941,Nuclear Trans New Guinea,TNG.Awyu-Ok,nucl1709/cent2116/awyu1265/grea1275/awyu1263/awyu1264,-7.36301,139.538
+yoidik,yoidik_z80m,yoid1240,Nuclear Trans New Guinea,TNG.Madang.Croiselles,nucl1709/mada1298/croi1234/mabu1247/hans1243/remp1242,-4.94044,145.758
+zia,zia_mv70,ziaa1250,Nuclear Trans New Guinea,TNG.GreaterBinanderean,nucl1709/bina1276/bina1279/nort2909,-7.95814,147.579
+zia,zia_sm2011,ziaa1250,Nuclear Trans New Guinea,TNG.GreaterBinanderean,nucl1709/bina1276/bina1279/nort2909,-7.95814,147.579
+zia,zia_w69,ziaa1250,Nuclear Trans New Guinea,TNG.GreaterBinanderean,nucl1709/bina1276/bina1279/nort2909,-7.95814,147.579
+zimakani,zimakani_mr18,zima1244,Anim,Anim,anim1240/mari1437/boaz1244,-7.3701,141.452
+zimakani,zimakani_v70,zima1244,Anim,Anim,anim1240/mari1437/boaz1244,-7.3701,141.452
+zimakani-begua,zimakani-begua_mv70,bagw1238,Anim,Anim,anim1240/mari1437/boaz1244/zima1244,,
+zimakani-begua,zimakani-begua_v70,bagw1238,Anim,Anim,anim1240/mari1437/boaz1244/zima1244,,
+zimakani-south-boazi,zimakani-south-boazi_v70,zima1244,Anim,Anim,anim1240/mari1437/boaz1244,-7.3701,141.452
