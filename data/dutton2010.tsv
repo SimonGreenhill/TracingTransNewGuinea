@@ -1,0 +1,1744 @@
+# Wordlist
+
+# DATA
+ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	SOURCE	COGID
+27353	kamula	2009_DOG	ɛsemala	ɛsemala	ɛ s e m a l a		dutton2010	1
+14602	proto-koiarian	2304_THEE_OBLIQUE_CASE_OF_YOU	*a	*a	a		dutton2010	2
+14610	proto-koiarian	1402_BREAST	*amu	*amu	a m u		dutton2010	3
+14617	proto-koiarian	822_plsuffixonkinshipnouns	*ufu-	*ufu-	u f u		dutton2010	4
+14624	proto-koiarian	744_EGG	*uni	*uni	u n i		dutton2010	5
+14629	proto-koiarian	2371_BREADFRUIT	*unu[gV]	*unu	u n u		dutton2010	6
+14632	proto-koiarian	1221_NOSE	*uri	*uri	u r i		dutton2010	7
+14637	proto-koiarian	1486_PLANT_SOMETHING	*va-	*va-	v a		dutton2010	8
+14642	proto-koiarian	1236_WHAT	*vadu	*vadu	v a d u		dutton2010	9
+14646	proto-koiarian	351_TARO	*vadu	*vadu	v a d u		dutton2010	10
+14653	proto-koiarian	1480_BODY	*vafafa[ta]	*vafafa	v a f a f a		dutton2010	11
+14659	proto-koiarian	1233_NIGHT	*vafi	*vafi	v a f i		dutton2010	12
+14664	proto-koiarian	410_YAM	*vaia	*vaia	v a i a		dutton2010	13
+14669	proto-koiarian	749_ENTER	*arí[ra]-	*arí-	a r í/i		dutton2010	14
+14676	proto-koiarian	1629_faceforehead	*vari	*vari	v a r i	forehead, face	dutton2010	15
+14684	proto-koiarian	763_SKIN	*vata	*vata	v a t a		dutton2010	16
+14689	proto-koiarian	1836_VAGINA	*vé	*vé	v é/e		dutton2010	17
+14694	proto-koiarian	1222_PENIS	*veɣu	*veɣu	v e ɣ u		dutton2010	18
+14699	proto-koiarian	221_FIRE	*vené	*vené	v e n é/e	fire, firewood	dutton2010	19
+14707	proto-koiarian	2108_RAINING_OR_RAIN	*ven(í,e)	*ven	v e n	rain	dutton2010	20
+14715	proto-koiarian	665_BEE	*vuamu	*vuamu	v u a m u		dutton2010	21
+14719	proto-koiarian	2312_YOU_OBLIQUE_CASE_OF_YOU	*ya	*ya	j a		dutton2010	22
+14727	proto-koiarian	817_THEY	*yabu	*yabu	j a b u		dutton2010	23
+14735	proto-koiarian	1879_DANCE	*yava-	*yava-	j a v a		dutton2010	24
+14742	proto-koiarian	1217_FATHER	*baba	*baba	b a b a		dutton2010	25
+14748	proto-koiarian	1392_LOUSE	*ʔumu	*ʔumu	ʔ u m u		dutton2010	26
+14755	proto-koiarian	1442_STAND	*ʔuri	*ʔuri	ʔ u r i		dutton2010	27
+14763	proto-koiarian	178_RIPE	*bae	*bae	b a e		dutton2010	28
+14768	proto-koiarian	1507_FRUIT	*bai	*bai	b a i		dutton2010	29
+14771	proto-koiarian	834_acertainonesomeanother	*be	*be	b e		dutton2010	30
+14781	proto-koiarian	1240_NOT	*bé	*bé	b é/e		dutton2010	31
+14791	proto-koiarian	945_SPEAR	*bi	*bi	b i		dutton2010	32
+14795	proto-koiarian	683_PERSON	*bia	*bia	b i a		dutton2010	33
+14799	proto-koiarian	473_SPEAR_SOMEBODY	*bidi-	*bidi-	b i d i		dutton2010	34
+14807	proto-koiarian	2121_ARM_OR_HAND	*ada	*ada	a d a	arm	dutton2010	35
+14815	proto-koiarian	1683_BUSH	*boto	*boto	b o t o		dutton2010	36
+14818	proto-koiarian	586_GARDEN	*buru	*buru	b u r u		dutton2010	37
+14824	proto-koiarian	1251_BELLY	*de	*de	d e		dutton2010	38
+14832	proto-koiarian	1935_ANUS	*deɣa	*deɣa	d e ɣ a		dutton2010	39
+14837	proto-koiarian	1519_RUN	*dibu-	*dibu-	d i b u		dutton2010	40
+14840	proto-koiarian	1430_STAR	*didi	*didi	d i d i		dutton2010	41
+14845	proto-koiarian	1453_WASH	*eago-	*eago-	e a g o	to wash	dutton2010	42
+14849	proto-koiarian	1453_WASH	*eagu-	*eagu-	e a g u	to wash	dutton2010	43
+14854	proto-koiarian	1203_LONG	*ege	*ege	e g e		dutton2010	44
+14860	proto-koiarian	1246_SMALL	*(e,i)se	*se	s e		dutton2010	45
+14865	proto-koiarian	893_topoffoot	*ada	*ada	a d a		dutton2010	46
+14871	proto-koiarian	1439_SWIM	*(e,i)so-	*so-	s o		dutton2010	47
+14876	proto-koiarian	217_BETELNUT	*faɣa	*faɣa	f a ɣ a		dutton2010	48
+14881	proto-koiarian	628_LEAF	*fana	*fana	f a n a		dutton2010	49
+14886	proto-koiarian	840_immediateimperativepluralverbsuffix	*-fe	*-fe	f e		dutton2010	50
+14895	proto-koiarian	841_locativenounsuffixattofrom	*-fe	*-fe	f e		dutton2010	51
+14903	proto-koiarian	189_HAIR_BODY	*fómo	*fómo	f ó/o m o		dutton2010	52
+14909	proto-koiarian	1487_POUR	*fósi-	*fósi-	f ó/o s i		dutton2010	53
+14914	proto-koiarian	843_tobuysellbarter	*f(u)ae-v-	*fae-v-	f a e + v		dutton2010	54
+14917	proto-koiarian	2093_AFTERWARDS	*gabi	*gabi	g a b i		dutton2010	55
+14921	proto-koiarian	498_medialverbsuffixds	*-gé	*-gé	g é/e		dutton2010	56
+14931	proto-koiarian	1244_THICK	*aduné	*aduné	a d u n é/e		dutton2010	57
+14934	proto-koiarian	1786_DRY_UP	*giri	*giri	g i r i		dutton2010	58
+14940	proto-koiarian	159_SWEET_POTATO	*gobeu	*gobeu	g o b e u		dutton2010	59
+14944	proto-koiarian	1433_HIT	*ɣa-ma-	*ɣa-ma-	ɣ a + m a		dutton2010	60
+14949	proto-koiarian	1423_FIGHT	*ɣaraha-	*ɣaraha-	ɣ a r a h a		dutton2010	61
+14954	proto-koiarian	2115_CEASE_OR_FINISH	*ɣare-	*ɣare-	ɣ a r e		dutton2010	62
+14962	proto-koiarian	499_medialsequentialsuffixhavingfinishedthatandthen	*-ɣareme	*-ɣareme	ɣ a r e m e	having finished that, and then (Medial Sequential Suffix)	dutton2010	63
+14966	proto-koiarian	3038_SAME-SEX_YOUNGER_SIBLING	*ɣóɣo	*ɣóɣo	ɣ ó/o ɣ o		dutton2010	64
+14973	proto-koiarian	982_LIME_FRUIT	*ɣudi	*ɣudi	ɣ u d i		dutton2010	65
+14977	proto-koiarian	1415_THINK_REFLECT	*ɣuɣu-	*ɣuɣu-	ɣ u ɣ u		dutton2010	66
+14981	proto-koiarian	1432_CUT	*afa-	*afa-	a f a		dutton2010	67
+14987	proto-koiarian	1336_EAT	*i-	*i-	i		dutton2010	68
+14996	proto-koiarian	906_TREE	*idí	*idí	i d í/i		dutton2010	69
+15004	proto-koiarian	1493_ONE	*(i,o)gau	*gau	g a u		dutton2010	70
+15012	proto-koiarian	1405_NAME	*ifí	*ifí	i f í/i		dutton2010	71
+15020	proto-koiarian	1408_HEAR	*ifi-	*ifi-	i f i		dutton2010	72
+15028	proto-koiarian	146_SUGAR_CANE	*imi	*imi	i m i	sugar cane	dutton2010	73
+15033	proto-koiarian	1210_HEAVY	*isu	*isu	i s u		dutton2010	74
+15039	proto-koiarian	1075_TRAP_PITFALL	*ivi	*ivi	i v i		dutton2010	75
+15044	proto-koiarian	1418_DIG	*karo-	*karo-	k a r o	to dig up	dutton2010	76
+15049	proto-koiarian	813_DO	*ki-	*ki-	k i		dutton2010	77
+15053	proto-koiarian	262_HE_OR_SHE_OR_IT	*afu	*afu	a f u	he	dutton2010	78
+15062	proto-koiarian	694_GET	*ma-	*ma-	m a		dutton2010	79
+15067	proto-koiarian	1199_WIFE	*mabara	*mabara	m a b a r a		dutton2010	80
+15075	proto-koiarian	1035_GOOD	*maɣe	*maɣe	m a ɣ e		dutton2010	81
+15079	proto-koiarian	962_WOMAN	*maɣina	*maɣina	m a ɣ i n a		dutton2010	82
+15085	proto-koiarian	1035_GOOD	*maʔi	*maʔi	m a ʔ i		dutton2010	83
+15090	proto-koiarian	1217_FATHER	*mama	*mama	m a m a		dutton2010	84
+15095	proto-koiarian	725_OLD_PERSON	*mami	*mami	m a m i		dutton2010	85
+15100	proto-koiarian	984_WORK_LABOUR	*me	*me	m e		dutton2010	86
+15106	proto-koiarian	506_medialssverbsuffix	*-me	*-me	m e		dutton2010	87
+15111	proto-koiarian	619_ANIMAL	*mi	*mi	m i		dutton2010	88
+15118	proto-koiarian	1621_SNEEZE	*akisi-	*akisi-	a k i s i		dutton2010	89
+15124	proto-koiarian	1447_GIVE	*m(o,a)-	*m-	m		dutton2010	90
+15134	proto-koiarian	857_STONE	*muni	*muni	m u n i		dutton2010	91
+15141	proto-koiarian	1945_interrogative	*-n(a,e)	*-n	n	interrogative particle (generally suffixed to subject)	dutton2010	92
+15148	proto-koiarian	321_CHEW	*nana-	*nana-	n a n a		dutton2010	93
+15153	proto-koiarian	1459_IF	*-ne(i)	*-ne	n e	if, when (conditional verb suffix)	dutton2010	94
+15156	proto-koiarian	511_forbenefactivecliticisedorsuffixedtonoun	*ni	*ni	n i		dutton2010	95
+15161	proto-koiarian	1248_EYE	*ni	*ni	n i		dutton2010	96
+15169	proto-koiarian	1839_CRY	*ni[na]-	*ni-	n i		dutton2010	97
+15178	proto-koiarian	1212_WE	*no	*no	n o		dutton2010	98
+15186	proto-koiarian	1014_OR	*o	*o	o		dutton2010	99
+15194	proto-koiarian	3037_SAME-SEX_OLDER_SIBLING	*amakina	*amakina	a m a k i n a		dutton2010	100
+15202	proto-koiarian	1895_CLOTHES	*ogona	*ogona	o g o n a		dutton2010	101
+15208	proto-koiarian	2102_BURN	*ra-ɣa-	*ra-ɣa-	r a + ɣ a		dutton2010	102
+15215	proto-koiarian	269_COOKED	*raɣ(í,e)-	*raɣ-	r a ɣ		dutton2010	103
+15221	proto-koiarian	1442_STAND	*ra-mi-	*ra-mi-	r a + m i		dutton2010	104
+15229	proto-koiarian	860_toclearbushforplanting	*raf-	*raf-	r a f		dutton2010	105
+15235	proto-koiarian	1404_STRAIGHT	*riri-	*riri-	r i r i		dutton2010	106
+15243	proto-koiarian	1458_SAY	*ro(i,u)-	*ro-	r o		dutton2010	107
+15250	proto-koiarian	1446_COME	*roɣo-	*roɣo-	r o ɣ o		dutton2010	108
+15261	proto-koiarian	1949_BEDBUG	*saru	*saru	s a r u		dutton2010	109
+15266	proto-koiarian	1333_NECK	*seno	*seno	s e n o		dutton2010	110
+15275	proto-koiarian	862_plateauflatland	*amaro	*amaro	a m a r o		dutton2010	111
+15279	proto-koiarian	1457_SEW	*sigu-	*sigu-	s i g u		dutton2010	112
+15284	proto-koiarian	1453_WASH	*so-	*so-	s o	to wash	dutton2010	113
+15290	proto-koiarian	946_BLOOD	*taɣo	*taɣo	t a ɣ o		dutton2010	114
+15296	proto-koiarian	466_CASSOWARY	*tubu[are]	*tubu	t u b u		dutton2010	115
+15301	proto-koiarian	1436_SCRATCH	*tumu-	*tumu-	t u m u		dutton2010	116
+15307	proto-koiarian	1917_TIE	*tumu-	*tumu-	t u m u		dutton2010	117
+15313	proto-koiarian	1645_SHORT	*tuʔuaké	*tuʔuaké	t u ʔ u a k é/e		dutton2010	118
+15317	proto-koiarian	960_WIND	*uburu	*uburu	u b u r u		dutton2010	119
+15323	proto-koiarian	937_BIRD	*ugu[fa]	*ugu	u g u		dutton2010	120
+15329	proto-koiarian	175_BLOW_OF_WIND	*ufu-	*ufu-	u f u		dutton2010	121
+15674	proto-koiarian	1366_BOY	*ɣami	*ɣami	ɣ a m i	boy, baby, child	dutton2010	1605
+92428	proto-koiarian	1336_EAT	*i-	*i-	i		dutton2010	122
+260774	proto-koiarian	1401_DRINK	*i-	*i-	i		dutton2010	123
+15337	proto-koiraric	1667_HOLE	*aba	*aba	a b a		dutton2010	124
+15341	proto-koiraric	1202_BIG	*barug(e,a)	*barug	b a r u g		dutton2010	125
+15344	proto-koiraric	1313_MOON	*bata	*bata	b a t a		dutton2010	126
+15348	proto-koiraric	2760_MAKE_A_JOKE	*bitu-ɣa-	*bitu-ɣa-	b i t u + ɣ a		dutton2010	127
+15351	proto-koiraric	680_BREAK_DESTROY_OR_GET_DESTROYED	*boko-ɣa-	*boko-ɣa-	b o k o + ɣ a		dutton2010	128
+15355	proto-koiraric	1455_PULL	*butu-ɣa-	*butu-ɣa-	b u t u + ɣ a		dutton2010	129
+15359	proto-koiraric	1209_I	*da	*da	d a		dutton2010	130
+15364	proto-koiraric	865_withbymeansof	*da	*da	d a		dutton2010	131
+15367	proto-koiraric	1838_NAVEL	*demodo	*demodo	d e m o d o		dutton2010	132
+15372	proto-koiraric	1280_FALL	*dob(i,a)-	*dob-	d o b		dutton2010	133
+15375	proto-koiraric	307_HAWK	*duna	*duna	d u n a		dutton2010	134
+15379	proto-koiraric	1498_TWO	*abu(t)i	*abui	a b u i		dutton2010	135
+15383	proto-koiraric	1278_VOMIT	*edo[ɣo]-ɣa-	*edo-ɣa-	e d o + ɣ a		dutton2010	136
+15387	proto-koiraric	78_THAT	*eke	*eke	e k e		dutton2010	137
+15392	proto-koiraric	879_COUGH	*eno-	*eno-	e n o		dutton2010	138
+15396	proto-koiraric	1409_SEE	*ere-ɣa-	*ere-ɣa-	e r e + ɣ a		dutton2010	139
+15400	proto-koiraric	866_WIN	*faki	*faki	f a k i		dutton2010	140
+15403	proto-koiraric	867_backofhand	*foto	*foto	f o t o		dutton2010	141
+15408	proto-koiraric	2272_HOT_OR_WARM	*fufune-	*fufune-	f u f u n e		dutton2010	142
+15411	proto-koiraric	868_orplinsomeverbs	*-geve	*-geve	g e v e		dutton2010	143
+15418	proto-koiraric	869_orsginsomeverbs	*-ɣa	*-ɣa	ɣ a		dutton2010	144
+15425	proto-koiraric	1102_CLIMB	*ɣadi-	*ɣadi-	ɣ a d i	to ascend	dutton2010	145
+15429	proto-koiraric	1100_COOK_SOMETHING	*amufa-	*amufa-	a m u f a	cook (in ground on hot stones), mumu	dutton2010	146
+15433	proto-koiraric	871_transitiveverbformingsuffixcausative	*-ɣaf(a,o)	*-ɣaf	ɣ a f		dutton2010	147
+15437	proto-koiraric	1433_HIT	*ɣama-	*ɣama-	ɣ a m a		dutton2010	148
+15441	proto-koiraric	581_COME_BACK	*ɣoira-ɣa-	*ɣoira-ɣa-	ɣ o i r a + ɣ a		dutton2010	149
+15445	proto-koiraric	1218_ROPE	*ɣote	*ɣote	ɣ o t e		dutton2010	150
+15449	proto-koiraric	2457_PATH_OR_ROAD	*ɣuma	*ɣuma	ɣ u m a		dutton2010	151
+15453	proto-koiraric	1335_WHITE	*(k,t)ae	*ae	a e		dutton2010	152
+15457	proto-koiraric	1231_NEW	*isa	*isa	i s a		dutton2010	153
+15463	proto-koiraric	1256_HEAD	*kina	*kina	k i n a		dutton2010	154
+15466	proto-koiraric	873_verbsuffixpresentcontinuoussg	*-ma	*-ma	m a		dutton2010	155
+15470	proto-koiraric	907_OLD_WOMAN	*mabata	*mabata	m a b a t a		dutton2010	156
+15474	proto-koiraric	1156_OPEN	*arafa-	*arafa-	a r a f a		dutton2010	157
+15478	proto-koiraric	2102_BURN	*maɣo[i]-	*maɣo-	m a ɣ o		dutton2010	158
+15481	proto-koiraric	2159_GROUND	*matama	*matama	m a t a m a		dutton2010	159
+15485	proto-koiraric	1013_FRESHWATER_EEL	*mina[ma]	*mina	m i n a		dutton2010	160
+15489	proto-koiraric	1366_BOY	*mo	*mo	m o	boy, male child	dutton2010	161
+15496	proto-koiraric	2445_PAPAYA	*(n,m)itani	*itani	i t a n i		dutton2010	162
+15499	proto-koiraric	1558_SIMILAR	*naɣate	*naɣate	n a ɣ a t e		dutton2010	163
+15503	proto-koiraric	1216_MOTHER	*neina	*neina	n e i n a		dutton2010	164
+15508	proto-koiraric	962_WOMAN	*nigi	*nigi	n i g i		dutton2010	165
+15512	proto-koiraric	879_verbsuffixpasttensesg	*-nu	*-nu	n u		dutton2010	166
+15516	proto-koiraric	1235_WHO	*-are	*-are	a r e		dutton2010	167
+15520	proto-koiraric	1337_PIG	*ofo	*ofo	o f o		dutton2010	168
+15524	proto-koiraric	1214_THIS	*oko	*oko	o k o		dutton2010	169
+15528	proto-koiraric	1236_WHAT	*ono	*ono	o n o		dutton2010	170
+15531	proto-koiraric	1418_DIG	*rofo-	*rofo-	r o f o		dutton2010	171
+15535	proto-koiraric	1157_BECAUSE	*-ru	*-ru	r u		dutton2010	172
+15538	proto-koiraric	2220_MOVE_QUICKLY	*soreka	*soreka	s o r e k a		dutton2010	173
+15541	proto-koiraric	1882_BEFORE	*subuta	*subuta	s u b u t a		dutton2010	174
+15545	proto-koiraric	1220_TAIL	*(t,d)ete	*ete	e t e		dutton2010	175
+15549	proto-koiraric	1577_AND	*-ta...-ta	*-ta...-ta	t a + t a		dutton2010	176
+15552	proto-koiraric	881_also	*-taɣe	*-taɣe	t a ɣ e		dutton2010	177
+15556	proto-koiraric	1554_MAN	*ata	*ata	a t a		dutton2010	178
+15560	proto-koiraric	1748_RIDGE	*tana	*tana	t a n a		dutton2010	179
+15564	proto-koiraric	3039_DIFFERENT-SEX_OLDER_SIBLING	*tata	*tata	t a t a		dutton2010	180
+15568	proto-koiraric	695_GO	*ti-	*ti-	t i		dutton2010	181
+15572	proto-koiraric	2009_DOG	*to	*to	t o		dutton2010	182
+15577	proto-koiraric	1429_FULL	*tobo	*tobo	t o b o		dutton2010	183
+15581	proto-koiraric	1333_NECK	*tu	*tu	t u		dutton2010	184
+15584	proto-koiraric	285_tostay	*u-	*u-	u		dutton2010	185
+15588	proto-koiraric	1416_SIT	*[u]gurama-	*gurama-	g u r a m a		dutton2010	186
+15593	proto-koiraric	1403_BITE	*ua-ɣa-	*ua-ɣa-	u a + ɣ a		dutton2010	187
+15596	proto-koiraric	670_ROOT	*umu-ka	*umu-ka	u m u + k a		dutton2010	188
+15600	proto-koiraric	884_medialverbsuffix	*-ata	*-ata	a t a		dutton2010	189
+15604	proto-koiraric	1509_MOSQUITO	*un(a,u)	*un	u n		dutton2010	190
+15607	proto-koiraric	1580_ONLY	*unaɣe	*unaɣe	u n a ɣ e		dutton2010	191
+15611	proto-koiraric	646_ASH	*utuɣu	*utuɣu	u t u ɣ u		dutton2010	192
+15615	proto-koiraric	531_HOW_MUCH	*va[e]futi	*vafuti	v a f u t i		dutton2010	193
+15618	proto-koiraric	886_cordylinesp	*vabe	*vabe	v a b e		dutton2010	194
+15622	proto-koiraric	126_SWEAT_PERSPIRE	*vaɣoto-	*vaɣoto-	v a ɣ o t o	to perspire, sweat	dutton2010	195
+15625	proto-koiraric	1343_SUN	*vani	*vani	v a n i	sun, day	dutton2010	196
+15629	proto-koiraric	2159_GROUND	*vata	*vata	v a t a		dutton2010	197
+15633	proto-koiraric	2101_BE_DEAD_OR_DIE	*vati-	*vati-	v a t i		dutton2010	198
+15636	proto-koiraric	1269_NO	*vefite	*vefite	v e f i t e		dutton2010	199
+15640	proto-koiraric	1791_BUTTERFLY	*avako	*avako	a v a k o		dutton2010	200
+15643	proto-koiraric	592_PISS	*veu-ɣa-	*veu-ɣa-	v e u + ɣ a	urinate	dutton2010	201
+15647	proto-koiraric	121_SPIN	*viriviri-	*viriviri-	v i r i v i r i		dutton2010	202
+15650	proto-koiraric	215_LIE_DOWN	*ya-ɣa-	*ya-ɣa-	j a + ɣ a		dutton2010	203
+15654	proto-koiraric	293_NETBAG	*yaɣa	*yaɣa	j a ɣ a		dutton2010	204
+15658	proto-koiraric	810_predicativepossessivesuffix	*-ye	*-ye	j e	Predictive possessive suffix	dutton2010	205
+15662	proto-koiraric	1482_SHOULDER	*bag(u,i,o)	*bag	b a g		dutton2010	206
+15670	proto-koiraric	1205_TONGUE	*neme	*neme	n e m e	middle, tongue	dutton2010	1604
+14211	proto-baraic	694_GET	*abe-	*abe-	a b e		dutton2010	207
+14217	proto-baraic	1371_KNEE	*ato-	*ato-	a t o		dutton2010	208
+14220	proto-baraic	1200_HUSBAND	*baru	*baru	b a r u		dutton2010	209
+14225	proto-baraic	1452_PUSH	*bij-	*bij-	b i j		dutton2010	210
+14228	proto-baraic	1205_TONGUE	*bitarV	*bitarV	b i t a r V/ə		dutton2010	211
+14233	proto-baraic	2098_FOOT_OR_LEG	*díʔ-	*díʔ-	d í/i ʔ	leg	dutton2010	212
+14237	proto-baraic	800_THIGH	*du(ʔ,k)a	*dua	d u a		dutton2010	213
+14240	proto-baraic	683_PERSON	*e	*e	e		dutton2010	214
+14245	proto-baraic	1620_SON	*farifV	*farifV	f a r i f V/ə		dutton2010	215
+14250	proto-baraic	1416_SIT	*fi-	*fi-	f i		dutton2010	216
+14254	proto-baraic	175_BLOW_OF_WIND	*fuasi-	*fuasi-	f u a s i		dutton2010	217
+14258	proto-baraic	1409_SEE	*aga-	*aga-	a g a		dutton2010	218
+14263	proto-baraic	78_THAT	*ga-	*ga-	g a		dutton2010	219
+14268	proto-baraic	1247_EAR	*gada	*gada	g a d a		dutton2010	220
+14272	proto-baraic	1380_TOOTH	*gubai	*gubai	g u b a i		dutton2010	221
+14276	proto-baraic	1236_WHAT	*ida	*ida	i d a		dutton2010	222
+14279	proto-baraic	727_WHICH	*ide-	*ide-	i d e		dutton2010	223
+14284	proto-baraic	948_WATER	*[i]do	*do	d o		dutton2010	224
+14292	proto-baraic	2121_ARM_OR_HAND	*ijV	*ijV	i j V/ə	arm	dutton2010	225
+14295	proto-baraic	531_HOW_MUCH	*ijV-	*ijV-	i j V/ə		dutton2010	226
+14298	proto-baraic	1498_TWO	*inoki	*inoki	i n o k i		dutton2010	227
+14303	proto-baraic	1236_WHAT	*ira(b,r,k)V-	*iraV-	i r a V/ə		dutton2010	228
+14307	proto-baraic	163_BLACK	*aja	*aja	a j a		dutton2010	229
+14310	proto-baraic	674_MOUTH	*irV	*irV	i r V/ə		dutton2010	230
+14314	proto-baraic	1235_WHO	*irara	*irara	i r a r a		dutton2010	231
+14320	proto-baraic	1489_CLOUD	*isu	*isu	i s u		dutton2010	232
+14323	proto-baraic	1429_FULL	*ito-	*ito-	i t o		dutton2010	233
+14327	proto-baraic	1376_NOW	*iviamai	*iviamai	i v i a m a i		dutton2010	234
+14330	proto-baraic	1220_TAIL	*ivienV	*ivienV	i v i e n V/ə		dutton2010	235
+14334	proto-baraic	1403_BITE	*jaʔi-	*jaʔi-	j a ʔ i		dutton2010	236
+14340	proto-baraic	879_COUGH	*jahua-	*jahua-	j a h u a		dutton2010	237
+14343	proto-baraic	908_DRUM	*jajV	*jajV	j a j V/ə		dutton2010	238
+14347	proto-baraic	1283_TODAY	*jaru-	*jaru-	j a r u		dutton2010	239
+14350	proto-baraic	671_SAND	*ajarV	*ajarV	a j a r V/ə		dutton2010	240
+14354	proto-baraic	1683_BUSH	*ji(ʔ,k)-	*ji-	j i		dutton2010	241
+14358	proto-baraic	1644_RELATIVES	*-jor(u,a)	*-jor	j o r		dutton2010	242
+14361	proto-baraic	586_GARDEN	*juarV	*juarV	j u a r V/ə		dutton2010	243
+14365	proto-baraic	1419_FEAR_BE_AFRAID	*juhu-	*juhu-	j u h u	to be afraid	dutton2010	244
+14370	proto-baraic	1222_PENIS	*juorV	*juorV	j u o r V/ə		dutton2010	245
+14374	proto-baraic	1218_ROPE	*kai	*kai	k a i		dutton2010	246
+14378	proto-baraic	1433_HIT	*kan-	*kan-	k a n		dutton2010	247
+14383	proto-baraic	1416_SIT	*kari-	*kari-	k a r i		dutton2010	248
+14386	proto-baraic	632_LIZARD	*karu-	*karu-	k a r u		dutton2010	249
+14389	proto-baraic	156_RED	*kavu-	*kavu-	k a v u		dutton2010	250
+14393	proto-baraic	1102_CLIMB	*ají-	*ají-	a j í/i	to ascend	dutton2010	251
+14398	proto-baraic	1355_LAUGH	*ki[jo]-	*ki-	k i		dutton2010	252
+14404	proto-baraic	804_purposiveverbsuffix	*-kiro	*-kiro	k i r o		dutton2010	253
+14409	proto-baraic	2708_TALK	*kua-	*kua-	k u a		dutton2010	254
+14415	proto-baraic	1084_CALL	*kume-	*kume-	k u m e		dutton2010	255
+14420	proto-baraic	1337_PIG	*mafV	*mafV	m a f V/ə		dutton2010	256
+14424	proto-baraic	1343_SUN	*maja-	*maja-	m a j a		dutton2010	257
+14428	proto-baraic	1667_HOLE	*mako	*mako	m a k o		dutton2010	258
+14431	proto-baraic	1838_NAVEL	*mí-	*mí-	m í/i		dutton2010	259
+14434	proto-baraic	1274_SALT	*misV	*misV	m i s V/ə		dutton2010	260
+14437	proto-baraic	1100_COOK_SOMETHING	*muru-	*muru-	m u r u		dutton2010	261
+14441	proto-baraic	776_TRUNK_OF_TREE	*ane-	*ane-	a n e		dutton2010	262
+14444	proto-baraic	1402_BREAST	*m(u,o)sV	*msV	m s V/ə		dutton2010	263
+14448	proto-baraic	1209_I	*na	*na	n a		dutton2010	264
+14454	proto-baraic	1233_NIGHT	*na(ʔ,k)i-	*nai-	n a i		dutton2010	265
+14457	proto-baraic	1174_YESTERDAY	*n(e,i)ri	*nri	n r i	yesterday, tomorrow	dutton2010	266
+14461	proto-baraic	1585_SLEEP	*ni[n]a-	*nia-	n i a		dutton2010	267
+14466	proto-baraic	1179_DAY_AFTER_TOMORROW	*nitu-	*nitu-	n i t u		dutton2010	268
+14471	proto-baraic	810_predicativepossessivesuffix	*-on(e,i)	*-on	o n		dutton2010	269
+14474	proto-baraic	635_MILK	*rihu	*rihu	r i h u		dutton2010	270
+14477	proto-baraic	1728_ROTTEN	*sag(o,a)-	*sag-	s a g		dutton2010	271
+14482	proto-baraic	2159_GROUND	*saka	*saka	s a k a		dutton2010	272
+14486	proto-baraic	1252_HOUSE	*arV	*arV	a r V/ə		dutton2010	273
+14491	proto-baraic	798_JAW	*sanoʔu	*sanoʔu	s a n o ʔ u	jaw, chin	dutton2010	274
+14494	proto-baraic	217_BETELNUT	*siarV	*siarV	s i a r V/ə		dutton2010	275
+14498	proto-baraic	1482_SHOULDER	*sirefi	*sirefi	s i r e f i		dutton2010	276
+14502	proto-baraic	1292_BAD	*sise-	*sise-	s i s e		dutton2010	277
+14506	proto-baraic	982_LIME_FRUIT	*suvuamV	*suvuamV	s u v u a m V/ə		dutton2010	278
+14509	proto-baraic	730_SNAKE	*tabarV	*tabarV	t a b a r V/ə		dutton2010	279
+14514	proto-baraic	1767_SCRAPE	*tadi-	*tadi-	t a d i		dutton2010	280
+14517	proto-baraic	1501_BORE	*tit(i,u)-	*tit-	t i t		dutton2010	281
+14520	proto-baraic	646_ASH	*tuʔu-	*tuʔu-	t u ʔ u		dutton2010	282
+14525	proto-baraic	1432_CUT	*ufu-	*ufu-	u f u		dutton2010	283
+14528	proto-baraic	949_WATER_LEECH	*asinV	*asinV	a s i n V/ə		dutton2010	284
+14531	proto-baraic	580_FUR	*ui	*ui	u i	hair, fur, feathers	dutton2010	285
+14535	proto-baraic	778_SMOKE_EXHAUST	*uʔV	*uʔV	u ʔ V/ə		dutton2010	286
+14540	proto-baraic	1224_LIVER	*va	*va	v a		dutton2010	287
+14544	proto-baraic	695_GO	*vaʔ-	*vaʔ-	v a ʔ		dutton2010	288
+14549	proto-baraic	1343_SUN	*ve	*ve	v e	sun, day	dutton2010	289
+14553	proto-baraic	1238_WHEN	*veda	*veda	v e d a		dutton2010	290
+14557	proto-baraic	2103_PAINFUL_OR_SICK	*vi(ʔ,k)e	*vie	v i e		dutton2010	291
+14561	proto-baraic	1838_NAVEL	*vinofV	*vinofV	v i n o f V/ə		dutton2010	292
+14564	proto-baraic	155_CHOP	*vej-	*vej-	v e j		dutton2010	293
+14568	proto-baraic	1394_BONE	*(ʔ)adV	*adV	a d V/ə		dutton2010	294
+14571	proto-baraic	1437_SPLIT	*ata-	*ata-	a t a	break wood	dutton2010	295
+14575	proto-baraic	776_TRUNK_OF_TREE	*(ʔ,k)afo	*afo	a f o		dutton2010	296
+14579	proto-baraic	868_BANANA	*ʔajujV	*ʔajujV	ʔ a j u j V/ə		dutton2010	297
+14583	proto-baraic	841_locativenounsuffixattofrom	*-(ʔ,k)e	*-e	e		dutton2010	298
+14588	proto-baraic	1489_CLOUD	*ʔimitiV	*ʔimitiV	ʔ i m i t i V/ə		dutton2010	299
+14591	proto-baraic	1577_AND	*(ʔ,k)o...(ʔ,k)o	*o...o	o + o		dutton2010	300
+14595	proto-baraic	1223_HEART	*(ʔ,k)oiʔV	*oiʔV	o i ʔ V/ə		dutton2010	301
+14598	proto-baraic	2009_DOG	*(ʔ,k)uo	*uo	u o		dutton2010	302
+79320	proto-baraic	1554_MAN	*baru	*baru	b a r u		dutton2010	303
+79321	proto-baraic	1329_TOMORROW	*n(e,i)ri	*nri	n r i	yesterday, tomorrow	dutton2010	304
+260770	proto-baraic	1180_DAY_BEFORE_YESTERDAY	*nitu-	*nitu-	n i t u		dutton2010	305
+14603	koitabu	2304_THEE_OBLIQUE_CASE_OF_YOU	a	a	a	you.sg	dutton2010	1401
+14611	koitabu	1402_BREAST	amu	amu	a m u	breast (of woman), milk	dutton2010	1402
+14618	koitabu	822_plsuffixonkinshipnouns	-uhea	-uhea	u h e a	pl suffix on kinship nouns	dutton2010	1403
+14619	koitabu	822_plsuffixonkinshipnouns	-uhu yabara	-uhu_yabara	u h u + j a b a r a	pl suffix on kinship nouns	dutton2010	1403
+14625	koitabu	744_EGG	uni-ka	uni-ka	u n i + k a	egg, kernel	dutton2010	1404
+14633	koitabu	1221_NOSE	uri	uri	u r i	nose	dutton2010	1406
+14643	koitabu	1236_WHAT	ota|vado	ota	o t a	what?	dutton2010	1408
+14643	koitabu	1236_WHAT	ota|vado	vado	v a d o	what?	dutton2010	1408
+14647	koitabu	351_TARO	vadu	vadu	v a d u	taro	dutton2010	1409
+14654	koitabu	1480_BODY	aha|ta	aha	a h a	body	dutton2010	1410
+14654	koitabu	1480_BODY	aha|ta	ta	t a	body	dutton2010	1410
+14660	koitabu	1233_NIGHT	vahi	vahi	v a h i	night	dutton2010	1411
+14665	koitabu	410_YAM	vaia	vaia	v a i a	yam (type)	dutton2010	1412
+14670	koitabu	749_ENTER	ari|ra-ɣa-	ari	a r i	fall into a hole	dutton2010	1413
+14670	koitabu	749_ENTER	ari|ra-ɣa-	ra-ɣa-	r a + ɣ a	fall into a hole	dutton2010	1413
+14677	koitabu	1629_faceforehead	vari	vari	v a r i	forehead	dutton2010	1414
+14685	koitabu	763_SKIN	vata-ka	vata-ka	v a t a + k a	skin	dutton2010	1415
+14690	koitabu	1836_VAGINA	ve	ve	v e	vagina	dutton2010	1416
+14695	koitabu	1222_PENIS	veɣu	veɣu	v e ɣ u	penis	dutton2010	1417
+14700	koitabu	221_FIRE	vene	vene	v e n e	fire, firewood	dutton2010	1418
+14708	koitabu	2108_RAINING_OR_RAIN	veni	veni	v e n i	rain	dutton2010	1419
+14716	koitabu	665_BEE	uamo	uamo	u a m o	(honey) bee	dutton2010	1420
+14720	koitabu	2312_YOU_OBLIQUE_CASE_OF_YOU	ya	ya	j a	you.pl	dutton2010	1421
+14728	koitabu	817_THEY	yau	yau	j a u	they	dutton2010	1422
+14736	koitabu	1879_DANCE	yava|ya	yava	j a v a	dance (n)	dutton2010	1423
+14736	koitabu	1879_DANCE	yava|ya	ya	j a	dance (n)	dutton2010	1423
+14737	koitabu	1879_DANCE	yava|yava-nu	yava	j a v a	danced (v)	dutton2010	1423
+14737	koitabu	1879_DANCE	yava|yava-nu	yava-nu	j a v a + n u	danced (v)	dutton2010	1423
+14743	koitabu	1217_FATHER	baba	baba	b a b a	father (address), dad	dutton2010	10523
+14749	koitabu	1392_LOUSE	umu	umu	u m u	louse	dutton2010	1425
+14756	koitabu	1442_STAND	uri-ha-	uri-ha-	u r i + h a	get up, stand up, arise	dutton2010	1426
+14764	koitabu	178_RIPE	bae|ka	bae	b a e	ripe	dutton2010	1427
+14764	koitabu	178_RIPE	bae|ka	ka	k a	ripe	dutton2010	1427
+14772	koitabu	834_acertainonesomeanother	be	be	b e	a (certain one), one, some	dutton2010	1429
+14782	koitabu	1240_NOT	be|ta	be	b e	not, no	dutton2010	1430
+14782	koitabu	1240_NOT	be|ta	ta	t a	not, no	dutton2010	1430
+14796	koitabu	683_PERSON	bia	bia	b i a	controller, owner, boss	dutton2010	1432
+14800	koitabu	473_SPEAR_SOMEBODY	bi-	bi-	b i	spear (v), kill (by spearing)	dutton2010	1433
+14808	koitabu	2121_ARM_OR_HAND	ada-ka	ada-ka	a d a + k a	arm, hand, branch, handle	dutton2010	1434
+14819	koitabu	586_GARDEN	buru (ɣeɣe)	buru_	b u r u	(yam) garden	dutton2010	1436
+14825	koitabu	675_FAECES_EXCREMENT	de	de	d e	faeces	dutton2010	1437
+14833	koitabu	1935_ANUS	deɣa	deɣa	d e ɣ a	anus, buttocks	dutton2010	1438
+14846	koitabu	1453_WASH	eago-	eago-	e a g o	wash.sg.obj	dutton2010	1441
+14850	koitabu	1453_WASH	eagu-	eagu-	e a g u	bathe	dutton2010	1442
+14855	koitabu	1203_LONG	ege	ege	e g e	long	dutton2010	1443
+14866	koitabu	893_topoffoot	ada-he	ada-he	a d a + h e	on top of	dutton2010	1445
+14877	koitabu	217_BETELNUT	haɣa	haɣa	h a ɣ a	betelnut	dutton2010	1447
+14882	koitabu	628_LEAF	hana-ka	hana-ka	h a n a + k a	leaf, hair (of head)	dutton2010	1448
+14887	koitabu	840_immediateimperativepluralverbsuffix	-ya|he	-ya	j a	imperative plural suffix	dutton2010	1449
+14887	koitabu	840_immediateimperativepluralverbsuffix	-ya|he	he	h e	imperative plural suffix	dutton2010	1449
+14896	koitabu	841_locativenounsuffixattofrom	-he	-he	h e	at, to, from	dutton2010	1450
+14904	koitabu	189_HAIR_BODY	homo-ka	homo-ka	h o m o + k a	hair	dutton2010	1451
+14915	koitabu	843_tobuysellbarter	hae-va-	hae-va-	h a e + v a	buy, sell, barter	dutton2010	1453
+14922	koitabu	498_medialverbsuffixds	-ge	-ge	g e	medial verb suffix DS seq, 'and	dutton2010	1455
+14932	koitabu	1244_THICK	adune	adune	a d u n e	thick	dutton2010	1456
+14945	koitabu	1433_HIT	ɣa-ma-	ɣa-ma-	ɣ a + m a	hit	dutton2010	1459
+14950	koitabu	1423_FIGHT	ɣaraha-	ɣaraha-	ɣ a r a h a	fight	dutton2010	1460
+14955	koitabu	2115_CEASE_OR_FINISH	ɣare-me-	ɣare-me-	ɣ a r e + m e	stop, leave off (sg obj)	dutton2010	1461
+14963	koitabu	499_medialsequentialsuffixhavingfinishedthatandthen	-yareme	-yareme	j a r e m e	completive action ss (sg), 'having V-ed then…	dutton2010	1462
+14967	koitabu	3038_SAME-SEX_YOUNGER_SIBLING	ɣoɣo	ɣoɣo	ɣ o ɣ o	sibling, same sex, younger	dutton2010	1463
+14974	koitabu	982_LIME_FRUIT	ɣudi	ɣudi	ɣ u d i	lime	dutton2010	1464
+14982	koitabu	1432_CUT	aha-	aha-	a h a	cut, chop	dutton2010	1466
+14988	koitabu	1336_EAT	i-	i-	i	eat, drink, smoke (tobacco)	dutton2010	1467
+14997	koitabu	906_TREE	idi	idi	i d i	tree, stick, pole	dutton2010	1468
+15013	koitabu	1405_NAME	ihi	ihi	i h i	name	dutton2010	1470
+15021	koitabu	1408_HEAR	ihi-	ihi-	i h i	hear (sg obj)	dutton2010	1471
+15029	koitabu	146_SUGAR_CANE	imi	imi	i m i	sugar cane	dutton2010	1472
+15034	koitabu	1210_HEAVY	isu|ke	isu	i s u	heavy	dutton2010	1473
+15034	koitabu	1210_HEAVY	isu|ke	ke	k e	heavy	dutton2010	1473
+15040	koitabu	1075_TRAP_PITFALL	ivi	ivi	i v i	noose, trap	dutton2010	1474
+15045	koitabu	1418_DIG	oro-hanu	oro-hanu	o r o + h a n u	dig up' (expected form karovanu)	dutton2010	1475
+15050	koitabu	813_DO	ki-	ki-	k i	do, make	dutton2010	1476
+15054	koitabu	262_HE_OR_SHE_OR_IT	au	au	a u	he, she, it'; 3sg pronoun	dutton2010	1477
+15063	koitabu	694_GET	ma-	ma-	m a	get (sg obj)	dutton2010	1478
+15068	koitabu	1199_WIFE	mabara	mabara	m a b a r a	wife	dutton2010	1479
+15076	koitabu	1035_GOOD	maɣe	maɣe	m a ɣ e	good	dutton2010	1480
+15080	koitabu	962_WOMAN	maɣi	maɣi	m a ɣ i	woman, wife, female	dutton2010	1481
+15091	koitabu	1217_FATHER	mama	mama	m a m a	father (reference)	dutton2010	1192
+15101	koitabu	984_WORK_LABOUR	me	me	m e	work (n)	dutton2010	1485
+15107	koitabu	506_medialssverbsuffix	-me	-me	m e	medial ss verb suffix	dutton2010	1486
+15112	koitabu	634_MEAT	mi|sika	mi	m i	meat, muscle, food	dutton2010	1487
+15112	koitabu	634_MEAT	mi|sika	sika	s i k a	meat, muscle, food	dutton2010	1487
+15119	koitabu	1621_SNEEZE	asi|mana-va-nu	asi	a s i	sneeze	dutton2010	1488
+15119	koitabu	1621_SNEEZE	asi|mana-va-nu	mana-va-nu	m a n a + v a + n u	sneeze	dutton2010	1488
+15125	koitabu	1447_GIVE	mo-	mo-	m o	give	dutton2010	1489
+15135	koitabu	857_STONE	muni	muni	m u n i	stone	dutton2010	1490
+15142	koitabu	1945_interrogative	-na	-na	n a	question form of specifier (on subject mostly)	dutton2010	1491
+15154	koitabu	1459_IF	-nei	-nei	n e i	when, if (past tense), after, then	dutton2010	1493
+15157	koitabu	511_forbenefactivecliticisedorsuffixedtonoun	ni	ni	n i	to (dative), for (benefactive)	dutton2010	1494
+15162	koitabu	1248_EYE	ni	ni	n i	eye	dutton2010	1495
+15170	koitabu	1839_CRY	ni|vi-	ni	n i	cry (sg subj)	dutton2010	1496
+15170	koitabu	1839_CRY	ni|vi-	vi-	v i	cry (sg subj)	dutton2010	1496
+15179	koitabu	1212_WE	no	no	n o	we	dutton2010	1497
+15195	koitabu	3037_SAME-SEX_OLDER_SIBLING	amakina	amakina	a m a k i n a	sibling, same sex, older	dutton2010	1499
+15203	koitabu	1895_CLOTHES	ogona	ogona	o g o n a	cloth, clothes	dutton2010	1500
+15209	koitabu	2102_BURN	ra-ɣa-	ra-ɣa-	r a + ɣ a	(stg) burns	dutton2010	1501
+15216	koitabu	269_COOKED	ragi|raɣe	ragi	r a g i	cooked	dutton2010	1502
+15216	koitabu	269_COOKED	ragi|raɣe	raɣe	r a ɣ e	cooked	dutton2010	1502
+15222	koitabu	1442_STAND	ra-ma-	ra-ma-	r a + m a	stand (sg subj)	dutton2010	1503
+15230	koitabu	860_toclearbushforplanting	yaha-	yaha-	j a h a	shave, remove hair	dutton2010	1504
+15236	koitabu	1404_STRAIGHT	ye|riri-yeriri	ye	j e	straight	dutton2010	1505
+15236	koitabu	1404_STRAIGHT	ye|riri-yeriri	riri-yeriri	r i r i + j e r i r i	straight	dutton2010	1505
+15244	koitabu	1458_SAY	ro-	ro-	r o	say, tell, call (name)	dutton2010	1506
+15251	koitabu	1446_COME	(o)roɣo-	roɣo-	r o ɣ o	come	dutton2010	1507
+15262	koitabu	1949_BEDBUG	saru	saru	s a r u	bed bug	dutton2010	1508
+15267	koitabu	1333_NECK	eno-ka	eno-ka	e n o + k a	throat	dutton2010	1509
+15268	koitabu	1333_NECK	eno ita	eno_ita	e n o + i t a	nape of neck	dutton2010	1509
+15280	koitabu	1457_SEW	tigu|hu-	tigu	t i g u	sew up	dutton2010	1511
+15280	koitabu	1457_SEW	tigu|hu-	hu-	h u	sew up	dutton2010	1511
+15291	koitabu	946_BLOOD	taɣo	taɣo	t a ɣ o	blood	dutton2010	1513
+15302	koitabu	1436_SCRATCH	tuma-	tuma-	t u m a	scratch (skin)	dutton2010	1515
+15314	koitabu	1645_SHORT	tuake	tuake	t u a k e	short	dutton2010	1517
+15324	koitabu	937_BIRD	ugu|ha	ugu	u g u	bird	dutton2010	1519
+15324	koitabu	937_BIRD	ugu|ha	ha	h a	bird	dutton2010	1519
+15330	koitabu	175_BLOW_OF_WIND	uhu-	uhu-	u h u	blow (fire)	dutton2010	13644
+15338	koitabu	1667_HOLE	aba	aba	a b a	hole (in ground)	dutton2010	1521
+15342	koitabu	1202_BIG	bauge	bauge	b a u g e	big	dutton2010	1522
+15345	koitabu	1313_MOON	bata	bata	b a t a	moon	dutton2010	1523
+15352	koitabu	680_BREAK_DESTROY_OR_GET_DESTROYED	boko-ɣa-	boko-ɣa-	b o k o + ɣ a	break (stick, pot)	dutton2010	1525
+15356	koitabu	1455_PULL	butu-ɣa-	butu-ɣa-	b u t u + ɣ a	pull	dutton2010	1526
+15360	koitabu	1209_I	da	da	d a	I	dutton2010	9969
+15368	koitabu	1838_NAVEL	demodo|ne	demodo	d e m o d o	navel	dutton2010	1529
+15368	koitabu	1838_NAVEL	demodo|ne	ne	n e	navel	dutton2010	1529
+15369	koitabu	1838_NAVEL	demona	demona	d e m o n a	navel	dutton2010	1529
+15376	koitabu	307_HAWK	duna	duna	d u n a	hawk	dutton2010	1531
+15380	koitabu	1498_TWO	ab	ab	a b	two	dutton2010	1532
+15384	koitabu	1278_VOMIT	edoɣo-ho-	edoɣo-ho-	e d o ɣ o + h o	vomit	dutton2010	1533
+15388	koitabu	78_THAT	eke|ro	eke	e k e	that	dutton2010	1534
+15388	koitabu	78_THAT	eke|ro	ro	r o	that	dutton2010	1534
+15389	koitabu	78_THAT	e	e	e	that	dutton2010	1534
+15393	koitabu	879_COUGH	eno|to-	eno	e n o	cough	dutton2010	1535
+15393	koitabu	879_COUGH	eno|to-	to-	t o	cough	dutton2010	1535
+15397	koitabu	1409_SEE	era-ɣa-	era-ɣa-	e r a + ɣ a	see	dutton2010	1536
+15404	koitabu	867_backofhand	(ada) hoto-ka	_hoto-ka	h o t o + k a	back (of hand)	dutton2010	1538
+15412	koitabu	868_orplinsomeverbs	boko-geve-	boko-geve-	b o k o + g e v e	break them	dutton2010	1540
+15413	koitabu	868_orplinsomeverbs	era-geve-	era-geve-	e r a + g e v e	see them	dutton2010	1540
+15419	koitabu	869_orsginsomeverbs	era-ɣa-	era-ɣa-	e r a + ɣ a	see it	dutton2010	1541
+15420	koitabu	869_orsginsomeverbs	boko-ɣa	boko-ɣa	b o k o + ɣ a	break it	dutton2010	1541
+15426	koitabu	1102_CLIMB	ɣadi-va-	ɣadi-va-	ɣ a d i + v a	ascend, go up	dutton2010	1542
+15430	koitabu	1100_COOK_SOMETHING	amuha-	amuha-	a m u h a	cook in ground, mumu	dutton2010	1543
+15434	koitabu	871_transitiveverbformingsuffixcausative	-ɣaha	-ɣaha	ɣ a h a	transitive verb forming suffix, causative	dutton2010	1544
+15438	koitabu	1433_HIT	ɣama-	ɣama-	ɣ a m a	hit	dutton2010	1545
+15442	koitabu	581_COME_BACK	ɣoira-ɣi (oroɣonu)	ɣoira-ɣi_	ɣ o i r a + ɣ i	return (lit. turn around [and come])	dutton2010	1546
+15446	koitabu	1218_ROPE	ɣote	ɣote	ɣ o t e	string, rope	dutton2010	1547
+15450	koitabu	2457_PATH_OR_ROAD	ɣuma	ɣuma	ɣ u m a	path, road	dutton2010	1548
+15454	koitabu	1335_WHITE	kae	kae	k a e	white	dutton2010	1549
+15458	koitabu	1231_NEW	isage	isage	i s a g e	new	dutton2010	1550
+15459	koitabu	1959_RAW	isaɣe	isaɣe	i s a ɣ e	uncooked, raw, young	dutton2010	1550
+15467	koitabu	873_verbsuffixpresentcontinuoussg	-ma	-ma	m a	verb suffix, present continuous, SG	dutton2010	1552
+15471	koitabu	907_OLD_WOMAN	(maɣi) mabata	_mabata	m a b a t a	old woman (inactive)	dutton2010	1553
+15475	koitabu	1156_OPEN	araha-	araha-	a r a h a	open (stg)	dutton2010	1554
+15482	koitabu	2159_GROUND	(da) mata-me	_mata-me	m a t a + m e	(my) land, ground, place	dutton2010	1556
+15486	koitabu	1013_FRESHWATER_EEL	mina	mina	m i n a	eel	dutton2010	1557
+15490	koitabu	1366_BOY	moe	moe	m o e	male child, son	dutton2010	1558
+15491	koitabu	1366_BOY	moika	moika	m o i k a	baby boy	dutton2010	1558
+15500	koitabu	1558_SIMILAR	naɣate	naɣate	n a ɣ a t e	be like, resemble	dutton2010	1560
+15504	koitabu	1216_MOTHER	neina	neina	n e i n a	mother	dutton2010	1561
+15509	koitabu	962_WOMAN	nigi	nigi	n i g i	skirt, woman's dress	dutton2010	1562
+15513	koitabu	879_verbsuffixpasttensesg	-nu	-nu	n u	verb suffix, past tense sg	dutton2010	1563
+15517	koitabu	1235_WHO	-are	-are	a r e	who, which	dutton2010	1564
+15521	koitabu	1337_PIG	oho	oho	o h o	pig	dutton2010	1565
+15525	koitabu	1214_THIS	o	o	o	this	dutton2010	1566
+15532	koitabu	1418_DIG	roho-	roho-	r o h o	dig (hole)	dutton2010	1568
+15542	koitabu	1882_BEFORE	subuta	subuta	s u b u t a	long ago, before, old	dutton2010	1571
+15546	koitabu	1220_TAIL	(to) tete-ka	_tete-ka	t e t e + k a	(dog's) tail	dutton2010	1572
+15553	koitabu	881_also	(NP)-taɣe	-taɣe	t a ɣ e	also	dutton2010	1574
+15557	koitabu	1554_MAN	ata	ata	a t a	man	dutton2010	1575
+15561	koitabu	1748_RIDGE	tana	tana	t a n a	raised land, ridge	dutton2010	1576
+15565	koitabu	3039_DIFFERENT-SEX_OLDER_SIBLING	tata	tata	t a t a	elder sister	dutton2010	1577
+15569	koitabu	695_GO	(o)ti-	ti-	t i	go	dutton2010	1578
+15573	koitabu	2009_DOG	to	to	t o	dog	dutton2010	1579
+15574	koitabu	2009_DOG	totoka	totoka	t o t o k a	dog	dutton2010	1579
+15578	koitabu	1429_FULL	tobo|ke	tobo	t o b o	full (of water)	dutton2010	1580
+15578	koitabu	1429_FULL	tobo|ke	ke	k e	full (of water)	dutton2010	1580
+15582	koitabu	1333_NECK	tuɣuka	tuɣuka	t u ɣ u k a	nape of neck	dutton2010	1581
+15585	koitabu	285_tostay	u-	u-	u	stay, be in a place, live, remain	dutton2010	1582
+15589	koitabu	1416_SIT	gura-ma-	gura-ma-	g u r a + m a	sit down	dutton2010	1583
+15597	koitabu	670_ROOT	umu-ka	umu-ka	u m u + k a	root, base	dutton2010	1585
+15601	koitabu	884_medialverbsuffix	atege	atege	a t e g e	until	dutton2010	1586
+15605	koitabu	1509_MOSQUITO	una	una	u n a	mosquito	dutton2010	1587
+15608	koitabu	1580_ONLY	unaɣe	unaɣe	u n a ɣ e	only	dutton2010	1588
+15612	koitabu	646_ASH	utuɣo	utuɣo	u t u ɣ o	ashes	dutton2010	1589
+15619	koitabu	886_cordylinesp	vabe	vabe	v a b e	tangget, Cordyline	dutton2010	1591
+15623	koitabu	126_SWEAT_PERSPIRE	vaɣoto-ɣoi-	vaɣoto-ɣoi-	v a ɣ o t o + ɣ o i	perspire, sweat	dutton2010	1592
+15626	koitabu	1343_SUN	vani	vani	v a n i	sun	dutton2010	1593
+15630	koitabu	2159_GROUND	vata	vata	v a t a	ground	dutton2010	1594
+15637	koitabu	1269_NO	(maɣe) veite|ra	_veite	v e i t e	not (good)	dutton2010	1596
+15637	koitabu	1269_NO	(maɣe) veite|ra	ra	r a	not (good)	dutton2010	1596
+15644	koitabu	592_PISS	veu-ɣa-	veu-ɣa-	v e u + ɣ a	urinate	dutton2010	1598
+15651	koitabu	215_LIE_DOWN	ya-ɣa-	ya-ɣa-	j a + ɣ a	sleep, lie on ground	dutton2010	1600
+15655	koitabu	293_NETBAG	yaɣa	yaɣa	j a ɣ a	string bag	dutton2010	1601
+15659	koitabu	810_predicativepossessivesuffix	-ye	-ye	j e	Predictive possessive suffix	dutton2010	1602
+15663	koitabu	1482_SHOULDER	bagu|ni	bagu	b a g u	shoulder	dutton2010	1603
+15663	koitabu	1482_SHOULDER	bagu|ni	ni	n i	shoulder	dutton2010	1603
+15669	koitabu	1205_TONGUE	neme	neme	n e m e	middle, centre	dutton2010	1604
+15671	koitabu	1366_BOY	ɣami|ka	ɣami	ɣ a m i	young boy, child	dutton2010	1605
+15671	koitabu	1366_BOY	ɣami|ka	ka	k a	young boy, child	dutton2010	1605
+92429	koitabu	1336_EAT	i-	i-	i	eat, drink, smoke (tobacco)	dutton2010	306
+260775	koitabu	1401_DRINK	i-	i-	i	eat, drink, smoke (tobacco)	dutton2010	307
+14604	grass-koiari	2304_THEE_OBLIQUE_CASE_OF_YOU	a	a	a	you.sg	dutton2010	1401
+14612	grass-koiari	1402_BREAST	amu	amu	a m u	breast (of woman), milk	dutton2010	1402
+14620	grass-koiari	822_plsuffixonkinshipnouns	-uhu yabe	-uhu_yabe	u h u + j a b e	pl suffix on kinship nouns	dutton2010	1403
+14626	grass-koiari	744_EGG	uni-ka	uni-ka	u n i + k a	egg, kernel, core, stomach	dutton2010	1404
+14630	grass-koiari	2371_BREADFRUIT	unu	unu	u n u	breadfruit	dutton2010	1405
+14634	grass-koiari	1221_NOSE	uri	uri	u r i	nose	dutton2010	1406
+14638	grass-koiari	1486_PLANT_SOMETHING	va-	va-	v a	plant	dutton2010	1407
+14644	grass-koiari	1236_WHAT	vadu|be	vadu	v a d u	what?	dutton2010	1408
+14644	grass-koiari	1236_WHAT	vadu|be	be	b e	what?	dutton2010	1408
+14648	grass-koiari	351_TARO	vadu	vadu	v a d u	taro	dutton2010	1409
+14655	grass-koiari	1480_BODY	aha|ta	aha	a h a	body	dutton2010	1410
+14655	grass-koiari	1480_BODY	aha|ta	ta	t a	body	dutton2010	1410
+14661	grass-koiari	1233_NIGHT	vahi	vahi	v a h i	night	dutton2010	1411
+14666	grass-koiari	410_YAM	vaea	vaea	v a e a	yam (type)	dutton2010	1412
+14671	grass-koiari	749_ENTER	ari|ra-va-	ari	a r i	enter a hole	dutton2010	1413
+14671	grass-koiari	749_ENTER	ari|ra-va-	ra-va-	r a + v a	enter a hole	dutton2010	1413
+14678	grass-koiari	1629_faceforehead	vari-ka	vari-ka	v a r i + k a	face, front of	dutton2010	1414
+14686	grass-koiari	763_SKIN	vata-ka	vata-ka	v a t a + k a	skin	dutton2010	1415
+14691	grass-koiari	1836_VAGINA	ve	ve	v e	vagina	dutton2010	1416
+14696	grass-koiari	1222_PENIS	veu	veu	v e u	penis	dutton2010	1417
+14701	grass-koiari	221_FIRE	vene	vene	v e n e	fire, firewood	dutton2010	1418
+14709	grass-koiari	2108_RAINING_OR_RAIN	veni	veni	v e n i	rain	dutton2010	1419
+14717	grass-koiari	665_BEE	uamu	uamu	u a m u	(honey) bee	dutton2010	1420
+14721	grass-koiari	2312_YOU_OBLIQUE_CASE_OF_YOU	ya	ya	j a	you.pl	dutton2010	1421
+14729	grass-koiari	817_THEY	yabu	yabu	j a b u	they	dutton2010	1422
+14744	grass-koiari	1217_FATHER	baba	baba	b a b a	father (address), dad	dutton2010	10523
+14750	grass-koiari	1392_LOUSE	umu	umu	u m u	louse	dutton2010	1425
+14757	grass-koiari	1442_STAND	uri-va-	uri-va-	u r i + v a	get up, stand up, arise	dutton2010	1426
+14765	grass-koiari	178_RIPE	bae|ka	bae	b a e	ripe	dutton2010	1427
+14765	grass-koiari	178_RIPE	bae|ka	ka	k a	ripe	dutton2010	1427
+14773	grass-koiari	834_acertainonesomeanother	be	be	b e	a (certain one), one, some, another	dutton2010	1429
+14783	grass-koiari	1240_NOT	be|be	be	b e	not, no	dutton2010	1430
+14783	grass-koiari	1240_NOT	be|be	be	b e	not, no	dutton2010	1430
+14784	grass-koiari	1240_NOT	i|be	i	i	or not	dutton2010	1430
+14784	grass-koiari	1240_NOT	i|be	be	b e	or not	dutton2010	1430
+14792	grass-koiari	945_SPEAR	bi	bi	b i	spear (n)	dutton2010	1431
+14797	grass-koiari	683_PERSON	bia	bia	b i a	one (prn), people (of), group (of people) from, folk	dutton2010	1432
+14801	grass-koiari	473_SPEAR_SOMEBODY	bi-	bi-	b i	spear (v), kill (by spearing), stab	dutton2010	1433
+14809	grass-koiari	2121_ARM_OR_HAND	ada-ka	ada-ka	a d a + k a	arm, hand, branch, handle, foreleg (of animal), wing	dutton2010	1434
+14820	grass-koiari	586_GARDEN	buru	buru	b u r u	garden	dutton2010	1436
+14826	grass-koiari	675_FAECES_EXCREMENT	de	de	d e	faeces	dutton2010	1437
+14834	grass-koiari	1935_ANUS	deva	deva	d e v a	buttocks	dutton2010	1438
+14847	grass-koiari	1453_WASH	iago-	iago-	i a g o	wash.sg.obj	dutton2010	1441
+14851	grass-koiari	1453_WASH	iagu-	iagu-	i a g u	wash (oneself), bathe	dutton2010	1442
+14856	grass-koiari	1203_LONG	ege	ege	e g e	long	dutton2010	1443
+14867	grass-koiari	893_topoffoot	ada-he	ada-he	a d a + h e	on top of	dutton2010	1445
+14872	grass-koiari	1439_SWIM	etova-	etova-	e t o v a	swim	dutton2010	1446
+14878	grass-koiari	217_BETELNUT	hava	hava	h a v a	betelnut	dutton2010	1447
+14883	grass-koiari	628_LEAF	hana-ka	hana-ka	h a n a + k a	leaf	dutton2010	1448
+14888	grass-koiari	840_immediateimperativepluralverbsuffix	-ya|he	-ya	j a	imperative plural suffix	dutton2010	1449
+14888	grass-koiari	840_immediateimperativepluralverbsuffix	-ya|he	he	h e	imperative plural suffix	dutton2010	1449
+14897	grass-koiari	841_locativenounsuffixattofrom	-he	-he	h e	at, to, from	dutton2010	1450
+14905	grass-koiari	189_HAIR_BODY	homo-ka	homo-ka	h o m o + k a	hair	dutton2010	1451
+14918	grass-koiari	2093_AFTERWARDS	gabi|dahe	gabi	g a b i	afterwards, later	dutton2010	1454
+14918	grass-koiari	2093_AFTERWARDS	gabi|dahe	dahe	d a h e	afterwards, later	dutton2010	1454
+14923	grass-koiari	498_medialverbsuffixds	-ge	-ge	g e	medial verb suffix DS, 'and, when	dutton2010	1455
+14946	grass-koiari	1433_HIT	va-ma-	va-ma-	v a + m a	hit	dutton2010	1459
+14951	grass-koiari	1423_FIGHT	varaha-	varaha-	v a r a h a	fight	dutton2010	1460
+14956	grass-koiari	2115_CEASE_OR_FINISH	vare-me-	vare-me-	v a r e + m e	leave (depart), leave off, stop (doing stg)	dutton2010	1461
+14964	grass-koiari	499_medialsequentialsuffixhavingfinishedthatandthen	-yareime	-yareime	j a r e i m e	completive action ss (sg), 'having V-ed then…	dutton2010	1462
+14968	grass-koiari	3038_SAME-SEX_YOUNGER_SIBLING	vovo	vovo	v o v o	sibling, same sex, younger	dutton2010	1463
+14975	grass-koiari	982_LIME_FRUIT	udi	udi	u d i	lime	dutton2010	1464
+14978	grass-koiari	1415_THINK_REFLECT	vuvu-	vuvu-	v u v u	think	dutton2010	1465
+14983	grass-koiari	1432_CUT	aha-	aha-	a h a	cut (wood), chop	dutton2010	1466
+14989	grass-koiari	1336_EAT	i-	i-	i	eat, drink, smoke (tobacco)	dutton2010	1467
+14998	grass-koiari	906_TREE	idi	idi	i d i	tree, stick, wood, pole, log	dutton2010	1468
+15005	grass-koiari	1493_ONE	igau	igau	i g a u	one	dutton2010	1469
+15014	grass-koiari	1405_NAME	ihi	ihi	i h i	name	dutton2010	1470
+15022	grass-koiari	1408_HEAR	ihi-	ihi-	i h i	hear	dutton2010	1471
+15030	grass-koiari	146_SUGAR_CANE	imi	imi	i m i	sugar cane	dutton2010	1472
+15035	grass-koiari	1210_HEAVY	ehu|ka	ehu	e h u	heavy	dutton2010	1473
+15035	grass-koiari	1210_HEAVY	ehu|ka	ka	k a	heavy	dutton2010	1473
+15041	grass-koiari	1075_TRAP_PITFALL	ivi	ivi	i v i	noose, trap	dutton2010	1474
+15046	grass-koiari	1418_DIG	karo-vahanu	karo-vahanu	k a r o + v a h a n u	dig out, harvest (yams)	dutton2010	1475
+15051	grass-koiari	813_DO	ki-	ki-	k i	do, make	dutton2010	1476
+15055	grass-koiari	262_HE_OR_SHE_OR_IT	ahu	ahu	a h u	he, she, it'; 3sg pronoun	dutton2010	1477
+15064	grass-koiari	694_GET	ma-	ma-	m a	get (sg obj)	dutton2010	1478
+15069	grass-koiari	1199_WIFE	mabara	mabara	m a b a r a	wife	dutton2010	1479
+15081	grass-koiari	962_WOMAN	mavi	mavi	m a v i	woman, wife	dutton2010	1481
+15086	grass-koiari	1035_GOOD	mai|teka	mai	m a i	good	dutton2010	1482
+15086	grass-koiari	1035_GOOD	mai|teka	teka	t e k a	good	dutton2010	1482
+15092	grass-koiari	1217_FATHER	mama	mama	m a m a	father (reference)	dutton2010	1192
+15108	grass-koiari	506_medialssverbsuffix	-me	-me	m e	medial ss verb suffix	dutton2010	1486
+15113	grass-koiari	619_ANIMAL	mi	mi	m i	animal (as game, generic), meat	dutton2010	1487
+15120	grass-koiari	1621_SNEEZE	akisi-va-nu	akisi-va-nu	a k i s i + v a + n u	sneeze	dutton2010	1488
+15126	grass-koiari	1447_GIVE	mo-	mo-	m o	give	dutton2010	1489
+15136	grass-koiari	857_STONE	muni	muni	m u n i	stone	dutton2010	1490
+15143	grass-koiari	1945_interrogative	-ne	-ne	n e	question form of specifier (on subject mostly)	dutton2010	1491
+15149	grass-koiari	321_CHEW	nana-	nana-	n a n a	chew	dutton2010	1492
+15158	grass-koiari	511_forbenefactivecliticisedorsuffixedtonoun	ni	ni	n i	to (dative), for (benefactive)	dutton2010	1494
+15163	grass-koiari	1248_EYE	ni	ni	n i	eye	dutton2010	1495
+15171	grass-koiari	1839_CRY	ni|va-	ni	n i	cry (sg subj)	dutton2010	1496
+15171	grass-koiari	1839_CRY	ni|va-	va-	v a	cry (sg subj)	dutton2010	1496
+15172	grass-koiari	1839_CRY	nina|va-	nina	n i n a	cry (sg subj)	dutton2010	1496
+15172	grass-koiari	1839_CRY	nina|va-	va-	v a	cry (sg subj)	dutton2010	1496
+15180	grass-koiari	1212_WE	no	no	n o	we	dutton2010	1497
+15187	grass-koiari	1014_OR	o (ibe)	o_	o	or (not)	dutton2010	1498
+15196	grass-koiari	3037_SAME-SEX_OLDER_SIBLING	amakina	amakina	a m a k i n a	sibling, same sex, older	dutton2010	1499
+15204	grass-koiari	1895_CLOTHES	ogona	ogona	o g o n a	cloth, clothes	dutton2010	1500
+15210	grass-koiari	2102_BURN	ra-va-	ra-va-	r a + v a	burn (stg)	dutton2010	1501
+15217	grass-koiari	269_COOKED	ravi|ravi	ravi	r a v i	cooked	dutton2010	1502
+15217	grass-koiari	269_COOKED	ravi|ravi	ravi	r a v i	cooked	dutton2010	1502
+15223	grass-koiari	1442_STAND	ra-mi-	ra-mi-	r a + m i	stand (sg subj)	dutton2010	1503
+15231	grass-koiari	860_toclearbushforplanting	yaha-	yaha-	j a h a	clear grass and/or weeds away	dutton2010	1504
+15237	grass-koiari	1404_STRAIGHT	riri|taka	riri	r i r i	straight	dutton2010	1505
+15237	grass-koiari	1404_STRAIGHT	riri|taka	taka	t a k a	straight	dutton2010	1505
+15245	grass-koiari	1458_SAY	roi-	roi-	r o i	speak	dutton2010	1506
+15252	grass-koiari	1446_COME	(o)rovo-	rovo-	r o v o	come	dutton2010	1507
+15263	grass-koiari	1949_BEDBUG	saru	saru	s a r u	bed bug	dutton2010	1508
+15269	grass-koiari	1333_NECK	eno	eno	e n o	nape of neck	dutton2010	1509
+15276	grass-koiari	862_plateauflatland	amaro|di	amaro	a m a r o	on (top of)/along the ridge	dutton2010	1510
+15276	grass-koiari	862_plateauflatland	amaro|di	di	d i	on (top of)/along the ridge	dutton2010	1510
+15292	grass-koiari	946_BLOOD	tavo	tavo	t a v o	blood	dutton2010	1513
+15303	grass-koiari	1436_SCRATCH	tuma-	tuma-	t u m a	scratch (skin)	dutton2010	1515
+15315	grass-koiari	1645_SHORT	duaka	duaka	d u a k a	short	dutton2010	1517
+15325	grass-koiari	937_BIRD	ugu	ugu	u g u	bird	dutton2010	1519
+15331	grass-koiari	175_BLOW_OF_WIND	uhi|to-	uhi	u h i	blow (fire)	dutton2010	13644
+15331	grass-koiari	175_BLOW_OF_WIND	uhi|to-	to-	t o	blow (fire)	dutton2010	13644
+15339	grass-koiari	1667_HOLE	aba	aba	a b a	hole (in ground)	dutton2010	1521
+15346	grass-koiari	1313_MOON	bata	bata	b a t a	moon	dutton2010	1523
+15349	grass-koiari	2760_MAKE_A_JOKE	bitu-va-	bitu-va-	b i t u + v a	joke	dutton2010	1524
+15353	grass-koiari	680_BREAK_DESTROY_OR_GET_DESTROYED	boko-va-	boko-va-	b o k o + v a	break (stick)	dutton2010	1525
+15357	grass-koiari	1455_PULL	but-va-	but-va-	b u t + v a	pull	dutton2010	1526
+15361	grass-koiari	1209_I	da	da	d a	I	dutton2010	9969
+15365	grass-koiari	865_withbymeansof	da	da	d a	on, on top of, by (car or truck)	dutton2010	1528
+15370	grass-koiari	1838_NAVEL	demodi|nika	demodi	d e m o d i	navel	dutton2010	1529
+15370	grass-koiari	1838_NAVEL	demodi|nika	nika	n i k a	navel	dutton2010	1529
+15373	grass-koiari	1280_FALL	dobi-va-	dobi-va-	d o b i + v a	fall down	dutton2010	1530
+15377	grass-koiari	307_HAWK	duna	duna	d u n a	hawk	dutton2010	1531
+15381	grass-koiari	1498_TWO	abuti	abuti	a b u t i	two	dutton2010	1532
+15385	grass-koiari	1278_VOMIT	edo-va-	edo-va-	e d o + v a	vomit	dutton2010	1533
+15390	grass-koiari	78_THAT	eke	eke	e k e	that	dutton2010	1534
+15394	grass-koiari	879_COUGH	eno|toto-va-	eno	e n o	cough	dutton2010	1535
+15394	grass-koiari	879_COUGH	eno|toto-va-	toto-va-	t o t o + v a	cough	dutton2010	1535
+15398	grass-koiari	1409_SEE	ere-va-	ere-va-	e r e + v a	see	dutton2010	1536
+15401	grass-koiari	866_WIN	haki	haki	h a k i	side	dutton2010	1537
+15405	grass-koiari	867_backofhand	(ada) hoto-ka	_hoto-ka	h o t o + k a	back of hand	dutton2010	1538
+15406	grass-koiari	893_topoffoot	(vahi) hoto-ka	_hoto-ka	h o t o + k a	top (of foot)	dutton2010	1538
+15409	grass-koiari	2272_HOT_OR_WARM	huhuneva-	huhuneva-	h u h u n e v a	be hot, perspire	dutton2010	1539
+15414	grass-koiari	868_orplinsomeverbs	boko-gei|yahei-	boko-gei	b o k o + g e i	break them	dutton2010	1540
+15414	grass-koiari	868_orplinsomeverbs	boko-gei|yahei-	yahei-	j a h e i	break them	dutton2010	1540
+15415	grass-koiari	868_orplinsomeverbs	ere-gei|yahei-	ere-gei	e r e + g e i	see them	dutton2010	1540
+15415	grass-koiari	868_orplinsomeverbs	ere-gei|yahei-	yahei-	j a h e i	see them	dutton2010	1540
+15421	grass-koiari	869_orsginsomeverbs	ere-va-	ere-va-	e r e + v a	see it	dutton2010	1541
+15422	grass-koiari	869_orsginsomeverbs	boko-va-	boko-va-	b o k o + v a	break it	dutton2010	1541
+15427	grass-koiari	1102_CLIMB	vadi-ma	vadi-ma	v a d i + m a	ascend, go up	dutton2010	1542
+15431	grass-koiari	1100_COOK_SOMETHING	amuha-	amuha-	a m u h a	cook in ground, mumu	dutton2010	1543
+15435	grass-koiari	871_transitiveverbformingsuffixcausative	-vaha	-vaha	v a h a	transitive verb forming suffix, causative	dutton2010	1544
+15439	grass-koiari	1433_HIT	vama-	vama-	v a m a	hit	dutton2010	1545
+15443	grass-koiari	581_COME_BACK	voira-vi (orovonu)	voira-vi_	v o i r a + v i	return (lit. turn around [and come])	dutton2010	1546
+15447	grass-koiari	1218_ROPE	vote	vote	v o t e	vine, string, rope	dutton2010	1547
+15451	grass-koiari	2457_PATH_OR_ROAD	uma	uma	u m a	path, road	dutton2010	1548
+15455	grass-koiari	1335_WHITE	kae|kae	kae	k a e	white	dutton2010	1549
+15455	grass-koiari	1335_WHITE	kae|kae	kae	k a e	white	dutton2010	1549
+15460	grass-koiari	1959_RAW	isasa	isasa	i s a s a	uncooked, raw, new	dutton2010	1550
+15464	grass-koiari	1256_HEAD	kina	kina	k i n a	head	dutton2010	1551
+15468	grass-koiari	873_verbsuffixpresentcontinuoussg	-ma	-ma	m a	verb suffix, present continuous, SG	dutton2010	1552
+15472	grass-koiari	907_OLD_WOMAN	mabata	mabata	m a b a t a	old woman	dutton2010	1553
+15476	grass-koiari	1156_OPEN	araha-	araha-	a r a h a	open (stg)	dutton2010	1554
+15479	grass-koiari	2102_BURN	mavoi-	mavoi-	m a v o i	burn, set alight, cook (by burning)	dutton2010	1555
+15483	grass-koiari	2159_GROUND	(da) mata-me	_mata-me	m a t a + m e	(my) land, ground, place	dutton2010	1556
+15487	grass-koiari	1013_FRESHWATER_EEL	mina	mina	m i n a	eel	dutton2010	1557
+15492	grass-koiari	1366_BOY	moe	moe	m o e	male child, son	dutton2010	1558
+15493	grass-koiari	1366_BOY	mo	mo	m o	male, boy	dutton2010	1558
+15497	grass-koiari	2445_PAPAYA	nitani	nitani	n i t a n i	pawpaw	dutton2010	1559
+15501	grass-koiari	1558_SIMILAR	navate	navate	n a v a t e	like, resemble, similar	dutton2010	1560
+15505	grass-koiari	1216_MOTHER	(da) neine	_neine	n e i n e	(my) mother	dutton2010	1561
+15506	grass-koiari	1216_MOTHER	neina-ka	neina-ka	n e i n a + k a	mother	dutton2010	1561
+15510	grass-koiari	962_WOMAN	nigi	nigi	n i g i	skirt, woman's dress	dutton2010	1562
+15514	grass-koiari	879_verbsuffixpasttensesg	-nu	-nu	n u	verb suffix, past tense sg	dutton2010	1563
+15518	grass-koiari	1235_WHO	-are	-are	a r e	who, which	dutton2010	1564
+15522	grass-koiari	1337_PIG	oho	oho	o h o	pig	dutton2010	1565
+15526	grass-koiari	1214_THIS	oko	oko	o k o	this	dutton2010	1566
+15529	grass-koiari	1236_WHAT	ono	ono	o n o	what (is it)? (self questioning)	dutton2010	1567
+15533	grass-koiari	1418_DIG	roho-	roho-	r o h o	dig (hole)	dutton2010	1568
+15536	grass-koiari	1157_BECAUSE	V-are-ru	V-are-ru	V/ə + a r e + r u	because V	dutton2010	1569
+15539	grass-koiari	2220_MOVE_QUICKLY	soreka	soreka	s o r e k a	quickly	dutton2010	1570
+15543	grass-koiari	1882_BEFORE	subuta	subuta	s u b u t a	long ago, before, old	dutton2010	1571
+15547	grass-koiari	1220_TAIL	(to) tete-ka	_tete-ka	t e t e + k a	(dog's) tail	dutton2010	1572
+15550	grass-koiari	1577_AND	NP-ta...NP-ta	NP-ta...NP-ta	t a + t a	NP and NP	dutton2010	1573
+15554	grass-koiari	881_also	(NP)-tae	-tae	t a e	also	dutton2010	1574
+15558	grass-koiari	1554_MAN	ata	ata	a t a	man	dutton2010	1575
+15562	grass-koiari	1748_RIDGE	tana	tana	t a n a	ridge of land	dutton2010	1576
+15566	grass-koiari	3039_DIFFERENT-SEX_OLDER_SIBLING	tata	tata	t a t a	sibling, opposite sex, older, elder sister	dutton2010	1577
+15570	grass-koiari	695_GO	(o)ti-	ti-	t i	go	dutton2010	1578
+15575	grass-koiari	2009_DOG	to	to	t o	dog	dutton2010	1579
+15579	grass-koiari	1429_FULL	tobo|ka	tobo	t o b o	full (of water)	dutton2010	1580
+15579	grass-koiari	1429_FULL	tobo|ka	ka	k a	full (of water)	dutton2010	1580
+15586	grass-koiari	285_tostay	u-	u-	u	stay, be in a place, live, remain	dutton2010	1582
+15590	grass-koiari	1416_SIT	gura-ma-	gura-ma-	g u r a + m a	sit down	dutton2010	1583
+15594	grass-koiari	1403_BITE	ua-va-	ua-va-	u a + v a	bite	dutton2010	1584
+15598	grass-koiari	670_ROOT	umu-ka	umu-ka	u m u + k a	root, base	dutton2010	1585
+15602	grass-koiari	884_medialverbsuffix	-yata	-yata	j a t a	medial verb suffix	dutton2010	1586
+15609	grass-koiari	1580_ONLY	unae	unae	u n a e	only	dutton2010	1588
+15613	grass-koiari	646_ASH	utuvu	utuvu	u t u v u	ashes	dutton2010	1589
+15616	grass-koiari	531_HOW_MUCH	vahuti	vahuti	v a h u t i	how much	dutton2010	1590
+15620	grass-koiari	886_cordylinesp	vabe	vabe	v a b e	tangget, Cordyline	dutton2010	1591
+15627	grass-koiari	1343_SUN	vani	vani	v a n i	sun, day, time	dutton2010	1593
+15631	grass-koiari	2159_GROUND	vata	vata	v a t a	ground, earth	dutton2010	1594
+15634	grass-koiari	2101_BE_DEAD_OR_DIE	vati-	vati-	v a t i	die	dutton2010	1595
+15638	grass-koiari	1269_NO	vehite	vehite	v e h i t e	not, none	dutton2010	1596
+15641	grass-koiari	1791_BUTTERFLY	avako	avako	a v a k o	butterfly	dutton2010	1597
+15645	grass-koiari	592_PISS	veu-va-	veu-va-	v e u + v a	urinate	dutton2010	1598
+15648	grass-koiari	121_SPIN	to|viri|viri	to	t o	car, truck	dutton2010	1599
+15648	grass-koiari	121_SPIN	to|viri|viri	viri	v i r i	car, truck	dutton2010	1599
+15648	grass-koiari	121_SPIN	to|viri|viri	viri	v i r i	car, truck	dutton2010	1599
+15652	grass-koiari	215_LIE_DOWN	ya-va-	ya-va-	j a + v a	sleep, lie down	dutton2010	1600
+15656	grass-koiari	293_NETBAG	yago	yago	j a g o	string bag	dutton2010	1601
+15660	grass-koiari	810_predicativepossessivesuffix	-ye	-ye	j e	Predictive possessive suffix	dutton2010	1602
+15664	grass-koiari	1482_SHOULDER	bagi|na	bagi	b a g i	shoulder	dutton2010	1603
+15664	grass-koiari	1482_SHOULDER	bagi|na	na	n a	shoulder	dutton2010	1603
+15668	grass-koiari	1205_TONGUE	neme-ka	neme-ka	n e m e + k a	tongue	dutton2010	1604
+15672	grass-koiari	1366_BOY	vami	vami	v a m i		dutton2010	1605
+92430	grass-koiari	1336_EAT	i-	i-	i	eat, drink, smoke (tobacco)	dutton2010	308
+260776	grass-koiari	1401_DRINK	i-	i-	i	eat, drink, smoke (tobacco)	dutton2010	309
+14605	mountain-koiari	2304_THEE_OBLIQUE_CASE_OF_YOU	a	a	a	you.sg	dutton2010	1401
+14613	mountain-koiari	1402_BREAST	amu	amu	a m u	breast (of woman)	dutton2010	1402
+14621	mountain-koiari	822_plsuffixonkinshipnouns	-uvu	-uvu	u v u	pl suffix on kinship nouns	dutton2010	1403
+14627	mountain-koiari	744_EGG	uni	uni	u n i	egg (when combined with word for 'bird'), stomach	dutton2010	1404
+14635	mountain-koiari	1221_NOSE	uli	uli	u l i	nose	dutton2010	1406
+14639	mountain-koiari	1486_PLANT_SOMETHING	ha-	ha-	h a	plant	dutton2010	1407
+14649	mountain-koiari	351_TARO	fadi|a	fadi	f a d i	taro	dutton2010	1409
+14649	mountain-koiari	351_TARO	fadi|a	a	a	taro	dutton2010	1409
+14656	mountain-koiari	1480_BODY	vava	vava	v a v a	body	dutton2010	1410
+14662	mountain-koiari	1233_NIGHT	vavi	vavi	v a v i	night	dutton2010	1411
+14679	mountain-koiari	1629_faceforehead	vali	vali	v a l i	forehead	dutton2010	1414
+14687	mountain-koiari	763_SKIN	vate	vate	v a t e	skin	dutton2010	1415
+14697	mountain-koiari	1222_PENIS	vevu	vevu	v e v u	penis	dutton2010	1417
+14702	mountain-koiari	221_FIRE	vene	vene	v e n e	fire, firewood	dutton2010	1418
+14710	mountain-koiari	2108_RAINING_OR_RAIN	veni	veni	v e n i	rain	dutton2010	1419
+14722	mountain-koiari	2312_YOU_OBLIQUE_CASE_OF_YOU	la	la	l a	you.pl	dutton2010	1421
+14730	mountain-koiari	817_THEY	abu	abu	a b u	they	dutton2010	1422
+14751	mountain-koiari	1392_LOUSE	umu	umu	u m u	louse	dutton2010	1425
+14766	mountain-koiari	178_RIPE	bae|a	bae	b a e	to be ripe, ready to pick	dutton2010	1427
+14766	mountain-koiari	178_RIPE	bae|a	a	a	to be ripe, ready to pick	dutton2010	1427
+14769	mountain-koiari	1507_FRUIT	bai-fe	bai-fe	b a i + f e	fruit	dutton2010	1428
+14774	mountain-koiari	834_acertainonesomeanother	be	be	b e	a, one, some	dutton2010	1429
+14785	mountain-koiari	1240_NOT	be	be	b e	strong negative	dutton2010	1430
+14793	mountain-koiari	945_SPEAR	bi	bi	b i	spear (n)	dutton2010	1431
+14802	mountain-koiari	473_SPEAR_SOMEBODY	bi-	bi-	b i	spear (v), stab, pierce	dutton2010	1433
+14810	mountain-koiari	2121_ARM_OR_HAND	ada	ada	a d a	arm, hand, foreleg, branch	dutton2010	1434
+14816	mountain-koiari	1683_BUSH	boto	boto	b o t o	bush	dutton2010	1435
+14821	mountain-koiari	586_GARDEN	bulu	bulu	b u l u	garden	dutton2010	1436
+14827	mountain-koiari	675_FAECES_EXCREMENT	de	de	d e	faeces	dutton2010	1437
+14838	mountain-koiari	1519_RUN	dibu-	dibu-	d i b u	run	dutton2010	1439
+14841	mountain-koiari	1430_STAR	didi	didi	d i d i	star	dutton2010	1440
+14857	mountain-koiari	1203_LONG	ege|tana	ege	e g e	long	dutton2010	1443
+14857	mountain-koiari	1203_LONG	ege|tana	tana	t a n a	long	dutton2010	1443
+14858	mountain-koiari	1203_LONG	ege|a	ege	e g e	to be long	dutton2010	1443
+14858	mountain-koiari	1203_LONG	ege|a	a	a	to be long	dutton2010	1443
+14861	mountain-koiari	1246_SMALL	ese-ve	ese-ve	e s e + v e	small	dutton2010	1444
+14862	mountain-koiari	1246_SMALL	ese	ese	e s e	child	dutton2010	1444
+14868	mountain-koiari	893_topoffoot	ho|vada-ve	ho	h o	on top of	dutton2010	1445
+14868	mountain-koiari	893_topoffoot	ho|vada-ve	vada-ve	v a d a + v e	on top of	dutton2010	1445
+14873	mountain-koiari	1439_SWIM	etova-	etova-	e t o v a	swim	dutton2010	1446
+14879	mountain-koiari	217_BETELNUT	vava-e	vava-e	v a v a + e	betelnut' :(unexplained medial v; expected form vaha-e)	dutton2010	1447
+14884	mountain-koiari	628_LEAF	vana	vana	v a n a	leaf	dutton2010	1448
+14889	mountain-koiari	840_immediateimperativepluralverbsuffix	-ve	-ve	v e	imperative plural suffix	dutton2010	1449
+14890	mountain-koiari	840_immediateimperativepluralverbsuffix	-fe	-fe	f e	imperative plural suffix	dutton2010	1449
+14898	mountain-koiari	841_locativenounsuffixattofrom	-ve	-ve	v e	at, to	dutton2010	1450
+14899	mountain-koiari	841_locativenounsuffixattofrom	-fe	-fe	f e	at, to	dutton2010	1450
+14906	mountain-koiari	189_HAIR_BODY	vomo	vomo	v o m o	hair, fur, feather	dutton2010	1451
+14910	mountain-koiari	1487_POUR	(e) hosi|va	_hosi	h o s i	pour out (water)	dutton2010	1452
+14910	mountain-koiari	1487_POUR	(e) hosi|va	va	v a	pour out (water)	dutton2010	1452
+14919	mountain-koiari	2093_AFTERWARDS	gabi|e	gabi	g a b i	afterwards, later	dutton2010	1454
+14919	mountain-koiari	2093_AFTERWARDS	gabi|e	e	e	afterwards, later	dutton2010	1454
+14924	mountain-koiari	498_medialverbsuffixds	-ge	-ge	g e	medial verb suffix DS, 'when	dutton2010	1455
+14935	mountain-koiari	1786_DRY_UP	gili|a	gili	g i l i	dry out	dutton2010	1457
+14935	mountain-koiari	1786_DRY_UP	gili|a	a	a	dry out	dutton2010	1457
+14941	mountain-koiari	159_SWEET_POTATO	gobeu	gobeu	g o b e u	sweet potato	dutton2010	1458
+14947	mountain-koiari	1433_HIT	ha-ma-	ha-ma-	h a + m a	hit	dutton2010	1459
+14957	mountain-koiari	2115_CEASE_OR_FINISH	hale-ma-	hale-ma-	h a l e + m a	leave (stg)	dutton2010	1461
+14958	mountain-koiari	2115_CEASE_OR_FINISH	hale-	hale-	h a l e	leave, depart from, stop, quit	dutton2010	1461
+14969	mountain-koiari	3038_SAME-SEX_YOUNGER_SIBLING	hoho	hoho	h o h o	sibling, same sex, younger	dutton2010	1463
+14979	mountain-koiari	1415_THINK_REFLECT	huhu-a	huhu-a	h u h u + a	think, remember	dutton2010	1465
+14984	mountain-koiari	1432_CUT	hei	hei	h e i	to cut	dutton2010	1466
+14990	mountain-koiari	1336_EAT	i-	i-	i	eat, drink	dutton2010	1467
+14999	mountain-koiari	906_TREE	idi	idi	i d i	tree	dutton2010	1468
+15006	mountain-koiari	1493_ONE	igae	igae	i g a e	one	dutton2010	1469
+15015	mountain-koiari	1405_NAME	ivi	ivi	i v i	name	dutton2010	1470
+15023	mountain-koiari	1408_HEAR	evi-	evi-	e v i	hear	dutton2010	1471
+15031	mountain-koiari	146_SUGAR_CANE	imi	imi	i m i	sugar cane	dutton2010	1472
+15036	mountain-koiari	1210_HEAVY	isu|a	isu	i s u	heavy	dutton2010	1473
+15036	mountain-koiari	1210_HEAVY	isu|a	a	a	heavy	dutton2010	1473
+15047	mountain-koiari	1418_DIG	kalo-va	kalo-va	k a l o + v a	castrate	dutton2010	1475
+15056	mountain-koiari	262_HE_OR_SHE_OR_IT	au	au	a u	he, she, it'; 3sg pronoun	dutton2010	1477
+15057	mountain-koiari	262_HE_OR_SHE_OR_IT	avu-ho	avu-ho	a v u + h o	for him/her	dutton2010	1477
+15065	mountain-koiari	694_GET	ma-	ma-	m a	get, take	dutton2010	1478
+15082	mountain-koiari	962_WOMAN	mahina	mahina	m a h i n a	wife	dutton2010	1481
+15093	mountain-koiari	1217_FATHER	mama	mama	m a m a	father	dutton2010	1192
+15096	mountain-koiari	725_OLD_PERSON	mami	mami	m a m i	old (of things only)	dutton2010	1484
+15114	mountain-koiari	619_ANIMAL	mi	mi	m i	animal	dutton2010	1487
+15121	mountain-koiari	1621_SNEEZE	akisi-a	akisi-a	a k i s i + a	sneeze	dutton2010	1488
+15127	mountain-koiari	1447_GIVE	o-	o-	o	give	dutton2010	1489
+15137	mountain-koiari	857_STONE	mune	mune	m u n e	stone	dutton2010	1490
+15144	mountain-koiari	1945_interrogative	-na	-na	n a	question marker (suffixed to subject)	dutton2010	1491
+15150	mountain-koiari	321_CHEW	nana-	nana-	n a n a	chew	dutton2010	1492
+15164	mountain-koiari	1248_EYE	ni	ni	n i	eye, face	dutton2010	1495
+15173	mountain-koiari	1839_CRY	nina-	nina-	n i n a	cry, wail	dutton2010	1496
+15181	mountain-koiari	1130_WE_EXCLUSIVE	no	no	n o	we (exclusive)	dutton2010	1497
+15197	mountain-koiari	3037_SAME-SEX_OLDER_SIBLING	amakina	amakina	a m a k i n a	sibling, same sex, older	dutton2010	1499
+15205	mountain-koiari	1895_CLOTHES	ogo	ogo	o g o	cloth, clothes	dutton2010	1500
+15211	mountain-koiari	2102_BURN	laha	laha	l a h a	burn (intr.)	dutton2010	1501
+15218	mountain-koiari	269_COOKED	laha-	laha-	l a h a	cooked	dutton2010	1502
+15224	mountain-koiari	1442_STAND	la-mi-	la-mi-	l a + m i	stand (sg subj)	dutton2010	1503
+15233	mountain-koiari	860_toclearbushforplanting	lavu|-nu	lavu	l a v u	he weeds	dutton2010	1504
+15233	mountain-koiari	860_toclearbushforplanting	lavu|-nu	-nu	n u	he weeds	dutton2010	1504
+15246	mountain-koiari	1458_SAY	lou-	lou-	l o u	say, speak	dutton2010	1506
+15253	mountain-koiari	1446_COME	loho-	loho-	l o h o	come	dutton2010	1507
+15270	mountain-koiari	1333_NECK	eno	eno	e n o	neck (front)	dutton2010	1509
+15285	mountain-koiari	1453_WASH	to|to-	to	t o	wash (stg)	dutton2010	1512
+15285	mountain-koiari	1453_WASH	to|to-	to-	t o	wash (stg)	dutton2010	1512
+15293	mountain-koiari	946_BLOOD	taho	taho	t a h o	blood	dutton2010	1513
+15297	mountain-koiari	466_CASSOWARY	duba	duba	d u b a	cassowary	dutton2010	1514
+15304	mountain-koiari	1436_SCRATCH	tuma-	tuma-	t u m a	scratch (an itch)	dutton2010	1515
+15308	mountain-koiari	1917_TIE	umuva	umuva	u m u v a	tie, fasten	dutton2010	1516
+15318	mountain-koiari	960_WIND	hebulu	hebulu	h e b u l u	wind	dutton2010	1518
+15326	mountain-koiari	937_BIRD	ugu	ugu	u g u	bird	dutton2010	1519
+15332	mountain-koiari	175_BLOW_OF_WIND	uvu	uvu	u v u	blow (with mouth)	dutton2010	13644
+15340	mountain-koiari	1667_HOLE	aba	aba	a b a	hole (in ground)	dutton2010	1521
+15343	mountain-koiari	1202_BIG	baluga	baluga	b a l u g a	big	dutton2010	1522
+15347	mountain-koiari	1313_MOON	bata	bata	b a t a	moon	dutton2010	1523
+15350	mountain-koiari	2760_MAKE_A_JOKE	bitu-ha|vo	bitu-ha	b i t u + h a	mock, make fun of	dutton2010	1524
+15350	mountain-koiari	2760_MAKE_A_JOKE	bitu-ha|vo	vo	v o	mock, make fun of	dutton2010	1524
+15354	mountain-koiari	680_BREAK_DESTROY_OR_GET_DESTROYED	boko-a	boko-a	b o k o + a	break, fold	dutton2010	1525
+15358	mountain-koiari	1455_PULL	butu-ha-	butu-ha-	b u t u + h a	pull	dutton2010	1526
+15362	mountain-koiari	1209_I	da	da	d a	I	dutton2010	9969
+15363	mountain-koiari	1209_I	di	di	d i	I	dutton2010	9969
+15366	mountain-koiari	865_withbymeansof	da	da	d a	with	dutton2010	1528
+15371	mountain-koiari	1838_NAVEL	demodo	demodo	d e m o d o	navel	dutton2010	1529
+15374	mountain-koiari	1280_FALL	doba-	doba-	d o b a	fall down (people or things)	dutton2010	1530
+15378	mountain-koiari	307_HAWK	duna	duna	d u n a	hawk	dutton2010	1531
+15382	mountain-koiari	1498_TWO	abui	abui	a b u i	two	dutton2010	1532
+15386	mountain-koiari	1278_VOMIT	edo-a	edo-a	e d o + a	vomit	dutton2010	1533
+15391	mountain-koiari	78_THAT	ke	ke	k e	that	dutton2010	1534
+15395	mountain-koiari	879_COUGH	eno-a	eno-a	e n o + a	cough	dutton2010	1535
+15399	mountain-koiari	1409_SEE	ele-ha-	ele-ha-	e l e + h a	see, look	dutton2010	1536
+15402	mountain-koiari	866_WIN	vaki	vaki	v a k i	side	dutton2010	1537
+15407	mountain-koiari	867_backofhand	(ada) voto	_voto	v o t o	palm (of hand)	dutton2010	1538
+15410	mountain-koiari	2272_HOT_OR_WARM	vuvuneve	vuvuneve	v u v u n e v e	hot (water)	dutton2010	1539
+15416	mountain-koiari	868_orplinsomeverbs	ua-geve-	ua-geve-	u a + g e v e	bite them	dutton2010	1540
+15417	mountain-koiari	868_orplinsomeverbs	ele-geve-	ele-geve-	e l e + g e v e	see them	dutton2010	1540
+15423	mountain-koiari	869_orsginsomeverbs	ele-ha-	ele-ha-	e l e + h a	see it	dutton2010	1541
+15424	mountain-koiari	869_orsginsomeverbs	ua-ha-	ua-ha-	u a + h a	bite it	dutton2010	1541
+15428	mountain-koiari	1102_CLIMB	vati-	vati-	v a t i	ascend, go up	dutton2010	1542
+15432	mountain-koiari	1100_COOK_SOMETHING	amuva-	amuva-	a m u v a	make a mumu	dutton2010	1543
+15436	mountain-koiari	871_transitiveverbformingsuffixcausative	-havo	-havo	h a v o	transitive verb forming suffix, causative	dutton2010	1544
+15440	mountain-koiari	1433_HIT	hama-	hama-	h a m a	hit	dutton2010	1545
+15444	mountain-koiari	581_COME_BACK	hoila-ha-	hoila-ha-	h o i l a + h a	return	dutton2010	1546
+15448	mountain-koiari	1218_ROPE	hote	hote	h o t e	vine, rope	dutton2010	1547
+15452	mountain-koiari	2457_PATH_OR_ROAD	huma|ha	huma	h u m a	path, road	dutton2010	1548
+15452	mountain-koiari	2457_PATH_OR_ROAD	huma|ha	ha	h a	path, road	dutton2010	1548
+15456	mountain-koiari	1335_WHITE	tae|te	tae	t a e	white	dutton2010	1549
+15456	mountain-koiari	1335_WHITE	tae|te	te	t e	white	dutton2010	1549
+15461	mountain-koiari	1959_RAW	isate	isate	i s a t e	uncooked	dutton2010	1550
+15462	mountain-koiari	1231_NEW	isahete	isahete	i s a h e t e	green wood, young person	dutton2010	1550
+15465	mountain-koiari	1256_HEAD	kina	kina	k i n a	head, hair	dutton2010	1551
+15469	mountain-koiari	873_verbsuffixpresentcontinuoussg	-ma	-ma	m a	verb suffix, present continuous, SG	dutton2010	1552
+15473	mountain-koiari	907_OLD_WOMAN	mabata	mabata	m a b a t a	old woman	dutton2010	1553
+15477	mountain-koiari	1156_OPEN	alavo	alavo	a l a v o	open (door, window)	dutton2010	1554
+15480	mountain-koiari	2102_BURN	maho-	maho-	m a h o	cook	dutton2010	1555
+15484	mountain-koiari	2159_GROUND	matama	matama	m a t a m a	place	dutton2010	1556
+15488	mountain-koiari	1013_FRESHWATER_EEL	minama	minama	m i n a m a	eel	dutton2010	1557
+15494	mountain-koiari	1366_BOY	mo	mo	m o	male child, boy, male	dutton2010	1558
+15495	mountain-koiari	1366_BOY	moia	moia	m o i a	young boy	dutton2010	1558
+15498	mountain-koiari	2445_PAPAYA	mitani	mitani	m i t a n i	pawpaw	dutton2010	1559
+15502	mountain-koiari	1558_SIMILAR	nahate	nahate	n a h a t e	like, similar	dutton2010	1560
+15507	mountain-koiari	1216_MOTHER	neina	neina	n e i n a	mother	dutton2010	1561
+15511	mountain-koiari	962_WOMAN	nigi	nigi	n i g i	grass skirt	dutton2010	1562
+15515	mountain-koiari	879_verbsuffixpasttensesg	-nu	-nu	n u	verb suffix, past tense sg	dutton2010	1563
+15519	mountain-koiari	1235_WHO	-ale	-ale	a l e	who	dutton2010	1564
+15523	mountain-koiari	1337_PIG	ovo	ovo	o v o	pig	dutton2010	1565
+15527	mountain-koiari	1214_THIS	ko	ko	k o	this	dutton2010	1566
+15530	mountain-koiari	1236_WHAT	ono	ono	o n o	what	dutton2010	1567
+15534	mountain-koiari	1418_DIG	lovo-	lovo-	l o v o	dig	dutton2010	1568
+15537	mountain-koiari	1157_BECAUSE	V-ale-rua	V-ale-rua	V/ə + a l e + r u a	because V	dutton2010	1569
+15540	mountain-koiari	2220_MOVE_QUICKLY	soleka	soleka	s o l e k a	quick(ly), fast	dutton2010	1570
+15544	mountain-koiari	1882_BEFORE	subuta	subuta	s u b u t a	before	dutton2010	1571
+15548	mountain-koiari	1220_TAIL	dete	dete	d e t e	tail	dutton2010	1572
+15551	mountain-koiari	1577_AND	NP-ta...NP-ta	NP-ta...NP-ta	t a + t a	NP and NP	dutton2010	1573
+15555	mountain-koiari	881_also	(NP)-ta	-ta	t a	also	dutton2010	1574
+15559	mountain-koiari	1554_MAN	ata	ata	a t a	person, people	dutton2010	1575
+15563	mountain-koiari	1748_RIDGE	tana	tana	t a n a	mountain	dutton2010	1576
+15567	mountain-koiari	3039_DIFFERENT-SEX_OLDER_SIBLING	tata	tata	t a t a	sibling, opposite sex, older, elder sister	dutton2010	1577
+15571	mountain-koiari	695_GO	ti-	ti-	t i	go	dutton2010	1578
+15576	mountain-koiari	2009_DOG	to	to	t o	dog	dutton2010	1579
+15580	mountain-koiari	1429_FULL	toba|loho	toba	t o b a	to be full (of water)	dutton2010	1580
+15580	mountain-koiari	1429_FULL	toba|loho	loho	l o h o	to be full (of water)	dutton2010	1580
+15583	mountain-koiari	1333_NECK	tu	tu	t u	nape of neck	dutton2010	1581
+15587	mountain-koiari	285_tostay	u-	u-	u	stay, be (in a place)	dutton2010	1582
+15591	mountain-koiari	1416_SIT	ugu-ma-	ugu-ma-	u g u + m a	sit down	dutton2010	1583
+15592	mountain-koiari	1416_SIT	ugula-mo	ugula-mo	u g u l a + m o	sit down	dutton2010	1583
+15595	mountain-koiari	1403_BITE	ua-ha-	ua-ha-	u a + h a	bite, gnaw	dutton2010	1584
+15599	mountain-koiari	670_ROOT	umu-ka	umu-ka	u m u + k a	root, base (of tree)	dutton2010	1585
+15603	mountain-koiari	884_medialverbsuffix	-ata	-ata	a t a	medial verb suffix	dutton2010	1586
+15606	mountain-koiari	1509_MOSQUITO	unu|ku	unu	u n u	gnat	dutton2010	1587
+15606	mountain-koiari	1509_MOSQUITO	unu|ku	ku	k u	gnat	dutton2010	1587
+15610	mountain-koiari	1580_ONLY	unaha	unaha	u n a h a	only	dutton2010	1588
+15614	mountain-koiari	646_ASH	uti	uti	u t i	ashes, fireplace	dutton2010	1589
+15617	mountain-koiari	531_HOW_MUCH	vaesuti	vaesuti	v a e s u t i	how much	dutton2010	1590
+15621	mountain-koiari	886_cordylinesp	vabe|re	vabe	v a b e	tangget, Cordyline	dutton2010	1591
+15621	mountain-koiari	886_cordylinesp	vabe|re	re	r e	tangget, Cordyline	dutton2010	1591
+15624	mountain-koiari	126_SWEAT_PERSPIRE	vahoto-a	vahoto-a	v a h o t o + a	perspire	dutton2010	1592
+15628	mountain-koiari	1343_SUN	vani	vani	v a n i	sun, day	dutton2010	1593
+15632	mountain-koiari	2159_GROUND	vata	vata	v a t a	ground, country, earth	dutton2010	1594
+15635	mountain-koiari	2101_BE_DEAD_OR_DIE	hati-	hati-	h a t i	die	dutton2010	1595
+15639	mountain-koiari	1269_NO	(moaga) vesite	_vesite	v e s i t e	not (much)	dutton2010	1596
+15642	mountain-koiari	1791_BUTTERFLY	uako	uako	u a k o	butterfly	dutton2010	1597
+15646	mountain-koiari	592_PISS	veu-a	veu-a	v e u + a	urinate	dutton2010	1598
+15649	mountain-koiari	121_SPIN	vili|vili-a	vili	v i l i	spin, twirl, go around in circles	dutton2010	1599
+15649	mountain-koiari	121_SPIN	vili|vili-a	vili-a	v i l i + a	spin, twirl, go around in circles	dutton2010	1599
+15653	mountain-koiari	215_LIE_DOWN	la-ha-	la-ha-	l a + h a	sleep	dutton2010	1600
+15657	mountain-koiari	293_NETBAG	laha	laha	l a h a	string bag	dutton2010	1601
+15661	mountain-koiari	810_predicativepossessivesuffix	-le	-le	l e	Predictive possessive suffix	dutton2010	1602
+15665	mountain-koiari	1482_SHOULDER	bego	bego	b e g o	shoulder	dutton2010	1603
+15667	mountain-koiari	1205_TONGUE	neme	neme	n e m e	tongue	dutton2010	1604
+92431	mountain-koiari	1336_EAT	i-	i-	i	eat, drink	dutton2010	310
+260777	mountain-koiari	1401_DRINK	i-	i-	i	eat, drink	dutton2010	311
+14216	ese	694_GET	ape|j-o	ape	a p e	get, take	dutton2010	1305
+14216	ese	694_GET	ape|j-o	j-o	j + o	get, take	dutton2010	1305
+14219	ese	1371_KNEE	atok-a	atok-a	a t o k + a	knee	dutton2010	1306
+14224	ese	1554_MAN	paru-a	paru-a	p a r u + a	man, male, husband	dutton2010	1307
+14227	ese	1452_PUSH	pij'|aho	pij'	p i j	push	dutton2010	1308
+14227	ese	1452_PUSH	pij'|aho	aho	a h o	push	dutton2010	1308
+14232	ese	1205_TONGUE	mitar-a	mitar-a	m i t a r + a	tongue	dutton2010	1309
+14236	ese	2098_FOOT_OR_LEG	diʔ-a	diʔ-a	d i ʔ + a	leg	dutton2010	1310
+14244	ese	683_PERSON	e-a	e-a	e + a	person, human being	dutton2010	1312
+14249	ese	1620_SON	hari|h-a	hari	h a r i	son, nephew	dutton2010	1313
+14249	ese	1620_SON	hari|h-a	h-a	h + a	son, nephew	dutton2010	1313
+14252	ese	1416_SIT	hi|jo	hi	h i	sit down	dutton2010	1314
+14252	ese	1416_SIT	hi|jo	jo	j o	sit down	dutton2010	1314
+14253	ese	1416_SIT	hi|jasavo	hi	h i	sit in a group	dutton2010	1314
+14253	ese	1416_SIT	hi|jasavo	jasavo	j a s a v o	sit in a group	dutton2010	1314
+14257	ese	175_BLOW_OF_WIND	huási|ho	huási	h u á/a s i	blow	dutton2010	1315
+14257	ese	175_BLOW_OF_WIND	huási|ho	ho	h o	blow	dutton2010	1315
+14262	ese	1409_SEE	kav-o	kav-o	k a v + o	see	dutton2010	1316
+14266	ese	78_THAT	ka|jaho	ka	k a	that	dutton2010	1317
+14266	ese	78_THAT	ka|jaho	jaho	j a h o	that	dutton2010	1317
+14267	ese	78_THAT	ijá|ka|ro	ijá	i j á/a	that over there	dutton2010	1317
+14267	ese	78_THAT	ijá|ka|ro	ka	k a	that over there	dutton2010	1317
+14267	ese	78_THAT	ijá|ka|ro	ro	r o	that over there	dutton2010	1317
+14271	ese	1247_EAR	ata-a	ata-a	a t a + a	ear	dutton2010	1318
+14275	ese	1380_TOOTH	upaj-a	upaj-a	u p a j + a	tooth	dutton2010	1319
+14283	ese	727_WHICH	icha|ra	icha	i c h a	which?	dutton2010	1321
+14283	ese	727_WHICH	icha|ra	ra	r a	which?	dutton2010	1321
+14290	ese	948_WATER	to-a	to-a	t o + a	water	dutton2010	1322
+14291	ese	948_WATER	toa|rúho	toa	t o a	swim, wash oneself	dutton2010	1322
+14291	ese	948_WATER	toa|rúho	rúho	r ú/u h o	swim, wash oneself	dutton2010	1322
+14294	ese	2121_ARM_OR_HAND	ij-a	ij-a	i j + a	arm	dutton2010	1323
+14297	ese	531_HOW_MUCH	icha|ro	icha	i c h a	how much?	dutton2010	1324
+14297	ese	531_HOW_MUCH	icha|ro	ro	r o	how much?	dutton2010	1324
+14302	ese	1498_TWO	noʔo	noʔo	n o ʔ o	two	dutton2010	1325
+14306	ese	1236_WHAT	irak-a	irak-a	i r a k + a	what?	dutton2010	1326
+14309	ese	163_BLACK	aja	aja	a j a	black	dutton2010	1327
+14313	ese	674_MOUTH	ir-a	ir-a	i r + a	mouth	dutton2010	1328
+14319	ese	1235_WHO	irara	irara	i r a r a	who?	dutton2010	1329
+14326	ese	1429_FULL	itu|ʔono	itu	i t u	full	dutton2010	1331
+14326	ese	1429_FULL	itu|ʔono	ʔono	ʔ o n o	full	dutton2010	1331
+14329	ese	1376_NOW	iviamai	iviamai	i v i a m a i	now	dutton2010	1332
+14333	ese	1220_TAIL	vin-a	vin-a	v i n + a	tail (of animal, bird, fish)	dutton2010	1333
+14339	ese	1403_BITE	jaʔeho	jaʔeho	j a ʔ e h o	bite	dutton2010	1334
+14342	ese	879_COUGH	jahua|vo	jahua	j a h u a	cough	dutton2010	1335
+14342	ese	879_COUGH	jahua|vo	vo	v o	cough	dutton2010	1335
+14346	ese	908_DRUM	chaj-a	chaj-a	c h a j + a	drum	dutton2010	1336
+14353	ese	671_SAND	ajar-a	ajar-a	a j a r + a	sand	dutton2010	1338
+14357	ese	1683_BUSH	ne|chiʔ-a	ne	n e	bush	dutton2010	1339
+14357	ese	1683_BUSH	ne|chiʔ-a	chiʔ-a	c h i ʔ + a	bush	dutton2010	1339
+14360	ese	1644_RELATIVES	-(j)ora	-ora	o r a	RELATIVE	dutton2010	1340
+14364	ese	586_GARDEN	juar-a	juar-a	j u a r + a	garden	dutton2010	1341
+14369	ese	1419_FEAR_BE_AFRAID	uha|vo	uha	u h a	be afraid	dutton2010	1342
+14369	ese	1419_FEAR_BE_AFRAID	uha|vo	vo	v o	be afraid	dutton2010	1342
+14373	ese	1222_PENIS	júr-a	júr-a	j ú/u r + a	penis	dutton2010	1343
+14377	ese	1218_ROPE	aj-a	aj-a	a j + a	string, rope	dutton2010	1344
+14382	ese	1433_HIT	ʔan|a-o	ʔan	ʔ a n	hit	dutton2010	1345
+14382	ese	1433_HIT	ʔan|a-o	a-o	a + o	hit	dutton2010	1345
+14388	ese	632_LIZARD	arú|s-a	arú	a r ú/u	lizard	dutton2010	1347
+14388	ese	632_LIZARD	arú|s-a	s-a	s + a	lizard	dutton2010	1347
+14397	ese	1102_CLIMB	aji|m-a	aji	a j i	go up, ascend	dutton2010	1349
+14397	ese	1102_CLIMB	aji|m-a	m-a	m + a	go up, ascend	dutton2010	1349
+14403	ese	1355_LAUGH	ʔi|v-o	ʔi	ʔ i	laugh	dutton2010	1350
+14403	ese	1355_LAUGH	ʔi|v-o	v-o	v + o	laugh	dutton2010	1350
+14408	ese	804_purposiveverbsuffix	-iro	-iro	i r o	purpose	dutton2010	1351
+14413	ese	2708_TALK	ʔua|rav-o	ʔua	ʔ u a	talk	dutton2010	1352
+14413	ese	2708_TALK	ʔua|rav-o	rav-o	r a v + o	talk	dutton2010	1352
+14414	ese	2708_TALK	ʔuav-o	ʔuav-o	ʔ u a v + o	talk	dutton2010	1352
+14419	ese	1084_CALL	ʔume|j-o	ʔume	ʔ u m e	call out	dutton2010	1353
+14419	ese	1084_CALL	ʔume|j-o	j-o	j + o	call out	dutton2010	1353
+14423	ese	1337_PIG	mah-a	mah-a	m a h + a	pig	dutton2010	1354
+14427	ese	1343_SUN	masa|p-a	masa	m a s a	moon	dutton2010	1355
+14427	ese	1343_SUN	masa|p-a	p-a	p + a	moon	dutton2010	1355
+14430	ese	1667_HOLE	maʔo-a	maʔo-a	m a ʔ o + a	hole	dutton2010	1356
+14433	ese	1838_NAVEL	mi|sip-a	mi	m i	navel	dutton2010	1357
+14433	ese	1838_NAVEL	mi|sip-a	sip-a	s i p + a	navel	dutton2010	1357
+14436	ese	1274_SALT	mis-a	mis-a	m i s + a	salt	dutton2010	1358
+14439	ese	1100_COOK_SOMETHING	muru-o	muru-o	m u r u + o	cook on hot stones	dutton2010	1359
+14440	ese	1100_COOK_SOMETHING	muru-vo	muru-vo	m u r u + v o	cook on hot stones	dutton2010	1359
+14443	ese	776_TRUNK_OF_TREE	(icha) ane|j-a	_ane	a n e	(tree) trunk	dutton2010	1360
+14443	ese	776_TRUNK_OF_TREE	(icha) ane|j-a	j-a	j + a	(tree) trunk	dutton2010	1360
+14447	ese	1402_BREAST	mus-a	mus-a	m u s + a	breast	dutton2010	1361
+14453	ese	1209_I	na	na	n a	I	dutton2010	1968
+14456	ese	1233_NIGHT	naʔi-a	naʔi-a	n a ʔ i + a	night	dutton2010	1363
+14460	ese	1174_YESTERDAY	niari	niari	n i a r i	yesterday, tomorrow	dutton2010	1364
+14465	ese	1585_SLEEP	nej-o	nej-o	n e j + o	sleep	dutton2010	1365
+14470	ese	1180_DAY_BEFORE_YESTERDAY	nitu|i	nitu	n i t u	day before yesterday, day after tomorrow	dutton2010	1366
+14470	ese	1180_DAY_BEFORE_YESTERDAY	nitu|i	i	i	day before yesterday, day after tomorrow	dutton2010	1366
+14473	ese	810_predicativepossessivesuffix	-uni	-uni	u n i	predicative possessive suffix	dutton2010	1367
+14476	ese	635_MILK	(musa) rih-a	_rih-a	r i h + a	(breast) milk	dutton2010	1368
+14481	ese	1728_ROTTEN	saka|ha	saka	s a k a	rotted	dutton2010	1369
+14481	ese	1728_ROTTEN	saka|ha	ha	h a	rotted	dutton2010	1369
+14490	ese	1252_HOUSE	ar-a	ar-a	a r + a	house	dutton2010	1371
+14493	ese	798_JAW	sano-a	sano-a	s a n o + a	jaw, chin	dutton2010	1372
+14497	ese	217_BETELNUT	siar-a	siar-a	s i a r + a	betelnut	dutton2010	1373
+14501	ese	1482_SHOULDER	sireh-a	sireh-a	s i r e h + a	shoulder	dutton2010	1374
+14505	ese	1292_BAD	sise-a	sise-a	s i s e + a	bad	dutton2010	1375
+14508	ese	982_LIME_FRUIT	suam-a	suam-a	s u a m + a	lime	dutton2010	1376
+14513	ese	730_SNAKE	tapar-a	tapar-a	t a p a r + a	snake	dutton2010	1377
+14516	ese	1767_SCRAPE	tatia|h-o	tatia	t a t i a	scrape off	dutton2010	1378
+14516	ese	1767_SCRAPE	tatia|h-o	h-o	h + o	scrape off	dutton2010	1378
+14519	ese	1501_BORE	titi|-o	titi	t i t i	drill	dutton2010	1379
+14519	ese	1501_BORE	titi|-o	-o	o	drill	dutton2010	1379
+14524	ese	646_ASH	ʔuʔ-a	ʔuʔ-a	ʔ u ʔ + a	ashes (where fire is built)	dutton2010	1380
+14527	ese	1432_CUT	uhu-o	uhu-o	u h u + o	cut, cut off	dutton2010	1381
+14530	ese	949_WATER_LEECH	asin|asin-a	asin	a s i n	leech	dutton2010	1382
+14530	ese	949_WATER_LEECH	asin|asin-a	asin-a	a s i n + a	leech	dutton2010	1382
+14539	ese	778_SMOKE_EXHAUST	(vena) uʔ-a	_uʔ-a	u ʔ + a	(fire) smoke	dutton2010	1384
+14548	ese	695_GO	vaʔ-o	vaʔ-o	v a ʔ + o	go	dutton2010	1386
+14552	ese	1343_SUN	ve-a	ve-a	v e + a	sun	dutton2010	1387
+14555	ese	1238_WHEN	vecha	vecha	v e c h a	when?	dutton2010	1388
+14556	ese	1238_WHEN	vea	vea	v e a	when?	dutton2010	1388
+14560	ese	2103_PAINFUL_OR_SICK	hia|nimo	hia	h i a	pain (to have)	dutton2010	1389
+14560	ese	2103_PAINFUL_OR_SICK	hia|nimo	nimo	n i m o	pain (to have)	dutton2010	1389
+14567	ese	155_CHOP	vuijo	vuijo	v u i j o	cut down with axe	dutton2010	1391
+14570	ese	1394_BONE	ʔat-a	ʔat-a	ʔ a t + a	bone	dutton2010	1392
+14574	ese	1437_SPLIT	at-a	at-a	a t + a	break wood	dutton2010	1393
+14578	ese	776_TRUNK_OF_TREE	ʔah-a	ʔah-a	ʔ a h + a	(tree) trunk	dutton2010	1394
+14582	ese	868_BANANA	ʔajúj-a	ʔajúj-a	ʔ a j ú/u j + a	banana	dutton2010	1395
+14586	ese	841_locativenounsuffixattofrom	-a	-a	a	premodifier suffix or oblique case suffix	dutton2010	1396
+14587	ese	841_locativenounsuffixattofrom	-i	-i	i	premodifier suffix or oblique case suffix	dutton2010	1396
+14590	ese	1489_CLOUD	'imiti-a	'imiti-a	i m i t i + a	clouds	dutton2010	1397
+14594	ese	1577_AND	-o...-o	-o...-o	o + o	and, with, also	dutton2010	1398
+14597	ese	1223_HEART	ʔoj-a	ʔoj-a	ʔ o j + a	heart	dutton2010	1399
+14601	ese	2009_DOG	ʔu-a	ʔu-a	ʔ u + a	dog	dutton2010	1400
+14609	ese	2304_THEE_OBLIQUE_CASE_OF_YOU	a	a	a	you.sg	dutton2010	1401
+14623	ese	822_plsuffixonkinshipnouns	-hu (and variants)	-hu_	h u	pl suffix on kinship nouns	dutton2010	1403
+14636	ese	1221_NOSE	ur-a	ur-a	u r + a	nose	dutton2010	1406
+14641	ese	1486_PLANT_SOMETHING	(soa) sa|v-o	_sa	s a	plant (new garden)	dutton2010	1407
+14641	ese	1486_PLANT_SOMETHING	(soa) sa|v-o	v-o	v + o	plant (new garden)	dutton2010	1407
+14658	ese	1480_BODY	hah-a	hah-a	h a h + a	body	dutton2010	1410
+14668	ese	410_YAM	vaja|k-a	vaja	v a j a	yam (type of)	dutton2010	1412
+14668	ese	410_YAM	vaja|k-a	k-a	k + a	yam (type of)	dutton2010	1412
+14675	ese	749_ENTER	aru|v-o	aru	a r u	enter, go inside	dutton2010	1413
+14675	ese	749_ENTER	aru|v-o	v-o	v + o	enter, go inside	dutton2010	1413
+14682	ese	1629_faceforehead	vari|ar-a	vari	v a r i	face	dutton2010	1414
+14682	ese	1629_faceforehead	vari|ar-a	ar-a	a r + a	face	dutton2010	1414
+14683	ese	1629_faceforehead	vari|naʔi	vari	v a r i	in front of	dutton2010	1414
+14683	ese	1629_faceforehead	vari|naʔi	naʔi	n a ʔ i	in front of	dutton2010	1414
+14688	ese	763_SKIN	hah-a	hah-a	h a h + a	body	dutton2010	1415
+14693	ese	1836_VAGINA	va|ju-a	va	v a	vagina	dutton2010	1416
+14693	ese	1836_VAGINA	va|ju-a	ju-a	j u + a	vagina	dutton2010	1416
+14706	ese	221_FIRE	ven-a	ven-a	v e n + a	fire, firewood	dutton2010	1418
+14714	ese	2108_RAINING_OR_RAIN	ne|h-a	ne	n e	rain	dutton2010	1419
+14714	ese	2108_RAINING_OR_RAIN	ne|h-a	h-a	h + a	rain	dutton2010	1419
+14726	ese	2312_YOU_OBLIQUE_CASE_OF_YOU	ja	ja	j a	you.pl	dutton2010	1421
+14734	ese	817_THEY	pu	pu	p u	they	dutton2010	1422
+14741	ese	1879_DANCE	java |vej-o	java	j a v a	sing	dutton2010	1423
+14741	ese	1879_DANCE	java |vej-o	vej-o	v e j + o	sing	dutton2010	1423
+14754	ese	1392_LOUSE	ʔum-a	ʔum-a	ʔ u m + a	lice (on humans)	dutton2010	1425
+14761	ese	1442_STAND	ʔuri|dz-o	ʔuri	ʔ u r i	get up, stand up, wake up	dutton2010	1426
+14761	ese	1442_STAND	ʔuri|dz-o	dz-o	d z + o	get up, stand up, wake up	dutton2010	1426
+14762	ese	1442_STAND	ʔuri-marav-o	ʔuri-marav-o	ʔ u r i + m a r a v + o	get up, stand up, wake up (PL Subj.)	dutton2010	1426
+14778	ese	834_acertainonesomeanother	pe|na	pe	p e	a, one, another	dutton2010	1429
+14778	ese	834_acertainonesomeanother	pe|na	na	n a	a, one, another	dutton2010	1429
+14779	ese	834_acertainonesomeanother	pi|ni	pi	p i	a, one, another	dutton2010	1429
+14779	ese	834_acertainonesomeanother	pi|ni	ni	n i	a, one, another	dutton2010	1429
+14780	ese	834_acertainonesomeanother	pi|na	pi	p i	a, one, another	dutton2010	1429
+14780	ese	834_acertainonesomeanother	pi|na	na	n a	a, one, another	dutton2010	1429
+14789	ese	1240_NOT	pa	pa	p a	not	dutton2010	1430
+14790	ese	1240_NOT	pana	pana	p a n a	not	dutton2010	1430
+14806	ese	473_SPEAR_SOMEBODY	pij|ah-o	pij	p i j	spear (v)	dutton2010	1433
+14806	ese	473_SPEAR_SOMEBODY	pij|ah-o	ah-o	a h + o	spear (v)	dutton2010	1433
+14814	ese	2121_ARM_OR_HAND	ta|h-a	ta	t a	wing	dutton2010	1434
+14814	ese	2121_ARM_OR_HAND	ta|h-a	h-a	h + a	wing	dutton2010	1434
+14831	ese	675_FAECES_EXCREMENT	te-a	te-a	t e + a	faeces	dutton2010	1437
+14844	ese	1430_STAR	chi|n-a	chi	c h i	star	dutton2010	1440
+14844	ese	1430_STAR	chi|n-a	n-a	n + a	star	dutton2010	1440
+14875	ese	1439_SWIM	isuav-o	isuav-o	i s u a v + o	swim	dutton2010	1446
+14908	ese	189_HAIR_BODY	humat-a	humat-a	h u m a t + a	hair,head	dutton2010	1451
+14913	ese	1487_POUR	use-o	use-o	u s e + o	pour out	dutton2010	1452
+14930	ese	498_medialverbsuffixds	-ʔe	-ʔe	ʔ e	medial verb suffix DS, 'when	dutton2010	1455
+14939	ese	1786_DRY_UP	kira|nana	kira	k i r a	dry (clothes)	dutton2010	1457
+14939	ese	1786_DRY_UP	kira|nana	nana	n a n a	dry (clothes)	dutton2010	1457
+14953	ese	1423_FIGHT	ʔarah-o	ʔarah-o	ʔ a r a h + o	fight	dutton2010	1460
+14960	ese	2115_CEASE_OR_FINISH	are|nav-o	are	a r e	stop, discontinue	dutton2010	1461
+14960	ese	2115_CEASE_OR_FINISH	are|nav-o	nav-o	n a v + o	stop, discontinue	dutton2010	1461
+14961	ese	2115_CEASE_OR_FINISH	are|v-o	are	a r e	stop, discontinue	dutton2010	1461
+14961	ese	2115_CEASE_OR_FINISH	are|v-o	v-o	v + o	stop, discontinue	dutton2010	1461
+14972	ese	3038_SAME-SEX_YOUNGER_SIBLING	ʔuʔu-a	ʔuʔu-a	ʔ u ʔ u + a	brother	dutton2010	1463
+14980	ese	1415_THINK_REFLECT	vui	vui	v u i	think	dutton2010	1465
+14986	ese	1432_CUT	aha|tuv-o	aha	a h a	cut logs or bamboo	dutton2010	1466
+14986	ese	1432_CUT	aha|tuv-o	tuv-o	t u v + o	cut logs or bamboo	dutton2010	1466
+14995	ese	1336_EAT	ij-o	ij-o	i j + o	eat, drink	dutton2010	1467
+15003	ese	906_TREE	ich-a	ich-a	i c h + a	tree	dutton2010	1468
+15011	ese	1493_ONE	kui|nu	kui	k u i	one	dutton2010	1469
+15011	ese	1493_ONE	kui|nu	nu	n u	one	dutton2010	1469
+15019	ese	1405_NAME	ih-a	ih-a	i h + a	name	dutton2010	1470
+15027	ese	1408_HEAR	hej-o	hej-o	h e j + o	hear, listen, know, feel	dutton2010	1471
+15061	ese	262_HE_OR_SHE_OR_IT	hu	hu	h u	he, she, it (3sg pronoun)	dutton2010	1477
+15073	ese	1199_WIFE	na|par-a	na	n a	wife	dutton2010	1479
+15073	ese	1199_WIFE	na|par-a	par-a	p a r + a	wife	dutton2010	1479
+15074	ese	1199_WIFE	para|nah-a	para	p a r a	married woman	dutton2010	1479
+15074	ese	1199_WIFE	para|nah-a	nah-a	n a h + a	married woman	dutton2010	1479
+15089	ese	1035_GOOD	maa	maa	m aː	good	dutton2010	1482
+15094	ese	1217_FATHER	amo	amo	a m o	father	dutton2010	1192
+15099	ese	725_OLD_PERSON	(e)ma	ma	m a	old (man)	dutton2010	1484
+15104	ese	984_WORK_LABOUR	(ija) me|rum-o	_me	m e	weeding	dutton2010	1485
+15104	ese	984_WORK_LABOUR	(ija) me|rum-o	rum-o	r u m + o	weeding	dutton2010	1485
+15105	ese	984_WORK_LABOUR	me|j-o	me	m e	clear garden	dutton2010	1485
+15105	ese	984_WORK_LABOUR	me|j-o	j-o	j + o	clear garden	dutton2010	1485
+15123	ese	1621_SNEEZE	asi|puej-o	asi	a s i	sneeze	dutton2010	1488
+15123	ese	1621_SNEEZE	asi|puej-o	puej-o	p u e j + o	sneeze	dutton2010	1488
+15132	ese	1447_GIVE	m|aha	m	m	give (him)	dutton2010	1489
+15132	ese	1447_GIVE	m|aha	aha	a h a	give (him)	dutton2010	1489
+15133	ese	1447_GIVE	(ape) m|iha	_m	m	give (me)	dutton2010	1489
+15133	ese	1447_GIVE	(ape) m|iha	iha	i h a	give (me)	dutton2010	1489
+15140	ese	857_STONE	mun-a	mun-a	m u n + a	stone	dutton2010	1490
+15152	ese	321_CHEW	nana|chav-o	nana	n a n a	chew	dutton2010	1492
+15152	ese	321_CHEW	nana|chav-o	chav-o	c h a v + o	chew	dutton2010	1492
+15168	ese	1248_EYE	ni-a	ni-a	n i + a	eye	dutton2010	1495
+15177	ese	1839_CRY	ni|rav-o	ni	n i	cry, weep	dutton2010	1496
+15177	ese	1839_CRY	ni|rav-o	rav-o	r a v + o	cry, weep	dutton2010	1496
+15185	ese	1212_WE	nu	nu	n u	we	dutton2010	1497
+15192	ese	1014_OR	ho	ho	h o	or	dutton2010	1498
+15193	ese	1014_OR	aho	aho	a h o	or	dutton2010	1498
+15201	ese	3037_SAME-SEX_OLDER_SIBLING	maʔin-a	maʔin-a	m a ʔ i n + a	sibling, same sex, older	dutton2010	1499
+15214	ese	2102_BURN	(veni) re|n-o	_re	r e	(fire) burns up, be on fire	dutton2010	1501
+15214	ese	2102_BURN	(veni) re|n-o	n-o	n + o	(fire) burns up, be on fire	dutton2010	1501
+15228	ese	1442_STAND	nami|dz-o	nami	n a m i	stand	dutton2010	1503
+15228	ese	1442_STAND	nami|dz-o	dz-o	d z + o	stand	dutton2010	1503
+15241	ese	1404_STRAIGHT	a|ri|ra	a	a	straight	dutton2010	1505
+15241	ese	1404_STRAIGHT	a|ri|ra	ri	r i	straight	dutton2010	1505
+15241	ese	1404_STRAIGHT	a|ri|ra	ra	r a	straight	dutton2010	1505
+15242	ese	1404_STRAIGHT	ari|ni	ari	a r i	straight	dutton2010	1505
+15242	ese	1404_STRAIGHT	ari|ni	ni	n i	straight	dutton2010	1505
+15259	ese	1446_COME	roo-	roo-	r oː	come	dutton2010	1507
+15260	ese	1446_COME	ro-a!	ro-a!	r o + a	come!	dutton2010	1507
+15265	ese	1949_BEDBUG	tarur-a	tarur-a	t a r u r + a	bed bug	dutton2010	1508
+15274	ese	1333_NECK	nu|an-a	nu	n u	back of neck	dutton2010	1509
+15274	ese	1333_NECK	nu|an-a	an-a	a n + a	back of neck	dutton2010	1509
+15278	ese	862_plateauflatland	amar-a	amar-a	a m a r + a	plateau, land (flat)	dutton2010	1510
+15289	ese	1453_WASH	so|v-o	so	s o	wash (stg)	dutton2010	1512
+15289	ese	1453_WASH	so|v-o	v-o	v + o	wash (stg)	dutton2010	1512
+15295	ese	946_BLOOD	'a-a	'a-a	a + a	blood	dutton2010	1513
+15306	ese	1436_SCRATCH	ʔumur-o	ʔumur-o	ʔ u m u r + o	scratch	dutton2010	1515
+15316	ese	1645_SHORT	tuʔua	tuʔua	t u ʔ u a	short	dutton2010	1517
+15322	ese	960_WIND	pur-a	pur-a	p u r + a	strong wind	dutton2010	1518
+15328	ese	937_BIRD	uk-a	uk-a	u k + a	bird	dutton2010	1519
+15336	ese	175_BLOW_OF_WIND	huasi|h-o	huasi	h u a s i	blow	dutton2010	13644
+15336	ese	175_BLOW_OF_WIND	huasi|h-o	h-o	h + o	blow	dutton2010	13644
+79318	ese	1553_MALE	paru-a	paru-a	p a r u + a	man, male, husband	dutton2010	312
+79319	ese	1200_HUSBAND	paru-a	paru-a	p a r u + a	man, male, husband	dutton2010	313
+79324	ese	1329_TOMORROW	niari	niari	n i a r i	yesterday, tomorrow	dutton2010	314
+92436	ese	1336_EAT	ij-o	ij-o	i j + o	eat, drink	dutton2010	315
+97524	ese	1179_DAY_AFTER_TOMORROW	nitu|i	nitu	n i t u	day before yesterday, day after tomorrow	dutton2010	316
+97524	ese	1179_DAY_AFTER_TOMORROW	nitu|i	i	i	day before yesterday, day after tomorrow	dutton2010	317
+260780	ese	1401_DRINK	ij-o	ij-o	i j + o	eat, drink	dutton2010	318
+14213	north-barai	694_GET	abe|ro	abe	a b e	get (and come), take	dutton2010	1305
+14213	north-barai	694_GET	abe|ro	ro	r o	get (and come), take	dutton2010	1305
+14214	north-barai	694_GET	abe	abe	a b e	take	dutton2010	1305
+14222	north-barai	1200_HUSBAND	baru	baru	b a r u	husband	dutton2010	1307
+14230	north-barai	1205_TONGUE	mitar-e	mitar-e	m i t a r + e	tongue	dutton2010	1309
+14234	north-barai	2098_FOOT_OR_LEG	di-a	di-a	d i + a	leg	dutton2010	1310
+14242	north-barai	683_PERSON	e	e	e	person, people	dutton2010	1312
+14247	north-barai	1620_SON	fari	fari	f a r i	son	dutton2010	1313
+14251	north-barai	1416_SIT	fi	fi	f i	sit	dutton2010	1314
+14260	north-barai	1409_SEE	aga-e	aga-e	a g a + e	see	dutton2010	1316
+14264	north-barai	78_THAT	ga|fia	ga	g a	(up) there	dutton2010	1317
+14264	north-barai	78_THAT	ga|fia	fia	f i a	(up) there	dutton2010	1317
+14269	north-barai	1247_EAR	ad-a	ad-a	a d + a	ear	dutton2010	1318
+14273	north-barai	1380_TOOTH	uba-e (saki)	uba-e_	u b a + e	tooth (ache)	dutton2010	1319
+14281	north-barai	727_WHICH	ize|ki	ize	i z e	which?	dutton2010	1321
+14281	north-barai	727_WHICH	ize|ki	ki	k i	which?	dutton2010	1321
+14286	north-barai	948_WATER	do	do	d o	water	dutton2010	1322
+14287	north-barai	948_WATER	do|rue	do	d o	swim	dutton2010	1322
+14287	north-barai	948_WATER	do|rue	rue	r u e	swim	dutton2010	1322
+14296	north-barai	531_HOW_MUCH	ije|ge	ije	i j e	how much?	dutton2010	1324
+14296	north-barai	531_HOW_MUCH	ije|ge	ge	g e	how much?	dutton2010	1324
+14300	north-barai	1498_TWO	inoko|ro	inoko	i n o k o	two	dutton2010	1325
+14300	north-barai	1498_TWO	inoko|ro	ro	r o	two	dutton2010	1325
+14305	north-barai	1236_WHAT	irer-e	irer-e	i r e r + e	what?	dutton2010	1326
+14311	north-barai	674_MOUTH	ir-e	ir-e	i r + e	mouth	dutton2010	1328
+14316	north-barai	1235_WHO	era	era	e r a	who?	dutton2010	1329
+14324	north-barai	1429_FULL	ito|eje	ito	i t o	full	dutton2010	1331
+14324	north-barai	1429_FULL	ito|eje	eje	e j e	full	dutton2010	1331
+14328	north-barai	1376_NOW	iviama	iviama	i v i a m a	now	dutton2010	1332
+14331	north-barai	1220_TAIL	ivien-e	ivien-e	i v i e n + e	tail	dutton2010	1333
+14336	north-barai	1403_BITE	sak-	sak-	s a k	bite, sting	dutton2010	1334
+14337	north-barai	1403_BITE	sak-ie	sak-ie	s a k + i e	bite me	dutton2010	1334
+14345	north-barai	908_DRUM	daj-o	daj-o	d a j + o	drum	dutton2010	1336
+14349	north-barai	1283_TODAY	jaru|ma'e	jaru	j a r u	today	dutton2010	1337
+14349	north-barai	1283_TODAY	jaru|ma'e	ma'e	m a e	today	dutton2010	1337
+14351	north-barai	671_SAND	ajar-e	ajar-e	a j a r + e	sand	dutton2010	1338
+14362	north-barai	586_GARDEN	juar-e	juar-e	j u a r + e	garden	dutton2010	1341
+14367	north-barai	1419_FEAR_BE_AFRAID	jud-ie	jud-ie	j u d + i e	be afraid	dutton2010	1342
+14371	north-barai	1222_PENIS	juor-e	juor-e	j u o r + e	penis	dutton2010	1343
+14375	north-barai	1218_ROPE	ka-e	ka-e	k a + e	string	dutton2010	1344
+14380	north-barai	1433_HIT	kan-ie	kan-ie	k a n + i e	hit, help, shoot	dutton2010	1345
+14385	north-barai	1416_SIT	kari	kari	k a r i	sit (pl.)	dutton2010	1346
+14387	north-barai	632_LIZARD	karu|on-e	karu	k a r u	lizard	dutton2010	1347
+14387	north-barai	632_LIZARD	karu|on-e	on-e	o n + e	lizard	dutton2010	1347
+14391	north-barai	156_RED	kavu|ame	kavu	k a v u	red, blood	dutton2010	1348
+14391	north-barai	156_RED	kavu|ame	ame	a m e	red, blood	dutton2010	1348
+14395	north-barai	1102_CLIMB	aji-a	aji-a	a j i + a	go up	dutton2010	1349
+14401	north-barai	1355_LAUGH	ki	ki	k i	laugh	dutton2010	1350
+14407	north-barai	804_purposiveverbsuffix	-kiro	-kiro	k i r o	desiderative	dutton2010	1351
+14411	north-barai	2708_TALK	kua|e	kua	k u a	talk, speak	dutton2010	1352
+14411	north-barai	2708_TALK	kua|e	e	e	talk, speak	dutton2010	1352
+14417	north-barai	1084_CALL	kume	kume	k u m e	call out	dutton2010	1353
+14426	north-barai	1343_SUN	maza|n-e	maza	m a z a	sun, day	dutton2010	1355
+14426	north-barai	1343_SUN	maza|n-e	n-e	n + e	sun, day	dutton2010	1355
+14429	north-barai	1667_HOLE	mako	mako	m a k o	hole in ground	dutton2010	1356
+14442	north-barai	776_TRUNK_OF_TREE	(ine) an-e	_an-e	a n + e	(tree) trunk	dutton2010	1360
+14445	north-barai	1402_BREAST	mui	mui	m u i	breast' (unexplained form; mus-e expected)	dutton2010	1361
+14451	north-barai	1209_I	na	na	n a	I	dutton2010	1968
+14463	north-barai	1585_SLEEP	nina-e	nina-e	n i n a + e	sleep	dutton2010	1365
+14467	north-barai	1179_DAY_AFTER_TOMORROW	nitu|a	nitu	n i t u	day before yesterday, day after tomorrow	dutton2010	1366
+14467	north-barai	1179_DAY_AFTER_TOMORROW	nitu|a	a	a	day before yesterday, day after tomorrow	dutton2010	1366
+14472	north-barai	810_predicativepossessivesuffix	-one	-one	o n e	predicative possessive suffix	dutton2010	1367
+14484	north-barai	2159_GROUND	saka-e	saka-e	s a k a + e	ground, soil	dutton2010	1370
+14488	north-barai	1252_HOUSE	ar-e	ar-e	a r + e	house, place	dutton2010	1371
+14495	north-barai	217_BETELNUT	siar-e	siar-e	s i a r + e	betelnut	dutton2010	1373
+14504	north-barai	1292_BAD	is-e	is-e	i s + e	bad' (initial s expected)	dutton2010	1375
+14507	north-barai	982_LIME_FRUIT	suvuam-e	suvuam-e	s u v u a m + e	lime	dutton2010	1376
+14511	north-barai	730_SNAKE	tabar-e	tabar-e	t a b a r + e	snake	dutton2010	1377
+14515	north-barai	1767_SCRAPE	adi-a	adi-a	a d i + a	plane, scrape off	dutton2010	1378
+14518	north-barai	1501_BORE	titu-a	titu-a	t i t u + a	make a small hole in	dutton2010	1379
+14522	north-barai	646_ASH	tuvu|ar-e	tuvu	t u v u	ashes	dutton2010	1380
+14522	north-barai	646_ASH	tuvu|ar-e	ar-e	a r + e	ashes	dutton2010	1380
+14526	north-barai	1432_CUT	ufu	ufu	u f u	cut (grass), slice	dutton2010	1381
+14529	north-barai	949_WATER_LEECH	asin-e	asin-e	a s i n + e	leech	dutton2010	1382
+14533	north-barai	580_FUR	(siroe) u	_u	u	(dog's) fur	dutton2010	1383
+14537	north-barai	778_SMOKE_EXHAUST	(arene) u	_u	u	(fire) smoke	dutton2010	1384
+14542	north-barai	1224_LIVER	vak-a	vak-a	v a k + a	liver	dutton2010	1385
+14546	north-barai	695_GO	va	va	v a	go	dutton2010	1386
+14550	north-barai	1343_SUN	ve	ve	v e	day and night, rain	dutton2010	1387
+14572	north-barai	1437_SPLIT	at-ae	at-ae	a t + a e	break off a piece	dutton2010	1393
+14581	north-barai	868_BANANA	aju-e	aju-e	a j u + e	banana (type)	dutton2010	1395
+14589	north-barai	1489_CLOUD	amit-e	amit-e	a m i t + e	cloud	dutton2010	1397
+14607	north-barai	2304_THEE_OBLIQUE_CASE_OF_YOU	a	a	a	you.sg	dutton2010	1401
+14615	north-barai	1402_BREAST	mo|su	mo	m o	breast	dutton2010	1402
+14615	north-barai	1402_BREAST	mo|su	su	s u	breast	dutton2010	1402
+14640	north-barai	1486_PLANT_SOMETHING	sa	sa	s a	plant	dutton2010	1407
+14651	north-barai	351_TARO	madu	madu	m a d u	taro	dutton2010	1409
+14657	north-barai	1480_BODY	vaja-e	vaja-e	v a j a + e	body	dutton2010	1410
+14672	north-barai	749_ENTER	aru	aru	a r u	go in	dutton2010	1413
+14704	north-barai	221_FIRE	men-u	men-u	m e n + u	fire	dutton2010	1418
+14712	north-barai	2108_RAINING_OR_RAIN	ve	ve	v e	rain	dutton2010	1419
+14724	north-barai	2312_YOU_OBLIQUE_CASE_OF_YOU	ja	ja	j a	you.pl	dutton2010	1421
+14732	north-barai	817_THEY	bu	bu	b u	they	dutton2010	1422
+14759	north-barai	1442_STAND	uri	uri	u r i	rise, get up	dutton2010	1426
+14767	north-barai	178_RIPE	bae|je	bae	b a e	ripe	dutton2010	1427
+14767	north-barai	178_RIPE	bae|je	je	j e	ripe	dutton2010	1427
+14775	north-barai	834_acertainonesomeanother	be	be	b e	another, different	dutton2010	1429
+14787	north-barai	1240_NOT	ba	ba	b a	not	dutton2010	1430
+14804	north-barai	473_SPEAR_SOMEBODY	bij-a	bij-a	b i j + a	spear (v)	dutton2010	1433
+14812	north-barai	2121_ARM_OR_HAND	adav-e	adav-e	a d a v + e	wing	dutton2010	1434
+14829	north-barai	675_FAECES_EXCREMENT	de	de	d e	faeces, intestines	dutton2010	1437
+14839	north-barai	1519_RUN	difu|ri	difu	d i f u	run	dutton2010	1439
+14839	north-barai	1519_RUN	difu|ri	ri	r i	run	dutton2010	1439
+14863	north-barai	1246_SMALL	ise|kub-e	ise	i s e	small	dutton2010	1444
+14863	north-barai	1246_SMALL	ise|kub-e	kub-e	k u b + e	small	dutton2010	1444
+14864	north-barai	1246_SMALL	ise|sina	ise	i s e	small ones	dutton2010	1444
+14864	north-barai	1246_SMALL	ise|sina	sina	s i n a	small ones	dutton2010	1444
+14870	north-barai	893_topoffoot	ado	ado	a d o	on top	dutton2010	1445
+14892	north-barai	840_immediateimperativepluralverbsuffix	-fo	-fo	f o	imperative plural suffix	dutton2010	1449
+14900	north-barai	841_locativenounsuffixattofrom	-he	-he	h e	at, from	dutton2010	1450
+14907	north-barai	189_HAIR_BODY	u	u	u	fur	dutton2010	1451
+14912	north-barai	1487_POUR	usi-a	usi-a	u s i + a	pour out	dutton2010	1452
+14916	north-barai	843_tobuysellbarter	fuae|v-e	fuae	f u a e	buy	dutton2010	1453
+14916	north-barai	843_tobuysellbarter	fuae|v-e	v-e	v + e	buy	dutton2010	1453
+14920	north-barai	2093_AFTERWARDS	gabi|ne	gabi	g a b i	afterwards	dutton2010	1454
+14920	north-barai	2093_AFTERWARDS	gabi|ne	ne	n e	afterwards	dutton2010	1454
+14926	north-barai	498_medialverbsuffixds	-ga	-ga	g a	medial verb suffix DS	dutton2010	1455
+14927	north-barai	498_medialverbsuffixds	-gana	-gana	g a n a	medial verb suffix DS	dutton2010	1455
+14928	north-barai	498_medialverbsuffixds	-ke	-ke	k e	medial verb suffix DS	dutton2010	1455
+14937	north-barai	1786_DRY_UP	iria|eki	iria	i r i a	dry (not wet)	dutton2010	1457
+14937	north-barai	1786_DRY_UP	iria|eki	eki	e k i	dry (not wet)	dutton2010	1457
+14938	north-barai	1786_DRY_UP	iria|r-e	iria	i r i a	dry (stg), dry (adj)	dutton2010	1457
+14938	north-barai	1786_DRY_UP	iria|r-e	r-e	r + e	dry (stg), dry (adj)	dutton2010	1457
+14948	north-barai	1433_HIT	am-e	am-e	a m + e	hit, kill	dutton2010	1459
+14959	north-barai	2115_CEASE_OR_FINISH	ar-e	ar-e	a r + e	stop	dutton2010	1461
+14965	north-barai	499_medialsequentialsuffixhavingfinishedthatandthen	-areme	-areme	a r e m e	and then	dutton2010	1462
+14993	north-barai	1336_EAT	i	i	i	eat	dutton2010	1467
+15001	north-barai	906_TREE	in-e	in-e	i n + e	tree, wood, stick	dutton2010	1468
+15009	north-barai	1493_ONE	ogo|nu	ogo	o g o	one	dutton2010	1469
+15009	north-barai	1493_ONE	ogo|nu	nu	n u	one	dutton2010	1469
+15017	north-barai	1405_NAME	iv-e	iv-e	i v + e	name	dutton2010	1470
+15025	north-barai	1408_HEAR	fi-e	fi-e	f i + e	hear, understand	dutton2010	1471
+15043	north-barai	1075_TRAP_PITFALL	iv-a	iv-a	i v + a	pull string on trap	dutton2010	1474
+15048	north-barai	1418_DIG	karo	karo	k a r o	dig out	dutton2010	1475
+15052	north-barai	813_DO	(masire) ki-a	_ki-a	k i + a	make (magic)	dutton2010	1476
+15059	north-barai	262_HE_OR_SHE_OR_IT	fu	fu	f u	he, she, it (3sg pronoun)	dutton2010	1477
+15071	north-barai	1199_WIFE	bara (abe)	bara_	b a r a	marry, (take) wife' (form suspicious; expected bar-e)	dutton2010	1479
+15078	north-barai	1035_GOOD	ma	ma	m a	good, true	dutton2010	1480
+15087	north-barai	1035_GOOD	maj|e	maj	m a j	real	dutton2010	1482
+15087	north-barai	1035_GOOD	maj|e	e	e	real	dutton2010	1482
+15098	north-barai	725_OLD_PERSON	(a)mame	mame	m a m e	old (man), old (woman) (very old)	dutton2010	1484
+15103	north-barai	984_WORK_LABOUR	me	me	m e	clear garden, weed garden	dutton2010	1485
+15109	north-barai	506_medialssverbsuffix	-me	-me	m e	medial ss verb suffix	dutton2010	1486
+15117	north-barai	619_ANIMAL	mi|kuae	mi	m i	animal (generic)	dutton2010	1487
+15117	north-barai	619_ANIMAL	mi|kuae	kuae	k u a e	animal (generic)	dutton2010	1487
+15122	north-barai	1621_SNEEZE	asi|nuf-ie	asi	a s i	sneeze	dutton2010	1488
+15122	north-barai	1621_SNEEZE	asi|nuf-ie	nuf-ie	n u f + i e	sneeze	dutton2010	1488
+15129	north-barai	1447_GIVE	m-ie	m-ie	m + i e	give me	dutton2010	1489
+15139	north-barai	857_STONE	mun-e	mun-e	m u n + e	stone	dutton2010	1490
+15146	north-barai	1945_interrogative	-ne	-ne	n e	question marker (on pronoun subject)	dutton2010	1491
+15155	north-barai	1459_IF	-ne	-ne	n e	conditional verb suffix, past and future tenses	dutton2010	1493
+15166	north-barai	1248_EYE	ni	ni	n i	eye	dutton2010	1495
+15175	north-barai	1839_CRY	ni|me-	ni	n i	cry	dutton2010	1496
+15175	north-barai	1839_CRY	ni|me-	me-	m e	cry	dutton2010	1496
+15183	north-barai	1212_WE	no	no	n o	we	dutton2010	1497
+15190	north-barai	1014_OR	o	o	o	or	dutton2010	1498
+15199	north-barai	3037_SAME-SEX_OLDER_SIBLING	maʔi	maʔi	m a ʔ i	sibling, same sex, older	dutton2010	1499
+15206	north-barai	1895_CLOTHES	ugon-e	ugon-e	u g o n + e	clothes, piece of cloth	dutton2010	1500
+15219	north-barai	269_COOKED	nae	nae	n a e	cooked	dutton2010	1502
+15226	north-barai	1442_STAND	mani|a	mani	m a n i	stand	dutton2010	1503
+15226	north-barai	1442_STAND	mani|a	a	a	stand	dutton2010	1503
+15239	north-barai	1404_STRAIGHT	a|ri|ari	a	a	straight	dutton2010	1505
+15239	north-barai	1404_STRAIGHT	a|ri|ari	ri	r i	straight	dutton2010	1505
+15239	north-barai	1404_STRAIGHT	a|ri|ari	ari	a r i	straight	dutton2010	1505
+15248	north-barai	1458_SAY	ro-	ro-	r o	speak	dutton2010	1506
+15255	north-barai	1446_COME	ruo	ruo	r u o	come	dutton2010	1507
+15256	north-barai	1446_COME	rue	rue	r u e	come	dutton2010	1507
+15257	north-barai	1446_COME	iro	iro	i r o	come	dutton2010	1507
+15264	north-barai	1949_BEDBUG	tarun-a	tarun-a	t a r u n + a	bed bug	dutton2010	1508
+15273	north-barai	1333_NECK	no-i	no-i	n o + i	nape	dutton2010	1509
+15277	north-barai	862_plateauflatland	amar-e	amar-e	a m a r + e	flat land	dutton2010	1510
+15282	north-barai	1457_SEW	sag-u	sag-u	s a g + u	sew	dutton2010	1511
+15286	north-barai	1453_WASH	so	so	s o	wash	dutton2010	1512
+15287	north-barai	1453_WASH	do|ru-e	do	d o	swim, wash	dutton2010	1512
+15287	north-barai	1453_WASH	do|ru-e	ru-e	r u + e	swim, wash	dutton2010	1512
+15299	north-barai	466_CASSOWARY	tubuar-e	tubuar-e	t u b u a r + e	cassowary	dutton2010	1514
+15310	north-barai	1917_TIE	tamu	tamu	t a m u	tie string for string bag	dutton2010	1516
+15311	north-barai	1917_TIE	tamug-e	tamug-e	t a m u g + e	knot	dutton2010	1516
+15320	north-barai	960_WIND	uburu	uburu	u b u r u	wind	dutton2010	1518
+15334	north-barai	175_BLOW_OF_WIND	ufi	ufi	u f i	blow (wind)	dutton2010	13644
+15673	north-barai	1289_BABY	(ume) am-e	_am-e	a m + e	baby (bird)	dutton2010	1605
+92434	north-barai	1336_EAT	i	i	i	eat	dutton2010	319
+260771	north-barai	1180_DAY_BEFORE_YESTERDAY	nitu|a	nitu	n i t u	day before yesterday, day after tomorrow	dutton2010	320
+260771	north-barai	1180_DAY_BEFORE_YESTERDAY	nitu|a	a	a	day before yesterday, day after tomorrow	dutton2010	321
+260773	north-barai	1401_DRINK	i	i	i	eat	dutton2010	322
+14215	south-barai	694_GET	abe-	abe-	a b e	take	dutton2010	1305
+14218	south-barai	1371_KNEE	atei	atei	a t e i	knee' (e unexpected; o expected)	dutton2010	1306
+14223	south-barai	1200_HUSBAND	baru	baru	b a r u	husband	dutton2010	1307
+14231	south-barai	1205_TONGUE	bitaru	bitaru	b i t a r u	tongue	dutton2010	1309
+14235	south-barai	2098_FOOT_OR_LEG	deʔu	deʔu	d e ʔ u	leg	dutton2010	1310
+14239	south-barai	800_THIGH	du'a	du'a	d u a	thigh	dutton2010	1311
+14243	south-barai	683_PERSON	e	e	e	person	dutton2010	1312
+14248	south-barai	1620_SON	vari	vari	v a r i	son	dutton2010	1313
+14256	south-barai	175_BLOW_OF_WIND	uasi	uasi	u a s i	blow (fire)	dutton2010	1315
+14261	south-barai	1409_SEE	aga-	aga-	a g a	see	dutton2010	1316
+14265	south-barai	78_THAT	ga|re	ga	g a	that over there	dutton2010	1317
+14265	south-barai	78_THAT	ga|re	re	r e	that over there	dutton2010	1317
+14270	south-barai	1247_EAR	gada	gada	g a d a	ear	dutton2010	1318
+14274	south-barai	1380_TOOTH	gobai	gobai	g o b a i	tooth	dutton2010	1319
+14278	south-barai	1236_WHAT	ida|ga	ida	i d a	what?	dutton2010	1320
+14278	south-barai	1236_WHAT	ida|ga	ga	g a	what?	dutton2010	1320
+14282	south-barai	727_WHICH	ide|ʔo	ide	i d e	which?	dutton2010	1321
+14282	south-barai	727_WHICH	ide|ʔo	ʔo	ʔ o	which?	dutton2010	1321
+14288	south-barai	948_WATER	ido	ido	i d o	water	dutton2010	1322
+14289	south-barai	948_WATER	ido|su	ido	i d o	swim	dutton2010	1322
+14289	south-barai	948_WATER	ido|su	su	s u	swim	dutton2010	1322
+14301	south-barai	1498_TWO	inoʔi	inoʔi	i n o ʔ i	two	dutton2010	1325
+14308	south-barai	163_BLACK	aja	aja	a j a	black	dutton2010	1327
+14312	south-barai	674_MOUTH	iru	iru	i r u	mouth	dutton2010	1328
+14317	south-barai	1235_WHO	irara	irara	i r a r a	who?	dutton2010	1329
+14318	south-barai	1235_WHO	ira	ira	i r a	who?	dutton2010	1329
+14322	south-barai	1489_CLOUD	iso	iso	i s o	cloud	dutton2010	1330
+14325	south-barai	1429_FULL	ito|tia	ito	i t o	full	dutton2010	1331
+14325	south-barai	1429_FULL	ito|tia	tia	t i a	full	dutton2010	1331
+14332	south-barai	1220_TAIL	ivenu	ivenu	i v e n u	tail (of dog)	dutton2010	1333
+14338	south-barai	1403_BITE	za-	za-	z a	bite	dutton2010	1334
+14341	south-barai	879_COUGH	zaha|o	zaha	z a h a	cough	dutton2010	1335
+14341	south-barai	879_COUGH	zaha|o	o	o	cough	dutton2010	1335
+14352	south-barai	671_SAND	aiaru	aiaru	a i a r u	sand	dutton2010	1338
+14359	south-barai	1644_RELATIVES	-joru	-joru	j o r u	RELATIVE	dutton2010	1340
+14363	south-barai	586_GARDEN	jo	jo	j o	garden	dutton2010	1341
+14368	south-barai	1419_FEAR_BE_AFRAID	zuhu-	zuhu-	z u h u	be afraid	dutton2010	1342
+14372	south-barai	1222_PENIS	joru	joru	j o r u	penis	dutton2010	1343
+14376	south-barai	1218_ROPE	ai	ai	a i	string, rope	dutton2010	1344
+14381	south-barai	1433_HIT	ʔana	ʔana	ʔ a n a	hit (with stick or hand)	dutton2010	1345
+14392	south-barai	156_RED	ʔabo	ʔabo	ʔ a b o	red	dutton2010	1348
+14396	south-barai	1102_CLIMB	aje-	aje-	a j e	go up, ascend	dutton2010	1349
+14402	south-barai	1355_LAUGH	ʔi-	ʔi-	ʔ i	laugh	dutton2010	1350
+14412	south-barai	2708_TALK	ʔua|re	ʔua	ʔ u a	talk	dutton2010	1352
+14412	south-barai	2708_TALK	ʔua|re	re	r e	talk	dutton2010	1352
+14418	south-barai	1084_CALL	ume	ume	u m e	call out	dutton2010	1353
+14422	south-barai	1337_PIG	mahu	mahu	m a h u	pig	dutton2010	1354
+14432	south-barai	1838_NAVEL	me|mei	me	m e	navel	dutton2010	1357
+14432	south-barai	1838_NAVEL	me|mei	mei	m e i	navel	dutton2010	1357
+14435	south-barai	1274_SALT	misu	misu	m i s u	salt	dutton2010	1358
+14446	south-barai	1402_BREAST	mosu	mosu	m o s u	breast	dutton2010	1361
+14452	south-barai	1209_I	na	na	n a	I	dutton2010	1968
+14455	south-barai	1233_NIGHT	naʔi|re	naʔi	n a ʔ i	night	dutton2010	1363
+14455	south-barai	1233_NIGHT	naʔi|re	re	r e	night	dutton2010	1363
+14459	south-barai	1174_YESTERDAY	neru	neru	n e r u	yesterday, tomorrow	dutton2010	1364
+14464	south-barai	1585_SLEEP	nai-	nai-	n a i	sleep	dutton2010	1365
+14468	south-barai	1179_DAY_AFTER_TOMORROW	nito|he	nito	n i t o	day before yesterday, day after tomorrow	dutton2010	1366
+14468	south-barai	1179_DAY_AFTER_TOMORROW	nito|he	he	h e	day before yesterday, day after tomorrow	dutton2010	1366
+14469	south-barai	1180_DAY_BEFORE_YESTERDAY	nitu|ve	nitu	n i t u	day before yesterday, day after tomorrow	dutton2010	1366
+14469	south-barai	1180_DAY_BEFORE_YESTERDAY	nitu|ve	ve	v e	day before yesterday, day after tomorrow	dutton2010	1366
+14480	south-barai	1728_ROTTEN	saga|loma	saga	s a g a	ripe (banana)	dutton2010	1369
+14480	south-barai	1728_ROTTEN	saga|loma	loma	l o m a	ripe (banana)	dutton2010	1369
+14485	south-barai	2159_GROUND	saʔi	saʔi	s a ʔ i	ground	dutton2010	1370
+14489	south-barai	1252_HOUSE	aru	aru	a r u	house	dutton2010	1371
+14492	south-barai	798_JAW	anoʔu	anoʔu	a n o ʔ u	jaw, chin	dutton2010	1372
+14496	south-barai	217_BETELNUT	seru	seru	s e r u	betelnut	dutton2010	1373
+14500	south-barai	1482_SHOULDER	siroi	siroi	s i r o i	shoulder	dutton2010	1374
+14512	south-barai	730_SNAKE	tabare	tabare	t a b a r e	snake	dutton2010	1377
+14523	south-barai	646_ASH	tuʔo|tu	tuʔo	t u ʔ o	ashes	dutton2010	1380
+14523	south-barai	646_ASH	tuʔo|tu	tu	t u	ashes	dutton2010	1380
+14534	south-barai	580_FUR	(uʔo) ui	_ui	u i	(dog's) fur	dutton2010	1383
+14538	south-barai	778_SMOKE_EXHAUST	(menu) uʔu	_uʔu	u ʔ u	(fire) smoke	dutton2010	1384
+14543	south-barai	1224_LIVER	va	va	v a	liver	dutton2010	1385
+14547	south-barai	695_GO	vaʔ-o	vaʔ-o	v a ʔ + o	go	dutton2010	1386
+14551	south-barai	1343_SUN	ve	ve	v e	sun	dutton2010	1387
+14554	south-barai	1238_WHEN	veda|ha	veda	v e d a	when?	dutton2010	1388
+14554	south-barai	1238_WHEN	veda|ha	ha	h a	when?	dutton2010	1388
+14559	south-barai	2103_PAINFUL_OR_SICK	ie|nu-	ie	i e	pain	dutton2010	1389
+14559	south-barai	2103_PAINFUL_OR_SICK	ie|nu-	nu-	n u	pain	dutton2010	1389
+14563	south-barai	1838_NAVEL	vinohu	vinohu	v i n o h u	navel	dutton2010	1390
+14566	south-barai	155_CHOP	veda	veda	v e d a	chop wood	dutton2010	1391
+14569	south-barai	1394_BONE	adu	adu	a d u	bone	dutton2010	1392
+14573	south-barai	1437_SPLIT	ata-	ata-	a t a	break wood	dutton2010	1393
+14577	south-barai	776_TRUNK_OF_TREE	(idu)ʔaho	ʔaho	ʔ a h o	(tree) trunk	dutton2010	1394
+14585	south-barai	841_locativenounsuffixattofrom	-ʔe	-ʔe	ʔ e	at' (in addition to -de, -he)	dutton2010	1396
+14593	south-barai	1577_AND	-ʔo...-ʔo	-ʔo...-ʔo	ʔ o + ʔ o	and (joining nouns)	dutton2010	1398
+14596	south-barai	1223_HEART	oiʔo	oiʔo	o i ʔ o	heart' (unexpected form; initial glottal stop expected)	dutton2010	1399
+14600	south-barai	2009_DOG	uʔo	uʔo	u ʔ o	dog' (ʔ suspicious here, zero expected)	dutton2010	1400
+14608	south-barai	2304_THEE_OBLIQUE_CASE_OF_YOU	a	a	a	you.sg	dutton2010	1401
+14616	south-barai	1402_BREAST	mu|i	mu	m u	breast	dutton2010	1402
+14616	south-barai	1402_BREAST	mu|i	i	i	breast	dutton2010	1402
+14622	south-barai	822_plsuffixonkinshipnouns	-hu	-hu	h u	pl suffix on kinship nouns	dutton2010	1403
+14652	south-barai	351_TARO	madu	madu	m a d u	taro	dutton2010	1409
+14673	south-barai	749_ENTER	aru|ye	aru	a r u	enter	dutton2010	1413
+14673	south-barai	749_ENTER	aru|ye	ye	j e	enter	dutton2010	1413
+14674	south-barai	749_ENTER	aru|ʔairo	aru	a r u	enter	dutton2010	1413
+14674	south-barai	749_ENTER	aru|ʔairo	ʔairo	ʔ a i r o	enter	dutton2010	1413
+14681	south-barai	1629_faceforehead	vare	vare	v a r e	forehead	dutton2010	1414
+14705	south-barai	221_FIRE	menu	menu	m e n u	fire	dutton2010	1418
+14713	south-barai	2108_RAINING_OR_RAIN	ve	ve	v e	rain	dutton2010	1419
+14725	south-barai	2312_YOU_OBLIQUE_CASE_OF_YOU	ya	ya	j a	you.pl	dutton2010	1421
+14733	south-barai	817_THEY	pu	pu	p u	they	dutton2010	1422
+14747	south-barai	1217_FATHER	baba	baba	b a b a	father, uncle (father's brother)	dutton2010	10523
+14753	south-barai	1392_LOUSE	umu	umu	u m u	louse	dutton2010	1425
+14760	south-barai	1442_STAND	uri	uri	u r i	arise, stand up	dutton2010	1426
+14776	south-barai	834_acertainonesomeanother	be|hi	be	b e	a, one, other	dutton2010	1429
+14776	south-barai	834_acertainonesomeanother	be|hi	hi	h i	a, one, other	dutton2010	1429
+14777	south-barai	834_acertainonesomeanother	be|si	be	b e	a, one, other	dutton2010	1429
+14777	south-barai	834_acertainonesomeanother	be|si	si	s i	a, one, other	dutton2010	1429
+14788	south-barai	1240_NOT	ba	ba	b a	not	dutton2010	1430
+14798	south-barai	683_PERSON	bia	bia	b i a	man, person	dutton2010	1432
+14805	south-barai	473_SPEAR_SOMEBODY	bij-a	bij-a	b i j + a	kill (pig by spearing)	dutton2010	1433
+14813	south-barai	2121_ARM_OR_HAND	(miʔena) ada|hu	_ada	a d a	wing	dutton2010	1434
+14813	south-barai	2121_ARM_OR_HAND	(miʔena) ada|hu	hu	h u	wing	dutton2010	1434
+14817	south-barai	1683_BUSH	boto	boto	b o t o	bush	dutton2010	1435
+14830	south-barai	1251_BELLY	de	de	d e	belly	dutton2010	1437
+14843	south-barai	1430_STAR	amu|didi	amu	a m u	star	dutton2010	1440
+14843	south-barai	1430_STAR	amu|didi	didi	d i d i	star	dutton2010	1440
+14874	south-barai	1439_SWIM	ido su-	ido_su-	i d o + s u	swim	dutton2010	1446
+14893	south-barai	840_immediateimperativepluralverbsuffix	-he	-he	h e	imperative plural suffix	dutton2010	1449
+14894	south-barai	840_immediateimperativepluralverbsuffix	-ye	-ye	j e	imperative plural suffix	dutton2010	1449
+14901	south-barai	841_locativenounsuffixattofrom	-he	-he	h e	to, in, from	dutton2010	1450
+14902	south-barai	841_locativenounsuffixattofrom	-'e	-'e	e	to, in, from	dutton2010	1450
+14929	south-barai	498_medialverbsuffixds	-ho|ga	-ho	h o	medial verb suffix DS, 'when	dutton2010	1455
+14929	south-barai	498_medialverbsuffixds	-ho|ga	ga	g a	medial verb suffix DS, 'when	dutton2010	1455
+14933	south-barai	1244_THICK	adunu	adunu	a d u n u	thick	dutton2010	1456
+14943	south-barai	159_SWEET_POTATO	gobeʔu	gobeʔu	g o b e ʔ u	sweet potato	dutton2010	1458
+14952	south-barai	1423_FIGHT	ara-	ara-	a r a	fight	dutton2010	1460
+14971	south-barai	3038_SAME-SEX_YOUNGER_SIBLING	ʔuvo	ʔuvo	ʔ u v o	sibling, same sex, younger	dutton2010	1463
+14994	south-barai	1336_EAT	i-	i-	i	eat, drink	dutton2010	1467
+15002	south-barai	906_TREE	idu	idu	i d u	tree	dutton2010	1468
+15010	south-barai	1493_ONE	ogo|nu	ogo	o g o	one	dutton2010	1469
+15010	south-barai	1493_ONE	ogo|nu	nu	n u	one	dutton2010	1469
+15018	south-barai	1405_NAME	ihu	ihu	i h u	name	dutton2010	1470
+15026	south-barai	1408_HEAR	ihe-	ihe-	i h e	hear	dutton2010	1471
+15060	south-barai	262_HE_OR_SHE_OR_IT	ahu	ahu	a h u	he, she, it'; 3sg pronoun	dutton2010	1477
+15072	south-barai	1199_WIFE	bara	bara	b a r a	wife	dutton2010	1479
+15084	south-barai	962_WOMAN	(e) meina	_meina	m e i n a	woman (= female person)	dutton2010	1481
+15088	south-barai	1035_GOOD	maʔi|na	maʔi	m a ʔ i	good	dutton2010	1482
+15088	south-barai	1035_GOOD	maʔi|na	na	n a	good	dutton2010	1482
+15110	south-barai	506_medialssverbsuffix	-me	-me	m e	medial ss verb suffix	dutton2010	1486
+15130	south-barai	1447_GIVE	ma	ma	m a	give	dutton2010	1489
+15131	south-barai	1447_GIVE	(abe na) mi!	_mi!	m i	give me!	dutton2010	1489
+15147	south-barai	1945_interrogative	-ne	-ne	n e	question marker (on pronoun subject)	dutton2010	1491
+15160	south-barai	511_forbenefactivecliticisedorsuffixedtonoun	bo|ni	bo	b o	for (a thing)	dutton2010	1494
+15160	south-barai	511_forbenefactivecliticisedorsuffixedtonoun	bo|ni	ni	n i	for (a thing)	dutton2010	1494
+15167	south-barai	1248_EYE	ni|o	ni	n i	eye	dutton2010	1495
+15167	south-barai	1248_EYE	ni|o	o	o	eye	dutton2010	1495
+15176	south-barai	1839_CRY	ni-	ni-	n i	cry	dutton2010	1496
+15184	south-barai	1212_WE	no	no	n o	we	dutton2010	1497
+15191	south-barai	1014_OR	o	o	o	or	dutton2010	1498
+15200	south-barai	3037_SAME-SEX_OLDER_SIBLING	mahino	mahino	m a h i n o	sibling, same sex, older	dutton2010	1499
+15207	south-barai	1895_CLOTHES	ogona	ogona	o g o n a	clothes	dutton2010	1500
+15213	south-barai	2102_BURN	rae|ma	rae	r a e	burning	dutton2010	1501
+15213	south-barai	2102_BURN	rae|ma	ma	m a	burning	dutton2010	1501
+15220	south-barai	269_COOKED	rae	rae	r a e	cooked	dutton2010	1502
+15227	south-barai	1442_STAND	rami-	rami-	r a m i	stand	dutton2010	1503
+15240	south-barai	1404_STRAIGHT	a|ri|ari	a	a	straight	dutton2010	1505
+15240	south-barai	1404_STRAIGHT	a|ri|ari	ri	r i	straight	dutton2010	1505
+15240	south-barai	1404_STRAIGHT	a|ri|ari	ari	a r i	straight	dutton2010	1505
+15249	south-barai	1458_SAY	ro-	ro-	r o	speak	dutton2010	1506
+15258	south-barai	1446_COME	iro-	iro-	i r o	come	dutton2010	1507
+15283	south-barai	1457_SEW	sigu-	sigu-	s i g u	sew up	dutton2010	1511
+15288	south-barai	1453_WASH	su	su	s u	wash	dutton2010	1512
+15294	south-barai	946_BLOOD	avo|du	avo	a v o	 blood	dutton2010	1513
+15294	south-barai	946_BLOOD	avo|du	du	d u	 blood	dutton2010	1513
+15300	south-barai	466_CASSOWARY	tubuare	tubuare	t u b u a r e	cassowary	dutton2010	1514
+15305	south-barai	1436_SCRATCH	ʔumu	ʔumu	ʔ u m u	scratch (skin)	dutton2010	1515
+15312	south-barai	1917_TIE	tumue-	tumue-	t u m u e	tie rope	dutton2010	1516
+15321	south-barai	960_WIND	uburu	uburu	u b u r u	wind	dutton2010	1518
+79323	south-barai	1329_TOMORROW	neru	neru	n e r u	yesterday, tomorrow	dutton2010	323
+92435	south-barai	1336_EAT	i-	i-	i	eat, drink	dutton2010	324
+97523	south-barai	1179_DAY_AFTER_TOMORROW	nitu|ve	nitu	n i t u	day before yesterday, day after tomorrow	dutton2010	325
+97523	south-barai	1179_DAY_AFTER_TOMORROW	nitu|ve	ve	v e	day before yesterday, day after tomorrow	dutton2010	326
+260769	south-barai	1180_DAY_BEFORE_YESTERDAY	nito|he	nito	n i t o	day before yesterday, day after tomorrow	dutton2010	327
+260769	south-barai	1180_DAY_BEFORE_YESTERDAY	nito|he	he	h e	day before yesterday, day after tomorrow	dutton2010	328
+260778	south-barai	1401_DRINK	i-	i-	i	eat, drink	dutton2010	329
+14212	omie	694_GET	baej-e	baej-e	b a e j + e	take	dutton2010	1305
+14221	omie	1200_HUSBAND	baru-e	baru-e	b a r u + e	husband	dutton2010	1307
+14226	omie	1452_PUSH	bij|im-e	bij	b i j	push	dutton2010	1308
+14226	omie	1452_PUSH	bij|im-e	im-e	i m + e	push	dutton2010	1308
+14229	omie	1205_TONGUE	bitar-e	bitar-e	b i t a r + e	tongue	dutton2010	1309
+14238	omie	800_THIGH	du'a|h-e	du'a	d u a	thigh	dutton2010	1311
+14238	omie	800_THIGH	du'a|h-e	h-e	h + e	thigh	dutton2010	1311
+14241	omie	683_PERSON	a-e	a-e	a + e	man, person	dutton2010	1312
+14246	omie	1620_SON	hari|h-e	hari	h a r i	son	dutton2010	1313
+14246	omie	1620_SON	hari|h-e	h-e	h + e	son	dutton2010	1313
+14255	omie	175_BLOW_OF_WIND	huô-huô|v-e	huô-huô	h u ô/o + h u ô/o	blow on fire (to stir up)	dutton2010	1315
+14255	omie	175_BLOW_OF_WIND	huô-huô|v-e	v-e	v + e	blow on fire (to stir up)	dutton2010	1315
+14259	omie	1409_SEE	gav-e	gav-e	g a v + e	see	dutton2010	1316
+14277	omie	1236_WHAT	dië|hi	dië	d i ë/e	what?	dutton2010	1320
+14277	omie	1236_WHAT	dië|hi	hi	h i	what?	dutton2010	1320
+14280	omie	727_WHICH	di	di	d i	which?	dutton2010	1321
+14285	omie	948_WATER	jo|v-e	jo	j o	water	dutton2010	1322
+14285	omie	948_WATER	jo|v-e	v-e	v + e	water	dutton2010	1322
+14293	omie	2121_ARM_OR_HAND	nam|ij-e	nam	n a m	arm	dutton2010	1323
+14293	omie	2121_ARM_OR_HAND	nam|ij-e	ij-e	i j + e	arm	dutton2010	1323
+14299	omie	1498_TWO	nioʔi	nioʔi	n i o ʔ i	two	dutton2010	1325
+14304	omie	1236_WHAT	rab-e:	rab-e:	r a b + eː	what?	dutton2010	1326
+14315	omie	1235_WHO	raro	raro	r a r o	who?	dutton2010	1329
+14321	omie	1489_CLOUD	su-e	su-e	s u + e	cloud	dutton2010	1330
+14335	omie	1403_BITE	jaʔih-e	jaʔih-e	j a ʔ i h + e	bite	dutton2010	1334
+14344	omie	908_DRUM	jaj-e	jaj-e	j a j + e	drum	dutton2010	1336
+14348	omie	1283_TODAY	jaru|v-o:	jaru	j a r u	today	dutton2010	1337
+14348	omie	1283_TODAY	jaru|v-o:	v-o:	v + oː	today	dutton2010	1337
+14355	omie	1683_BUSH	jeʔ-e	jeʔ-e	j e ʔ + e	bush country	dutton2010	1339
+14356	omie	1683_BUSH	jeʔ-o:	jeʔ-o:	j e ʔ + oː	bush country	dutton2010	1339
+14366	omie	1419_FEAR_BE_AFRAID	uho|niv-	uho	u h o	be afraid	dutton2010	1342
+14366	omie	1419_FEAR_BE_AFRAID	uho|niv-	niv-	n i v	be afraid	dutton2010	1342
+14379	omie	1433_HIT	an-e	an-e	a n + e	hit	dutton2010	1345
+14384	omie	1416_SIT	ari|j-e	ari	a r i	sit, rest (two)	dutton2010	1346
+14384	omie	1416_SIT	ari|j-e	j-e	j + e	sit, rest (two)	dutton2010	1346
+14390	omie	156_RED	kavu|ëʔe	kavu	k a v u	red	dutton2010	1348
+14390	omie	156_RED	kavu|ëʔe	ëʔe	ë/e ʔ e	red	dutton2010	1348
+14394	omie	1102_CLIMB	aji|om-e	aji	a j i	go up	dutton2010	1349
+14394	omie	1102_CLIMB	aji|om-e	om-e	o m + e	go up	dutton2010	1349
+14399	omie	1355_LAUGH	ijo|ij-e	ijo	i j o	laugh	dutton2010	1350
+14399	omie	1355_LAUGH	ijo|ij-e	ij-e	i j + e	laugh	dutton2010	1350
+14400	omie	1355_LAUGH	ijo|v-	ijo	i j o	laugh	dutton2010	1350
+14400	omie	1355_LAUGH	ijo|v-	v-	v	laugh	dutton2010	1350
+14405	omie	804_purposiveverbsuffix	-i(ro)	-i	i	"potential"	dutton2010	1351
+14406	omie	804_purposiveverbsuffix	-ʔirô	-ʔirô	ʔ i r ô/o	"potential"	dutton2010	1351
+14410	omie	2708_TALK	ʔuv-	ʔuv-	ʔ u v	talk	dutton2010	1352
+14416	omie	1084_CALL	ʔuv-	ʔuv-	ʔ u v	call out	dutton2010	1353
+14421	omie	1337_PIG	mah-e	mah-e	m a h + e	pig	dutton2010	1354
+14425	omie	1343_SUN	madza|'-e	madza	m a d z a	sun	dutton2010	1355
+14438	omie	1100_COOK_SOMETHING	muru|oh-e	muru	m u r u	cook on hot stones	dutton2010	1359
+14438	omie	1100_COOK_SOMETHING	muru|oh-e	oh-e	o h + e	cook on hot stones	dutton2010	1359
+14449	omie	1209_I	na	na	n a	I	dutton2010	1968
+14450	omie	1209_I	na|ehu	na	n a	I	dutton2010	1968
+14450	omie	1209_I	na|ehu	ehu	e h u	I	dutton2010	1968
+14458	omie	1174_YESTERDAY	nëri	nëri	n ë/e r i	yesterday, tomorrow	dutton2010	1364
+14462	omie	1585_SLEEP	nia|v-e	nia	n i a	sleep	dutton2010	1365
+14462	omie	1585_SLEEP	nia|v-e	v-e	v + e	sleep	dutton2010	1365
+14475	omie	635_MILK	(amo) rihu-e	_rihu-e	r i h u + e	(breast) milk	dutton2010	1368
+14478	omie	1728_ROTTEN	sago|m	sago	s a g o	rotten thing	dutton2010	1369
+14478	omie	1728_ROTTEN	sago|m	m	m	rotten thing	dutton2010	1369
+14479	omie	1728_ROTTEN	sago|horije	sago	s a g o	rotting	dutton2010	1369
+14479	omie	1728_ROTTEN	sago|horije	horije	h o r i j e	rotting	dutton2010	1369
+14483	omie	2159_GROUND	saʔa-e	saʔa-e	s a ʔ a + e	ground	dutton2010	1370
+14487	omie	1252_HOUSE	ar-i	ar-i	a r + i	ground	dutton2010	1371
+14499	omie	1482_SHOULDER	sireh-a	sireh-a	s i r e h + a	shoulder	dutton2010	1374
+14503	omie	1292_BAD	sis-ë	sis-ë	s i s + ë/e	bad	dutton2010	1375
+14510	omie	730_SNAKE	tabôr-e	tabôr-e	t a b ô/o r + e	snake	dutton2010	1377
+14521	omie	646_ASH	ʔuë|n-e	ʔuë	ʔ u ë/e	ashes	dutton2010	1380
+14521	omie	646_ASH	ʔuë|n-e	n-e	n + e	ashes	dutton2010	1380
+14532	omie	580_FUR	u	u	u	hair' (expected form u-e)	dutton2010	1383
+14536	omie	778_SMOKE_EXHAUST	uʔa-e	uʔa-e	u ʔ a + e	smoke	dutton2010	1384
+14541	omie	1224_LIVER	va-e	va-e	v a + e	liver	dutton2010	1385
+14545	omie	695_GO	vaʔ-e	vaʔ-e	v a ʔ + e	go	dutton2010	1386
+14558	omie	2103_PAINFUL_OR_SICK	viʔe|h-e	viʔe	v i ʔ e	pain	dutton2010	1389
+14558	omie	2103_PAINFUL_OR_SICK	viʔe|h-e	h-e	h + e	pain	dutton2010	1389
+14562	omie	1838_NAVEL	vinoh-e	vinoh-e	v i n o h + e	navel and umbilical cord	dutton2010	1390
+14565	omie	155_CHOP	(idze) uedz-	_uedz-	u e d z	chop (wood)	dutton2010	1391
+14576	omie	776_TRUNK_OF_TREE	aho|naj-e	aho	a h o	trunk	dutton2010	1394
+14576	omie	776_TRUNK_OF_TREE	aho|naj-e	naj-e	n a j + e	trunk	dutton2010	1394
+14580	omie	868_BANANA	uj-e	uj-e	u j + e	banana	dutton2010	1395
+14584	omie	841_locativenounsuffixattofrom	-ʔe	-ʔe	ʔ e	at (with temporals)	dutton2010	1396
+14592	omie	1577_AND	-ʔo...-ʔo	-ʔo...-ʔo	ʔ o + ʔ o	and, with, also	dutton2010	1398
+14599	omie	2009_DOG	ʔö-e	ʔö-e	ʔ ö + e	dog	dutton2010	1400
+14606	omie	2304_THEE_OBLIQUE_CASE_OF_YOU	ja	ja	j a	you.sg	dutton2010	1401
+14614	omie	1402_BREAST	am-e	am-e	a m + e	breast	dutton2010	1402
+14628	omie	744_EGG	un-e	un-e	u n + e	egg	dutton2010	1404
+14631	omie	2371_BREADFRUIT	nug-e	nug-e	n u g + e	breadfruit	dutton2010	1405
+14645	omie	1236_WHAT	vadu	vadu	v a d u	who?, what?	dutton2010	1408
+14650	omie	351_TARO	varu|h-e	varu	v a r u	taro	dutton2010	1409
+14650	omie	351_TARO	varu|h-e	h-e	h + e	taro	dutton2010	1409
+14663	omie	1233_NIGHT	vahi-e	vahi-e	v a h i + e	night	dutton2010	1411
+14667	omie	410_YAM	vadzi	vadzi	v a d z i	yam	dutton2010	1412
+14680	omie	1629_faceforehead	vari|j-e	vari	v a r i	forehead	dutton2010	1414
+14680	omie	1629_faceforehead	vari|j-e	j-e	j + e	forehead	dutton2010	1414
+14692	omie	1836_VAGINA	vë	vë	v ë/e	vagina	dutton2010	1416
+14698	omie	1222_PENIS	veru-e	veru-e	v e r u + e	penis	dutton2010	1417
+14703	omie	221_FIRE	vën-i	vën-i	v ë/e n + i	fire, firewood	dutton2010	1418
+14711	omie	2108_RAINING_OR_RAIN	ëni	ëni	ë/e n i	rain	dutton2010	1419
+14718	omie	665_BEE	vuomu	vuomu	v u o m u	bee	dutton2010	1420
+14723	omie	2312_YOU_OBLIQUE_CASE_OF_YOU	je-më	je-më	j e + m ë/e	you.pl	dutton2010	1421
+14731	omie	817_THEY	jabu	jabu	j a b u	they	dutton2010	1422
+14738	omie	1879_DANCE	java-|ho	java-	j a v a	dance	dutton2010	1423
+14738	omie	1879_DANCE	java-|ho	ho	h o	dance	dutton2010	1423
+14739	omie	1879_DANCE	java|j-e	java	j a v a	dance	dutton2010	1423
+14739	omie	1879_DANCE	java|j-e	j-e	j + e	dance	dutton2010	1423
+14740	omie	1879_DANCE	java|v-e	java	j a v a	dance	dutton2010	1423
+14740	omie	1879_DANCE	java|v-e	v-e	v + e	dance	dutton2010	1423
+14745	omie	1217_FATHER	apo	apo	a p o	father (address)	dutton2010	10523
+14746	omie	1217_FATHER	aho	aho	a h o	father (address)	dutton2010	10523
+14752	omie	1392_LOUSE	um-e	um-e	u m + e	louse	dutton2010	1425
+14758	omie	1442_STAND	ri|ʔöj-e	ri	r i	get up	dutton2010	1426
+14758	omie	1442_STAND	ri|ʔöj-e	ʔöj-e	ʔ ö j + e	get up	dutton2010	1426
+14770	omie	1507_FRUIT	baj-e	baj-e	b a j + e	fruit	dutton2010	1428
+14786	omie	1240_NOT	bô|gô	bô	b ô/o	not	dutton2010	1430
+14786	omie	1240_NOT	bô|gô	gô	g ô/o	not	dutton2010	1430
+14794	omie	945_SPEAR	bi|j-e	bi	b i	spear (n)	dutton2010	1431
+14794	omie	945_SPEAR	bi|j-e	j-e	j + e	spear (n)	dutton2010	1431
+14803	omie	473_SPEAR_SOMEBODY	biji|oh-e	biji	b i j i	spear (v)	dutton2010	1433
+14803	omie	473_SPEAR_SOMEBODY	biji|oh-e	oh-e	o h + e	spear (v)	dutton2010	1433
+14811	omie	2121_ARM_OR_HAND	ad-e	ad-e	a d + e	branch, appendage	dutton2010	1434
+14822	omie	586_GARDEN	buor-e	buor-e	b u o r + e	fence	dutton2010	1436
+14823	omie	586_GARDEN	boru	boru	b o r u	fence	dutton2010	1436
+14828	omie	1251_BELLY	dë	dë	d ë/e	stomach, excrement, womb, insides	dutton2010	1437
+14835	omie	1935_ANUS	dëvaʔ-e	dëvaʔ-e	d ë/e v a ʔ + e	internal organs, stomach, liver	dutton2010	1438
+14836	omie	1935_ANUS	degag-e	degag-e	d e g a g + e	anus	dutton2010	1438
+14842	omie	1430_STAR	jij-e	jij-e	j i j + e	star	dutton2010	1440
+14848	omie	1453_WASH	ego-e	ego-e	e g o + e	wash (oneself)	dutton2010	1441
+14852	omie	1453_WASH	egu|o-	egu	e g u	wash (sg obj)	dutton2010	1442
+14852	omie	1453_WASH	egu|o-	o-	o	wash (sg obj)	dutton2010	1442
+14859	omie	1203_LONG	ëge	ëge	ë/e g e	long	dutton2010	1443
+14869	omie	893_topoffoot	dö|r-e	dö	d ö	top (of tree)	dutton2010	1445
+14869	omie	893_topoffoot	dö|r-e	r-e	r + e	top (of tree)	dutton2010	1445
+14880	omie	217_BETELNUT	ha-e	ha-e	h a + e	betelnut	dutton2010	1447
+14885	omie	628_LEAF	han-e	han-e	h a n + e	leaf	dutton2010	1448
+14891	omie	840_immediateimperativepluralverbsuffix	-he	-he	h e	imperative plural suffix	dutton2010	1449
+14911	omie	1487_POUR	'ote|hë'oj-e	'ote	o t e	pour out	dutton2010	1452
+14911	omie	1487_POUR	'ote|hë'oj-e	hë'oj-e	h ë/e o j + e	pour out	dutton2010	1452
+14925	omie	498_medialverbsuffixds	-go	-go	g o	medial verb suffix DS	dutton2010	1455
+14936	omie	1786_DRY_UP	giri|he	giri	g i r i	dry (clothes)	dutton2010	1457
+14936	omie	1786_DRY_UP	giri|he	he	h e	dry (clothes)	dutton2010	1457
+14942	omie	159_SWEET_POTATO	göbi-e:	göbi-e:	g ö b i + eː	sweet potato	dutton2010	1458
+14970	omie	3038_SAME-SEX_YOUNGER_SIBLING	ʔô-e	ʔô-e	ʔ ô/o + e	sibling, same sex, younger	dutton2010	1463
+14976	omie	982_LIME_FRUIT	ud-e	ud-e	u d + e	lime	dutton2010	1464
+14985	omie	1432_CUT	ah-e	ah-e	a h + e	cut, break (stick)	dutton2010	1466
+14991	omie	1336_EAT	ij-e	ij-e	i j + e	eat, drink, smoke (tobacco)	dutton2010	1467
+14992	omie	1336_EAT	i	i	i	eat, drink	dutton2010	1467
+15000	omie	906_TREE	ij-e	ij-e	i j + e	tree	dutton2010	1468
+15007	omie	1493_ONE	ge|mu	ge	g e	one	dutton2010	1469
+15007	omie	1493_ONE	ge|mu	mu	m u	one	dutton2010	1469
+15008	omie	1493_ONE	gö	gö	g ö	one	dutton2010	1469
+15016	omie	1405_NAME	ih-e	ih-e	i h + e	name	dutton2010	1470
+15024	omie	1408_HEAR	hej-e	hej-e	h e j + e	hear, listen, feel	dutton2010	1471
+15032	omie	146_SUGAR_CANE	im-e	im-e	i m + e	sugar cane	dutton2010	1472
+15037	omie	1210_HEAVY	iʔu|he	iʔu	i ʔ u	heavy	dutton2010	1473
+15037	omie	1210_HEAVY	iʔu|he	he	h e	heavy	dutton2010	1473
+15038	omie	1210_HEAVY	iʔu|e	iʔu	i ʔ u	heavy	dutton2010	1473
+15038	omie	1210_HEAVY	iʔu|e	e	e	heavy	dutton2010	1473
+15042	omie	1075_TRAP_PITFALL	iv-e	iv-e	i v + e	trap, net	dutton2010	1474
+15058	omie	262_HE_OR_SHE_OR_IT	hu	hu	h u	he, she, it (3sg pronoun)	dutton2010	1477
+15070	omie	1199_WIFE	vabor-e	vabor-e	v a b o r + e	wife	dutton2010	1479
+15077	omie	1035_GOOD	mae	mae	m a e	good, true	dutton2010	1480
+15083	omie	962_WOMAN	magöna|h-e	magöna	m a g ö n a	woman	dutton2010	1481
+15083	omie	962_WOMAN	magöna|h-e	h-e	h + e	woman	dutton2010	1481
+15097	omie	725_OLD_PERSON	mamie	mamie	m a m i e	old (of house)	dutton2010	1484
+15102	omie	984_WORK_LABOUR	mu-e	mu-e	m u + e	work (n)	dutton2010	1485
+15115	omie	619_ANIMAL	mi (daje)	mi_	m i	animal (skin, body)	dutton2010	1487
+15116	omie	634_MEAT	mi-e	mi-e	m i + e	meat	dutton2010	1487
+15128	omie	1447_GIVE	ma|mij-e	ma	m a	give	dutton2010	1489
+15128	omie	1447_GIVE	ma|mij-e	mij-e	m i j + e	give	dutton2010	1489
+15138	omie	857_STONE	munë	munë	m u n ë/e	stone, rock	dutton2010	1490
+15145	omie	1945_interrogative	-na	-na	n a	yes/no interrogative particle, sentence initial	dutton2010	1491
+15151	omie	321_CHEW	nano|v-e	nano	n a n o	chew	dutton2010	1492
+15151	omie	321_CHEW	nano|v-e	v-e	v + e	chew	dutton2010	1492
+15159	omie	511_forbenefactivecliticisedorsuffixedtonoun	ni	ni	n i	for	dutton2010	1494
+15165	omie	1248_EYE	nu|n-e	nu	n u	eye	dutton2010	1495
+15165	omie	1248_EYE	nu|n-e	n-e	n + e	eye	dutton2010	1495
+15174	omie	1839_CRY	ni|voru|m-e	ni	n i	cry (pl subj)	dutton2010	1496
+15174	omie	1839_CRY	ni|voru|m-e	voru	v o r u	cry (pl subj)	dutton2010	1496
+15174	omie	1839_CRY	ni|voru|m-e	m-e	m + e	cry (pl subj)	dutton2010	1496
+15182	omie	1212_WE	no	no	n o	we	dutton2010	1497
+15188	omie	1014_OR	o	o	o	or	dutton2010	1498
+15189	omie	1014_OR	ô	ô	ô/o	and, but, or	dutton2010	1498
+15198	omie	3037_SAME-SEX_OLDER_SIBLING	maʔin-e	maʔin-e	m a ʔ i n + e	sibling, same sex, older	dutton2010	1499
+15212	omie	2102_BURN	rav-e	rav-e	r a v + e	burn	dutton2010	1501
+15225	omie	1442_STAND	nami|j-e	nami	n a m i	stand (one person)	dutton2010	1503
+15225	omie	1442_STAND	nami|j-e	j-e	j + e	stand (one person)	dutton2010	1503
+15234	omie	860_toclearbushforplanting	rav-e	rav-e	r a v + e	weed, clear	dutton2010	1504
+15238	omie	1404_STRAIGHT	rëri	rëri	r ë/e r i	straight	dutton2010	1505
+15247	omie	1458_SAY	u|v	u	u	say	dutton2010	1506
+15247	omie	1458_SAY	u|v	v	v	say	dutton2010	1506
+15254	omie	1446_COME	rôv-e	rôv-e	r ô/o v + e	come	dutton2010	1507
+15271	omie	1333_NECK	sönö	sönö	s ö n ö	neck	dutton2010	1509
+15272	omie	1333_NECK	sönö ah	sönö_ah	s ö n ö + a h	nape	dutton2010	1509
+15281	omie	1457_SEW	sigē|hidz-	sigē	s i g eː	sew up	dutton2010	1511
+15281	omie	1457_SEW	sigē|hidz-	hidz-	h i d z	sew up	dutton2010	1511
+15298	omie	466_CASSOWARY	tubor-e	tubor-e	t u b o r + e	cassowary	dutton2010	1514
+15309	omie	1917_TIE	duoʔum-e	duoʔum-e	d u o ʔ u m + e	tie around	dutton2010	1516
+15319	omie	960_WIND	bur-e	bur-e	b u r + e	wind	dutton2010	1518
+15327	omie	937_BIRD	ug-e	ug-e	u g + e	bird	dutton2010	1519
+15333	omie	175_BLOW_OF_WIND	huô huô|v-e	huô_huô	h u ô/o + h u ô/o	blow on fire (to stir up)	dutton2010	13644
+15333	omie	175_BLOW_OF_WIND	huô huô|v-e	v-e	v + e	blow on fire (to stir up)	dutton2010	13644
+15666	omie	675_FAECES_EXCREMENT	dë	dë	d ë/e		dutton2010	330
+79322	omie	1329_TOMORROW	nëri	nëri	n ë/e r i	yesterday, tomorrow	dutton2010	331
+92432	omie	1336_EAT	ij-e	ij-e	i j + e	eat, drink, smoke (tobacco)	dutton2010	332
+92433	omie	1336_EAT	i	i	i	eat, drink	dutton2010	333
+260772	omie	1401_DRINK	i	i	i	eat, drink	dutton2010	334
+260779	omie	1401_DRINK	ij-e	ij-e	i j + e	eat, drink, smoke (tobacco)	dutton2010	335

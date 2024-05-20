@@ -1,0 +1,1084 @@
+Concept: 1035_GOOD, False Positives: no, False Negatives: yes
+angal       	epe       	   1	   1
+east-kewa   	epe       	   1	   1
+enga        	é/epé/e   	   1	   1
+erave       	epe       	   1	   1
+samberigi   	epeke     	   1	   1
+west-kewa   	epe       	   1	   1
+wiru        	epe+tè/eko	   1	  10
+fasu        	kotesa    	   5	   5
+huli        	bajale    	   6	   6
+ipili       	waju      	   7	   7
+#
+Concept: 1174_YESTERDAY, False Positives: no, False Negatives: yes
+angal       	ɔmboɨa  	   1	   1
+east-kewa   	abala   	   1	   2
+erave       	abala   	   1	   2
+west-kewa   	abala   	   1	   2
+wiru        	abela   	   1	   2
+huli        	abe     	   1	   6
+samberigi   	ambaneke	   1	   7
+enga        	kwá/aka 	   3	   3
+fasu        	lao     	   5	   5
+#
+Concept: 1202_BIG, False Positives: yes, False Negatives: yes
+angal       	ɔndɔ   	   1	   1
+east-kewa   	adaː   	   1	   2
+erave       	adaː   	   1	   2
+ipili       	ada    	   1	   2
+west-kewa   	adaː   	   1	   2
+enga        	adá/ake	   1	   3
+fasu        	kara   	   1	   5
+huli        	timbu  	   6	   6
+samberigi   	tieke  	   8	   3
+wiru        	tubeà/a	  10	  10
+#
+Concept: 1205_TONGUE, False Positives: no, False Negatives: yes
+angal-heneng	hege   	   1	   1
+huli        	hege   	   1	   1
+ipili       	eke    	   1	   1
+east-kewa   	keke   	   1	   2
+enga        	kekenge	   1	   2
+erave       	keke   	   1	   2
+samberigi   	kekeke 	   1	   2
+west-kewa   	keke   	   1	   2
+wiru        	keké/e 	   1	   2
+fasu        	alu    	   5	   5
+#
+Concept: 1209_I, False Positives: no, False Negatives: yes
+angal       	ni    	   1	   1
+east-kewa   	ni    	   1	   1
+erave       	ni    	   1	   1
+ipili       	ni    	   1	   1
+west-kewa   	ni    	   1	   1
+wiru        	no    	   1	   1
+enga        	nabá/a	   1	   3
+fasu        	ano   	   1	   5
+huli        	ᶖ/i   	   1	   6
+samberigi   	ᶖ/i   	   1	   6
+fasu        	nomo  	   1	  11
+#
+Concept: 1210_HEAVY, False Positives: no, False Negatives: yes
+angal       	kend       	   1	   1
+huli        	gendabi    	   1	   1
+samberigi   	kændæ      	   1	   1
+east-kewa   	kedaː      	   1	   2
+enga        	ké/edá/a   	   1	   2
+erave       	kedaː      	   1	   2
+ipili       	keda       	   1	   2
+west-kewa   	kedaː      	   1	   2
+wiru        	kedá/a+toko	   1	  10
+fasu        	umisa      	   5	   5
+#
+Concept: 1212_WE, False Positives: no, False Negatives: yes
+angal       	nɔ     	   1	   1
+east-kewa   	naː    	   1	   1
+west-kewa   	niaː   	   1	   1
+enga        	ná/aima	   1	   3
+samberigi   	niki   	   1	   5
+west-kewa   	njaː   	   1	   9
+fasu        	isina  	   4	   4
+wiru        	toto   	   7	   7
+fasu        	isu    	   8	   8
+#
+Concept: 1214_THIS, False Positives: no, False Negatives: yes
+angal       	ngo   	   1	   1
+east-kewa   	go    	   1	   2
+erave       	go    	   1	   2
+ipili       	oko   	   1	   2
+west-kewa   	go    	   1	   2
+enga        	dà/ake	   1	   3
+fasu        	one   	   1	   5
+huli        	o     	   1	   6
+samberigi   	do    	   1	   8
+wiru        	ì/i   	  10	  10
+#
+Concept: 1215_THOU, False Positives: no, False Negatives: yes
+angal       	nge  	   1	   1
+samberigi   	neke 	   1	   1
+east-kewa   	ne   	   1	   2
+erave       	ne   	   1	   2
+fasu        	ne   	   1	   2
+ipili       	n    	   1	   2
+west-kewa   	ne   	   1	   2
+wiru        	nè/e 	   1	   2
+enga        	é/eba	   1	   3
+huli        	ɭ    	   1	   6
+fasu        	nomo 	   1	  11
+#
+Concept: 1216_MOTHER, False Positives: yes, False Negatives: yes
+angal       	am            	   1	   1
+east-kewa   	ama           	   1	   1
+erave       	ama           	   1	   1
+ipili       	ama           	   1	   1
+west-kewa   	ama           	   1	   1
+angal-heneng	anji          	   1	   2
+enga        	mamea         	   1	   4
+samberigi   	inkiki        	   1	   9
+east-kewa   	agi           	   1	  12
+erave       	agi           	   1	  12
+west-kewa   	agi           	   1	  12
+ipili       	agini         	   1	  16
+fasu        	ama           	   6	   1
+huli        	ą/aja         	   7	   7
+wiru        	one+ką/aų/uà/a	  11	  11
+enga        	edagí/i       	  13	  12
+huli        	ᶖ/idja        	  15	  15
+#
+Concept: 1217_FATHER, False Positives: no, False Negatives: yes
+angal       	ap       	   1	   1
+east-kewa   	aːpa     	   1	   1
+erave       	aːpa     	   1	   1
+huli        	aba      	   1	   1
+ipili       	apa      	   1	   1
+west-kewa   	aːpa     	   1	   1
+enga        	apá/ané/e	   1	   3
+#
+Concept: 1224_LIVER, False Positives: no, False Negatives: yes
+angal       	pu        	   1	   1
+east-kewa   	pu        	   1	   1
+erave       	pu        	   1	   1
+west-kewa   	pu        	   1	   1
+enga        	pugi      	   1	   3
+samberigi   	puki      	   1	   3
+huli        	puní/i    	   1	   6
+fasu        	kosoko    	   5	   5
+ipili       	lasiane   	   7	   7
+wiru        	kolotí/ini	  10	  10
+#
+Concept: 1228_EARTH_SOIL, False Positives: no, False Negatives: yes
+angal       	su     	   1	   1
+east-kewa   	su     	   1	   1
+erave       	su     	   1	   1
+west-kewa   	su     	   1	   1
+enga        	jú/uu  	   1	   3
+ipili       	juː    	   1	   3
+samberigi   	ju     	   1	   3
+fasu        	hauwaka	   5	   5
+huli        	dindi  	   6	   6
+wiru        	itonó/o	  10	  10
+#
+Concept: 1231_NEW, False Positives: no, False Negatives: yes
+angal       	wene   	   1	   1
+ipili       	wenene 	   1	   1
+east-kewa   	pena   	   1	   2
+wiru        	pé/ene 	   1	   2
+enga        	ené/ege	   1	   3
+samberigi   	panake 	   1	   3
+huli        	gahange	   1	   5
+fasu        	kawe   	   4	   4
+#
+Concept: 1235_WHO, False Positives: no, False Negatives: yes
+angal       	ap    	   1	   1
+east-kewa   	api   	   1	   1
+enga        	apí/i 	   1	   1
+erave       	api   	   1	   1
+fasu        	epa   	   1	   1
+ipili       	api   	   1	   1
+samberigi   	epi   	   1	   1
+west-kewa   	api   	   1	   1
+huli        	ai    	   1	   6
+wiru        	tejó/o	  10	  10
+#
+Concept: 1236_WHAT, False Positives: no, False Negatives: yes
+angal       	aik   	   1	   1
+east-kewa   	ali   	   1	   2
+enga        	à/aki 	   1	   3
+huli        	agi   	   1	   3
+ipili       	aki   	   1	   3
+west-kewa   	ake   	   1	   3
+samberigi   	aleke 	   1	   7
+wiru        	edele 	   1	   9
+fasu        	jakapa	   4	   4
+#
+Concept: 123_FOREHEAD, False Positives: no, False Negatives: yes
+angal       	wonɔ      	   1	   1
+east-kewa   	weno      	   1	   1
+erave       	weno      	   1	   1
+ipili       	weno      	   1	   1
+samberigi   	wenoko    	   1	   1
+west-kewa   	weno      	   1	   1
+fasu        	wamu      	   1	   5
+huli        	wane+kui  	   1	   6
+wiru        	pono      	   1	  10
+enga        	ragá/arú/u	   3	   3
+#
+Concept: 1240_NOT, False Positives: no, False Negatives: yes
+angal       	ind   	   1	   1
+east-kewa   	dia   	   1	   2
+enga        	daá/a 	   1	   2
+erave       	dia   	   1	   2
+samberigi   	diæ   	   1	   2
+west-kewa   	dia   	   1	   2
+ipili       	jia   	   1	   6
+fasu        	wai   	   5	   5
+wiru        	mená/a	   9	   9
+#
+Concept: 1247_EAR, False Positives: no, False Negatives: yes
+angal       	kan   	   1	   1
+angal-heneng	haɨ   	   1	   2
+east-kewa   	kale  	   1	   3
+ipili       	ale   	   1	   3
+enga        	karé/e	   1	   4
+samberigi   	kerake	   1	   4
+west-kewa   	aːne  	   1	   8
+fasu        	senaki	   5	   5
+wiru        	kabidi	   9	   9
+#
+Concept: 1248_EYE, False Positives: no, False Negatives: yes
+angal       	in    	   1	   1
+west-kewa   	ini   	   1	   1
+east-kewa   	le    	   1	   2
+enga        	ré/ege	   1	   3
+samberigi   	leke  	   1	   3
+fasu        	hi    	   1	   4
+huli        	re    	   1	   5
+ipili       	lene  	   1	   6
+wiru        	lene  	   1	   6
+#
+Concept: 1251_BELLY, False Positives: no, False Negatives: yes
+angal       	tomba   	   1	   1
+enga        	tó/obá/a	   1	   1
+huli        	tombe   	   1	   1
+ipili       	tobene  	   1	   1
+wiru        	tepe    	   1	   1
+east-kewa   	robaː   	   1	   2
+erave       	robaː   	   1	   2
+west-kewa   	robaː   	   1	   2
+samberigi   	palo    	   7	   7
+#
+Concept: 1252_HOUSE, False Positives: yes, False Negatives: yes
+angal       	and    	   1	   1
+huli        	anda   	   1	   1
+east-kewa   	ada    	   1	   2
+enga        	á/adá/a	   1	   2
+erave       	ada    	   1	   2
+ipili       	ada    	   1	   2
+west-kewa   	ada    	   1	   2
+fasu        	ape    	   1	   5
+samberigi   	nda    	   1	   8
+wiru        	japù/u 	  10	   5
+#
+Concept: 1262_BROTHER, False Positives: no, False Negatives: yes
+angal-heneng	hame    	   1	   1
+east-kewa   	ame     	   1	   1
+erave       	ame     	   1	   1
+west-kewa   	ame     	   1	   1
+huli        	hameme  	   1	   5
+samberigi   	hameme  	   1	   5
+ipili       	amene   	   1	   6
+wiru        	wamene  	   1	   6
+enga        	jagó/oge	   3	   3
+#
+Concept: 1274_SALT, False Positives: no, False Negatives: yes
+angal       	æp      	   1	   1
+east-kewa   	aipa    	   1	   2
+enga        	aí/ipí/i	   1	   2
+erave       	aipa    	   1	   2
+huli        	ibi     	   1	   2
+ipili       	ipi     	   1	   2
+samberigi   	epi     	   1	   2
+west-kewa   	aipa    	   1	   2
+#
+Concept: 1278_VOMIT, False Positives: no, False Negatives: yes
+angal       	mak              	   1	   1
+enga        	mjú/uku+taljí/igi	   1	   2
+huli        	magu+tagu+wia    	   1	   3
+ipili       	miagu+tagua      	   1	   3
+west-kewa   	maːku+ra         	   1	   5
+#
+Concept: 1292_BAD, False Positives: no, False Negatives: yes
+angal       	ko      	   1	   1
+enga        	koó/o   	   1	   1
+huli        	ko      	   1	   1
+ipili       	koː     	   1	   1
+east-kewa   	kolea   	   1	   2
+samberigi   	hoke    	   1	   7
+wiru        	pó/oko  	   1	   8
+fasu        	watikisa	   4	   4
+#
+Concept: 1313_MOON, False Positives: yes, False Negatives: yes
+angal       	ek    	   1	   1
+east-kewa   	eke   	   1	   2
+fasu        	heke  	   1	   2
+huli        	ege   	   1	   2
+samberigi   	eke   	   1	   2
+wiru        	tokene	   1	   8
+enga        	kaná/a	   3	   3
+ipili       	ana   	   6	   3
+#
+Concept: 1333_NECK, False Positives: no, False Negatives: yes
+angal       	ma    	   1	   1
+east-kewa   	má/a  	   1	   1
+erave       	má/a  	   1	   1
+west-kewa   	má/a  	   1	   1
+enga        	magé/e	   1	   3
+samberigi   	make  	   1	   3
+fasu        	mawi  	   1	   5
+ipili       	mane  	   1	   6
+wiru        	kabè/e	   9	   9
+#
+Concept: 1335_WHITE, False Positives: no, False Negatives: yes
+angal       	aiki+pi    	   1	   1
+east-kewa   	kaːke      	   1	   2
+erave       	kaːke      	   1	   2
+west-kewa   	kaːke      	   1	   2
+fasu        	pakaesa    	   1	   5
+huli        	pagabua    	   1	   6
+ipili       	ake+pene   	   1	   7
+wiru        	á/ake+tanea	   1	   7
+samberigi   	hake+pæ    	   1	   8
+enga        	ipaí/i     	   3	   3
+#
+Concept: 1336_EAT, False Positives: no, False Negatives: yes
+angal       	ne    	   1	   1
+east-kewa   	na    	   1	   1
+erave       	na    	   1	   1
+huli        	ná/a  	   1	   1
+ipili       	naː   	   1	   1
+samberigi   	na    	   1	   1
+west-kewa   	na    	   1	   1
+enga        	negé/e	   1	   3
+wiru        	nakò/o	   1	   3
+fasu        	anene 	   1	   5
+#
+Concept: 1337_PIG, False Positives: yes, False Negatives: no
+angal       	mok  	   1	   1
+angal-heneng	jome 	   2	   2
+east-kewa   	mena 	   3	   3
+erave       	mena 	   3	   3
+west-kewa   	mena 	   3	   3
+fasu        	saro 	   5	   5
+huli        	nogo 	   6	   6
+ipili       	jia  	   7	   7
+samberigi   	mænæ 	   8	   3
+wiru        	kaì/i	  10	  10
+#
+Concept: 1343_SUN, False Positives: no, False Negatives: yes
+angal       	nar   	   1	   1
+east-kewa   	nare  	   1	   1
+erave       	nare  	   1	   1
+west-kewa   	nare  	   1	   1
+enga        	nitá/a	   1	   3
+samberigi   	nate  	   1	   3
+ipili       	nate  	   1	   3
+huli        	ni    	   1	   6
+ipili       	nai   	   1	   6
+fasu        	maija 	   5	   5
+wiru        	loú/u 	  10	  10
+#
+Concept: 1355_LAUGH, False Positives: no, False Negatives: yes
+angal       	kit+lˠe       	   1	   1
+east-kewa   	giri+ta       	   1	   2
+erave       	giri+ta       	   1	   2
+west-kewa   	giri+ta       	   1	   2
+enga        	gi+irá/amo    	   1	   3
+ipili       	gitu          	   1	   7
+samberigi   	ki+talæ       	   1	   8
+fasu        	takuane       	   5	   5
+huli        	oba+timbuni+ha	   6	   6
+wiru        	já/au+toko    	  10	  10
+#
+Concept: 1366_BOY, False Positives: yes, False Negatives: yes
+angal       	naik    	   1	   1
+east-kewa   	naːki   	   1	   2
+erave       	naːki   	   1	   2
+west-kewa   	naːki   	   1	   2
+enga        	wané/e  	   3	   3
+huli        	igiri   	   5	   5
+ipili       	ane     	   6	   3
+samberigi   	weke    	   7	   7
+wiru        	ali+mati	   9	   9
+#
+Concept: 1371_KNEE, False Positives: no, False Negatives: yes
+angal       	tum   	   1	   1
+east-kewa   	rumu  	   1	   2
+enga        	rú/uma	   1	   2
+erave       	rumu  	   1	   2
+west-kewa   	rumu  	   1	   2
+samberigi   	tumiki	   1	   7
+huli        	ge    	   5	   5
+ipili       	aiki  	   6	   6
+wiru        	wadini	   9	   9
+#
+Concept: 1392_LOUSE, False Positives: no, False Negatives: yes
+angal       	em    	   1	   1
+east-kewa   	lema  	   1	   2
+enga        	rema  	   1	   2
+huli        	emo   	   1	   2
+ipili       	lemo  	   1	   2
+samberigi   	læmæ  	   1	   2
+wiru        	nomò/o	   1	   8
+fasu        	japani	   4	   4
+#
+Concept: 1394_BONE, False Positives: no, False Negatives: yes
+angal       	win   	   1	   1
+east-kewa   	kuli  	   1	   2
+ipili       	kulini	   1	   2
+enga        	korí/i	   1	   3
+fasu        	kiki  	   1	   4
+huli        	kuni  	   1	   5
+west-kewa   	uni   	   1	   5
+samberigi   	holiki	   1	   7
+angal       	kʷin  	   1	  10
+wiru        	tono  	   9	   9
+#
+Concept: 1405_NAME, False Positives: no, False Negatives: yes
+angal       	mbi    	   1	   1
+east-kewa   	ibi    	   1	   2
+west-kewa   	bi     	   1	   2
+huli        	mini   	   1	   5
+samberigi   	biki   	   1	   7
+wiru        	ibí/ini	   1	   9
+enga        	ké/ege 	   3	   3
+fasu        	jano   	   4	   4
+ipili       	gene   	   6	   6
+#
+Concept: 1408_HEAR, False Positives: no, False Negatives: yes
+angal       	pɔnge   	   1	   1
+east-kewa   	paga    	   1	   1
+erave       	paga    	   1	   1
+west-kewa   	paga    	   1	   1
+samberigi   	opuæ    	   1	   8
+enga        	sirá/amo	   3	   3
+fasu        	kairaka 	   5	   5
+huli        	hale+ha 	   6	   6
+ipili       	ale+a   	   7	   7
+wiru        	jatekò/o	  10	  10
+#
+Concept: 1409_SEE, False Positives: no, False Negatives: yes
+angal       	ɔnde     	   1	   1
+huli        	hà/andá/a	   1	   1
+samberigi   	handæ    	   1	   1
+east-kewa   	ada      	   1	   2
+erave       	ada      	   1	   2
+ipili       	ada      	   1	   2
+west-kewa   	ada      	   1	   2
+enga        	kadege   	   1	   3
+wiru        	eneko    	   1	  10
+fasu        	asere    	   5	   5
+#
+Concept: 1416_SIT, False Positives: no, False Negatives: yes
+angal       	pete    	   1	   1
+enga        	petegé/e	   1	   1
+ipili       	piti    	   1	   1
+east-kewa   	pira    	   1	   2
+erave       	pira    	   1	   2
+huli        	birá/a  	   1	   2
+samberigi   	pilæ    	   1	   2
+west-kewa   	pira    	   1	   2
+fasu        	akaije  	   1	   5
+wiru        	mekó/o  	  10	  10
+#
+Concept: 1424_YELLOW, False Positives: no, False Negatives: yes
+angal       	ɔmb            	   1	   1
+east-kewa   	ambu           	   1	   1
+erave       	ambu           	   1	   1
+west-kewa   	ambu           	   1	   1
+enga        	á/abwa         	   1	   3
+huli        	ambuabi        	   1	   6
+ipili       	abua           	   1	   7
+fasu        	kiamesa        	   5	   5
+samberigi   	hami+pae       	   8	   8
+wiru        	kakai+pagè/enea	  10	  10
+#
+Concept: 1433_HIT, False Positives: no, False Negatives: yes
+angal       	le      	   1	   1
+ipili       	laː     	   1	   1
+east-kewa   	tja     	   1	   2
+enga        	takí/igi	   1	   3
+huli        	ba      	   1	   5
+samberigi   	litæ    	   1	   7
+fasu        	alure   	   4	   4
+wiru        	witiko  	   8	   8
+#
+Concept: 1440_SPIT, False Positives: no, False Negatives: yes
+angal       	nemake     	   1	   1
+enga        	sopo+ká/ari	   2	   2
+west-kewa   	sope+raː   	   2	   2
+ipili       	soː+laː    	   2	   4
+samberigi   	dopi+tæ    	   2	   5
+huli        	hamiaga    	   3	   3
+#
+Concept: 1442_STAND, False Positives: no, False Negatives: yes
+angal       	tikɔ    	   1	   1
+enga        	kategé/e	   1	   1
+east-kewa   	reka    	   1	   2
+erave       	reka    	   1	   2
+west-kewa   	reka    	   1	   2
+samberigi   	tiæsæ   	   1	   8
+fasu        	ale     	   5	   5
+huli        	heja    	   6	   6
+ipili       	ata     	   7	   7
+wiru        	kakò/o  	  10	  10
+#
+Concept: 1446_COME, False Positives: no, False Negatives: yes
+angal       	epe    	   1	   1
+east-kewa   	ipu    	   1	   1
+erave       	ipu    	   1	   1
+huli        	ibu    	   1	   1
+ipili       	í/ipu  	   1	   1
+samberigi   	ipu    	   1	   1
+west-kewa   	ipu    	   1	   1
+enga        	epegé/e	   1	   3
+fasu        	apere  	   1	   5
+wiru        	nokò/o 	  10	  10
+#
+Concept: 1447_GIVE, False Positives: no, False Negatives: yes
+angal       	nge   	   1	   1
+huli        	ngí/i 	   1	   1
+east-kewa   	gi    	   1	   2
+erave       	gi    	   1	   2
+ipili       	giː   	   1	   2
+west-kewa   	gi    	   1	   2
+enga        	maligi	   1	   3
+samberigi   	kitæ  	   1	   8
+fasu        	akare 	   5	   5
+wiru        	meteko	  10	  10
+#
+Concept: 1448_HOLD, False Positives: no, False Negatives: yes
+angal       	wapiɔ   	   1	   1
+east-kewa   	ripinja 	   1	   2
+erave       	ripinja 	   1	   2
+west-kewa   	ripinja 	   1	   2
+enga        	minjir  	   1	   3
+huli        	ju+bia  	   1	   6
+ipili       	mina    	   1	   7
+samberigi   	minæ    	   1	   7
+fasu        	maka+are	   5	   5
+wiru        	motò/oko	  10	  10
+#
+Concept: 146_SUGAR_CANE, False Positives: yes, False Negatives: no
+angal       	wɔlˠ   	   1	   1
+east-kewa   	wali   	   1	   1
+samberigi   	weli   	   1	   1
+enga        	ijá/aa 	   3	   3
+fasu        	są/aǫ/o	   4	   4
+huli        	tu     	   5	   5
+ipili       	ija    	   6	   3
+wiru        	tai    	   8	   5
+#
+Concept: 1482_SHOULDER, False Positives: yes, False Negatives: yes
+angal       	pesa    	   1	   1
+east-kewa   	pasa    	   1	   1
+erave       	pasa    	   1	   1
+west-kewa   	pasa    	   1	   1
+ipili       	pajia   	   1	   6
+samberigi   	pejoko  	   1	   6
+enga        	rake    	   3	   3
+fasu        	kinu    	   5	   5
+wiru        	wagè/ene	   9	   5
+#
+Concept: 1498_TWO, False Positives: no, False Negatives: yes
+angal       	kap      	   1	   1
+east-kewa   	laːpo    	   1	   2
+erave       	laːpo    	   1	   2
+ipili       	lapo     	   1	   2
+west-kewa   	laːpo    	   1	   2
+enga        	rá/ama   	   1	   3
+fasu        	teta     	   1	   5
+samberigi   	jæpo     	   1	   8
+huli        	kira     	   6	   6
+wiru        	ta+kutà/a	  10	  10
+#
+Concept: 1510_CHIN, False Positives: no, False Negatives: yes
+angal       	sɔngɔ  	   1	   1
+east-kewa   	jagaː  	   1	   2
+erave       	jagaː  	   1	   2
+huli        	janga  	   1	   2
+samberigi   	jankake	   1	   2
+west-kewa   	jagaː  	   1	   2
+enga        	agapú/u	   1	   3
+fasu        	akae   	   1	   3
+ipili       	agapu  	   1	   3
+wiru        	pakunu 	  10	  10
+#
+Concept: 1519_RUN, False Positives: no, False Negatives: yes
+angal       	alˠama+pepe    	   1	   1
+east-kewa   	alo+pu         	   1	   2
+erave       	alo+pu         	   1	   2
+west-kewa   	alo+pu         	   1	   2
+enga        	á/ara+pí/igi   	   1	   3
+ipili       	pekala+puː     	   1	   7
+samberigi   	aí/i+pulæ      	   1	   8
+fasu        	foaka+apure    	   5	   5
+huli        	ge+raila       	   6	   6
+wiru        	teia+pea+pokò/o	  10	  10
+#
+Concept: 1554_MAN, False Positives: no, False Negatives: yes
+angal       	ɔɨ     	   1	   1
+west-kewa   	à/aà/a 	   1	   1
+east-kewa   	ali    	   1	   2
+samberigi   	hali   	   1	   2
+wiru        	ali    	   1	   2
+enga        	aká/ari	   1	   3
+huli        	agali  	   1	   3
+ipili       	akali  	   1	   3
+fasu        	aporo  	   4	   4
+#
+Concept: 1587_SMELL_STINK, False Positives: no, False Negatives: yes
+angal       	punk           	   1	   1
+samberigi   	punku+mi       	   1	   1
+east-kewa   	pugu           	   1	   2
+erave       	pugu           	   1	   2
+west-kewa   	pugu           	   1	   2
+enga        	pú/ugú/u+pigí/i	   1	   3
+huli        	ngu+ha         	   1	   5
+#
+Concept: 159_SWEET_POTATO, False Positives: yes, False Negatives: no
+angal       	sepi  	   1	   1
+east-kewa   	saːpi 	   1	   1
+erave       	saːpi 	   1	   1
+west-kewa   	saːpi 	   1	   1
+enga        	á/aina	   3	   3
+fasu        	supuru	   5	   1
+huli        	hina  	   6	   6
+ipili       	aina  	   7	   3
+samberigi   	tia   	   8	   8
+wiru        	modó/o	  10	  10
+#
+Concept: 1640_SIBLING, False Positives: no, False Negatives: yes
+angal       	mbɔli     	   1	   1
+huli        	mbalini   	   1	   1
+east-kewa   	bali      	   1	   2
+samberigi   	beliki    	   1	   2
+ipili       	imalini   	   1	   6
+enga        	pimaré/ege	   3	   3
+fasu        	apu       	   4	   4
+wiru        	anaí/i    	   8	   8
+#
+Concept: 1786_DRY_UP, False Positives: no, False Negatives: yes
+angal       	kæpi           	   1	   1
+east-kewa   	kaːpu+ta       	   1	   1
+erave       	kaːpu+ta       	   1	   1
+ipili       	kapu           	   1	   1
+west-kewa   	kaːpu+ta       	   1	   1
+enga        	ké/eké/e+regé/e	   1	   3
+samberigi   	hapu+lae       	   1	   8
+fasu        	parosa         	   5	   5
+huli        	jo+bira        	   6	   6
+wiru        	kaù/u+toko     	  10	  10
+#
+Concept: 189_HAIR_BODY, False Positives: no, False Negatives: yes
+angal       	iti    	   1	   1
+enga        	í/ití/i	   1	   1
+fasu        	iti    	   1	   1
+ipili       	iti    	   1	   1
+samberigi   	iti    	   1	   1
+east-kewa   	iri    	   1	   2
+erave       	iri    	   1	   2
+huli        	iri    	   1	   2
+west-kewa   	iri    	   1	   2
+wiru        	pí/ine 	  10	  10
+#
+Concept: 2091_YOUR, False Positives: no, False Negatives: yes
+angal       	ipi    	   1	   1
+east-kewa   	ipi    	   1	   1
+erave       	ipi    	   1	   1
+huli        	libu   	   1	   1
+west-kewa   	ipi    	   1	   1
+enga        	njarabo	   1	   3
+fasu        	titi   	   1	   5
+fasu        	teto   	   1	   5
+ipili       	lijaba 	   1	   7
+samberigi   	ipiliki	   1	   8
+wiru        	kità/a 	  10	  10
+#
+Concept: 2098_FOOT_OR_LEG, False Positives: yes, False Negatives: yes
+angal       	ang     	   1	   1
+erave       	ange    	   1	   1
+samberigi   	anke    	   1	   1
+east-kewa   	à/aà/a  	   1	   2
+west-kewa   	à/aà/a  	   1	   2
+enga        	ká/apé/e	   1	   3
+fasu        	korake  	   1	   5
+huli        	ge      	   1	   6
+ipili       	kene    	   1	   7
+wiru        	kawà/a  	  10	   3
+#
+Concept: 2101_BE_DEAD_OR_DIE, False Positives: no, False Negatives: yes
+angal       	ome   	   1	   1
+huli        	homa  	   1	   1
+ipili       	oma   	   1	   1
+samberigi   	homæ  	   1	   1
+east-kewa   	koma  	   1	   2
+enga        	kumi  	   1	   2
+fasu        	akure 	   4	   4
+wiru        	tú/uko	   8	   8
+#
+Concept: 2103_PAINFUL_OR_SICK, False Positives: no, False Negatives: yes
+angal       	tand    	   1	   1
+huli        	tandaga 	   1	   1
+ipili       	tandaka 	   1	   1
+samberigi   	tanda   	   1	   1
+east-kewa   	radaː   	   1	   2
+erave       	radaː   	   1	   2
+west-kewa   	radaː   	   1	   2
+enga        	tá/adá/a	   1	   3
+#
+Concept: 2121_ARM_OR_HAND, False Positives: no, False Negatives: yes
+angal       	ki    	   1	   1
+east-kewa   	ki    	   1	   1
+erave       	ki    	   1	   1
+huli        	ki    	   1	   1
+west-kewa   	ki    	   1	   1
+enga        	kigi  	   1	   3
+samberigi   	kiki  	   1	   3
+ipili       	kini  	   1	   7
+fasu        	hokono	   5	   5
+wiru        	jono  	  10	  10
+#
+Concept: 215_LIE_DOWN, False Positives: yes, False Negatives: yes
+angal       	pɔle    	   1	   1
+huli        	pà/alia 	   1	   1
+ipili       	pali    	   1	   1
+samberigi   	peliæ   	   1	   1
+east-kewa   	patja   	   1	   2
+wiru        	pití/iko	   1	   3
+enga        	paregé/e	   3	   3
+fasu        	aware   	   4	   4
+#
+Concept: 2312_YOU_OBLIQUE_CASE_OF_YOU, False Positives: no, False Negatives: yes
+angal       	imi      	   1	   1
+east-kewa   	imi      	   1	   1
+erave       	imi      	   1	   1
+west-kewa   	imi      	   1	   1
+enga        	njaká/ama	   1	   3
+fasu        	nanima   	   1	   5
+huli        	ti       	   1	   6
+ipili       	jakaba   	   1	   7
+samberigi   	iki      	   1	   8
+wiru        	kí/iwi   	  10	  10
+#
+Concept: 235_FLYING_FOX, False Positives: no, False Negatives: yes
+angal-enen  	keim 	   1	   1
+east-kewa   	kaima	   1	   1
+fasu        	kaema	   1	   1
+huli        	gamia	   1	   1
+wiru        	kaima	   1	   1
+enga        	saima	   1	   3
+samberigi   	ætæna	   6	   6
+#
+Concept: 2500_pandanusedible, False Positives: no, False Negatives: yes
+angal       	ank 	   1	   1
+samberigi   	ankæ	   1	   1
+east-kewa   	aga 	   1	   2
+erave       	aga 	   1	   2
+west-kewa   	aga 	   1	   2
+#
+Concept: 262_HE_OR_SHE_OR_IT, False Positives: no, False Negatives: yes
+angal       	ipu  	   1	   1
+east-kewa   	ipu  	   1	   1
+erave       	ipu  	   1	   1
+fasu        	epo  	   1	   1
+huli        	ibu  	   1	   1
+west-kewa   	ipu  	   1	   1
+fasu        	ipi  	   1	   1
+enga        	bá/aa	   1	   3
+ipili       	baka 	   1	   7
+samberigi   	ipiki	   1	   7
+wiru        	onè/e	  10	  10
+#
+Concept: 2634_WE_TWO, False Positives: yes, False Negatives: yes
+angal       	jɔ      	   1	   1
+huli        	ija     	   1	   1
+east-kewa   	saː     	   1	   2
+erave       	saː     	   1	   2
+west-kewa   	saː     	   1	   2
+enga        	narí/iba	   1	   3
+ipili       	nalipa  	   1	   3
+samberigi   	diki    	   1	   8
+fasu        	iti     	   5	   5
+wiru        	totà/a  	  10	  10
+fasu        	eto     	  11	   5
+#
+Concept: 2708_TALK, False Positives: no, False Negatives: yes
+angal       	lˠe     	   1	   1
+east-kewa   	la      	   1	   1
+erave       	la      	   1	   1
+huli        	la      	   1	   1
+ipili       	laː     	   1	   1
+samberigi   	alæ     	   1	   1
+west-kewa   	la      	   1	   1
+enga        	re      	   1	   3
+fasu        	someraka	   5	   5
+wiru        	wa+oko  	  10	  10
+#
+Concept: 293_NETBAG, False Positives: yes, False Negatives: no
+angal       	nu   	   1	   1
+east-kewa   	nu   	   1	   1
+enga        	nuú/u	   1	   1
+erave       	nu   	   1	   1
+huli        	nu   	   1	   1
+ipili       	nuː  	   1	   1
+samberigi   	nu   	   1	   1
+west-kewa   	nu   	   1	   1
+fasu        	aku  	   5	   5
+wiru        	kà/a 	  10	   5
+#
+Concept: 3162_CROSS-COUSIN, False Positives: no, False Negatives: yes
+angal       	he      	   1	   1
+east-kewa   	kai     	   1	   2
+enga        	kaiːgí/i	   1	   2
+samberigi   	ką/aᶖ/i 	   1	   2
+huli        	hani    	   1	   4
+ipili       	aini    	   1	   5
+west-kewa   	aːi     	   1	   7
+#
+Concept: 351_TARO, False Positives: no, False Negatives: yes
+angal       	mɔ   	   1	   1
+east-kewa   	maː  	   1	   1
+enga        	má/aa	   1	   1
+erave       	maː  	   1	   1
+fasu        	me   	   1	   1
+huli        	ma   	   1	   1
+samberigi   	mæ   	   1	   1
+west-kewa   	maː  	   1	   1
+wiru        	mᶖ/i 	   1	   1
+ipili       	ma   	   1	   1
+ipili       	anama	   1	   7
+#
+Concept: 492_THREE, False Positives: no, False Negatives: yes
+angal       	tep    	   1	   1
+huli        	tebira 	   1	   1
+ipili       	tebo   	   1	   1
+samberigi   	tepo   	   1	   1
+east-kewa   	repo   	   1	   2
+erave       	repo   	   1	   2
+west-kewa   	repo   	   1	   2
+enga        	té/ema 	   1	   3
+wiru        	temboto	   1	  10
+fasu        	isia   	   5	   5
+#
+Concept: 51_SORE, False Positives: no, False Negatives: yes
+angal       	ter   	   1	   1
+huli        	dere  	   1	   1
+east-kewa   	rere  	   1	   2
+erave       	rere  	   1	   2
+west-kewa   	rere  	   1	   2
+enga        	té/ete	   1	   3
+ipili       	tete  	   1	   3
+samberigi   	tete  	   1	   3
+#
+Concept: 634_MEAT, False Positives: yes, False Negatives: yes
+angal       	mindi   	   1	   1
+east-kewa   	midi    	   1	   1
+erave       	midi    	   1	   1
+west-kewa   	midi    	   1	   1
+enga        	miju    	   1	   3
+ipili       	mijuni  	   1	   3
+huli        	mbirini 	   1	   6
+fasu        	maija   	   5	   3
+samberigi   	mænæ    	   8	   8
+wiru        	melé/epu	  10	  10
+#
+Concept: 639_MOUNTAIN, False Positives: yes, False Negatives: yes
+angal-heneng	har     	   1	   1
+huli        	hari    	   1	   1
+east-kewa   	kari    	   1	   2
+ipili       	ati     	   1	   3
+fasu        	uli     	   1	   4
+enga        	má/adá/a	   3	   3
+samberigi   	pote    	   7	   7
+wiru        	tó/ono  	   8	   8
+#
+Concept: 646_ASH, False Positives: no, False Negatives: yes
+angal       	tɔng  	   1	   1
+east-kewa   	taga  	   1	   1
+erave       	taga  	   1	   1
+huli        	danga 	   1	   1
+west-kewa   	taga  	   1	   1
+samberigi   	lankæ 	   1	   8
+enga        	bú/usi	   3	   3
+fasu        	katema	   5	   5
+ipili       	pete  	   7	   7
+wiru        	kù/uku	  10	  10
+#
+Concept: 670_ROOT, False Positives: no, False Negatives: yes
+angal       	pilˠa 	   1	   1
+east-kewa   	pitja 	   1	   2
+erave       	pitja 	   1	   2
+west-kewa   	pitja 	   1	   2
+enga        	pigi  	   1	   3
+fasu        	pikinu	   1	   3
+samberigi   	piki  	   1	   3
+huli        	pini  	   1	   6
+ipili       	pini  	   1	   6
+wiru        	teke  	  10	  10
+#
+Concept: 671_SAND, False Positives: yes, False Negatives: yes
+angal       	ip+mu   	   1	   1
+east-kewa   	ipa+mu  	   1	   1
+erave       	ipa+mu  	   1	   1
+huli        	iba+mų/u	   1	   1
+ipili       	ipa+mau 	   1	   1
+west-kewa   	ipa+mu  	   1	   1
+enga        	ipa     	   1	   3
+fasu        	tekima  	   5	   5
+samberigi   	hou     	   8	   8
+wiru        	kibi    	  10	   3
+enga        	ké/ee   	  11	  11
+#
+Concept: 695_GO, False Positives: no, False Negatives: yes
+angal       	pe      	   1	   1
+east-kewa   	pu      	   1	   1
+erave       	pu      	   1	   1
+huli        	pú/u    	   1	   1
+ipili       	puː     	   1	   1
+samberigi   	pu      	   1	   1
+west-kewa   	pu      	   1	   1
+enga        	paegé/e 	   1	   3
+fasu        	korakare	   5	   5
+wiru        	jakó/o  	  10	  10
+#
+Concept: 702_CATCH, False Positives: no, False Negatives: yes
+angal       	wapiɔ   	   1	   1
+east-kewa   	sapira  	   1	   2
+erave       	sapira  	   1	   2
+west-kewa   	sapira  	   1	   2
+enga        	minjir  	   1	   3
+huli        	ju+bia  	   1	   6
+ipili       	mina    	   1	   7
+samberigi   	minæ    	   1	   7
+fasu        	maka+are	   5	   5
+wiru        	motò/oko	  10	  10
+#
+Concept: 706_DARK, False Positives: yes, False Negatives: yes
+angal       	pɔmbete 	   1	   1
+ipili       	pobotene	   1	   1
+west-kewa   	pobore  	   1	   7
+enga        	pupú/uti	   2	   1
+fasu        	pikirisa	   3	   3
+huli        	mindi+bi	   4	   4
+samberigi   	punu+pæ 	   6	   6
+wiru        	lieneá/a	   8	   8
+#
+Concept: 762_OUTSIDE, False Positives: no, False Negatives: yes
+angal       	homa    	   1	   1
+east-kewa   	amaː    	   1	   1
+erave       	amaː    	   1	   1
+samberigi   	hamæ    	   1	   1
+west-kewa   	amaː    	   1	   1
+enga        	kamá/ada	   1	   3
+ipili       	kamaka  	   1	   3
+#
+Concept: 78_THAT, False Positives: yes, False Negatives: yes
+angal       	mongo 	   1	   1
+east-kewa   	mo    	   1	   2
+erave       	mo    	   1	   2
+samberigi   	mo    	   1	   2
+west-kewa   	mo    	   1	   2
+enga        	dò/oko	   1	   3
+ipili       	molo  	   1	   6
+fasu        	ane   	   5	   5
+wiru        	eni   	   9	   5
+#
+Concept: 813_DO, False Positives: no, False Negatives: yes
+angal       	pi    	   1	   1
+huli        	bia   	   1	   1
+samberigi   	pæ    	   1	   1
+west-kewa   	pa    	   1	   1
+enga        	pigí/i	   1	   2
+#
+Concept: 817_THEY, False Positives: yes, False Negatives: yes
+angal       	nim     	   1	   1
+east-kewa   	imu     	   1	   2
+erave       	imu     	   1	   2
+west-kewa   	imu     	   1	   2
+enga        	dú/upa  	   1	   3
+huli        	ti      	   1	   6
+ipili       	jakaba  	   1	   7
+samberigi   	iki     	   1	   8
+fasu        	ji      	   5	   5
+wiru        	kini    	  10	  10
+angal       	ipi     	  11	  11
+east-kewa   	ipu     	  11	  11
+erave       	ipu     	  11	  11
+huli        	libu    	  11	  11
+west-kewa   	ipu     	  11	  11
+enga        	dorá/apo	  11	  13
+fasu        	tetapo  	  11	  13
+ipili       	lijaba  	  11	  17
+samberigi   	ipiliki 	  11	  18
+fasu        	tati    	  11	  21
+fasu        	ipu     	  15	  11
+wiru        	kità/a  	  20	  20
+#
+Concept: 857_STONE, False Positives: no, False Negatives: yes
+angal-heneng	han   	   1	   1
+east-kewa   	kana  	   1	   2
+enga        	kaná/a	   1	   2
+ipili       	ana   	   1	   2
+fasu        	eke   	   1	   4
+huli        	tǫ/ole	   5	   5
+samberigi   	topi  	   7	   7
+wiru        	kué/e 	   8	   8
+#
+Concept: 867_backofhand, False Positives: yes, False Negatives: yes
+angal       	mesa     	   1	   1
+east-kewa   	masa     	   1	   1
+erave       	masa     	   1	   1
+ipili       	masia    	   1	   1
+west-kewa   	masa     	   1	   1
+enga        	má/aitá/a	   1	   3
+fasu        	mati     	   1	   3
+huli        	erebira  	   6	   6
+samberigi   	hoki     	   8	   8
+wiru        	mukiti   	  10	   3
+#
+Concept: 868_BANANA, False Positives: no, False Negatives: yes
+angal-enen  	ai    	   1	   1
+east-kewa   	ai    	   1	   1
+erave       	ai    	   1	   1
+ipili       	ai    	   1	   1
+west-kewa   	ai    	   1	   1
+enga        	saé/e 	   1	   3
+huli        	hai   	   1	   3
+samberigi   	dæᶖ/i 	   1	   8
+fasu        	kaputa	   5	   5
+wiru        	kaká/a	  10	  10
+#
+Concept: 879_COUGH, False Positives: no, False Negatives: yes
+angal       	ot+lˠe      	   1	   1
+east-kewa   	koro+ta     	   1	   2
+erave       	kó/oto+re   	   1	   3
+ipili       	koto+laː    	   1	   3
+west-kewa   	kó/oto+re   	   1	   3
+east-kewa   	kó/oto+re   	   1	   3
+huli        	ko+al       	   1	   5
+samberigi   	hoto+alæ    	   1	   7
+fasu        	jijoko+ane  	   4	   4
+wiru        	totona+ó/oko	   9	   9
+#
+Concept: 906_TREE, False Positives: no, False Negatives: yes
+angal       	ti     	   1	   1
+enga        	í/itá/a	   1	   1
+ipili       	ita    	   1	   1
+samberigi   	ti     	   1	   1
+fasu        	ira    	   1	   3
+huli        	ira    	   1	   3
+west-kewa   	repona 	   7	   7
+wiru        	jomò/o 	   8	   8
+#
+Concept: 937_BIRD, False Positives: yes, False Negatives: yes
+angal       	sɔ     	   1	   1
+east-kewa   	já/aá/a	   1	   2
+erave       	já/aá/a	   1	   2
+west-kewa   	já/aá/a	   1	   2
+enga        	já/aka 	   1	   3
+huli        	ega    	   1	   3
+ipili       	eka    	   1	   3
+fasu        	mena   	   5	   5
+samberigi   	ba     	   8	   8
+wiru        	inì/i  	  10	   5
+#
+Concept: 962_WOMAN, False Positives: yes, False Negatives: yes
+angal       	ten   	   1	   1
+east-kewa   	winja 	   2	   2
+enga        	é/eda 	   2	   3
+ipili       	wada  	   2	   3
+fasu        	hinamo	   2	   4
+huli        	wali  	   2	   5
+west-kewa   	ona   	   2	   7
+wiru        	atò/oa	   8	   3
+#

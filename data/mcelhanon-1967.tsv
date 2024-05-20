@@ -1,0 +1,1964 @@
+# Wordlist
+
+# DATA
+ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	SOURCE	COGID
+90456	kate	1209_I	no	no	n o	I	mcelhanon-1967	7845
+90470	kate	1215_THOU	go	go	g o	thou	mcelhanon-1967	7807
+90484	kate	1212_WE	ŋâŋâc	ŋâŋâc	ŋ â/a ŋ â/a c	we	mcelhanon-1967	8014
+90498	kate	1235_WHO	moc	moc	m o c	who	mcelhanon-1967	7978
+90512	kate	1236_WHAT	wemo	wemo	w e m o	what	mcelhanon-1967	7758
+90526	kate	78_THAT	i	i	i	that	mcelhanon-1967	1
+90540	kate	1214_THIS	dzi	dzi	d z i	this	mcelhanon-1967	7939
+90554	kate	1493_ONE	mocyaha	mocyaha	m o c j a h a	one	mcelhanon-1967	7879
+90568	kate	1498_TWO	yayahec	yayahec	j a j a h e c	two	mcelhanon-1967	7687
+90582	kate	1458_SAY	mu-	mu-	m u	(he) says	mcelhanon-1967	7825
+90596	kate	1313_MOON	mosa	mosa	m o s a	moon	mcelhanon-1967	7917
+90610	kate	1395_ROUND	orâŋ orâŋ	orâŋ_orâŋ	o r â/a ŋ + o r â/a ŋ	round	mcelhanon-1967	7818
+90624	kate	1429_FULL	fuse-	fuse-	f u s e	(it is) full	mcelhanon-1967	7908
+90638	kate	1371_KNEE	dieŋ	dieŋ	d i e ŋ	(his) knee	mcelhanon-1967	7813
+90652	kate	72_CLAW	misiŋ-	misiŋ-	m i s i ŋ	(its) claw	mcelhanon-1967	2
+90666	kate	1402_BREAST	moŋ-	moŋ-	m o ŋ	breast	mcelhanon-1967	7829
+90680	kate	1446_COME	wefu-	wefu-	w e f u	(he) comes	mcelhanon-1967	3
+90694	kate	1416_SIT	ŋe-	ŋe-	ŋ e	(he) sits	mcelhanon-1967	7947
+90708	kate	1447_GIVE	nare-	nare-	n a r e	(he) gives me	mcelhanon-1967	7896
+90722	kate	1442_STAND	doma-	doma-	d o m a	(he) stands	mcelhanon-1967	7671
+90736	kate	98_ALL	sasawa	sasawa	s a s a w a	all	mcelhanon-1967	7730
+90750	kate	1198_MANY	bocyaha	bocyaha	b o c j a h a	many	mcelhanon-1967	7667
+90764	kate	1233_NIGHT	ŋafe	ŋafe	ŋ a f e	night	mcelhanon-1967	4
+90778	kate	1203_LONG	dzoricne	dzoricne	d z o r i c n e	long	mcelhanon-1967	7664
+90792	kate	1202_BIG	kâcgbene	kâcgbene	k â/a c g b e n e	big	mcelhanon-1967	5
+90806	kate	1246_SMALL	piticne	piticne	p i t i c n e	small	mcelhanon-1967	6
+90820	kate	1430_STAR	bâpiŋ	bâpiŋ	b â/a p i ŋ	star	mcelhanon-1967	7738
+90834	kate	1343_SUN	dzoaŋ	dzoaŋ	d z o a ŋ	sun	mcelhanon-1967	7
+90848	kate	1489_CLOUD	karorac	karorac	k a r o r a c	cloud	mcelhanon-1967	8
+90862	kate	2108_RAINING_OR_RAIN	hoe	hoe	h o e	rain	mcelhanon-1967	7897
+90876	kate	1251_BELLY	bu-	bu-	b u	(its) belly	mcelhanon-1967	9
+90890	kate	1221_NOSE	sâke-	sâke-	s â/a k e	(its) nose	mcelhanon-1967	8020
+90904	kate	1223_HEART	bu hândâŋ-	bu_hândâŋ-	b u + h â/a n d â/a ŋ	(its) heart	mcelhanon-1967	10
+90918	kate	323_FAT_ORGANIC_SUBSTANCE	wokemaŋ	wokemaŋ	w o k e m a ŋ	(its) fat	mcelhanon-1967	8022
+90932	kate	1333_NECK	upe-	upe-	u p e	its neck	mcelhanon-1967	7942
+90946	kate	189_HAIR_BODY	dzâwâ-	dzâwâ-	d z â/a w â/a	(its) hair	mcelhanon-1967	8001
+90960	kate	2101_BE_DEAD_OR_DIE	hâmo-	hâmo-	h â/a m o	(he) dies	mcelhanon-1967	7924
+90974	kate	1409_SEE	honecnu-	honecnu-	h o n e c n u	(he) sees me	mcelhanon-1967	7903
+90988	kate	1585_SLEEP	fo-	fo-	f o	(he) sleeps	mcelhanon-1967	7993
+91002	kate	1336_EAT	nâ-	nâ-	n â/a	(he) eats	mcelhanon-1967	8319
+91016	kate	1403_BITE	ki-	ki-	k i	(he) bites it	mcelhanon-1967	7774
+91030	kate	163_BLACK	gâgâpâc	gâgâpâc	g â/a g â/a p â/a c	black	mcelhanon-1967	7822
+91044	kate	1425_GREEN	ârâŋbâric	ârâŋbâric	â/a r â/a ŋ b â/a r i c	green	mcelhanon-1967	7843
+91058	kate	1335_WHITE	kapŋ kapŋ	kapŋ_kapŋ	k a p ŋ + k a p ŋ	white	mcelhanon-1967	7726
+91072	kate	156_RED	bâbâroŋ	bâbâroŋ	b â/a b â/a r o ŋ	red	mcelhanon-1967	7801
+91086	kate	1424_YELLOW	bâŋeŋne	bâŋeŋne	b â/a ŋ e ŋ n e	yellow	mcelhanon-1967	7734
+91100	kate	1035_GOOD	biaŋne	biaŋne	b i a ŋ n e	good	mcelhanon-1967	11
+91114	kate	2272_HOT_OR_WARM	dzoc	dzoc	d z o c	hot	mcelhanon-1967	12
+91128	kate	1231_NEW	gbâricne	gbâricne	g b â/a r i c n e	new	mcelhanon-1967	7815
+91142	kate	1786_DRY_UP	kereŋke-	kereŋke-	k e r e ŋ k e	(it is) dry	mcelhanon-1967	7659
+91156	kate	1287_COLD	mâteŋne	mâteŋne	m â/a t e ŋ n e	cold	mcelhanon-1967	8004
+91170	kate	1405_NAME	dzâne-	dzâne-	d z â/a n e	(its) name	mcelhanon-1967	7690
+91184	kate	1240_NOT	mi	mi	m i	not	mcelhanon-1967	8017
+91198	kate	2102_BURN	dza-	dza-	d z a	(it) burns	mcelhanon-1967	7688
+91212	kate	2457_PATH_OR_ROAD	hata	hata	h a t a	road	mcelhanon-1967	13
+91226	kate	948_WATER	opâ	opâ	o p â/a	water	mcelhanon-1967	14
+91240	kate	778_SMOKE_EXHAUST	hosâc	hosâc	h o s â/a c	smoke	mcelhanon-1967	8035
+91254	kate	1433_HIT	kpa-	kpa-	k p a	(he) hit him	mcelhanon-1967	7983
+91268	kate	1410_KNOW_SOMETHING	mana-	mana-	m a n a	(he) knows	mcelhanon-1967	7656
+91282	kate	671_SAND	moŋgeŋ	moŋgeŋ	m o ŋ g e ŋ	sand	mcelhanon-1967	7833
+91296	kate	857_STONE	kpânâ	kpânâ	k p â/a n â/a	stone	mcelhanon-1967	15
+91310	kate	639_MOUNTAIN	tiki	tiki	t i k i	mountain	mcelhanon-1967	7858
+91324	kate	646_ASH	dzafe	dzafe	d z a f e	ashes	mcelhanon-1967	7783
+91338	kate	1228_EARTH_SOIL	mâreŋ	mâreŋ	m â/a r e ŋ	earth	mcelhanon-1967	7805
+91352	kate	628_LEAF	rehac-	rehac-	r e h a c	(its) leaf	mcelhanon-1967	7892
+91366	kate	906_TREE	yâc	yâc	j â/a c	tree	mcelhanon-1967	7836
+91380	kate	670_ROOT	gâtâ-	gâtâ-	g â/a t â/a	(its) root	mcelhanon-1967	7769
+91394	kate	714_SEED	hândâŋ-	hândâŋ-	h â/a n d â/a ŋ	(its) seed	mcelhanon-1967	7791
+91408	kate	1247_EAR	hatsec-	hatsec-	h a ts e c	(its) ear	mcelhanon-1967	7868
+91422	kate	1392_LOUSE	imeŋ	imeŋ	i m e ŋ	louse	mcelhanon-1967	7682
+91436	kate	2009_DOG	kpâto	kpâto	k p â/a t o	dog	mcelhanon-1967	8011
+91450	kate	937_BIRD	wipe	wipe	w i p e	bird	mcelhanon-1967	16
+91464	kate	962_WOMAN	ŋokac	ŋokac	ŋ o k a c	woman	mcelhanon-1967	7724
+91478	kate	1554_MAN	ŋic	ŋic	ŋ i c	man	mcelhanon-1967	7700
+91492	kate	946_BLOOD	soc-	soc-	s o c	(its) blood	mcelhanon-1967	8029
+91506	kate	2121_ARM_OR_HAND	me-	me-	m e	(his) hand	mcelhanon-1967	7651
+91520	kate	1205_TONGUE	nameŋ-	nameŋ-	n a m e ŋ	(its) tongue	mcelhanon-1967	8009
+91534	kate	1380_TOOTH	mic-	mic-	m i c	(its) tooth	mcelhanon-1967	17
+91548	kate	2098_FOOT_OR_LEG	kike-	kike-	k i k e	(its) foot	mcelhanon-1967	7708
+91562	kate	1220_TAIL	gec-	gec-	g e c	(its) tail	mcelhanon-1967	18
+91576	kate	634_MEAT	bihuc-	bihuc-	b i h u c	(its) meat	mcelhanon-1967	7954
+91590	kate	1248_EYE	dzâŋe-	dzâŋe-	d z â/a ŋ e	(its) eye	mcelhanon-1967	7865
+91604	kate	763_SKIN	sahac-	sahac-	s a h a c	(its) skin	mcelhanon-1967	19
+91618	kate	1256_HEAD	kpitsec-	kpitsec-	k p i ts e c	(its) head	mcelhanon-1967	20
+91632	kate	1394_BONE	siec-	siec-	s i e c	(its) bone	mcelhanon-1967	7962
+91646	kate	262_HE_OR_SHE_OR_IT	e	e	e	he	mcelhanon-1967	7872
+91660	kate	2312_YOU_OBLIQUE_CASE_OF_YOU	ŋoŋe	ŋoŋe	ŋ o ŋ e	ye	mcelhanon-1967	7965
+91674	kate	817_THEY	yaŋe	yaŋe	j a ŋ e	they	mcelhanon-1967	7948
+91688	kate	1237_WHERE	wena	wena	w e n a	where	mcelhanon-1967	21
+91702	kate	1239_HOW	weniŋuc	weniŋuc	w e n i ŋ u c	how	mcelhanon-1967	22
+91716	kate	1577_AND	eme	eme	e m e	and	mcelhanon-1967	7778
+91730	kate	1937_THERE	ocna	ocna	o c n a	there	mcelhanon-1967	23
+91744	kate	1019_RIGHT	fâre	fâre	f â/a r e	right (side)	mcelhanon-1967	7795
+91758	kate	244_LEFT	kpana	kpana	k p a n a	left side	mcelhanon-1967	7714
+91772	kate	1448_HOLD	ro-	ro-	r o	(he) holds	mcelhanon-1967	7787
+91786	kate	1280_FALL	waha-	waha-	w a h a	(he) falls	mcelhanon-1967	7712
+91800	kate	1588_TURN	bârisie-	bârisie-	b â/a r i s i e	(he) turns	mcelhanon-1967	7781
+91814	kate	1456_THROW	behe-	behe-	b e h e	(he) throws:	mcelhanon-1967	24
+91828	kate	1455_PULL	fâre-	fâre-	f â/a r e	(he) pulls	mcelhanon-1967	7680
+91842	kate	1452_PUSH	tuŋke-	tuŋke-	t u ŋ k e	(he) pushes	mcelhanon-1967	7875
+91856	kate	1453_WASH	dzure-	dzure-	d z u r e	(he) washes	mcelhanon-1967	7988
+91870	kate	1418_DIG	wise-	wise-	w i s e	(he) digs	mcelhanon-1967	7882
+91884	kate	1432_CUT	hetâcne-	hetâcne-	h e t â/a c n e	(he) cuts	mcelhanon-1967	25
+91898	kate	1241_SOME	gâc-	gâc-	g â/a c	some	mcelhanon-1967	7885
+91912	kate	1645_SHORT	bembeŋ	bembeŋ	b e m b e ŋ	short	mcelhanon-1967	7973
+91926	kate	960_WIND	mâŋâŋ	mâŋâŋ	m â/a ŋ â/a ŋ	wind	mcelhanon-1967	7854
+91940	kate	1732_SKY	sambâŋ	sambâŋ	s a m b â/a ŋ	sky	mcelhanon-1967	7928
+91954	kate	2_DUST	gâc	gâc	g â/a c	dust	mcelhanon-1967	26
+91968	kate	624_LAKE	dzâkâŋ	dzâkâŋ	d z â/a k â/a ŋ	lake	mcelhanon-1967	7793
+91982	kate	239_FLOWER	âri-	âri-	â/a r i	(its) flower	mcelhanon-1967	7684
+91996	kate	1507_FRUIT	fâric-	fâric-	f â/a r i c	(its) fruit	mcelhanon-1967	7761
+92010	kate	1295_STICK	gbaru	gbaru	g b a r u	stick	mcelhanon-1967	7720
+92024	kate	1219_WORM	gbasu	gbasu	g b a s u	worm	mcelhanon-1967	7695
+92038	kate	730_SNAKE	homa	homa	h o m a	snake	mcelhanon-1967	7719
+92052	kate	619_ANIMAL	kpowi	kpowi	k p o w i	animal	mcelhanon-1967	27
+92066	kate	867_backofhand	râpe-	râpe-	r â/a p e	(its) back	mcelhanon-1967	28
+92080	kate	1257_WING	fakec-	fakec-	f a k e c	(its) wing	mcelhanon-1967	29
+92094	kate	1407_BREATHE	noka-	noka-	n o k a	(its) breath	mcelhanon-1967	7675
+92108	kate	1278_VOMIT	maŋu-	maŋu-	m a ŋ u	(he) vomits	mcelhanon-1967	30
+92122	kate	1355_LAUGH	gâwie-	gâwie-	g â/a w i e	(he) laughs	mcelhanon-1967	7907
+92136	kate	1421_SUCK	apuru-	apuru-	a p u r u	(he) sucks	mcelhanon-1967	31
+92150	kate	1839_CRY	kio-	kio-	k i o	(he) cries	mcelhanon-1967	32
+92164	kate	1440_SPIT	tâfec-	tâfec-	t â/a f e c	(he) spits	mcelhanon-1967	7839
+92178	kate	725_OLD_PERSON	raŋgbaŋ	raŋgbaŋ	r a ŋ g b a ŋ	old	mcelhanon-1967	7925
+92192	kate	2272_HOT_OR_WARM	hâroŋne	hâroŋne	h â/a r o ŋ n e	warm	mcelhanon-1967	7960
+92206	kate	1397_DULL	mic mâŋ	mic_mâŋ	m i c + m â/a ŋ	dull	mcelhanon-1967	33
+92220	kate	1262_BROTHER	hahac-	hahac-	h a h a c	(his) brother	mcelhanon-1967	7826
+92234	kate	1263_SISTER	seŋ-	seŋ-	s e ŋ	(his) sister	mcelhanon-1967	7850
+92248	kate	1217_FATHER	mamac-	mamac-	m a m a c	(his) father	mcelhanon-1967	1192
+92262	kate	1216_MOTHER	neŋgoc-	neŋgoc-	n e ŋ g o c	(his) mother	mcelhanon-1967	8028
+92276	kate	1457_SEW	gbâtâ-	gbâtâ-	g b â/a t â/a	(she) sews	mcelhanon-1967	7976
+92290	kate	1218_ROPE	muc	muc	m u c	rope	mcelhanon-1967	34
+92304	kate	1172_SHOOT	muru-	muru-	m u r u	(he) shoots	mcelhanon-1967	35
+92318	kate	1420_COUNT	wose-	wose-	w o s e	(he) counts	mcelhanon-1967	7697
+92332	kate	1413_PLAY	mamasiri-	mamasiri-	m a m a s i r i	(they) play	mcelhanon-1967	36
+92346	kate	1895_CLOTHES	kporuc	kporuc	k p o r u c	clothing	mcelhanon-1967	7654
+92360	kate	1086_WORK_ACTIVITY	gie	gie	g i e	work	mcelhanon-1967	7771
+92374	kate	945_SPEAR	damu	damu	d a m u	spear	mcelhanon-1967	7710
+92388	kate	175_BLOW_OF_WIND	ficne-	ficne-	f i c n e	(he) blows	mcelhanon-1967	13644
+92402	kate	1573_SWELL	siwiŋne-	siwiŋne-	s i w i ŋ n e	(it) swells	mcelhanon-1967	7900
+90454	mape	1209_I	no	no	n o	I	mcelhanon-1967	7845
+90468	mape	1215_THOU	go	go	g o	thou	mcelhanon-1967	7807
+90482	mape	1212_WE	ŋâŋu	ŋâŋu	ŋ â/a ŋ u	we	mcelhanon-1967	8014
+90496	mape	1235_WHO	moc	moc	m o c	who	mcelhanon-1967	7978
+90510	mape	1236_WHAT	wamo	wamo	w a m o	what	mcelhanon-1967	7758
+90524	mape	78_THAT	â	â	â/a	that	mcelhanon-1967	37
+90538	mape	1214_THIS	âi	âi	â/a i	this	mcelhanon-1967	38
+90552	mape	1493_ONE	mokotoŋ	mokotoŋ	m o k o t o ŋ	one	mcelhanon-1967	39
+90566	mape	1498_TWO	yoyokak	yoyokak	j o j o k a k	two	mcelhanon-1967	7687
+90580	mape	1458_SAY	mi-	mi-	m i	(he) says	mcelhanon-1967	7825
+90594	mape	1313_MOON	mosa	mosa	m o s a	moon	mcelhanon-1967	7917
+90608	mape	1395_ROUND	oorâŋ	oorâŋ	oː r â/a ŋ	round	mcelhanon-1967	7818
+90622	mape	1429_FULL	fuse-	fuse-	f u s e	(it is) full	mcelhanon-1967	7908
+90636	mape	1371_KNEE	dieŋ	dieŋ	d i e ŋ	(his) knee	mcelhanon-1967	7813
+90650	mape	72_CLAW	yuyuŋ-	yuyuŋ-	j u j u ŋ	(its) claw	mcelhanon-1967	40
+90664	mape	1402_BREAST	moŋ-	moŋ-	m o ŋ	breast	mcelhanon-1967	7829
+90678	mape	1446_COME	wape-	wape-	w a p e	(he) comes	mcelhanon-1967	41
+90692	mape	1416_SIT	ŋe-	ŋe-	ŋ e	(he) sits	mcelhanon-1967	7947
+90706	mape	1447_GIVE	nare-	nare-	n a r e	(he) gives me	mcelhanon-1967	7896
+90720	mape	1442_STAND	dimi-	dimi-	d i m i	(he) stands	mcelhanon-1967	7671
+90734	mape	98_ALL	sâsâwâ	sâsâwâ	s â/a s â/a w â/a	all	mcelhanon-1967	7730
+90748	mape	1198_MANY	boiaha	boiaha	b o i a h a	many	mcelhanon-1967	7667
+90762	mape	1233_NIGHT	uwu	uwu	u w u	night	mcelhanon-1967	42
+90776	mape	1203_LONG	dzoraikne	dzoraikne	d z o r a i k n e	long	mcelhanon-1967	7664
+90790	mape	1202_BIG	yasogo	yasogo	j a s o g o	big	mcelhanon-1967	43
+90804	mape	1246_SMALL	mendakne	mendakne	m e n d a k n e	small	mcelhanon-1967	44
+90818	mape	1430_STAR	bâpiŋ	bâpiŋ	b â/a p i ŋ	star	mcelhanon-1967	7738
+90832	mape	1343_SUN	wegi	wegi	w e g i	sun	mcelhanon-1967	45
+90846	mape	1489_CLOUD	gâweŋ	gâweŋ	g â/a w e ŋ	cloud	mcelhanon-1967	46
+90860	mape	2108_RAINING_OR_RAIN	kue	kue	k u e	rain	mcelhanon-1967	7897
+90874	mape	1251_BELLY	ata-	ata-	a t a	(its) belly	mcelhanon-1967	47
+90888	mape	1221_NOSE	sikâ-	sikâ-	s i k â/a	(its) nose	mcelhanon-1967	8020
+90902	mape	1223_HEART	maki kâruŋ-	maki_kâruŋ-	m a k i + k â/a r u ŋ	(its) heart	mcelhanon-1967	48
+90916	mape	323_FAT_ORGANIC_SUBSTANCE	widzi-	widzi-	w i d z i	(its) fat	mcelhanon-1967	49
+90930	mape	1333_NECK	ube-	ube-	u b e	its neck	mcelhanon-1967	7942
+90944	mape	189_HAIR_BODY	kaŋdzaŋ-	kaŋdzaŋ-	k a ŋ d z a ŋ	(its) hair	mcelhanon-1967	50
+90958	mape	2101_BE_DEAD_OR_DIE	kâme-	kâme-	k â/a m e	(he) dies	mcelhanon-1967	7924
+90972	mape	1409_SEE	ŋonenu-	ŋonenu-	ŋ o n e n u	(he) sees me	mcelhanon-1967	7903
+90986	mape	1585_SLEEP	kpe-	kpe-	k p e	(he) sleeps	mcelhanon-1967	51
+91000	mape	1336_EAT	na-	na-	n a	(he) eats	mcelhanon-1967	8319
+91014	mape	1403_BITE	ki-	ki-	k i	(he) bites it	mcelhanon-1967	7774
+91028	mape	163_BLACK	gâgâwuk	gâgâwuk	g â/a g â/a w u k	black	mcelhanon-1967	7822
+91042	mape	1425_GREEN	buge	buge	b u g e	green	mcelhanon-1967	52
+91056	mape	1335_WHITE	kapŋ kapŋ	kapŋ_kapŋ	k a p ŋ + k a p ŋ	white	mcelhanon-1967	7726
+91070	mape	156_RED	bâbâroŋ	bâbâroŋ	b â/a b â/a r o ŋ	red	mcelhanon-1967	7801
+91084	mape	1424_YELLOW	boboŋeŋ	boboŋeŋ	b o b o ŋ e ŋ	yellow	mcelhanon-1967	7734
+91098	mape	1035_GOOD	fiine	fiine	f iː n e	good	mcelhanon-1967	7773
+91112	mape	2272_HOT_OR_WARM	foro	foro	f o r o	hot	mcelhanon-1967	53
+91126	mape	1231_NEW	gbâine	gbâine	g b â/a i n e	new	mcelhanon-1967	7815
+91140	mape	1786_DRY_UP	dziga-	dziga-	d z i g a	(it is) dry	mcelhanon-1967	54
+91154	mape	1287_COLD	mâteŋne	mâteŋne	m â/a t e ŋ n e	cold	mcelhanon-1967	8004
+91168	mape	1405_NAME	dziŋâ-	dziŋâ-	d z i ŋ â/a	(its) name	mcelhanon-1967	7690
+91182	mape	1240_NOT	so	so	s o	not	mcelhanon-1967	55
+91196	mape	2102_BURN	dza-	dza-	d z a	(it) burns	mcelhanon-1967	7688
+91210	mape	2457_PATH_OR_ROAD	kari	kari	k a r i	road	mcelhanon-1967	56
+91224	mape	948_WATER	owu	owu	o w u	water	mcelhanon-1967	7974
+91238	mape	778_SMOKE_EXHAUST	kosâk	kosâk	k o s â/a k	smoke	mcelhanon-1967	8035
+91252	mape	1433_HIT	kpa-	kpa-	k p a	(he) hit him	mcelhanon-1967	7983
+91266	mape	1410_KNOW_SOMETHING	mane-	mane-	m a n e	(he) knows	mcelhanon-1967	7656
+91280	mape	671_SAND	mageŋ	mageŋ	m a g e ŋ	sand	mcelhanon-1967	7833
+91294	mape	857_STONE	kâk	kâk	k â/a k	stone	mcelhanon-1967	7765
+91308	mape	639_MOUNTAIN	tiki	tiki	t i k i	mountain	mcelhanon-1967	7858
+91322	mape	646_ASH	dzafe	dzafe	d z a f e	ashes	mcelhanon-1967	7783
+91336	mape	1228_EARTH_SOIL	mâreŋ	mâreŋ	m â/a r e ŋ	earth	mcelhanon-1967	7805
+91350	mape	628_LEAF	rekak-	rekak-	r e k a k	(its) leaf	mcelhanon-1967	7892
+91364	mape	906_TREE	yâk	yâk	j â/a k	tree	mcelhanon-1967	7836
+91378	mape	670_ROOT	gâru-	gâru-	g â/a r u	(its) root	mcelhanon-1967	7769
+91392	mape	714_SEED	fâŋâŋ-	fâŋâŋ-	f â/a ŋ â/a ŋ	(its) seed	mcelhanon-1967	57
+91406	mape	1247_EAR	kadze-	kadze-	k a d z e	(its) ear	mcelhanon-1967	7868
+91420	mape	1392_LOUSE	imeŋ	imeŋ	i m e ŋ	louse	mcelhanon-1967	7682
+91434	mape	2009_DOG	kporo	kporo	k p o r o	dog	mcelhanon-1967	8011
+91448	mape	937_BIRD	wârâ	wârâ	w â/a r â/a	bird	mcelhanon-1967	58
+91462	mape	962_WOMAN	ŋigok	ŋigok	ŋ i g o k	woman	mcelhanon-1967	7724
+91476	mape	1554_MAN	ŋik	ŋik	ŋ i k	man	mcelhanon-1967	7700
+91490	mape	946_BLOOD	dari-	dari-	d a r i	(its) blood	mcelhanon-1967	59
+91504	mape	2121_ARM_OR_HAND	me-	me-	m e	(his) hand	mcelhanon-1967	7651
+91518	mape	1205_TONGUE	erâŋ-	erâŋ-	e r â/a ŋ	(its) tongue	mcelhanon-1967	60
+91532	mape	1380_TOOTH	misiâ-	misiâ-	m i s i â/a	(its) tooth	mcelhanon-1967	61
+91546	mape	2098_FOOT_OR_LEG	kigâ-	kigâ-	k i g â/a	(its) foot	mcelhanon-1967	7708
+91560	mape	1220_TAIL	dzi-	dzi-	d z i	(its) tail	mcelhanon-1967	7887
+91574	mape	634_MEAT	biu-	biu-	b i u	(its) meat	mcelhanon-1967	7954
+91588	mape	1248_EYE	dziŋâ-	dziŋâ-	d z i ŋ â/a	(its) eye	mcelhanon-1967	7865
+91602	mape	763_SKIN	mâdzu-	mâdzu-	m â/a d z u	(its) skin	mcelhanon-1967	62
+91616	mape	1256_HEAD	kpâru-	kpâru-	k p â/a r u	(its) head	mcelhanon-1967	63
+91630	mape	1394_BONE	siak-	siak-	s i a k	(its) bone	mcelhanon-1967	7962
+91644	mape	262_HE_OR_SHE_OR_IT	i	i	i	he	mcelhanon-1967	7872
+91658	mape	2312_YOU_OBLIQUE_CASE_OF_YOU	ŋoŋai	ŋoŋai	ŋ o ŋ a i	ye	mcelhanon-1967	7965
+91672	mape	817_THEY	yaŋa	yaŋa	j a ŋ a	they	mcelhanon-1967	7948
+91686	mape	1237_WHERE	uroo	uroo	u r oː	where	mcelhanon-1967	64
+91700	mape	1239_HOW	uriŋu	uriŋu	u r i ŋ u	how	mcelhanon-1967	65
+91714	mape	1577_AND	eme	eme	e m e	and	mcelhanon-1967	7778
+91728	mape	1937_THERE	aroo	aroo	a r oː	there	mcelhanon-1967	66
+91742	mape	1019_RIGHT	fâre	fâre	f â/a r e	right (side)	mcelhanon-1967	7795
+91756	mape	244_LEFT	kpana	kpana	k p a n a	left side	mcelhanon-1967	7714
+91770	mape	1448_HOLD	ro-	ro-	r o	(he) holds	mcelhanon-1967	7787
+91784	mape	1280_FALL	waki-	waki-	w a k i	(he) falls	mcelhanon-1967	7712
+91798	mape	1588_TURN	perisie-	perisie-	p e r i s i e	(he) turns	mcelhanon-1967	7781
+91812	mape	1456_THROW	wâke-	wâke-	w â/a k e	(he) throws:	mcelhanon-1967	67
+91826	mape	1455_PULL	furuga-	furuga-	f u r u g a	(he) pulls	mcelhanon-1967	7680
+91840	mape	1452_PUSH	tuŋga-	tuŋga-	t u ŋ g a	(he) pushes	mcelhanon-1967	7875
+91854	mape	1453_WASH	kedzure-	kedzure-	k e d z u r e	(he) washes	mcelhanon-1967	7988
+91868	mape	1418_DIG	use-	use-	u s e	(he) digs	mcelhanon-1967	7882
+91882	mape	1432_CUT	ketikga-	ketikga-	k e t i k g a	(he) cuts	mcelhanon-1967	68
+91896	mape	1241_SOME	gâ-	gâ-	g â/a	some	mcelhanon-1967	7885
+91910	mape	1645_SHORT	bembeŋ	bembeŋ	b e m b e ŋ	short	mcelhanon-1967	7973
+91924	mape	960_WIND	mâŋuŋ	mâŋuŋ	m â/a ŋ u ŋ	wind	mcelhanon-1967	7854
+91938	mape	1732_SKY	sambâŋgo	sambâŋgo	s a m b â/a ŋ g o	sky	mcelhanon-1967	7928
+91952	mape	2_DUST	yak	yak	j a k	dust	mcelhanon-1967	69
+91966	mape	624_LAKE	dzâgâŋ	dzâgâŋ	d z â/a g â/a ŋ	lake	mcelhanon-1967	7793
+91980	mape	239_FLOWER	âri-	âri-	â/a r i	(its) flower	mcelhanon-1967	7684
+91994	mape	1507_FRUIT	fâik-	fâik-	f â/a i k	(its) fruit	mcelhanon-1967	7761
+92008	mape	1295_STICK	gbaru	gbaru	g b a r u	stick	mcelhanon-1967	7720
+92022	mape	1219_WORM	gbâsu	gbâsu	g b â/a s u	worm	mcelhanon-1967	7695
+92036	mape	730_SNAKE	kobeŋ	kobeŋ	k o b e ŋ	snake	mcelhanon-1967	70
+92050	mape	619_ANIMAL	dzomak	dzomak	d z o m a k	animal	mcelhanon-1967	71
+92064	mape	867_backofhand	ŋari-	ŋari-	ŋ a r i	(its) back	mcelhanon-1967	72
+92078	mape	1257_WING	gbewâ-	gbewâ-	g b e w â/a	(its) wing	mcelhanon-1967	73
+92092	mape	1407_BREATHE	naka-	naka-	n a k a	(its) breath	mcelhanon-1967	7675
+92106	mape	1278_VOMIT	giwu-	giwu-	g i w u	(he) vomits	mcelhanon-1967	74
+92120	mape	1355_LAUGH	gowee-	gowee-	g o w eː	(he) laughs	mcelhanon-1967	7907
+92134	mape	1421_SUCK	mudugaa-	mudugaa-	m u d u g aː	(he) sucks	mcelhanon-1967	75
+92148	mape	1839_CRY	kuee-	kuee-	k u eː	(he) cries	mcelhanon-1967	76
+92162	mape	1440_SPIT	tifak-	tifak-	t i f a k	(he) spits	mcelhanon-1967	7839
+92176	mape	725_OLD_PERSON	raŋgbaŋ	raŋgbaŋ	r a ŋ g b a ŋ	old	mcelhanon-1967	7925
+92190	mape	2272_HOT_OR_WARM	koroŋine	koroŋine	k o r o ŋ i n e	warm	mcelhanon-1967	7960
+92204	mape	1397_DULL	kimâŋine	kimâŋine	k i m â/a ŋ i n e	dull	mcelhanon-1967	77
+92218	mape	1262_BROTHER	kaka-	kaka-	k a k a	(his) brother	mcelhanon-1967	7826
+92232	mape	1263_SISTER	seŋ-	seŋ-	s e ŋ	(his) sister	mcelhanon-1967	7850
+92246	mape	1217_FATHER	mama-	mama-	m a m a	(his) father	mcelhanon-1967	1192
+92260	mape	1216_MOTHER	naŋgo-	naŋgo-	n a ŋ g o	(his) mother	mcelhanon-1967	8028
+92274	mape	1457_SEW	gbâru-	gbâru-	g b â/a r u	(she) sews	mcelhanon-1967	7976
+92288	mape	1218_ROPE	niŋgiŋ	niŋgiŋ	n i ŋ g i ŋ	rope	mcelhanon-1967	78
+92302	mape	1172_SHOOT	iga-	iga-	i g a	(he) shoots	mcelhanon-1967	79
+92316	mape	1420_COUNT	âse-	âse-	â/a s e	(he) counts	mcelhanon-1967	7697
+92330	mape	1413_PLAY	masiriga-	masiriga-	m a s i r i g a	(they) play	mcelhanon-1967	80
+92344	mape	1895_CLOTHES	kporu	kporu	k p o r u	clothing	mcelhanon-1967	7654
+92358	mape	1086_WORK_ACTIVITY	giâ	giâ	g i â/a	work	mcelhanon-1967	7771
+92372	mape	945_SPEAR	dzigâ	dzigâ	d z i g â/a	spear	mcelhanon-1967	81
+92386	mape	175_BLOW_OF_WIND	pute-	pute-	p u t e	(he) blows	mcelhanon-1967	82
+92400	mape	1573_SWELL	siwiŋ-	siwiŋ-	s i w i ŋ	(it) swells	mcelhanon-1967	7900
+90449	dedua	1209_I	ni	ni	n i	I	mcelhanon-1967	7844
+90463	dedua	1215_THOU	ge	ge	g e	thou	mcelhanon-1967	7808
+90477	dedua	1212_WE	nini	nini	n i n i	we	mcelhanon-1967	8016
+90491	dedua	1235_WHO	moŋ	moŋ	m o ŋ	who	mcelhanon-1967	7978
+90505	dedua	1236_WHAT	dafi	dafi	d a f i	what	mcelhanon-1967	83
+90519	dedua	78_THAT	yo	yo	j o	that	mcelhanon-1967	7899
+90533	dedua	1214_THIS	i	i	i	this	mcelhanon-1967	7940
+90547	dedua	1493_ONE	mokgu	mokgu	m o k g u	one	mcelhanon-1967	7879
+90561	dedua	1498_TWO	yohokaŋ	yohokaŋ	j o h o k a ŋ	two	mcelhanon-1967	7687
+90575	dedua	1458_SAY	de-	de-	d e	(he) says	mcelhanon-1967	7824
+90589	dedua	1313_MOON	afo	afo	a f o	moon	mcelhanon-1967	84
+90603	dedua	1395_ROUND	orâŋ	orâŋ	o r â/a ŋ	round	mcelhanon-1967	7818
+90617	dedua	1429_FULL	wake-	wake-	w a k e	(it is) full	mcelhanon-1967	85
+90631	dedua	1371_KNEE	fakuruŋ-	fakuruŋ-	f a k u r u ŋ	(his) knee	mcelhanon-1967	86
+90645	dedua	72_CLAW	boŋ-	boŋ-	b o ŋ	(its) claw	mcelhanon-1967	7920
+90659	dedua	1402_BREAST	namu-	namu-	n a m u	breast	mcelhanon-1967	7830
+90673	dedua	1446_COME	ere-	ere-	e r e	(he) comes	mcelhanon-1967	7919
+90687	dedua	1416_SIT	tak-	tak-	t a k	(he) sits	mcelhanon-1967	7946
+90701	dedua	1447_GIVE	nen-	nen-	n e n	(he) gives me	mcelhanon-1967	7895
+90715	dedua	1442_STAND	nan-	nan-	n a n	(he) stands	mcelhanon-1967	7670
+90729	dedua	98_ALL	sasawa	sasawa	s a s a w a	all	mcelhanon-1967	7730
+90743	dedua	1198_MANY	homak	homak	h o m a k	many	mcelhanon-1967	87
+90757	dedua	1233_NIGHT	tofonak	tofonak	t o f o n a k	night	mcelhanon-1967	88
+90771	dedua	1203_LONG	herea	herea	h e r e a	long	mcelhanon-1967	7663
+90785	dedua	1202_BIG	kuneŋ	kuneŋ	k u n e ŋ	big	mcelhanon-1967	7742
+90799	dedua	1246_SMALL	kapia	kapia	k a p i a	small	mcelhanon-1967	89
+90813	dedua	1430_STAR	bâpiŋ	bâpiŋ	b â/a p i ŋ	star	mcelhanon-1967	7738
+90827	dedua	1343_SUN	wonak	wonak	w o n a k	sun	mcelhanon-1967	90
+90841	dedua	1489_CLOUD	kurumeŋ	kurumeŋ	k u r u m e ŋ	cloud	mcelhanon-1967	91
+90855	dedua	2108_RAINING_OR_RAIN	kia	kia	k i a	rain	mcelhanon-1967	7897
+90869	dedua	1251_BELLY	kera-	kera-	k e r a	(its) belly	mcelhanon-1967	7980
+90883	dedua	1221_NOSE	soge-	soge-	s o g e	(its) nose	mcelhanon-1967	8020
+90897	dedua	1223_HEART	woso honduŋ-	woso_honduŋ-	w o s o + h o n d u ŋ	(its) heart	mcelhanon-1967	92
+90911	dedua	323_FAT_ORGANIC_SUBSTANCE	wokemaŋ-	wokemaŋ-	w o k e m a ŋ	(its) fat	mcelhanon-1967	8022
+90925	dedua	1333_NECK	ube-	ube-	u b e	its neck	mcelhanon-1967	7942
+90939	dedua	189_HAIR_BODY	dzowe-	dzowe-	d z o w e	(its) hair	mcelhanon-1967	8001
+90953	dedua	2101_BE_DEAD_OR_DIE	home-	home-	h o m e	(he) dies	mcelhanon-1967	7924
+90967	dedua	1409_SEE	nen-	nen-	n e n	(he) sees me	mcelhanon-1967	7904
+90981	dedua	1585_SLEEP	fe-	fe-	f e	(he) sleeps	mcelhanon-1967	7993
+90995	dedua	1336_EAT	ne-	ne-	n e	(he) eats	mcelhanon-1967	8319
+91009	dedua	1403_BITE	ki-	ki-	k i	(he) bites it	mcelhanon-1967	7774
+91023	dedua	163_BLACK	dzadzu	dzadzu	d z a d z u	black	mcelhanon-1967	93
+91037	dedua	1425_GREEN	ârâŋbârik	ârâŋbârik	â/a r â/a ŋ b â/a r i k	green	mcelhanon-1967	7843
+91051	dedua	1335_WHITE	koŋak	koŋak	k o ŋ a k	white	mcelhanon-1967	94
+91065	dedua	156_RED	sak sak	sak_sak	s a k + s a k	red	mcelhanon-1967	95
+91079	dedua	1424_YELLOW	dzagea	dzagea	d z a g e a	yellow	mcelhanon-1967	96
+91093	dedua	1035_GOOD	gombuŋa	gombuŋa	g o m b u ŋ a	good	mcelhanon-1967	97
+91107	dedua	2272_HOT_OR_WARM	gerek	gerek	g e r e k	hot	mcelhanon-1967	7748
+91121	dedua	1231_NEW	gboria	gboria	g b o r i a	new	mcelhanon-1967	7815
+91135	dedua	1786_DRY_UP	kereŋ-	kereŋ-	k e r e ŋ	(it is) dry	mcelhanon-1967	7659
+91149	dedua	1287_COLD	moteŋa	moteŋa	m o t e ŋ a	cold	mcelhanon-1967	8004
+91163	dedua	1405_NAME	kiwa	kiwa	k i w a	(its) name	mcelhanon-1967	7691
+91177	dedua	1240_NOT	mi	mi	m i	not	mcelhanon-1967	8017
+91191	dedua	2102_BURN	dza-	dza-	d z a	(it) burns	mcelhanon-1967	7688
+91205	dedua	2457_PATH_OR_ROAD	siŋ	siŋ	s i ŋ	road	mcelhanon-1967	98
+91219	dedua	948_WATER	doku	doku	d o k u	water	mcelhanon-1967	7985
+91233	dedua	778_SMOKE_EXHAUST	husuk	husuk	h u s u k	smoke	mcelhanon-1967	8035
+91247	dedua	1433_HIT	kpe-	kpe-	k p e	(he) hit him	mcelhanon-1967	7983
+91261	dedua	1410_KNOW_SOMETHING	negen-	negen-	n e g e n	(he) knows	mcelhanon-1967	99
+91275	dedua	671_SAND	moŋgeŋ	moŋgeŋ	m o ŋ g e ŋ	sand	mcelhanon-1967	7833
+91289	dedua	857_STONE	hok	hok	h o k	stone	mcelhanon-1967	7765
+91303	dedua	639_MOUNTAIN	tiki	tiki	t i k i	mountain	mcelhanon-1967	7858
+91317	dedua	646_ASH	hama	hama	h a m a	ashes	mcelhanon-1967	7784
+91331	dedua	1228_EARTH_SOIL	bânek	bânek	b â/a n e k	earth	mcelhanon-1967	7804
+91345	dedua	628_LEAF	mari-	mari-	m a r i	(its) leaf	mcelhanon-1967	100
+91359	dedua	906_TREE	ik	ik	i k	tree	mcelhanon-1967	8021
+91373	dedua	670_ROOT	gode-	gode-	g o d e	(its) root	mcelhanon-1967	7769
+91387	dedua	714_SEED	honduŋ-	honduŋ-	h o n d u ŋ	(its) seed	mcelhanon-1967	7791
+91401	dedua	1247_EAR	hedza-	hedza-	h e d z a	(its) ear	mcelhanon-1967	7868
+91415	dedua	1392_LOUSE	yomiŋ	yomiŋ	j o m i ŋ	louse	mcelhanon-1967	7682
+91429	dedua	2009_DOG	kasi	kasi	k a s i	dog	mcelhanon-1967	8013
+91443	dedua	937_BIRD	neŋ	neŋ	n e ŋ	bird	mcelhanon-1967	13474
+91457	dedua	962_WOMAN	ŋak	ŋak	ŋ a k	woman	mcelhanon-1967	7724
+91471	dedua	1554_MAN	ŋik	ŋik	ŋ i k	man	mcelhanon-1967	7700
+91485	dedua	946_BLOOD	sawa	sawa	s a w a	(its) blood	mcelhanon-1967	8029
+91499	dedua	2121_ARM_OR_HAND	mari	mari	m a r i	(his) hand	mcelhanon-1967	7677
+91513	dedua	1205_TONGUE	nameŋ-	nameŋ-	n a m e ŋ	(its) tongue	mcelhanon-1967	8009
+91527	dedua	1380_TOOTH	enar-	enar-	e n a r	(its) tooth	mcelhanon-1967	101
+91541	dedua	2098_FOOT_OR_LEG	hani-	hani-	h a n i	(its) foot	mcelhanon-1967	7725
+91555	dedua	1220_TAIL	dzi-	dzi-	d z i	(its) tail	mcelhanon-1967	7887
+91569	dedua	634_MEAT	fusi-	fusi-	f u s i	(its) meat	mcelhanon-1967	7955
+91583	dedua	1248_EYE	kiwa	kiwa	k i w a	(its) eye	mcelhanon-1967	7864
+91597	dedua	763_SKIN	sebi-	sebi-	s e b i	(its) skin	mcelhanon-1967	7959
+91611	dedua	1256_HEAD	fufu-	fufu-	f u f u	(its) head	mcelhanon-1967	102
+91625	dedua	1394_BONE	sir-	sir-	s i r	(its) bone	mcelhanon-1967	7962
+91639	dedua	262_HE_OR_SHE_OR_IT	ye	ye	j e	he	mcelhanon-1967	7872
+91653	dedua	2312_YOU_OBLIQUE_CASE_OF_YOU	ŋeni	ŋeni	ŋ e n i	ye	mcelhanon-1967	7963
+91667	dedua	817_THEY	yeni	yeni	j e n i	they	mcelhanon-1967	7950
+91681	dedua	1237_WHERE	dahae	dahae	d a h a e	where	mcelhanon-1967	103
+91695	dedua	1239_HOW	dafi	dafi	d a f i	how	mcelhanon-1967	104
+91709	dedua	1577_AND	ama	ama	a m a	and	mcelhanon-1967	7778
+91723	dedua	1937_THERE	edi	edi	e d i	there	mcelhanon-1967	7706
+91737	dedua	1019_RIGHT	foi	foi	f o i	right (side)	mcelhanon-1967	7797
+91751	dedua	244_LEFT	kana	kana	k a n a	left side	mcelhanon-1967	7714
+91765	dedua	1448_HOLD	me-	me-	m e	(he) holds	mcelhanon-1967	7786
+91779	dedua	1280_FALL	ma-	ma-	m a	(he) falls	mcelhanon-1967	7713
+91793	dedua	1588_TURN	meren-	meren-	m e r e n	(he) turns	mcelhanon-1967	7782
+91807	dedua	1456_THROW	wa-	wa-	w a	(he) throws:	mcelhanon-1967	7851
+91821	dedua	1455_PULL	tae-	tae-	t a e	(he) pulls	mcelhanon-1967	105
+91835	dedua	1452_PUSH	tuŋge-	tuŋge-	t u ŋ g e	(he) pushes	mcelhanon-1967	7875
+91849	dedua	1453_WASH	dzuak-	dzuak-	d z u a k	(he) washes	mcelhanon-1967	7989
+91863	dedua	1418_DIG	usu-	usu-	u s u	(he) digs	mcelhanon-1967	7882
+91877	dedua	1432_CUT	herege-	herege-	h e r e g e	(he) cuts	mcelhanon-1967	7969
+91891	dedua	1241_SOME	go-	go-	g o	some	mcelhanon-1967	7885
+91905	dedua	1645_SHORT	wegen	wegen	w e g e n	short	mcelhanon-1967	106
+91919	dedua	960_WIND	firaŋ	firaŋ	f i r a ŋ	wind	mcelhanon-1967	107
+91933	dedua	1732_SKY	kurumeŋ	kurumeŋ	k u r u m e ŋ	sky	mcelhanon-1967	7927
+91947	dedua	2_DUST	wondok	wondok	w o n d o k	dust	mcelhanon-1967	108
+91961	dedua	624_LAKE	dzokoŋ	dzokoŋ	d z o k o ŋ	lake	mcelhanon-1967	7793
+91975	dedua	239_FLOWER	ori-	ori-	o r i	(its) flower	mcelhanon-1967	7684
+91989	dedua	1507_FRUIT	forak-	forak-	f o r a k	(its) fruit	mcelhanon-1967	7761
+92003	dedua	1295_STICK	gbaru	gbaru	g b a r u	stick	mcelhanon-1967	7720
+92017	dedua	1219_WORM	gbosu	gbosu	g b o s u	worm	mcelhanon-1967	7695
+92031	dedua	730_SNAKE	bâidzok	bâidzok	b â/a i d z o k	snake	mcelhanon-1967	109
+92045	dedua	619_ANIMAL	yaŋ	yaŋ	j a ŋ	animal	mcelhanon-1967	7998
+92059	dedua	867_backofhand	nade-	nade-	n a d e	(its) back	mcelhanon-1967	110
+92073	dedua	1257_WING	kpegaŋ-	kpegaŋ-	k p e g a ŋ	(its) wing	mcelhanon-1967	7853
+92087	dedua	1407_BREATHE	naka-	naka-	n a k a	(its) breath	mcelhanon-1967	7675
+92101	dedua	1278_VOMIT	urun-	urun-	u r u n	(he) vomits	mcelhanon-1967	111
+92115	dedua	1355_LAUGH	dzomore-	dzomore-	d z o m o r e	(he) laughs	mcelhanon-1967	7975
+92129	dedua	1421_SUCK	abere-	abere-	a b e r e	(he) sucks	mcelhanon-1967	112
+92143	dedua	1839_CRY	kiak-	kiak-	k i a k	(he) cries	mcelhanon-1967	113
+92157	dedua	1440_SPIT	sofok-	sofok-	s o f o k	(he) spits	mcelhanon-1967	7839
+92171	dedua	725_OLD_PERSON	esea	esea	e s e a	old	mcelhanon-1967	114
+92185	dedua	2272_HOT_OR_WARM	hâroŋa	hâroŋa	h â/a r o ŋ a	warm	mcelhanon-1967	7960
+92199	dedua	1397_DULL	enarakpak	enarakpak	e n a r a k p a k	dull	mcelhanon-1967	115
+92213	dedua	1262_BROTHER	dar-	dar-	d a r	(his) brother	mcelhanon-1967	7827
+92227	dedua	1263_SISTER	nawiŋ-	nawiŋ-	n a w i ŋ	(his) sister	mcelhanon-1967	116
+92241	dedua	1217_FATHER	mam-	mam-	m a m	(his) father	mcelhanon-1967	1192
+92255	dedua	1216_MOTHER	neŋgak-	neŋgak-	n e ŋ g a k	(his) mother	mcelhanon-1967	8028
+92269	dedua	1457_SEW	kpebi-	kpebi-	k p e b i	(she) sews	mcelhanon-1967	8032
+92283	dedua	1218_ROPE	witik	witik	w i t i k	rope	mcelhanon-1967	117
+92297	dedua	1172_SHOOT	wedek-	wedek-	w e d e k	(he) shoots	mcelhanon-1967	8025
+92311	dedua	1420_COUNT	âso-	âso-	â/a s o	(he) counts	mcelhanon-1967	7697
+92325	dedua	1413_PLAY	ariak	ariak	a r i a k	(they) play	mcelhanon-1967	8027
+92339	dedua	1895_CLOTHES	kambaŋ	kambaŋ	k a m b a ŋ	clothing	mcelhanon-1967	118
+92353	dedua	1086_WORK_ACTIVITY	ua	ua	u a	work	mcelhanon-1967	119
+92367	dedua	945_SPEAR	damu	damu	d a m u	spear	mcelhanon-1967	7710
+92381	dedua	175_BLOW_OF_WIND	fifi-	fifi-	f i f i	(he) blows	mcelhanon-1967	13644
+92395	dedua	1573_SWELL	siwiŋe-	siwiŋe-	s i w i ŋ e	(it) swells	mcelhanon-1967	7900
+90457	kube	1209_I	ni	ni	n i	I	mcelhanon-1967	7844
+90471	kube	1215_THOU	gi	gi	g i	thou	mcelhanon-1967	7808
+90485	kube	1212_WE	nini	nini	n i n i	we	mcelhanon-1967	8016
+90499	kube	1235_WHO	moŋ	moŋ	m o ŋ	who	mcelhanon-1967	7978
+90513	kube	1236_WHAT	nemak	nemak	n e m a k	what	mcelhanon-1967	7757
+90527	kube	78_THAT	yo	yo	j o	that	mcelhanon-1967	7899
+90541	kube	1214_THIS	i	i	i	this	mcelhanon-1967	7940
+90555	kube	1493_ONE	momakgu	momakgu	m o m a k g u	one	mcelhanon-1967	7879
+90569	kube	1498_TWO	rehek	rehek	r e h e k	two	mcelhanon-1967	7686
+90583	kube	1458_SAY	dze-	dze-	d z e	(he) says	mcelhanon-1967	7824
+90597	kube	1313_MOON	komoŋ	komoŋ	k o m o ŋ	moon	mcelhanon-1967	7916
+90611	kube	1395_ROUND	rerek rerek	rerek_rerek	r e r e k + r e r e k	round	mcelhanon-1967	7819
+90625	kube	1429_FULL	koia kpe-	koia_kpe-	k o i a + k p e	(it is) full	mcelhanon-1967	7909
+90639	kube	1371_KNEE	simiŋ-	simiŋ-	s i m i ŋ	(his) knee	mcelhanon-1967	7812
+90653	kube	72_CLAW	boŋsewe-	boŋsewe-	b o ŋ s e w e	(its) claw	mcelhanon-1967	7920
+90667	kube	1402_BREAST	namu-	namu-	n a m u	breast	mcelhanon-1967	7830
+90681	kube	1446_COME	ere-	ere-	e r e	(he) comes	mcelhanon-1967	7919
+90695	kube	1416_SIT	tak-	tak-	t a k	(he) sits	mcelhanon-1967	7946
+90709	kube	1447_GIVE	nen-	nen-	n e n	(he) gives me	mcelhanon-1967	7895
+90723	kube	1442_STAND	nan-	nan-	n a n	(he) stands	mcelhanon-1967	7670
+90737	kube	98_ALL	mokdzoŋ	mokdzoŋ	m o k d z o ŋ	all	mcelhanon-1967	120
+90751	kube	1198_MANY	sasara	sasara	s a s a r a	many	mcelhanon-1967	7668
+90765	kube	1233_NIGHT	siŋi	siŋi	s i ŋ i	night	mcelhanon-1967	7744
+90779	kube	1203_LONG	horua	horua	h o r u a	long	mcelhanon-1967	7663
+90793	kube	1202_BIG	kuneŋ	kuneŋ	k u n e ŋ	big	mcelhanon-1967	7742
+90807	kube	1246_SMALL	komoga	komoga	k o m o g a	small	mcelhanon-1967	7662
+90821	kube	1430_STAR	sikiru	sikiru	s i k i r u	star	mcelhanon-1967	7739
+90835	kube	1343_SUN	kaiwe	kaiwe	k a i w e	sun	mcelhanon-1967	7754
+90849	kube	1489_CLOUD	hosesu	hosesu	h o s e s u	cloud	mcelhanon-1967	7678
+90863	kube	2108_RAINING_OR_RAIN	kia	kia	k i a	rain	mcelhanon-1967	7897
+90877	kube	1251_BELLY	tomeŋ-	tomeŋ-	t o m e ŋ	(its) belly	mcelhanon-1967	121
+90891	kube	1221_NOSE	sere-	sere-	s e r e	(its) nose	mcelhanon-1967	122
+90905	kube	1223_HEART	webogokme-	webogokme-	w e b o g o k m e	(its) heart	mcelhanon-1967	123
+90919	kube	323_FAT_ORGANIC_SUBSTANCE	harek	harek	h a r e k	(its) fat	mcelhanon-1967	8023
+90933	kube	1333_NECK	ebasigla	ebasigla	e b a s i g l a	its neck	mcelhanon-1967	124
+90947	kube	189_HAIR_BODY	dzu-	dzu-	d z u	(its) hair	mcelhanon-1967	8000
+90961	kube	2101_BE_DEAD_OR_DIE	humu-	humu-	h u m u	(he) dies	mcelhanon-1967	7924
+90975	kube	1409_SEE	ni-	ni-	n i	(he) sees me	mcelhanon-1967	7905
+90989	kube	1585_SLEEP	fe-	fe-	f e	(he) sleeps	mcelhanon-1967	7993
+91003	kube	1336_EAT	ne-	ne-	n e	(he) eats	mcelhanon-1967	8319
+91017	kube	1403_BITE	ki-	ki-	k i	(he) bites it	mcelhanon-1967	7774
+91031	kube	163_BLACK	dzapera	dzapera	d z a p e r a	black	mcelhanon-1967	7821
+91045	kube	1425_GREEN	gerik meria	gerik_meria	g e r i k + m e r i a	green	mcelhanon-1967	125
+91059	kube	1335_WHITE	rarak	rarak	r a r a k	white	mcelhanon-1967	7707
+91073	kube	156_RED	pesia	pesia	p e s i a	red	mcelhanon-1967	7802
+91087	kube	1424_YELLOW	gbaok gbaok	gbaok_gbaok	g b a o k + g b a o k	yellow	mcelhanon-1967	7733
+91101	kube	1035_GOOD	fia	fia	f i a	good	mcelhanon-1967	7773
+91115	kube	2272_HOT_OR_WARM	gerik	gerik	g e r i k	hot	mcelhanon-1967	7748
+91129	kube	1231_NEW	gberia	gberia	g b e r i a	new	mcelhanon-1967	7815
+91143	kube	1786_DRY_UP	irege-	irege-	i r e g e	(it is) dry	mcelhanon-1967	126
+91157	kube	1287_COLD	sageŋa	sageŋa	s a g e ŋ a	cold	mcelhanon-1967	8003
+91171	kube	1405_NAME	kiwa	kiwa	k i w a	(its) name	mcelhanon-1967	7691
+91185	kube	1240_NOT	munda	munda	m u n d a	not	mcelhanon-1967	7794
+91199	kube	2102_BURN	dze-	dze-	d z e	(it) burns	mcelhanon-1967	7688
+91213	kube	2457_PATH_OR_ROAD	hena	hena	h e n a	road	mcelhanon-1967	8038
+91227	kube	948_WATER	doku	doku	d o k u	water	mcelhanon-1967	7985
+91241	kube	778_SMOKE_EXHAUST	hofak	hofak	h o f a k	smoke	mcelhanon-1967	8035
+91255	kube	1433_HIT	kpe-	kpe-	k p e	(he) hit him	mcelhanon-1967	7983
+91269	kube	1410_KNOW_SOMETHING	nin-	nin-	n i n	(he) knows	mcelhanon-1967	7655
+91283	kube	671_SAND	sakesa	sakesa	s a k e s a	sand	mcelhanon-1967	7832
+91297	kube	857_STONE	gokmea	gokmea	g o k m e a	stone	mcelhanon-1967	8319
+91311	kube	639_MOUNTAIN	boŋa	boŋa	b o ŋ a	mountain	mcelhanon-1967	7860
+91325	kube	646_ASH	homa	homa	h o m a	ashes	mcelhanon-1967	7784
+91339	kube	1228_EARTH_SOIL	baek	baek	b a e k	earth	mcelhanon-1967	7804
+91353	kube	628_LEAF	hareŋ-	hareŋ-	h a r e ŋ	(its) leaf	mcelhanon-1967	7891
+91367	kube	906_TREE	ik	ik	i k	tree	mcelhanon-1967	8021
+91381	kube	670_ROOT	gete-	gete-	g e t e	(its) root	mcelhanon-1967	7769
+91395	kube	714_SEED	gokme-	gokme-	g o k m e	(its) seed	mcelhanon-1967	127
+91409	kube	1247_EAR	gedza-	gedza-	g e d z a	(its) ear	mcelhanon-1967	7868
+91423	kube	1392_LOUSE	imin	imin	i m i n	louse	mcelhanon-1967	7682
+91437	kube	2009_DOG	kadzu	kadzu	k a d z u	dog	mcelhanon-1967	8013
+91451	kube	937_BIRD	nei	nei	n e i	bird	mcelhanon-1967	13474
+91465	kube	962_WOMAN	embak	embak	e m b a k	woman	mcelhanon-1967	7723
+91479	kube	1554_MAN	ik	ik	i k	man	mcelhanon-1967	7700
+91493	kube	946_BLOOD	sawa	sawa	s a w a	(its) blood	mcelhanon-1967	8029
+91507	kube	2121_ARM_OR_HAND	meri-	meri-	m e r i	(his) hand	mcelhanon-1967	7677
+91521	kube	1205_TONGUE	edzeraŋ-	edzeraŋ-	e d z e r a ŋ	(its) tongue	mcelhanon-1967	8008
+91535	kube	1380_TOOTH	dzegl-	dzegl-	d z e g l	(its) tooth	mcelhanon-1967	8030
+91549	kube	2098_FOOT_OR_LEG	heni-	heni-	h e n i	(its) foot	mcelhanon-1967	7725
+91563	kube	1220_TAIL	dzi-	dzi-	d z i	(its) tail	mcelhanon-1967	7887
+91577	kube	634_MEAT	busi-	busi-	b u s i	(its) meat	mcelhanon-1967	7955
+91591	kube	1248_EYE	kiwa	kiwa	k i w a	(its) eye	mcelhanon-1967	7864
+91605	kube	763_SKIN	sewira	sewira	s e w i r a	(its) skin	mcelhanon-1967	7959
+91619	kube	1256_HEAD	ogu-	ogu-	o g u	(its) head	mcelhanon-1967	128
+91633	kube	1394_BONE	sigl-	sigl-	s i g l	(its) bone	mcelhanon-1967	7962
+91647	kube	262_HE_OR_SHE_OR_IT	i	i	i	he	mcelhanon-1967	7872
+91661	kube	2312_YOU_OBLIQUE_CASE_OF_YOU	ini	ini	i n i	ye	mcelhanon-1967	7963
+91675	kube	817_THEY	iŋeŋ	iŋeŋ	i ŋ e ŋ	they	mcelhanon-1967	7949
+91689	kube	1237_WHERE	dimia	dimia	d i m i a	where	mcelhanon-1967	7855
+91703	kube	1239_HOW	deik	deik	d e i k	how	mcelhanon-1967	129
+91717	kube	1577_AND	waŋu	waŋu	w a ŋ u	and	mcelhanon-1967	7777
+91731	kube	1937_THERE	eri	eri	e r i	there	mcelhanon-1967	7706
+91745	kube	1019_RIGHT	foi	foi	f o i	right (side)	mcelhanon-1967	7797
+91759	kube	244_LEFT	kana	kana	k a n a	left side	mcelhanon-1967	7714
+91773	kube	1448_HOLD	me-	me-	m e	(he) holds	mcelhanon-1967	7786
+91787	kube	1280_FALL	ma-	ma-	m a	(he) falls	mcelhanon-1967	7713
+91801	kube	1588_TURN	meren-	meren-	m e r e n	(he) turns	mcelhanon-1967	7782
+91815	kube	1456_THROW	wai-	wai-	w a i	(he) throws:	mcelhanon-1967	7851
+91829	kube	1455_PULL	fegle-	fegle-	f e g l e	(he) pulls	mcelhanon-1967	130
+91843	kube	1452_PUSH	igokge-	igokge-	i g o k g e	(he) pushes	mcelhanon-1967	131
+91857	kube	1453_WASH	dzuak-	dzuak-	d z u a k	(he) washes	mcelhanon-1967	7989
+91871	kube	1418_DIG	oro-	oro-	o r o	(he) digs	mcelhanon-1967	132
+91885	kube	1432_CUT	heri-	heri-	h e r i	(he) cuts	mcelhanon-1967	7969
+91899	kube	1241_SOME	tose-	tose-	t o s e	some	mcelhanon-1967	7886
+91913	kube	1645_SHORT	hotoŋ	hotoŋ	h o t o ŋ	short	mcelhanon-1967	7944
+91927	kube	960_WIND	rufuk	rufuk	r u f u k	wind	mcelhanon-1967	7852
+91941	kube	1732_SKY	kuglumeŋ	kuglumeŋ	k u g l u m e ŋ	sky	mcelhanon-1967	7927
+91955	kube	2_DUST	iwai	iwai	i w a i	dust	mcelhanon-1967	7966
+91969	kube	624_LAKE	dzekeŋ	dzekeŋ	d z e k e ŋ	lake	mcelhanon-1967	7793
+91983	kube	239_FLOWER	dzuri-	dzuri-	d z u r i	(its) flower	mcelhanon-1967	7684
+91997	kube	1507_FRUIT	fer-	fer-	f e r	(its) fruit	mcelhanon-1967	7761
+92011	kube	1295_STICK	gbaru	gbaru	g b a r u	stick	mcelhanon-1967	7720
+92025	kube	1219_WORM	gbosu	gbosu	g b o s u	worm	mcelhanon-1967	7695
+92039	kube	730_SNAKE	mokoreŋ	mokoreŋ	m o k o r e ŋ	snake	mcelhanon-1967	7718
+92053	kube	619_ANIMAL	yaŋ	yaŋ	j a ŋ	animal	mcelhanon-1967	7998
+92067	kube	867_backofhand	gemagi-	gemagi-	g e m a g i	(its) back	mcelhanon-1967	7736
+92081	kube	1257_WING	kpegan-	kpegan-	k p e g a n	(its) wing	mcelhanon-1967	7853
+92095	kube	1407_BREATHE	wesese	wesese	w e s e s e	(its) breath	mcelhanon-1967	7673
+92109	kube	1278_VOMIT	ron-	ron-	r o n	(he) vomits	mcelhanon-1967	7750
+92123	kube	1355_LAUGH	desi-	desi-	d e s i	(he) laughs	mcelhanon-1967	133
+92137	kube	1421_SUCK	bitsi-	bitsi-	b i ts i	(he) sucks	mcelhanon-1967	7922
+92151	kube	1839_CRY	siak-	siak-	s i a k	(he) cries	mcelhanon-1967	7929
+92165	kube	1440_SPIT	sofok-	sofok-	s o f o k	(he) spits	mcelhanon-1967	7839
+92179	kube	725_OLD_PERSON	wahara	wahara	w a h a r a	old	mcelhanon-1967	7870
+92193	kube	2272_HOT_OR_WARM	fokŋea	fokŋea	f o k ŋ e a	warm	mcelhanon-1967	134
+92207	kube	1397_DULL	dzirakpahak	dzirakpahak	d z i r a k p a h a k	dull	mcelhanon-1967	7912
+92221	kube	1262_BROTHER	dar-	dar-	d a r	(his) brother	mcelhanon-1967	7827
+92235	kube	1263_SISTER	naoŋ-	naoŋ-	n a o ŋ	(his) sister	mcelhanon-1967	7849
+92249	kube	1217_FATHER	maŋgi-	maŋgi-	m a ŋ g i	(his) father	mcelhanon-1967	135
+92263	kube	1216_MOTHER	neŋge-	neŋge-	n e ŋ g e	(his) mother	mcelhanon-1967	8028
+92277	kube	1457_SEW	kpewi-	kpewi-	k p e w i	(she) sews	mcelhanon-1967	8032
+92291	kube	1218_ROPE	hisa	hisa	h i s a	rope	mcelhanon-1967	7694
+92305	kube	1172_SHOOT	wirik-	wirik-	w i r i k	(he) shoots	mcelhanon-1967	8025
+92319	kube	1420_COUNT	oron-	oron-	o r o n	(he) counts	mcelhanon-1967	7698
+92333	kube	1413_PLAY	agliak	agliak	a g l i a k	(they) play	mcelhanon-1967	8027
+92347	kube	1895_CLOTHES	obo	obo	o b o	clothing	mcelhanon-1967	7653
+92361	kube	1086_WORK_ACTIVITY	ai	ai	a i	work	mcelhanon-1967	136
+92375	kube	945_SPEAR	regik	regik	r e g i k	spear	mcelhanon-1967	7838
+92389	kube	175_BLOW_OF_WIND	fi-	fi-	f i	(he) blows	mcelhanon-1967	13644
+92403	kube	1573_SWELL	boŋge-	boŋge-	b o ŋ g e	(it) swells	mcelhanon-1967	7945
+90458	tobo	1209_I	ni	ni	n i	I	mcelhanon-1967	7844
+90472	tobo	1215_THOU	gi	gi	g i	thou	mcelhanon-1967	7808
+90486	tobo	1212_WE	nini	nini	n i n i	we	mcelhanon-1967	8016
+90500	tobo	1235_WHO	mâŋ	mâŋ	m â/a ŋ	who	mcelhanon-1967	7978
+90514	tobo	1236_WHAT	nâmat	nâmat	n â/a m a t	what	mcelhanon-1967	7757
+90528	tobo	78_THAT	mi	mi	m i	that	mcelhanon-1967	7704
+90542	tobo	1214_THIS	mu	mu	m u	this	mcelhanon-1967	7938
+90556	tobo	1493_ONE	mohok	mohok	m o h o k	one	mcelhanon-1967	7878
+90570	tobo	1498_TWO	râhât	râhât	r â/a h â/a t	two	mcelhanon-1967	7686
+90584	tobo	1458_SAY	dzi-	dzi-	d z i	(he) says	mcelhanon-1967	7824
+90598	tobo	1313_MOON	kombol	kombol	k o m b o l	moon	mcelhanon-1967	7916
+90612	tobo	1395_ROUND	koroŋ koroŋ	koroŋ_koroŋ	k o r o ŋ + k o r o ŋ	round	mcelhanon-1967	7818
+90626	tobo	1429_FULL	kâia kpe-	kâia_kpe-	k â/a i a + k p e	(it is) full	mcelhanon-1967	7909
+90640	tobo	1371_KNEE	simin-	simin-	s i m i n	(his) knee	mcelhanon-1967	7812
+90654	tobo	72_CLAW	kawân-	kawân-	k a w â/a n	(its) claw	mcelhanon-1967	137
+90668	tobo	1402_BREAST	namo-	namo-	n a m o	breast	mcelhanon-1967	7830
+90682	tobo	1446_COME	ka-	ka-	k a	(he) comes	mcelhanon-1967	7918
+90696	tobo	1416_SIT	ta-	ta-	t a	(he) sits	mcelhanon-1967	7946
+90710	tobo	1447_GIVE	nem-	nem-	n e m	(he) gives me	mcelhanon-1967	7895
+90724	tobo	1442_STAND	nan-	nan-	n a n	(he) stands	mcelhanon-1967	7670
+90738	tobo	98_ALL	eŋalek	eŋalek	e ŋ a l e k	all	mcelhanon-1967	138
+90752	tobo	1198_MANY	sesia	sesia	s e s i a	many	mcelhanon-1967	7668
+90766	tobo	1233_NIGHT	siŋiaha	siŋiaha	s i ŋ i a h a	night	mcelhanon-1967	7744
+90780	tobo	1203_LONG	kârua	kârua	k â/a r u a	long	mcelhanon-1967	7663
+90794	tobo	1202_BIG	baia	baia	b a i a	big	mcelhanon-1967	139
+90808	tobo	1246_SMALL	komora	komora	k o m o r a	small	mcelhanon-1967	7662
+90822	tobo	1430_STAR	sekelo	sekelo	s e k e l o	star	mcelhanon-1967	7739
+90836	tobo	1343_SUN	kaiwe	kaiwe	k a i w e	sun	mcelhanon-1967	7754
+90850	tobo	1489_CLOUD	kosu	kosu	k o s u	cloud	mcelhanon-1967	7678
+90864	tobo	2108_RAINING_OR_RAIN	kia	kia	k i a	rain	mcelhanon-1967	7897
+90878	tobo	1251_BELLY	kerap-	kerap-	k e r a p	(its) belly	mcelhanon-1967	7980
+90892	tobo	1221_NOSE	sâhâri-	sâhâri-	s â/a h â/a r i	(its) nose	mcelhanon-1967	8019
+90906	tobo	1223_HEART	wei bât-	wei_bât-	w e i + b â/a t	(its) heart	mcelhanon-1967	7984
+90920	tobo	323_FAT_ORGANIC_SUBSTANCE	kalak-	kalak-	k a l a k	(its) fat	mcelhanon-1967	8023
+90934	tobo	1333_NECK	dzel-	dzel-	d z e l	its neck	mcelhanon-1967	7943
+90948	tobo	189_HAIR_BODY	dzu-	dzu-	d z u	(its) hair	mcelhanon-1967	8000
+90962	tobo	2101_BE_DEAD_OR_DIE	kâmu-	kâmu-	k â/a m u	(he) dies	mcelhanon-1967	7924
+90976	tobo	1409_SEE	nen-	nen-	n e n	(he) sees me	mcelhanon-1967	7904
+90990	tobo	1585_SLEEP	gâohe-	gâohe-	g â/a o h e	(he) sleeps	mcelhanon-1967	140
+91004	tobo	1336_EAT	ne-	ne-	n e	(he) eats	mcelhanon-1967	8319
+91018	tobo	1403_BITE	ki-	ki-	k i	(he) bites it	mcelhanon-1967	7774
+91032	tobo	163_BLACK	dzapala	dzapala	d z a p a l a	black	mcelhanon-1967	7821
+91046	tobo	1425_GREEN	asoŋa	asoŋa	a s o ŋ a	green	mcelhanon-1967	7751
+91060	tobo	1335_WHITE	lalap	lalap	l a l a p	white	mcelhanon-1967	7707
+91074	tobo	156_RED	pâsâha	pâsâha	p â/a s â/a h a	red	mcelhanon-1967	7802
+91088	tobo	1424_YELLOW	gbaot gbaot	gbaot_gbaot	g b a o t + g b a o t	yellow	mcelhanon-1967	7733
+91102	tobo	1035_GOOD	eha	eha	e h a	good	mcelhanon-1967	141
+91116	tobo	2272_HOT_OR_WARM	girua	girua	g i r u a	hot	mcelhanon-1967	7748
+91130	tobo	1231_NEW	gbilik	gbilik	g b i l i k	new	mcelhanon-1967	7815
+91144	tobo	1786_DRY_UP	dzipkâ-	dzipkâ-	d z i p k â/a	(it is) dry	mcelhanon-1967	7661
+91158	tobo	1287_COLD	saŋgeŋ	saŋgeŋ	s a ŋ g e ŋ	cold	mcelhanon-1967	8003
+91172	tobo	1405_NAME	kiwa	kiwa	k i w a	(its) name	mcelhanon-1967	7691
+91186	tobo	1240_NOT	mândâ	mândâ	m â/a n d â/a	not	mcelhanon-1967	7794
+91200	tobo	2102_BURN	dze-	dze-	d z e	(it) burns	mcelhanon-1967	7688
+91214	tobo	2457_PATH_OR_ROAD	kâna	kâna	k â/a n a	road	mcelhanon-1967	8038
+91228	tobo	948_WATER	duku	duku	d u k u	water	mcelhanon-1967	7985
+91242	tobo	778_SMOKE_EXHAUST	kasak	kasak	k a s a k	smoke	mcelhanon-1967	8035
+91256	tobo	1433_HIT	kpe-	kpe-	k p e	(he) hit him	mcelhanon-1967	7983
+91270	tobo	1410_KNOW_SOMETHING	nin-	nin-	n i n	(he) knows	mcelhanon-1967	7655
+91284	tobo	671_SAND	sak	sak	s a k	sand	mcelhanon-1967	7832
+91298	tobo	857_STONE	baŋa	baŋa	b a ŋ a	stone	mcelhanon-1967	142
+91312	tobo	639_MOUNTAIN	bohoŋa	bohoŋa	b o h o ŋ a	mountain	mcelhanon-1967	7860
+91326	tobo	646_ASH	kama	kama	k a m a	ashes	mcelhanon-1967	7784
+91340	tobo	1228_EARTH_SOIL	bait	bait	b a i t	earth	mcelhanon-1967	7804
+91354	tobo	628_LEAF	karem-	karem-	k a r e m	(its) leaf	mcelhanon-1967	7891
+91368	tobo	906_TREE	ip	ip	i p	tree	mcelhanon-1967	8021
+91382	tobo	670_ROOT	ânde-	ânde-	â/a n d e	(its) root	mcelhanon-1967	7770
+91396	tobo	714_SEED	gopi-	gopi-	g o p i	(its) seed	mcelhanon-1967	143
+91410	tobo	1247_EAR	kesap-	kesap-	k e s a p	(its) ear	mcelhanon-1967	7868
+91424	tobo	1392_LOUSE	imin	imin	i m i n	louse	mcelhanon-1967	7682
+91438	tobo	2009_DOG	kiam	kiam	k i a m	dog	mcelhanon-1967	8012
+91452	tobo	937_BIRD	ni	ni	n i	bird	mcelhanon-1967	13474
+91466	tobo	962_WOMAN	embat	embat	e m b a t	woman	mcelhanon-1967	7723
+91480	tobo	1554_MAN	ip	ip	i p	man	mcelhanon-1967	7700
+91494	tobo	946_BLOOD	sap-	sap-	s a p	(its) blood	mcelhanon-1967	8029
+91508	tobo	2121_ARM_OR_HAND	mârâ-	mârâ-	m â/a r â/a	(his) hand	mcelhanon-1967	7677
+91522	tobo	1205_TONGUE	edzelâm-	edzelâm-	e d z e l â/a m	(its) tongue	mcelhanon-1967	8008
+91536	tobo	1380_TOOTH	dzât-	dzât-	d z â/a t	(its) tooth	mcelhanon-1967	8030
+91550	tobo	2098_FOOT_OR_LEG	kani-	kani-	k a n i	(its) foot	mcelhanon-1967	7725
+91564	tobo	1220_TAIL	dzi-	dzi-	d z i	(its) tail	mcelhanon-1967	7887
+91578	tobo	634_MEAT	busi-	busi-	b u s i	(its) meat	mcelhanon-1967	7955
+91592	tobo	1248_EYE	kpat-	kpat-	k p a t	(its) eye	mcelhanon-1967	144
+91606	tobo	763_SKIN	sâwâl-	sâwâl-	s â/a w â/a l	(its) skin	mcelhanon-1967	7959
+91620	tobo	1256_HEAD	norok-	norok-	n o r o k	(its) head	mcelhanon-1967	7866
+91634	tobo	1394_BONE	sihit-	sihit-	s i h i t	(its) bone	mcelhanon-1967	7962
+91648	tobo	262_HE_OR_SHE_OR_IT	i	i	i	he	mcelhanon-1967	7872
+91662	tobo	2312_YOU_OBLIQUE_CASE_OF_YOU	ini	ini	i n i	ye	mcelhanon-1967	7963
+91676	tobo	817_THEY	ini	ini	i n i	they	mcelhanon-1967	7950
+91690	tobo	1237_WHERE	dumua	dumua	d u m u a	where	mcelhanon-1967	7855
+91704	tobo	1239_HOW	dasoŋ	dasoŋ	d a s o ŋ	how	mcelhanon-1967	145
+91718	tobo	1577_AND	wamu	wamu	w a m u	and	mcelhanon-1967	7777
+91732	tobo	1937_THERE	ere	ere	e r e	there	mcelhanon-1967	7706
+91746	tobo	1019_RIGHT	hâla	hâla	h â/a l a	right (side)	mcelhanon-1967	7796
+91760	tobo	244_LEFT	kpana	kpana	k p a n a	left side	mcelhanon-1967	7714
+91774	tobo	1448_HOLD	kasa-	kasa-	k a s a	(he) holds	mcelhanon-1967	146
+91788	tobo	1280_FALL	ma-	ma-	m a	(he) falls	mcelhanon-1967	7713
+91802	tobo	1588_TURN	meleŋ-	meleŋ-	m e l e ŋ	(he) turns	mcelhanon-1967	7782
+91816	tobo	1456_THROW	wai-	wai-	w a i	(he) throws:	mcelhanon-1967	7851
+91830	tobo	1455_PULL	mâsâl-	mâsâl-	m â/a s â/a l	(he) pulls	mcelhanon-1967	147
+91844	tobo	1452_PUSH	kpeati-	kpeati-	k p e a t i	(he) pushes	mcelhanon-1967	148
+91858	tobo	1453_WASH	dzua-	dzua-	d z u a	(he) washes	mcelhanon-1967	7989
+91872	tobo	1418_DIG	asâ-	asâ-	a s â/a	(he) digs	mcelhanon-1967	149
+91886	tobo	1432_CUT	kâri-	kâri-	k â/a r i	(he) cuts	mcelhanon-1967	7969
+91900	tobo	1241_SOME	tosat-	tosat-	t o s a t	some	mcelhanon-1967	7886
+91914	tobo	1645_SHORT	katoŋ	katoŋ	k a t o ŋ	short	mcelhanon-1967	7944
+91928	tobo	960_WIND	luhut	luhut	l u h u t	wind	mcelhanon-1967	7852
+91942	tobo	1732_SKY	kuremen	kuremen	k u r e m e n	sky	mcelhanon-1967	7927
+91956	tobo	2_DUST	iwai	iwai	i w a i	dust	mcelhanon-1967	7966
+91970	tobo	624_LAKE	dzokâm	dzokâm	d z o k â/a m	lake	mcelhanon-1967	7793
+91984	tobo	239_FLOWER	dzuri-	dzuri-	d z u r i	(its) flower	mcelhanon-1967	7684
+91998	tobo	1507_FRUIT	hal-	hal-	h a l	(its) fruit	mcelhanon-1967	7760
+92012	tobo	1295_STICK	bim	bim	b i m	stick	mcelhanon-1967	7721
+92026	tobo	1219_WORM	gusu	gusu	g u s u	worm	mcelhanon-1967	7695
+92040	tobo	730_SNAKE	kemala	kemala	k e m a l a	snake	mcelhanon-1967	150
+92054	tobo	619_ANIMAL	yaŋ	yaŋ	j a ŋ	animal	mcelhanon-1967	7998
+92068	tobo	867_backofhand	gemat-	gemat-	g e m a t	(its) back	mcelhanon-1967	7736
+92082	tobo	1257_WING	kpegam-	kpegam-	k p e g a m	(its) wing	mcelhanon-1967	7853
+92096	tobo	1407_BREATHE	wesi-	wesi-	w e s i	(its) breath	mcelhanon-1967	7673
+92110	tobo	1278_VOMIT	lon-	lon-	l o n	(he) vomits	mcelhanon-1967	7750
+92124	tobo	1355_LAUGH	gisihi-	gisihi-	g i s i h i	(he) laughs	mcelhanon-1967	7705
+92138	tobo	1421_SUCK	bitsi-	bitsi-	b i ts i	(he) sucks	mcelhanon-1967	7922
+92152	tobo	1839_CRY	sia-	sia-	s i a	(he) cries	mcelhanon-1967	7929
+92166	tobo	1440_SPIT	sotkân-	sotkân-	s o t k â/a n	(he) spits	mcelhanon-1967	151
+92180	tobo	725_OLD_PERSON	walaha	walaha	w a l a h a	old	mcelhanon-1967	7870
+92194	tobo	2272_HOT_OR_WARM	komotia	komotia	k o m o t i a	warm	mcelhanon-1967	152
+92208	tobo	1397_DULL	dzerakpa	dzerakpa	d z e r a k p a	dull	mcelhanon-1967	7912
+92222	tobo	1262_BROTHER	dat-	dat-	d a t	(his) brother	mcelhanon-1967	7827
+92236	tobo	1263_SISTER	nauŋ-	nauŋ-	n a u ŋ	(his) sister	mcelhanon-1967	7849
+92250	tobo	1217_FATHER	mam-	mam-	m a m	(his) father	mcelhanon-1967	1192
+92264	tobo	1216_MOTHER	naŋgi-	naŋgi-	n a ŋ g i	(his) mother	mcelhanon-1967	8028
+92278	tobo	1457_SEW	kpali-	kpali-	k p a l i	(she) sews	mcelhanon-1967	153
+92292	tobo	1218_ROPE	sâhap	sâhap	s â/a h a p	rope	mcelhanon-1967	154
+92306	tobo	1172_SHOOT	wiri-	wiri-	w i r i	(he) shoots	mcelhanon-1967	8025
+92320	tobo	1420_COUNT	oyon-	oyon-	o j o n	(he) counts	mcelhanon-1967	7698
+92334	tobo	1413_PLAY	ariat	ariat	a r i a t	(they) play	mcelhanon-1967	8027
+92348	tobo	1895_CLOTHES	owo	owo	o w o	clothing	mcelhanon-1967	7653
+92362	tobo	1086_WORK_ACTIVITY	ahai	ahai	a h a i	work	mcelhanon-1967	155
+92376	tobo	945_SPEAR	lihip	lihip	l i h i p	spear	mcelhanon-1967	7838
+92390	tobo	175_BLOW_OF_WIND	hi-	hi-	h i	(he) blows	mcelhanon-1967	13644
+92404	tobo	1573_SWELL	buŋgu-	buŋgu-	b u ŋ g u	(it) swells	mcelhanon-1967	7945
+90452	borong	1209_I	ni	ni	n i	I	mcelhanon-1967	7844
+90466	borong	1215_THOU	gi	gi	g i	thou	mcelhanon-1967	7808
+90480	borong	1212_WE	nono	nono	n o n o	we	mcelhanon-1967	8014
+90494	borong	1235_WHO	moŋ	moŋ	m o ŋ	who	mcelhanon-1967	7978
+90508	borong	1236_WHAT	namuŋak	namuŋak	n a m u ŋ a k	what	mcelhanon-1967	156
+90522	borong	78_THAT	lo	lo	l o	that	mcelhanon-1967	7899
+90536	borong	1214_THIS	i	i	i	this	mcelhanon-1967	7940
+90550	borong	1493_ONE	motooŋgok	motooŋgok	m o t oː ŋ g o k	one	mcelhanon-1967	157
+90564	borong	1498_TWO	woik	woik	w o i k	two	mcelhanon-1967	7685
+90578	borong	1458_SAY	dzo-	dzo-	d z o	(he) says	mcelhanon-1967	7824
+90592	borong	1313_MOON	koiŋ	koiŋ	k o i ŋ	moon	mcelhanon-1967	7915
+90606	borong	1395_ROUND	lilik lilik	lilik_lilik	l i l i k + l i l i k	round	mcelhanon-1967	7819
+90620	borong	1429_FULL	saa kpe-	saa_kpe-	s aː + k p e	(it is) full	mcelhanon-1967	158
+90634	borong	1371_KNEE	simiŋ-	simiŋ-	s i m i ŋ	(his) knee	mcelhanon-1967	7812
+90648	borong	72_CLAW	kosi-	kosi-	k o s i	(its) claw	mcelhanon-1967	159
+90662	borong	1402_BREAST	adzu-	adzu-	a d z u	breast	mcelhanon-1967	7831
+90676	borong	1446_COME	waa-	waa-	w aː	(he) comes	mcelhanon-1967	160
+90690	borong	1416_SIT	ra-	ra-	r a	(he) sits	mcelhanon-1967	7946
+90704	borong	1447_GIVE	non-	non-	n o n	(he) gives me	mcelhanon-1967	7895
+90718	borong	1442_STAND	nan-	nan-	n a n	(he) stands	mcelhanon-1967	7670
+90732	borong	98_ALL	kuuya	kuuya	k uː j a	all	mcelhanon-1967	161
+90746	borong	1198_MANY	mamagu	mamagu	m a m a g u	many	mcelhanon-1967	162
+90760	borong	1233_NIGHT	ketek	ketek	k e t e k	night	mcelhanon-1967	163
+90774	borong	1203_LONG	koriga	koriga	k o r i g a	long	mcelhanon-1967	7663
+90788	borong	1202_BIG	somata	somata	s o m a t a	big	mcelhanon-1967	164
+90802	borong	1246_SMALL	meraak	meraak	m e r aː k	small	mcelhanon-1967	165
+90816	borong	1430_STAR	seŋgeleu	seŋgeleu	s e ŋ g e l e u	star	mcelhanon-1967	7739
+90830	borong	1343_SUN	weeŋ	weeŋ	w eː ŋ	sun	mcelhanon-1967	166
+90844	borong	1489_CLOUD	koosuk	koosuk	k oː s u k	cloud	mcelhanon-1967	7678
+90858	borong	2108_RAINING_OR_RAIN	koŋ	koŋ	k o ŋ	rain	mcelhanon-1967	167
+90872	borong	1251_BELLY	keri-	keri-	k e r i	(its) belly	mcelhanon-1967	7980
+90886	borong	1221_NOSE	sewaŋ-	sewaŋ-	s e w a ŋ	(its) nose	mcelhanon-1967	168
+90900	borong	1223_HEART	bakota	bakota	b a k o t a	(its) heart	mcelhanon-1967	169
+90914	borong	323_FAT_ORGANIC_SUBSTANCE	kelega	kelega	k e l e g a	(its) fat	mcelhanon-1967	8023
+90928	borong	1333_NECK	are-	are-	a r e	its neck	mcelhanon-1967	170
+90942	borong	189_HAIR_BODY	dzui-	dzui-	d z u i	(its) hair	mcelhanon-1967	8000
+90956	borong	2101_BE_DEAD_OR_DIE	komu-	komu-	k o m u	(he) dies	mcelhanon-1967	7924
+90970	borong	1409_SEE	nii-	nii-	n iː	(he) sees me	mcelhanon-1967	7905
+90984	borong	1585_SLEEP	e-	e-	e	(he) sleeps	mcelhanon-1967	7993
+90998	borong	1336_EAT	ne-	ne-	n e	(he) eats	mcelhanon-1967	8319
+91012	borong	1403_BITE	ki-	ki-	k i	(he) bites it	mcelhanon-1967	7774
+91026	borong	163_BLACK	indzaŋa	indzaŋa	i n d z a ŋ a	black	mcelhanon-1967	7823
+91040	borong	1425_GREEN	asoŋ asoŋ	asoŋ_asoŋ	a s o ŋ + a s o ŋ	green	mcelhanon-1967	7751
+91054	borong	1335_WHITE	tataaŋkota	tataaŋkota	t a t aː ŋ k o t a	white	mcelhanon-1967	171
+91068	borong	156_RED	osoga	osoga	o s o g a	red	mcelhanon-1967	172
+91082	borong	1424_YELLOW	gogookota	gogookota	g o g oː k o t a	yellow	mcelhanon-1967	7732
+91096	borong	1035_GOOD	auaa	auaa	a u aː	good	mcelhanon-1967	173
+91110	borong	2272_HOT_OR_WARM	gerek	gerek	g e r e k	hot	mcelhanon-1967	7748
+91124	borong	1231_NEW	gbilia	gbilia	g b i l i a	new	mcelhanon-1967	7815
+91138	borong	1786_DRY_UP	tobori-	tobori-	t o b o r i	(it is) dry	mcelhanon-1967	174
+91152	borong	1287_COLD	oloŋa	oloŋa	o l o ŋ a	cold	mcelhanon-1967	175
+91166	borong	1405_NAME	dzakota	dzakota	d z a k o t a	(its) name	mcelhanon-1967	7692
+91180	borong	1240_NOT	mende	mende	m e n d e	not	mcelhanon-1967	7794
+91194	borong	2102_BURN	dze-	dze-	d z e	(it) burns	mcelhanon-1967	7688
+91208	borong	2457_PATH_OR_ROAD	kanak	kanak	k a n a k	road	mcelhanon-1967	8038
+91222	borong	948_WATER	apuk	apuk	a p u k	water	mcelhanon-1967	176
+91236	borong	778_SMOKE_EXHAUST	kaasok	kaasok	k aː s o k	smoke	mcelhanon-1967	8035
+91250	borong	1433_HIT	kpe-	kpe-	k p e	(he) hit him	mcelhanon-1967	7983
+91264	borong	1410_KNOW_SOMETHING	mo-	mo-	m o	(he) knows	mcelhanon-1967	7658
+91278	borong	671_SAND	sakasiŋ	sakasiŋ	s a k a s i ŋ	sand	mcelhanon-1967	7832
+91292	borong	857_STONE	dzamok	dzamok	d z a m o k	stone	mcelhanon-1967	177
+91306	borong	639_MOUNTAIN	baaŋa	baaŋa	b aː ŋ a	mountain	mcelhanon-1967	7860
+91320	borong	646_ASH	took	took	t oː k	ashes	mcelhanon-1967	178
+91334	borong	1228_EARTH_SOIL	namok	namok	n a m o k	earth	mcelhanon-1967	179
+91348	borong	628_LEAF	seŋ-	seŋ-	s e ŋ	(its) leaf	mcelhanon-1967	7893
+91362	borong	906_TREE	ik	ik	i k	tree	mcelhanon-1967	8021
+91376	borong	670_ROOT	tiita-	tiita-	t iː t a	(its) root	mcelhanon-1967	180
+91390	borong	714_SEED	kota	kota	k o t a	(its) seed	mcelhanon-1967	7790
+91404	borong	1247_EAR	gedza-	gedza-	g e d z a	(its) ear	mcelhanon-1967	7868
+91418	borong	1392_LOUSE	imoŋ	imoŋ	i m o ŋ	louse	mcelhanon-1967	7682
+91432	borong	2009_DOG	kasuk	kasuk	k a s u k	dog	mcelhanon-1967	8013
+91446	borong	937_BIRD	kooŋ	kooŋ	k oː ŋ	bird	mcelhanon-1967	181
+91460	borong	962_WOMAN	embak	embak	e m b a k	woman	mcelhanon-1967	7723
+91474	borong	1554_MAN	edzak	edzak	e d z a k	man	mcelhanon-1967	182
+91488	borong	946_BLOOD	saya	saya	s a j a	(its) blood	mcelhanon-1967	8029
+91502	borong	2121_ARM_OR_HAND	borok	borok	b o r o k	(his) hand	mcelhanon-1967	183
+91516	borong	1205_TONGUE	neselaŋ-	neselaŋ-	n e s e l a ŋ	(its) tongue	mcelhanon-1967	8008
+91530	borong	1380_TOOTH	dzot-	dzot-	d z o t	(its) tooth	mcelhanon-1967	8030
+91544	borong	2098_FOOT_OR_LEG	kani-	kani-	k a n i	(its) foot	mcelhanon-1967	7725
+91558	borong	1220_TAIL	dzi-	dzi-	d z i	(its) tail	mcelhanon-1967	7887
+91572	borong	634_MEAT	busi-	busi-	b u s i	(its) meat	mcelhanon-1967	7955
+91586	borong	1248_EYE	dzaa-	dzaa-	d z aː	(its) eye	mcelhanon-1967	7863
+91600	borong	763_SKIN	sele-	sele-	s e l e	(its) skin	mcelhanon-1967	7957
+91614	borong	1256_HEAD	osoga-	osoga-	o s o g a	(its) head	mcelhanon-1967	184
+91628	borong	1394_BONE	siita	siita	s iː t a	(its) bone	mcelhanon-1967	7962
+91642	borong	262_HE_OR_SHE_OR_IT	i	i	i	he	mcelhanon-1967	7872
+91656	borong	2312_YOU_OBLIQUE_CASE_OF_YOU	oŋo	oŋo	o ŋ o	ye	mcelhanon-1967	7965
+91670	borong	817_THEY	ioŋoŋoŋ	ioŋoŋoŋ	i o ŋ o ŋ o ŋ	they	mcelhanon-1967	185
+91684	borong	1237_WHERE	daaŋeŋ	daaŋeŋ	d aː ŋ e ŋ	where	mcelhanon-1967	186
+91698	borong	1239_HOW	nomaiŋ	nomaiŋ	n o m a i ŋ	how	mcelhanon-1967	187
+91712	borong	1577_AND	ano	ano	a n o	and	mcelhanon-1967	188
+91726	borong	1937_THERE	endu	endu	e n d u	there	mcelhanon-1967	7706
+91740	borong	1019_RIGHT	orowak	orowak	o r o w a k	right (side)	mcelhanon-1967	189
+91754	borong	244_LEFT	kanik	kanik	k a n i k	left side	mcelhanon-1967	7714
+91768	borong	1448_HOLD	me-	me-	m e	(he) holds	mcelhanon-1967	7786
+91782	borong	1280_FALL	kamaa-	kamaa-	k a m aː	(he) falls	mcelhanon-1967	190
+91796	borong	1588_TURN	meleen-	meleen-	m e l eː n	(he) turns	mcelhanon-1967	7782
+91810	borong	1456_THROW	mesao-	mesao-	m e s a o	(he) throws:	mcelhanon-1967	7842
+91824	borong	1455_PULL	oro-	oro-	o r o	(he) pulls	mcelhanon-1967	7811
+91838	borong	1452_PUSH	kpetanoke-	kpetanoke-	k p e t a n o k e	(he) pushes	mcelhanon-1967	191
+91852	borong	1453_WASH	soŋgbaŋ-	soŋgbaŋ-	s o ŋ g b a ŋ	(he) washes	mcelhanon-1967	7990
+91866	borong	1418_DIG	toguŋken-	toguŋken-	t o g u ŋ k e n	(he) digs	mcelhanon-1967	192
+91880	borong	1432_CUT	koto-	koto-	k o t o	(he) cuts	mcelhanon-1967	193
+91894	borong	1241_SOME	tosi-	tosi-	t o s i	some	mcelhanon-1967	7886
+91908	borong	1645_SHORT	torodaamoŋ	torodaamoŋ	t o r o d aː m o ŋ	short	mcelhanon-1967	194
+91922	borong	960_WIND	haamok	haamok	h aː m o k	wind	mcelhanon-1967	195
+91936	borong	1732_SKY	siwek	siwek	s i w e k	sky	mcelhanon-1967	196
+91950	borong	2_DUST	ilawela	ilawela	i l a w e l a	dust	mcelhanon-1967	197
+91964	borong	624_LAKE	aŋgoŋ	aŋgoŋ	a ŋ g o ŋ	lake	mcelhanon-1967	7793
+91978	borong	239_FLOWER	dzura-	dzura-	d z u r a	(its) flower	mcelhanon-1967	7684
+91992	borong	1507_FRUIT	oŋ-	oŋ-	o ŋ	(its) fruit	mcelhanon-1967	198
+92006	borong	1295_STICK	taak	taak	t aː k	stick	mcelhanon-1967	7722
+92020	borong	1219_WORM	genambeŋ	genambeŋ	g e n a m b e ŋ	worm	mcelhanon-1967	199
+92034	borong	730_SNAKE	mokoleŋ	mokoleŋ	m o k o l e ŋ	snake	mcelhanon-1967	7718
+92048	borong	619_ANIMAL	osoŋ	osoŋ	o s o ŋ	animal	mcelhanon-1967	7997
+92062	borong	867_backofhand	gemasit-	gemasit-	g e m a s i t	(its) back	mcelhanon-1967	7736
+92076	borong	1257_WING	eŋgaŋ-	eŋgaŋ-	e ŋ g a ŋ	(its) wing	mcelhanon-1967	7853
+92090	borong	1407_BREATHE	osoŋgoŋ	osoŋgoŋ	o s o ŋ g o ŋ	(its) breath	mcelhanon-1967	7674
+92104	borong	1278_VOMIT	lon-	lon-	l o n	(he) vomits	mcelhanon-1967	7750
+92118	borong	1355_LAUGH	dzomo-	dzomo-	d z o m o	(he) laughs	mcelhanon-1967	7975
+92132	borong	1421_SUCK	bugo-	bugo-	b u g o	(he) sucks	mcelhanon-1967	200
+92146	borong	1839_CRY	saa-	saa-	s aː	(he) cries	mcelhanon-1967	7929
+92160	borong	1440_SPIT	sulaak-	sulaak-	s u l aː k	(he) spits	mcelhanon-1967	201
+92174	borong	725_OLD_PERSON	kerugaha	kerugaha	k e r u g a h a	old	mcelhanon-1967	202
+92188	borong	2272_HOT_OR_WARM	geriawok	geriawok	g e r i a w o k	warm	mcelhanon-1967	203
+92202	borong	1397_DULL	dzitakpaak	dzitakpaak	d z i t a k p aː k	dull	mcelhanon-1967	7912
+92216	borong	1262_BROTHER	dat-	dat-	d a t	(his) brother	mcelhanon-1967	7827
+92230	borong	1263_SISTER	naaŋ-	naaŋ-	n aː ŋ	(his) sister	mcelhanon-1967	7849
+92244	borong	1217_FATHER	nemuŋ-	nemuŋ-	n e m u ŋ	(his) father	mcelhanon-1967	204
+92258	borong	1216_MOTHER	maŋ-	maŋ-	m a ŋ	(his) mother	mcelhanon-1967	205
+92272	borong	1457_SEW	euŋme-	euŋme-	e u ŋ m e	(she) sews	mcelhanon-1967	8034
+92286	borong	1218_ROPE	dzowak	dzowak	d z o w a k	rope	mcelhanon-1967	206
+92300	borong	1172_SHOOT	do-	do-	d o	(he) shoots	mcelhanon-1967	207
+92314	borong	1420_COUNT	weeŋgo-	weeŋgo-	w eː ŋ g o	(he) counts	mcelhanon-1967	208
+92328	borong	1413_PLAY	aoŋgolok	aoŋgolok	a o ŋ g o l o k	(they) play	mcelhanon-1967	8026
+92342	borong	1895_CLOTHES	opo	opo	o p o	clothing	mcelhanon-1967	7653
+92356	borong	1086_WORK_ACTIVITY	gawoŋ	gawoŋ	g a w o ŋ	work	mcelhanon-1967	209
+92370	borong	945_SPEAR	wasak	wasak	w a s a k	spear	mcelhanon-1967	210
+92384	borong	175_BLOW_OF_WIND	uu-	uu-	uː	(he) blows	mcelhanon-1967	13644
+92398	borong	1573_SWELL	somaro-	somaro-	s o m a r o	(it) swells	mcelhanon-1967	211
+90450	mindik	1209_I	ni	ni	n i	I	mcelhanon-1967	7844
+90464	mindik	1215_THOU	gi	gi	g i	thou	mcelhanon-1967	7808
+90478	mindik	1212_WE	nini	nini	n i n i	we	mcelhanon-1967	8016
+90492	mindik	1235_WHO	kân	kân	k â/a n	who	mcelhanon-1967	7977
+90506	mindik	1236_WHAT	nâwâ	nâwâ	n â/a w â/a	what	mcelhanon-1967	212
+90520	mindik	78_THAT	me	me	m e	that	mcelhanon-1967	7704
+90534	mindik	1214_THIS	mu	mu	m u	this	mcelhanon-1967	7938
+90548	mindik	1493_ONE	mokuŋ	mokuŋ	m o k u ŋ	one	mcelhanon-1967	7879
+90562	mindik	1498_TWO	wâit	wâit	w â/a i t	two	mcelhanon-1967	7685
+90576	mindik	1458_SAY	dzi-	dzi-	d z i	(he) says	mcelhanon-1967	7824
+90590	mindik	1313_MOON	kaiŋ	kaiŋ	k a i ŋ	moon	mcelhanon-1967	7915
+90604	mindik	1395_ROUND	lilik lilik	lilik_lilik	l i l i k + l i l i k	round	mcelhanon-1967	7819
+90618	mindik	1429_FULL	koko kpe-	koko_kpe-	k o k o + k p e	(it is) full	mcelhanon-1967	7910
+90632	mindik	1371_KNEE	simin-	simin-	s i m i n	(his) knee	mcelhanon-1967	7812
+90646	mindik	72_CLAW	kesât-	kesât-	k e s â/a t	(its) claw	mcelhanon-1967	213
+90660	mindik	1402_BREAST	dzudzu-	dzudzu-	d z u d z u	breast	mcelhanon-1967	7831
+90674	mindik	1446_COME	ka-	ka-	k a	(he) comes	mcelhanon-1967	7918
+90688	mindik	1416_SIT	ta-	ta-	t a	(he) sits	mcelhanon-1967	7946
+90702	mindik	1447_GIVE	niŋgi-	niŋgi-	n i ŋ g i	(he) gives me	mcelhanon-1967	7894
+90716	mindik	1442_STAND	kin-	kin-	k i n	(he) stands	mcelhanon-1967	7669
+90730	mindik	98_ALL	mooketaŋi	mooketaŋi	m oː k e t a ŋ i	all	mcelhanon-1967	214
+90744	mindik	1198_MANY	seseŋi	seseŋi	s e s e ŋ i	many	mcelhanon-1967	7668
+90758	mindik	1233_NIGHT	suŋgem	suŋgem	s u ŋ g e m	night	mcelhanon-1967	7745
+90772	mindik	1203_LONG	kâripŋi	kâripŋi	k â/a r i p ŋ i	long	mcelhanon-1967	7663
+90786	mindik	1202_BIG	ketaŋi	ketaŋi	k e t a ŋ i	big	mcelhanon-1967	7741
+90800	mindik	1246_SMALL	komokŋi	komokŋi	k o m o k ŋ i	small	mcelhanon-1967	7662
+90814	mindik	1430_STAR	seŋgeleu	seŋgeleu	s e ŋ g e l e u	star	mcelhanon-1967	7739
+90828	mindik	1343_SUN	wehon	wehon	w e h o n	sun	mcelhanon-1967	7753
+90842	mindik	1489_CLOUD	kousu	kousu	k o u s u	cloud	mcelhanon-1967	7678
+90856	mindik	2108_RAINING_OR_RAIN	kie	kie	k i e	rain	mcelhanon-1967	7897
+90870	mindik	1251_BELLY	irip-	irip-	i r i p	(its) belly	mcelhanon-1967	215
+90884	mindik	1221_NOSE	sâŋgârâ-	sâŋgârâ-	s â/a ŋ g â/a r â/a	(its) nose	mcelhanon-1967	8019
+90898	mindik	1223_HEART	wel bât-	wel_bât-	w e l + b â/a t	(its) heart	mcelhanon-1967	7984
+90912	mindik	323_FAT_ORGANIC_SUBSTANCE	kelâk-	kelâk-	k e l â/a k	(its) fat	mcelhanon-1967	8023
+90926	mindik	1333_NECK	dzâl-	dzâl-	d z â/a l	its neck	mcelhanon-1967	7943
+90940	mindik	189_HAIR_BODY	dzup-	dzup-	d z u p	(its) hair	mcelhanon-1967	8000
+90954	mindik	2101_BE_DEAD_OR_DIE	komu-	komu-	k o m u	(he) dies	mcelhanon-1967	7924
+90968	mindik	1409_SEE	nek-	nek-	n e k	(he) sees me	mcelhanon-1967	7906
+90982	mindik	1585_SLEEP	ahâ-	ahâ-	a h â/a	(he) sleeps	mcelhanon-1967	7994
+90996	mindik	1336_EAT	ne-	ne-	n e	(he) eats	mcelhanon-1967	8319
+91010	mindik	1403_BITE	yâhâ-	yâhâ-	j â/a h â/a	(he) bites it	mcelhanon-1967	7775
+91024	mindik	163_BLACK	indzaŋi	indzaŋi	i n d z a ŋ i	black	mcelhanon-1967	7823
+91038	mindik	1425_GREEN	tâŋgân tâŋgân	tâŋgân_tâŋgân	t â/a ŋ g â/a n + t â/a ŋ g â/a n	green	mcelhanon-1967	216
+91052	mindik	1335_WHITE	toatŋi	toatŋi	t o a t ŋ i	white	mcelhanon-1967	7727
+91066	mindik	156_RED	pâsikŋi	pâsikŋi	p â/a s i k ŋ i	red	mcelhanon-1967	7802
+91080	mindik	1424_YELLOW	gibaŋi	gibaŋi	g i b a ŋ i	yellow	mcelhanon-1967	217
+91094	mindik	1035_GOOD	âlipŋi	âlipŋi	â/a l i p ŋ i	good	mcelhanon-1967	7772
+91108	mindik	2272_HOT_OR_WARM	kânâp	kânâp	k â/a n â/a p	hot	mcelhanon-1967	7747
+91122	mindik	1231_NEW	dâlâkŋi	dâlâkŋi	d â/a l â/a k ŋ i	new	mcelhanon-1967	7816
+91136	mindik	1786_DRY_UP	ârâŋgo-	ârâŋgo-	â/a r â/a ŋ g o	(it is) dry	mcelhanon-1967	7660
+91150	mindik	1287_COLD	hamotŋi	hamotŋi	h a m o t ŋ i	cold	mcelhanon-1967	218
+91164	mindik	1405_NAME	kurap-	kurap-	k u r a p	(its) name	mcelhanon-1967	219
+91178	mindik	1240_NOT	kpaho	kpaho	k p a h o	not	mcelhanon-1967	8015
+91192	mindik	2102_BURN	dze-	dze-	d z e	(it) burns	mcelhanon-1967	7688
+91206	mindik	2457_PATH_OR_ROAD	kâna	kâna	k â/a n a	road	mcelhanon-1967	8038
+91220	mindik	948_WATER	ou	ou	o u	water	mcelhanon-1967	7974
+91234	mindik	778_SMOKE_EXHAUST	kowak	kowak	k o w a k	smoke	mcelhanon-1967	8035
+91248	mindik	1433_HIT	kpe-	kpe-	k p e	(he) hit him	mcelhanon-1967	7983
+91262	mindik	1410_KNOW_SOMETHING	mo-	mo-	m o	(he) knows	mcelhanon-1967	7658
+91276	mindik	671_SAND	sakosiŋ	sakosiŋ	s a k o s i ŋ	sand	mcelhanon-1967	7832
+91290	mindik	857_STONE	kât	kât	k â/a t	stone	mcelhanon-1967	7764
+91304	mindik	639_MOUNTAIN	kunduŋi	kunduŋi	k u n d u ŋ i	mountain	mcelhanon-1967	7859
+91318	mindik	646_ASH	kau	kau	k a u	ashes	mcelhanon-1967	7785
+91332	mindik	1228_EARTH_SOIL	baloŋ	baloŋ	b a l o ŋ	earth	mcelhanon-1967	220
+91346	mindik	628_LEAF	sin-	sin-	s i n	(its) leaf	mcelhanon-1967	7893
+91360	mindik	906_TREE	ip	ip	i p	tree	mcelhanon-1967	8021
+91374	mindik	670_ROOT	dzalâ-	dzalâ-	d z a l â/a	(its) root	mcelhanon-1967	7767
+91388	mindik	714_SEED	kât-	kât-	k â/a t	(its) seed	mcelhanon-1967	7790
+91402	mindik	1247_EAR	ketsap-	ketsap-	k e ts a p	(its) ear	mcelhanon-1967	7868
+91416	mindik	1392_LOUSE	imin	imin	i m i n	louse	mcelhanon-1967	7682
+91430	mindik	2009_DOG	kiam	kiam	k i a m	dog	mcelhanon-1967	8012
+91444	mindik	937_BIRD	nei	nei	n e i	bird	mcelhanon-1967	13474
+91458	mindik	962_WOMAN	ambi	ambi	a m b i	woman	mcelhanon-1967	7723
+91472	mindik	1554_MAN	aiwi	aiwi	a i w i	man	mcelhanon-1967	221
+91486	mindik	946_BLOOD	sep-	sep-	s e p	(its) blood	mcelhanon-1967	8029
+91500	mindik	2121_ARM_OR_HAND	dzât-	dzât-	d z â/a t	(his) hand	mcelhanon-1967	222
+91514	mindik	1205_TONGUE	nesolam-	nesolam-	n e s o l a m	(its) tongue	mcelhanon-1967	8008
+91528	mindik	1380_TOOTH	dzât-	dzât-	d z â/a t	(its) tooth	mcelhanon-1967	8030
+91542	mindik	2098_FOOT_OR_LEG	kana-	kana-	k a n a	(its) foot	mcelhanon-1967	7725
+91556	mindik	1220_TAIL	lou-	lou-	l o u	(its) tail	mcelhanon-1967	223
+91570	mindik	634_MEAT	busu-	busu-	b u s u	(its) meat	mcelhanon-1967	7955
+91584	mindik	1248_EYE	dze-	dze-	d z e	(its) eye	mcelhanon-1967	7863
+91598	mindik	763_SKIN	sele-	sele-	s e l e	(its) skin	mcelhanon-1967	7957
+91612	mindik	1256_HEAD	noruk-	noruk-	n o r u k	(its) head	mcelhanon-1967	7866
+91626	mindik	1394_BONE	sihit-	sihit-	s i h i t	(its) bone	mcelhanon-1967	7962
+91640	mindik	262_HE_OR_SHE_OR_IT	i	i	i	he	mcelhanon-1967	7872
+91654	mindik	2312_YOU_OBLIQUE_CASE_OF_YOU	iŋiŋi	iŋiŋi	i ŋ i ŋ i	ye	mcelhanon-1967	7963
+91668	mindik	817_THEY	yeŋgân	yeŋgân	j e ŋ g â/a n	they	mcelhanon-1967	7951
+91682	mindik	1237_WHERE	denoke	denoke	d e n o k e	where	mcelhanon-1967	7856
+91696	mindik	1239_HOW	denowo	denowo	d e n o w o	how	mcelhanon-1967	7709
+91710	mindik	1577_AND	ami	ami	a m i	and	mcelhanon-1967	7778
+91724	mindik	1937_THERE	endu	endu	e n d u	there	mcelhanon-1967	7706
+91738	mindik	1019_RIGHT	hâl	hâl	h â/a l	right (side)	mcelhanon-1967	7796
+91752	mindik	244_LEFT	kani	kani	k a n i	left side	mcelhanon-1967	7714
+91766	mindik	1448_HOLD	me-	me-	m e	(he) holds	mcelhanon-1967	7786
+91780	mindik	1280_FALL	he-	he-	h e	(he) falls	mcelhanon-1967	7711
+91794	mindik	1588_TURN	meleŋ-	meleŋ-	m e l e ŋ	(he) turns	mcelhanon-1967	7782
+91808	mindik	1456_THROW	moso-	moso-	m o s o	(he) throws:	mcelhanon-1967	7842
+91822	mindik	1455_PULL	hârâ-	hârâ-	h â/a r â/a	(he) pulls	mcelhanon-1967	7811
+91836	mindik	1452_PUSH	meakpo-	meakpo-	m e a k p o	(he) pushes	mcelhanon-1967	224
+91850	mindik	1453_WASH	soŋgaŋ-	soŋgaŋ-	s o ŋ g a ŋ	(he) washes	mcelhanon-1967	7990
+91864	mindik	1418_DIG	etso-	etso-	e ts o	(he) digs	mcelhanon-1967	7881
+91878	mindik	1432_CUT	kpiti-	kpiti-	k p i t i	(he) cuts	mcelhanon-1967	225
+91892	mindik	1241_SOME	tosat-	tosat-	t o s a t	some	mcelhanon-1967	7886
+91906	mindik	1645_SHORT	târâp-	târâp-	t â/a r â/a p	short	mcelhanon-1967	7972
+91920	mindik	960_WIND	luhut	luhut	l u h u t	wind	mcelhanon-1967	7852
+91934	mindik	1732_SKY	kurumen	kurumen	k u r u m e n	sky	mcelhanon-1967	7927
+91948	mindik	2_DUST	iwai	iwai	i w a i	dust	mcelhanon-1967	7966
+91962	mindik	624_LAKE	aŋgâ	aŋgâ	a ŋ g â/a	lake	mcelhanon-1967	7793
+91976	mindik	239_FLOWER	dzura-	dzura-	d z u r a	(its) flower	mcelhanon-1967	7684
+91990	mindik	1507_FRUIT	hâl-	hâl-	h â/a l	(its) fruit	mcelhanon-1967	7760
+92004	mindik	1295_STICK	tahap	tahap	t a h a p	stick	mcelhanon-1967	7722
+92018	mindik	1219_WORM	gusu	gusu	g u s u	worm	mcelhanon-1967	7695
+92032	mindik	730_SNAKE	mokoleŋ	mokoleŋ	m o k o l e ŋ	snake	mcelhanon-1967	7718
+92046	mindik	619_ANIMAL	sumbup	sumbup	s u m b u p	animal	mcelhanon-1967	7650
+92060	mindik	867_backofhand	gemat-	gemat-	g e m a t	(its) back	mcelhanon-1967	7736
+92074	mindik	1257_WING	gingin-	gingin-	g i n g i n	(its) wing	mcelhanon-1967	7716
+92088	mindik	1407_BREATHE	osoŋgom	osoŋgom	o s o ŋ g o m	(its) breath	mcelhanon-1967	7674
+92102	mindik	1278_VOMIT	lon-	lon-	l o n	(he) vomits	mcelhanon-1967	7750
+92116	mindik	1355_LAUGH	botakâl-	botakâl-	b o t a k â/a l	(he) laughs	mcelhanon-1967	226
+92130	mindik	1421_SUCK	botso-	botso-	b o ts o	(he) sucks	mcelhanon-1967	7922
+92144	mindik	1839_CRY	saha-	saha-	s a h a	(he) cries	mcelhanon-1967	7929
+92158	mindik	1440_SPIT	sâwât-	sâwât-	s â/a w â/a t	(he) spits	mcelhanon-1967	7840
+92172	mindik	725_OLD_PERSON	walakŋi	walakŋi	w a l a k ŋ i	old	mcelhanon-1967	7870
+92186	mindik	2272_HOT_OR_WARM	kânâpnaŋguk	kânâpnaŋguk	k â/a n â/a p n a ŋ g u k	warm	mcelhanon-1967	227
+92200	mindik	1397_DULL	dzâtbâtâm	dzâtbâtâm	d z â/a t b â/a t â/a m	dull	mcelhanon-1967	228
+92214	mindik	1262_BROTHER	dat-	dat-	d a t	(his) brother	mcelhanon-1967	7827
+92228	mindik	1263_SISTER	nen-	nen-	n e n	(his) sister	mcelhanon-1967	7848
+92242	mindik	1217_FATHER	mam-	mam-	m a m	(his) father	mcelhanon-1967	1192
+92256	mindik	1216_MOTHER	namon-	namon-	n a m o n	(his) mother	mcelhanon-1967	7715
+92270	mindik	1457_SEW	ume-	ume-	u m e	(she) sews	mcelhanon-1967	8034
+92284	mindik	1218_ROPE	kisa	kisa	k i s a	rope	mcelhanon-1967	7694
+92298	mindik	1172_SHOOT	erâ-	erâ-	e r â/a	(he) shoots	mcelhanon-1967	8024
+92312	mindik	1420_COUNT	oyon-	oyon-	o j o n	(he) counts	mcelhanon-1967	7698
+92326	mindik	1413_PLAY	aŋgolat	aŋgolat	a ŋ g o l a t	(they) play	mcelhanon-1967	8026
+92340	mindik	1895_CLOTHES	opo	opo	o p o	clothing	mcelhanon-1967	7653
+92354	mindik	1086_WORK_ACTIVITY	nup	nup	n u p	work	mcelhanon-1967	7703
+92368	mindik	945_SPEAR	liŋgip	liŋgip	l i ŋ g i p	spear	mcelhanon-1967	7838
+92382	mindik	175_BLOW_OF_WIND	hu-	hu-	h u	(he) blows	mcelhanon-1967	13644
+92396	mindik	1573_SWELL	boŋgo-	boŋgo-	b o ŋ g o	(it) swells	mcelhanon-1967	7945
+90455	burum	1209_I	ni	ni	n i	I	mcelhanon-1967	7844
+90469	burum	1215_THOU	gi	gi	g i	thou	mcelhanon-1967	7808
+90483	burum	1212_WE	nini	nini	n i n i	we	mcelhanon-1967	8016
+90497	burum	1235_WHO	kun	kun	k u n	who	mcelhanon-1967	7977
+90511	burum	1236_WHAT	wania	wania	w a n i a	what	mcelhanon-1967	7759
+90525	burum	78_THAT	me	me	m e	that	mcelhanon-1967	7704
+90539	burum	1214_THIS	ke	ke	k e	this	mcelhanon-1967	229
+90553	burum	1493_ONE	mohot	mohot	m o h o t	one	mcelhanon-1967	7878
+90567	burum	1498_TWO	yahat	yahat	j a h a t	two	mcelhanon-1967	7686
+90581	burum	1458_SAY	dzi-	dzi-	d z i	(he) says	mcelhanon-1967	7824
+90595	burum	1313_MOON	kain	kain	k a i n	moon	mcelhanon-1967	7915
+90609	burum	1395_ROUND	lambâ	lambâ	l a m b â/a	round	mcelhanon-1967	230
+90623	burum	1429_FULL	kokolak kpe-	kokolak_kpe-	k o k o l a k + k p e	(it is) full	mcelhanon-1967	7910
+90637	burum	1371_KNEE	simin-	simin-	s i m i n	(his) knee	mcelhanon-1967	7812
+90651	burum	72_CLAW	kambâ-	kambâ-	k a m b â/a	(its) claw	mcelhanon-1967	231
+90665	burum	1402_BREAST	dzudzu-	dzudzu-	d z u d z u	breast	mcelhanon-1967	7831
+90679	burum	1446_COME	ka-	ka-	k a	(he) comes	mcelhanon-1967	7918
+90693	burum	1416_SIT	ta-	ta-	t a	(he) sits	mcelhanon-1967	7946
+90707	burum	1447_GIVE	niŋgi-	niŋgi-	n i ŋ g i	(he) gives me	mcelhanon-1967	7894
+90721	burum	1442_STAND	kin-	kin-	k i n	(he) stands	mcelhanon-1967	7669
+90735	burum	98_ALL	kpakpak	kpakpak	k p a k p a k	all	mcelhanon-1967	232
+90749	burum	1198_MANY	gâtpâk	gâtpâk	g â/a t p â/a k	many	mcelhanon-1967	233
+90763	burum	1233_NIGHT	suŋgem	suŋgem	s u ŋ g e m	night	mcelhanon-1967	7745
+90777	burum	1203_LONG	kâripŋi	kâripŋi	k â/a r i p ŋ i	long	mcelhanon-1967	7663
+90791	burum	1202_BIG	ketaŋi	ketaŋi	k e t a ŋ i	big	mcelhanon-1967	7741
+90805	burum	1246_SMALL	moroŋi	moroŋi	m o r o ŋ i	small	mcelhanon-1967	234
+90819	burum	1430_STAR	seŋgeleu	seŋgeleu	s e ŋ g e l e u	star	mcelhanon-1967	7739
+90833	burum	1343_SUN	welgân	welgân	w e l g â/a n	sun	mcelhanon-1967	7753
+90847	burum	1489_CLOUD	kousu	kousu	k o u s u	cloud	mcelhanon-1967	7678
+90861	burum	2108_RAINING_OR_RAIN	kie	kie	k i e	rain	mcelhanon-1967	7897
+90875	burum	1251_BELLY	gâlâm-	gâlâm-	g â/a l â/a m	(its) belly	mcelhanon-1967	235
+90889	burum	1221_NOSE	sâhârâ-	sâhârâ-	s â/a h â/a r â/a	(its) nose	mcelhanon-1967	8019
+90903	burum	1223_HEART	wel bât-	wel_bât-	w e l + b â/a t	(its) heart	mcelhanon-1967	7984
+90917	burum	323_FAT_ORGANIC_SUBSTANCE	kelâk-	kelâk-	k e l â/a k	(its) fat	mcelhanon-1967	8023
+90931	burum	1333_NECK	dzâl-	dzâl-	d z â/a l	its neck	mcelhanon-1967	7943
+90945	burum	189_HAIR_BODY	dzup-	dzup-	d z u p	(its) hair	mcelhanon-1967	8000
+90959	burum	2101_BE_DEAD_OR_DIE	kâmu-	kâmu-	k â/a m u	(he) dies	mcelhanon-1967	7924
+90973	burum	1409_SEE	nek-	nek-	n e k	(he) sees me	mcelhanon-1967	7906
+90987	burum	1585_SLEEP	ahâ-	ahâ-	a h â/a	(he) sleeps	mcelhanon-1967	7994
+91001	burum	1336_EAT	ne-	ne-	n e	(he) eats	mcelhanon-1967	8319
+91015	burum	1403_BITE	yâhâ-	yâhâ-	j â/a h â/a	(he) bites it	mcelhanon-1967	7775
+91029	burum	163_BLACK	tâwuŋi	tâwuŋi	t â/a w u ŋ i	black	mcelhanon-1967	236
+91043	burum	1425_GREEN	gârâkŋi	gârâkŋi	g â/a r â/a k ŋ i	green	mcelhanon-1967	237
+91057	burum	1335_WHITE	tuatŋi	tuatŋi	t u a t ŋ i	white	mcelhanon-1967	7727
+91071	burum	156_RED	pisikŋi	pisikŋi	p i s i k ŋ i	red	mcelhanon-1967	7802
+91085	burum	1424_YELLOW	gohotŋi	gohotŋi	g o h o t ŋ i	yellow	mcelhanon-1967	7732
+91099	burum	1035_GOOD	âlipŋi	âlipŋi	â/a l i p ŋ i	good	mcelhanon-1967	7772
+91113	burum	2272_HOT_OR_WARM	kândâp	kândâp	k â/a n d â/a p	hot	mcelhanon-1967	7747
+91127	burum	1231_NEW	dâlâkŋi	dâlâkŋi	d â/a l â/a k ŋ i	new	mcelhanon-1967	7816
+91141	burum	1786_DRY_UP	ârâŋgâ-	ârâŋgâ-	â/a r â/a ŋ g â/a	(it is) dry	mcelhanon-1967	7660
+91155	burum	1287_COLD	dziŋim	dziŋim	d z i ŋ i m	cold	mcelhanon-1967	238
+91169	burum	1405_NAME	kpet-	kpet-	k p e t	(its) name	mcelhanon-1967	239
+91183	burum	1240_NOT	kpahâp	kpahâp	k p a h â/a p	not	mcelhanon-1967	8015
+91197	burum	2102_BURN	dze-	dze-	d z e	(it) burns	mcelhanon-1967	7688
+91211	burum	2457_PATH_OR_ROAD	kâna	kâna	k â/a n a	road	mcelhanon-1967	8038
+91225	burum	948_WATER	ou	ou	o u	water	mcelhanon-1967	7974
+91239	burum	778_SMOKE_EXHAUST	kasak	kasak	k a s a k	smoke	mcelhanon-1967	8035
+91253	burum	1433_HIT	kpe-	kpe-	k p e	(he) hit him	mcelhanon-1967	7983
+91267	burum	1410_KNOW_SOMETHING	ma-	ma-	m a	(he) knows	mcelhanon-1967	7658
+91281	burum	671_SAND	sak	sak	s a k	sand	mcelhanon-1967	7832
+91295	burum	857_STONE	kât	kât	k â/a t	stone	mcelhanon-1967	7764
+91309	burum	639_MOUNTAIN	kunduŋi	kunduŋi	k u n d u ŋ i	mountain	mcelhanon-1967	7859
+91323	burum	646_ASH	kau	kau	k a u	ashes	mcelhanon-1967	7785
+91337	burum	1228_EARTH_SOIL	gâlme	gâlme	g â/a l m e	earth	mcelhanon-1967	240
+91351	burum	628_LEAF	sin-	sin-	s i n	(its) leaf	mcelhanon-1967	7893
+91365	burum	906_TREE	ip	ip	i p	tree	mcelhanon-1967	8021
+91379	burum	670_ROOT	dzalâ-	dzalâ-	d z a l â/a	(its) root	mcelhanon-1967	7767
+91393	burum	714_SEED	kât-	kât-	k â/a t	(its) seed	mcelhanon-1967	7790
+91407	burum	1247_EAR	ketsap-	ketsap-	k e ts a p	(its) ear	mcelhanon-1967	7868
+91421	burum	1392_LOUSE	imin	imin	i m i n	louse	mcelhanon-1967	7682
+91435	burum	2009_DOG	kiam	kiam	k i a m	dog	mcelhanon-1967	8012
+91449	burum	937_BIRD	nei	nei	n e i	bird	mcelhanon-1967	13474
+91463	burum	962_WOMAN	ambi	ambi	a m b i	woman	mcelhanon-1967	7723
+91477	burum	1554_MAN	atsi	atsi	a ts i	man	mcelhanon-1967	241
+91491	burum	946_BLOOD	sep-	sep-	s e p	(its) blood	mcelhanon-1967	8029
+91505	burum	2121_ARM_OR_HAND	bârâ-	bârâ-	b â/a r â/a	(his) hand	mcelhanon-1967	7677
+91519	burum	1205_TONGUE	neselam-	neselam-	n e s e l a m	(its) tongue	mcelhanon-1967	8008
+91533	burum	1380_TOOTH	dzit-	dzit-	d z i t	(its) tooth	mcelhanon-1967	8030
+91547	burum	2098_FOOT_OR_LEG	kana-	kana-	k a n a	(its) foot	mcelhanon-1967	7725
+91561	burum	1220_TAIL	dai-	dai-	d a i	(its) tail	mcelhanon-1967	7887
+91575	burum	634_MEAT	busu-	busu-	b u s u	(its) meat	mcelhanon-1967	7955
+91589	burum	1248_EYE	dze-	dze-	d z e	(its) eye	mcelhanon-1967	7863
+91603	burum	763_SKIN	sile-	sile-	s i l e	(its) skin	mcelhanon-1967	7957
+91617	burum	1256_HEAD	noruk-	noruk-	n o r u k	(its) head	mcelhanon-1967	7866
+91631	burum	1394_BONE	sihit-	sihit-	s i h i t	(its) bone	mcelhanon-1967	7962
+91645	burum	262_HE_OR_SHE_OR_IT	i	i	i	he	mcelhanon-1967	7872
+91659	burum	2312_YOU_OBLIQUE_CASE_OF_YOU	ini	ini	i n i	ye	mcelhanon-1967	7963
+91673	burum	817_THEY	yeŋân	yeŋân	j e ŋ â/a n	they	mcelhanon-1967	7951
+91687	burum	1237_WHERE	deneke	deneke	d e n e k e	where	mcelhanon-1967	7856
+91701	burum	1239_HOW	denep	denep	d e n e p	how	mcelhanon-1967	7709
+91715	burum	1577_AND	mi	mi	m i	and	mcelhanon-1967	7778
+91729	burum	1937_THERE	endu	endu	e n d u	there	mcelhanon-1967	7706
+91743	burum	1019_RIGHT	âl	âl	â/a l	right (side)	mcelhanon-1967	7796
+91757	burum	244_LEFT	kpani	kpani	k p a n i	left side	mcelhanon-1967	7714
+91771	burum	1448_HOLD	ma-	ma-	m a	(he) holds	mcelhanon-1967	7786
+91785	burum	1280_FALL	he-	he-	h e	(he) falls	mcelhanon-1967	7711
+91799	burum	1588_TURN	meleŋ-	meleŋ-	m e l e ŋ	(he) turns	mcelhanon-1967	7782
+91813	burum	1456_THROW	gilian-	gilian-	g i l i a n	(he) throws:	mcelhanon-1967	242
+91827	burum	1455_PULL	arâ-	arâ-	a r â/a	(he) pulls	mcelhanon-1967	7811
+91841	burum	1452_PUSH	kpetalian-	kpetalian-	k p e t a l i a n	(he) pushes	mcelhanon-1967	243
+91855	burum	1453_WASH	soŋgaŋ-	soŋgaŋ-	s o ŋ g a ŋ	(he) washes	mcelhanon-1967	7990
+91869	burum	1418_DIG	etso-	etso-	e ts o	(he) digs	mcelhanon-1967	7881
+91883	burum	1432_CUT	ârâŋgâ-	ârâŋgâ-	â/a r â/a ŋ g â/a	(he) cuts	mcelhanon-1967	244
+91897	burum	1241_SOME	tosat-	tosat-	t o s a t	some	mcelhanon-1967	7886
+91911	burum	1645_SHORT	târâp-	târâp-	t â/a r â/a p	short	mcelhanon-1967	7972
+91925	burum	960_WIND	luhut	luhut	l u h u t	wind	mcelhanon-1967	7852
+91939	burum	1732_SKY	suep	suep	s u e p	sky	mcelhanon-1967	245
+91953	burum	2_DUST	nesak	nesak	n e s a k	dust	mcelhanon-1967	7967
+91967	burum	624_LAKE	aŋgâ	aŋgâ	a ŋ g â/a	lake	mcelhanon-1967	7793
+91981	burum	239_FLOWER	dzura-	dzura-	d z u r a	(its) flower	mcelhanon-1967	7684
+91995	burum	1507_FRUIT	lâwât-	lâwât-	l â/a w â/a t	(its) fruit	mcelhanon-1967	246
+92009	burum	1295_STICK	kambim	kambim	k a m b i m	stick	mcelhanon-1967	7721
+92023	burum	1219_WORM	maŋgik	maŋgik	m a ŋ g i k	worm	mcelhanon-1967	247
+92037	burum	730_SNAKE	mokoleŋ	mokoleŋ	m o k o l e ŋ	snake	mcelhanon-1967	7718
+92051	burum	619_ANIMAL	sumbup	sumbup	s u m b u p	animal	mcelhanon-1967	7650
+92065	burum	867_backofhand	gânesem-	gânesem-	g â/a n e s e m	(its) back	mcelhanon-1967	248
+92079	burum	1257_WING	gingin-	gingin-	g i n g i n	(its) wing	mcelhanon-1967	7716
+92093	burum	1407_BREATHE	osoŋgom	osoŋgom	o s o ŋ g o m	(its) breath	mcelhanon-1967	7674
+92107	burum	1278_VOMIT	lon-	lon-	l o n	(he) vomits	mcelhanon-1967	7750
+92121	burum	1355_LAUGH	gisihi-	gisihi-	g i s i h i	(he) laughs	mcelhanon-1967	7705
+92135	burum	1421_SUCK	bobok-	bobok-	b o b o k	(he) sucks	mcelhanon-1967	249
+92149	burum	1839_CRY	saha-	saha-	s a h a	(he) cries	mcelhanon-1967	7929
+92163	burum	1440_SPIT	sâwât-	sâwât-	s â/a w â/a t	(he) spits	mcelhanon-1967	7840
+92177	burum	725_OLD_PERSON	walakŋi	walakŋi	w a l a k ŋ i	old	mcelhanon-1967	7870
+92191	burum	2272_HOT_OR_WARM	kândâp kândâp	kândâp_kândâp	k â/a n d â/a p + k â/a n d â/a p	warm	mcelhanon-1967	250
+92205	burum	1397_DULL	mâhâmŋi	mâhâmŋi	m â/a h â/a m ŋ i	dull	mcelhanon-1967	251
+92219	burum	1262_BROTHER	dat-	dat-	d a t	(his) brother	mcelhanon-1967	7827
+92233	burum	1263_SISTER	nen-	nen-	n e n	(his) sister	mcelhanon-1967	7848
+92247	burum	1217_FATHER	iwi-	iwi-	i w i	(his) father	mcelhanon-1967	7935
+92261	burum	1216_MOTHER	nam-	nam-	n a m	(his) mother	mcelhanon-1967	7715
+92275	burum	1457_SEW	ume-	ume-	u m e	(she) sews	mcelhanon-1967	8034
+92289	burum	1218_ROPE	kisa	kisa	k i s a	rope	mcelhanon-1967	7694
+92303	burum	1172_SHOOT	erâ-	erâ-	e r â/a	(he) shoots	mcelhanon-1967	8024
+92317	burum	1420_COUNT	oyen-	oyen-	o j e n	(he) counts	mcelhanon-1967	7698
+92331	burum	1413_PLAY	mânahât	mânahât	m â/a n a h â/a t	(they) play	mcelhanon-1967	252
+92345	burum	1895_CLOTHES	sârâ	sârâ	s â/a r â/a	clothing	mcelhanon-1967	253
+92359	burum	1086_WORK_ACTIVITY	nup	nup	n u p	work	mcelhanon-1967	7703
+92373	burum	945_SPEAR	liŋgip	liŋgip	l i ŋ g i p	spear	mcelhanon-1967	7838
+92387	burum	175_BLOW_OF_WIND	unâŋ-	unâŋ-	u n â/a ŋ	(he) blows	mcelhanon-1967	254
+92401	burum	1573_SWELL	kpari-	kpari-	k p a r i	(it) swells	mcelhanon-1967	255
+90446	ono	1209_I	nâ	nâ	n â/a	I	mcelhanon-1967	7845
+90460	ono	1215_THOU	ge	ge	g e	thou	mcelhanon-1967	7808
+90474	ono	1212_WE	ŋedo	ŋedo	ŋ e d o	we	mcelhanon-1967	256
+90488	ono	1235_WHO	mane	mane	m a n e	who	mcelhanon-1967	257
+90502	ono	1236_WHAT	onoka	onoka	o n o k a	what	mcelhanon-1967	258
+90516	ono	78_THAT	eri	eri	e r i	that	mcelhanon-1967	259
+90530	ono	1214_THIS	i	i	i	this	mcelhanon-1967	7940
+90544	ono	1493_ONE	weku	weku	w e k u	one	mcelhanon-1967	260
+90558	ono	1498_TWO	etke	etke	e t k e	two	mcelhanon-1967	261
+90572	ono	1458_SAY	ra-	ra-	r a	(he) says	mcelhanon-1967	262
+90586	ono	1313_MOON	meso	meso	m e s o	moon	mcelhanon-1967	7917
+90600	ono	1395_ROUND	lolik lolik	lolik_lolik	l o l i k + l o l i k	round	mcelhanon-1967	7819
+90614	ono	1429_FULL	watgi	watgi	w a t g i	(it is) full	mcelhanon-1967	263
+90628	ono	1371_KNEE	wawet-	wawet-	w a w e t	(his) knee	mcelhanon-1967	264
+90642	ono	72_CLAW	zolip-	zolip-	z o l i p	(its) claw	mcelhanon-1967	265
+90656	ono	1402_BREAST	ŋamu-	ŋamu-	ŋ a m u	breast	mcelhanon-1967	7830
+90670	ono	1446_COME	sa-	sa-	s a	(he) comes	mcelhanon-1967	266
+90684	ono	1416_SIT	meri-	meri-	m e r i	(he) sits	mcelhanon-1967	267
+90698	ono	1447_GIVE	nin-	nin-	n i n	(he) gives me	mcelhanon-1967	7895
+90712	ono	1442_STAND	okore-	okore-	o k o r e	(he) stands	mcelhanon-1967	268
+90726	ono	98_ALL	korop	korop	k o r o p	all	mcelhanon-1967	269
+90740	ono	1198_MANY	louloutŋe	louloutŋe	l o u l o u t ŋ e	many	mcelhanon-1967	270
+90754	ono	1233_NIGHT	ruwo	ruwo	r u w o	night	mcelhanon-1967	271
+90768	ono	1203_LONG	kiroine	kiroine	k i r o i n e	long	mcelhanon-1967	7663
+90782	ono	1202_BIG	suaine	suaine	s u a i n e	big	mcelhanon-1967	272
+90796	ono	1246_SMALL	nigatne	nigatne	n i g a t n e	small	mcelhanon-1967	273
+90810	ono	1430_STAR	serekiŋ	serekiŋ	s e r e k i ŋ	star	mcelhanon-1967	274
+90824	ono	1343_SUN	kaiwe	kaiwe	k a i w e	sun	mcelhanon-1967	7754
+90838	ono	1489_CLOUD	kezoŋ	kezoŋ	k e z o ŋ	cloud	mcelhanon-1967	275
+90852	ono	2108_RAINING_OR_RAIN	koia	koia	k o i a	rain	mcelhanon-1967	7897
+90866	ono	1251_BELLY	kai-	kai-	k a i	(its) belly	mcelhanon-1967	276
+90880	ono	1221_NOSE	sot-	sot-	s o t	(its) nose	mcelhanon-1967	277
+90894	ono	1223_HEART	kombaŋi-	kombaŋi-	k o m b a ŋ i	(its) heart	mcelhanon-1967	278
+90908	ono	323_FAT_ORGANIC_SUBSTANCE	kelok-	kelok-	k e l o k	(its) fat	mcelhanon-1967	8023
+90922	ono	1333_NECK	ebi-	ebi-	e b i	its neck	mcelhanon-1967	7942
+90936	ono	189_HAIR_BODY	dzou-	dzou-	d z o u	(its) hair	mcelhanon-1967	8000
+90950	ono	2101_BE_DEAD_OR_DIE	seuki-	seuki-	s e u k i	(he) dies	mcelhanon-1967	279
+90964	ono	1409_SEE	nan-	nan-	n a n	(he) sees me	mcelhanon-1967	7904
+90978	ono	1585_SLEEP	pa-	pa-	p a	(he) sleeps	mcelhanon-1967	280
+90992	ono	1336_EAT	ni-	ni-	n i	(he) eats	mcelhanon-1967	8319
+91006	ono	1403_BITE	ki-	ki-	k i	(he) bites it	mcelhanon-1967	7774
+91020	ono	163_BLACK	dika	dika	d i k a	black	mcelhanon-1967	281
+91034	ono	1425_GREEN	wisika	wisika	w i s i k a	green	mcelhanon-1967	282
+91048	ono	1335_WHITE	libeka	libeka	l i b e k a	white	mcelhanon-1967	283
+91062	ono	156_RED	weŋemka	weŋemka	w e ŋ e m k a	red	mcelhanon-1967	284
+91076	ono	1424_YELLOW	yaŋaike	yaŋaike	j a ŋ a i k e	yellow	mcelhanon-1967	285
+91090	ono	1035_GOOD	maine	maine	m a i n e	good	mcelhanon-1967	286
+91104	ono	2272_HOT_OR_WARM	gerep	gerep	g e r e p	hot	mcelhanon-1967	7748
+91118	ono	1231_NEW	wele	wele	w e l e	new	mcelhanon-1967	287
+91132	ono	1786_DRY_UP	dzipki-	dzipki-	d z i p k i	(it is) dry	mcelhanon-1967	7661
+91146	ono	1287_COLD	momoine	momoine	m o m o i n e	cold	mcelhanon-1967	288
+91160	ono	1405_NAME	dei-	dei-	d e i	(its) name	mcelhanon-1967	289
+91174	ono	1240_NOT	mi	mi	m i	not	mcelhanon-1967	8017
+91188	ono	2102_BURN	dzi-	dzi-	d z i	(it) burns	mcelhanon-1967	7688
+91202	ono	2457_PATH_OR_ROAD	numa	numa	n u m a	road	mcelhanon-1967	290
+91216	ono	948_WATER	doku	doku	d o k u	water	mcelhanon-1967	7985
+91230	ono	778_SMOKE_EXHAUST	ŋaup	ŋaup	ŋ a u p	smoke	mcelhanon-1967	291
+91244	ono	1433_HIT	kpe-	kpe-	k p e	(he) hit him	mcelhanon-1967	7983
+91258	ono	1410_KNOW_SOMETHING	deri-	deri-	d e r i	(he) knows	mcelhanon-1967	292
+91272	ono	671_SAND	gbalak	gbalak	g b a l a k	sand	mcelhanon-1967	293
+91286	ono	857_STONE	wesi	wesi	w e s i	stone	mcelhanon-1967	294
+91300	ono	639_MOUNTAIN	bonaga	bonaga	b o n a g a	mountain	mcelhanon-1967	7860
+91314	ono	646_ASH	kau	kau	k a u	ashes	mcelhanon-1967	7785
+91328	ono	1228_EARTH_SOIL	kepe	kepe	k e p e	earth	mcelhanon-1967	295
+91342	ono	628_LEAF	meti-	meti-	m e t i	(its) leaf	mcelhanon-1967	296
+91356	ono	906_TREE	eki	eki	e k i	tree	mcelhanon-1967	297
+91370	ono	670_ROOT	ŋodi-	ŋodi-	ŋ o d i	(its) root	mcelhanon-1967	298
+91384	ono	714_SEED	wau-	wau-	w a u	(its) seed	mcelhanon-1967	299
+91398	ono	1247_EAR	ket-	ket-	k e t	(its) ear	mcelhanon-1967	7868
+91412	ono	1392_LOUSE	emen	emen	e m e n	louse	mcelhanon-1967	7682
+91426	ono	2009_DOG	kasi	kasi	k a s i	dog	mcelhanon-1967	8013
+91440	ono	937_BIRD	naŋi	naŋi	n a ŋ i	bird	mcelhanon-1967	13474
+91454	ono	962_WOMAN	ŋerep	ŋerep	ŋ e r e p	woman	mcelhanon-1967	300
+91468	ono	1554_MAN	ŋei	ŋei	ŋ e i	man	mcelhanon-1967	7700
+91482	ono	946_BLOOD	weŋemi-	weŋemi-	w e ŋ e m i	(its) blood	mcelhanon-1967	301
+91496	ono	2121_ARM_OR_HAND	me-	me-	m e	(his) hand	mcelhanon-1967	7651
+91510	ono	1205_TONGUE	belakami-	belakami-	b e l a k a m i	(its) tongue	mcelhanon-1967	302
+91524	ono	1380_TOOTH	ŋet-	ŋet-	ŋ e t	(its) tooth	mcelhanon-1967	303
+91538	ono	2098_FOOT_OR_LEG	ki-	ki-	k i	(its) foot	mcelhanon-1967	7708
+91552	ono	1220_TAIL	dai-	dai-	d a i	(its) tail	mcelhanon-1967	7887
+91566	ono	634_MEAT	biku-	biku-	b i k u	(its) meat	mcelhanon-1967	7954
+91580	ono	1248_EYE	dei-	dei-	d e i	(its) eye	mcelhanon-1967	7863
+91594	ono	763_SKIN	solai-	solai-	s o l a i	(its) skin	mcelhanon-1967	7957
+91608	ono	1256_HEAD	lewit-	lewit-	l e w i t	(its) head	mcelhanon-1967	304
+91622	ono	1394_BONE	set-	set-	s e t	(its) bone	mcelhanon-1967	7962
+91636	ono	262_HE_OR_SHE_OR_IT	e	e	e	he	mcelhanon-1967	7872
+91650	ono	2312_YOU_OBLIQUE_CASE_OF_YOU	ŋine	ŋine	ŋ i n e	ye	mcelhanon-1967	7963
+91664	ono	817_THEY	eŋe	eŋe	e ŋ e	they	mcelhanon-1967	7949
+91678	ono	1237_WHERE	dia	dia	d i a	where	mcelhanon-1967	7855
+91692	ono	1239_HOW	daleo	daleo	d a l e o	how	mcelhanon-1967	305
+91706	ono	1577_AND	mi	mi	m i	and	mcelhanon-1967	7778
+91720	ono	1937_THERE	eri	eri	e r i	there	mcelhanon-1967	7706
+91734	ono	1019_RIGHT	warage	warage	w a r a g e	right (side)	mcelhanon-1967	306
+91748	ono	244_LEFT	wesi	wesi	w e s i	left side	mcelhanon-1967	307
+91762	ono	1448_HOLD	mi-	mi-	m i	(he) holds	mcelhanon-1967	7786
+91776	ono	1280_FALL	keti-	keti-	k e t i	(he) falls	mcelhanon-1967	308
+91790	ono	1588_TURN	maiŋgi-	maiŋgi-	m a i ŋ g i	(he) turns	mcelhanon-1967	309
+91804	ono	1456_THROW	gbeligi-	gbeligi-	g b e l i g i	(he) throws:	mcelhanon-1967	310
+91818	ono	1455_PULL	woraŋ-	woraŋ-	w o r a ŋ	(he) pulls	mcelhanon-1967	7811
+91832	ono	1452_PUSH	bira-	bira-	b i r a	(he) pushes	mcelhanon-1967	311
+91846	ono	1453_WASH	sauk-	sauk-	s a u k	(he) washes	mcelhanon-1967	312
+91860	ono	1418_DIG	kepikito-	kepikito-	k e p i k i t o	(he) digs	mcelhanon-1967	313
+91874	ono	1432_CUT	kitot-	kitot-	k i t o t	(he) cuts	mcelhanon-1967	314
+91888	ono	1241_SOME	nat-	nat-	n a t	some	mcelhanon-1967	315
+91902	ono	1645_SHORT	bomgoi-	bomgoi-	b o m g o i	short	mcelhanon-1967	316
+91916	ono	960_WIND	momo	momo	m o m o	wind	mcelhanon-1967	317
+91930	ono	1732_SKY	kpeli	kpeli	k p e l i	sky	mcelhanon-1967	318
+91944	ono	2_DUST	kinekine	kinekine	k i n e k i n e	dust	mcelhanon-1967	319
+91958	ono	624_LAKE	namuŋ	namuŋ	n a m u ŋ	lake	mcelhanon-1967	320
+91972	ono	239_FLOWER	dzurai-	dzurai-	d z u r a i	(its) flower	mcelhanon-1967	7684
+91986	ono	1507_FRUIT	wele	wele	w e l e	(its) fruit	mcelhanon-1967	321
+92000	ono	1295_STICK	pokup	pokup	p o k u p	stick	mcelhanon-1967	322
+92014	ono	1219_WORM	boso	boso	b o s o	worm	mcelhanon-1967	7695
+92028	ono	730_SNAKE	koma	koma	k o m a	snake	mcelhanon-1967	7719
+92042	ono	619_ANIMAL	osom	osom	o s o m	animal	mcelhanon-1967	7997
+92056	ono	867_backofhand	romo-	romo-	r o m o	(its) back	mcelhanon-1967	323
+92070	ono	1257_WING	gbimgiliu-	gbimgiliu-	g b i m g i l i u	(its) wing	mcelhanon-1967	324
+92084	ono	1407_BREATHE	asumora	asumora	a s u m o r a	(its) breath	mcelhanon-1967	325
+92098	ono	1278_VOMIT	madogi-	madogi-	m a d o g i	(he) vomits	mcelhanon-1967	326
+92112	ono	1355_LAUGH	teni-	teni-	t e n i	(he) laughs	mcelhanon-1967	327
+92126	ono	1421_SUCK	muzuluki-	muzuluki-	m u z u l u k i	(he) sucks	mcelhanon-1967	7810
+92140	ono	1839_CRY	arop-	arop-	a r o p	(he) cries	mcelhanon-1967	328
+92154	ono	1440_SPIT	mŋekat-	mŋekat-	m ŋ e k a t	(he) spits	mcelhanon-1967	329
+92168	ono	725_OLD_PERSON	lewitne	lewitne	l e w i t n e	old	mcelhanon-1967	330
+92182	ono	2272_HOT_OR_WARM	geleune	geleune	g e l e u n e	warm	mcelhanon-1967	331
+92196	ono	1397_DULL	ŋetŋemidaine	ŋetŋemidaine	ŋ e t ŋ e m i d a i n e	dull	mcelhanon-1967	332
+92210	ono	1262_BROTHER	tat-	tat-	t a t	(his) brother	mcelhanon-1967	7827
+92224	ono	1263_SISTER	kiari-	kiari-	k i a r i	(his) sister	mcelhanon-1967	333
+92238	ono	1217_FATHER	maga-	maga-	m a g a	(his) father	mcelhanon-1967	334
+92252	ono	1216_MOTHER	naga-	naga-	n a g a	(his) mother	mcelhanon-1967	335
+92266	ono	1457_SEW	gbetut-	gbetut-	g b e t u t	(she) sews	mcelhanon-1967	7976
+92280	ono	1218_ROPE	ranom	ranom	r a n o m	rope	mcelhanon-1967	336
+92294	ono	1172_SHOOT	yato-	yato-	j a t o	(he) shoots	mcelhanon-1967	337
+92308	ono	1420_COUNT	dapori-	dapori-	d a p o r i	(he) counts	mcelhanon-1967	338
+92322	ono	1413_PLAY	gbat	gbat	g b a t	(they) play	mcelhanon-1967	339
+92336	ono	1895_CLOTHES	poet	poet	p o e t	clothing	mcelhanon-1967	7699
+92350	ono	1086_WORK_ACTIVITY	urata	urata	u r a t a	work	mcelhanon-1967	340
+92364	ono	945_SPEAR	bim	bim	b i m	spear	mcelhanon-1967	341
+92378	ono	175_BLOW_OF_WIND	puani-	puani-	p u a n i	(he) blows	mcelhanon-1967	342
+92392	ono	1573_SWELL	sue-	sue-	s u e	(it) swells	mcelhanon-1967	7934
+90451	komba	1209_I	nâ	nâ	n â/a	I	mcelhanon-1967	7845
+90465	komba	1215_THOU	gâ	gâ	g â/a	thou	mcelhanon-1967	7807
+90479	komba	1212_WE	nen	nen	n e n	we	mcelhanon-1967	8016
+90493	komba	1235_WHO	ŋâi	ŋâi	ŋ â/a i	who	mcelhanon-1967	343
+90507	komba	1236_WHAT	wan	wan	w a n	what	mcelhanon-1967	7759
+90521	komba	78_THAT	zo	zo	z o	that	mcelhanon-1967	7899
+90535	komba	1214_THIS	zi	zi	z i	this	mcelhanon-1967	7939
+90549	komba	1493_ONE	kânok	kânok	k â/a n o k	one	mcelhanon-1967	7876
+90563	komba	1498_TWO	zâhât	zâhât	z â/a h â/a t	two	mcelhanon-1967	7686
+90577	komba	1458_SAY	s-	s-	s	(he) says	mcelhanon-1967	7824
+90591	komba	1313_MOON	kain	kain	k a i n	moon	mcelhanon-1967	7915
+90605	komba	1395_ROUND	gawâŋ gawâŋ	gawâŋ_gawâŋ	g a w â/a ŋ + g a w â/a ŋ	round	mcelhanon-1967	7820
+90619	komba	1429_FULL	pik-	pik-	p i k	(it is) full	mcelhanon-1967	7911
+90633	komba	1371_KNEE	simin-	simin-	s i m i n	(his) knee	mcelhanon-1967	7812
+90647	komba	72_CLAW	pakit-	pakit-	p a k i t	(its) claw	mcelhanon-1967	7921
+90661	komba	1402_BREAST	nam-	nam-	n a m	breast	mcelhanon-1967	7830
+90675	komba	1446_COME	ga-	ga-	g a	(he) comes	mcelhanon-1967	7918
+90689	komba	1416_SIT	ta-	ta-	t a	(he) sits	mcelhanon-1967	7946
+90703	komba	1447_GIVE	nih-	nih-	n i h	(he) gives me	mcelhanon-1967	7894
+90717	komba	1442_STAND	kin-	kin-	k i n	(he) stands	mcelhanon-1967	7669
+90731	komba	98_ALL	aksik	aksik	a k s i k	all	mcelhanon-1967	344
+90745	komba	1198_MANY	biwirâ	biwirâ	b i w i r â/a	many	mcelhanon-1967	7666
+90759	komba	1233_NIGHT	ŋatik	ŋatik	ŋ a t i k	night	mcelhanon-1967	345
+90773	komba	1203_LONG	kârep	kârep	k â/a r e p	long	mcelhanon-1967	7663
+90787	komba	1202_BIG	patâ	patâ	p a t â/a	big	mcelhanon-1967	7743
+90801	komba	1246_SMALL	mâiktâ	mâiktâ	m â/a i k t â/a	small	mcelhanon-1967	346
+90815	komba	1430_STAR	segelak	segelak	s e g e l a k	star	mcelhanon-1967	7739
+90829	komba	1343_SUN	mirâsiŋ	mirâsiŋ	m i r â/a s i ŋ	sun	mcelhanon-1967	347
+90843	komba	1489_CLOUD	sasa	sasa	s a s a	cloud	mcelhanon-1967	348
+90857	komba	2108_RAINING_OR_RAIN	map	map	m a p	rain	mcelhanon-1967	7898
+90871	komba	1251_BELLY	tip-	tip-	t i p	(its) belly	mcelhanon-1967	7982
+90885	komba	1221_NOSE	sâgân-	sâgân-	s â/a g â/a n	(its) nose	mcelhanon-1967	8019
+90899	komba	1223_HEART	kabiam-	kabiam-	k a b i a m	(its) heart	mcelhanon-1967	7987
+90913	komba	323_FAT_ORGANIC_SUBSTANCE	kelâk-	kelâk-	k e l â/a k	(its) fat	mcelhanon-1967	8023
+90927	komba	1333_NECK	gâdu-	gâdu-	g â/a d u	its neck	mcelhanon-1967	349
+90941	komba	189_HAIR_BODY	sâmot-	sâmot-	s â/a m o t	(its) hair	mcelhanon-1967	8002
+90955	komba	2101_BE_DEAD_OR_DIE	mu-	mu-	m u	(he) dies	mcelhanon-1967	7923
+90969	komba	1409_SEE	nek-	nek-	n e k	(he) sees me	mcelhanon-1967	7906
+90983	komba	1585_SLEEP	zi-	zi-	z i	(he) sleeps	mcelhanon-1967	7996
+90997	komba	1336_EAT	ni-	ni-	n i	(he) eats	mcelhanon-1967	8319
+91011	komba	1403_BITE	zihi-	zihi-	z i h i	(he) bites it	mcelhanon-1967	7775
+91025	komba	163_BLACK	sumun sumun	sumun_sumun	s u m u n + s u m u n	black	mcelhanon-1967	350
+91039	komba	1425_GREEN	wâhân wâhân	wâhân_wâhân	w â/a h â/a n + w â/a h â/a n	green	mcelhanon-1967	351
+91053	komba	1335_WHITE	kau kau	kau_kau	k a u + k a u	white	mcelhanon-1967	7728
+91067	komba	156_RED	kuriŋ	kuriŋ	k u r i ŋ	red	mcelhanon-1967	7803
+91081	komba	1424_YELLOW	gibaŋ gibaŋ	gibaŋ_gibaŋ	g i b a ŋ + g i b a ŋ	yellow	mcelhanon-1967	7731
+91095	komba	1035_GOOD	âlipŋâ	âlipŋâ	â/a l i p ŋ â/a	good	mcelhanon-1967	7772
+91109	komba	2272_HOT_OR_WARM	kârâp	kârâp	k â/a r â/a p	hot	mcelhanon-1967	7747
+91123	komba	1231_NEW	irakŋâ	irakŋâ	i r a k ŋ â/a	new	mcelhanon-1967	7816
+91137	komba	1786_DRY_UP	ararâŋ-	ararâŋ-	a r a r â/a ŋ	(it is) dry	mcelhanon-1967	7660
+91151	komba	1287_COLD	pâteŋ	pâteŋ	p â/a t e ŋ	cold	mcelhanon-1967	352
+91165	komba	1405_NAME	kut-	kut-	k u t	(its) name	mcelhanon-1967	7689
+91179	komba	1240_NOT	mâ	mâ	m â/a	not	mcelhanon-1967	8017
+91193	komba	2102_BURN	si-	si-	s i	(it) burns	mcelhanon-1967	7688
+91207	komba	2457_PATH_OR_ROAD	mâtâp	mâtâp	m â/a t â/a p	road	mcelhanon-1967	353
+91221	komba	948_WATER	to	to	t o	water	mcelhanon-1967	7986
+91235	komba	778_SMOKE_EXHAUST	mudo	mudo	m u d o	smoke	mcelhanon-1967	354
+91249	komba	1433_HIT	ku-	ku-	k u	(he) hit him	mcelhanon-1967	7981
+91263	komba	1410_KNOW_SOMETHING	naga-	naga-	n a g a	(he) knows	mcelhanon-1967	7657
+91277	komba	671_SAND	sak	sak	s a k	sand	mcelhanon-1967	7832
+91291	komba	857_STONE	kât	kât	k â/a t	stone	mcelhanon-1967	7764
+91305	komba	639_MOUNTAIN	bakŋa	bakŋa	b a k ŋ a	mountain	mcelhanon-1967	355
+91319	komba	646_ASH	kau	kau	k a u	ashes	mcelhanon-1967	7785
+91333	komba	1228_EARTH_SOIL	an	an	a n	earth	mcelhanon-1967	7806
+91347	komba	628_LEAF	iin-	iin-	iː n	(its) leaf	mcelhanon-1967	7893
+91361	komba	906_TREE	nak	nak	n a k	tree	mcelhanon-1967	7834
+91375	komba	670_ROOT	âdâŋ-	âdâŋ-	â/a d â/a ŋ	(its) root	mcelhanon-1967	7770
+91389	komba	714_SEED	keet-	keet-	k eː t	(its) seed	mcelhanon-1967	7788
+91403	komba	1247_EAR	kidap-	kidap-	k i d a p	(its) ear	mcelhanon-1967	7868
+91417	komba	1392_LOUSE	imen	imen	i m e n	louse	mcelhanon-1967	7682
+91431	komba	2009_DOG	wau	wau	w a u	dog	mcelhanon-1967	356
+91445	komba	937_BIRD	ni	ni	n i	bird	mcelhanon-1967	13474
+91459	komba	962_WOMAN	abân	abân	a b â/a n	woman	mcelhanon-1967	7723
+91473	komba	1554_MAN	a	a	a	man	mcelhanon-1967	7701
+91487	komba	946_BLOOD	sep-	sep-	s e p	(its) blood	mcelhanon-1967	8029
+91501	komba	2121_ARM_OR_HAND	bit-	bit-	b i t	(his) hand	mcelhanon-1967	7800
+91515	komba	1205_TONGUE	nâbâlam-	nâbâlam-	n â/a b â/a l a m	(its) tongue	mcelhanon-1967	8008
+91529	komba	1380_TOOTH	sât-	sât-	s â/a t	(its) tooth	mcelhanon-1967	8030
+91543	komba	2098_FOOT_OR_LEG	ki-	ki-	k i	(its) foot	mcelhanon-1967	7708
+91557	komba	1220_TAIL	daa-	daa-	d aː	(its) tail	mcelhanon-1967	7887
+91571	komba	634_MEAT	sunum-	sunum-	s u n u m	(its) meat	mcelhanon-1967	7956
+91585	komba	1248_EYE	si-	si-	s i	(its) eye	mcelhanon-1967	7863
+91599	komba	763_SKIN	sâk-	sâk-	s â/a k	(its) skin	mcelhanon-1967	7958
+91613	komba	1256_HEAD	kauk-	kauk-	k a u k	(its) head	mcelhanon-1967	7756
+91627	komba	1394_BONE	tân-	tân-	t â/a n	(its) bone	mcelhanon-1967	357
+91641	komba	262_HE_OR_SHE_OR_IT	zâk	zâk	z â/a k	he	mcelhanon-1967	7871
+91655	komba	2312_YOU_OBLIQUE_CASE_OF_YOU	zen	zen	z e n	ye	mcelhanon-1967	7964
+91669	komba	817_THEY	zâk	zâk	z â/a k	they	mcelhanon-1967	7953
+91683	komba	1237_WHERE	wanân	wanân	w a n â/a n	where	mcelhanon-1967	7857
+91697	komba	1239_HOW	ikâi azo	ikâi_azo	i k â/a i + a z o	how	mcelhanon-1967	358
+91711	komba	1577_AND	opŋâ	opŋâ	o p ŋ â/a	and	mcelhanon-1967	7776
+91725	komba	1937_THERE	ade	ade	a d e	there	mcelhanon-1967	7706
+91739	komba	1019_RIGHT	bon	bon	b o n	right (side)	mcelhanon-1967	7799
+91753	komba	244_LEFT	kane	kane	k a n e	left side	mcelhanon-1967	7714
+91767	komba	1448_HOLD	mi-	mi-	m i	(he) holds	mcelhanon-1967	7786
+91781	komba	1280_FALL	lokgi-	lokgi-	l o k g i	(he) falls	mcelhanon-1967	359
+91795	komba	1588_TURN	purik-	purik-	p u r i k	(he) turns	mcelhanon-1967	7780
+91809	komba	1456_THROW	pan-	pan-	p a n	(he) throws:	mcelhanon-1967	360
+91823	komba	1455_PULL	oloŋ-	oloŋ-	o l o ŋ	(he) pulls	mcelhanon-1967	7811
+91837	komba	1452_PUSH	maati-	maati-	m aː t i	(he) pushes	mcelhanon-1967	361
+91851	komba	1453_WASH	sâgon-	sâgon-	s â/a g o n	(he) washes	mcelhanon-1967	7990
+91865	komba	1418_DIG	keda-	keda-	k e d a	(he) digs	mcelhanon-1967	7880
+91879	komba	1432_CUT	mânâga-	mânâga-	m â/a n â/a g a	(he) cuts	mcelhanon-1967	362
+91893	komba	1241_SOME	nâbut-	nâbut-	n â/a b u t	some	mcelhanon-1967	7884
+91907	komba	1645_SHORT	târâp-	târâp-	t â/a r â/a p	short	mcelhanon-1967	7972
+91921	komba	960_WIND	berom	berom	b e r o m	wind	mcelhanon-1967	7883
+91935	komba	1732_SKY	subem	subem	s u b e m	sky	mcelhanon-1967	7930
+91949	komba	2_DUST	isak	isak	i s a k	dust	mcelhanon-1967	7967
+91963	komba	624_LAKE	degân	degân	d e g â/a n	lake	mcelhanon-1967	7793
+91977	komba	239_FLOWER	bâlo-	bâlo-	b â/a l o	(its) flower	mcelhanon-1967	363
+91991	komba	1507_FRUIT	bon-	bon-	b o n	(its) fruit	mcelhanon-1967	7763
+92005	komba	1295_STICK	kabam	kabam	k a b a m	stick	mcelhanon-1967	7721
+92019	komba	1219_WORM	guk	guk	g u k	worm	mcelhanon-1967	7695
+92033	komba	730_SNAKE	mulum	mulum	m u l u m	snake	mcelhanon-1967	364
+92047	komba	619_ANIMAL	zu	zu	z u	animal	mcelhanon-1967	8036
+92061	komba	867_backofhand	kâdât-	kâdât-	k â/a d â/a t	(its) back	mcelhanon-1967	7737
+92075	komba	1257_WING	awât-	awât-	a w â/a t	(its) wing	mcelhanon-1967	365
+92089	komba	1407_BREATHE	yaak	yaak	j aː k	(its) breath	mcelhanon-1967	366
+92103	komba	1278_VOMIT	mohat-	mohat-	m o h a t	(he) vomits	mcelhanon-1967	7749
+92117	komba	1355_LAUGH	girâŋ-	girâŋ-	g i r â/a ŋ	(he) laughs	mcelhanon-1967	7902
+92131	komba	1421_SUCK	musuku-	musuku-	m u s u k u	(he) sucks	mcelhanon-1967	7810
+92145	komba	1839_CRY	isi-	isi-	i s i	(he) cries	mcelhanon-1967	7931
+92159	komba	1440_SPIT	tâp-	tâp-	t â/a p	(he) spits	mcelhanon-1967	7841
+92173	komba	725_OLD_PERSON	sobâ	sobâ	s o b â/a	old	mcelhanon-1967	7874
+92187	komba	2272_HOT_OR_WARM	uruk uruk	uruk_uruk	u r u k + u r u k	warm	mcelhanon-1967	7961
+92201	komba	1397_DULL	palâmŋâ	palâmŋâ	p a l â/a m ŋ â/a	dull	mcelhanon-1967	7999
+92215	komba	1262_BROTHER	ata-	ata-	a t a	(his) brother	mcelhanon-1967	7828
+92229	komba	1263_SISTER	uru-	uru-	u r u	(his) sister	mcelhanon-1967	367
+92243	komba	1217_FATHER	iwâ-	iwâ-	i w â/a	(his) father	mcelhanon-1967	7935
+92257	komba	1216_MOTHER	mam-	mam-	m a m	(his) mother	mcelhanon-1967	7715
+92271	komba	1457_SEW	gare-	gare-	g a r e	(she) sews	mcelhanon-1967	8033
+92285	komba	1218_ROPE	tâk	tâk	t â/a k	rope	mcelhanon-1967	7693
+92299	komba	1172_SHOOT	zer-	zer-	z e r	(he) shoots	mcelhanon-1967	8024
+92313	komba	1420_COUNT	sâlâpku-	sâlâpku-	s â/a l â/a p k u	(he) counts	mcelhanon-1967	7696
+92327	komba	1413_PLAY	sero	sero	s e r o	(they) play	mcelhanon-1967	368
+92341	komba	1895_CLOTHES	pet	pet	p e t	clothing	mcelhanon-1967	7699
+92355	komba	1086_WORK_ACTIVITY	nep	nep	n e p	work	mcelhanon-1967	7703
+92369	komba	945_SPEAR	ligip	ligip	l i g i p	spear	mcelhanon-1967	7838
+92383	komba	175_BLOW_OF_WIND	waa-	waa-	w aː	(he) blows	mcelhanon-1967	8037
+92397	komba	1573_SWELL	suk-	suk-	s u k	(it) swells	mcelhanon-1967	7934
+90447	selepet	1209_I	nâ	nâ	n â/a	I	mcelhanon-1967	7845
+90461	selepet	1215_THOU	gâ	gâ	g â/a	thou	mcelhanon-1967	7807
+90475	selepet	1212_WE	nen	nen	n e n	we	mcelhanon-1967	8016
+90489	selepet	1235_WHO	âlâ	âlâ	â/a l â/a	who	mcelhanon-1967	7979
+90503	selepet	1236_WHAT	wuân	wuân	w u â/a n	what	mcelhanon-1967	7759
+90517	selepet	78_THAT	ya	ya	j a	that	mcelhanon-1967	7899
+90531	selepet	1214_THIS	yu	yu	j u	this	mcelhanon-1967	369
+90545	selepet	1493_ONE	konok	konok	k o n o k	one	mcelhanon-1967	7876
+90559	selepet	1498_TWO	yâhâp	yâhâp	j â/a h â/a p	two	mcelhanon-1967	7686
+90573	selepet	1458_SAY	y-	y-	j	(he) says	mcelhanon-1967	7824
+90587	selepet	1313_MOON	emesenŋe	emesenŋe	e m e s e n ŋ e	moon	mcelhanon-1967	370
+90601	selepet	1395_ROUND	gâwâŋ gâwâŋ	gâwâŋ_gâwâŋ	g â/a w â/a ŋ + g â/a w â/a ŋ	round	mcelhanon-1967	7820
+90615	selepet	1429_FULL	pik-	pik-	p i k	(it is) full	mcelhanon-1967	7911
+90629	selepet	1371_KNEE	pawut-	pawut-	p a w u t	(his) knee	mcelhanon-1967	7814
+90643	selepet	72_CLAW	pekat-	pekat-	p e k a t	(its) claw	mcelhanon-1967	7921
+90657	selepet	1402_BREAST	nam-	nam-	n a m	breast	mcelhanon-1967	7830
+90671	selepet	1446_COME	ga-	ga-	g a	(he) comes	mcelhanon-1967	7918
+90685	selepet	1416_SIT	ta-	ta-	t a	(he) sits	mcelhanon-1967	7946
+90699	selepet	1447_GIVE	nihi-	nihi-	n i h i	(he) gives me	mcelhanon-1967	7894
+90713	selepet	1442_STAND	kin-	kin-	k i n	(he) stands	mcelhanon-1967	7669
+90727	selepet	98_ALL	kerek	kerek	k e r e k	all	mcelhanon-1967	371
+90741	selepet	1198_MANY	biwirâ	biwirâ	b i w i r â/a	many	mcelhanon-1967	7666
+90755	selepet	1233_NIGHT	omoŋ	omoŋ	o m o ŋ	night	mcelhanon-1967	372
+90769	selepet	1203_LONG	kâlip	kâlip	k â/a l i p	long	mcelhanon-1967	7663
+90783	selepet	1202_BIG	pato	pato	p a t o	big	mcelhanon-1967	7743
+90797	selepet	1246_SMALL	tipiŋe	tipiŋe	t i p i ŋ e	small	mcelhanon-1967	373
+90811	selepet	1430_STAR	petu	petu	p e t u	star	mcelhanon-1967	7740
+90825	selepet	1343_SUN	dewutâ	dewutâ	d e w u t â/a	sun	mcelhanon-1967	374
+90839	selepet	1489_CLOUD	elem	elem	e l e m	cloud	mcelhanon-1967	375
+90853	selepet	2108_RAINING_OR_RAIN	gelâk	gelâk	g e l â/a k	rain	mcelhanon-1967	376
+90867	selepet	1251_BELLY	tep-	tep-	t e p	(its) belly	mcelhanon-1967	7982
+90881	selepet	1221_NOSE	hâme-	hâme-	h â/a m e	(its) nose	mcelhanon-1967	8018
+90895	selepet	1223_HEART	kabiam-	kabiam-	k a b i a m	(its) heart	mcelhanon-1967	7987
+90909	selepet	323_FAT_ORGANIC_SUBSTANCE	kelu-	kelu-	k e l u	(its) fat	mcelhanon-1967	8023
+90923	selepet	1333_NECK	obe-	obe-	o b e	its neck	mcelhanon-1967	7942
+90937	selepet	189_HAIR_BODY	somot-	somot-	s o m o t	(its) hair	mcelhanon-1967	8002
+90951	selepet	2101_BE_DEAD_OR_DIE	mu-	mu-	m u	(he) dies	mcelhanon-1967	7923
+90965	selepet	1409_SEE	nek-	nek-	n e k	(he) sees me	mcelhanon-1967	7906
+90979	selepet	1585_SLEEP	i-	i-	i	(he) sleeps	mcelhanon-1967	7996
+90993	selepet	1336_EAT	ni-	ni-	n i	(he) eats	mcelhanon-1967	8319
+91007	selepet	1403_BITE	ihi-	ihi-	i h i	(he) bites it	mcelhanon-1967	7775
+91021	selepet	163_BLACK	heleŋ	heleŋ	h e l e ŋ	black	mcelhanon-1967	7913
+91035	selepet	1425_GREEN	golâ	golâ	g o l â/a	green	mcelhanon-1967	7752
+91049	selepet	1335_WHITE	kaok	kaok	k a o k	white	mcelhanon-1967	7728
+91063	selepet	156_RED	kuriŋ	kuriŋ	k u r i ŋ	red	mcelhanon-1967	7803
+91077	selepet	1424_YELLOW	gibaŋ	gibaŋ	g i b a ŋ	yellow	mcelhanon-1967	7731
+91091	selepet	1035_GOOD	âlipŋe	âlipŋe	â/a l i p ŋ e	good	mcelhanon-1967	7772
+91105	selepet	2272_HOT_OR_WARM	kâlâp	kâlâp	k â/a l â/a p	hot	mcelhanon-1967	7747
+91119	selepet	1231_NEW	âiŋe	âiŋe	â/a i ŋ e	new	mcelhanon-1967	377
+91133	selepet	1786_DRY_UP	hârâŋ-	hârâŋ-	h â/a r â/a ŋ	(it is) dry	mcelhanon-1967	7660
+91147	selepet	1287_COLD	bâlâpŋe	bâlâpŋe	b â/a l â/a p ŋ e	cold	mcelhanon-1967	7681
+91161	selepet	1405_NAME	kut-	kut-	k u t	(its) name	mcelhanon-1967	7689
+91175	selepet	1240_NOT	ki	ki	k i	not	mcelhanon-1967	7789
+91189	selepet	2102_BURN	si-	si-	s i	(it) burns	mcelhanon-1967	7688
+91203	selepet	2457_PATH_OR_ROAD	giop	giop	g i o p	road	mcelhanon-1967	378
+91217	selepet	948_WATER	to	to	t o	water	mcelhanon-1967	7986
+91231	selepet	778_SMOKE_EXHAUST	utun	utun	u t u n	smoke	mcelhanon-1967	379
+91245	selepet	1433_HIT	ku-	ku-	k u	(he) hit him	mcelhanon-1967	7981
+91259	selepet	1410_KNOW_SOMETHING	naga-	naga-	n a g a	(he) knows	mcelhanon-1967	7657
+91273	selepet	671_SAND	sak	sak	s a k	sand	mcelhanon-1967	7832
+91287	selepet	857_STONE	kât	kât	k â/a t	stone	mcelhanon-1967	7764
+91301	selepet	639_MOUNTAIN	gibâŋe	gibâŋe	g i b â/a ŋ e	mountain	mcelhanon-1967	7861
+91315	selepet	646_ASH	kâu	kâu	k â/a u	ashes	mcelhanon-1967	7785
+91329	selepet	1228_EARTH_SOIL	hân	hân	h â/a n	earth	mcelhanon-1967	7806
+91343	selepet	628_LEAF	esen-	esen-	e s e n	(its) leaf	mcelhanon-1967	7893
+91357	selepet	906_TREE	nak	nak	n a k	tree	mcelhanon-1967	7834
+91371	selepet	670_ROOT	gihit-	gihit-	g i h i t	(its) root	mcelhanon-1967	380
+91385	selepet	714_SEED	kehet-	kehet-	k e h e t	(its) seed	mcelhanon-1967	7788
+91399	selepet	1247_EAR	âdâp-	âdâp-	â/a d â/a p	(its) ear	mcelhanon-1967	7867
+91413	selepet	1392_LOUSE	imen	imen	i m e n	louse	mcelhanon-1967	7682
+91427	selepet	2009_DOG	soso	soso	s o s o	dog	mcelhanon-1967	381
+91441	selepet	937_BIRD	nâi	nâi	n â/a i	bird	mcelhanon-1967	13474
+91455	selepet	962_WOMAN	ibi	ibi	i b i	woman	mcelhanon-1967	7723
+91469	selepet	1554_MAN	lok	lok	l o k	man	mcelhanon-1967	7702
+91483	selepet	946_BLOOD	hep-	hep-	h e p	(its) blood	mcelhanon-1967	8029
+91497	selepet	2121_ARM_OR_HAND	bât-	bât-	b â/a t	(his) hand	mcelhanon-1967	7800
+91511	selepet	1205_TONGUE	nibilam-	nibilam-	n i b i l a m	(its) tongue	mcelhanon-1967	8008
+91525	selepet	1380_TOOTH	sât-	sât-	s â/a t	(its) tooth	mcelhanon-1967	8030
+91539	selepet	2098_FOOT_OR_LEG	kâi-	kâi-	k â/a i	(its) foot	mcelhanon-1967	7708
+91553	selepet	1220_TAIL	hape-	hape-	h a p e	(its) tail	mcelhanon-1967	7889
+91567	selepet	634_MEAT	sunum-	sunum-	s u n u m	(its) meat	mcelhanon-1967	7956
+91581	selepet	1248_EYE	sen-	sen-	s e n	(its) eye	mcelhanon-1967	7863
+91595	selepet	763_SKIN	hâk-	hâk-	h â/a k	(its) skin	mcelhanon-1967	7958
+91609	selepet	1256_HEAD	kun-	kun-	k u n	(its) head	mcelhanon-1967	7755
+91623	selepet	1394_BONE	hahit-	hahit-	h a h i t	(its) bone	mcelhanon-1967	7962
+91637	selepet	262_HE_OR_SHE_OR_IT	yâk	yâk	j â/a k	he	mcelhanon-1967	7871
+91651	selepet	2312_YOU_OBLIQUE_CASE_OF_YOU	yen	yen	j e n	ye	mcelhanon-1967	7964
+91665	selepet	817_THEY	yâk	yâk	j â/a k	they	mcelhanon-1967	7953
+91679	selepet	1237_WHERE	wonân	wonân	w o n â/a n	where	mcelhanon-1967	7857
+91693	selepet	1239_HOW	gira	gira	g i r a	how	mcelhanon-1967	382
+91707	selepet	1577_AND	otmu	otmu	o t m u	and	mcelhanon-1967	383
+91721	selepet	1937_THERE	eda	eda	e d a	there	mcelhanon-1967	7706
+91735	selepet	1019_RIGHT	bon	bon	b o n	right (side)	mcelhanon-1967	7799
+91749	selepet	244_LEFT	kane	kane	k a n e	left side	mcelhanon-1967	7714
+91763	selepet	1448_HOLD	mi-	mi-	m i	(he) holds	mcelhanon-1967	7786
+91777	selepet	1280_FALL	kioŋ-	kioŋ-	k i o ŋ	(he) falls	mcelhanon-1967	384
+91791	selepet	1588_TURN	purik-	purik-	p u r i k	(he) turns	mcelhanon-1967	7780
+91805	selepet	1456_THROW	pila-	pila-	p i l a	(he) throws:	mcelhanon-1967	385
+91819	selepet	1455_PULL	dâi-	dâi-	d â/a i	(he) pulls	mcelhanon-1967	386
+91833	selepet	1452_PUSH	hâpun-	hâpun-	h â/a p u n	(he) pushes	mcelhanon-1967	387
+91847	selepet	1453_WASH	puri-	puri-	p u r i	(he) washes	mcelhanon-1967	7991
+91861	selepet	1418_DIG	ai-	ai-	a i	(he) digs	mcelhanon-1967	388
+91875	selepet	1432_CUT	hâre-	hâre-	h â/a r e	(he) cuts	mcelhanon-1967	7971
+91889	selepet	1241_SOME	nobot-	nobot-	n o b o t	some	mcelhanon-1967	7884
+91903	selepet	1645_SHORT	tâlâwâk	tâlâwâk	t â/a l â/a w â/a k	short	mcelhanon-1967	7972
+91917	selepet	960_WIND	berom	berom	b e r o m	wind	mcelhanon-1967	7883
+91931	selepet	1732_SKY	hibim	hibim	h i b i m	sky	mcelhanon-1967	7930
+91945	selepet	2_DUST	wahap	wahap	w a h a p	dust	mcelhanon-1967	7968
+91959	selepet	624_LAKE	degân	degân	d e g â/a n	lake	mcelhanon-1967	7793
+91973	selepet	239_FLOWER	suri-	suri-	s u r i	(its) flower	mcelhanon-1967	7684
+91987	selepet	1507_FRUIT	bon-	bon-	b o n	(its) fruit	mcelhanon-1967	7763
+92001	selepet	1295_STICK	kapam	kapam	k a p a m	stick	mcelhanon-1967	7721
+92015	selepet	1219_WORM	wik	wik	w i k	worm	mcelhanon-1967	8006
+92029	selepet	730_SNAKE	habe	habe	h a b e	snake	mcelhanon-1967	389
+92043	selepet	619_ANIMAL	sogo	sogo	s o g o	animal	mcelhanon-1967	7992
+92057	selepet	867_backofhand	kâdât-	kâdât-	k â/a d â/a t	(its) back	mcelhanon-1967	7737
+92071	selepet	1257_WING	pegam-	pegam-	p e g a m	(its) wing	mcelhanon-1967	7853
+92085	selepet	1407_BREATHE	heak	heak	h e a k	(its) breath	mcelhanon-1967	7676
+92099	selepet	1278_VOMIT	mohat-	mohat-	m o h a t	(he) vomits	mcelhanon-1967	7749
+92113	selepet	1355_LAUGH	giriŋ-	giriŋ-	g i r i ŋ	(he) laughs	mcelhanon-1967	7902
+92127	selepet	1421_SUCK	musuku-	musuku-	m u s u k u	(he) sucks	mcelhanon-1967	7810
+92141	selepet	1839_CRY	isi-	isi-	i s i	(he) cries	mcelhanon-1967	7931
+92155	selepet	1440_SPIT	tâp-	tâp-	t â/a p	(he) spits	mcelhanon-1967	7841
+92169	selepet	725_OLD_PERSON	sobo	sobo	s o b o	old	mcelhanon-1967	7874
+92183	selepet	2272_HOT_OR_WARM	uruk uruk	uruk_uruk	u r u k + u r u k	warm	mcelhanon-1967	7961
+92197	selepet	1397_DULL	pâlâmŋe	pâlâmŋe	p â/a l â/a m ŋ e	dull	mcelhanon-1967	7999
+92211	selepet	1262_BROTHER	ata-	ata-	a t a	(his) brother	mcelhanon-1967	7828
+92225	selepet	1263_SISTER	tou-	tou-	t o u	(his) sister	mcelhanon-1967	7847
+92239	selepet	1217_FATHER	awâ-	awâ-	a w â/a	(his) father	mcelhanon-1967	7935
+92253	selepet	1216_MOTHER	mâmâ-	mâmâ-	m â/a m â/a	(his) mother	mcelhanon-1967	7715
+92267	selepet	1457_SEW	gâre-	gâre-	g â/a r e	(she) sews	mcelhanon-1967	8033
+92281	selepet	1218_ROPE	ip	ip	i p	rope	mcelhanon-1967	390
+92295	selepet	1172_SHOOT	yer-	yer-	j e r	(he) shoots	mcelhanon-1967	8024
+92309	selepet	1420_COUNT	sâliku-	sâliku-	s â/a l i k u	(he) counts	mcelhanon-1967	7696
+92323	selepet	1413_PLAY	heŋ	heŋ	h e ŋ	(they) play	mcelhanon-1967	391
+92337	selepet	1895_CLOTHES	pet	pet	p e t	clothing	mcelhanon-1967	7699
+92351	selepet	1086_WORK_ACTIVITY	nep	nep	n e p	work	mcelhanon-1967	7703
+92365	selepet	945_SPEAR	igep	igep	i g e p	spear	mcelhanon-1967	7838
+92379	selepet	175_BLOW_OF_WIND	hângu-	hângu-	h â/a n g u	(he) blows	mcelhanon-1967	392
+92393	selepet	1573_SWELL	suk-	suk-	s u k	(it) swells	mcelhanon-1967	7934
+90453	timbe	1209_I	nâ	nâ	n â/a	I	mcelhanon-1967	7845
+90467	timbe	1215_THOU	gâ	gâ	g â/a	thou	mcelhanon-1967	7807
+90481	timbe	1212_WE	nen	nen	n e n	we	mcelhanon-1967	8016
+90495	timbe	1235_WHO	kiâ	kiâ	k i â/a	who	mcelhanon-1967	393
+90509	timbe	1236_WHAT	wan	wan	w a n	what	mcelhanon-1967	7759
+90523	timbe	78_THAT	idâ	idâ	i d â/a	that	mcelhanon-1967	394
+90537	timbe	1214_THIS	i	i	i	this	mcelhanon-1967	7940
+90551	timbe	1493_ONE	kânok	kânok	k â/a n o k	one	mcelhanon-1967	7876
+90565	timbe	1498_TWO	lâuwâ	lâuwâ	l â/a u w â/a	two	mcelhanon-1967	395
+90579	timbe	1458_SAY	ma-	ma-	m a	(he) says	mcelhanon-1967	396
+90593	timbe	1313_MOON	dewutâ hâdâhân gâtŋe	dewutâ_hâdâhân_gâtŋe	d e w u t â/a + h â/a d â/a h â/a n + g â/a t ŋ e	moon	mcelhanon-1967	397
+90607	timbe	1395_ROUND	gâwâŋ gâwâŋ	gâwâŋ_gâwâŋ	g â/a w â/a ŋ + g â/a w â/a ŋ	round	mcelhanon-1967	7820
+90621	timbe	1429_FULL	pik-	pik-	p i k	(it is) full	mcelhanon-1967	7911
+90635	timbe	1371_KNEE	pawut-	pawut-	p a w u t	(his) knee	mcelhanon-1967	7814
+90649	timbe	72_CLAW	pekat-	pekat-	p e k a t	(its) claw	mcelhanon-1967	7921
+90663	timbe	1402_BREAST	nam-	nam-	n a m	breast	mcelhanon-1967	7830
+90677	timbe	1446_COME	gu-	gu-	g u	(he) comes	mcelhanon-1967	7918
+90691	timbe	1416_SIT	ta-	ta-	t a	(he) sits	mcelhanon-1967	7946
+90705	timbe	1447_GIVE	niŋ-	niŋ-	n i ŋ	(he) gives me	mcelhanon-1967	7894
+90719	timbe	1442_STAND	kin-	kin-	k i n	(he) stands	mcelhanon-1967	7669
+90733	timbe	98_ALL	hârowâk	hârowâk	h â/a r o w â/a k	all	mcelhanon-1967	398
+90747	timbe	1198_MANY	biwirâ	biwirâ	b i w i r â/a	many	mcelhanon-1967	7666
+90761	timbe	1233_NIGHT	hadâk	hadâk	h a d â/a k	night	mcelhanon-1967	399
+90775	timbe	1203_LONG	kâlip	kâlip	k â/a l i p	long	mcelhanon-1967	7663
+90789	timbe	1202_BIG	humo	humo	h u m o	big	mcelhanon-1967	400
+90803	timbe	1246_SMALL	bâleŋe	bâleŋe	b â/a l e ŋ e	small	mcelhanon-1967	401
+90817	timbe	1430_STAR	pituŋ	pituŋ	p i t u ŋ	star	mcelhanon-1967	7740
+90831	timbe	1343_SUN	poiap	poiap	p o i a p	sun	mcelhanon-1967	402
+90845	timbe	1489_CLOUD	hamadat	hamadat	h a m a d a t	cloud	mcelhanon-1967	403
+90859	timbe	2108_RAINING_OR_RAIN	tânâk	tânâk	t â/a n â/a k	rain	mcelhanon-1967	404
+90873	timbe	1251_BELLY	tep-	tep-	t e p	(its) belly	mcelhanon-1967	7982
+90887	timbe	1221_NOSE	hâme-	hâme-	h â/a m e	(its) nose	mcelhanon-1967	8018
+90901	timbe	1223_HEART	okot-	okot-	o k o t	(its) heart	mcelhanon-1967	405
+90915	timbe	323_FAT_ORGANIC_SUBSTANCE	kelu-	kelu-	k e l u	(its) fat	mcelhanon-1967	8023
+90929	timbe	1333_NECK	han-	han-	h a n	its neck	mcelhanon-1967	406
+90943	timbe	189_HAIR_BODY	dumut-	dumut-	d u m u t	(its) hair	mcelhanon-1967	8002
+90957	timbe	2101_BE_DEAD_OR_DIE	mo-	mo-	m o	(he) dies	mcelhanon-1967	7923
+90971	timbe	1409_SEE	nek-	nek-	n e k	(he) sees me	mcelhanon-1967	7906
+90985	timbe	1585_SLEEP	ye-	ye-	j e	(he) sleeps	mcelhanon-1967	7996
+90999	timbe	1336_EAT	ni-	ni-	n i	(he) eats	mcelhanon-1967	8319
+91013	timbe	1403_BITE	ihi-	ihi-	i h i	(he) bites it	mcelhanon-1967	7775
+91027	timbe	163_BLACK	heleŋ	heleŋ	h e l e ŋ	black	mcelhanon-1967	7913
+91041	timbe	1425_GREEN	golâ	golâ	g o l â/a	green	mcelhanon-1967	7752
+91055	timbe	1335_WHITE	kau	kau	k a u	white	mcelhanon-1967	7728
+91069	timbe	156_RED	gilâmŋe	gilâmŋe	g i l â/a m ŋ e	red	mcelhanon-1967	407
+91083	timbe	1424_YELLOW	gibaŋ	gibaŋ	g i b a ŋ	yellow	mcelhanon-1967	7731
+91097	timbe	1035_GOOD	âlipŋe	âlipŋe	â/a l i p ŋ e	good	mcelhanon-1967	7772
+91111	timbe	2272_HOT_OR_WARM	kâlâp	kâlâp	k â/a l â/a p	hot	mcelhanon-1967	7747
+91125	timbe	1231_NEW	irakŋe	irakŋe	i r a k ŋ e	new	mcelhanon-1967	7816
+91139	timbe	1786_DRY_UP	kamili-	kamili-	k a m i l i	(it is) dry	mcelhanon-1967	408
+91153	timbe	1287_COLD	bâlâpŋe	bâlâpŋe	b â/a l â/a p ŋ e	cold	mcelhanon-1967	7681
+91167	timbe	1405_NAME	kot-	kot-	k o t	(its) name	mcelhanon-1967	7689
+91181	timbe	1240_NOT	bo	bo	b o	not	mcelhanon-1967	409
+91195	timbe	2102_BURN	o-	o-	o	(it) burns	mcelhanon-1967	410
+91209	timbe	2457_PATH_OR_ROAD	dâp	dâp	d â/a p	road	mcelhanon-1967	411
+91223	timbe	948_WATER	tu	tu	t u	water	mcelhanon-1967	7986
+91237	timbe	778_SMOKE_EXHAUST	dâwok	dâwok	d â/a w o k	smoke	mcelhanon-1967	412
+91251	timbe	1433_HIT	ko-	ko-	k o	(he) hit him	mcelhanon-1967	7981
+91265	timbe	1410_KNOW_SOMETHING	nâgâ-	nâgâ-	n â/a g â/a	(he) knows	mcelhanon-1967	7657
+91279	timbe	671_SAND	sak	sak	s a k	sand	mcelhanon-1967	7832
+91293	timbe	857_STONE	kât	kât	k â/a t	stone	mcelhanon-1967	7764
+91307	timbe	639_MOUNTAIN	gibâŋe	gibâŋe	g i b â/a ŋ e	mountain	mcelhanon-1967	7861
+91321	timbe	646_ASH	kau	kau	k a u	ashes	mcelhanon-1967	7785
+91335	timbe	1228_EARTH_SOIL	hân	hân	h â/a n	earth	mcelhanon-1967	7806
+91349	timbe	628_LEAF	esen-	esen-	e s e n	(its) leaf	mcelhanon-1967	7893
+91363	timbe	906_TREE	lâwin	lâwin	l â/a w i n	tree	mcelhanon-1967	413
+91377	timbe	670_ROOT	kâdârâ-	kâdârâ-	k â/a d â/a r â/a	(its) root	mcelhanon-1967	7768
+91391	timbe	714_SEED	kâdet-	kâdet-	k â/a d e t	(its) seed	mcelhanon-1967	414
+91405	timbe	1247_EAR	âdâp-	âdâp-	â/a d â/a p	(its) ear	mcelhanon-1967	7867
+91419	timbe	1392_LOUSE	imen	imen	i m e n	louse	mcelhanon-1967	7682
+91433	timbe	2009_DOG	dua	dua	d u a	dog	mcelhanon-1967	415
+91447	timbe	937_BIRD	laut	laut	l a u t	bird	mcelhanon-1967	8040
+91461	timbe	962_WOMAN	âbâi	âbâi	â/a b â/a i	woman	mcelhanon-1967	7723
+91475	timbe	1554_MAN	luâk	luâk	l u â/a k	man	mcelhanon-1967	7702
+91489	timbe	946_BLOOD	gilâm-	gilâm-	g i l â/a m	(its) blood	mcelhanon-1967	416
+91503	timbe	2121_ARM_OR_HAND	bât-	bât-	b â/a t	(his) hand	mcelhanon-1967	7800
+91517	timbe	1205_TONGUE	elewot-	elewot-	e l e w o t	(its) tongue	mcelhanon-1967	417
+91531	timbe	1380_TOOTH	dât-	dât-	d â/a t	(its) tooth	mcelhanon-1967	8030
+91545	timbe	2098_FOOT_OR_LEG	kei-	kei-	k e i	(its) foot	mcelhanon-1967	7708
+91559	timbe	1220_TAIL	dape-	dape-	d a p e	(its) tail	mcelhanon-1967	7889
+91573	timbe	634_MEAT	sunum-	sunum-	s u n u m	(its) meat	mcelhanon-1967	7956
+91587	timbe	1248_EYE	dewun-	dewun-	d e w u n	(its) eye	mcelhanon-1967	418
+91601	timbe	763_SKIN	hâk-	hâk-	h â/a k	(its) skin	mcelhanon-1967	7958
+91615	timbe	1256_HEAD	kaut-	kaut-	k a u t	(its) head	mcelhanon-1967	7756
+91629	timbe	1394_BONE	hahit-	hahit-	h a h i t	(its) bone	mcelhanon-1967	7962
+91643	timbe	262_HE_OR_SHE_OR_IT	yâk	yâk	j â/a k	he	mcelhanon-1967	7871
+91657	timbe	2312_YOU_OBLIQUE_CASE_OF_YOU	ye	ye	j e	ye	mcelhanon-1967	7964
+91671	timbe	817_THEY	yâk	yâk	j â/a k	they	mcelhanon-1967	7953
+91685	timbe	1237_WHERE	wanân	wanân	w a n â/a n	where	mcelhanon-1967	7857
+91699	timbe	1239_HOW	gain hinare	gain_hinare	g a i n + h i n a r e	how	mcelhanon-1967	419
+91713	timbe	1577_AND	akdo	akdo	a k d o	and	mcelhanon-1967	420
+91727	timbe	1937_THERE	idâ	idâ	i d â/a	there	mcelhanon-1967	7706
+91741	timbe	1019_RIGHT	bun	bun	b u n	right (side)	mcelhanon-1967	7799
+91755	timbe	244_LEFT	kane	kane	k a n e	left side	mcelhanon-1967	7714
+91769	timbe	1448_HOLD	me-	me-	m e	(he) holds	mcelhanon-1967	7786
+91783	timbe	1280_FALL	gi-	gi-	g i	(he) falls	mcelhanon-1967	421
+91797	timbe	1588_TURN	purik-	purik-	p u r i k	(he) turns	mcelhanon-1967	7780
+91811	timbe	1456_THROW	hepu-	hepu-	h e p u	(he) throws:	mcelhanon-1967	422
+91825	timbe	1455_PULL	oloŋak-	oloŋak-	o l o ŋ a k	(he) pulls	mcelhanon-1967	7811
+91839	timbe	1452_PUSH	hokok-	hokok-	h o k o k	(he) pushes	mcelhanon-1967	423
+91853	timbe	1453_WASH	puli-	puli-	p u l i	(he) washes	mcelhanon-1967	7991
+91867	timbe	1418_DIG	kendâ-	kendâ-	k e n d â/a	(he) digs	mcelhanon-1967	7880
+91881	timbe	1432_CUT	hâri-	hâri-	h â/a r i	(he) cuts	mcelhanon-1967	7971
+91895	timbe	1241_SOME	bik-	bik-	b i k	some	mcelhanon-1967	424
+91909	timbe	1645_SHORT	tâlâwâk	tâlâwâk	t â/a l â/a w â/a k	short	mcelhanon-1967	7972
+91923	timbe	960_WIND	seru	seru	s e r u	wind	mcelhanon-1967	425
+91937	timbe	1732_SKY	hibim	hibim	h i b i m	sky	mcelhanon-1967	7930
+91951	timbe	2_DUST	gahap	gahap	g a h a p	dust	mcelhanon-1967	7968
+91965	timbe	624_LAKE	bâtgum	bâtgum	b â/a t g u m	lake	mcelhanon-1967	426
+91979	timbe	239_FLOWER	huri-	huri-	h u r i	(its) flower	mcelhanon-1967	7684
+91993	timbe	1507_FRUIT	bun-	bun-	b u n	(its) fruit	mcelhanon-1967	7763
+92007	timbe	1295_STICK	buhâ	buhâ	b u h â/a	stick	mcelhanon-1967	427
+92021	timbe	1219_WORM	gipmaŋ	gipmaŋ	g i p m a ŋ	worm	mcelhanon-1967	8005
+92035	timbe	730_SNAKE	niabi	niabi	n i a b i	snake	mcelhanon-1967	7717
+92049	timbe	619_ANIMAL	yo	yo	j o	animal	mcelhanon-1967	8036
+92063	timbe	867_backofhand	hame-	hame-	h a m e	(its) back	mcelhanon-1967	428
+92077	timbe	1257_WING	bâbâlâm-	bâbâlâm-	b â/a b â/a l â/a m	(its) wing	mcelhanon-1967	429
+92091	timbe	1407_BREATHE	heak	heak	h e a k	(its) breath	mcelhanon-1967	7676
+92105	timbe	1278_VOMIT	muhat-	muhat-	m u h a t	(he) vomits	mcelhanon-1967	7749
+92119	timbe	1355_LAUGH	giriŋ-	giriŋ-	g i r i ŋ	(he) laughs	mcelhanon-1967	7902
+92133	timbe	1421_SUCK	musuku-	musuku-	m u s u k u	(he) sucks	mcelhanon-1967	7810
+92147	timbe	1839_CRY	ide-	ide-	i d e	(he) cries	mcelhanon-1967	430
+92161	timbe	1440_SPIT	tâwut-	tâwut-	t â/a w u t	(he) spits	mcelhanon-1967	431
+92175	timbe	725_OLD_PERSON	sâbâ	sâbâ	s â/a b â/a	old	mcelhanon-1967	7874
+92189	timbe	2272_HOT_OR_WARM	utunŋe utudâk	utunŋe_utudâk	u t u n ŋ e + u t u d â/a k	warm	mcelhanon-1967	432
+92203	timbe	1397_DULL	pâlâmŋe	pâlâmŋe	p â/a l â/a m ŋ e	dull	mcelhanon-1967	7999
+92217	timbe	1262_BROTHER	teu-	teu-	t e u	(his) brother	mcelhanon-1967	433
+92231	timbe	1263_SISTER	tâu-	tâu-	t â/a u	(his) sister	mcelhanon-1967	7847
+92245	timbe	1217_FATHER	ewe-	ewe-	e w e	(his) father	mcelhanon-1967	7935
+92259	timbe	1216_MOTHER	meme-	meme-	m e m e	(his) mother	mcelhanon-1967	7715
+92273	timbe	1457_SEW	parut-	parut-	p a r u t	(she) sews	mcelhanon-1967	434
+92287	timbe	1218_ROPE	tâk	tâk	t â/a k	rope	mcelhanon-1967	7693
+92301	timbe	1172_SHOOT	er-	er-	e r	(he) shoots	mcelhanon-1967	8024
+92315	timbe	1420_COUNT	oyaŋ-	oyaŋ-	o j a ŋ	(he) counts	mcelhanon-1967	7698
+92329	timbe	1413_PLAY	hâlimak-	hâlimak-	h â/a l i m a k	(they) play	mcelhanon-1967	435
+92343	timbe	1895_CLOTHES	yaban	yaban	j a b a n	clothing	mcelhanon-1967	436
+92357	timbe	1086_WORK_ACTIVITY	nep	nep	n e p	work	mcelhanon-1967	7703
+92371	timbe	945_SPEAR	igep	igep	i g e p	spear	mcelhanon-1967	7838
+92385	timbe	175_BLOW_OF_WIND	wai-	wai-	w a i	(he) blows	mcelhanon-1967	8037
+92399	timbe	1573_SWELL	kaule-	kaule-	k a u l e	(it) swells	mcelhanon-1967	437
+90459	nabak	1209_I	nəŋ	nəŋ	n ə ŋ	I	mcelhanon-1967	7845
+90473	nabak	1215_THOU	gəŋ	gəŋ	g ə ŋ	thou	mcelhanon-1967	7807
+90487	nabak	1212_WE	nin	nin	n i n	we	mcelhanon-1967	8016
+90501	nabak	1235_WHO	kureki	kureki	k u r e k i	who	mcelhanon-1967	438
+90515	nabak	1236_WHAT	pitne	pitne	p i t n e	what	mcelhanon-1967	439
+90529	nabak	78_THAT	ke	ke	k e	that	mcelhanon-1967	440
+90543	nabak	1214_THIS	kapi	kapi	k a p i	this	mcelhanon-1967	441
+90557	nabak	1493_ONE	kpep	kpep	k p e p	one	mcelhanon-1967	7877
+90571	nabak	1498_TWO	dzut	dzut	d z u t	two	mcelhanon-1967	442
+90585	nabak	1458_SAY	dzei-	dzei-	d z e i	(he) says	mcelhanon-1967	7824
+90599	nabak	1313_MOON	eyoŋge	eyoŋge	e j o ŋ g e	moon	mcelhanon-1967	7914
+90613	nabak	1395_ROUND	kililiŋ	kililiŋ	k i l i l i ŋ	round	mcelhanon-1967	443
+90627	nabak	1429_FULL	dzedze kpe-	dzedze_kpe-	d z e d z e + k p e	(it is) full	mcelhanon-1967	7970
+90641	nabak	1371_KNEE	kpet-	kpet-	k p e t	(his) knee	mcelhanon-1967	444
+90655	nabak	72_CLAW	pəluk-	pəluk-	p ə l u k	(its) claw	mcelhanon-1967	445
+90669	nabak	1402_BREAST	nam-	nam-	n a m	breast	mcelhanon-1967	7830
+90683	nabak	1446_COME	kpe-	kpe-	k p e	(he) comes	mcelhanon-1967	446
+90697	nabak	1416_SIT	ta-	ta-	t a	(he) sits	mcelhanon-1967	7946
+90711	nabak	1447_GIVE	nai-	nai-	n a i	(he) gives me	mcelhanon-1967	447
+90725	nabak	1442_STAND	ta-	ta-	t a	(he) stands	mcelhanon-1967	7672
+90739	nabak	98_ALL	ilinsakpep	ilinsakpep	i l i n s a k p e p	all	mcelhanon-1967	448
+90753	nabak	1198_MANY	kilisik	kilisik	k i l i s i k	many	mcelhanon-1967	7665
+90767	nabak	1233_NIGHT	təmbuyat	təmbuyat	t ə m b u j a t	night	mcelhanon-1967	449
+90781	nabak	1203_LONG	teepməŋ	teepməŋ	t eː p m ə ŋ	long	mcelhanon-1967	450
+90795	nabak	1202_BIG	taemba	taemba	t a e m b a	big	mcelhanon-1967	451
+90809	nabak	1246_SMALL	isikŋen	isikŋen	i s i k ŋ e n	small	mcelhanon-1967	452
+90823	nabak	1430_STAR	wenzim	wenzim	w e n z i m	star	mcelhanon-1967	453
+90837	nabak	1343_SUN	kəsuk	kəsuk	k ə s u k	sun	mcelhanon-1967	454
+90851	nabak	1489_CLOUD	dzandza	dzandza	d z a n d z a	cloud	mcelhanon-1967	455
+90865	nabak	2108_RAINING_OR_RAIN	map	map	m a p	rain	mcelhanon-1967	7898
+90879	nabak	1251_BELLY	tip-	tip-	t i p	(its) belly	mcelhanon-1967	7982
+90893	nabak	1221_NOSE	ŋiŋəŋ-	ŋiŋəŋ-	ŋ i ŋ ə ŋ	(its) nose	mcelhanon-1967	456
+90907	nabak	1223_HEART	gum kət-	gum_kət-	g u m + k ə t	(its) heart	mcelhanon-1967	457
+90921	nabak	323_FAT_ORGANIC_SUBSTANCE	kerak-	kerak-	k e r a k	(its) fat	mcelhanon-1967	8023
+90935	nabak	1333_NECK	ŋande-	ŋande-	ŋ a n d e	its neck	mcelhanon-1967	7941
+90949	nabak	189_HAIR_BODY	dzup-	dzup-	d z u p	(its) hair	mcelhanon-1967	8000
+90963	nabak	2101_BE_DEAD_OR_DIE	gəki-	gəki-	g ə k i	(he) dies	mcelhanon-1967	7926
+90977	nabak	1409_SEE	ni-	ni-	n i	(he) sees me	mcelhanon-1967	7905
+90991	nabak	1585_SLEEP	we-	we-	w e	(he) sleeps	mcelhanon-1967	7995
+91005	nabak	1336_EAT	ni-	ni-	n i	(he) eats	mcelhanon-1967	8319
+91019	nabak	1403_BITE	i-	i-	i	(he) bites it	mcelhanon-1967	7775
+91033	nabak	163_BLACK	sopməŋ	sopməŋ	s o p m ə ŋ	black	mcelhanon-1967	458
+91047	nabak	1425_GREEN	araŋəŋ	araŋəŋ	a r a ŋ ə ŋ	green	mcelhanon-1967	459
+91061	nabak	1335_WHITE	satnəŋ	satnəŋ	s a t n ə ŋ	white	mcelhanon-1967	7729
+91075	nabak	156_RED	ŋaməŋ	ŋaməŋ	ŋ a m ə ŋ	red	mcelhanon-1967	460
+91089	nabak	1424_YELLOW	araraŋ	araraŋ	a r a r a ŋ	yellow	mcelhanon-1967	7735
+91103	nabak	1035_GOOD	kpembenəŋ	kpembenəŋ	k p e m b e n ə ŋ	good	mcelhanon-1967	461
+91117	nabak	2272_HOT_OR_WARM	tedzin	tedzin	t e d z i n	hot	mcelhanon-1967	7746
+91131	nabak	1231_NEW	arakŋəŋ	arakŋəŋ	a r a k ŋ ə ŋ	new	mcelhanon-1967	7816
+91145	nabak	1786_DRY_UP	ko-	ko-	k o	(it is) dry	mcelhanon-1967	462
+91159	nabak	1287_COLD	bakŋəŋ	bakŋəŋ	b a k ŋ ə ŋ	cold	mcelhanon-1967	463
+91173	nabak	1405_NAME	dzikət-	dzikət-	d z i k ə t	(its) name	mcelhanon-1967	7692
+91187	nabak	1240_NOT	ku	ku	k u	not	mcelhanon-1967	7789
+91201	nabak	2102_BURN	dzi-	dzi-	d z i	(it) burns	mcelhanon-1967	7688
+91215	nabak	2457_PATH_OR_ROAD	set	set	s e t	road	mcelhanon-1967	464
+91229	nabak	948_WATER	tu	tu	t u	water	mcelhanon-1967	7986
+91243	nabak	778_SMOKE_EXHAUST	kəsək	kəsək	k ə s ə k	smoke	mcelhanon-1967	8035
+91257	nabak	1433_HIT	ku-	ku-	k u	(he) hit him	mcelhanon-1967	7981
+91271	nabak	1410_KNOW_SOMETHING	nɔi-	nɔi-	n ɔ i	(he) knows	mcelhanon-1967	465
+91285	nabak	671_SAND	gambibit	gambibit	g a m b i b i t	sand	mcelhanon-1967	466
+91299	nabak	857_STONE	nandzəŋ	nandzəŋ	n a n d z ə ŋ	stone	mcelhanon-1967	7766
+91313	nabak	639_MOUNTAIN	kaləŋ	kaləŋ	k a l ə ŋ	mountain	mcelhanon-1967	7862
+91327	nabak	646_ASH	kɔu	kɔu	k ɔ u	ashes	mcelhanon-1967	7785
+91341	nabak	1228_EARTH_SOIL	misat	misat	m i s a t	earth	mcelhanon-1967	7809
+91355	nabak	628_LEAF	sin-	sin-	s i n	(its) leaf	mcelhanon-1967	7893
+91369	nabak	906_TREE	təp	təp	t ə p	tree	mcelhanon-1967	7835
+91383	nabak	670_ROOT	kindi-	kindi-	k i n d i	(its) root	mcelhanon-1967	7768
+91397	nabak	714_SEED	kət-	kət-	k ə t	(its) seed	mcelhanon-1967	7790
+91411	nabak	1247_EAR	wak-	wak-	w a k	(its) ear	mcelhanon-1967	467
+91425	nabak	1392_LOUSE	emin	emin	e m i n	louse	mcelhanon-1967	7682
+91439	nabak	2009_DOG	tam	tam	t a m	dog	mcelhanon-1967	8010
+91453	nabak	937_BIRD	aga	aga	a g a	bird	mcelhanon-1967	468
+91467	nabak	962_WOMAN	imbi	imbi	i m b i	woman	mcelhanon-1967	7723
+91481	nabak	1554_MAN	an	an	a n	man	mcelhanon-1967	7701
+91495	nabak	946_BLOOD	sip-	sip-	s i p	(its) blood	mcelhanon-1967	8029
+91509	nabak	2121_ARM_OR_HAND	bet-	bet-	b e t	(his) hand	mcelhanon-1967	7800
+91523	nabak	1205_TONGUE	nambaram-	nambaram-	n a m b a r a m	(its) tongue	mcelhanon-1967	8008
+91537	nabak	1380_TOOTH	dzet-	dzet-	d z e t	(its) tooth	mcelhanon-1967	8030
+91551	nabak	2098_FOOT_OR_LEG	set-	set-	s e t	(its) foot	mcelhanon-1967	469
+91565	nabak	1220_TAIL	dak-	dak-	d a k	(its) tail	mcelhanon-1967	7888
+91579	nabak	634_MEAT	səsumbaŋ-	səsumbaŋ-	s ə s u m b a ŋ	(its) meat	mcelhanon-1967	470
+91593	nabak	1248_EYE	dzi-	dzi-	d z i	(its) eye	mcelhanon-1967	7863
+91607	nabak	763_SKIN	sək-	sək-	s ə k	(its) skin	mcelhanon-1967	7958
+91621	nabak	1256_HEAD	ŋokandzi-	ŋokandzi-	ŋ o k a n d z i	(its) head	mcelhanon-1967	7755
+91635	nabak	1394_BONE	kandziŋ-	kandziŋ-	k a n d z i ŋ	(its) bone	mcelhanon-1967	471
+91649	nabak	262_HE_OR_SHE_OR_IT	ək	ək	ə k	he	mcelhanon-1967	7871
+91663	nabak	2312_YOU_OBLIQUE_CASE_OF_YOU	in	in	i n	ye	mcelhanon-1967	7963
+91677	nabak	817_THEY	ək	ək	ə k	they	mcelhanon-1967	7953
+91691	nabak	1237_WHERE	den	den	d e n	where	mcelhanon-1967	7856
+91705	nabak	1239_HOW	dzigok	dzigok	d z i g o k	how	mcelhanon-1967	472
+91719	nabak	1577_AND	ɔpme	ɔpme	ɔ p m e	and	mcelhanon-1967	7776
+91733	nabak	1937_THERE	kainde	kainde	k a i n d e	there	mcelhanon-1967	473
+91747	nabak	1019_RIGHT	panaŋ	panaŋ	p a n a ŋ	right (side)	mcelhanon-1967	7798
+91761	nabak	244_LEFT	kanen	kanen	k a n e n	left side	mcelhanon-1967	7714
+91775	nabak	1448_HOLD	mi-	mi-	m i	(he) holds	mcelhanon-1967	7786
+91789	nabak	1280_FALL	todzi-	todzi-	t o d z i	(he) falls	mcelhanon-1967	474
+91803	nabak	1588_TURN	giridzəi-	giridzəi-	g i r i d z ə i	(he) turns	mcelhanon-1967	7779
+91817	nabak	1456_THROW	kətimpe-	kətimpe-	k ə t i m p e	(he) throws:	mcelhanon-1967	7901
+91831	nabak	1455_PULL	mandai-	mandai-	m a n d a i	(he) pulls	mcelhanon-1967	7679
+91845	nabak	1452_PUSH	ɔtɔpe-	ɔtɔpe-	ɔ t ɔ p e	(he) pushes	mcelhanon-1967	475
+91859	nabak	1453_WASH	dzurudzi-	dzurudzi-	d z u r u d z i	(he) washes	mcelhanon-1967	476
+91873	nabak	1418_DIG	kiŋgadzi-	kiŋgadzi-	k i ŋ g a d z i	(he) digs	mcelhanon-1967	477
+91887	nabak	1432_CUT	eti-	eti-	e t i	(he) cuts	mcelhanon-1967	478
+91901	nabak	1241_SOME	not-	not-	n o t	some	mcelhanon-1967	479
+91915	nabak	1645_SHORT	kutuməŋ	kutuməŋ	k u t u m ə ŋ	short	mcelhanon-1967	480
+91929	nabak	960_WIND	tɔgɔ	tɔgɔ	t ɔ g ɔ	wind	mcelhanon-1967	7869
+91943	nabak	1732_SKY	kururuŋ	kururuŋ	k u r u r u ŋ	sky	mcelhanon-1967	7927
+91957	nabak	2_DUST	kpitnəki	kpitnəki	k p i t n ə k i	dust	mcelhanon-1967	481
+91971	nabak	624_LAKE	ləmunəŋ	ləmunəŋ	l ə m u n ə ŋ	lake	mcelhanon-1967	7873
+91985	nabak	239_FLOWER	kət-	kət-	k ə t	(its) flower	mcelhanon-1967	482
+91999	nabak	1507_FRUIT	kpənəŋ-	kpənəŋ-	k p ə n ə ŋ	(its) fruit	mcelhanon-1967	7762
+92013	nabak	1295_STICK	wandzom	wandzom	w a n d z o m	stick	mcelhanon-1967	483
+92027	nabak	1219_WORM	gbik	gbik	g b i k	worm	mcelhanon-1967	8006
+92041	nabak	730_SNAKE	nombe	nombe	n o m b e	snake	mcelhanon-1967	7717
+92055	nabak	619_ANIMAL	soŋgo	soŋgo	s o ŋ g o	animal	mcelhanon-1967	7992
+92069	nabak	867_backofhand	bam-	bam-	b a m	(its) back	mcelhanon-1967	484
+92083	nabak	1257_WING	pɔp-	pɔp-	p ɔ p	(its) wing	mcelhanon-1967	485
+92097	nabak	1407_BREATHE	emetək	emetək	e m e t ə k	(its) breath	mcelhanon-1967	486
+92111	nabak	1278_VOMIT	okdzi-	okdzi-	o k d z i	(he) vomits	mcelhanon-1967	487
+92125	nabak	1355_LAUGH	yəindzi-	yəindzi-	j ə i n d z i	(he) laughs	mcelhanon-1967	488
+92139	nabak	1421_SUCK	bəsəi-	bəsəi-	b ə s ə i	(he) sucks	mcelhanon-1967	7792
+92153	nabak	1839_CRY	su-	su-	s u	(he) cries	mcelhanon-1967	7932
+92167	nabak	1440_SPIT	dzawak-	dzawak-	d z a w a k	(he) spits	mcelhanon-1967	489
+92181	nabak	725_OLD_PERSON	ŋokŋ	ŋokŋ	ŋ o k ŋ	old	mcelhanon-1967	490
+92195	nabak	2272_HOT_OR_WARM	kipməŋ	kipməŋ	k i p m ə ŋ	warm	mcelhanon-1967	8007
+92209	nabak	1397_DULL	kugepin	kugepin	k u g e p i n	dull	mcelhanon-1967	491
+92223	nabak	1262_BROTHER	dat-	dat-	d a t	(his) brother	mcelhanon-1967	7827
+92237	nabak	1263_SISTER	ip-	ip-	i p	(his) sister	mcelhanon-1967	7846
+92251	nabak	1217_FATHER	bip-	bip-	b i p	(his) father	mcelhanon-1967	7933
+92265	nabak	1216_MOTHER	mam-	mam-	m a m	(his) mother	mcelhanon-1967	7715
+92279	nabak	1457_SEW	ou-	ou-	o u	(she) sews	mcelhanon-1967	492
+92293	nabak	1218_ROPE	dze	dze	d z e	rope	mcelhanon-1967	493
+92307	nabak	1172_SHOOT	arai-	arai-	a r a i	(he) shoots	mcelhanon-1967	494
+92321	nabak	1420_COUNT	makundzi-	makundzi-	m a k u n d z i	(he) counts	mcelhanon-1967	495
+92335	nabak	1413_PLAY	kpep	kpep	k p e p	(they) play	mcelhanon-1967	496
+92349	nabak	1895_CLOTHES	nap	nap	n a p	clothing	mcelhanon-1967	7683
+92363	nabak	1086_WORK_ACTIVITY	murup	murup	m u r u p	work	mcelhanon-1967	497
+92377	nabak	945_SPEAR	ŋəlip	ŋəlip	ŋ ə l i p	spear	mcelhanon-1967	498
+92391	nabak	175_BLOW_OF_WIND	kumbu-	kumbu-	k u m b u	(he) blows	mcelhanon-1967	499
+92405	nabak	1573_SWELL	səme-	səme-	s ə m e	(it) swells	mcelhanon-1967	7937
+90448	mesem	1209_I	ną	ną	n ą/a	I	mcelhanon-1967	7845
+90462	mesem	1215_THOU	gą	gą	g ą/a	thou	mcelhanon-1967	7807
+90476	mesem	1212_WE	nį	nį	n į/i	we	mcelhanon-1967	8016
+90490	mesem	1235_WHO	ala	ala	a l a	who	mcelhanon-1967	7979
+90504	mesem	1236_WHAT	wana	wana	w a n a	what	mcelhanon-1967	7759
+90518	mesem	78_THAT	mei	mei	m e i	that	mcelhanon-1967	7704
+90532	mesem	1214_THIS	wi	wi	w i	this	mcelhanon-1967	500
+90546	mesem	1493_ONE	kpedzi	kpedzi	k p e d z i	one	mcelhanon-1967	7877
+90560	mesem	1498_TWO	dzeba	dzeba	d z e b a	two	mcelhanon-1967	501
+90574	mesem	1458_SAY	dzə-	dzə-	d z ə	(he) says	mcelhanon-1967	7824
+90588	mesem	1313_MOON	əyoŋga	əyoŋga	ə j o ŋ g a	moon	mcelhanon-1967	7914
+90602	mesem	1395_ROUND	waragən	waragən	w a r a g ə n	round	mcelhanon-1967	502
+90616	mesem	1429_FULL	dzədzə ko-	dzədzə_ko-	d z ə d z ə + k o	(it is) full	mcelhanon-1967	7970
+90630	mesem	1371_KNEE	kpekakpatə-	kpekakpatə-	k p e k a k p a t ə	(his) knee	mcelhanon-1967	503
+90644	mesem	72_CLAW	dziŋgəŋgəŋ-	dziŋgəŋgəŋ-	d z i ŋ g ə ŋ g ə ŋ	(its) claw	mcelhanon-1967	504
+90658	mesem	1402_BREAST	nam-	nam-	n a m	breast	mcelhanon-1967	7830
+90672	mesem	1446_COME	ko-	ko-	k o	(he) comes	mcelhanon-1967	505
+90686	mesem	1416_SIT	ta-	ta-	t a	(he) sits	mcelhanon-1967	7946
+90700	mesem	1447_GIVE	naka-	naka-	n a k a	(he) gives me	mcelhanon-1967	506
+90714	mesem	1442_STAND	ta-	ta-	t a	(he) stands	mcelhanon-1967	7672
+90728	mesem	98_ALL	pəsəkpep	pəsəkpep	p ə s ə k p e p	all	mcelhanon-1967	507
+90742	mesem	1198_MANY	kirisi	kirisi	k i r i s i	many	mcelhanon-1967	7665
+90756	mesem	1233_NIGHT	mimba	mimba	m i m b a	night	mcelhanon-1967	508
+90770	mesem	1203_LONG	kepṃ	kepṃ	k e p ṃ/m	long	mcelhanon-1967	509
+90784	mesem	1202_BIG	kəitṇ	kəitṇ	k ə i t ṇ/n	big	mcelhanon-1967	510
+90798	mesem	1246_SMALL	namzi	namzi	n a m z i	small	mcelhanon-1967	511
+90812	mesem	1430_STAR	dzəmərindzə	dzəmərindzə	d z ə m ə r i n d z ə	star	mcelhanon-1967	512
+90826	mesem	1343_SUN	kəsu	kəsu	k ə s u	sun	mcelhanon-1967	513
+90840	mesem	1489_CLOUD	kumbu	kumbu	k u m b u	cloud	mcelhanon-1967	514
+90854	mesem	2108_RAINING_OR_RAIN	ma	ma	m a	rain	mcelhanon-1967	7898
+90868	mesem	1251_BELLY	tip-	tip-	t i p	(its) belly	mcelhanon-1967	7982
+90882	mesem	1221_NOSE	siŋgeŋ	siŋgeŋ	s i ŋ g e ŋ	(its) nose	mcelhanon-1967	515
+90896	mesem	1223_HEART	wembə kət-	wembə_kət-	w e m b ə + k ə t	(its) heart	mcelhanon-1967	516
+90910	mesem	323_FAT_ORGANIC_SUBSTANCE	kerək-	kerək-	k e r ə k	(its) fat	mcelhanon-1967	8023
+90924	mesem	1333_NECK	andeŋ	andeŋ	a n d e ŋ	its neck	mcelhanon-1967	7941
+90938	mesem	189_HAIR_BODY	dzup-	dzup-	d z u p	(its) hair	mcelhanon-1967	8000
+90952	mesem	2101_BE_DEAD_OR_DIE	fəki-	fəki-	f ə k i	(he) dies	mcelhanon-1967	7926
+90966	mesem	1409_SEE	nəgəi-	nəgəi-	n ə g ə i	(he) sees me	mcelhanon-1967	517
+90980	mesem	1585_SLEEP	we-	we-	w e	(he) sleeps	mcelhanon-1967	7995
+90994	mesem	1336_EAT	nin-	nin-	n i n	(he) eats	mcelhanon-1967	8319
+91008	mesem	1403_BITE	ye-	ye-	j e	(he) bites it	mcelhanon-1967	518
+91022	mesem	163_BLACK	səmbopm	səmbopm	s ə m b o p m	black	mcelhanon-1967	519
+91036	mesem	1425_GREEN	kokŋ̣	kokŋ̣	k o k ŋ	green	mcelhanon-1967	520
+91050	mesem	1335_WHITE	sagatṇ	sagatṇ	s a g a t ṇ/n	white	mcelhanon-1967	7729
+91064	mesem	156_RED	kukŋ̣	kukŋ̣	k u k ŋ	red	mcelhanon-1967	521
+91078	mesem	1424_YELLOW	alaŋ	alaŋ	a l a ŋ	yellow	mcelhanon-1967	7735
+91092	mesem	1035_GOOD	saŋgam	saŋgam	s a ŋ g a m	good	mcelhanon-1967	522
+91106	mesem	2272_HOT_OR_WARM	tedzi	tedzi	t e d z i	hot	mcelhanon-1967	7746
+91120	mesem	1231_NEW	gorəŋ	gorəŋ	g o r ə ŋ	new	mcelhanon-1967	523
+91134	mesem	1786_DRY_UP	alaŋgə-	alaŋgə-	a l a ŋ g ə	(it is) dry	mcelhanon-1967	7660
+91148	mesem	1287_COLD	takəŋ	takəŋ	t a k ə ŋ	cold	mcelhanon-1967	524
+91162	mesem	1405_NAME	kot-	kot-	k o t	(its) name	mcelhanon-1967	7689
+91176	mesem	1240_NOT	kəm	kəm	k ə m	not	mcelhanon-1967	525
+91190	mesem	2102_BURN	dzi-	dzi-	d z i	(it) burns	mcelhanon-1967	7688
+91204	mesem	2457_PATH_OR_ROAD	kə	kə	k ə	road	mcelhanon-1967	8038
+91218	mesem	948_WATER	tu	tu	t u	water	mcelhanon-1967	7986
+91232	mesem	778_SMOKE_EXHAUST	kəsə	kəsə	k ə s ə	smoke	mcelhanon-1967	8035
+91246	mesem	1433_HIT	kun-	kun-	k u n	(he) hit him	mcelhanon-1967	7981
+91260	mesem	1410_KNOW_SOMETHING	niŋge-	niŋge-	n i ŋ g e	(he) knows	mcelhanon-1967	7657
+91274	mesem	671_SAND	gaŋa	gaŋa	g a ŋ a	sand	mcelhanon-1967	526
+91288	mesem	857_STONE	nandza	nandza	n a n d z a	stone	mcelhanon-1967	7766
+91302	mesem	639_MOUNTAIN	kalaŋ	kalaŋ	k a l a ŋ	mountain	mcelhanon-1967	7862
+91316	mesem	646_ASH	dzita	dzita	d z i t a	ashes	mcelhanon-1967	527
+91330	mesem	1228_EARTH_SOIL	misa	misa	m i s a	earth	mcelhanon-1967	7809
+91344	mesem	628_LEAF	sin-	sin-	s i n	(its) leaf	mcelhanon-1967	7893
+91358	mesem	906_TREE	tə	tə	t ə	tree	mcelhanon-1967	7835
+91372	mesem	670_ROOT	kindiri-	kindiri-	k i n d i r i	(its) root	mcelhanon-1967	7768
+91386	mesem	714_SEED	kət-	kət-	k ə t	(its) seed	mcelhanon-1967	7790
+91400	mesem	1247_EAR	bəbət-	bəbət-	b ə b ə t	(its) ear	mcelhanon-1967	528
+91414	mesem	1392_LOUSE	ləm	ləm	l ə m	louse	mcelhanon-1967	529
+91428	mesem	2009_DOG	tą	tą	t ą/a	dog	mcelhanon-1967	8010
+91442	mesem	937_BIRD	lau	lau	l a u	bird	mcelhanon-1967	8040
+91456	mesem	962_WOMAN	imbi	imbi	i m b i	woman	mcelhanon-1967	7723
+91470	mesem	1554_MAN	ą	ą	ą/a	man	mcelhanon-1967	7701
+91484	mesem	946_BLOOD	sip-	sip-	s i p	(its) blood	mcelhanon-1967	8029
+91498	mesem	2121_ARM_OR_HAND	bət-	bət-	b ə t	(his) hand	mcelhanon-1967	7800
+91512	mesem	1205_TONGUE	nambalaŋ-	nambalaŋ-	n a m b a l a ŋ	(its) tongue	mcelhanon-1967	8008
+91526	mesem	1380_TOOTH	dzət-	dzət-	d z ə t	(its) tooth	mcelhanon-1967	8030
+91540	mesem	2098_FOOT_OR_LEG	kət-	kət-	k ə t	(its) foot	mcelhanon-1967	530
+91554	mesem	1220_TAIL	dak-	dak-	d a k	(its) tail	mcelhanon-1967	7888
+91568	mesem	634_MEAT	mirik-	mirik-	m i r i k	(its) meat	mcelhanon-1967	531
+91582	mesem	1248_EYE	dzi-	dzi-	d z i	(its) eye	mcelhanon-1967	7863
+91596	mesem	763_SKIN	sək-	sək-	s ə k	(its) skin	mcelhanon-1967	7958
+91610	mesem	1256_HEAD	nok-	nok-	n o k	(its) head	mcelhanon-1967	532
+91624	mesem	1394_BONE	siet-	siet-	s i e t	(its) bone	mcelhanon-1967	7962
+91638	mesem	262_HE_OR_SHE_OR_IT	lə	lə	l ə	he	mcelhanon-1967	7871
+91652	mesem	2312_YOU_OBLIQUE_CASE_OF_YOU	lį	lį	l į/i	ye	mcelhanon-1967	7963
+91666	mesem	817_THEY	lene	lene	l e n e	they	mcelhanon-1967	533
+91680	mesem	1237_WHERE	dene	dene	d e n e	where	mcelhanon-1967	7856
+91694	mesem	1239_HOW	disi	disi	d i s i	how	mcelhanon-1967	534
+91708	mesem	1577_AND	mimbi	mimbi	m i m b i	and	mcelhanon-1967	535
+91722	mesem	1937_THERE	inda	inda	i n d a	there	mcelhanon-1967	7706
+91736	mesem	1019_RIGHT	pana	pana	p a n a	right (side)	mcelhanon-1967	7798
+91750	mesem	244_LEFT	kana	kana	k a n a	left side	mcelhanon-1967	7714
+91764	mesem	1448_HOLD	waŋga-	waŋga-	w a ŋ g a	(he) holds	mcelhanon-1967	536
+91778	mesem	1280_FALL	kao-	kao-	k a o	(he) falls	mcelhanon-1967	537
+91792	mesem	1588_TURN	giridzə-	giridzə-	g i r i d z ə	(he) turns	mcelhanon-1967	7779
+91806	mesem	1456_THROW	kətipe-	kətipe-	k ə t i p e	(he) throws:	mcelhanon-1967	7901
+91820	mesem	1455_PULL	menda-	menda-	m e n d a	(he) pulls	mcelhanon-1967	7679
+91834	mesem	1452_PUSH	otəgə-	otəgə-	o t ə g ə	(he) pushes	mcelhanon-1967	538
+91848	mesem	1453_WASH	əli-	əli-	ə l i	(he) washes	mcelhanon-1967	539
+91862	mesem	1418_DIG	lo-	lo-	l o	(he) digs	mcelhanon-1967	540
+91876	mesem	1432_CUT	lanti-	lanti-	l a n t i	(he) cuts	mcelhanon-1967	541
+91890	mesem	1241_SOME	but-	but-	b u t	some	mcelhanon-1967	542
+91904	mesem	1645_SHORT	dandzi	dandzi	d a n d z i	short	mcelhanon-1967	543
+91918	mesem	960_WIND	təgə	təgə	t ə g ə	wind	mcelhanon-1967	7869
+91932	mesem	1732_SKY	nombə	nombə	n o m b ə	sky	mcelhanon-1967	544
+91946	mesem	2_DUST	wanawana	wanawana	w a n a w a n a	dust	mcelhanon-1967	545
+91960	mesem	624_LAKE	ləm	ləm	l ə m	lake	mcelhanon-1967	7873
+91974	mesem	239_FLOWER	dzolman	dzolman	d z o l m a n	(its) flower	mcelhanon-1967	7684
+91988	mesem	1507_FRUIT	kpən-	kpən-	k p ə n	(its) fruit	mcelhanon-1967	7762
+92002	mesem	1295_STICK	onze	onze	o n z e	stick	mcelhanon-1967	546
+92016	mesem	1219_WORM	gọ	gọ	g ọ/o	worm	mcelhanon-1967	8005
+92030	mesem	730_SNAKE	asį	asį	a s į/i	snake	mcelhanon-1967	547
+92044	mesem	619_ANIMAL	dzi	dzi	d z i	animal	mcelhanon-1967	8036
+92058	mesem	867_backofhand	beset-	beset-	b e s e t	(its) back	mcelhanon-1967	548
+92072	mesem	1257_WING	kpogo	kpogo	k p o g o	(its) wing	mcelhanon-1967	549
+92086	mesem	1407_BREATHE	andagəsa	andagəsa	a n d a g ə s a	(its) breath	mcelhanon-1967	550
+92100	mesem	1278_VOMIT	nua-	nua-	n u a	(he) vomits	mcelhanon-1967	551
+92114	mesem	1355_LAUGH	yəyən-	yəyən-	j ə j ə n	(he) laughs	mcelhanon-1967	552
+92128	mesem	1421_SUCK	bəsə-	bəsə-	b ə s ə	(he) sucks	mcelhanon-1967	7792
+92142	mesem	1839_CRY	sisu-	sisu-	s i s u	(he) cries	mcelhanon-1967	7932
+92156	mesem	1440_SPIT	dzətupa-	dzətupa-	d z ə t u p a	(he) spits	mcelhanon-1967	553
+92170	mesem	725_OLD_PERSON	kpən	kpən	k p ə n	old	mcelhanon-1967	554
+92184	mesem	2272_HOT_OR_WARM	kipkipṃ	kipkipṃ	k i p k i p ṃ/m	warm	mcelhanon-1967	8007
+92198	mesem	1397_DULL	kokŋ̣ kpiəkṇ	kokŋ̣_kpiəkṇ	k o k ŋ + k p i ə k ṇ/n	dull	mcelhanon-1967	555
+92212	mesem	1262_BROTHER	dat-	dat-	d a t	(his) brother	mcelhanon-1967	7827
+92226	mesem	1263_SISTER	lip-	lip-	l i p	(his) sister	mcelhanon-1967	7846
+92240	mesem	1217_FATHER	bip-	bip-	b i p	(his) father	mcelhanon-1967	7933
+92254	mesem	1216_MOTHER	mam-	mam-	m a m	(his) mother	mcelhanon-1967	7715
+92268	mesem	1457_SEW	osə-	osə-	o s ə	(she) sews	mcelhanon-1967	556
+92282	mesem	1218_ROPE	tək	tək	t ə k	rope	mcelhanon-1967	7693
+92296	mesem	1172_SHOOT	osə-	osə-	o s ə	(he) shoots	mcelhanon-1967	557
+92310	mesem	1420_COUNT	usun-	usun-	u s u n	(he) counts	mcelhanon-1967	558
+92324	mesem	1413_PLAY	dzəgodzə	dzəgodzə	d z ə g o d z ə	(they) play	mcelhanon-1967	559
+92338	mesem	1895_CLOTHES	na	na	n a	clothing	mcelhanon-1967	7683
+92352	mesem	1086_WORK_ACTIVITY	nu	nu	n u	work	mcelhanon-1967	7703
+92366	mesem	945_SPEAR	ani	ani	a n i	spear	mcelhanon-1967	560
+92380	mesem	175_BLOW_OF_WIND	orati-	orati-	o r a t i	(he) blows	mcelhanon-1967	561
+92394	mesem	1573_SWELL	simen-	simen-	s i m e n	(it) swells	mcelhanon-1967	7937

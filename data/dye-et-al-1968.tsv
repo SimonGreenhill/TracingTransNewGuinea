@@ -1,0 +1,484 @@
+# Wordlist
+
+# DATA
+ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	SOURCE	COGID
+224665	kapriman	189_HAIR_BODY	tuwam	tuwam	t u w a m		dye-et-al-1968	20835
+224669	kapriman	1256_HEAD	toɣo	toɣo	t o ɣ o		dye-et-al-1968	20761
+224673	kapriman	674_MOUTH	ayos	ayos	a j o s		dye-et-al-1968	20930
+224677	kapriman	1221_NOSE	singova	singova	s i n g o v a		dye-et-al-1968	20860
+224681	kapriman	1248_EYE	nikha	nikha	n i k h a		dye-et-al-1968	20804
+224685	kapriman	1347_NAPE_OF_NECK	maɣə	maɣə	m a ɣ ə		dye-et-al-1968	20903
+224689	kapriman	1251_BELLY	fanis	fanis	f a n i s		dye-et-al-1968	20865
+224693	kapriman	763_SKIN	thʌgas	thʌgas	t h ʌ g a s		dye-et-al-1968	20872
+224697	kapriman	1371_KNEE	bangutok	bangutok	b a n g u t o k		dye-et-al-1968	20916
+224701	kapriman	1554_MAN	wiyak	wiyak	w i j a k		dye-et-al-1968	20927
+224705	kapriman	962_WOMAN	toɣwan	toɣwan	t o ɣ w a n		dye-et-al-1968	20908
+224709	kapriman	937_BIRD	yerɛpm	yerɛpm	j e r ɛ p m		dye-et-al-1968	20822
+224713	kapriman	2009_DOG	yom	yom	j o m		dye-et-al-1968	20691
+224717	kapriman	1416_SIT	woɣloL lij	woɣloL_lij	w o ɣ l o L/l + l i j		dye-et-al-1968	20800
+224721	kapriman	1442_STAND	wathʌx	wathʌx	w a t h ʌ x		dye-et-al-1968	20924
+224725	kapriman	215_LIE_DOWN	khweyL	khweyL	k h w e j L/l		dye-et-al-1968	20839
+224729	kapriman	1443_WALK	thethʌk	thethʌk	t h e t h ʌ k		dye-et-al-1968	20823
+224733	kapriman	2457_PATH_OR_ROAD	aɣot	aɣot	a ɣ o t		dye-et-al-1968	20842
+224737	kapriman	857_STONE	obar	obar	o b a r		dye-et-al-1968	20900
+224741	kapriman	1202_BIG	marbe	marbe	m a r b e		dye-et-al-1968	20953
+224745	kapriman	1246_SMALL	glɩkha	glɩkha	g l ɪ k h a		dye-et-al-1968	20708
+224749	kapriman	221_FIRE	moyos	moyos	m o j o s		dye-et-al-1968	20909
+224753	kapriman	778_SMOKE_EXHAUST	yɛrikha	yɛrikha	j ɛ r i k h a		dye-et-al-1968	20798
+224757	kapriman	646_ASH	fokhwa	fokhwa	f o k h w a		dye-et-al-1968	20763
+224761	kapriman	1247_EAR	womblaja	womblaja	w o m b l a j a		dye-et-al-1968	20895
+224765	kapriman	1205_TONGUE	thʌdɩs	thʌdɩs	t h ʌ d ɪ s		dye-et-al-1968	20709
+224769	kapriman	1380_TOOTH	bim	bim	b i m		dye-et-al-1968	20755
+224773	kapriman	1402_BREAST	mʌnikha	mʌnikha	m ʌ n i k h a		dye-et-al-1968	20940
+224777	kapriman	2121_ARM_OR_HAND	sɛlis	sɛlis	s ɛ l i s		dye-et-al-1968	20704
+224781	kapriman	1343_SUN	yɛneza	yɛneza	j ɛ n e z a		dye-et-al-1968	20848
+224785	kapriman	1313_MOON	yagos	yagos	j a g o s		dye-et-al-1968	20929
+224789	kapriman	1430_STAR	duL	duL	d u L/l		dye-et-al-1968	20670
+224793	kapriman	1489_CLOUD	dʌbʌdali	dʌbʌdali	d ʌ b ʌ d a l i		dye-et-al-1968	20751
+224797	kapriman	2108_RAINING_OR_RAIN	sekar	sekar	s e k a r		dye-et-al-1968	20768
+224801	kapriman	948_WATER	sagim	sagim	s a g i m		dye-et-al-1968	20837
+224805	kapriman	906_TREE	mə	mə	m ə		dye-et-al-1968	20734
+224809	kapriman	670_ROOT	mɩnɩniva	mɩnɩniva	m ɪ n ɪ n i v a		dye-et-al-1968	20707
+224813	kapriman	628_LEAF	mutuwas	mutuwas	m u t u w a s		dye-et-al-1968	20893
+224817	kapriman	634_MEAT	amalaneva	amalaneva	a m a l a n e v a		dye-et-al-1968	20667
+224821	kapriman	323_FAT_ORGANIC_SUBSTANCE	tivar	tivar	t i v a r		dye-et-al-1968	20861
+224825	kapriman	744_EGG	yuɣwar	yuɣwar	j u ɣ w a r		dye-et-al-1968	20828
+224829	kapriman	1336_EAT	asoliya	asoliya	a s o l i j a		dye-et-al-1968	20675
+224833	kapriman	1447_GIVE	lianaɣo	lianaɣo	l i a n a ɣ o	give (to me)	dye-et-al-1968	20786
+224837	kapriman	1409_SEE	wangatogər	wangatogər	w a n g a t o g ə r		dye-et-al-1968	20846
+224841	kapriman	1446_COME	ja	ja	j a		dye-et-al-1968	20784
+224845	kapriman	1392_LOUSE	nʌmɩs	nʌmɩs	n ʌ m ɪ s		dye-et-al-1968	20669
+224849	kapriman	1493_ONE	dɩbar	dɩbar	d ɪ b a r		dye-et-al-1968	20678
+224853	kapriman	1498_TWO	kothi	kothi	k o t h i		dye-et-al-1968	20781
+224857	kapriman	867_backofhand	mogum	mogum	m o g u m		dye-et-al-1968	20814
+224861	kapriman	1482_SHOULDER	tʌras	tʌras	t ʌ r a s		dye-et-al-1968	20912
+224865	kapriman	123_FOREHEAD	yɛnbʌvas	yɛnbʌvas	j ɛ n b ʌ v a s		dye-et-al-1968	20743
+224869	kapriman	1510_CHIN	khasɩbɩs	khasɩbɩs	k h a s ɪ b ɪ s		dye-et-al-1968	20683
+224873	kapriman	981_ELBOW	sɛthukhwa	sɛthukhwa	s ɛ t h u k h w a		dye-et-al-1968	20884
+224876	kapriman	1781_THUMB	sɛbithɛvis	sɛbithɛvis	s ɛ b i t h ɛ v i s		dye-et-al-1968	20682
+224880	kapriman	2098_FOOT_OR_LEG	wola	wola	w o l a		dye-et-al-1968	20834
+224884	kapriman	1223_HEART	yagux	yagux	j a g u x		dye-et-al-1968	20878
+224888	kapriman	1224_LIVER	wavəL	wavəL	w a v ə L/l		dye-et-al-1968	20945
+224892	kapriman	1394_BONE	sibevam	sibevam	s i b e v a m		dye-et-al-1968	20889
+224896	kapriman	946_BLOOD	kokwem	kokwem	k o k w e m		dye-et-al-1968	20911
+224900	kapriman	1257_WING	tɩbi	tɩbi	t ɪ b i		dye-et-al-1968	20904
+224904	kapriman	1257_WING	tɩbi	tɩbi	t ɪ b i		dye-et-al-1968	20904
+224908	kapriman	72_CLAW	tsʌtikhʌn	tsʌtikhʌn	ts ʌ t i k h ʌ n		dye-et-al-1968	20892
+224912	kapriman	1220_TAIL	ningyɛvu	ningyɛvu	n i n g j ɛ v u		dye-et-al-1968	20947
+224916	kapriman	1366_BOY	moɣʌla	moɣʌla	m o ɣ ʌ l a		dye-et-al-1968	20833
+224920	kapriman	1646_GIRL	matɩtamaɣas	matɩtamaɣas	m a t ɪ t a m a ɣ a s		dye-et-al-1968	20967
+224924	kapriman	1217_FATHER	aytya	aytya	a j t j a		dye-et-al-1968	20693
+224928	kapriman	1216_MOTHER	maynja	maynja	m a j n j a		dye-et-al-1968	20671
+224932	kapriman	1759_OLDER_BROTHER	nayL	nayL	n a j L/l	male speaking	dye-et-al-1968	20869
+224936	kapriman	1263_SISTER	walawuth	walawuth	w a l a w u t h	male speaking	dye-et-al-1968	20939
+224940	kapriman	1405_NAME	ovas	ovas	o v a s		dye-et-al-1968	20810
+224944	kapriman	1337_PIG	fʌɣr	fʌɣr	f ʌ ɣ r		dye-et-al-1968	20965
+224948	kapriman	466_CASSOWARY	wolos	wolos	w o l o s		dye-et-al-1968	20769
+224952	kapriman	165_WALLABY	koruwe	koruwe	k o r u w e		dye-et-al-1968	20739
+224956	kapriman	235_FLYING_FOX	kʌbis	kʌbis	k ʌ b i s		dye-et-al-1968	20794
+224960	kapriman	1490_RAT	abu	abu	a b u		dye-et-al-1968	20688
+224963	kapriman	503_FROG	kʌkʌlʌ	kʌkʌlʌ	k ʌ k ʌ l ʌ		dye-et-al-1968	20847
+224967	kapriman	730_SNAKE	bidyor	bidyor	b i d j o r		dye-et-al-1968	20950
+224971	kapriman	2638_FISHING	amaram	amaram	a m a r a m		dye-et-al-1968	20864
+224975	kapriman	146_SUGAR_CANE	mangi	mangi	m a n g i		dye-et-al-1968	20946
+224979	kapriman	868_BANANA	gʌnʌga	gʌnʌga	g ʌ n ʌ g a		dye-et-al-1968	20851
+224986	kapriman	293_NETBAG	khʌliL	khʌliL	k h ʌ l i L/l		dye-et-al-1968	20817
+224990	kapriman	1252_HOUSE	wunuL	wunuL	w u n u L/l		dye-et-al-1968	20906
+224994	kapriman	1228_EARTH_SOIL	bubʌɣa	bubʌɣa	b u b ʌ ɣ a		dye-et-al-1968	20689
+224998	kapriman	671_SAND	nʌngu	nʌngu	n ʌ n g u		dye-et-al-1968	20881
+225002	kapriman	639_MOUNTAIN	nʌmbwomtok	nʌmbwomtok	n ʌ m b w o m t o k		dye-et-al-1968	20676
+225006	kapriman	960_WIND	wevos	wevos	w e v o s		dye-et-al-1968	20874
+225010	kapriman	343_VINE	mʌsijʌp	mʌsijʌp	m ʌ s i j ʌ p		dye-et-al-1968	20875
+225014	kapriman	714_SEED	miyokwar	miyokwar	m i j o k w a r		dye-et-al-1968	20890
+225018	kapriman	1233_NIGHT	nilis	nilis	n i l i s		dye-et-al-1968	20760
+225022	kapriman	1335_WHITE	gubow	gubow	g u b o w		dye-et-al-1968	20809
+225026	kapriman	163_BLACK	khrumu	khrumu	k h r u m u		dye-et-al-1968	20759
+225030	kapriman	1424_YELLOW	wokwar	wokwar	w o k w a r		dye-et-al-1968	20792
+225034	kapriman	156_RED	mʌbjay	mʌbjay	m ʌ b j a j		dye-et-al-1968	20914
+225038	kapriman	1203_LONG	xagər	xagər	x a g ə r		dye-et-al-1968	20923
+225042	kapriman	1645_SHORT	tamʌɣa	tamʌɣa	t a m ʌ ɣ a		dye-et-al-1968	20790
+225046	kapriman	1210_HEAVY	xargogwor	xargogwor	x a r g o g w o r		dye-et-al-1968	20718
+225050	kapriman	630_LIGHT_RADIATION	sikikar	sikikar	s i k i k a r		dye-et-al-1968	20907
+225054	kapriman	1287_COLD	gonyugu	gonyugu	g o n j u g u		dye-et-al-1968	20948
+225058	kapriman	492_THREE	humbʌli	humbʌli	h u m b ʌ l i		dye-et-al-1968	20724
+225062	kapriman	1500_FOUR	gayjala	gayjala	g a j j a l a		dye-et-al-1968	20830
+225066	kapriman	493_FIVE	sɛjifa	sɛjifa	s ɛ j i f a		dye-et-al-1968	20738
+225070	kapriman	1268_YES	yo	yo	j o		dye-et-al-1968	20721
+225074	kapriman	1269_NO	mba	mba	m b a		dye-et-al-1968	20841
+225078	kapriman	1209_I	an	an	a n		dye-et-al-1968	20868
+225082	kapriman	1215_THOU	nï	nï	n ï/i		dye-et-al-1968	20805
+225086	kapriman	1212_WE	nʌm	nʌm	n ʌ m		dye-et-al-1968	20866
+225090	kapriman	217_BETELNUT	yʌsukha	yʌsukha	j ʌ s u k h a		dye-et-al-1968	20879
+225094	kapriman	982_LIME_FRUIT	khweym	khweym	k h w e j m		dye-et-al-1968	20772
+225098	kapriman	2270_SAGO	nar	nar	n a r		dye-et-al-1968	20937
+225102	kapriman	1927_BAMBOO	khʌnɩs	khʌnɩs	k h ʌ n ɪ s		dye-et-al-1968	20716
+225106	kapriman	1970_CANOE	doɣor	doɣor	d o ɣ o r		dye-et-al-1968	20966
+225110	kapriman	234_PADDLE	khayja	khayja	k h a j j a		dye-et-al-1968	20859
+225113	kapriman	389_FISH_TRAP	tasoɣe	tasoɣe	t a s o ɣ e		dye-et-al-1968	20836
+225117	kapriman	841_FISHING_SPEAR	khabʌlɔs	khabʌlɔs	k h a b ʌ l ɔ s		dye-et-al-1968	20840
+225121	kapriman	328_GRASS-SKIRT	sowe	sowe	s o w e		dye-et-al-1968	20863
+225125	kapriman	2100_THATCH_OR_ROOF	gʌlova	gʌlova	g ʌ l o v a		dye-et-al-1968	20701
+225129	kapriman	1013_FRESHWATER_EEL	fʌliL	fʌliL	f ʌ l i L/l		dye-et-al-1968	20877
+225133	kapriman	1857_CROCODILE	mogur	mogur	m o g u r		dye-et-al-1968	20850
+225137	kapriman	1509_MOSQUITO	wum	wum	w u m		dye-et-al-1968	20797
+225141	kapriman	895_TORTOISE	thʌɣays	thʌɣays	t h ʌ ɣ a j s		dye-et-al-1968	20962
+224666	bahinemo	189_HAIR_BODY	thunʌba	thunʌba	t h u n ʌ b a		dye-et-al-1968	20936
+224670	bahinemo	1256_HEAD	thu	thu	t h u		dye-et-al-1968	20761
+224674	bahinemo	674_MOUTH	gom	gom	g o m		dye-et-al-1968	20715
+224678	bahinemo	1221_NOSE	sɛkʌnɩ	sɛkʌnɩ	s ɛ k ʌ n ɪ		dye-et-al-1968	20692
+224682	bahinemo	1248_EYE	niya	niya	n i j a		dye-et-al-1968	20804
+224686	bahinemo	1347_NAPE_OF_NECK	bakʌnal	bakʌnal	b a k ʌ n a l		dye-et-al-1968	20806
+224690	bahinemo	1251_BELLY	law	law	l a w		dye-et-al-1968	20961
+224694	bahinemo	763_SKIN	thʌbi	thʌbi	t h ʌ b i		dye-et-al-1968	20845
+224698	bahinemo	1371_KNEE	yakʌsi	yakʌsi	j a k ʌ s i		dye-et-al-1968	20680
+224702	bahinemo	1554_MAN	'ɩma	'ɩma	ɪ m a		dye-et-al-1968	20951
+224706	bahinemo	962_WOMAN	swani	swani	s w a n i		dye-et-al-1968	20908
+224710	bahinemo	937_BIRD	wabo	wabo	w a b o		dye-et-al-1968	20918
+224714	bahinemo	2009_DOG	yo	yo	j o		dye-et-al-1968	20691
+224718	bahinemo	1416_SIT	diyʌl	diyʌl	d i j ʌ l		dye-et-al-1968	20773
+224722	bahinemo	1442_STAND	dʌthayɩsi	dʌthayɩsi	d ʌ t h a j ɪ s i		dye-et-al-1968	20924
+224726	bahinemo	215_LIE_DOWN	muhwi	muhwi	m u h w i		dye-et-al-1968	20839
+224730	bahinemo	1443_WALK	dʌthithey	dʌthithey	d ʌ t h i t h e j		dye-et-al-1968	20823
+224734	bahinemo	2457_PATH_OR_ROAD	yɔ	yɔ	j ɔ		dye-et-al-1968	20826
+224738	bahinemo	857_STONE	ba	ba	b a		dye-et-al-1968	20802
+224742	bahinemo	1202_BIG	bʌdo	bʌdo	b ʌ d o		dye-et-al-1968	20953
+224746	bahinemo	1246_SMALL	'ʌnhaytha	'ʌnhaytha	ʌ n h a j t h a		dye-et-al-1968	1
+224750	bahinemo	221_FIRE	ya	ya	j a		dye-et-al-1968	20883
+224754	bahinemo	778_SMOKE_EXHAUST	ya sifi	ya_sifi	j a + s i f i		dye-et-al-1968	20816
+224758	bahinemo	646_ASH	ya si	ya_si	j a + s i		dye-et-al-1968	20801
+224762	bahinemo	1247_EAR	bʌsiya	bʌsiya	b ʌ s i j a		dye-et-al-1968	20687
+224766	bahinemo	1205_TONGUE	thɔlu	thɔlu	t h ɔ l u		dye-et-al-1968	20709
+224770	bahinemo	1380_TOOTH	pi	pi	p i		dye-et-al-1968	20755
+224774	bahinemo	1402_BREAST	mosu	mosu	m o s u		dye-et-al-1968	20968
+224778	bahinemo	2121_ARM_OR_HAND	həlbʌdufa	həlbʌdufa	h ə l b ʌ d u f a		dye-et-al-1968	20915
+224782	bahinemo	1343_SUN	tɩniya	tɩniya	t ɪ n i j a		dye-et-al-1968	20943
+224786	bahinemo	1313_MOON	yamal	yamal	j a m a l		dye-et-al-1968	20799
+224790	bahinemo	1430_STAR	dul	dul	d u l		dye-et-al-1968	20670
+224794	bahinemo	1489_CLOUD	dobul	dobul	d o b u l		dye-et-al-1968	20751
+224798	bahinemo	2108_RAINING_OR_RAIN	hagi isuwa	hagi_isuwa	h a g i + i s u w a		dye-et-al-1968	20867
+224802	bahinemo	948_WATER	hagi	hagi	h a g i		dye-et-al-1968	20837
+224806	bahinemo	906_TREE	mi	mi	m i		dye-et-al-1968	20734
+224810	bahinemo	670_ROOT	mi nabi	mi_nabi	m i + n a b i		dye-et-al-1968	20919
+224814	bahinemo	628_LEAF	mi sɩnowa	mi_sɩnowa	m i + s ɪ n o w a		dye-et-al-1968	20871
+224818	bahinemo	634_MEAT	nʌm	nʌm	n ʌ m		dye-et-al-1968	20754
+224822	bahinemo	323_FAT_ORGANIC_SUBSTANCE	gwʌlil	gwʌlil	g w ʌ l i l		dye-et-al-1968	20956
+224826	bahinemo	744_EGG	wabo mu	wabo_mu	w a b o + m u		dye-et-al-1968	20931
+224830	bahinemo	1336_EAT	diyaw	diyaw	d i j a w		dye-et-al-1968	20675
+224834	bahinemo	1447_GIVE	diyu	diyu	d i j u	give (to me)	dye-et-al-1968	20885
+224838	bahinemo	1409_SEE	dʌnowey	dʌnowey	d ʌ n o w e j		dye-et-al-1968	20821
+224842	bahinemo	1446_COME	diyayu	diyayu	d i j a j u		dye-et-al-1968	20784
+224846	bahinemo	1392_LOUSE	nʌmu	nʌmu	n ʌ m u		dye-et-al-1968	20669
+224850	bahinemo	1493_ONE	dʌbatha	dʌbatha	d ʌ b a t h a		dye-et-al-1968	20678
+224854	bahinemo	1498_TWO	husi	husi	h u s i		dye-et-al-1968	20781
+224858	bahinemo	867_backofhand	bɔlu	bɔlu	b ɔ l u		dye-et-al-1968	20910
+224862	bahinemo	1482_SHOULDER	thʌla	thʌla	t h ʌ l a		dye-et-al-1968	20912
+224866	bahinemo	123_FOREHEAD	nɩbʌgi	nɩbʌgi	n ɪ b ʌ g i		dye-et-al-1968	20719
+224870	bahinemo	1510_CHIN	yɛkhī	yɛkhī	j ɛ k h iː		dye-et-al-1968	20963
+224874	bahinemo	981_ELBOW	hʌl bakhʌsiya	hʌl_bakhʌsiya	h ʌ l + b a k h ʌ s i j a		dye-et-al-1968	20677
+224877	bahinemo	1781_THUMB	hʌl bithɩfi	hʌl_bithɩfi	h ʌ l + b i t h ɪ f i		dye-et-al-1968	20682
+224881	bahinemo	2098_FOOT_OR_LEG	lowa	lowa	l o w a		dye-et-al-1968	20834
+224885	bahinemo	1223_HEART	yuw	yuw	j u w		dye-et-al-1968	20878
+224889	bahinemo	1224_LIVER	wafu	wafu	w a f u		dye-et-al-1968	20945
+224893	bahinemo	1394_BONE	hʌbi	hʌbi	h ʌ b i		dye-et-al-1968	20889
+224897	bahinemo	946_BLOOD	mahələ	mahələ	m a h ə l ə		dye-et-al-1968	20700
+224901	bahinemo	1257_WING	sɩfi	sɩfi	s ɪ f i		dye-et-al-1968	20904
+224905	bahinemo	1257_WING	sɩi	sɩi	s ɪ i		dye-et-al-1968	20904
+224909	bahinemo	72_CLAW	wabo sï	wabo_sï	w a b o + s ï/i		dye-et-al-1968	20896
+224913	bahinemo	1220_TAIL	yɩni	yɩni	j ɪ n i		dye-et-al-1968	20854
+224917	bahinemo	1366_BOY	'ɩma yɛn	'ɩma_yɛn	ɪ m a + j ɛ n		dye-et-al-1968	20736
+224921	bahinemo	1646_GIRL	dʌfi	dʌfi	d ʌ f i		dye-et-al-1968	20746
+224925	bahinemo	1217_FATHER	mahuwa	mahuwa	m a h u w a		dye-et-al-1968	20779
+224929	bahinemo	1216_MOTHER	thanmay	thanmay	t h a n m a j		dye-et-al-1968	20671
+224933	bahinemo	1759_OLDER_BROTHER	bʌdo	bʌdo	b ʌ d o	male speaking	dye-et-al-1968	20926
+224937	bahinemo	1263_SISTER	nʌmda	nʌmda	n ʌ m d a	male speaking	dye-et-al-1968	20722
+224941	bahinemo	1405_NAME	wufa	wufa	w u f a		dye-et-al-1968	20810
+224945	bahinemo	1337_PIG	fa	fa	f a		dye-et-al-1968	20965
+224949	bahinemo	466_CASSOWARY	fyulu	fyulu	f j u l u		dye-et-al-1968	20769
+224953	bahinemo	165_WALLABY	fyubɩsï	fyubɩsï	f j u b ɪ s ï/i		dye-et-al-1968	20960
+224957	bahinemo	235_FLYING_FOX	khʌbi	khʌbi	k h ʌ b i		dye-et-al-1968	20794
+224961	bahinemo	1490_RAT	fio bitho	fio_bitho	f i o + b i t h o		dye-et-al-1968	20897
+224964	bahinemo	503_FROG	wabi	wabi	w a b i		dye-et-al-1968	20942
+224968	bahinemo	730_SNAKE	no	no	n o		dye-et-al-1968	20857
+224972	bahinemo	2638_FISHING	'ɩla	'ɩla	ɪ l a		dye-et-al-1968	20864
+224976	bahinemo	146_SUGAR_CANE	go	go	g o		dye-et-al-1968	20729
+224980	bahinemo	868_BANANA	gʌni	gʌni	g ʌ n i		dye-et-al-1968	20851
+224983	bahinemo	977_ARROW	'ɩnaba	'ɩnaba	ɪ n a b a		dye-et-al-1968	20899
+224987	bahinemo	293_NETBAG	hʌli	hʌli	h ʌ l i		dye-et-al-1968	20817
+224991	bahinemo	1252_HOUSE	'ɩna	'ɩna	ɪ n a		dye-et-al-1968	20756
+224995	bahinemo	1228_EARTH_SOIL	bobu	bobu	b o b u		dye-et-al-1968	20689
+224999	bahinemo	671_SAND	nogu	nogu	n o g u		dye-et-al-1968	20881
+225003	bahinemo	639_MOUNTAIN	biga	biga	b i g a		dye-et-al-1968	20672
+225007	bahinemo	960_WIND	gafu	gafu	g a f u		dye-et-al-1968	20666
+225011	bahinemo	343_VINE	ley	ley	l e j		dye-et-al-1968	20898
+225015	bahinemo	714_SEED	hʌbi	hʌbi	h ʌ b i		dye-et-al-1968	20917
+225019	bahinemo	1233_NIGHT	nʌmuli	nʌmuli	n ʌ m u l i		dye-et-al-1968	20858
+225023	bahinemo	1335_WHITE	gay	gay	g a j		dye-et-al-1968	20905
+225027	bahinemo	163_BLACK	khī	khī	k h iː		dye-et-al-1968	20759
+225031	bahinemo	1424_YELLOW	gwudi	gwudi	g w u d i		dye-et-al-1968	20679
+225035	bahinemo	156_RED	mahiyo	mahiyo	m a h i j o		dye-et-al-1968	20914
+225039	bahinemo	1203_LONG	miya	miya	m i j a		dye-et-al-1968	20827
+225043	bahinemo	1645_SHORT	bɔtha	bɔtha	b ɔ t h a		dye-et-al-1968	20887
+225047	bahinemo	1210_HEAVY	yisiy	yisiy	j i s i j		dye-et-al-1968	20740
+225051	bahinemo	630_LIGHT_RADIATION	walwa	walwa	w a l w a		dye-et-al-1968	20697
+225055	bahinemo	1287_COLD	khʌni	khʌni	k h ʌ n i		dye-et-al-1968	20948
+225059	bahinemo	492_THREE	huməli	huməli	h u m ə l i		dye-et-al-1968	20724
+225063	bahinemo	1500_FOUR	gʌda	gʌda	g ʌ d a		dye-et-al-1968	20830
+225067	bahinemo	493_FIVE	hʌlbafu	hʌlbafu	h ʌ l b a f u		dye-et-al-1968	20838
+225071	bahinemo	1268_YES	'ey	'ey	e j		dye-et-al-1968	20776
+225075	bahinemo	1269_NO	mbaya	mbaya	m b a j a		dye-et-al-1968	20841
+225079	bahinemo	1209_I	'ani	'ani	a n i		dye-et-al-1968	20868
+225083	bahinemo	1215_THOU	'ini	'ini	i n i		dye-et-al-1968	20805
+225087	bahinemo	1212_WE	nʌm	nʌm	n ʌ m		dye-et-al-1968	20866
+225091	bahinemo	217_BETELNUT	khʌday	khʌday	k h ʌ d a j		dye-et-al-1968	20829
+225095	bahinemo	982_LIME_FRUIT	dɔ	dɔ	d ɔ		dye-et-al-1968	20685
+225099	bahinemo	2270_SAGO	naw	naw	n a w		dye-et-al-1968	20937
+225103	bahinemo	1927_BAMBOO	gani	gani	g a n i		dye-et-al-1968	20716
+225107	bahinemo	1970_CANOE	doma	doma	d o m a		dye-et-al-1968	20966
+225111	bahinemo	234_PADDLE	yafïï	yafïï	j a f ï/i ï/i		dye-et-al-1968	20955
+225114	bahinemo	389_FISH_TRAP	geli	geli	g e l i		dye-et-al-1968	20933
+225118	bahinemo	841_FISHING_SPEAR	dawɩn	dawɩn	d a w ɪ n		dye-et-al-1968	20741
+225122	bahinemo	328_GRASS-SKIRT	hʌwi	hʌwi	h ʌ w i		dye-et-al-1968	20863
+225126	bahinemo	2100_THATCH_OR_ROOF	khʌsiya	khʌsiya	k h ʌ s i j a		dye-et-al-1968	20701
+225130	bahinemo	1013_FRESHWATER_EEL	'ɩlafuli	'ɩlafuli	ɪ l a f u l i		dye-et-al-1968	20877
+225134	bahinemo	1857_CROCODILE	yey mugulu	yey_mugulu	j e j + m u g u l u		dye-et-al-1968	20850
+225138	bahinemo	1509_MOSQUITO	yuw	yuw	j u w		dye-et-al-1968	20797
+225142	bahinemo	895_TORTOISE	'ɩlathi	'ɩlathi	ɪ l a t h i		dye-et-al-1968	20962
+224700	aheave	1554_MAN	yimar	yimar	j i m a r		dye-et-al-1968	20951
+224664	alamblak	189_HAIR_BODY	tʌmarts	tʌmarts	t ʌ m a r ts		dye-et-al-1968	20882
+224668	alamblak	1256_HEAD	mʌbogath	mʌbogath	m ʌ b o g a t h		dye-et-al-1968	20770
+224672	alamblak	674_MOUTH	tʌngʌth	tʌngʌth	t ʌ n g ʌ t h		dye-et-al-1968	20832
+224676	alamblak	1221_NOSE	khusɩmʌth	khusɩmʌth	k h u s ɪ m ʌ t h		dye-et-al-1968	20954
+224680	alamblak	1248_EYE	ningaw	ningaw	n i n g a w		dye-et-al-1968	20804
+224684	alamblak	1347_NAPE_OF_NECK	mokhthʌphil	mokhthʌphil	m o k h t h ʌ p h i l		dye-et-al-1968	20932
+224688	alamblak	1251_BELLY	yalith	yalith	j a l i t h		dye-et-al-1968	20766
+224692	alamblak	763_SKIN	thʌkhath	thʌkhath	t h ʌ k h a t h		dye-et-al-1968	20872
+224696	alamblak	1371_KNEE	bangor	bangor	b a n g o r		dye-et-al-1968	20916
+224704	alamblak	962_WOMAN	metum	metum	m e t u m		dye-et-al-1968	20935
+224708	alamblak	937_BIRD	nongwar	nongwar	n o n g w a r		dye-et-al-1968	20793
+224712	alamblak	2009_DOG	yawu	yawu	j a w u		dye-et-al-1968	20691
+224716	alamblak	1416_SIT	khodʌgor	khodʌgor	k h o d ʌ g o r		dye-et-al-1968	20894
+224720	alamblak	1442_STAND	thʌgaythɔgor	thʌgaythɔgor	t h ʌ g a j t h ɔ g o r		dye-et-al-1968	20924
+224724	alamblak	215_LIE_DOWN	hoitwor	hoitwor	h o i t w o r		dye-et-al-1968	20839
+224728	alamblak	1443_WALK	wiyawiyawor	wiyawiyawor	w i j a w i j a w o r		dye-et-al-1968	20728
+224732	alamblak	2457_PATH_OR_ROAD	yʌgothar	yʌgothar	j ʌ g o t h a r		dye-et-al-1968	20710
+224736	alamblak	857_STONE	taxim	taxim	t a x i m		dye-et-al-1968	20928
+224740	alamblak	1202_BIG	bʌdokham	bʌdokham	b ʌ d o k h a m		dye-et-al-1968	20745
+224744	alamblak	1246_SMALL	takhəphuyɛrʌm	takhəphuyɛrʌm	t a k h ə p h u j ɛ r ʌ m		dye-et-al-1968	20922
+224748	alamblak	221_FIRE	khaxth	khaxth	k h a x t h		dye-et-al-1968	20883
+224752	alamblak	778_SMOKE_EXHAUST	khaxipor	khaxipor	k h a x i p o r		dye-et-al-1968	20873
+224756	alamblak	646_ASH	yokonopam	yokonopam	j o k o n o p a m		dye-et-al-1968	20862
+224760	alamblak	1247_EAR	yɩmbʌlindangʌm	yɩmbʌlindangʌm	j ɪ m b ʌ l i n d a n g ʌ m		dye-et-al-1968	20796
+224764	alamblak	1205_TONGUE	torkh	torkh	t o r k h		dye-et-al-1968	20709
+224768	alamblak	1380_TOOTH	bɩsʌm	bɩsʌm	b ɪ s ʌ m		dye-et-al-1968	20755
+224772	alamblak	1402_BREAST	mingam	mingam	m i n g a m		dye-et-al-1968	20940
+224776	alamblak	2121_ARM_OR_HAND	thiwapith	thiwapith	t h i w a p i t h		dye-et-al-1968	20723
+224780	alamblak	1343_SUN	mar	mar	m a r		dye-et-al-1968	20750
+224784	alamblak	1313_MOON	yamʌth	yamʌth	j a m ʌ t h		dye-et-al-1968	20799
+224788	alamblak	1430_STAR	gunyər	gunyər	g u n j ə r		dye-et-al-1968	20949
+224792	alamblak	1489_CLOUD	mowʌnkh	mowʌnkh	m o w ʌ n k h		dye-et-al-1968	20665
+224796	alamblak	2108_RAINING_OR_RAIN	buriogo	buriogo	b u r i o g o		dye-et-al-1968	20742
+224800	alamblak	948_WATER	bukbam	bukbam	b u k b a m		dye-et-al-1968	20811
+224804	alamblak	906_TREE	mim	mim	m i m		dye-et-al-1968	20734
+224808	alamblak	670_ROOT	mʌthithʌbm	mʌthithʌbm	m ʌ t h i t h ʌ b m		dye-et-al-1968	20727
+224812	alamblak	628_LEAF	revatuam	revatuam	r e v a t u a m		dye-et-al-1968	20893
+224816	alamblak	634_MEAT	nʌmpam	nʌmpam	n ʌ m p a m		dye-et-al-1968	20754
+224820	alamblak	323_FAT_ORGANIC_SUBSTANCE	sivopam	sivopam	s i v o p a m		dye-et-al-1968	20861
+224824	alamblak	744_EGG	fokam	fokam	f o k a m		dye-et-al-1968	20828
+224828	alamblak	1336_EAT	weyanum	weyanum	w e j a n u m		dye-et-al-1968	20675
+224832	alamblak	1447_GIVE	rapakuda	rapakuda	r a p a k u d a	give (to me)	dye-et-al-1968	20699
+224836	alamblak	1409_SEE	wokatinum	wokatinum	w o k a t i n u m		dye-et-al-1968	20846
+224840	alamblak	1446_COME	bineyawa	bineyawa	b i n e j a w a		dye-et-al-1968	20813
+224844	alamblak	1392_LOUSE	nʌmo	nʌmo	n ʌ m o		dye-et-al-1968	20669
+224848	alamblak	1493_ONE	rɛphar	rɛphar	r ɛ p h a r		dye-et-al-1968	20678
+224852	alamblak	1498_TWO	hutsif	hutsif	h u ts i f		dye-et-al-1968	20781
+224856	alamblak	867_backofhand	moəngʌt	moəngʌt	m o ə n g ʌ t		dye-et-al-1968	20814
+224860	alamblak	1482_SHOULDER	bʌdingat	bʌdingat	b ʌ d i n g a t		dye-et-al-1968	20938
+224864	alamblak	123_FOREHEAD	nɩmbikh	nɩmbikh	n ɪ m b i k h		dye-et-al-1968	20719
+224868	alamblak	1510_CHIN	yɛngʌngovat	yɛngʌngovat	j ɛ n g ʌ n g o v a t		dye-et-al-1968	20783
+224872	alamblak	981_ELBOW	tilingʌnʌgar	tilingʌnʌgar	t i l i n g ʌ n ʌ g a r		dye-et-al-1968	20852
+224875	alamblak	1781_THUMB	mʌmapinyap	mʌmapinyap	m ʌ m a p i n j a p		dye-et-al-1968	20767
+224879	alamblak	2098_FOOT_OR_LEG	wʌlat	wʌlat	w ʌ l a t		dye-et-al-1968	20834
+224883	alamblak	1223_HEART	marbil	marbil	m a r b i l		dye-et-al-1968	20749
+224887	alamblak	1224_LIVER	wavʌt	wavʌt	w a v ʌ t		dye-et-al-1968	20945
+224891	alamblak	1394_BONE	thʌphim	thʌphim	t h ʌ p h i m		dye-et-al-1968	20889
+224895	alamblak	946_BLOOD	khukhupam	khukhupam	k h u k h u p a m		dye-et-al-1968	20911
+224899	alamblak	1257_WING	biɛrnam	biɛrnam	b i ɛ r n a m		dye-et-al-1968	20856
+224903	alamblak	1257_WING	biɛrnam	biɛrnam	b i ɛ r n a m		dye-et-al-1968	20856
+224907	alamblak	72_CLAW	phɩtsʌkam	phɩtsʌkam	p h ɪ ts ʌ k a m		dye-et-al-1968	20921
+224911	alamblak	1220_TAIL	gərbʌn	gərbʌn	g ə r b ʌ n		dye-et-al-1968	20731
+224915	alamblak	1366_BOY	yʌnər	yʌnər	j ʌ n ə r		dye-et-al-1968	20736
+224919	alamblak	1646_GIRL	yʌnt mɛrɩith	yʌnt_mɛrɩith	j ʌ n t + m ɛ r ɪ i t h		dye-et-al-1968	20870
+224923	alamblak	1217_FATHER	yivemar	yivemar	j i v e m a r		dye-et-al-1968	20902
+224927	alamblak	1216_MOTHER	mʌmɛmɩt	mʌmɛmɩt	m ʌ m ɛ m ɪ t		dye-et-al-1968	20785
+224931	alamblak	1759_OLDER_BROTHER	nayjʌmər	nayjʌmər	n a j j ʌ m ə r	male speaking	dye-et-al-1968	20869
+224935	alamblak	1263_SISTER	mʌndarɛmth	mʌndarɛmth	m ʌ n d a r ɛ m t h	male speaking	dye-et-al-1968	20844
+224939	alamblak	1405_NAME	yufat	yufat	j u f a t		dye-et-al-1968	20810
+224943	alamblak	1337_PIG	fagʌr	fagʌr	f a g ʌ r		dye-et-al-1968	20965
+224947	alamblak	466_CASSOWARY	bundugwʌr	bundugwʌr	b u n d u g w ʌ r		dye-et-al-1968	20684
+224951	alamblak	165_WALLABY	wilgapor	wilgapor	w i l g a p o r		dye-et-al-1968	20765
+224955	alamblak	235_FLYING_FOX	gʌbis	gʌbis	g ʌ b i s		dye-et-al-1968	20794
+224959	alamblak	1490_RAT	wilar	wilar	w i l a r		dye-et-al-1968	20711
+224962	alamblak	503_FROG	khukhar	khukhar	k h u k h a r		dye-et-al-1968	20847
+224966	alamblak	730_SNAKE	nandʌm	nandʌm	n a n d ʌ m		dye-et-al-1968	20733
+224970	alamblak	2638_FISHING	yɛlam	yɛlam	j ɛ l a m		dye-et-al-1968	20864
+224974	alamblak	146_SUGAR_CANE	mʌtsimgʌrm	mʌtsimgʌrm	m ʌ ts i m g ʌ r m		dye-et-al-1968	20886
+224978	alamblak	868_BANANA	gʌnigam	gʌnigam	g ʌ n i g a m		dye-et-al-1968	20851
+224982	alamblak	977_ARROW	khʌfaram	khʌfaram	k h ʌ f a r a m		dye-et-al-1968	20690
+224985	alamblak	293_NETBAG	yɔgʌt	yɔgʌt	j ɔ g ʌ t		dye-et-al-1968	20934
+224989	alamblak	1252_HOUSE	khunyʌm	khunyʌm	k h u n j ʌ m		dye-et-al-1968	20756
+224993	alamblak	1228_EARTH_SOIL	bʌbɩnsapith	bʌbɩnsapith	b ʌ b ɪ n s a p i t h		dye-et-al-1968	20777
+224997	alamblak	671_SAND	nonguth	nonguth	n o n g u t h		dye-et-al-1968	20881
+225001	alamblak	639_MOUNTAIN	khʌmin	khʌmin	k h ʌ m i n		dye-et-al-1968	20780
+225005	alamblak	960_WIND	wivoth	wivoth	w i v o t h		dye-et-al-1968	20874
+225009	alamblak	343_VINE	mʌthithʌbm	mʌthithʌbm	m ʌ t h i t h ʌ b m		dye-et-al-1968	20875
+225013	alamblak	714_SEED	miyukhram	miyukhram	m i j u k h r a m		dye-et-al-1968	20890
+225017	alamblak	1233_NIGHT	yɩvungʌth	yɩvungʌth	j ɪ v u n g ʌ t h		dye-et-al-1968	20673
+225021	alamblak	1335_WHITE	gaynyʌmth	gaynyʌmth	g a j n j ʌ m t h		dye-et-al-1968	20905
+225025	alamblak	163_BLACK	khərthath	khərthath	k h ə r t h a t h		dye-et-al-1968	20759
+225029	alamblak	1424_YELLOW	gonthiphan	gonthiphan	g o n t h i p h a n		dye-et-al-1968	20679
+225033	alamblak	156_RED	khokhophi	khokhophi	k h o k h o p h i		dye-et-al-1968	20703
+225037	alamblak	1203_LONG	yukhar	yukhar	j u k h a r		dye-et-al-1968	20923
+225041	alamblak	1645_SHORT	khukhopheyn	khukhopheyn	k h u k h o p h e j n		dye-et-al-1968	20702
+225045	alamblak	1210_HEAVY	khurukhiyuth	khurukhiyuth	k h u r u k h i j u t h		dye-et-al-1968	20718
+225049	alamblak	630_LIGHT_RADIATION	futotweyoth	futotweyoth	f u t o t w e j o t h		dye-et-al-1968	20812
+225053	alamblak	1287_COLD	gonʌgʌtheyoth	gonʌgʌtheyoth	g o n ʌ g ʌ t h e j o t h		dye-et-al-1968	20948
+225057	alamblak	492_THREE	hutsɩfɩtupar	hutsɩfɩtupar	h u ts ɪ f ɪ t u p a r		dye-et-al-1968	20820
+225061	alamblak	1500_FOUR	hutsɩfɩhutsɩf	hutsɩfɩhutsɩf	h u ts ɪ f ɪ h u ts ɪ f		dye-et-al-1968	20720
+225065	alamblak	493_FIVE	tiyokuthut	tiyokuthut	t i j o k u t h u t		dye-et-al-1968	20959
+225069	alamblak	1268_YES	wa	wa	w a		dye-et-al-1968	20815
+225073	alamblak	1269_NO	nʌgay	nʌgay	n ʌ g a j		dye-et-al-1968	20803
+225077	alamblak	1209_I	na	na	n a		dye-et-al-1968	20868
+225081	alamblak	1215_THOU	ni	ni	n i		dye-et-al-1968	20805
+225085	alamblak	1212_WE	nʌm	nʌm	n ʌ m		dye-et-al-1968	20866
+225089	alamblak	217_BETELNUT	yʌbmum	yʌbmum	j ʌ b m u m		dye-et-al-1968	20879
+225093	alamblak	982_LIME_FRUIT	khum	khum	k h u m		dye-et-al-1968	20772
+225097	alamblak	2270_SAGO	nakum	nakum	n a k u m		dye-et-al-1968	20937
+225101	alamblak	1927_BAMBOO	kʌnepm	kʌnepm	k ʌ n e p m		dye-et-al-1968	20716
+225105	alamblak	1970_CANOE	doɣʌth	doɣʌth	d o ɣ ʌ t h		dye-et-al-1968	20966
+225109	alamblak	234_PADDLE	mʌnagʌm	mʌnagʌm	m ʌ n a g ʌ m		dye-et-al-1968	20782
+225116	alamblak	841_FISHING_SPEAR	dawonʌm	dawonʌm	d a w o n ʌ m		dye-et-al-1968	20741
+225120	alamblak	328_GRASS-SKIRT	suwiɛm	suwiɛm	s u w i ɛ m		dye-et-al-1968	20863
+225124	alamblak	2100_THATCH_OR_ROOF	gʌthuwam	gʌthuwam	g ʌ t h u w a m		dye-et-al-1968	20701
+225128	alamblak	1013_FRESHWATER_EEL	gongʌm	gongʌm	g o n g ʌ m		dye-et-al-1968	20668
+225132	alamblak	1857_CROCODILE	mʌnumbor	mʌnumbor	m ʌ n u m b o r		dye-et-al-1968	20824
+225136	alamblak	1509_MOSQUITO	yoth	yoth	j o t h		dye-et-al-1968	20797
+225140	alamblak	895_TORTOISE	thʌkith	thʌkith	t h ʌ k i t h		dye-et-al-1968	20962
+224667	saniyo-hiyewe	189_HAIR_BODY	tutowe	tutowe	t u t o w e		dye-et-al-1968	20835
+224671	saniyo-hiyewe	1256_HEAD	tu	tu	t u		dye-et-al-1968	20761
+224675	saniyo-hiyewe	674_MOUTH	ahi	ahi	a h i		dye-et-al-1968	20674
+224679	saniyo-hiyewe	1221_NOSE	ɛrɛmɛ	ɛrɛmɛ	ɛ r ɛ m ɛ		dye-et-al-1968	20807
+224683	saniyo-hiyewe	1248_EYE	nihɛ	nihɛ	n i h ɛ		dye-et-al-1968	20804
+224687	saniyo-hiyewe	1347_NAPE_OF_NECK	wʌno'o	wʌno'o	w ʌ n o o		dye-et-al-1968	20789
+224691	saniyo-hiyewe	1251_BELLY	rivɛ	rivɛ	r i v ɛ		dye-et-al-1968	20913
+224695	saniyo-hiyewe	763_SKIN	tahɛ	tahɛ	t a h ɛ		dye-et-al-1968	20872
+224699	saniyo-hiyewe	1371_KNEE	roʌ'upʌro	roʌ'upʌro	r o ʌ u p ʌ r o		dye-et-al-1968	20764
+224703	saniyo-hiyewe	1554_MAN	mitaru	mitaru	m i t a r u		dye-et-al-1968	20831
+224707	saniyo-hiyewe	962_WOMAN	tawnɛ	tawnɛ	t a w n ɛ		dye-et-al-1968	20908
+224711	saniyo-hiyewe	937_BIRD	iruwɛ	iruwɛ	i r u w ɛ		dye-et-al-1968	20735
+224715	saniyo-hiyewe	2009_DOG	yo	yo	j o		dye-et-al-1968	20691
+224719	saniyo-hiyewe	1416_SIT	'ʌnue	'ʌnue	ʌ n u e		dye-et-al-1968	20730
+224723	saniyo-hiyewe	1442_STAND	teye	teye	t e j e		dye-et-al-1968	20924
+224727	saniyo-hiyewe	215_LIE_DOWN	howive	howive	h o w i v e		dye-et-al-1968	20839
+224731	saniyo-hiyewe	1443_WALK	'iye	'iye	i j e		dye-et-al-1968	20920
+224735	saniyo-hiyewe	2457_PATH_OR_ROAD	yomay	yomay	j o m a j		dye-et-al-1968	20853
+224739	saniyo-hiyewe	857_STONE	tapiyɛ	tapiyɛ	t a p i j ɛ		dye-et-al-1968	20952
+224743	saniyo-hiyewe	1202_BIG	rasi	rasi	r a s i		dye-et-al-1968	20695
+224747	saniyo-hiyewe	1246_SMALL	'ʌswa'i	'ʌswa'i	ʌ s w a i		dye-et-al-1968	20753
+224751	saniyo-hiyewe	221_FIRE	yɛhɛ	yɛhɛ	j ɛ h ɛ		dye-et-al-1968	20883
+224755	saniyo-hiyewe	778_SMOKE_EXHAUST	yɛhitʌmu	yɛhitʌmu	j ɛ h i t ʌ m u		dye-et-al-1968	20714
+224759	saniyo-hiyewe	646_ASH	yɛsi	yɛsi	j ɛ s i		dye-et-al-1968	20801
+224763	saniyo-hiyewe	1247_EAR	apahɛ	apahɛ	a p a h ɛ		dye-et-al-1968	20774
+224767	saniyo-hiyewe	1205_TONGUE	soruwɛ	soruwɛ	s o r u w ɛ		dye-et-al-1968	20709
+224771	saniyo-hiyewe	1380_TOOTH	pi	pi	p i		dye-et-al-1968	20755
+224775	saniyo-hiyewe	1402_BREAST	mo'u	mo'u	m o u		dye-et-al-1968	20747
+224779	saniyo-hiyewe	2121_ARM_OR_HAND	'ɛrɛti	'ɛrɛti	ɛ r ɛ t i		dye-et-al-1968	20704
+224783	saniyo-hiyewe	1343_SUN	poɔyuɛ	poɔyuɛ	p o ɔ j u ɛ		dye-et-al-1968	20696
+224787	saniyo-hiyewe	1313_MOON	yamɛ'	yamɛ'	j a m ɛ		dye-et-al-1968	20799
+224791	saniyo-hiyewe	1430_STAR	sariyɩpu	sariyɩpu	s a r i j ɪ p u		dye-et-al-1968	20705
+224795	saniyo-hiyewe	1489_CLOUD	safu	safu	s a f u		dye-et-al-1968	20849
+224799	saniyo-hiyewe	2108_RAINING_OR_RAIN	sa'i utie	sa'i_utie	s a i + u t i e		dye-et-al-1968	20867
+224803	saniyo-hiyewe	948_WATER	sa'i	sa'i	s a i		dye-et-al-1968	20837
+224807	saniyo-hiyewe	906_TREE	me	me	m e		dye-et-al-1968	20734
+224811	saniyo-hiyewe	670_ROOT	menapi	menapi	m e n a p i		dye-et-al-1968	20919
+224815	saniyo-hiyewe	628_LEAF	mʌtowɛ	mʌtowɛ	m ʌ t o w ɛ		dye-et-al-1968	20893
+224819	saniyo-hiyewe	634_MEAT	ro'u	ro'u	r o u		dye-et-al-1968	20944
+224823	saniyo-hiyewe	323_FAT_ORGANIC_SUBSTANCE	piyo'u	piyo'u	p i j o u		dye-et-al-1968	20737
+224827	saniyo-hiyewe	744_EGG	hotɛ	hotɛ	h o t ɛ		dye-et-al-1968	20828
+224831	saniyo-hiyewe	1336_EAT	asiyʌ	asiyʌ	a s i j ʌ		dye-et-al-1968	20675
+224835	saniyo-hiyewe	1447_GIVE	awe	awe	a w e	give (to me)	dye-et-al-1968	20786
+224839	saniyo-hiyewe	1409_SEE	siyɛsiyʌ	siyɛsiyʌ	s i j ɛ s i j ʌ		dye-et-al-1968	20725
+224843	saniyo-hiyewe	1446_COME	ayuʌ	ayuʌ	a j u ʌ		dye-et-al-1968	20784
+224847	saniyo-hiyewe	1392_LOUSE	nɛmɛ	nɛmɛ	n ɛ m ɛ		dye-et-al-1968	20669
+224851	saniyo-hiyewe	1493_ONE	hɛta'i	hɛta'i	h ɛ t a i		dye-et-al-1968	20957
+224855	saniyo-hiyewe	1498_TWO	hɛsi	hɛsi	h ɛ s i		dye-et-al-1968	20781
+224859	saniyo-hiyewe	867_backofhand	mɛ'iyɩni	mɛ'iyɩni	m ɛ i j ɪ n i		dye-et-al-1968	20814
+224863	saniyo-hiyewe	1482_SHOULDER	yo'o	yo'o	j o o		dye-et-al-1968	20818
+224867	saniyo-hiyewe	123_FOREHEAD	mapinɛ	mapinɛ	m a p i n ɛ		dye-et-al-1968	20719
+224871	saniyo-hiyewe	1510_CHIN	ahita'o	ahita'o	a h i t a o		dye-et-al-1968	20686
+224878	saniyo-hiyewe	1781_THUMB	'ɛrɛti nayɛ'	'ɛrɛti_nayɛ'	ɛ r ɛ t i + n a j ɛ		dye-et-al-1968	20888
+224882	saniyo-hiyewe	2098_FOOT_OR_LEG	rowɛ	rowɛ	r o w ɛ		dye-et-al-1968	20834
+224886	saniyo-hiyewe	1223_HEART	marɛpi	marɛpi	m a r ɛ p i		dye-et-al-1968	20749
+224890	saniyo-hiyewe	1224_LIVER	wave	wave	w a v e		dye-et-al-1968	20945
+224894	saniyo-hiyewe	1394_BONE	pa'arɛ	pa'arɛ	p a a r ɛ		dye-et-al-1968	20791
+224898	saniyo-hiyewe	946_BLOOD	fisa'i	fisa'i	f i s a i		dye-et-al-1968	20787
+224902	saniyo-hiyewe	1257_WING	haypi	haypi	h a j p i		dye-et-al-1968	20698
+224906	saniyo-hiyewe	1257_WING	haypi	haypi	h a j p i		dye-et-al-1968	20698
+224910	saniyo-hiyewe	72_CLAW	yaruwapi	yaruwapi	j a r u w a p i		dye-et-al-1968	20771
+224914	saniyo-hiyewe	1220_TAIL	ini	ini	i n i		dye-et-al-1968	20854
+224918	saniyo-hiyewe	1366_BOY	emanɛ	emanɛ	e m a n ɛ		dye-et-al-1968	20736
+224922	saniyo-hiyewe	1646_GIRL	tawnemanɛ	tawnemanɛ	t a w n e m a n ɛ		dye-et-al-1968	20843
+224926	saniyo-hiyewe	1217_FATHER	aytɛ	aytɛ	a j t ɛ		dye-et-al-1968	20693
+224930	saniyo-hiyewe	1216_MOTHER	may	may	m a j		dye-et-al-1968	20671
+224934	saniyo-hiyewe	1759_OLDER_BROTHER	ayru	ayru	a j r u	male speaking	dye-et-al-1968	20712
+224938	saniyo-hiyewe	1263_SISTER	ine	ine	i n e	male speaking	dye-et-al-1968	20819
+224942	saniyo-hiyewe	1405_NAME	yapɛ	yapɛ	j a p ɛ		dye-et-al-1968	20810
+224946	saniyo-hiyewe	1337_PIG	fe	fe	f e		dye-et-al-1968	20965
+224950	saniyo-hiyewe	466_CASSOWARY	'iruwʌru	'iruwʌru	i r u w ʌ r u		dye-et-al-1968	20769
+224954	saniyo-hiyewe	165_WALLABY	'aviyɛ 'ɛrɛvi	'aviyɛ_'ɛrɛvi	a v i j ɛ + ɛ r ɛ v i		dye-et-al-1968	20739
+224958	saniyo-hiyewe	235_FLYING_FOX	'iruwʌ'opi	'iruwʌ'opi	i r u w ʌ o p i		dye-et-al-1968	20794
+224965	saniyo-hiyewe	503_FROG	so	so	s o		dye-et-al-1968	20726
+224969	saniyo-hiyewe	730_SNAKE	haru	haru	h a r u		dye-et-al-1968	20758
+224973	saniyo-hiyewe	2638_FISHING	harɛ	harɛ	h a r ɛ		dye-et-al-1968	20864
+224977	saniyo-hiyewe	146_SUGAR_CANE	nɛriyave	nɛriyave	n ɛ r i j a v e		dye-et-al-1968	20825
+224981	saniyo-hiyewe	868_BANANA	'one	'one	o n e		dye-et-al-1968	20851
+224984	saniyo-hiyewe	977_ARROW	ene	ene	e n e		dye-et-al-1968	20899
+224988	saniyo-hiyewe	293_NETBAG	niyɛ	niyɛ	n i j ɛ		dye-et-al-1968	20762
+224992	saniyo-hiyewe	1252_HOUSE	wʌsi	wʌsi	w ʌ s i		dye-et-al-1968	20891
+224996	saniyo-hiyewe	1228_EARTH_SOIL	pɛpɛri	pɛpɛri	p ɛ p ɛ r i		dye-et-al-1968	20689
+225000	saniyo-hiyewe	671_SAND	'ɛnɛri	'ɛnɛri	ɛ n ɛ r i		dye-et-al-1968	20744
+225004	saniyo-hiyewe	639_MOUNTAIN	omo	omo	o m o		dye-et-al-1968	20676
+225008	saniyo-hiyewe	960_WIND	fiaru	fiaru	f i a r u		dye-et-al-1968	20752
+225012	saniyo-hiyewe	343_VINE	wafay	wafay	w a f a j		dye-et-al-1968	20964
+225016	saniyo-hiyewe	714_SEED	meso	meso	m e s o		dye-et-al-1968	20706
+225020	saniyo-hiyewe	1233_NIGHT	pasi	pasi	p a s i		dye-et-al-1968	20876
+225024	saniyo-hiyewe	1335_WHITE	wapoa'i	wapoa'i	w a p o a i		dye-et-al-1968	20717
+225028	saniyo-hiyewe	163_BLACK	ivisia'i	ivisia'i	i v i s i a i		dye-et-al-1968	20748
+225032	saniyo-hiyewe	1424_YELLOW	warimea'i	warimea'i	w a r i m e a i		dye-et-al-1968	20880
+225036	saniyo-hiyewe	156_RED	ro'ua'i	ro'ua'i	r o u a i		dye-et-al-1968	20713
+225040	saniyo-hiyewe	1203_LONG	pitase	pitase	p i t a s e		dye-et-al-1968	20732
+225044	saniyo-hiyewe	1645_SHORT	tɛ'ia'i	tɛ'ia'i	t ɛ i a i		dye-et-al-1968	20681
+225048	saniyo-hiyewe	1210_HEAVY	orasia'i	orasia'i	o r a s i a i		dye-et-al-1968	20808
+225052	saniyo-hiyewe	630_LIGHT_RADIATION	pɛtania'i	pɛtania'i	p ɛ t a n i a i		dye-et-al-1968	20958
+225056	saniyo-hiyewe	1287_COLD	narataya'i	narataya'i	n a r a t a j a i		dye-et-al-1968	20855
+225060	saniyo-hiyewe	492_THREE	hɛsi heta	hɛsi_heta	h ɛ s i + h e t a		dye-et-al-1968	20941
+225064	saniyo-hiyewe	1500_FOUR	hɛsiohɛsio	hɛsiohɛsio	h ɛ s i o h ɛ s i o		dye-et-al-1968	20720
+225068	saniyo-hiyewe	493_FIVE	'ɛrɛtifɛni	'ɛrɛtifɛni	ɛ r ɛ t i f ɛ n i		dye-et-al-1968	20788
+225072	saniyo-hiyewe	1268_YES	yaw	yaw	j a w		dye-et-al-1968	20721
+225076	saniyo-hiyewe	1269_NO	piyɛte	piyɛte	p i j ɛ t e		dye-et-al-1968	20795
+225080	saniyo-hiyewe	1209_I	ane	ane	a n e		dye-et-al-1968	20868
+225084	saniyo-hiyewe	1215_THOU	ne	ne	n e		dye-et-al-1968	20805
+225088	saniyo-hiyewe	1212_WE	nʌmo	nʌmo	n ʌ m o		dye-et-al-1968	20866
+225092	saniyo-hiyewe	217_BETELNUT	veve	veve	v e v e		dye-et-al-1968	20925
+225096	saniyo-hiyewe	982_LIME_FRUIT	to	to	t o		dye-et-al-1968	20685
+225100	saniyo-hiyewe	2270_SAGO	naw	naw	n a w		dye-et-al-1968	20937
+225104	saniyo-hiyewe	1927_BAMBOO	mɛnɛ'ɛ	mɛnɛ'ɛ	m ɛ n ɛ ɛ		dye-et-al-1968	20694
+225108	saniyo-hiyewe	1970_CANOE	way	way	w a j		dye-et-al-1968	20901
+225112	saniyo-hiyewe	234_PADDLE	ihe	ihe	i h e		dye-et-al-1968	20757
+225115	saniyo-hiyewe	389_FISH_TRAP	harɛ'ɛri	harɛ'ɛri	h a r ɛ ɛ r i		dye-et-al-1968	20933
+225119	saniyo-hiyewe	841_FISHING_SPEAR	towe	towe	t o w e		dye-et-al-1968	20741
+225123	saniyo-hiyewe	328_GRASS-SKIRT	sɛvi	sɛvi	s ɛ v i		dye-et-al-1968	20863
+225127	saniyo-hiyewe	2100_THATCH_OR_ROOF	'ʌtowɛ	'ʌtowɛ	ʌ t o w ɛ		dye-et-al-1968	20701
+225131	saniyo-hiyewe	1013_FRESHWATER_EEL	harɛwati	harɛwati	h a r ɛ w a t i		dye-et-al-1968	20778
+225135	saniyo-hiyewe	1857_CROCODILE	harɛ mʌ'ʌru	harɛ_mʌ'ʌru	h a r ɛ + m ʌ ʌ r u		dye-et-al-1968	20850
+225139	saniyo-hiyewe	1509_MOSQUITO	nɛ'i	nɛ'i	n ɛ i		dye-et-al-1968	20775
+225143	saniyo-hiyewe	895_TORTOISE	harɛ ti	harɛ_ti	h a r ɛ + t i		dye-et-al-1968	20962

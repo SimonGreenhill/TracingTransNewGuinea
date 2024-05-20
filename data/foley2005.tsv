@@ -1,0 +1,1918 @@
+# Wordlist
+
+# DATA
+ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	SOURCE	COGID
+236688	marangis	1493_ONE	kaku	kaku	k a k u		foley2005	1
+236693	marangis	1498_TWO	mbwoini	mbwoini	m b w o i n i		foley2005	2
+236698	marangis	492_THREE	giramot	giramot	g i r a m o t		foley2005	3
+236703	marangis	683_PERSON	namot	namot	n a m o t		foley2005	4
+236709	marangis	962_WOMAN	aem	aem	a e m		foley2005	5
+236715	marangis	1217_FATHER	aes	aes	a e s		foley2005	6
+236720	marangis	948_WATER	arum	arum	a r u m		foley2005	7
+236725	marangis	221_FIRE	sak	sak	s a k		foley2005	8
+236730	marangis	1343_SUN	nau	nau	n a u		foley2005	9
+236731	marangis	1343_SUN	ra	ra	r a		foley2005	10
+236736	marangis	1313_MOON	ndoŋar	ndoŋar	n d o ŋ a r		foley2005	11
+236741	marangis	1430_STAR	gwi	gwi	g w i		foley2005	12
+236746	marangis	1970_CANOE	kor	kor	k o r		foley2005	13
+236751	marangis	1252_HOUSE	endau	endau	e n d a u		foley2005	14
+236756	marangis	930_VILLAGE	n(a)oŋ	noŋ	n o ŋ		foley2005	15
+236761	marangis	1402_BREAST	mur	mur	m u r		foley2005	16
+236766	marangis	1380_TOOTH	ndakai	ndakai	n d a k a i		foley2005	17
+236771	marangis	946_BLOOD	rumb	rumb	r u m b		foley2005	18
+236776	marangis	1394_BONE	gagar	gagar	g a g a r		foley2005	19
+236781	marangis	1205_TONGUE	mi	mi	m i		foley2005	20
+236786	marangis	1247_EAR	kwar	kwar	k w a r		foley2005	21
+236791	marangis	1248_EYE	namak	namak	n a m a k		foley2005	22
+236796	marangis	1221_NOSE	ŋgorak	ŋgorak	ŋ g o r a k		foley2005	23
+236801	marangis	2098_FOOT_OR_LEG	or	or	o r		foley2005	24
+236806	marangis	189_HAIR_BODY	mbunat	mbunat	m b u n a t		foley2005	25
+236811	marangis	744_EGG	yor	yor	j o r		foley2005	26
+236816	marangis	628_LEAF	rapar	rapar	r a p a r		foley2005	27
+236821	marangis	906_TREE	padoŋ	padoŋ	p a d o ŋ		foley2005	28
+236826	marangis	1174_YESTERDAY	ŋur	ŋur	ŋ u r		foley2005	29
+236831	marangis	1329_TOMORROW	ŋarap	ŋarap	ŋ a r a p		foley2005	30
+236836	marangis	3137_OAR	anup	anup	a n u p		foley2005	31
+236841	marangis	217_BETELNUT	meɲiak	meɲiak	m e ɲ i a k		foley2005	32
+236846	marangis	982_LIME_FRUIT	ai	ai	a i		foley2005	33
+236851	marangis	2270_SAGO	wak	wak	w a k		foley2005	34
+236856	marangis	1337_PIG	markum	markum	m a r k u m		foley2005	35
+236861	marangis	1857_CROCODILE	namkai	namkai	n a m k a i		foley2005	36
+236866	marangis	730_SNAKE	mindop	mindop	m i n d o p		foley2005	37
+236871	marangis	1405_NAME	wi	wi	w i		foley2005	38
+236876	marangis	1509_MOSQUITO	naŋgit	naŋgit	n a ŋ g i t		foley2005	39
+236881	marangis	2159_GROUND	wakar	wakar	w a k a r		foley2005	40
+236886	marangis	675_FAECES_EXCREMENT	yo	yo	j o		foley2005	41
+236891	marangis	1408_HEAR	warak	warak	w a r a k		foley2005	42
+236896	marangis	1433_HIT	ruŋ	ruŋ	r u ŋ		foley2005	43
+236901	marangis	1336_EAT	amb	amb	a m b		foley2005	44
+236906	marangis	695_GO	saŋg	saŋg	s a ŋ g		foley2005	45
+236911	marangis	1446_COME	rukup	rukup	r u k u p		foley2005	46
+236916	marangis	1416_SIT	mbirak	mbirak	m b i r a k		foley2005	47
+236921	marangis	1442_STAND	utik	utik	u t i k		foley2005	48
+236926	marangis	1202_BIG	nakan	nakan	n a k a n		foley2005	49
+236931	marangis	1035_GOOD	yaoŋ	yaoŋ	j a o ŋ		foley2005	50
+236936	marangis	163_BLACK	mbukmbuk	mbukmbuk	m b u k m b u k		foley2005	51
+236941	marangis	2272_HOT_OR_WARM	wiwi	wiwi	w i w i		foley2005	52
+236946	marangis	1287_COLD	gagau	gagau	g a g a u		foley2005	53
+236951	marangis	1209_I	yak	yak	j a k		foley2005	54
+236956	marangis	2304_THEE_OBLIQUE_CASE_OF_YOU	u	u	u		foley2005	55
+236962	marangis	262_HE_OR_SHE_OR_IT	ma	ma	m a		foley2005	21150
+236968	marangis	2634_WE_TWO	aŋga	aŋga	a ŋ g a		foley2005	21151
+236974	marangis	2111_YOU_TWO	noŋgo	noŋgo	n o ŋ g o		foley2005	21152
+236980	marangis	817_THEY	miŋga	miŋga	m i ŋ g a		foley2005	21153
+236983	marangis	2301_1ppaucal	apak	apak	a p a k		foley2005	56
+236985	marangis	2302_2ppaucal	niŋga	niŋga	n i ŋ g a		foley2005	57
+236987	marangis	2303_3ppaucal	miŋga	miŋga	m i ŋ g a		foley2005	58
+236992	marangis	1212_WE	ae	ae	a e		foley2005	21154
+236998	marangis	2312_YOU_OBLIQUE_CASE_OF_YOU	ne	ne	n e		foley2005	21155
+237004	marangis	817_THEY	min	min	m i n		foley2005	21156
+236686	kayan	1493_ONE	kaku	kaku	k a k u		foley2005	59
+236691	kayan	1498_TWO	mbuniŋ	mbuniŋ	m b u n i ŋ		foley2005	60
+236696	kayan	492_THREE	giramaut	giramaut	g i r a m a u t		foley2005	61
+236701	kayan	683_PERSON	namot	namot	n a m o t		foley2005	62
+236707	kayan	962_WOMAN	meak	meak	m e a k		foley2005	63
+236713	kayan	1217_FATHER	aes	aes	a e s		foley2005	64
+236718	kayan	948_WATER	ŋarum	ŋarum	ŋ a r u m		foley2005	65
+236723	kayan	221_FIRE	sak	sak	s a k		foley2005	66
+236728	kayan	1343_SUN	ra	ra	r a		foley2005	67
+236734	kayan	1313_MOON	kare	kare	k a r e		foley2005	68
+236739	kayan	1430_STAR	gwae	gwae	g w a e		foley2005	69
+236744	kayan	1970_CANOE	kor	kor	k o r		foley2005	70
+236749	kayan	1252_HOUSE	endau	endau	e n d a u		foley2005	71
+236754	kayan	930_VILLAGE	noŋ	noŋ	n o ŋ		foley2005	72
+236759	kayan	1402_BREAST	mur	mur	m u r		foley2005	73
+236764	kayan	1380_TOOTH	ndakai	ndakai	n d a k a i		foley2005	74
+236769	kayan	946_BLOOD	yakaind	yakaind	j a k a i n d		foley2005	75
+236774	kayan	1394_BONE	gagar	gagar	g a g a r		foley2005	76
+236779	kayan	1205_TONGUE	memraŋ	memraŋ	m e m r a ŋ		foley2005	77
+236784	kayan	1247_EAR	kwar	kwar	k w a r		foley2005	78
+236789	kayan	1248_EYE	rameak	rameak	r a m e a k		foley2005	79
+236794	kayan	1221_NOSE	ŋgorak	ŋgorak	ŋ g o r a k		foley2005	80
+236799	kayan	2098_FOOT_OR_LEG	or	or	o r		foley2005	81
+236804	kayan	189_HAIR_BODY	sabrit	sabrit	s a b r i t		foley2005	82
+236809	kayan	744_EGG	yor	yor	j o r		foley2005	83
+236814	kayan	628_LEAF	rapar	rapar	r a p a r		foley2005	84
+236819	kayan	906_TREE	paraŋ	paraŋ	p a r a ŋ		foley2005	85
+236824	kayan	1174_YESTERDAY	ŋaup	ŋaup	ŋ a u p		foley2005	86
+236829	kayan	1329_TOMORROW	ŋorap	ŋorap	ŋ o r a p		foley2005	87
+236834	kayan	3137_OAR	anup	anup	a n u p		foley2005	88
+236839	kayan	217_BETELNUT	mbok	mbok	m b o k		foley2005	89
+236844	kayan	982_LIME_FRUIT	aipak	aipak	a i p a k		foley2005	90
+236849	kayan	2270_SAGO	weak	weak	w e a k		foley2005	91
+236854	kayan	1337_PIG	markum	markum	m a r k u m		foley2005	92
+236859	kayan	1857_CROCODILE	nomgai	nomgai	n o m g a i		foley2005	93
+236864	kayan	730_SNAKE	mindop	mindop	m i n d o p		foley2005	94
+236869	kayan	1405_NAME	wi	wi	w i		foley2005	95
+236874	kayan	1509_MOSQUITO	naŋgit	naŋgit	n a ŋ g i t		foley2005	96
+236879	kayan	2159_GROUND	wakar	wakar	w a k a r		foley2005	97
+236884	kayan	675_FAECES_EXCREMENT	yupak	yupak	j u p a k		foley2005	98
+236889	kayan	1408_HEAR	warka	warka	w a r k a		foley2005	99
+236894	kayan	1433_HIT	pi	pi	p i		foley2005	100
+236899	kayan	1336_EAT	amb	amb	a m b		foley2005	101
+236904	kayan	695_GO	saŋg	saŋg	s a ŋ g		foley2005	102
+236909	kayan	1446_COME	rukup	rukup	r u k u p		foley2005	103
+236914	kayan	1416_SIT	mbirak	mbirak	m b i r a k		foley2005	104
+236919	kayan	1442_STAND	utik	utik	u t i k		foley2005	105
+236924	kayan	1202_BIG	aneak	aneak	a n e a k		foley2005	106
+236929	kayan	1035_GOOD	yaoŋ	yaoŋ	j a o ŋ		foley2005	107
+236934	kayan	163_BLACK	mbukmbuk	mbukmbuk	m b u k m b u k		foley2005	108
+236939	kayan	2272_HOT_OR_WARM	wai	wai	w a i		foley2005	109
+236944	kayan	1287_COLD	gagau	gagau	g a g a u		foley2005	110
+236949	kayan	1209_I	ak	ak	a k		foley2005	111
+236954	kayan	2304_THEE_OBLIQUE_CASE_OF_YOU	gwa	gwa	g w a		foley2005	112
+236959	kayan	262_HE_OR_SHE_OR_IT	ma	ma	m a		foley2005	21150
+236965	kayan	2634_WE_TWO	aŋg	aŋg	a ŋ g		foley2005	21151
+236971	kayan	2111_YOU_TWO	oŋg	oŋg	o ŋ g		foley2005	21152
+236977	kayan	817_THEY	maniŋg	maniŋg	m a n i ŋ g		foley2005	21153
+236982	kayan	2301_1ppaucal	apeak	apeak	a p e a k		foley2005	113
+236984	kayan	2302_2ppaucal	nepak	nepak	n e p a k		foley2005	114
+236986	kayan	2303_3ppaucal	minpak	minpak	m i n p a k		foley2005	115
+236989	kayan	1212_WE	ae	ae	a e		foley2005	21154
+236995	kayan	2312_YOU_OBLIQUE_CASE_OF_YOU	ne	ne	n e		foley2005	21155
+237001	kayan	817_THEY	mi(n)	mi	m i		foley2005	21156
+236687	mbore	1493_ONE	kabe	kabe	k a b e		foley2005	116
+236692	mbore	1498_TWO	mbuniŋ	mbuniŋ	m b u n i ŋ		foley2005	117
+236697	mbore	492_THREE	mbokak	mbokak	m b o k a k		foley2005	118
+236702	mbore	683_PERSON	ramot	ramot	r a m o t		foley2005	119
+236708	mbore	962_WOMAN	meak	meak	m e a k		foley2005	120
+236714	mbore	1217_FATHER	aet	aet	a e t		foley2005	121
+236719	mbore	948_WATER	puk	puk	p u k		foley2005	122
+236724	mbore	221_FIRE	tak	tak	t a k		foley2005	123
+236729	mbore	1343_SUN	ra	ra	r a		foley2005	124
+236735	mbore	1313_MOON	karvɨi	karvɨi	k a r v ɨ i		foley2005	125
+236740	mbore	1430_STAR	gwi	gwi	g w i		foley2005	126
+236745	mbore	1970_CANOE	kor	kor	k o r		foley2005	127
+236750	mbore	1252_HOUSE	kak	kak	k a k		foley2005	128
+236755	mbore	930_VILLAGE	auŋ	auŋ	a u ŋ		foley2005	129
+236760	mbore	1402_BREAST	mɨr	mɨr	m ɨ r		foley2005	130
+236765	mbore	1380_TOOTH	ndar	ndar	n d a r		foley2005	131
+236770	mbore	946_BLOOD	rakaind	rakaind	r a k a i n d		foley2005	132
+236775	mbore	1394_BONE	gagar	gagar	g a g a r		foley2005	133
+236780	mbore	1205_TONGUE	mim	mim	m i m		foley2005	134
+236785	mbore	1247_EAR	kwar	kwar	k w a r		foley2005	135
+236790	mbore	1248_EYE	lamŋeak	lamŋeak	l a m ŋ e a k		foley2005	136
+236795	mbore	1221_NOSE	ŋgorak	ŋgorak	ŋ g o r a k		foley2005	137
+236800	mbore	2098_FOOT_OR_LEG	or	or	o r		foley2005	138
+236805	mbore	189_HAIR_BODY	yakwar	yakwar	j a k w a r		foley2005	139
+236810	mbore	744_EGG	lor	lor	l o r		foley2005	140
+236815	mbore	628_LEAF	rapar	rapar	r a p a r		foley2005	141
+236820	mbore	906_TREE	ik	ik	i k		foley2005	142
+236825	mbore	1174_YESTERDAY	ŋaur	ŋaur	ŋ a u r		foley2005	143
+236830	mbore	1329_TOMORROW	ŋorap	ŋorap	ŋ o r a p		foley2005	144
+236835	mbore	3137_OAR	nup	nup	n u p		foley2005	145
+236840	mbore	217_BETELNUT	mbok	mbok	m b o k		foley2005	146
+236845	mbore	982_LIME_FRUIT	avir	avir	a v i r		foley2005	147
+236850	mbore	2270_SAGO	veak	veak	v e a k		foley2005	148
+236855	mbore	1337_PIG	markəm	markəm	m a r k ə m		foley2005	149
+236860	mbore	1857_CROCODILE	mugmai	mugmai	m u g m a i		foley2005	150
+236865	mbore	730_SNAKE	nduop	nduop	n d u o p		foley2005	151
+236870	mbore	1405_NAME	i	i	i		foley2005	152
+236875	mbore	1509_MOSQUITO	ŋgit	ŋgit	ŋ g i t		foley2005	153
+236880	mbore	2159_GROUND	tiakar	tiakar	t i a k a r		foley2005	154
+236885	mbore	675_FAECES_EXCREMENT	lo	lo	l o		foley2005	155
+236890	mbore	1408_HEAR	warak	warak	w a r a k		foley2005	156
+236895	mbore	1433_HIT	pi	pi	p i		foley2005	157
+236900	mbore	1336_EAT	amb	amb	a m b		foley2005	158
+236905	mbore	695_GO	taŋg	taŋg	t a ŋ g		foley2005	159
+236910	mbore	1446_COME	kɨp	kɨp	k ɨ p		foley2005	160
+236915	mbore	1416_SIT	mbirak	mbirak	m b i r a k		foley2005	161
+236920	mbore	1442_STAND	wɨtɨk	wɨtɨk	w ɨ t ɨ k		foley2005	162
+236925	mbore	1202_BIG	aɲek	aɲek	a ɲ e k		foley2005	163
+236930	mbore	1035_GOOD	laŋ	laŋ	l a ŋ		foley2005	164
+236935	mbore	163_BLACK	mbəkmbək	mbəkmbək	m b ə k m b ə k		foley2005	165
+236940	mbore	2272_HOT_OR_WARM	ovai	ovai	o v a i		foley2005	166
+236945	mbore	1287_COLD	gagau	gagau	g a g a u		foley2005	167
+236950	mbore	1209_I	awk	awk	a w k		foley2005	168
+236955	mbore	2304_THEE_OBLIQUE_CASE_OF_YOU	un	un	u n		foley2005	169
+236961	mbore	262_HE_OR_SHE_OR_IT	man	man	m a n		foley2005	21150
+236967	mbore	2634_WE_TWO	aŋg	aŋg	a ŋ g		foley2005	21151
+236973	mbore	2111_YOU_TWO	oŋgo	oŋgo	o ŋ g o		foley2005	21152
+236979	mbore	817_THEY	maniŋg	maniŋg	m a n i ŋ g		foley2005	21153
+236991	mbore	1212_WE	ai	ai	a i		foley2005	21154
+236997	mbore	2312_YOU_OBLIQUE_CASE_OF_YOU	nen	nen	n e n		foley2005	21155
+237003	mbore	817_THEY	min	min	m i n		foley2005	21156
+236689	bosmun	1493_ONE	koku	koku	k o k u		foley2005	170
+236694	bosmun	1498_TWO	mbuniŋ	mbuniŋ	m b u n i ŋ		foley2005	171
+236699	bosmun	492_THREE	bonkak	bonkak	b o n k a k		foley2005	172
+236704	bosmun	683_PERSON	mot	mot	m o t		foley2005	173
+236710	bosmun	962_WOMAN	mes	mes	m e s		foley2005	174
+236711	bosmun	962_WOMAN	mam	mam	m a m		foley2005	175
+236716	bosmun	1217_FATHER	sate	sate	s a t e		foley2005	176
+236721	bosmun	948_WATER	mok	mok	m o k		foley2005	177
+236726	bosmun	221_FIRE	suək	suək	s u ə k		foley2005	178
+236732	bosmun	1343_SUN	lau	lau	l a u		foley2005	179
+236737	bosmun	1313_MOON	kərvi	kərvi	k ə r v i		foley2005	180
+236742	bosmun	1430_STAR	ɲiem	ɲiem	ɲ i e m		foley2005	181
+236747	bosmun	1970_CANOE	kor	kor	k o r		foley2005	182
+236752	bosmun	1252_HOUSE	tomuŋ	tomuŋ	t o m u ŋ		foley2005	183
+236757	bosmun	930_VILLAGE	wunis	wunis	w u n i s		foley2005	184
+236762	bosmun	1402_BREAST	mɨr	mɨr	m ɨ r		foley2005	185
+236767	bosmun	1380_TOOTH	dar	dar	d a r		foley2005	186
+236772	bosmun	946_BLOOD	nimbit	nimbit	n i m b i t		foley2005	187
+236777	bosmun	1394_BONE	ɣar	ɣar	ɣ a r		foley2005	188
+236782	bosmun	1205_TONGUE	eitap	eitap	e i t a p		foley2005	189
+236787	bosmun	1247_EAR	kur	kur	k u r		foley2005	190
+236792	bosmun	1248_EYE	rəmak	rəmak	r ə m a k		foley2005	191
+236797	bosmun	1221_NOSE	gwarak	gwarak	g w a r a k		foley2005	192
+236802	bosmun	2098_FOOT_OR_LEG	or	or	o r		foley2005	193
+236807	bosmun	189_HAIR_BODY	twakarɨ	twakarɨ	t w a k a r ɨ		foley2005	194
+236812	bosmun	744_EGG	nuok	nuok	n u o k		foley2005	195
+236817	bosmun	628_LEAF	par	par	p a r		foley2005	196
+236822	bosmun	906_TREE	kən	kən	k ə n		foley2005	197
+236827	bosmun	1174_YESTERDAY	ɣur	ɣur	ɣ u r		foley2005	198
+236832	bosmun	1329_TOMORROW	vuarap	vuarap	v u a r a p		foley2005	199
+236837	bosmun	3137_OAR	nuap	nuap	n u a p		foley2005	200
+236842	bosmun	217_BETELNUT	mbok	mbok	m b o k		foley2005	201
+236847	bosmun	982_LIME_FRUIT	verpak	verpak	v e r p a k		foley2005	202
+236852	bosmun	2270_SAGO	ves	ves	v e s		foley2005	203
+236857	bosmun	1337_PIG	rəkəm	rəkəm	r ə k ə m		foley2005	204
+236862	bosmun	1857_CROCODILE	ŋgome	ŋgome	ŋ g o m e		foley2005	205
+236867	bosmun	730_SNAKE	nduop	nduop	n d u o p		foley2005	206
+236872	bosmun	1405_NAME	ji	ji	j i		foley2005	207
+236877	bosmun	1509_MOSQUITO	ɲjet	ɲjet	ɲ j e t		foley2005	208
+236882	bosmun	2159_GROUND	tesin	tesin	t e s i n		foley2005	209
+236887	bosmun	675_FAECES_EXCREMENT	yuwur	yuwur	j u w u r		foley2005	210
+236892	bosmun	1408_HEAR	vai	vai	v a i		foley2005	211
+236897	bosmun	1433_HIT	ŋara	ŋara	ŋ a r a		foley2005	212
+236902	bosmun	1336_EAT	mba	mba	m b a		foley2005	213
+236907	bosmun	695_GO	saŋg	saŋg	s a ŋ g		foley2005	214
+236912	bosmun	1446_COME	kɨp	kɨp	k ɨ p		foley2005	215
+236917	bosmun	1416_SIT	berak	berak	b e r a k		foley2005	216
+236922	bosmun	1442_STAND	tis	tis	t i s		foley2005	217
+236927	bosmun	1202_BIG	ɣor	ɣor	ɣ o r		foley2005	218
+236932	bosmun	1035_GOOD	yaŋ	yaŋ	j a ŋ		foley2005	219
+236937	bosmun	163_BLACK	bəkbək	bəkbək	b ə k b ə k		foley2005	220
+236942	bosmun	2272_HOT_OR_WARM	vɨvi	vɨvi	v ɨ v i		foley2005	221
+236947	bosmun	1287_COLD	ɣɨɣɨat	ɣɨɣɨat	ɣ ɨ ɣ ɨ a t		foley2005	222
+236952	bosmun	1209_I	ŋgo	ŋgo	ŋ g o		foley2005	223
+236957	bosmun	2304_THEE_OBLIQUE_CASE_OF_YOU	mo	mo	m o		foley2005	224
+236963	bosmun	262_HE_OR_SHE_OR_IT	nə	nə	n ə		foley2005	21150
+236969	bosmun	2634_WE_TWO	ŋga	ŋga	ŋ g a		foley2005	21151
+236975	bosmun	2111_YOU_TWO	gwa	gwa	g w a		foley2005	21152
+236981	bosmun	817_THEY	maniŋ	maniŋ	m a n i ŋ		foley2005	21153
+236993	bosmun	1212_WE	ei	ei	e i		foley2005	21154
+236999	bosmun	2312_YOU_OBLIQUE_CASE_OF_YOU	ni	ni	n i		foley2005	21155
+237005	bosmun	817_THEY	me	me	m e		foley2005	21156
+236685	awar	1493_ONE	mbɨnə	mbɨnə	m b ɨ n ə		foley2005	225
+236690	awar	1498_TWO	mbuni	mbuni	m b u n i		foley2005	226
+236695	awar	492_THREE	mbrɨbɨn	mbrɨbɨn	m b r ɨ b ɨ n		foley2005	227
+236700	awar	683_PERSON	mot	mot	m o t		foley2005	228
+236705	awar	962_WOMAN	məri	məri	m ə r i		foley2005	229
+236706	awar	962_WOMAN	mam	mam	m a m		foley2005	230
+236712	awar	1217_FATHER	sat	sat	s a t		foley2005	231
+236717	awar	948_WATER	mok	mok	m o k		foley2005	232
+236722	awar	221_FIRE	suək	suək	s u ə k		foley2005	233
+236727	awar	1343_SUN	rau	rau	r a u		foley2005	234
+236733	awar	1313_MOON	kəri	kəri	k ə r i		foley2005	235
+236738	awar	1430_STAR	pot	pot	p o t		foley2005	236
+236743	awar	1970_CANOE	kor	kor	k o r		foley2005	237
+236748	awar	1252_HOUSE	to	to	t o		foley2005	238
+236753	awar	930_VILLAGE	ŋuni	ŋuni	ŋ u n i		foley2005	239
+236758	awar	1402_BREAST	mɨr	mɨr	m ɨ r		foley2005	240
+236763	awar	1380_TOOTH	ndar	ndar	n d a r		foley2005	241
+236768	awar	946_BLOOD	rerik	rerik	r e r i k		foley2005	242
+236773	awar	1394_BONE	ɣarɣar	ɣarɣar	ɣ a r ɣ a r		foley2005	243
+236778	awar	1205_TONGUE	ɲiekpun	ɲiekpun	ɲ i e k p u n		foley2005	244
+236783	awar	1247_EAR	kur	kur	k u r		foley2005	245
+236788	awar	1248_EYE	rəmaʔ	rəmaʔ	r ə m a ʔ		foley2005	246
+236793	awar	1221_NOSE	ŋgorak	ŋgorak	ŋ g o r a k		foley2005	247
+236798	awar	2098_FOOT_OR_LEG	rue	rue	r u e		foley2005	248
+236803	awar	189_HAIR_BODY	dəmbar	dəmbar	d ə m b a r		foley2005	249
+236808	awar	744_EGG	nuʔ	nuʔ	n u ʔ		foley2005	250
+236813	awar	628_LEAF	par	par	p a r		foley2005	251
+236818	awar	906_TREE	kən	kən	k ə n		foley2005	252
+236823	awar	1174_YESTERDAY	gur	gur	g u r		foley2005	253
+236828	awar	1329_TOMORROW	gurap	gurap	g u r a p		foley2005	254
+236833	awar	3137_OAR	nop	nop	n o p		foley2005	255
+236838	awar	217_BETELNUT	mbok	mbok	m b o k		foley2005	256
+236843	awar	982_LIME_FRUIT	virwa	virwa	v i r w a		foley2005	257
+236848	awar	2270_SAGO	vek	vek	v e k		foley2005	258
+236853	awar	1337_PIG	rəgəm	rəgəm	r ə g ə m		foley2005	259
+236858	awar	1857_CROCODILE	ŋgumi	ŋgumi	ŋ g u m i		foley2005	260
+236863	awar	730_SNAKE	kondok	kondok	k o n d o k		foley2005	261
+236868	awar	1405_NAME	gi	gi	g i		foley2005	262
+236873	awar	1509_MOSQUITO	ŋget	ŋget	ŋ g e t		foley2005	263
+236878	awar	2159_GROUND	terik	terik	t e r i k		foley2005	264
+236883	awar	675_FAECES_EXCREMENT	ɲjit	ɲjit	ɲ j i t		foley2005	265
+236888	awar	1408_HEAR	vai	vai	v a i		foley2005	266
+236893	awar	1433_HIT	ŋa	ŋa	ŋ a		foley2005	267
+236898	awar	1336_EAT	mba	mba	m b a		foley2005	268
+236903	awar	695_GO	saŋg	saŋg	s a ŋ g		foley2005	269
+236908	awar	1446_COME	kɨp	kɨp	k ɨ p		foley2005	270
+236913	awar	1416_SIT	mbirak	mbirak	m b i r a k		foley2005	271
+236918	awar	1442_STAND	tik	tik	t i k		foley2005	272
+236923	awar	1202_BIG	vret	vret	v r e t		foley2005	273
+236928	awar	1035_GOOD	yandi	yandi	j a n d i		foley2005	274
+236933	awar	163_BLACK	mbəkmbək	mbəkmbək	m b ə k m b ə k		foley2005	275
+236938	awar	2272_HOT_OR_WARM	gɨgɨr	gɨgɨr	g ɨ g ɨ r		foley2005	276
+236943	awar	1287_COLD	rivut	rivut	r i v u t		foley2005	277
+236948	awar	1209_I	ŋgo	ŋgo	ŋ g o		foley2005	278
+236953	awar	2304_THEE_OBLIQUE_CASE_OF_YOU	mo	mo	m o		foley2005	279
+236958	awar	262_HE_OR_SHE_OR_IT	nə	nə	n ə		foley2005	21150
+236964	awar	2634_WE_TWO	ŋga	ŋga	ŋ g a		foley2005	21151
+236970	awar	2111_YOU_TWO	ŋga	ŋga	ŋ g a		foley2005	21152
+236976	awar	817_THEY	ni	ni	n i		foley2005	21153
+236988	awar	1212_WE	ai	ai	a i		foley2005	21154
+236994	awar	2312_YOU_OBLIQUE_CASE_OF_YOU	ne	ne	n e		foley2005	21155
+237000	awar	817_THEY	me	me	m e		foley2005	21156
+236960	proto-wag	262_HE_OR_SHE_OR_IT	*ma(n)	*ma	m a		foley2005	21150
+236966	proto-wag	2634_WE_TWO	*aŋga	*aŋga	a ŋ g a		foley2005	21151
+236972	proto-wag	2111_YOU_TWO	*(n)oŋgo(a)	*oŋgo	o ŋ g o		foley2005	21152
+236978	proto-wag	817_THEY	*maniŋg	*maniŋg	m a n i ŋ g		foley2005	21153
+236990	proto-wag	1212_WE	*ai	*ai	a i		foley2005	21154
+236996	proto-wag	2312_YOU_OBLIQUE_CASE_OF_YOU	*ne	*ne	n e		foley2005	21155
+237002	proto-wag	817_THEY	*mi(n)	*mi	m i		foley2005	21156
+237006	proto-wag	1493_ONE	*kaku	*kaku	k a k u		foley2005	21157
+237011	proto-wag	1498_TWO	*mbuniŋ	*mbuniŋ	m b u n i ŋ		foley2005	21158
+237020	proto-wag	683_PERSON	*namot	*namot	n a m o t		foley2005	21159
+237038	proto-wag	221_FIRE	*s(u)ək	*sək	s ə k		foley2005	21160
+237044	proto-wag	1343_SUN	*ra(u)	*ra	r a		foley2005	21161
+237049	proto-wag	1313_MOON	*kər(v)i	*kəri	k ə r i		foley2005	21162
+237058	proto-wag	1970_CANOE	*kor	*kor	k o r		foley2005	21163
+237070	proto-wag	1402_BREAST	*mɨr	*mɨr	m ɨ r		foley2005	21164
+237075	proto-wag	1380_TOOTH	*nda(r)	*nda	n d a		foley2005	21165
+237084	proto-wag	1394_BONE	*ɣar	*ɣar	ɣ a r		foley2005	21166
+237089	proto-wag	1205_TONGUE	*mi(m)	*mi	m i		foley2005	21167
+237094	proto-wag	1247_EAR	*kwar	*kwar	k w a r		foley2005	21168
+237099	proto-wag	1248_EYE	*rəmeak	*rəmeak	r ə m e a k		foley2005	21169
+237104	proto-wag	1221_NOSE	*ŋgum	*ŋgum	ŋ g u m		foley2005	21170
+237109	proto-wag	2098_FOOT_OR_LEG	*or ?	*or_?	o r		foley2005	21171
+237123	proto-wag	937_BIRD	*ŋgwarak	*ŋgwarak	ŋ g w a r a k		foley2005	21172
+237128	proto-wag	628_LEAF	*(ra)par	*par	p a r		foley2005	21173
+237137	proto-wag	1174_YESTERDAY	*ɣur	*ɣur	ɣ u r		foley2005	21174
+237142	proto-wag	1329_TOMORROW	*ɣurap ?	*ɣurap_?	ɣ u r a p		foley2005	21175
+237147	proto-wag	3137_OAR	*anup	*anup	a n u p		foley2005	21176
+237150	proto-wag	217_BETELNUT	*mbok	*mbok	m b o k		foley2005	21177
+237155	proto-wag	982_LIME_FRUIT	*awi(r)	*awi	a w i		foley2005	21178
+237160	proto-wag	2270_SAGO	*veak	*veak	v e a k		foley2005	21179
+237166	proto-wag	1337_PIG	*rəkəm	*rəkəm	r ə k ə m		foley2005	21180
+237175	proto-wag	730_SNAKE	*ndop	*ndop	n d o p		foley2005	21181
+237180	proto-wag	1405_NAME	*ɣi	*ɣi	ɣ i		foley2005	21182
+237185	proto-wag	1509_MOSQUITO	*ŋgit	*ŋgit	ŋ g i t		foley2005	21183
+237194	proto-wag	675_FAECES_EXCREMENT	*yu	*yu	j u		foley2005	21184
+237195	proto-wag	675_FAECES_EXCREMENT	*o	*o	o		foley2005	21184
+237200	proto-wag	1408_HEAR	*varak	*varak	v a r a k		foley2005	21185
+237210	proto-wag	1336_EAT	*amb	*amb	a m b		foley2005	21186
+237216	proto-wag	695_GO	*saŋg	*saŋg	s a ŋ g		foley2005	21187
+237223	proto-wag	1446_COME	*kɨp	*kɨp	k ɨ p		foley2005	21188
+237230	proto-wag	1416_SIT	*mbirak	*mbirak	m b i r a k		foley2005	21189
+237236	proto-wag	1442_STAND	*-tik	*-tik	t i k		foley2005	21190
+237247	proto-wag	1035_GOOD	*ya(o)ŋ	*yaŋ	j a ŋ		foley2005	21191
+237253	proto-wag	163_BLACK	*mbəkmbək	*mbəkmbək	m b ə k m b ə k		foley2005	21192
+237272	proto-wag	262_HE_OR_SHE_OR_IT	*ma(n)	*ma	m a		foley2005	21193
+237278	proto-wag	2634_WE_TWO	*aŋga	*aŋga	a ŋ g a		foley2005	21194
+237283	proto-wag	2111_YOU_TWO	*(n)onŋgo(a)	*onŋgo	o n ŋ g o		foley2005	21195
+237289	proto-wag	817_THEY	*maniŋg	*maniŋg	m a n i ŋ g		foley2005	21196
+237294	proto-wag	1212_WE	*ai	*ai	a i		foley2005	21197
+237300	proto-wag	2312_YOU_OBLIQUE_CASE_OF_YOU	*ne	*ne	n e		foley2005	21198
+237305	proto-wag	817_THEY	*mi(n)	*mi	m i		foley2005	21199
+237009	aruamu	1493_ONE	aməra	aməra	a m ə r a		foley2005	21157
+237014	aruamu	1498_TWO	poni	poni	p o n i		foley2005	21158
+237018	aruamu	492_THREE	pomənimkasam	pomənimkasam	p o m ə n i m k a s a m		foley2005	280
+237023	aruamu	683_PERSON	guma	guma	g u m a		foley2005	21159
+237027	aruamu	962_WOMAN	aim	aim	a i m		foley2005	281
+237028	aruamu	962_WOMAN	ami	ami	a m i		foley2005	282
+237032	aruamu	1217_FATHER	apisi	apisi	a p i s i		foley2005	283
+237036	aruamu	948_WATER	cup	cup	c u p		foley2005	284
+237042	aruamu	221_FIRE	ariv	ariv	a r i v		foley2005	21160
+237047	aruamu	1343_SUN	are	are	a r e		foley2005	21161
+237052	aruamu	1313_MOON	ekini	ekini	e k i n i		foley2005	21162
+237056	aruamu	1430_STAR	mukope	mukope	m u k o p e		foley2005	285
+237059	aruamu	1970_CANOE	agiam	agiam	a g i a m		foley2005	21163
+237063	aruamu	1252_HOUSE	tɨpeŋ	tɨpeŋ	t ɨ p e ŋ		foley2005	286
+237068	aruamu	930_VILLAGE	uŋip	uŋip	u ŋ i p		foley2005	287
+237073	aruamu	1402_BREAST	ote	ote	o t e		foley2005	21164
+237078	aruamu	1380_TOOTH	atarim	atarim	a t a r i m		foley2005	21165
+237082	aruamu	946_BLOOD	wusi	wusi	w u s i		foley2005	288
+237087	aruamu	1394_BONE	aɣar	aɣar	a ɣ a r		foley2005	21166
+237092	aruamu	1205_TONGUE	mɨzm	mɨzm	m ɨ z m		foley2005	21167
+237097	aruamu	1247_EAR	kwar	kwar	k w a r		foley2005	21168
+237102	aruamu	1248_EYE	tama	tama	t a m a		foley2005	21169
+237107	aruamu	1221_NOSE	winiba	winiba	w i n i b a		foley2005	21170
+237112	aruamu	2098_FOOT_OR_LEG	sue	sue	s u e		foley2005	21171
+237117	aruamu	189_HAIR_BODY	tapanari	tapanari	t a p a n a r i		foley2005	289
+237121	aruamu	744_EGG	aror	aror	a r o r		foley2005	290
+237126	aruamu	937_BIRD	kwara	kwara	k w a r a		foley2005	21172
+237131	aruamu	628_LEAF	tafarim	tafarim	t a f a r i m		foley2005	21173
+237135	aruamu	906_TREE	tep	tep	t e p		foley2005	291
+237140	aruamu	1174_YESTERDAY	pɨkɨm	pɨkɨm	p ɨ k ɨ m		foley2005	21174
+237145	aruamu	1329_TOMORROW	kuromu	kuromu	k u r o m u		foley2005	21175
+237153	aruamu	217_BETELNUT	mis	mis	m i s		foley2005	21177
+237158	aruamu	982_LIME_FRUIT	iwim	iwim	i w i m		foley2005	21178
+237164	aruamu	2270_SAGO	wisim	wisim	w i s i m		foley2005	21179
+237169	aruamu	1337_PIG	ta	ta	t a		foley2005	21180
+237173	aruamu	1857_CROCODILE	koa	koa	k o a		foley2005	292
+237178	aruamu	730_SNAKE	kuru	kuru	k u r u		foley2005	21181
+237183	aruamu	1405_NAME	izi	izi	i z i		foley2005	21182
+237188	aruamu	1509_MOSQUITO	ci	ci	c i		foley2005	21183
+237192	aruamu	2159_GROUND	ŋwas	ŋwas	ŋ w a s		foley2005	293
+237198	aruamu	675_FAECES_EXCREMENT	buarim	buarim	b u a r i m		foley2005	21184
+237204	aruamu	1408_HEAR	orak	orak	o r a k		foley2005	21185
+237208	aruamu	1433_HIT	sos	sos	s o s		foley2005	294
+237214	aruamu	1336_EAT	tama	tama	t a m a		foley2005	21186
+237220	aruamu	695_GO	usi	usi	u s i		foley2005	21187
+237227	aruamu	1446_COME	si	si	s i		foley2005	21188
+237228	aruamu	1446_COME	sa	sa	s a		foley2005	21188
+237234	aruamu	1416_SIT	apria	apria	a p r i a		foley2005	21189
+237240	aruamu	1442_STAND	cu	cu	c u		foley2005	21190
+237245	aruamu	1202_BIG	aruʔa	aruʔa	a r u ʔ a		foley2005	295
+237251	aruamu	1035_GOOD	aŋwi	aŋwi	a ŋ w i		foley2005	21191
+237257	aruamu	163_BLACK	pək	pək	p ə k		foley2005	21192
+237261	aruamu	2272_HOT_OR_WARM	fei	fei	f e i		foley2005	296
+237265	aruamu	1209_I	ko	ko	k o		foley2005	297
+237266	aruamu	1209_I	kɨ	kɨ	k ɨ		foley2005	298
+237270	aruamu	2304_THEE_OBLIQUE_CASE_OF_YOU	no	no	n o		foley2005	299
+237275	aruamu	262_HE_OR_SHE_OR_IT	na	na	n a		foley2005	21193
+237281	aruamu	2634_WE_TWO	ga	ga	g a		foley2005	21194
+237287	aruamu	2111_YOU_TWO	goa	goa	g o a		foley2005	21195
+237292	aruamu	817_THEY	ani	ani	a n i		foley2005	21196
+237297	aruamu	1212_WE	ai	ai	a i		foley2005	21197
+237298	aruamu	1212_WE	e	e	e		foley2005	21197
+237303	aruamu	2312_YOU_OBLIQUE_CASE_OF_YOU	ye	ye	j e		foley2005	21198
+237308	aruamu	817_THEY	me	me	m e		foley2005	21199
+237007	tanggu	1493_ONE	wunwan	wunwan	w u n w a n		foley2005	21157
+237012	tanggu	1498_TWO	munai	munai	m u n a i		foley2005	21158
+237016	tanggu	492_THREE	munainwan	munainwan	m u n a i n w a n		foley2005	300
+237021	tanggu	683_PERSON	wanik	wanik	w a n i k		foley2005	21159
+237025	tanggu	962_WOMAN	məin	məin	m ə i n		foley2005	301
+237030	tanggu	1217_FATHER	yavai	yavai	j a v a i		foley2005	302
+237034	tanggu	948_WATER	niam	niam	n i a m		foley2005	303
+237039	tanggu	221_FIRE	ruwuv	ruwuv	r u w u v		foley2005	21160
+237040	tanggu	221_FIRE	rogup	rogup	r o g u p		foley2005	21160
+237045	tanggu	1343_SUN	gar	gar	g a r		foley2005	21161
+237050	tanggu	1313_MOON	mənam	mənam	m ə n a m		foley2005	21162
+237054	tanggu	1430_STAR	riyɨndɨk	riyɨndɨk	r i j ɨ n d ɨ k		foley2005	304
+237061	tanggu	1252_HOUSE	taŋ	taŋ	t a ŋ		foley2005	305
+237066	tanggu	930_VILLAGE	məŋ	məŋ	m ə ŋ		foley2005	306
+237071	tanggu	1402_BREAST	ŋgyuav	ŋgyuav	ŋ g j u a v		foley2005	21164
+237076	tanggu	1380_TOOTH	andar	andar	a n d a r		foley2005	21165
+237080	tanggu	946_BLOOD	irien	irien	i r i e n		foley2005	307
+237085	tanggu	1394_BONE	ɣavaŋ	ɣavaŋ	ɣ a v a ŋ		foley2005	21166
+237090	tanggu	1205_TONGUE	mamiakɨ	mamiakɨ	m a m i a k ɨ		foley2005	21167
+237095	tanggu	1247_EAR	wukwar	wukwar	w u k w a r		foley2005	21168
+237100	tanggu	1248_EYE	raik	raik	r a i k		foley2005	21169
+237105	tanggu	1221_NOSE	munwam	munwam	m u n w a m		foley2005	21170
+237110	tanggu	2098_FOOT_OR_LEG	miɲaŋ	miɲaŋ	m i ɲ a ŋ		foley2005	21171
+237114	tanggu	189_HAIR_BODY	ɣasia	ɣasia	ɣ a s i a		foley2005	308
+237115	tanggu	189_HAIR_BODY	ŋgasia	ŋgasia	ŋ g a s i a		foley2005	309
+237119	tanggu	744_EGG	mɨnduapen	mɨnduapen	m ɨ n d u a p e n		foley2005	310
+237124	tanggu	937_BIRD	ŋgwarak	ŋgwarak	ŋ g w a r a k		foley2005	21172
+237129	tanggu	628_LEAF	rapar	rapar	r a p a r		foley2005	21173
+237133	tanggu	906_TREE	gək	gək	g ə k		foley2005	311
+237138	tanggu	1174_YESTERDAY	ruar	ruar	r u a r		foley2005	21174
+237143	tanggu	1329_TOMORROW	wumasan	wumasan	w u m a s a n		foley2005	21175
+237151	tanggu	217_BETELNUT	miak	miak	m i a k		foley2005	21177
+237156	tanggu	982_LIME_FRUIT	uwuren	uwuren	u w u r e n		foley2005	21178
+237161	tanggu	2270_SAGO	giav	giav	g i a v		foley2005	21179
+237162	tanggu	2270_SAGO	ŋiav	ŋiav	ŋ i a v		foley2005	21179
+237167	tanggu	1337_PIG	ram	ram	r a m		foley2005	21180
+237171	tanggu	1857_CROCODILE	viari	viari	v i a r i		foley2005	312
+237176	tanggu	730_SNAKE	kyuok	kyuok	k j u o k		foley2005	21181
+237181	tanggu	1405_NAME	rigiav	rigiav	r i g i a v		foley2005	21182
+237186	tanggu	1509_MOSQUITO	ŋgwan	ŋgwan	ŋ g w a n		foley2005	21183
+237190	tanggu	2159_GROUND	nduv	nduv	n d u v		foley2005	313
+237196	tanggu	675_FAECES_EXCREMENT	gavig	gavig	g a v i g		foley2005	21184
+237201	tanggu	1408_HEAR	vara	vara	v a r a		foley2005	21185
+237202	tanggu	1408_HEAR	bara	bara	b a r a		foley2005	21185
+237206	tanggu	1433_HIT	ŋak	ŋak	ŋ a k		foley2005	314
+237211	tanggu	1336_EAT	ɣam	ɣam	ɣ a m		foley2005	21186
+237212	tanggu	1336_EAT	mi	mi	m i		foley2005	21186
+237217	tanggu	695_GO	maŋ	maŋ	m a ŋ		foley2005	21187
+237218	tanggu	695_GO	wugi	wugi	w u g i		foley2005	21187
+237224	tanggu	1446_COME	iɣ	iɣ	i ɣ		foley2005	21188
+237225	tanggu	1446_COME	giji	giji	g i j i		foley2005	21188
+237231	tanggu	1416_SIT	ipi	ipi	i p i		foley2005	21189
+237232	tanggu	1416_SIT	pindi	pindi	p i n d i		foley2005	21189
+237237	tanggu	1442_STAND	ɣambi	ɣambi	ɣ a m b i		foley2005	21190
+237238	tanggu	1442_STAND	ləmbe	ləmbe	l ə m b e		foley2005	21190
+237242	tanggu	1202_BIG	ruma	ruma	r u m a		foley2005	315
+237243	tanggu	1202_BIG	arum	arum	a r u m		foley2005	316
+237248	tanggu	1035_GOOD	swari	swari	s w a r i		foley2005	21191
+237249	tanggu	1035_GOOD	ara	ara	a r a		foley2005	21191
+237254	tanggu	163_BLACK	ŋes	ŋes	ŋ e s		foley2005	21192
+237255	tanggu	163_BLACK	nəs	nəs	n ə s		foley2005	21192
+237259	tanggu	2272_HOT_OR_WARM	uŋtiki	uŋtiki	u ŋ t i k i		foley2005	317
+237263	tanggu	1209_I	ku	ku	k u		foley2005	318
+237268	tanggu	2304_THEE_OBLIQUE_CASE_OF_YOU	nu	nu	n u		foley2005	319
+237273	tanggu	262_HE_OR_SHE_OR_IT	man	man	m a n		foley2005	21193
+237279	tanggu	2634_WE_TWO	naŋgi	naŋgi	n a ŋ g i		foley2005	21194
+237284	tanggu	2111_YOU_TWO	niŋgi	niŋgi	n i ŋ g i		foley2005	21195
+237285	tanggu	2111_YOU_TWO	nuŋgi	nuŋgi	n u ŋ g i		foley2005	21195
+237290	tanggu	817_THEY	mapai	mapai	m a p a i		foley2005	21196
+237295	tanggu	1212_WE	nai	nai	n a i		foley2005	21197
+237301	tanggu	2312_YOU_OBLIQUE_CASE_OF_YOU	ni	ni	n i		foley2005	21198
+237306	tanggu	817_THEY	manda	manda	m a n d a		foley2005	21199
+237008	kanggape	1493_ONE	unuʔaka	unuʔaka	u n u ʔ a k a		foley2005	21157
+237013	kanggape	1498_TWO	mokupea	mokupea	m o k u p e a		foley2005	21158
+237017	kanggape	492_THREE	mokupea unuʔa	mokupea_unuʔa	m o k u p e a + u n u ʔ a		foley2005	320
+237022	kanggape	683_PERSON	wuɣu	wuɣu	w u ɣ u		foley2005	21159
+237026	kanggape	962_WOMAN	məin	məin	m ə i n		foley2005	321
+237031	kanggape	1217_FATHER	yap	yap	j a p		foley2005	322
+237035	kanggape	948_WATER	niam	niam	n i a m		foley2005	323
+237041	kanggape	221_FIRE	lugu	lugu	l u g u		foley2005	21160
+237046	kanggape	1343_SUN	ŋgar	ŋgar	ŋ g a r		foley2005	21161
+237051	kanggape	1313_MOON	mənam	mənam	m ə n a m		foley2005	21162
+237055	kanggape	1430_STAR	likian	likian	l i k i a n		foley2005	324
+237062	kanggape	1252_HOUSE	taŋ	taŋ	t a ŋ		foley2005	325
+237067	kanggape	930_VILLAGE	miaŋ	miaŋ	m i a ŋ		foley2005	326
+237072	kanggape	1402_BREAST	gii	gii	g iː		foley2005	21164
+237077	kanggape	1380_TOOTH	dər	dər	d ə r		foley2005	21165
+237081	kanggape	946_BLOOD	məy	məy	m ə j		foley2005	327
+237086	kanggape	1394_BONE	ɣavaŋ	ɣavaŋ	ɣ a v a ŋ		foley2005	21166
+237091	kanggape	1205_TONGUE	mimiaŋ	mimiaŋ	m i m i a ŋ		foley2005	21167
+237096	kanggape	1247_EAR	ɣukwar	ɣukwar	ɣ u k w a r		foley2005	21168
+237101	kanggape	1248_EYE	raik	raik	r a i k		foley2005	21169
+237106	kanggape	1221_NOSE	eɲjia	eɲjia	e ɲ j i a		foley2005	21170
+237111	kanggape	2098_FOOT_OR_LEG	mbwan	mbwan	m b w a n		foley2005	21171
+237116	kanggape	189_HAIR_BODY	rɨgesn	rɨgesn	r ɨ g e s n		foley2005	328
+237120	kanggape	744_EGG	warɨan	warɨan	w a r ɨ a n		foley2005	329
+237125	kanggape	937_BIRD	ŋgwarak	ŋgwarak	ŋ g w a r a k		foley2005	21172
+237130	kanggape	628_LEAF	pat	pat	p a t		foley2005	21173
+237134	kanggape	906_TREE	ɣək	ɣək	ɣ ə k		foley2005	330
+237139	kanggape	1174_YESTERDAY	mugisi	mugisi	m u g i s i		foley2005	21174
+237144	kanggape	1329_TOMORROW	mom	mom	m o m		foley2005	21175
+237148	kanggape	3137_OAR	iŋgap	iŋgap	i ŋ g a p		foley2005	21176
+237152	kanggape	217_BETELNUT	miak	miak	m i a k		foley2005	21177
+237157	kanggape	982_LIME_FRUIT	uɣum	uɣum	u ɣ u m		foley2005	21178
+237163	kanggape	2270_SAGO	yaŋgia	yaŋgia	j a ŋ g i a		foley2005	21179
+237168	kanggape	1337_PIG	ram	ram	r a m		foley2005	21180
+237172	kanggape	1857_CROCODILE	laisaŋ	laisaŋ	l a i s a ŋ		foley2005	331
+237177	kanggape	730_SNAKE	kiak	kiak	k i a k		foley2005	21181
+237182	kanggape	1405_NAME	rigiaŋ	rigiaŋ	r i g i a ŋ		foley2005	21182
+237187	kanggape	1509_MOSQUITO	gwan	gwan	g w a n		foley2005	21183
+237191	kanggape	2159_GROUND	ʃa	ʃa	ʃ a		foley2005	332
+237197	kanggape	675_FAECES_EXCREMENT	miɲaŋ	miɲaŋ	m i ɲ a ŋ		foley2005	21184
+237203	kanggape	1408_HEAR	mwiari	mwiari	m w i a r i		foley2005	21185
+237207	kanggape	1433_HIT	mənaramu	mənaramu	m ə n a r a m u		foley2005	333
+237213	kanggape	1336_EAT	kam	kam	k a m		foley2005	21186
+237219	kanggape	695_GO	gi	gi	g i		foley2005	21187
+237226	kanggape	1446_COME	karigi	karigi	k a r i g i		foley2005	21188
+237233	kanggape	1416_SIT	pwiaŋge	pwiaŋge	p w i a ŋ g e		foley2005	21189
+237239	kanggape	1442_STAND	rambia	rambia	r a m b i a		foley2005	21190
+237244	kanggape	1202_BIG	arum	arum	a r u m		foley2005	334
+237250	kanggape	1035_GOOD	yara	yara	j a r a		foley2005	21191
+237256	kanggape	163_BLACK	ŋiatʃ	ŋiatʃ	ŋ i a tʃ		foley2005	21192
+237260	kanggape	2272_HOT_OR_WARM	varip	varip	v a r i p		foley2005	335
+237264	kanggape	1209_I	ko	ko	k o		foley2005	336
+237269	kanggape	2304_THEE_OBLIQUE_CASE_OF_YOU	nu	nu	n u		foley2005	337
+237274	kanggape	262_HE_OR_SHE_OR_IT	mane	mane	m a n e		foley2005	21193
+237280	kanggape	2634_WE_TWO	naŋgi	naŋgi	n a ŋ g i		foley2005	21194
+237286	kanggape	2111_YOU_TWO	nuŋgi	nuŋgi	n u ŋ g i		foley2005	21195
+237291	kanggape	817_THEY	maŋgape	maŋgape	m a ŋ g a p e		foley2005	21196
+237296	kanggape	1212_WE	ne	ne	n e		foley2005	21197
+237302	kanggape	2312_YOU_OBLIQUE_CASE_OF_YOU	ni	ni	n i		foley2005	21198
+237307	kanggape	817_THEY	maŋgere	maŋgere	m a ŋ g e r e		foley2005	21199
+237010	kire	1493_ONE	ibabira	ibabira	i b a b i r a		foley2005	21157
+237015	kire	1498_TWO	pʰunini	pʰunini	pʰ u n i n i		foley2005	21158
+237019	kire	492_THREE	pʰuni	pʰuni	pʰ u n i		foley2005	338
+237024	kire	683_PERSON	guma	guma	g u m a		foley2005	21159
+237029	kire	962_WOMAN	mbik	mbik	m b i k		foley2005	339
+237033	kire	1217_FATHER	ndia	ndia	n d i a		foley2005	340
+237037	kire	948_WATER	mbɨ	mbɨ	m b ɨ		foley2005	341
+237043	kire	221_FIRE	vap	vap	v a p		foley2005	21160
+237048	kire	1343_SUN	ra	ra	r a		foley2005	21161
+237053	kire	1313_MOON	kəniŋ	kəniŋ	k ə n i ŋ		foley2005	21162
+237057	kire	1430_STAR	kam	kam	k a m		foley2005	342
+237060	kire	1970_CANOE	kem	kem	k e m		foley2005	21163
+237064	kire	1252_HOUSE	vun	vun	v u n		foley2005	343
+237065	kire	1252_HOUSE	pen	pen	p e n		foley2005	344
+237069	kire	930_VILLAGE	ŋgu	ŋgu	ŋ g u		foley2005	345
+237074	kire	1402_BREAST	ta	ta	t a		foley2005	21164
+237079	kire	1380_TOOTH	tʰar	tʰar	tʰ a r		foley2005	21165
+237083	kire	946_BLOOD	vusun	vusun	v u s u n		foley2005	346
+237088	kire	1394_BONE	xar	xar	x a r		foley2005	21166
+237093	kire	1205_TONGUE	ze	ze	z e		foley2005	21167
+237098	kire	1247_EAR	kwar	kwar	k w a r		foley2005	21168
+237103	kire	1248_EYE	rumaʔ	rumaʔ	r u m a ʔ		foley2005	21169
+237108	kire	1221_NOSE	kwom	kwom	k w o m		foley2005	21170
+237113	kire	2098_FOOT_OR_LEG	ruu	ruu	r uː		foley2005	21171
+237118	kire	189_HAIR_BODY	rugun	rugun	r u g u n		foley2005	347
+237122	kire	744_EGG	rer	rer	r e r		foley2005	348
+237127	kire	937_BIRD	kworak	kworak	k w o r a k		foley2005	21172
+237132	kire	628_LEAF	far	far	f a r		foley2005	21173
+237136	kire	906_TREE	kʰa	kʰa	kʰ a		foley2005	349
+237141	kire	1174_YESTERDAY	gurmun	gurmun	g u r m u n		foley2005	21174
+237146	kire	1329_TOMORROW	gurun	gurun	g u r u n		foley2005	21175
+237149	kire	3137_OAR	(n)dab	dab	d a b		foley2005	21176
+237154	kire	217_BETELNUT	puk	puk	p u k		foley2005	21177
+237159	kire	982_LIME_FRUIT	rwi	rwi	r w i		foley2005	21178
+237165	kire	2270_SAGO	vik	vik	v i k		foley2005	21179
+237170	kire	1337_PIG	dam	dam	d a m		foley2005	21180
+237174	kire	1857_CROCODILE	kum	kum	k u m		foley2005	350
+237179	kire	730_SNAKE	kuruk	kuruk	k u r u k		foley2005	21181
+237184	kire	1405_NAME	zin	zin	z i n		foley2005	21182
+237189	kire	1509_MOSQUITO	ket	ket	k e t		foley2005	21183
+237193	kire	2159_GROUND	nwiaʔan	nwiaʔan	n w i a ʔ a n		foley2005	351
+237199	kire	675_FAECES_EXCREMENT	vi(r)	vi	v i		foley2005	21184
+237205	kire	1408_HEAR	mbara?	mbara?	m b a r a		foley2005	21185
+237209	kire	1433_HIT	soʔ	soʔ	s o ʔ		foley2005	352
+237215	kire	1336_EAT	mbɨ	mbɨ	m b ɨ		foley2005	21186
+237221	kire	695_GO	vu	vu	v u		foley2005	21187
+237222	kire	695_GO	ŋgu	ŋgu	ŋ g u		foley2005	21187
+237229	kire	1446_COME	zə	zə	z ə		foley2005	21188
+237235	kire	1416_SIT	peraʔ	peraʔ	p e r a ʔ		foley2005	21189
+237241	kire	1442_STAND	tʰək	tʰək	tʰ ə k		foley2005	21190
+237246	kire	1202_BIG	bakume	bakume	b a k u m e		foley2005	353
+237252	kire	1035_GOOD	vuŋ	vuŋ	v u ŋ		foley2005	21191
+237258	kire	163_BLACK	pək	pək	p ə k		foley2005	21192
+237262	kire	2272_HOT_OR_WARM	gurgur	gurgur	g u r g u r		foley2005	354
+237267	kire	1209_I	gu	gu	g u		foley2005	355
+237271	kire	2304_THEE_OBLIQUE_CASE_OF_YOU	ndu	ndu	n d u		foley2005	356
+237276	kire	262_HE_OR_SHE_OR_IT	a	a	a		foley2005	21193
+237277	kire	262_HE_OR_SHE_OR_IT	ma	ma	m a		foley2005	21193
+237282	kire	2634_WE_TWO	ga	ga	g a		foley2005	21194
+237288	kire	2111_YOU_TWO	go	go	g o		foley2005	21195
+237293	kire	817_THEY	mani	mani	m a n i		foley2005	21196
+237299	kire	1212_WE	za	za	z a		foley2005	21197
+237304	kire	2312_YOU_OBLIQUE_CASE_OF_YOU	nde	nde	n d e		foley2005	21198
+237309	kire	817_THEY	me	me	m e		foley2005	21199
+237312	manambu	1493_ONE	nək	nək	n ə k		foley2005	21200
+237319	manambu	492_THREE	mɨwŋkwɨr	mɨwŋkwɨr	m ɨ w ŋ k w ɨ r		foley2005	357
+237324	manambu	1554_MAN	ntiw	ntiw	n t i w		foley2005	21201
+237331	manambu	948_WATER	ŋkɨw	ŋkɨw	ŋ k ɨ w		foley2005	21202
+237338	manambu	2108_RAINING_OR_RAIN	war	war	w a r		foley2005	21203
+237344	manambu	221_FIRE	ya	ya	j a		foley2005	21204
+237350	manambu	1343_SUN	ɲə	ɲə	ɲ ə		foley2005	21205
+237356	manambu	1313_MOON	mpapɨw	mpapɨw	m p a p ɨ w		foley2005	21206
+237363	manambu	1252_HOUSE	wɨy	wɨy	w ɨ j		foley2005	21207
+237369	manambu	930_VILLAGE	təp	təp	t ə p		foley2005	358
+237374	manambu	1402_BREAST	mɨwɲ	mɨwɲ	m ɨ w ɲ		foley2005	21208
+237380	manambu	1380_TOOTH	ɨwk	ɨwk	ɨ w k		foley2005	21209
+237386	manambu	1394_BONE	ap	ap	a p		foley2005	21210
+237392	manambu	1205_TONGUE	tɨkalɨr	tɨkalɨr	t ɨ k a l ɨ r		foley2005	21211
+237398	manambu	1248_EYE	mɨyr	mɨyr	m ɨ j r		foley2005	21212
+237404	manambu	1221_NOSE	tam	tam	t a m		foley2005	21213
+237411	manambu	2098_FOOT_OR_LEG	man	man	m a n		foley2005	21214
+237416	manambu	1247_EAR	wan	wan	w a n		foley2005	21215
+237422	manambu	744_EGG	mpant	mpant	m p a n t		foley2005	359
+237427	manambu	906_TREE	mɨy	mɨy	m ɨ j		foley2005	21216
+237433	manambu	1405_NAME	cɨ	cɨ	c ɨ		foley2005	21217
+237439	manambu	1337_PIG	mpar	mpar	m p a r		foley2005	21218
+237445	manambu	2009_DOG	ac	ac	a c		foley2005	21219
+237452	manambu	730_SNAKE	kampay	kampay	k a m p a j		foley2005	21220
+237458	manambu	1509_MOSQUITO	kɨvɨy	kɨvɨy	k ɨ v ɨ j		foley2005	21221
+237464	manambu	1392_LOUSE	təkɨyn	təkɨyn	t ə k ɨ j n		foley2005	360
+237469	manambu	1409_SEE	vɨ	vɨ	v ɨ		foley2005	21222
+237475	manambu	1336_EAT	kɨ	kɨ	k ɨ		foley2005	21223
+237482	manambu	695_GO	yɨ	yɨ	j ɨ		foley2005	21224
+237488	manambu	1446_COME	ya	ya	j a		foley2005	21225
+237494	manambu	1416_SIT	rɨ	rɨ	r ɨ		foley2005	21226
+237499	manambu	1442_STAND	rap	rap	r a p		foley2005	21227
+237506	manambu	1209_I	wɨn	wɨn	w ɨ n		foley2005	21228
+237513	manambu	2304_THEE_OBLIQUE_CASE_OF_YOU	mɨn	mɨn	m ɨ n		foley2005	21229
+237520	manambu	2304_THEE_OBLIQUE_CASE_OF_YOU	ɲɨn	ɲɨn	ɲ ɨ n		foley2005	21230
+237527	manambu	262_HE_OR_SHE_OR_IT	ntɨ	ntɨ	n t ɨ		foley2005	21231
+237534	manambu	262_HE_OR_SHE_OR_IT	lɨ	lɨ	l ɨ		foley2005	21232
+237541	manambu	2634_WE_TWO	an	an	a n		foley2005	21233
+237548	manambu	2111_YOU_TWO	mpɨr	mpɨr	m p ɨ r		foley2005	21234
+237555	manambu	817_THEY	mpɨr	mpɨr	m p ɨ r		foley2005	21235
+237562	manambu	1212_WE	ɲan	ɲan	ɲ a n		foley2005	21236
+237569	manambu	2312_YOU_OBLIQUE_CASE_OF_YOU	ŋkɨwr	ŋkɨwr	ŋ k ɨ w r		foley2005	21237
+237576	manambu	817_THEY	ntɨy	ntɨy	n t ɨ j		foley2005	21238
+237311	ngala	1493_ONE	nək	nək	n ə k		foley2005	21200
+237318	ngala	492_THREE	mɨwŋkɨwl	mɨwŋkɨwl	m ɨ w ŋ k ɨ w l		foley2005	361
+237323	ngala	1554_MAN	riw	riw	r i w		foley2005	21201
+237330	ngala	948_WATER	ŋkɨw	ŋkɨw	ŋ k ɨ w		foley2005	21202
+237337	ngala	2108_RAINING_OR_RAIN	mac	mac	m a c		foley2005	21203
+237343	ngala	221_FIRE	ya	ya	j a		foley2005	21204
+237349	ngala	1343_SUN	ɲa	ɲa	ɲ a		foley2005	21205
+237355	ngala	1313_MOON	kamwɨ	kamwɨ	k a m w ɨ		foley2005	21206
+237362	ngala	1252_HOUSE	ŋkəy	ŋkəy	ŋ k ə j		foley2005	21207
+237368	ngala	930_VILLAGE	wɨyə	wɨyə	w ɨ j ə		foley2005	362
+237373	ngala	1402_BREAST	mɨwɲ	mɨwɲ	m ɨ w ɲ		foley2005	21208
+237379	ngala	1380_TOOTH	nɨmpɨy	nɨmpɨy	n ɨ m p ɨ j		foley2005	21209
+237385	ngala	1394_BONE	ampɨ	ampɨ	a m p ɨ		foley2005	21210
+237391	ngala	1205_TONGUE	tɨkan	tɨkan	t ɨ k a n		foley2005	21211
+237397	ngala	1248_EYE	mɨyl	mɨyl	m ɨ j l		foley2005	21212
+237403	ngala	1221_NOSE	tamwə	tamwə	t a m w ə		foley2005	21213
+237410	ngala	2098_FOOT_OR_LEG	rawɨ	rawɨ	r a w ɨ		foley2005	21214
+237421	ngala	744_EGG	ŋkwɨy	ŋkwɨy	ŋ k w ɨ j		foley2005	363
+237426	ngala	906_TREE	mɨy	mɨy	m ɨ j		foley2005	21216
+237432	ngala	1405_NAME	cɨ	cɨ	c ɨ		foley2005	21217
+237438	ngala	1337_PIG	mpwal	mpwal	m p w a l		foley2005	21218
+237444	ngala	2009_DOG	pyəp	pyəp	p j ə p		foley2005	21219
+237451	ngala	730_SNAKE	mapwicɨ	mapwicɨ	m a p w i c ɨ		foley2005	21220
+237457	ngala	1509_MOSQUITO	cɨvyə	cɨvyə	c ɨ v j ə		foley2005	21221
+237463	ngala	1392_LOUSE	ɲən	ɲən	ɲ ə n		foley2005	364
+237468	ngala	1409_SEE	təyɨ	təyɨ	t ə j ɨ		foley2005	21222
+237474	ngala	1336_EAT	kɨ	kɨ	k ɨ		foley2005	21223
+237481	ngala	695_GO	yɨ	yɨ	j ɨ		foley2005	21224
+237487	ngala	1446_COME	ya	ya	j a		foley2005	21225
+237493	ngala	1416_SIT	yəlkɨy	yəlkɨy	j ə l k ɨ j		foley2005	21226
+237505	ngala	1209_I	wɨn	wɨn	w ɨ n		foley2005	21228
+237512	ngala	2304_THEE_OBLIQUE_CASE_OF_YOU	mɨn	mɨn	m ɨ n		foley2005	21229
+237519	ngala	2304_THEE_OBLIQUE_CASE_OF_YOU	ɲɨn	ɲɨn	ɲ ɨ n		foley2005	21230
+237526	ngala	262_HE_OR_SHE_OR_IT	rɨ	rɨ	r ɨ		foley2005	21231
+237533	ngala	262_HE_OR_SHE_OR_IT	ɨyn	ɨyn	ɨ j n		foley2005	21232
+237540	ngala	2634_WE_TWO	əyn	əyn	ə j n		foley2005	21233
+237547	ngala	2111_YOU_TWO	mpɨr	mpɨr	m p ɨ r		foley2005	21234
+237554	ngala	817_THEY	mpɨr	mpɨr	m p ɨ r		foley2005	21235
+237561	ngala	1212_WE	nan	nan	n a n		foley2005	21236
+237568	ngala	2312_YOU_OBLIQUE_CASE_OF_YOU	ŋkɨwr	ŋkɨwr	ŋ k ɨ w r		foley2005	21237
+237575	ngala	817_THEY	rər	rər	r ə r		foley2005	21238
+237315	ambulas	1493_ONE	nek	nek	n e k		foley2005	21200
+237321	ambulas	492_THREE	kɨwpɨwk	kɨwpɨwk	k ɨ w p ɨ w k		foley2005	365
+237327	ambulas	1554_MAN	ntɨw	ntɨw	n t ɨ w		foley2005	21201
+237334	ambulas	948_WATER	ŋkɨw	ŋkɨw	ŋ k ɨ w		foley2005	21202
+237341	ambulas	2108_RAINING_OR_RAIN	mac	mac	m a c		foley2005	21203
+237347	ambulas	221_FIRE	ya	ya	j a		foley2005	21204
+237353	ambulas	1343_SUN	ɲa	ɲa	ɲ a		foley2005	21205
+237359	ambulas	1313_MOON	mpapmɨw	mpapmɨw	m p a p m ɨ w		foley2005	21206
+237366	ambulas	1252_HOUSE	ŋkəy	ŋkəy	ŋ k ə j		foley2005	21207
+237371	ambulas	930_VILLAGE	ŋkay	ŋkay	ŋ k a j		foley2005	366
+237377	ambulas	1402_BREAST	mɨwɲə	mɨwɲə	m ɨ w ɲ ə		foley2005	21208
+237383	ambulas	1380_TOOTH	nɨmpɨy	nɨmpɨy	n ɨ m p ɨ j		foley2005	21209
+237389	ambulas	1394_BONE	apə	apə	a p ə		foley2005	21210
+237395	ambulas	1205_TONGUE	tɨkŋalɨn	tɨkŋalɨn	t ɨ k ŋ a l ɨ n		foley2005	21211
+237401	ambulas	1248_EYE	mɨynɨy	mɨynɨy	m ɨ j n ɨ j		foley2005	21212
+237407	ambulas	1221_NOSE	tamə	tamə	t a m ə		foley2005	21213
+237414	ambulas	2098_FOOT_OR_LEG	man	man	m a n		foley2005	21214
+237419	ambulas	1247_EAR	wan	wan	w a n		foley2005	21215
+237424	ambulas	744_EGG	ŋkɨk	ŋkɨk	ŋ k ɨ k		foley2005	367
+237430	ambulas	906_TREE	mɨy	mɨy	m ɨ j		foley2005	21216
+237436	ambulas	1405_NAME	ɨy	ɨy	ɨ j		foley2005	21217
+237442	ambulas	1337_PIG	mpalɨ	mpalɨ	m p a l ɨ		foley2005	21218
+237449	ambulas	2009_DOG	wacə	wacə	w a c ə		foley2005	21219
+237455	ambulas	730_SNAKE	kampwəy	kampwəy	k a m p w ə j		foley2005	21220
+237461	ambulas	1509_MOSQUITO	kwɨyə	kwɨyə	k w ɨ j ə		foley2005	21221
+237466	ambulas	1392_LOUSE	nɨmw	nɨmw	n ɨ m w		foley2005	368
+237472	ambulas	1409_SEE	vɨ	vɨ	v ɨ		foley2005	21222
+237478	ambulas	1336_EAT	kə	kə	k ə		foley2005	21223
+237485	ambulas	695_GO	yɨ	yɨ	j ɨ		foley2005	21224
+237491	ambulas	1446_COME	ya	ya	j a		foley2005	21225
+237497	ambulas	1416_SIT	rə	rə	r ə		foley2005	21226
+237502	ambulas	1442_STAND	rapm	rapm	r a p m		foley2005	21227
+237509	ambulas	1209_I	wɨnɨ	wɨnɨ	w ɨ n ɨ		foley2005	21228
+237516	ambulas	2304_THEE_OBLIQUE_CASE_OF_YOU	mɨnɨ	mɨnɨ	m ɨ n ɨ		foley2005	21229
+237523	ambulas	2304_THEE_OBLIQUE_CASE_OF_YOU	ɲɨnɨ	ɲɨnɨ	ɲ ɨ n ɨ		foley2005	21230
+237530	ambulas	262_HE_OR_SHE_OR_IT	ntɨ	ntɨ	n t ɨ		foley2005	21231
+237537	ambulas	262_HE_OR_SHE_OR_IT	lɨ	lɨ	l ɨ		foley2005	21232
+237544	ambulas	2634_WE_TWO	anɨ	anɨ	a n ɨ		foley2005	21233
+237551	ambulas	2111_YOU_TWO	mpɨt	mpɨt	m p ɨ t		foley2005	21234
+237558	ambulas	817_THEY	mpɨt	mpɨt	m p ɨ t		foley2005	21235
+237565	ambulas	1212_WE	naanɨ	naanɨ	n aː n ɨ		foley2005	21236
+237572	ambulas	2312_YOU_OBLIQUE_CASE_OF_YOU	ŋkwɨnɨ	ŋkwɨnɨ	ŋ k w ɨ n ɨ		foley2005	21237
+237579	ambulas	817_THEY	ntəy	ntəy	n t ə j		foley2005	21238
+237316	boikin	1493_ONE	napə	napə	n a p ə		foley2005	21200
+237322	boikin	492_THREE	mɨwŋkɨwlɨykŋ	mɨwŋkɨwlɨykŋ	m ɨ w ŋ k ɨ w l ɨ j k ŋ		foley2005	369
+237328	boikin	1554_MAN	tɨw	tɨw	t ɨ w		foley2005	21201
+237335	boikin	948_WATER	kɨw	kɨw	k ɨ w		foley2005	21202
+237342	boikin	2108_RAINING_OR_RAIN	macɲ	macɲ	m a c ɲ		foley2005	21203
+237348	boikin	221_FIRE	hwɨyɲa	hwɨyɲa	h w ɨ j ɲ a		foley2005	21204
+237354	boikin	1343_SUN	ɲa	ɲa	ɲ a		foley2005	21205
+237360	boikin	1313_MOON	pwapwə	pwapwə	p w a p w ə		foley2005	21206
+237367	boikin	1252_HOUSE	kəy	kəy	k ə j		foley2005	21207
+237372	boikin	930_VILLAGE	wɨyə	wɨyə	w ɨ j ə		foley2005	370
+237378	boikin	1402_BREAST	mwɨyɲ	mwɨyɲ	m w ɨ j ɲ		foley2005	21208
+237384	boikin	1380_TOOTH	nɨmpɨy	nɨmpɨy	n ɨ m p ɨ j		foley2005	21209
+237390	boikin	1394_BONE	yapə	yapə	j a p ə		foley2005	21210
+237396	boikin	1205_TONGUE	tɨkŋalɨ	tɨkŋalɨ	t ɨ k ŋ a l ɨ		foley2005	21211
+237402	boikin	1248_EYE	mɨynɨy	mɨynɨy	m ɨ j n ɨ j		foley2005	21212
+237408	boikin	1221_NOSE	tamə	tamə	t a m ə		foley2005	21213
+237415	boikin	2098_FOOT_OR_LEG	man	man	m a n		foley2005	21214
+237420	boikin	1247_EAR	wan	wan	w a n		foley2005	21215
+237425	boikin	744_EGG	mpwantɨ	mpwantɨ	m p w a n t ɨ		foley2005	371
+237431	boikin	906_TREE	mɨy	mɨy	m ɨ j		foley2005	21216
+237437	boikin	1405_NAME	cɨ	cɨ	c ɨ		foley2005	21217
+237443	boikin	1337_PIG	pwalɨ	pwalɨ	p w a l ɨ		foley2005	21218
+237450	boikin	2009_DOG	warə	warə	w a r ə		foley2005	21219
+237456	boikin	730_SNAKE	hampwəy	hampwəy	h a m p w ə j		foley2005	21220
+237462	boikin	1509_MOSQUITO	mɨkɨyci	mɨkɨyci	m ɨ k ɨ j c i		foley2005	21221
+237467	boikin	1392_LOUSE	kəmalɨ	kəmalɨ	k ə m a l ɨ		foley2005	372
+237473	boikin	1409_SEE	vɨ	vɨ	v ɨ		foley2005	21222
+237479	boikin	1336_EAT	hə	hə	h ə		foley2005	21223
+237486	boikin	695_GO	yɨ	yɨ	j ɨ		foley2005	21224
+237492	boikin	1446_COME	ya	ya	j a		foley2005	21225
+237498	boikin	1416_SIT	rə	rə	r ə		foley2005	21226
+237503	boikin	1442_STAND	rapm	rapm	r a p m		foley2005	21227
+237510	boikin	1209_I	nwə	nwə	n w ə		foley2005	21228
+237517	boikin	2304_THEE_OBLIQUE_CASE_OF_YOU	mɨnɨ	mɨnɨ	m ɨ n ɨ		foley2005	21229
+237524	boikin	2304_THEE_OBLIQUE_CASE_OF_YOU	ɲɨnɨ	ɲɨnɨ	ɲ ɨ n ɨ		foley2005	21230
+237531	boikin	262_HE_OR_SHE_OR_IT	tɨ	tɨ	t ɨ		foley2005	21231
+237538	boikin	262_HE_OR_SHE_OR_IT	nɨy	nɨy	n ɨ j		foley2005	21232
+237545	boikin	2634_WE_TWO	nənɨ	nənɨ	n ə n ɨ		foley2005	21233
+237552	boikin	2111_YOU_TWO	mpɨtɨ	mpɨtɨ	m p ɨ t ɨ		foley2005	21234
+237559	boikin	817_THEY	mpɨtɨ	mpɨtɨ	m p ɨ t ɨ		foley2005	21235
+237566	boikin	1212_WE	nanɨ	nanɨ	n a n ɨ		foley2005	21236
+237573	boikin	2312_YOU_OBLIQUE_CASE_OF_YOU	ŋkwɨrɨ	ŋkwɨrɨ	ŋ k w ɨ r ɨ		foley2005	21237
+237580	boikin	817_THEY	təy	təy	t ə j		foley2005	21238
+237314	iatmul	1493_ONE	kɨta	kɨta	k ɨ t a		foley2005	21200
+237320	iatmul	492_THREE	kɨwpɨwk	kɨwpɨwk	k ɨ w p ɨ w k		foley2005	373
+237326	iatmul	1554_MAN	ntɨw	ntɨw	n t ɨ w		foley2005	21201
+237333	iatmul	948_WATER	ŋkɨw	ŋkɨw	ŋ k ɨ w		foley2005	21202
+237340	iatmul	2108_RAINING_OR_RAIN	mayk	mayk	m a j k		foley2005	21203
+237346	iatmul	221_FIRE	ya	ya	j a		foley2005	21204
+237352	iatmul	1343_SUN	ɲa	ɲa	ɲ a		foley2005	21205
+237358	iatmul	1313_MOON	mpwap	mpwap	m p w a p		foley2005	21206
+237365	iatmul	1252_HOUSE	ŋkəy	ŋkəy	ŋ k ə j		foley2005	21207
+237370	iatmul	930_VILLAGE	ŋkəpma	ŋkəpma	ŋ k ə p m a		foley2005	374
+237376	iatmul	1402_BREAST	mɨɲə	mɨɲə	m ɨ ɲ ə		foley2005	21208
+237382	iatmul	1380_TOOTH	nɨmpɨy	nɨmpɨy	n ɨ m p ɨ j		foley2005	21209
+237388	iatmul	1394_BONE	avə	avə	a v ə		foley2005	21210
+237394	iatmul	1205_TONGUE	tɨkat	tɨkat	t ɨ k a t		foley2005	21211
+237400	iatmul	1248_EYE	mɨynɨy	mɨynɨy	m ɨ j n ɨ j		foley2005	21212
+237406	iatmul	1221_NOSE	tamə	tamə	t a m ə		foley2005	21213
+237413	iatmul	2098_FOOT_OR_LEG	man	man	m a n		foley2005	21214
+237418	iatmul	1247_EAR	wan	wan	w a n		foley2005	21215
+237423	iatmul	744_EGG	mpantɨ	mpantɨ	m p a n t ɨ		foley2005	375
+237429	iatmul	906_TREE	mɨy	mɨy	m ɨ j		foley2005	21216
+237435	iatmul	1405_NAME	cɨ	cɨ	c ɨ		foley2005	21217
+237441	iatmul	1337_PIG	mpak	mpak	m p a k		foley2005	21218
+237448	iatmul	2009_DOG	warə	warə	w a r ə		foley2005	21219
+237454	iatmul	730_SNAKE	kampwəy	kampwəy	k a m p w ə j		foley2005	21220
+237460	iatmul	1509_MOSQUITO	kɨvyə	kɨvyə	k ɨ v j ə		foley2005	21221
+237465	iatmul	1392_LOUSE	mpakwə	mpakwə	m p a k w ə		foley2005	376
+237471	iatmul	1409_SEE	vɨ	vɨ	v ɨ		foley2005	21222
+237477	iatmul	1336_EAT	kɨ	kɨ	k ɨ		foley2005	21223
+237484	iatmul	695_GO	yɨ	yɨ	j ɨ		foley2005	21224
+237490	iatmul	1446_COME	ya	ya	j a		foley2005	21225
+237496	iatmul	1416_SIT	rɨ	rɨ	r ɨ		foley2005	21226
+237501	iatmul	1442_STAND	rap	rap	r a p		foley2005	21227
+237508	iatmul	1209_I	wɨn	wɨn	w ɨ n		foley2005	21228
+237515	iatmul	2304_THEE_OBLIQUE_CASE_OF_YOU	mɨn	mɨn	m ɨ n		foley2005	21229
+237522	iatmul	2304_THEE_OBLIQUE_CASE_OF_YOU	ɲɨn	ɲɨn	ɲ ɨ n		foley2005	21230
+237529	iatmul	262_HE_OR_SHE_OR_IT	ntɨ	ntɨ	n t ɨ		foley2005	21231
+237536	iatmul	262_HE_OR_SHE_OR_IT	lɨ	lɨ	l ɨ		foley2005	21232
+237543	iatmul	2634_WE_TWO	an	an	a n		foley2005	21233
+237550	iatmul	2111_YOU_TWO	mpɨk	mpɨk	m p ɨ k		foley2005	21234
+237557	iatmul	817_THEY	mpɨk	mpɨk	m p ɨ k		foley2005	21235
+237564	iatmul	1212_WE	nɨn	nɨn	n ɨ n		foley2005	21236
+237571	iatmul	2312_YOU_OBLIQUE_CASE_OF_YOU	ŋkɨwr	ŋkɨwr	ŋ k ɨ w r		foley2005	21237
+237578	iatmul	817_THEY	ntɨy	ntɨy	n t ɨ j		foley2005	21238
+237310	iatmul-sawos	1493_ONE	kɨtak	kɨtak	k ɨ t a k		foley2005	21200
+237317	iatmul-sawos	492_THREE	kɨwpɨwk	kɨwpɨwk	k ɨ w p ɨ w k		foley2005	377
+237329	iatmul-sawos	948_WATER	ŋkɨw	ŋkɨw	ŋ k ɨ w		foley2005	21202
+237336	iatmul-sawos	2108_RAINING_OR_RAIN	wirɨ	wirɨ	w i r ɨ		foley2005	21203
+237361	iatmul-sawos	1252_HOUSE	ŋkay	ŋkay	ŋ k a j		foley2005	21207
+237409	iatmul-sawos	2098_FOOT_OR_LEG	man	man	m a n		foley2005	21214
+237480	iatmul-sawos	695_GO	yɨ	yɨ	j ɨ		foley2005	21224
+237504	iatmul-sawos	1209_I	nɨ	nɨ	n ɨ		foley2005	21228
+237511	iatmul-sawos	2304_THEE_OBLIQUE_CASE_OF_YOU	mɨ	mɨ	m ɨ		foley2005	21229
+237518	iatmul-sawos	2304_THEE_OBLIQUE_CASE_OF_YOU	ɲɨ	ɲɨ	ɲ ɨ		foley2005	21230
+237525	iatmul-sawos	262_HE_OR_SHE_OR_IT	ntɨ	ntɨ	n t ɨ		foley2005	21231
+237532	iatmul-sawos	262_HE_OR_SHE_OR_IT	lɨ	lɨ	l ɨ		foley2005	21232
+237539	iatmul-sawos	2634_WE_TWO	nəy	nəy	n ə j		foley2005	21233
+237546	iatmul-sawos	2111_YOU_TWO	mpɨ	mpɨ	m p ɨ		foley2005	21234
+237553	iatmul-sawos	817_THEY	mpɨ	mpɨ	m p ɨ		foley2005	21235
+237560	iatmul-sawos	1212_WE	məy	məy	m ə j		foley2005	21236
+237567	iatmul-sawos	2312_YOU_OBLIQUE_CASE_OF_YOU	ŋkwɨ	ŋkwɨ	ŋ k w ɨ		foley2005	21237
+237574	iatmul-sawos	817_THEY	ntəy	ntəy	n t ə j		foley2005	21238
+237313	proto-ndu	1493_ONE	*nək	*nək	n ə k		foley2005	21200
+237325	proto-ndu	1554_MAN	*ntiw	*ntiw	n t i w		foley2005	21201
+237332	proto-ndu	948_WATER	*ŋkɨw	*ŋkɨw	ŋ k ɨ w		foley2005	21202
+237339	proto-ndu	2108_RAINING_OR_RAIN	*mayt	*mayt	m a j t		foley2005	21203
+237345	proto-ndu	221_FIRE	*ya	*ya	j a		foley2005	21204
+237351	proto-ndu	1343_SUN	*ɲa	*ɲa	ɲ a		foley2005	21205
+237357	proto-ndu	1313_MOON	*mpapmɨw	*mpapmɨw	m p a p m ɨ w		foley2005	21206
+237364	proto-ndu	1252_HOUSE	*ŋkəy	*ŋkəy	ŋ k ə j		foley2005	21207
+237375	proto-ndu	1402_BREAST	*mɨwɲ	*mɨwɲ	m ɨ w ɲ		foley2005	21208
+237381	proto-ndu	1380_TOOTH	*nɨmpɨy	*nɨmpɨy	n ɨ m p ɨ j		foley2005	21209
+237387	proto-ndu	1394_BONE	*apə	*apə	a p ə		foley2005	21210
+237393	proto-ndu	1205_TONGUE	*tɨkŋa	*tɨkŋa	t ɨ k ŋ a		foley2005	21211
+237399	proto-ndu	1248_EYE	*mɨyR	*mɨyR	m ɨ j R/r		foley2005	21212
+237405	proto-ndu	1221_NOSE	*tam(w)ə	*tamə	t a m ə		foley2005	21213
+237412	proto-ndu	2098_FOOT_OR_LEG	*man	*man	m a n		foley2005	21214
+237417	proto-ndu	1247_EAR	*wan	*wan	w a n		foley2005	21215
+237428	proto-ndu	906_TREE	*mɨy	*mɨy	m ɨ j		foley2005	21216
+237434	proto-ndu	1405_NAME	*cɨ	*cɨ	c ɨ		foley2005	21217
+237440	proto-ndu	1337_PIG	*mp(w)al	*mpal	m p a l		foley2005	21218
+237446	proto-ndu	2009_DOG	*wac	*wac	w a c		foley2005	21219
+237447	proto-ndu	2009_DOG	*r	*r	r		foley2005	21219
+237453	proto-ndu	730_SNAKE	*kampwəy	*kampwəy	k a m p w ə j		foley2005	21220
+237459	proto-ndu	1509_MOSQUITO	*kɨvɨy	*kɨvɨy	k ɨ v ɨ j		foley2005	21221
+237470	proto-ndu	1409_SEE	*vɨ	*vɨ	v ɨ		foley2005	21222
+237476	proto-ndu	1336_EAT	*kɨ	*kɨ	k ɨ		foley2005	21223
+237483	proto-ndu	695_GO	*yɨ	*yɨ	j ɨ		foley2005	21224
+237489	proto-ndu	1446_COME	*ya	*ya	j a		foley2005	21225
+237495	proto-ndu	1416_SIT	*rə	*rə	r ə		foley2005	21226
+237500	proto-ndu	1442_STAND	*rap(m)	*rap	r a p		foley2005	21227
+237507	proto-ndu	1209_I	*wɨn	*wɨn	w ɨ n		foley2005	21228
+237514	proto-ndu	2304_THEE_OBLIQUE_CASE_OF_YOU	*mɨn	*mɨn	m ɨ n		foley2005	21229
+237521	proto-ndu	2304_THEE_OBLIQUE_CASE_OF_YOU	*ɲɨn	*ɲɨn	ɲ ɨ n		foley2005	21230
+237528	proto-ndu	262_HE_OR_SHE_OR_IT	*ntɨ	*ntɨ	n t ɨ		foley2005	21231
+237535	proto-ndu	262_HE_OR_SHE_OR_IT	*lɨ	*lɨ	l ɨ		foley2005	21232
+237542	proto-ndu	2634_WE_TWO	*an	*an	a n		foley2005	21233
+237549	proto-ndu	2111_YOU_TWO	*mpɨr	*mpɨr	m p ɨ r		foley2005	21234
+237556	proto-ndu	817_THEY	*mpɨr	*mpɨr	m p ɨ r		foley2005	21235
+237563	proto-ndu	1212_WE	*nan	*nan	n a n		foley2005	21236
+237570	proto-ndu	2312_YOU_OBLIQUE_CASE_OF_YOU	*ŋkɨwr	*ŋkɨwr	ŋ k ɨ w r		foley2005	21237
+237577	proto-ndu	817_THEY	*ntəy	*ntəy	n t ə j		foley2005	21238
+237592	kwoma	1493_ONE	pochi	pochi	p o c h i		foley2005	378
+237600	kwoma	492_THREE	dɨpira kara	dɨpira_kara	d ɨ p i r a + k a r a		foley2005	379
+237609	kwoma	1554_MAN	ma	ma	m a		foley2005	380
+237617	kwoma	948_WATER	uku	uku	u k u		foley2005	381
+237625	kwoma	2108_RAINING_OR_RAIN	wayi	wayi	w a j i		foley2005	382
+237633	kwoma	221_FIRE	hi	hi	h i		foley2005	383
+237641	kwoma	1343_SUN	ya	ya	j a		foley2005	384
+237649	kwoma	1313_MOON	nɨwɨka	nɨwɨka	n ɨ w ɨ k a		foley2005	385
+237656	kwoma	1252_HOUSE	aka	aka	a k a		foley2005	386
+237663	kwoma	930_VILLAGE	akako	akako	a k a k o		foley2005	387
+237671	kwoma	1402_BREAST	muku	muku	m u k u		foley2005	388
+237679	kwoma	1380_TOOTH	pu	pu	p u		foley2005	389
+237688	kwoma	1394_BONE	apo	apo	a p o		foley2005	390
+237696	kwoma	1205_TONGUE	tarekwoy	tarekwoy	t a r e k w o j		foley2005	391
+237704	kwoma	1248_EYE	miyi	miyi	m i j i		foley2005	392
+237712	kwoma	1221_NOSE	sumojɨ	sumojɨ	s u m o j ɨ		foley2005	393
+237720	kwoma	2098_FOOT_OR_LEG	yati	yati	j a t i		foley2005	394
+237728	kwoma	1247_EAR	mabiya	mabiya	m a b i j a		foley2005	395
+237735	kwoma	744_EGG	apo	apo	a p o		foley2005	396
+237736	kwoma	744_EGG	bey	bey	b e j		foley2005	397
+237744	kwoma	906_TREE	me	me	m e		foley2005	398
+237749	kwoma	1405_NAME	hi	hi	h i		foley2005	399
+237756	kwoma	1337_PIG	buri	buri	b u r i		foley2005	400
+237757	kwoma	1337_PIG	poyi	poyi	p o j i		foley2005	401
+237765	kwoma	2009_DOG	asa	asa	a s a		foley2005	402
+237771	kwoma	730_SNAKE	hopo	hopo	h o p o		foley2005	403
+237777	kwoma	1509_MOSQUITO	yɛkɛs	yɛkɛs	j ɛ k ɛ s		foley2005	404
+237785	kwoma	1392_LOUSE	nɨka	nɨka	n ɨ k a		foley2005	405
+237790	kwoma	675_FAECES_EXCREMENT	nti (Iatmul)	nti_	n t i		foley2005	406
+237798	kwoma	1409_SEE	he	he	h e		foley2005	407
+237808	kwoma	1336_EAT	a	a	a		foley2005	408
+237817	kwoma	695_GO	i	i	i		foley2005	409
+237826	kwoma	1446_COME	ya	ya	j a		foley2005	410
+237833	kwoma	1416_SIT	yi	yi	j i		foley2005	411
+237839	kwoma	1442_STAND	sɨtɨ	sɨtɨ	s ɨ t ɨ		foley2005	412
+237847	kwoma	1209_I	an	an	a n		foley2005	413
+237855	kwoma	2304_THEE_OBLIQUE_CASE_OF_YOU	mɨ	mɨ	m ɨ		foley2005	414
+237857	kwoma	2304_THEE_OBLIQUE_CASE_OF_YOU	ni	ni	n i		foley2005	415
+237866	kwoma	262_HE_OR_SHE_OR_IT	rɨ	rɨ	r ɨ		foley2005	416
+237875	kwoma	262_HE_OR_SHE_OR_IT	sɨ	sɨ	s ɨ		foley2005	417
+237885	kwoma	2634_WE_TWO	si	si	s i		foley2005	418
+237894	kwoma	2111_YOU_TWO	ki	ki	k i		foley2005	419
+237903	kwoma	817_THEY	pɨr	pɨr	p ɨ r		foley2005	420
+237912	kwoma	1212_WE	no	no	n o		foley2005	421
+237920	kwoma	2312_YOU_OBLIQUE_CASE_OF_YOU	kwo	kwo	k w o		foley2005	422
+237929	kwoma	817_THEY	ye	ye	j e		foley2005	423
+237588	awtuw	1493_ONE	naydowo	naydowo	n a j d o w o		foley2005	424
+237597	awtuw	492_THREE	urunk	urunk	u r u n k		foley2005	425
+237605	awtuw	1554_MAN	rame	rame	r a m e		foley2005	426
+237614	awtuw	948_WATER	yiw	yiw	j i w		foley2005	427
+237622	awtuw	2108_RAINING_OR_RAIN	yele	yele	j e l e		foley2005	428
+237630	awtuw	221_FIRE	tapwo	tapwo	t a p w o		foley2005	429
+237638	awtuw	1343_SUN	mæy	mæy	m æ j		foley2005	430
+237646	awtuw	1313_MOON	yilmake	yilmake	j i l m a k e		foley2005	431
+237653	awtuw	1252_HOUSE	æwre	æwre	æ w r e		foley2005	432
+237660	awtuw	930_VILLAGE	lape	lape	l a p e		foley2005	433
+237668	awtuw	1402_BREAST	muy	muy	m u j		foley2005	434
+237676	awtuw	1380_TOOTH	piylake	piylake	p i j l a k e		foley2005	435
+237684	awtuw	1394_BONE	lake	lake	l a k e		foley2005	436
+237693	awtuw	1205_TONGUE	lale	lale	l a l e		foley2005	437
+237701	awtuw	1248_EYE	new	new	n e w		foley2005	438
+237709	awtuw	1221_NOSE	wutil	wutil	w u t i l		foley2005	439
+237717	awtuw	2098_FOOT_OR_LEG	riwe	riwe	r i w e		foley2005	440
+237725	awtuw	1247_EAR	nane	nane	n a n e		foley2005	441
+237732	awtuw	744_EGG	wate	wate	w a t e		foley2005	442
+237741	awtuw	906_TREE	taw	taw	t a w		foley2005	443
+237746	awtuw	1405_NAME	yenyiy	yenyiy	j e n j i j		foley2005	444
+237753	awtuw	1337_PIG	yaw	yaw	j a w		foley2005	445
+237762	awtuw	2009_DOG	piyren	piyren	p i j r e n		foley2005	446
+237768	awtuw	730_SNAKE	wulak	wulak	w u l a k		foley2005	447
+237774	awtuw	1509_MOSQUITO	yiwelkey	yiwelkey	j i w e l k e j		foley2005	448
+237782	awtuw	1392_LOUSE	nin	nin	n i n		foley2005	449
+237787	awtuw	675_FAECES_EXCREMENT	riy	riy	r i j		foley2005	450
+237795	awtuw	1409_SEE	owpa	owpa	o w p a		foley2005	451
+237803	awtuw	1336_EAT	ra	ra	r a		foley2005	452
+237813	awtuw	695_GO	æy	æy	æ j		foley2005	453
+237822	awtuw	1446_COME	eya	eya	e j a		foley2005	454
+237830	awtuw	1416_SIT	ik	ik	i k		foley2005	455
+237837	awtuw	1442_STAND	iwrek	iwrek	i w r e k		foley2005	456
+237844	awtuw	1209_I	wan	wan	w a n		foley2005	457
+237852	awtuw	2304_THEE_OBLIQUE_CASE_OF_YOU	yen	yen	j e n		foley2005	458
+237863	awtuw	262_HE_OR_SHE_OR_IT	rey	rey	r e j		foley2005	459
+237872	awtuw	262_HE_OR_SHE_OR_IT	tey	tey	t e j		foley2005	460
+237882	awtuw	2634_WE_TWO	nan	nan	n a n		foley2005	461
+237891	awtuw	2111_YOU_TWO	an	an	a n		foley2005	462
+237900	awtuw	817_THEY	ræw	ræw	r æ w		foley2005	463
+237909	awtuw	1212_WE	no-m	no-m	n o + m		foley2005	464
+237917	awtuw	2312_YOU_OBLIQUE_CASE_OF_YOU	o-m	o-m	o + m		foley2005	465
+237926	awtuw	817_THEY	ro-m	ro-m	r o + m		foley2005	466
+237581	iwam	1493_ONE	oe	oe	o e		foley2005	467
+237582	iwam	1493_ONE	su	su	s u		foley2005	468
+237583	iwam	1493_ONE	ruk	ruk	r u k		foley2005	469
+237593	iwam	492_THREE	um	um	u m		foley2005	470
+237601	iwam	1554_MAN	yen-kam	yen-kam	j e n + k a m		foley2005	471
+237610	iwam	948_WATER	o(p)	o	o		foley2005	472
+237618	iwam	2108_RAINING_OR_RAIN	ŋaw	ŋaw	ŋ a w		foley2005	473
+237626	iwam	221_FIRE	pay	pay	p a j		foley2005	474
+237634	iwam	1343_SUN	pi	pi	p i		foley2005	475
+237642	iwam	1313_MOON	pwan	pwan	p w a n		foley2005	476
+237650	iwam	1252_HOUSE	amkwa	amkwa	a m k w a		foley2005	477
+237657	iwam	930_VILLAGE	om	om	o m		foley2005	478
+237664	iwam	1402_BREAST	muy	muy	m u j		foley2005	479
+237672	iwam	1380_TOOTH	piknu	piknu	p i k n u		foley2005	480
+237680	iwam	1394_BONE	keew	keew	k eː w		foley2005	481
+237689	iwam	1205_TONGUE	kwane	kwane	k w a n e		foley2005	482
+237697	iwam	1248_EYE	nu	nu	n u		foley2005	483
+237705	iwam	1221_NOSE	nomwos	nomwos	n o m w o s		foley2005	484
+237713	iwam	2098_FOOT_OR_LEG	wɨrku	wɨrku	w ɨ r k u		foley2005	485
+237721	iwam	1247_EAR	wun	wun	w u n		foley2005	486
+237729	iwam	744_EGG	yen	yen	j e n		foley2005	487
+237737	iwam	906_TREE	pae(kap)	pae	p a e		foley2005	488
+237750	iwam	1337_PIG	hu	hu	h u		foley2005	489
+237758	iwam	2009_DOG	nwa	nwa	n w a		foley2005	490
+237766	iwam	730_SNAKE	now	now	n o w		foley2005	491
+237778	iwam	1392_LOUSE	nɨn	nɨn	n ɨ n		foley2005	492
+237791	iwam	1409_SEE	kɨk	kɨk	k ɨ k		foley2005	493
+237799	iwam	1336_EAT	(nd)ai	ai	a i		foley2005	494
+237800	iwam	1336_EAT	(n)ai	ai	a i		foley2005	495
+237809	iwam	695_GO	a(m)	a	a		foley2005	496
+237818	iwam	1446_COME	ɨt	ɨt	ɨ t		foley2005	497
+237827	iwam	1416_SIT	ɨdwo	ɨdwo	ɨ d w o		foley2005	498
+237834	iwam	1442_STAND	okwo	okwo	o k w o		foley2005	499
+237840	iwam	1209_I	an	an	a n		foley2005	500
+237848	iwam	2304_THEE_OBLIQUE_CASE_OF_YOU	nɨ	nɨ	n ɨ		foley2005	501
+237858	iwam	262_HE_OR_SHE_OR_IT	yɨ (o)	yɨ_	j ɨ		foley2005	502
+237859	iwam	262_HE_OR_SHE_OR_IT	siy	siy	s i j		foley2005	503
+237867	iwam	262_HE_OR_SHE_OR_IT	ya	ya	j a		foley2005	504
+237868	iwam	262_HE_OR_SHE_OR_IT	sae	sae	s a e		foley2005	505
+237876	iwam	2634_WE_TWO	ni	ni	n i		foley2005	506
+237877	iwam	2634_WE_TWO	nɨr	nɨr	n ɨ r		foley2005	507
+237886	iwam	2111_YOU_TWO	yo	yo	j o		foley2005	508
+237887	iwam	2111_YOU_TWO	so	so	s o		foley2005	509
+237895	iwam	817_THEY	yo	yo	j o		foley2005	510
+237896	iwam	817_THEY	so	so	s o		foley2005	511
+237904	iwam	1212_WE	wɨ-m	wɨ-m	w ɨ + m		foley2005	512
+237913	iwam	2312_YOU_OBLIQUE_CASE_OF_YOU	nɨ-m	nɨ-m	n ɨ + m		foley2005	513
+237921	iwam	817_THEY	yɨ-m	yɨ-m	j ɨ + m		foley2005	514
+237922	iwam	817_THEY	sɨ-m	sɨ-m	s ɨ + m		foley2005	515
+237589	abau	1493_ONE	rin	rin	r i n		foley2005	516
+237590	abau	1493_ONE	mun	mun	m u n		foley2005	517
+237598	abau	492_THREE	rumni	rumni	r u m n i		foley2005	518
+237606	abau	1554_MAN	or	or	o r		foley2005	519
+237607	abau	1554_MAN	lu	lu	l u		foley2005	520
+237615	abau	948_WATER	fu	fu	f u		foley2005	521
+237623	abau	2108_RAINING_OR_RAIN	suri	suri	s u r i		foley2005	522
+237631	abau	221_FIRE	ya	ya	j a		foley2005	523
+237639	abau	1343_SUN	ey	ey	e j		foley2005	524
+237647	abau	1313_MOON	yen	yen	j e n		foley2005	525
+237654	abau	1252_HOUSE	a	a	a		foley2005	526
+237661	abau	930_VILLAGE	om	om	o m		foley2005	527
+237669	abau	1402_BREAST	mu	mu	m u		foley2005	528
+237677	abau	1380_TOOTH	nas	nas	n a s		foley2005	529
+237685	abau	1394_BONE	i	i	i		foley2005	530
+237686	abau	1394_BONE	ayo	ayo	a j o		foley2005	531
+237694	abau	1205_TONGUE	sane	sane	s a n e		foley2005	532
+237702	abau	1248_EYE	nane	nane	n a n e		foley2005	533
+237710	abau	1221_NOSE	kasan	kasan	k a s a n		foley2005	534
+237718	abau	2098_FOOT_OR_LEG	sune	sune	s u n e		foley2005	535
+237726	abau	1247_EAR	nwek	nwek	n w e k		foley2005	536
+237733	abau	744_EGG	ne	ne	n e		foley2005	537
+237742	abau	906_TREE	nɔw	nɔw	n ɔ w		foley2005	538
+237747	abau	1405_NAME	uru	uru	u r u		foley2005	539
+237754	abau	1337_PIG	fwok	fwok	f w o k		foley2005	540
+237763	abau	2009_DOG	nwɔf	nwɔf	n w ɔ f		foley2005	541
+237769	abau	730_SNAKE	sɔk	sɔk	s ɔ k		foley2005	542
+237775	abau	1509_MOSQUITO	yu	yu	j u		foley2005	543
+237783	abau	1392_LOUSE	mapru	mapru	m a p r u		foley2005	544
+237788	abau	675_FAECES_EXCREMENT	si	si	s i		foley2005	545
+237796	abau	1409_SEE	rira	rira	r i r a		foley2005	546
+237804	abau	1336_EAT	ra	ra	r a		foley2005	547
+237814	abau	695_GO	rey	rey	r e j		foley2005	548
+237815	abau	695_GO	ie	ie	i e		foley2005	549
+237823	abau	1446_COME	re	re	r e		foley2005	550
+237824	abau	1446_COME	e	e	e		foley2005	551
+237831	abau	1416_SIT	ruak	ruak	r u a k		foley2005	552
+237845	abau	1209_I	ha	ha	h a		foley2005	553
+237853	abau	2304_THEE_OBLIQUE_CASE_OF_YOU	hun	hun	h u n		foley2005	554
+237864	abau	262_HE_OR_SHE_OR_IT	hi	hi	h i		foley2005	555
+237873	abau	262_HE_OR_SHE_OR_IT	hɔ	hɔ	h ɔ		foley2005	556
+237883	abau	2634_WE_TWO	hrɔr	hrɔr	h r ɔ r		foley2005	557
+237892	abau	2111_YOU_TWO	hɔ-f	hɔ-f	h ɔ + f		foley2005	558
+237901	abau	817_THEY	hɔ-f	hɔ-f	h ɔ + f		foley2005	559
+237910	abau	1212_WE	hrɔ-m	hrɔ-m	h r ɔ + m		foley2005	560
+237918	abau	2312_YOU_OBLIQUE_CASE_OF_YOU	hɔ-m	hɔ-m	h ɔ + m		foley2005	561
+237927	abau	817_THEY	hɔ-m	hɔ-m	h ɔ + m		foley2005	562
+237587	yessan-mayo	1493_ONE	wurɨ	wurɨ	w u r ɨ		foley2005	563
+237596	yessan-mayo	492_THREE	mur	mur	m u r		foley2005	564
+237604	yessan-mayo	1554_MAN	tamə	tamə	t a m ə		foley2005	565
+237613	yessan-mayo	948_WATER	ok	ok	o k		foley2005	566
+237621	yessan-mayo	2108_RAINING_OR_RAIN	mow	mow	m o w		foley2005	567
+237629	yessan-mayo	221_FIRE	k-er	k-er	k + e r		foley2005	568
+237637	yessan-mayo	1343_SUN	yabəl	yabəl	j a b ə l		foley2005	569
+237645	yessan-mayo	1313_MOON	lɨyf	lɨyf	l ɨ j f		foley2005	570
+237652	yessan-mayo	1252_HOUSE	aka	aka	a k a		foley2005	571
+237659	yessan-mayo	930_VILLAGE	kwom	kwom	k w o m		foley2005	572
+237667	yessan-mayo	1402_BREAST	mu	mu	m u		foley2005	573
+237675	yessan-mayo	1380_TOOTH	lər	lər	l ə r		foley2005	574
+237683	yessan-mayo	1394_BONE	yaha	yaha	j a h a		foley2005	575
+237692	yessan-mayo	1205_TONGUE	tawlə	tawlə	t a w l ə		foley2005	576
+237700	yessan-mayo	1248_EYE	lə	lə	l ə		foley2005	577
+237708	yessan-mayo	1221_NOSE	raŋkɨ	raŋkɨ	r a ŋ k ɨ		foley2005	578
+237716	yessan-mayo	2098_FOOT_OR_LEG	warə	warə	w a r ə		foley2005	579
+237724	yessan-mayo	1247_EAR	wan	wan	w a n		foley2005	580
+237731	yessan-mayo	744_EGG	yɨn	yɨn	j ɨ n		foley2005	581
+237740	yessan-mayo	906_TREE	me	me	m e		foley2005	582
+237752	yessan-mayo	1337_PIG	for	for	f o r		foley2005	583
+237761	yessan-mayo	2009_DOG	wala	wala	w a l a		foley2005	584
+237767	yessan-mayo	730_SNAKE	sofə	sofə	s o f ə		foley2005	585
+237773	yessan-mayo	1509_MOSQUITO	amowɨ	amowɨ	a m o w ɨ		foley2005	586
+237781	yessan-mayo	1392_LOUSE	nɨ	nɨ	n ɨ		foley2005	587
+237786	yessan-mayo	675_FAECES_EXCREMENT	ʃe	ʃe	ʃ e		foley2005	588
+237794	yessan-mayo	1409_SEE	la	la	l a		foley2005	589
+237802	yessan-mayo	1336_EAT	a(m)	a	a		foley2005	590
+237812	yessan-mayo	695_GO	yɨ	yɨ	j ɨ		foley2005	591
+237821	yessan-mayo	1446_COME	ya	ya	j a		foley2005	592
+237829	yessan-mayo	1416_SIT	sɨ	sɨ	s ɨ		foley2005	593
+237836	yessan-mayo	1442_STAND	tɨt	tɨt	t ɨ t		foley2005	594
+237843	yessan-mayo	1209_I	an	an	a n		foley2005	595
+237851	yessan-mayo	2304_THEE_OBLIQUE_CASE_OF_YOU	nɨ	nɨ	n ɨ		foley2005	596
+237862	yessan-mayo	262_HE_OR_SHE_OR_IT	rɨ	rɨ	r ɨ		foley2005	597
+237871	yessan-mayo	262_HE_OR_SHE_OR_IT	tɨ	tɨ	t ɨ		foley2005	598
+237881	yessan-mayo	2634_WE_TWO	nɨs	nɨs	n ɨ s		foley2005	599
+237890	yessan-mayo	2111_YOU_TWO	kə-f	kə-f	k ə + f		foley2005	600
+237899	yessan-mayo	817_THEY	rɨ-f	rɨ-f	r ɨ + f		foley2005	601
+237908	yessan-mayo	1212_WE	nɨ-m	nɨ-m	n ɨ + m		foley2005	602
+237916	yessan-mayo	2312_YOU_OBLIQUE_CASE_OF_YOU	ke-m	ke-m	k e + m		foley2005	603
+237925	yessan-mayo	817_THEY	rɨ-m	rɨ-m	r ɨ + m		foley2005	604
+237584	namia	1493_ONE	tipia	tipia	t i p i a		foley2005	605
+237594	namia	492_THREE	mani	mani	m a n i		foley2005	606
+237602	namia	1554_MAN	lu	lu	l u		foley2005	607
+237611	namia	948_WATER	ito	ito	i t o		foley2005	608
+237619	namia	2108_RAINING_OR_RAIN	lau	lau	l a u		foley2005	609
+237627	namia	221_FIRE	ipi	ipi	i p i		foley2005	610
+237635	namia	1343_SUN	wuluwa	wuluwa	w u l u w a		foley2005	611
+237643	namia	1313_MOON	yem	yem	j e m		foley2005	612
+237651	namia	1252_HOUSE	wala	wala	w a l a		foley2005	613
+237658	namia	930_VILLAGE	wala	wala	w a l a		foley2005	614
+237665	namia	1402_BREAST	mu	mu	m u		foley2005	615
+237673	namia	1380_TOOTH	pinarɨ	pinarɨ	p i n a r ɨ		foley2005	616
+237681	namia	1394_BONE	lak	lak	l a k		foley2005	617
+237690	namia	1205_TONGUE	lar	lar	l a r		foley2005	618
+237698	namia	1248_EYE	eno	eno	e n o		foley2005	619
+237706	namia	1221_NOSE	nɨmala	nɨmala	n ɨ m a l a		foley2005	620
+237714	namia	2098_FOOT_OR_LEG	lipala	lipala	l i p a l a		foley2005	621
+237722	namia	1247_EAR	mak	mak	m a k		foley2005	622
+237730	namia	744_EGG	puna	puna	p u n a		foley2005	623
+237738	namia	906_TREE	mi	mi	m i		foley2005	624
+237745	namia	1405_NAME	ilei	ilei	i l e i		foley2005	625
+237751	namia	1337_PIG	lwae	lwae	l w a e		foley2005	626
+237759	namia	2009_DOG	ara	ara	a r a		foley2005	627
+237772	namia	1509_MOSQUITO	ai	ai	a i		foley2005	628
+237779	namia	1392_LOUSE	nanpeu	nanpeu	n a n p e u		foley2005	629
+237792	namia	1409_SEE	enaki	enaki	e n a k i		foley2005	630
+237810	namia	695_GO	le	le	l e		foley2005	631
+237819	namia	1446_COME	yar	yar	j a r		foley2005	632
+237828	namia	1416_SIT	nir	nir	n i r		foley2005	633
+237835	namia	1442_STAND	kir	kir	k i r		foley2005	634
+237841	namia	1209_I	ona	ona	o n a		foley2005	635
+237849	namia	2304_THEE_OBLIQUE_CASE_OF_YOU	am	am	a m		foley2005	636
+237856	namia	2304_THEE_OBLIQUE_CASE_OF_YOU	ne	ne	n e		foley2005	637
+237860	namia	262_HE_OR_SHE_OR_IT	lo-ko	lo-ko	l o + k o		foley2005	638
+237869	namia	262_HE_OR_SHE_OR_IT	e-ko	e-ko	e + k o		foley2005	639
+237878	namia	2634_WE_TWO	awera	awera	a w e r a		foley2005	640
+237879	namia	2634_WE_TWO	era	era	e r a		foley2005	641
+237888	namia	2111_YOU_TWO	awapli	awapli	a w a p l i		foley2005	642
+237897	namia	817_THEY	lapli-ko	lapli-ko	l a p l i + k o		foley2005	643
+237905	namia	1212_WE	awema	awema	a w e m a		foley2005	644
+237906	namia	1212_WE	ema	ema	e m a		foley2005	645
+237914	namia	2312_YOU_OBLIQUE_CASE_OF_YOU	wa-m	wa-m	w a + m		foley2005	646
+237923	namia	817_THEY	lo-m-ko	lo-m-ko	l o + m + k o		foley2005	647
+237585	wogamusin	1493_ONE	a (M)	a_	a		foley2005	648
+237586	wogamusin	1493_ONE	ed (F)	ed_	e d		foley2005	649
+237595	wogamusin	492_THREE	um	um	u m		foley2005	650
+237603	wogamusin	1554_MAN	tam	tam	t a m		foley2005	651
+237612	wogamusin	948_WATER	yɨk	yɨk	j ɨ k		foley2005	652
+237620	wogamusin	2108_RAINING_OR_RAIN	mey	mey	m e j		foley2005	653
+237628	wogamusin	221_FIRE	kur	kur	k u r		foley2005	654
+237636	wogamusin	1343_SUN	yam	yam	j a m		foley2005	655
+237644	wogamusin	1313_MOON	luh	luh	l u h		foley2005	656
+237666	wogamusin	1402_BREAST	muk	muk	m u k		foley2005	657
+237674	wogamusin	1380_TOOTH	ndɨl	ndɨl	n d ɨ l		foley2005	658
+237682	wogamusin	1394_BONE	rubwi	rubwi	r u b w i		foley2005	659
+237691	wogamusin	1205_TONGUE	taliyen	taliyen	t a l i j e n		foley2005	660
+237699	wogamusin	1248_EYE	li	li	l i		foley2005	661
+237707	wogamusin	1221_NOSE	boliŋ	boliŋ	b o l i ŋ		foley2005	662
+237715	wogamusin	2098_FOOT_OR_LEG	su	su	s u		foley2005	663
+237723	wogamusin	1247_EAR	mam	mam	m a m		foley2005	664
+237739	wogamusin	906_TREE	mbotom	mbotom	m b o t o m		foley2005	665
+237760	wogamusin	2009_DOG	wal	wal	w a l		foley2005	666
+237780	wogamusin	1392_LOUSE	tetak	tetak	t e t a k		foley2005	667
+237793	wogamusin	1409_SEE	le	le	l e		foley2005	668
+237811	wogamusin	695_GO	wunil	wunil	w u n i l		foley2005	669
+237820	wogamusin	1446_COME	yow	yow	j o w		foley2005	670
+237842	wogamusin	1209_I	nay	nay	n a j		foley2005	671
+237850	wogamusin	2304_THEE_OBLIQUE_CASE_OF_YOU	ni	ni	n i		foley2005	672
+237861	wogamusin	262_HE_OR_SHE_OR_IT	ye	ye	j e		foley2005	673
+237870	wogamusin	262_HE_OR_SHE_OR_IT	yor	yor	j o r		foley2005	674
+237880	wogamusin	2634_WE_TWO	nond	nond	n o n d		foley2005	675
+237889	wogamusin	2111_YOU_TWO	noh	noh	n o h		foley2005	676
+237898	wogamusin	817_THEY	yoh	yoh	j o h		foley2005	677
+237907	wogamusin	1212_WE	non	non	n o n		foley2005	678
+237915	wogamusin	2312_YOU_OBLIQUE_CASE_OF_YOU	no-m	no-m	n o + m		foley2005	679
+237924	wogamusin	817_THEY	yor	yor	j o r		foley2005	680
+235325	angoram	1493_ONE	mbia	mbia	m b i a		foley2005	21007
+235332	angoram	1498_TWO	-(lɨ)par	-par	p a r		foley2005	21008
+235339	angoram	492_THREE	-elɨm	-elɨm	e l ɨ m		foley2005	21009
+235351	angoram	1553_MALE	pondo	pondo	p o n d o		foley2005	21011
+235357	angoram	962_WOMAN	nuŋor	nuŋor	n u ŋ o r		foley2005	21012
+235364	angoram	948_WATER	alɨm	alɨm	a l ɨ m		foley2005	21013
+235371	angoram	221_FIRE	aluŋ	aluŋ	a l u ŋ		foley2005	21014
+235377	angoram	1343_SUN	mbwino	mbwino	m b w i n o		foley2005	681
+235384	angoram	1313_MOON	mɨle	mɨle	m ɨ l e		foley2005	21015
+235390	angoram	1430_STAR	areɲjo	areɲjo	a r e ɲ j o		foley2005	682
+235397	angoram	1970_CANOE	ke	ke	k e		foley2005	21016
+235403	angoram	1252_HOUSE	nam	nam	n a m		foley2005	683
+235410	angoram	930_VILLAGE	num	num	n u m		foley2005	21017
+235417	angoram	1402_BREAST	ŋge	ŋge	ŋ g e		foley2005	21018
+235424	angoram	1380_TOOTH	sisi?n	sisi?n	s i s i n		foley2005	21019
+235431	angoram	946_BLOOD	ayakone	ayakone	a j a k o n e		foley2005	21020
+235438	angoram	1394_BONE	salɨŋ	salɨŋ	s a l ɨ ŋ		foley2005	21021
+235445	angoram	1205_TONGUE	mɨnɨŋ	mɨnɨŋ	m ɨ n ɨ ŋ		foley2005	21022
+235452	angoram	1248_EYE	tambli	tambli	t a m b l i		foley2005	21023
+235458	angoram	1221_NOSE	naŋɨm	naŋɨm	n a ŋ ɨ m		foley2005	684
+235464	angoram	2098_FOOT_OR_LEG	namuŋ	namuŋ	n a m u ŋ		foley2005	21024
+235470	angoram	189_HAIR_BODY	mbwikmaley	mbwikmaley	m b w i k m a l e j		foley2005	685
+235477	angoram	1247_EAR	kwandum	kwandum	k w a n d u m		foley2005	21025
+235484	angoram	744_EGG	awŋ	awŋ	a w ŋ		foley2005	21026
+235491	angoram	628_LEAF	namblum	namblum	n a m b l u m		foley2005	21027
+235498	angoram	808_yesterdaytomorrow	nakɨmɨn	nakɨmɨn	n a k ɨ m ɨ n		foley2005	21028
+235505	angoram	3137_OAR	inap	inap	i n a p		foley2005	21029
+235512	angoram	217_BETELNUT	parɨŋ	parɨŋ	p a r ɨ ŋ		foley2005	21030
+235519	angoram	982_LIME_FRUIT	awer	awer	a w e r		foley2005	21031
+235526	angoram	1337_PIG	imbar	imbar	i m b a r		foley2005	21032
+235532	angoram	1857_CROCODILE	walami	walami	w a l a m i		foley2005	686
+235539	angoram	730_SNAKE	paruŋ	paruŋ	p a r u ŋ		foley2005	21033
+235546	angoram	1509_MOSQUITO	wawarɨn	wawarɨn	w a w a r ɨ n		foley2005	21034
+235553	angoram	2159_GROUND	andi	andi	a n d i		foley2005	21035
+235560	angoram	675_FAECES_EXCREMENT	mɨndi	mɨndi	m ɨ n d i		foley2005	21036
+235567	angoram	1408_HEAR	andɨ	andɨ	a n d ɨ		foley2005	21037
+235574	angoram	1433_HIT	ti	ti	t i		foley2005	21038
+235581	angoram	1336_EAT	am(b)	am	a m		foley2005	21039
+235588	angoram	695_GO	wa	wa	w a		foley2005	21040
+235595	angoram	1446_COME	ya	ya	j a		foley2005	21041
+235608	angoram	1202_BIG	kupa	kupa	k u p a		foley2005	21043
+235614	angoram	1287_COLD	popant	popant	p o p a n t		foley2005	21044
+235995	angoram	1493_ONE	mbia	mbia	m b i a		foley2005	21094
+236002	angoram	1498_TWO	-(lɨ)par	-par	p a r		foley2005	21095
+236009	angoram	492_THREE	-elɨm	-elɨm	e l ɨ m		foley2005	21096
+236021	angoram	1553_MALE	pondo	pondo	p o n d o		foley2005	21098
+236027	angoram	962_WOMAN	nuŋor	nuŋor	n u ŋ o r		foley2005	21099
+236034	angoram	948_WATER	alɨm	alɨm	a l ɨ m		foley2005	21100
+236041	angoram	221_FIRE	aluŋ	aluŋ	a l u ŋ		foley2005	21101
+236047	angoram	1343_SUN	mbwino	mbwino	m b w i n o		foley2005	687
+236054	angoram	1313_MOON	mɨle	mɨle	m ɨ l e		foley2005	21102
+236060	angoram	1430_STAR	areɲjo	areɲjo	a r e ɲ j o		foley2005	688
+236067	angoram	1970_CANOE	ke	ke	k e		foley2005	21103
+236073	angoram	1252_HOUSE	nam	nam	n a m		foley2005	689
+236080	angoram	930_VILLAGE	num	num	n u m		foley2005	21104
+236087	angoram	1402_BREAST	ŋge	ŋge	ŋ g e		foley2005	21105
+236094	angoram	1380_TOOTH	sisi?n	sisi?n	s i s i n		foley2005	21106
+236101	angoram	946_BLOOD	ayakone	ayakone	a j a k o n e		foley2005	21107
+236108	angoram	1394_BONE	salɨŋ	salɨŋ	s a l ɨ ŋ		foley2005	21108
+236115	angoram	1205_TONGUE	mɨnɨŋ	mɨnɨŋ	m ɨ n ɨ ŋ		foley2005	21109
+236122	angoram	1248_EYE	tambli	tambli	t a m b l i		foley2005	21110
+236128	angoram	1221_NOSE	naŋɨm	naŋɨm	n a ŋ ɨ m		foley2005	690
+236134	angoram	2098_FOOT_OR_LEG	namuŋ	namuŋ	n a m u ŋ		foley2005	21111
+236140	angoram	189_HAIR_BODY	mbwikmaley	mbwikmaley	m b w i k m a l e j		foley2005	691
+236147	angoram	1247_EAR	kwandum	kwandum	k w a n d u m		foley2005	21112
+236154	angoram	744_EGG	awŋ	awŋ	a w ŋ		foley2005	21113
+236161	angoram	628_LEAF	namblum	namblum	n a m b l u m		foley2005	21114
+236168	angoram	808_yesterdaytomorrow	nakɨmɨn	nakɨmɨn	n a k ɨ m ɨ n		foley2005	21115
+236175	angoram	3137_OAR	inap	inap	i n a p		foley2005	21116
+236182	angoram	217_BETELNUT	parɨŋ	parɨŋ	p a r ɨ ŋ		foley2005	21117
+236189	angoram	982_LIME_FRUIT	awer	awer	a w e r		foley2005	21118
+236196	angoram	1337_PIG	imbar	imbar	i m b a r		foley2005	21119
+236202	angoram	1857_CROCODILE	walami	walami	w a l a m i		foley2005	692
+236209	angoram	730_SNAKE	paruŋ	paruŋ	p a r u ŋ		foley2005	21120
+236216	angoram	1509_MOSQUITO	wawarɨn	wawarɨn	w a w a r ɨ n		foley2005	21121
+236223	angoram	2159_GROUND	andi	andi	a n d i		foley2005	21122
+236230	angoram	675_FAECES_EXCREMENT	mɨndi	mɨndi	m ɨ n d i		foley2005	21123
+236237	angoram	1408_HEAR	andɨ	andɨ	a n d ɨ		foley2005	21124
+236244	angoram	1433_HIT	ti	ti	t i		foley2005	21125
+236251	angoram	1336_EAT	am(b)	am	a m		foley2005	21126
+236258	angoram	695_GO	wa	wa	w a		foley2005	21127
+236265	angoram	1446_COME	ya	ya	j a		foley2005	21128
+236278	angoram	1202_BIG	kupa	kupa	k u p a		foley2005	21130
+236284	angoram	1287_COLD	popant	popant	p o p a n t		foley2005	21131
+236291	angoram	1209_I	ami	ami	a m i		foley2005	21132
+236298	angoram	2304_THEE_OBLIQUE_CASE_OF_YOU	mi	mi	m i		foley2005	21133
+236305	angoram	262_HE_OR_SHE_OR_IT	mɨn	mɨn	m ɨ n		foley2005	21134
+236346	angoram	1212_WE	paŋgɨr	paŋgɨr	p a ŋ g ɨ r		foley2005	21140
+236354	angoram	2312_YOU_OBLIQUE_CASE_OF_YOU	ipwe	ipwe	i p w e		foley2005	21141
+236362	angoram	817_THEY	pum	pum	p u m		foley2005	21142
+235326	chambri	1493_ONE	mbwia-	mbwia-	m b w i a		foley2005	21007
+235333	chambri	1498_TWO	-ri	-ri	r i		foley2005	21008
+235340	chambri	492_THREE	-ram	-ram	r a m		foley2005	21009
+235346	chambri	683_PERSON	noranam	noranam	n o r a n a m		foley2005	21010
+235358	chambri	962_WOMAN	kaye	kaye	k a j e		foley2005	21012
+235365	chambri	948_WATER	arɨm	arɨm	a r ɨ m		foley2005	21013
+235372	chambri	221_FIRE	ayɨr	ayɨr	a j ɨ r		foley2005	21014
+235378	chambri	1343_SUN	sɨnmari	sɨnmari	s ɨ n m a r i		foley2005	693
+235385	chambri	1313_MOON	mwɨl	mwɨl	m w ɨ l		foley2005	21015
+235391	chambri	1430_STAR	suŋgwi	suŋgwi	s u ŋ g w i		foley2005	694
+235398	chambri	1970_CANOE	ke	ke	k e		foley2005	21016
+235404	chambri	1252_HOUSE	kurɨr	kurɨr	k u r ɨ r		foley2005	695
+235411	chambri	930_VILLAGE	num	num	n u m		foley2005	21017
+235418	chambri	1402_BREAST	nɨŋke	nɨŋke	n ɨ ŋ k e		foley2005	21018
+235425	chambri	1380_TOOTH	sraŋk	sraŋk	s r a ŋ k		foley2005	21019
+235432	chambri	946_BLOOD	yari	yari	j a r i		foley2005	21020
+235439	chambri	1394_BONE	anamp	anamp	a n a m p		foley2005	21021
+235446	chambri	1205_TONGUE	tɨbulaniŋk	tɨbulaniŋk	t ɨ b u l a n i ŋ k		foley2005	21022
+235453	chambri	1248_EYE	sɨsiŋk	sɨsiŋk	s ɨ s i ŋ k		foley2005	21023
+235459	chambri	1221_NOSE	wambusu	wambusu	w a m b u s u		foley2005	696
+235465	chambri	2098_FOOT_OR_LEG	namaŋk	namaŋk	n a m a ŋ k		foley2005	21024
+235471	chambri	189_HAIR_BODY	yawi	yawi	j a w i		foley2005	697
+235478	chambri	1247_EAR	kukunam	kukunam	k u k u n a m		foley2005	21025
+235485	chambri	744_EGG	awŋk	awŋk	a w ŋ k		foley2005	21026
+235492	chambri	628_LEAF	nɨmpramp	nɨmpramp	n ɨ m p r a m p		foley2005	21027
+235499	chambri	808_yesterdaytomorrow	namasɨnɨŋ	namasɨnɨŋ	n a m a s ɨ n ɨ ŋ		foley2005	21028
+235506	chambri	3137_OAR	naŋk	naŋk	n a ŋ k		foley2005	21029
+235513	chambri	217_BETELNUT	muntɨkɨn	muntɨkɨn	m u n t ɨ k ɨ n		foley2005	21030
+235520	chambri	982_LIME_FRUIT	ayɨr	ayɨr	a j ɨ r		foley2005	21031
+235527	chambri	1337_PIG	numpran	numpran	n u m p r a n		foley2005	21032
+235533	chambri	1857_CROCODILE	ayi	ayi	a j i		foley2005	698
+235540	chambri	730_SNAKE	wan	wan	w a n		foley2005	21033
+235547	chambri	1509_MOSQUITO	naŋgun	naŋgun	n a ŋ g u n		foley2005	21034
+235554	chambri	2159_GROUND	nɨŋkrump	nɨŋkrump	n ɨ ŋ k r u m p		foley2005	21035
+235561	chambri	675_FAECES_EXCREMENT	muɲjar	muɲjar	m u ɲ j a r		foley2005	21036
+235568	chambri	1408_HEAR	andɨ	andɨ	a n d ɨ		foley2005	21037
+235575	chambri	1433_HIT	dɨɨ	dɨɨ	d ɨ ɨ		foley2005	21038
+235582	chambri	1336_EAT	am(b)	am	a m		foley2005	21039
+235589	chambri	695_GO	kal	kal	k a l		foley2005	21040
+235596	chambri	1446_COME	ya	ya	j a		foley2005	21041
+235602	chambri	1416_SIT	nda	nda	n d a		foley2005	21042
+235609	chambri	1202_BIG	wupa	wupa	w u p a		foley2005	21043
+235615	chambri	1287_COLD	saruk	saruk	s a r u k		foley2005	21044
+235996	chambri	1493_ONE	mbwia-	mbwia-	m b w i a		foley2005	21094
+236003	chambri	1498_TWO	-ri	-ri	r i		foley2005	21095
+236010	chambri	492_THREE	-ram	-ram	r a m		foley2005	21096
+236016	chambri	683_PERSON	noranam	noranam	n o r a n a m		foley2005	21097
+236028	chambri	962_WOMAN	kaye	kaye	k a j e		foley2005	21099
+236035	chambri	948_WATER	arɨm	arɨm	a r ɨ m		foley2005	21100
+236042	chambri	221_FIRE	ayɨr	ayɨr	a j ɨ r		foley2005	21101
+236048	chambri	1343_SUN	sɨnmari	sɨnmari	s ɨ n m a r i		foley2005	699
+236055	chambri	1313_MOON	mwɨl	mwɨl	m w ɨ l		foley2005	21102
+236061	chambri	1430_STAR	suŋgwi	suŋgwi	s u ŋ g w i		foley2005	700
+236068	chambri	1970_CANOE	ke	ke	k e		foley2005	21103
+236074	chambri	1252_HOUSE	kurɨr	kurɨr	k u r ɨ r		foley2005	701
+236081	chambri	930_VILLAGE	num	num	n u m		foley2005	21104
+236088	chambri	1402_BREAST	nɨŋke	nɨŋke	n ɨ ŋ k e		foley2005	21105
+236095	chambri	1380_TOOTH	sraŋk	sraŋk	s r a ŋ k		foley2005	21106
+236102	chambri	946_BLOOD	yari	yari	j a r i		foley2005	21107
+236109	chambri	1394_BONE	anamp	anamp	a n a m p		foley2005	21108
+236116	chambri	1205_TONGUE	tɨbulaniŋk	tɨbulaniŋk	t ɨ b u l a n i ŋ k		foley2005	21109
+236123	chambri	1248_EYE	sɨsiŋk	sɨsiŋk	s ɨ s i ŋ k		foley2005	21110
+236129	chambri	1221_NOSE	wambusu	wambusu	w a m b u s u		foley2005	702
+236135	chambri	2098_FOOT_OR_LEG	namaŋk	namaŋk	n a m a ŋ k		foley2005	21111
+236141	chambri	189_HAIR_BODY	yawi	yawi	j a w i		foley2005	703
+236148	chambri	1247_EAR	kukunam	kukunam	k u k u n a m		foley2005	21112
+236155	chambri	744_EGG	awŋk	awŋk	a w ŋ k		foley2005	21113
+236162	chambri	628_LEAF	nɨmpramp	nɨmpramp	n ɨ m p r a m p		foley2005	21114
+236169	chambri	808_yesterdaytomorrow	namasɨnɨŋ	namasɨnɨŋ	n a m a s ɨ n ɨ ŋ		foley2005	21115
+236176	chambri	3137_OAR	naŋk	naŋk	n a ŋ k		foley2005	21116
+236183	chambri	217_BETELNUT	muntɨkɨn	muntɨkɨn	m u n t ɨ k ɨ n		foley2005	21117
+236190	chambri	982_LIME_FRUIT	ayɨr	ayɨr	a j ɨ r		foley2005	21118
+236197	chambri	1337_PIG	numpran	numpran	n u m p r a n		foley2005	21119
+236203	chambri	1857_CROCODILE	ayi	ayi	a j i		foley2005	704
+236210	chambri	730_SNAKE	wan	wan	w a n		foley2005	21120
+236217	chambri	1509_MOSQUITO	naŋgun	naŋgun	n a ŋ g u n		foley2005	21121
+236224	chambri	2159_GROUND	nɨŋkrump	nɨŋkrump	n ɨ ŋ k r u m p		foley2005	21122
+236231	chambri	675_FAECES_EXCREMENT	muɲjar	muɲjar	m u ɲ j a r		foley2005	21123
+236238	chambri	1408_HEAR	andɨ	andɨ	a n d ɨ		foley2005	21124
+236245	chambri	1433_HIT	dɨɨ	dɨɨ	d ɨ ɨ		foley2005	21125
+236252	chambri	1336_EAT	am(b)	am	a m		foley2005	21126
+236259	chambri	695_GO	kal	kal	k a l		foley2005	21127
+236266	chambri	1446_COME	ya	ya	j a		foley2005	21128
+236272	chambri	1416_SIT	nda	nda	n d a		foley2005	21129
+236279	chambri	1202_BIG	wupa	wupa	w u p a		foley2005	21130
+236285	chambri	1287_COLD	saruk	saruk	s a r u k		foley2005	21131
+236292	chambri	1209_I	ami	ami	a m i		foley2005	21132
+236299	chambri	2304_THEE_OBLIQUE_CASE_OF_YOU	mi	mi	m i		foley2005	21133
+236306	chambri	262_HE_OR_SHE_OR_IT	mɨn	mɨn	m ɨ n		foley2005	21134
+236313	chambri	2634_WE_TWO	kɨpi	kɨpi	k ɨ p i		foley2005	21135
+236320	chambri	2111_YOU_TWO	kɨpwi	kɨpwi	k ɨ p w i		foley2005	21136
+236326	chambri	817_THEY	mɨnɨmp	mɨnɨmp	m ɨ n ɨ m p		foley2005	705
+236331	chambri	2301_1ppaucal	yɨpɨŋk	yɨpɨŋk	j ɨ p ɨ ŋ k		foley2005	21137
+236347	chambri	1212_WE	yipi	yipi	j i p i		foley2005	21140
+236355	chambri	2312_YOU_OBLIQUE_CASE_OF_YOU	yibwi	yibwi	j i b w i		foley2005	21141
+236363	chambri	817_THEY	mump	mump	m u m p		foley2005	21142
+235323	tabriak	1493_ONE	mba	mba	m b a		foley2005	21007
+235330	tabriak	1498_TWO	ripay	ripay	r i p a j		foley2005	21008
+235337	tabriak	492_THREE	-rianmaw	-rianmaw	r i a n m a w		foley2005	21009
+235344	tabriak	683_PERSON	yarmasɨnar	yarmasɨnar	j a r m a s ɨ n a r		foley2005	21010
+235350	tabriak	1553_MALE	panmari	panmari	p a n m a r i		foley2005	21011
+235355	tabriak	962_WOMAN	asay	asay	a s a j		foley2005	21012
+235362	tabriak	948_WATER	arɨm	arɨm	a r ɨ m		foley2005	21013
+235369	tabriak	221_FIRE	awi	awi	a w i		foley2005	21014
+235375	tabriak	1343_SUN	sɨmari	sɨmari	s ɨ m a r i		foley2005	706
+235382	tabriak	1313_MOON	tuŋkwi	tuŋkwi	t u ŋ k w i		foley2005	21015
+235388	tabriak	1430_STAR	suŋkwiɲcirim	suŋkwiɲcirim	s u ŋ k w i ɲ c i r i m		foley2005	707
+235395	tabriak	1970_CANOE	kay	kay	k a j		foley2005	21016
+235401	tabriak	1252_HOUSE	yam	yam	j a m		foley2005	708
+235408	tabriak	930_VILLAGE	imuŋka	imuŋka	i m u ŋ k a		foley2005	21017
+235415	tabriak	1402_BREAST	ɲjay	ɲjay	ɲ j a j		foley2005	21018
+235422	tabriak	1380_TOOTH	sɨsɨŋ	sɨsɨŋ	s ɨ s ɨ ŋ		foley2005	21019
+235429	tabriak	946_BLOOD	yay	yay	j a j		foley2005	21020
+235436	tabriak	1394_BONE	tanɨm	tanɨm	t a n ɨ m		foley2005	21021
+235443	tabriak	1205_TONGUE	mumɨɲɨŋ	mumɨɲɨŋ	m u m ɨ ɲ ɨ ŋ		foley2005	21022
+235450	tabriak	1248_EYE	sampɨs	sampɨs	s a m p ɨ s		foley2005	21023
+235456	tabriak	1221_NOSE	ipun	ipun	i p u n		foley2005	709
+235462	tabriak	2098_FOOT_OR_LEG	pamuŋ	pamuŋ	p a m u ŋ		foley2005	21024
+235468	tabriak	189_HAIR_BODY	wampi	wampi	w a m p i		foley2005	710
+235475	tabriak	1247_EAR	kwandukas	kwandukas	k w a n d u k a s		foley2005	21025
+235482	tabriak	744_EGG	yawŋ	yawŋ	j a w ŋ		foley2005	21026
+235489	tabriak	628_LEAF	yimprɨm	yimprɨm	j i m p r ɨ m		foley2005	21027
+235496	tabriak	808_yesterdaytomorrow	arɨŋ	arɨŋ	a r ɨ ŋ		foley2005	21028
+235503	tabriak	3137_OAR	mɨnaŋ	mɨnaŋ	m ɨ n a ŋ		foley2005	21029
+235510	tabriak	217_BETELNUT	payn	payn	p a j n		foley2005	21030
+235517	tabriak	982_LIME_FRUIT	as	as	a s		foley2005	21031
+235524	tabriak	1337_PIG	impian	impian	i m p i a n		foley2005	21032
+235530	tabriak	1857_CROCODILE	manpo	manpo	m a n p o		foley2005	711
+235537	tabriak	730_SNAKE	wakɨn	wakɨn	w a k ɨ n		foley2005	21033
+235544	tabriak	1509_MOSQUITO	yaŋkun	yaŋkun	j a ŋ k u n		foley2005	21034
+235551	tabriak	2159_GROUND	anti	anti	a n t i		foley2005	21035
+235558	tabriak	675_FAECES_EXCREMENT	mɨnti	mɨnti	m ɨ n t i		foley2005	21036
+235565	tabriak	1408_HEAR	andu	andu	a n d u		foley2005	21037
+235572	tabriak	1433_HIT	kurar	kurar	k u r a r		foley2005	21038
+235579	tabriak	1336_EAT	am(b)	am	a m		foley2005	21039
+235586	tabriak	695_GO	kuria	kuria	k u r i a		foley2005	21040
+235593	tabriak	1446_COME	kurapia	kurapia	k u r a p i a		foley2005	21041
+235600	tabriak	1416_SIT	sa	sa	s a		foley2005	21042
+235606	tabriak	1202_BIG	kupa	kupa	k u p a		foley2005	21043
+235612	tabriak	1287_COLD	sarɨk	sarɨk	s a r ɨ k		foley2005	21044
+235993	tabriak	1493_ONE	mba	mba	m b a		foley2005	21094
+236000	tabriak	1498_TWO	ripay	ripay	r i p a j		foley2005	21095
+236007	tabriak	492_THREE	-rianmaw	-rianmaw	r i a n m a w		foley2005	21096
+236014	tabriak	683_PERSON	yarmasɨnar	yarmasɨnar	j a r m a s ɨ n a r		foley2005	21097
+236020	tabriak	1553_MALE	panmari	panmari	p a n m a r i		foley2005	21098
+236025	tabriak	962_WOMAN	asay	asay	a s a j		foley2005	21099
+236032	tabriak	948_WATER	arɨm	arɨm	a r ɨ m		foley2005	21100
+236039	tabriak	221_FIRE	awi	awi	a w i		foley2005	21101
+236045	tabriak	1343_SUN	sɨmari	sɨmari	s ɨ m a r i		foley2005	712
+236052	tabriak	1313_MOON	tuŋkwi	tuŋkwi	t u ŋ k w i		foley2005	21102
+236058	tabriak	1430_STAR	suŋkwiɲcirim	suŋkwiɲcirim	s u ŋ k w i ɲ c i r i m		foley2005	713
+236065	tabriak	1970_CANOE	kay	kay	k a j		foley2005	21103
+236071	tabriak	1252_HOUSE	yam	yam	j a m		foley2005	714
+236078	tabriak	930_VILLAGE	imuŋka	imuŋka	i m u ŋ k a		foley2005	21104
+236085	tabriak	1402_BREAST	ɲjay	ɲjay	ɲ j a j		foley2005	21105
+236092	tabriak	1380_TOOTH	sɨsɨŋ	sɨsɨŋ	s ɨ s ɨ ŋ		foley2005	21106
+236099	tabriak	946_BLOOD	yay	yay	j a j		foley2005	21107
+236106	tabriak	1394_BONE	tanɨm	tanɨm	t a n ɨ m		foley2005	21108
+236113	tabriak	1205_TONGUE	mumɨɲɨŋ	mumɨɲɨŋ	m u m ɨ ɲ ɨ ŋ		foley2005	21109
+236120	tabriak	1248_EYE	sampɨs	sampɨs	s a m p ɨ s		foley2005	21110
+236126	tabriak	1221_NOSE	ipun	ipun	i p u n		foley2005	715
+236132	tabriak	2098_FOOT_OR_LEG	pamuŋ	pamuŋ	p a m u ŋ		foley2005	21111
+236138	tabriak	189_HAIR_BODY	wampi	wampi	w a m p i		foley2005	716
+236145	tabriak	1247_EAR	kwandukas	kwandukas	k w a n d u k a s		foley2005	21112
+236152	tabriak	744_EGG	yawŋ	yawŋ	j a w ŋ		foley2005	21113
+236159	tabriak	628_LEAF	yimprɨm	yimprɨm	j i m p r ɨ m		foley2005	21114
+236166	tabriak	808_yesterdaytomorrow	arɨŋ	arɨŋ	a r ɨ ŋ		foley2005	21115
+236173	tabriak	3137_OAR	mɨnaŋ	mɨnaŋ	m ɨ n a ŋ		foley2005	21116
+236180	tabriak	217_BETELNUT	payn	payn	p a j n		foley2005	21117
+236187	tabriak	982_LIME_FRUIT	as	as	a s		foley2005	21118
+236194	tabriak	1337_PIG	impian	impian	i m p i a n		foley2005	21119
+236200	tabriak	1857_CROCODILE	manpo	manpo	m a n p o		foley2005	717
+236207	tabriak	730_SNAKE	wakɨn	wakɨn	w a k ɨ n		foley2005	21120
+236214	tabriak	1509_MOSQUITO	yaŋkun	yaŋkun	j a ŋ k u n		foley2005	21121
+236221	tabriak	2159_GROUND	anti	anti	a n t i		foley2005	21122
+236228	tabriak	675_FAECES_EXCREMENT	mɨnti	mɨnti	m ɨ n t i		foley2005	21123
+236235	tabriak	1408_HEAR	andu	andu	a n d u		foley2005	21124
+236242	tabriak	1433_HIT	kurar	kurar	k u r a r		foley2005	21125
+236249	tabriak	1336_EAT	am(b)	am	a m		foley2005	21126
+236256	tabriak	695_GO	kuria	kuria	k u r i a		foley2005	21127
+236263	tabriak	1446_COME	kurapia	kurapia	k u r a p i a		foley2005	21128
+236270	tabriak	1416_SIT	sa	sa	s a		foley2005	21129
+236276	tabriak	1202_BIG	kupa	kupa	k u p a		foley2005	21130
+236282	tabriak	1287_COLD	sarɨk	sarɨk	s a r ɨ k		foley2005	21131
+236289	tabriak	1209_I	ama	ama	a m a		foley2005	21132
+236296	tabriak	2304_THEE_OBLIQUE_CASE_OF_YOU	mi	mi	m i		foley2005	21133
+236303	tabriak	262_HE_OR_SHE_OR_IT	mɨn	mɨn	m ɨ n		foley2005	21134
+236311	tabriak	2634_WE_TWO	kapa	kapa	k a p a		foley2005	21135
+236318	tabriak	2111_YOU_TWO	kupa	kupa	k u p a		foley2005	21136
+236324	tabriak	817_THEY	ŋkri	ŋkri	ŋ k r i		foley2005	718
+236344	tabriak	1212_WE	apia	apia	a p i a		foley2005	21140
+236352	tabriak	2312_YOU_OBLIQUE_CASE_OF_YOU	ipa	ipa	i p a		foley2005	21141
+236360	tabriak	817_THEY	mpu	mpu	m p u		foley2005	21142
+235322	yimas	1493_ONE	mpa-	mpa-	m p a		foley2005	21007
+235329	yimas	1498_TWO	-rpal	-rpal	r p a l		foley2005	21008
+235336	yimas	492_THREE	-ramnaw	-ramnaw	r a m n a w		foley2005	21009
+235343	yimas	683_PERSON	nar-maŋ	nar-maŋ	n a r + m a ŋ		foley2005	21010
+235349	yimas	1553_MALE	panmal	panmal	p a n m a l		foley2005	21011
+235354	yimas	962_WOMAN	ŋay	ŋay	ŋ a j		foley2005	21012
+235361	yimas	948_WATER	arɨm	arɨm	a r ɨ m		foley2005	21013
+235368	yimas	221_FIRE	awt	awt	a w t		foley2005	21014
+235374	yimas	1343_SUN	tɨmal	tɨmal	t ɨ m a l		foley2005	719
+235381	yimas	1313_MOON	mɨla	mɨla	m ɨ l a		foley2005	21015
+235387	yimas	1430_STAR	awak	awak	a w a k		foley2005	720
+235394	yimas	1970_CANOE	kay	kay	k a j		foley2005	21016
+235400	yimas	1252_HOUSE	nam	nam	n a m		foley2005	721
+235407	yimas	930_VILLAGE	num	num	n u m		foley2005	21017
+235414	yimas	1402_BREAST	nɨŋay	nɨŋay	n ɨ ŋ a j		foley2005	21018
+235421	yimas	1380_TOOTH	tɨrɨŋ	tɨrɨŋ	t ɨ r ɨ ŋ		foley2005	21019
+235428	yimas	946_BLOOD	yat	yat	j a t		foley2005	21020
+235435	yimas	1394_BONE	tanɨm	tanɨm	t a n ɨ m		foley2005	21021
+235442	yimas	1205_TONGUE	mɨɲɨŋ	mɨɲɨŋ	m ɨ ɲ ɨ ŋ		foley2005	21022
+235449	yimas	1248_EYE	tuŋkuruŋ	tuŋkuruŋ	t u ŋ k u r u ŋ		foley2005	21023
+235455	yimas	1221_NOSE	tɨkay	tɨkay	t ɨ k a j		foley2005	722
+235461	yimas	2098_FOOT_OR_LEG	pamuŋ	pamuŋ	p a m u ŋ		foley2005	21024
+235467	yimas	189_HAIR_BODY	wapwi	wapwi	w a p w i		foley2005	723
+235474	yimas	1247_EAR	kwantumuŋ	kwantumuŋ	k w a n t u m u ŋ		foley2005	21025
+235481	yimas	744_EGG	awŋ	awŋ	a w ŋ		foley2005	21026
+235488	yimas	628_LEAF	nɨmprɨm	nɨmprɨm	n ɨ m p r ɨ m		foley2005	21027
+235495	yimas	808_yesterdaytomorrow	ŋarɨŋ	ŋarɨŋ	ŋ a r ɨ ŋ		foley2005	21028
+235502	yimas	3137_OAR	muraŋ	muraŋ	m u r a ŋ		foley2005	21029
+235509	yimas	217_BETELNUT	patn	patn	p a t n		foley2005	21030
+235516	yimas	982_LIME_FRUIT	awi	awi	a w i		foley2005	21031
+235523	yimas	1337_PIG	numpran	numpran	n u m p r a n		foley2005	21032
+235529	yimas	1857_CROCODILE	manpa	manpa	m a n p a		foley2005	724
+235536	yimas	730_SNAKE	wakɨn	wakɨn	w a k ɨ n		foley2005	21033
+235543	yimas	1509_MOSQUITO	naŋkun	naŋkun	n a ŋ k u n		foley2005	21034
+235550	yimas	2159_GROUND	anti	anti	a n t i		foley2005	21035
+235557	yimas	675_FAECES_EXCREMENT	mɨlɨm	mɨlɨm	m ɨ l ɨ m		foley2005	21036
+235564	yimas	1408_HEAR	andɨ	andɨ	a n d ɨ		foley2005	21037
+235571	yimas	1433_HIT	tupul	tupul	t u p u l		foley2005	21038
+235578	yimas	1336_EAT	am(b)	am	a m		foley2005	21039
+235585	yimas	695_GO	wa	wa	w a		foley2005	21040
+235592	yimas	1446_COME	ya	ya	j a		foley2005	21041
+235599	yimas	1416_SIT	tay	tay	t a j		foley2005	21042
+235605	yimas	1202_BIG	kɨpa	kɨpa	k ɨ p a		foley2005	21043
+235611	yimas	1287_COLD	tarɨk	tarɨk	t a r ɨ k		foley2005	21044
+235992	yimas	1493_ONE	mpa-	mpa-	m p a		foley2005	21094
+235999	yimas	1498_TWO	-rpal	-rpal	r p a l		foley2005	21095
+236006	yimas	492_THREE	-ramnaw	-ramnaw	r a m n a w		foley2005	21096
+236013	yimas	683_PERSON	nar-maŋ	nar-maŋ	n a r + m a ŋ		foley2005	21097
+236019	yimas	1553_MALE	panmal	panmal	p a n m a l		foley2005	21098
+236024	yimas	962_WOMAN	ŋay	ŋay	ŋ a j		foley2005	21099
+236031	yimas	948_WATER	arɨm	arɨm	a r ɨ m		foley2005	21100
+236038	yimas	221_FIRE	awt	awt	a w t		foley2005	21101
+236044	yimas	1343_SUN	tɨmal	tɨmal	t ɨ m a l		foley2005	725
+236051	yimas	1313_MOON	mɨla	mɨla	m ɨ l a		foley2005	21102
+236057	yimas	1430_STAR	awak	awak	a w a k		foley2005	726
+236064	yimas	1970_CANOE	kay	kay	k a j		foley2005	21103
+236070	yimas	1252_HOUSE	nam	nam	n a m		foley2005	727
+236077	yimas	930_VILLAGE	num	num	n u m		foley2005	21104
+236084	yimas	1402_BREAST	nɨŋay	nɨŋay	n ɨ ŋ a j		foley2005	21105
+236091	yimas	1380_TOOTH	tɨrɨŋ	tɨrɨŋ	t ɨ r ɨ ŋ		foley2005	21106
+236098	yimas	946_BLOOD	yat	yat	j a t		foley2005	21107
+236105	yimas	1394_BONE	tanɨm	tanɨm	t a n ɨ m		foley2005	21108
+236112	yimas	1205_TONGUE	mɨɲɨŋ	mɨɲɨŋ	m ɨ ɲ ɨ ŋ		foley2005	21109
+236119	yimas	1248_EYE	tuŋkuruŋ	tuŋkuruŋ	t u ŋ k u r u ŋ		foley2005	21110
+236125	yimas	1221_NOSE	tɨkay	tɨkay	t ɨ k a j		foley2005	728
+236131	yimas	2098_FOOT_OR_LEG	pamuŋ	pamuŋ	p a m u ŋ		foley2005	21111
+236137	yimas	189_HAIR_BODY	wapwi	wapwi	w a p w i		foley2005	729
+236144	yimas	1247_EAR	kwantumuŋ	kwantumuŋ	k w a n t u m u ŋ		foley2005	21112
+236151	yimas	744_EGG	awŋ	awŋ	a w ŋ		foley2005	21113
+236158	yimas	628_LEAF	nɨmprɨm	nɨmprɨm	n ɨ m p r ɨ m		foley2005	21114
+236165	yimas	808_yesterdaytomorrow	ŋarɨŋ	ŋarɨŋ	ŋ a r ɨ ŋ		foley2005	21115
+236172	yimas	3137_OAR	muraŋ	muraŋ	m u r a ŋ		foley2005	21116
+236179	yimas	217_BETELNUT	patn	patn	p a t n		foley2005	21117
+236186	yimas	982_LIME_FRUIT	awi	awi	a w i		foley2005	21118
+236193	yimas	1337_PIG	numpran	numpran	n u m p r a n		foley2005	21119
+236199	yimas	1857_CROCODILE	manpa	manpa	m a n p a		foley2005	730
+236206	yimas	730_SNAKE	wakɨn	wakɨn	w a k ɨ n		foley2005	21120
+236213	yimas	1509_MOSQUITO	naŋkun	naŋkun	n a ŋ k u n		foley2005	21121
+236220	yimas	2159_GROUND	anti	anti	a n t i		foley2005	21122
+236227	yimas	675_FAECES_EXCREMENT	mɨlɨm	mɨlɨm	m ɨ l ɨ m		foley2005	21123
+236234	yimas	1408_HEAR	andɨ	andɨ	a n d ɨ		foley2005	21124
+236241	yimas	1433_HIT	tupul	tupul	t u p u l		foley2005	21125
+236248	yimas	1336_EAT	am(b)	am	a m		foley2005	21126
+236255	yimas	695_GO	wa	wa	w a		foley2005	21127
+236262	yimas	1446_COME	ya	ya	j a		foley2005	21128
+236269	yimas	1416_SIT	tay	tay	t a j		foley2005	21129
+236275	yimas	1202_BIG	kɨpa	kɨpa	k ɨ p a		foley2005	21130
+236281	yimas	1287_COLD	tarɨk	tarɨk	t a r ɨ k		foley2005	21131
+236288	yimas	1209_I	ama	ama	a m a		foley2005	21132
+236295	yimas	2304_THEE_OBLIQUE_CASE_OF_YOU	mi	mi	m i		foley2005	21133
+236302	yimas	262_HE_OR_SHE_OR_IT	mɨn	mɨn	m ɨ n		foley2005	21134
+236309	yimas	2634_WE_TWO	kapa	kapa	k a p a		foley2005	21135
+236310	yimas	2634_WE_TWO	aŋkaa-	aŋkaa-	a ŋ k aː		foley2005	21135
+236316	yimas	2111_YOU_TWO	kapwa	kapwa	k a p w a		foley2005	21136
+236317	yimas	2111_YOU_TWO	naŋk-	naŋk-	n a ŋ k		foley2005	21136
+236322	yimas	817_THEY	impan	impan	i m p a n		foley2005	731
+236323	yimas	817_THEY	mp	mp	m p		foley2005	732
+236329	yimas	2301_1ppaucal	paŋkɨt	paŋkɨt	p a ŋ k ɨ t		foley2005	21137
+236334	yimas	2302_2ppaucal	paŋkɨt	paŋkɨt	p a ŋ k ɨ t		foley2005	21138
+236338	yimas	2303_3ppaucal	mɨŋkɨt	mɨŋkɨt	m ɨ ŋ k ɨ t		foley2005	21139
+236342	yimas	1212_WE	ipa	ipa	i p a		foley2005	21140
+236343	yimas	1212_WE	ay-	ay-	a j		foley2005	21140
+236350	yimas	2312_YOU_OBLIQUE_CASE_OF_YOU	ipwa	ipwa	i p w a		foley2005	21141
+236351	yimas	2312_YOU_OBLIQUE_CASE_OF_YOU	naŋ-	naŋ-	n a ŋ		foley2005	21141
+236358	yimas	817_THEY	mum	mum	m u m		foley2005	21142
+236359	yimas	817_THEY	(m)pu-	pu-	p u		foley2005	21142
+235324	kopar	1493_ONE	mbatep	mbatep	m b a t e p		foley2005	21007
+235331	kopar	1498_TWO	kombari	kombari	k o m b a r i		foley2005	21008
+235338	kopar	492_THREE	keremɨŋ	keremɨŋ	k e r e m ɨ ŋ		foley2005	21009
+235345	kopar	683_PERSON	nor	nor	n o r		foley2005	21010
+235356	kopar	962_WOMAN	nana	nana	n a n a		foley2005	21012
+235363	kopar	948_WATER	arɨm	arɨm	a r ɨ m		foley2005	21013
+235370	kopar	221_FIRE	awr	awr	a w r		foley2005	21014
+235376	kopar	1343_SUN	akɨn	akɨn	a k ɨ n		foley2005	733
+235383	kopar	1313_MOON	karep	karep	k a r e p		foley2005	21015
+235389	kopar	1430_STAR	kinaŋ	kinaŋ	k i n a ŋ		foley2005	734
+235396	kopar	1970_CANOE	kain	kain	k a i n		foley2005	21016
+235402	kopar	1252_HOUSE	indan	indan	i n d a n		foley2005	735
+235409	kopar	930_VILLAGE	numot	numot	n u m o t		foley2005	21017
+235416	kopar	1402_BREAST	niŋgin	niŋgin	n i ŋ g i n		foley2005	21018
+235423	kopar	1380_TOOTH	asirap	asirap	a s i r a p		foley2005	21019
+235430	kopar	946_BLOOD	yuwaran	yuwaran	j u w a r a n		foley2005	21020
+235437	kopar	1394_BONE	sarekimp	sarekimp	s a r e k i m p		foley2005	21021
+235444	kopar	1205_TONGUE	mimiŋ	mimiŋ	m i m i ŋ		foley2005	21022
+235451	kopar	1248_EYE	nambrin	nambrin	n a m b r i n		foley2005	21023
+235457	kopar	1221_NOSE	imbot	imbot	i m b o t		foley2005	736
+235463	kopar	2098_FOOT_OR_LEG	namɨŋ	namɨŋ	n a m ɨ ŋ		foley2005	21024
+235469	kopar	189_HAIR_BODY	ruar	ruar	r u a r		foley2005	737
+235476	kopar	1247_EAR	kundot	kundot	k u n d o t		foley2005	21025
+235483	kopar	744_EGG	awŋ	awŋ	a w ŋ		foley2005	21026
+235490	kopar	628_LEAF	nɨmbiraŋ	nɨmbiraŋ	n ɨ m b i r a ŋ		foley2005	21027
+235497	kopar	808_yesterdaytomorrow	rari	rari	r a r i		foley2005	21028
+235504	kopar	3137_OAR	naŋ	naŋ	n a ŋ		foley2005	21029
+235511	kopar	217_BETELNUT	puruŋ	puruŋ	p u r u ŋ		foley2005	21030
+235518	kopar	982_LIME_FRUIT	air	air	a i r		foley2005	21031
+235525	kopar	1337_PIG	nɨmbren	nɨmbren	n ɨ m b r e n		foley2005	21032
+235531	kopar	1857_CROCODILE	uri	uri	u r i		foley2005	738
+235538	kopar	730_SNAKE	ikun	ikun	i k u n		foley2005	21033
+235545	kopar	1509_MOSQUITO	nangɨt	nangɨt	n a n g ɨ t		foley2005	21034
+235552	kopar	2159_GROUND	andin	andin	a n d i n		foley2005	21035
+235559	kopar	675_FAECES_EXCREMENT	mɨndɨ	mɨndɨ	m ɨ n d ɨ		foley2005	21036
+235566	kopar	1408_HEAR	nda	nda	n d a		foley2005	21037
+235573	kopar	1433_HIT	nɨŋ	nɨŋ	n ɨ ŋ		foley2005	21038
+235580	kopar	1336_EAT	ma	ma	m a		foley2005	21039
+235587	kopar	695_GO	wa	wa	w a		foley2005	21040
+235594	kopar	1446_COME	ya	ya	j a		foley2005	21041
+235601	kopar	1416_SIT	nda	nda	n d a		foley2005	21042
+235607	kopar	1202_BIG	kapu	kapu	k a p u		foley2005	21043
+235613	kopar	1287_COLD	sarapakin	sarapakin	s a r a p a k i n		foley2005	21044
+235994	kopar	1493_ONE	mbatep	mbatep	m b a t e p		foley2005	21094
+236001	kopar	1498_TWO	kombari	kombari	k o m b a r i		foley2005	21095
+236008	kopar	492_THREE	keremɨŋ	keremɨŋ	k e r e m ɨ ŋ		foley2005	21096
+236015	kopar	683_PERSON	nor	nor	n o r		foley2005	21097
+236026	kopar	962_WOMAN	nana	nana	n a n a		foley2005	21099
+236033	kopar	948_WATER	arɨm	arɨm	a r ɨ m		foley2005	21100
+236040	kopar	221_FIRE	awr	awr	a w r		foley2005	21101
+236046	kopar	1343_SUN	akɨn	akɨn	a k ɨ n		foley2005	739
+236053	kopar	1313_MOON	karep	karep	k a r e p		foley2005	21102
+236059	kopar	1430_STAR	kinaŋ	kinaŋ	k i n a ŋ		foley2005	740
+236066	kopar	1970_CANOE	kain	kain	k a i n		foley2005	21103
+236072	kopar	1252_HOUSE	indan	indan	i n d a n		foley2005	741
+236079	kopar	930_VILLAGE	numot	numot	n u m o t		foley2005	21104
+236086	kopar	1402_BREAST	niŋgin	niŋgin	n i ŋ g i n		foley2005	21105
+236093	kopar	1380_TOOTH	asirap	asirap	a s i r a p		foley2005	21106
+236100	kopar	946_BLOOD	yuwaran	yuwaran	j u w a r a n		foley2005	21107
+236107	kopar	1394_BONE	sarekimp	sarekimp	s a r e k i m p		foley2005	21108
+236114	kopar	1205_TONGUE	mimiŋ	mimiŋ	m i m i ŋ		foley2005	21109
+236121	kopar	1248_EYE	nambrin	nambrin	n a m b r i n		foley2005	21110
+236127	kopar	1221_NOSE	imbot	imbot	i m b o t		foley2005	742
+236133	kopar	2098_FOOT_OR_LEG	namɨŋ	namɨŋ	n a m ɨ ŋ		foley2005	21111
+236139	kopar	189_HAIR_BODY	ruar	ruar	r u a r		foley2005	743
+236146	kopar	1247_EAR	kundot	kundot	k u n d o t		foley2005	21112
+236153	kopar	744_EGG	awŋ	awŋ	a w ŋ		foley2005	21113
+236160	kopar	628_LEAF	nɨmbiraŋ	nɨmbiraŋ	n ɨ m b i r a ŋ		foley2005	21114
+236167	kopar	808_yesterdaytomorrow	rari	rari	r a r i		foley2005	21115
+236174	kopar	3137_OAR	naŋ	naŋ	n a ŋ		foley2005	21116
+236181	kopar	217_BETELNUT	puruŋ	puruŋ	p u r u ŋ		foley2005	21117
+236188	kopar	982_LIME_FRUIT	air	air	a i r		foley2005	21118
+236195	kopar	1337_PIG	nɨmbren	nɨmbren	n ɨ m b r e n		foley2005	21119
+236201	kopar	1857_CROCODILE	uri	uri	u r i		foley2005	744
+236208	kopar	730_SNAKE	ikun	ikun	i k u n		foley2005	21120
+236215	kopar	1509_MOSQUITO	nangɨt	nangɨt	n a n g ɨ t		foley2005	21121
+236222	kopar	2159_GROUND	andin	andin	a n d i n		foley2005	21122
+236229	kopar	675_FAECES_EXCREMENT	mɨndɨ	mɨndɨ	m ɨ n d ɨ		foley2005	21123
+236236	kopar	1408_HEAR	nda	nda	n d a		foley2005	21124
+236243	kopar	1433_HIT	nɨŋ	nɨŋ	n ɨ ŋ		foley2005	21125
+236250	kopar	1336_EAT	ma	ma	m a		foley2005	21126
+236257	kopar	695_GO	wa	wa	w a		foley2005	21127
+236264	kopar	1446_COME	ya	ya	j a		foley2005	21128
+236271	kopar	1416_SIT	nda	nda	n d a		foley2005	21129
+236277	kopar	1202_BIG	kapu	kapu	k a p u		foley2005	21130
+236283	kopar	1287_COLD	sarapakin	sarapakin	s a r a p a k i n		foley2005	21131
+236290	kopar	1209_I	ma	ma	m a		foley2005	21132
+236297	kopar	2304_THEE_OBLIQUE_CASE_OF_YOU	mi	mi	m i		foley2005	21133
+236304	kopar	262_HE_OR_SHE_OR_IT	mu	mu	m u		foley2005	21134
+236312	kopar	2634_WE_TWO	ke	ke	k e		foley2005	21135
+236319	kopar	2111_YOU_TWO	ko	ko	k o		foley2005	21136
+236325	kopar	817_THEY	mbɨ	mbɨ	m b ɨ		foley2005	745
+236330	kopar	2301_1ppaucal	paŋgɨ	paŋgɨ	p a ŋ g ɨ		foley2005	21137
+236335	kopar	2302_2ppaucal	ŋgu	ŋgu	ŋ g u		foley2005	21138
+236339	kopar	2303_3ppaucal	mɨŋgɨ	mɨŋgɨ	m ɨ ŋ g ɨ		foley2005	21139
+236345	kopar	1212_WE	e	e	e		foley2005	21140
+236353	kopar	2312_YOU_OBLIQUE_CASE_OF_YOU	o	o	o		foley2005	21141
+236361	kopar	817_THEY	mbu	mbu	m b u		foley2005	21142
+235320	murik	1493_ONE	abe	abe	a b e		foley2005	21007
+235327	murik	1498_TWO	kobo	kobo	k o b o		foley2005	21008
+235334	murik	492_THREE	keroŋgo	keroŋgo	k e r o ŋ g o		foley2005	21009
+235341	murik	683_PERSON	nor	nor	n o r		foley2005	21010
+235347	murik	1553_MALE	puin	puin	p u i n		foley2005	21011
+235352	murik	962_WOMAN	ŋai	ŋai	ŋ a i		foley2005	21012
+235359	murik	948_WATER	arɨm	arɨm	a r ɨ m		foley2005	21013
+235366	murik	221_FIRE	awr	awr	a w r		foley2005	21014
+235373	murik	1343_SUN	akɨn	akɨn	a k ɨ n		foley2005	746
+235379	murik	1313_MOON	karewan	karewan	k a r e w a n		foley2005	21015
+235386	murik	1430_STAR	moai	moai	m o a i		foley2005	747
+235392	murik	1970_CANOE	gain	gain	g a i n		foley2005	21016
+235399	murik	1252_HOUSE	iran	iran	i r a n		foley2005	748
+235405	murik	930_VILLAGE	nomot	nomot	n o m o t		foley2005	21017
+235412	murik	1402_BREAST	niŋgen	niŋgen	n i ŋ g e n		foley2005	21018
+235419	murik	1380_TOOTH	asarap	asarap	a s a r a p		foley2005	21019
+235426	murik	946_BLOOD	yaran	yaran	j a r a n		foley2005	21020
+235433	murik	1394_BONE	sariŋi̩b	sariŋi̩b	s a r i ŋ i b		foley2005	21021
+235440	murik	1205_TONGUE	menɨŋ	menɨŋ	m e n ɨ ŋ		foley2005	21022
+235447	murik	1248_EYE	nabrin	nabrin	n a b r i n		foley2005	21023
+235454	murik	1221_NOSE	daur	daur	d a u r		foley2005	749
+235466	murik	189_HAIR_BODY	dear	dear	d e a r		foley2005	750
+235472	murik	1247_EAR	karekep	karekep	k a r e k e p		foley2005	21025
+235479	murik	744_EGG	gaug	gaug	g a u g		foley2005	21026
+235486	murik	628_LEAF	nabirɨk	nabirɨk	n a b i r ɨ k		foley2005	21027
+235493	murik	808_yesterdaytomorrow	ŋarɨŋ	ŋarɨŋ	ŋ a r ɨ ŋ		foley2005	21028
+235500	murik	3137_OAR	inaŋ	inaŋ	i n a ŋ		foley2005	21029
+235507	murik	217_BETELNUT	porog	porog	p o r o g		foley2005	21030
+235514	murik	982_LIME_FRUIT	air	air	a i r		foley2005	21031
+235521	murik	1337_PIG	nɨmbren	nɨmbren	n ɨ m b r e n		foley2005	21032
+235528	murik	1857_CROCODILE	oramen	oramen	o r a m e n		foley2005	751
+235534	murik	730_SNAKE	wakɨn	wakɨn	w a k ɨ n		foley2005	21033
+235541	murik	1509_MOSQUITO	nauk	nauk	n a u k		foley2005	21034
+235548	murik	2159_GROUND	agin	agin	a g i n		foley2005	21035
+235555	murik	675_FAECES_EXCREMENT	mɨndɨn	mɨndɨn	m ɨ n d ɨ n		foley2005	21036
+235562	murik	1408_HEAR	dɨn	dɨn	d ɨ n		foley2005	21037
+235569	murik	1433_HIT	di	di	d i		foley2005	21038
+235576	murik	1336_EAT	mɨn	mɨn	m ɨ n		foley2005	21039
+235583	murik	695_GO	on	on	o n		foley2005	21040
+235590	murik	1446_COME	ya	ya	j a		foley2005	21041
+235597	murik	1416_SIT	sa	sa	s a		foley2005	21042
+235603	murik	1202_BIG	apo	apo	a p o		foley2005	21043
+235990	murik	1493_ONE	abe	abe	a b e		foley2005	21094
+235997	murik	1498_TWO	kobo	kobo	k o b o		foley2005	21095
+236004	murik	492_THREE	keroŋgo	keroŋgo	k e r o ŋ g o		foley2005	21096
+236011	murik	683_PERSON	nor	nor	n o r		foley2005	21097
+236017	murik	1553_MALE	puin	puin	p u i n		foley2005	21098
+236022	murik	962_WOMAN	ŋai	ŋai	ŋ a i		foley2005	21099
+236029	murik	948_WATER	arɨm	arɨm	a r ɨ m		foley2005	21100
+236036	murik	221_FIRE	awr	awr	a w r		foley2005	21101
+236043	murik	1343_SUN	akɨn	akɨn	a k ɨ n		foley2005	752
+236049	murik	1313_MOON	karewan	karewan	k a r e w a n		foley2005	21102
+236056	murik	1430_STAR	moai	moai	m o a i		foley2005	753
+236062	murik	1970_CANOE	gain	gain	g a i n		foley2005	21103
+236069	murik	1252_HOUSE	iran	iran	i r a n		foley2005	754
+236075	murik	930_VILLAGE	nomot	nomot	n o m o t		foley2005	21104
+236082	murik	1402_BREAST	niŋgen	niŋgen	n i ŋ g e n		foley2005	21105
+236089	murik	1380_TOOTH	asarap	asarap	a s a r a p		foley2005	21106
+236096	murik	946_BLOOD	yaran	yaran	j a r a n		foley2005	21107
+236103	murik	1394_BONE	sariŋi̩b	sariŋi̩b	s a r i ŋ i b		foley2005	21108
+236110	murik	1205_TONGUE	menɨŋ	menɨŋ	m e n ɨ ŋ		foley2005	21109
+236117	murik	1248_EYE	nabrin	nabrin	n a b r i n		foley2005	21110
+236124	murik	1221_NOSE	daur	daur	d a u r		foley2005	755
+236136	murik	189_HAIR_BODY	dear	dear	d e a r		foley2005	756
+236142	murik	1247_EAR	karekep	karekep	k a r e k e p		foley2005	21112
+236149	murik	744_EGG	gaug	gaug	g a u g		foley2005	21113
+236156	murik	628_LEAF	nabirɨk	nabirɨk	n a b i r ɨ k		foley2005	21114
+236163	murik	808_yesterdaytomorrow	ŋarɨŋ	ŋarɨŋ	ŋ a r ɨ ŋ		foley2005	21115
+236170	murik	3137_OAR	inaŋ	inaŋ	i n a ŋ		foley2005	21116
+236177	murik	217_BETELNUT	porog	porog	p o r o g		foley2005	21117
+236184	murik	982_LIME_FRUIT	air	air	a i r		foley2005	21118
+236191	murik	1337_PIG	nɨmbren	nɨmbren	n ɨ m b r e n		foley2005	21119
+236198	murik	1857_CROCODILE	oramen	oramen	o r a m e n		foley2005	757
+236204	murik	730_SNAKE	wakɨn	wakɨn	w a k ɨ n		foley2005	21120
+236211	murik	1509_MOSQUITO	nauk	nauk	n a u k		foley2005	21121
+236218	murik	2159_GROUND	agin	agin	a g i n		foley2005	21122
+236225	murik	675_FAECES_EXCREMENT	mɨndɨn	mɨndɨn	m ɨ n d ɨ n		foley2005	21123
+236232	murik	1408_HEAR	dɨn	dɨn	d ɨ n		foley2005	21124
+236239	murik	1433_HIT	di	di	d i		foley2005	21125
+236246	murik	1336_EAT	mɨn	mɨn	m ɨ n		foley2005	21126
+236253	murik	695_GO	on	on	o n		foley2005	21127
+236260	murik	1446_COME	ya	ya	j a		foley2005	21128
+236267	murik	1416_SIT	sa	sa	s a		foley2005	21129
+236273	murik	1202_BIG	apo	apo	a p o		foley2005	21130
+236286	murik	1209_I	ma	ma	m a		foley2005	21132
+236293	murik	2304_THEE_OBLIQUE_CASE_OF_YOU	mi	mi	m i		foley2005	21133
+236300	murik	262_HE_OR_SHE_OR_IT	mɨn	mɨn	m ɨ n		foley2005	21134
+236307	murik	2634_WE_TWO	gai	gai	g a i		foley2005	21135
+236314	murik	2111_YOU_TWO	gau	gau	g a u		foley2005	21136
+236321	murik	817_THEY	mɨndɨmbɨ	mɨndɨmbɨ	m ɨ n d ɨ m b ɨ		foley2005	758
+236327	murik	2301_1ppaucal	agi	agi	a g i		foley2005	21137
+236332	murik	2302_2ppaucal	agu	agu	a g u		foley2005	21138
+236336	murik	2303_3ppaucal	mɨŋgɨ	mɨŋgɨ	m ɨ ŋ g ɨ		foley2005	21139
+236340	murik	1212_WE	e	e	e		foley2005	21140
+236348	murik	2312_YOU_OBLIQUE_CASE_OF_YOU	o	o	o		foley2005	21141
+236356	murik	817_THEY	moa	moa	m o a		foley2005	21142
+235321	proto-lower-sepik	1493_ONE	*mb(w)ia-	*mbia-	m b i a		foley2005	21007
+235328	proto-lower-sepik	1498_TWO	*ri-pa-	*ri-pa-	r i + p a		foley2005	21008
+235335	proto-lower-sepik	492_THREE	*-ram	*-ram	r a m		foley2005	21009
+235342	proto-lower-sepik	683_PERSON	*nor	*nor	n o r		foley2005	21010
+235348	proto-lower-sepik	1553_MALE	*pon	*pon	p o n		foley2005	21011
+235353	proto-lower-sepik	962_WOMAN	*ŋay	*ŋay	ŋ a j		foley2005	21012
+235360	proto-lower-sepik	948_WATER	*arɨm	*arɨm	a r ɨ m		foley2005	21013
+235367	proto-lower-sepik	221_FIRE	*awr	*awr	a w r		foley2005	21014
+235380	proto-lower-sepik	1313_MOON	*?*m(w)il	*?*mil	m i l		foley2005	21015
+235393	proto-lower-sepik	1970_CANOE	*kay	*kay	k a j		foley2005	21016
+235406	proto-lower-sepik	930_VILLAGE	*num	*num	n u m		foley2005	21017
+235413	proto-lower-sepik	1402_BREAST	*nɨŋgay	*nɨŋgay	n ɨ ŋ g a j		foley2005	21018
+235420	proto-lower-sepik	1380_TOOTH	*?*sisiŋk	*?*sisiŋk	s i s i ŋ k		foley2005	21019
+235427	proto-lower-sepik	946_BLOOD	*ya-	*ya-	j a		foley2005	21020
+235434	proto-lower-sepik	1394_BONE	*sariŋamp	*sariŋamp	s a r i ŋ a m p		foley2005	21021
+235441	proto-lower-sepik	1205_TONGUE	*minɨŋ	*minɨŋ	m i n ɨ ŋ		foley2005	21022
+235448	proto-lower-sepik	1248_EYE	*tambri	*tambri	t a m b r i		foley2005	21023
+235460	proto-lower-sepik	2098_FOOT_OR_LEG	*namuŋk	*namuŋk	n a m u ŋ k		foley2005	21024
+235473	proto-lower-sepik	1247_EAR	*kwand-	*kwand-	k w a n d		foley2005	21025
+235480	proto-lower-sepik	744_EGG	*awŋ	*awŋ	a w ŋ		foley2005	21026
+235487	proto-lower-sepik	628_LEAF	*nɨmpramp	*nɨmpramp	n ɨ m p r a m p		foley2005	21027
+235494	proto-lower-sepik	808_yesterdaytomorrow	*ŋarɨŋ	*ŋarɨŋ	ŋ a r ɨ ŋ		foley2005	21028
+235501	proto-lower-sepik	3137_OAR	*(mɨ)naŋ	*naŋ	n a ŋ		foley2005	21029
+235508	proto-lower-sepik	217_BETELNUT	*poruŋ	*poruŋ	p o r u ŋ		foley2005	21030
+235515	proto-lower-sepik	982_LIME_FRUIT	*awi(r)	*awi	a w i		foley2005	21031
+235522	proto-lower-sepik	1337_PIG	*numpran	*numpran	n u m p r a n		foley2005	21032
+235535	proto-lower-sepik	730_SNAKE	*wakɨn	*wakɨn	w a k ɨ n		foley2005	21033
+235542	proto-lower-sepik	1509_MOSQUITO	*naŋgun	*naŋgun	n a ŋ g u n		foley2005	21034
+235549	proto-lower-sepik	2159_GROUND	*andi	*andi	a n d i		foley2005	21035
+235556	proto-lower-sepik	675_FAECES_EXCREMENT	*mɨndi	*mɨndi	m ɨ n d i		foley2005	21036
+235563	proto-lower-sepik	1408_HEAR	*and-	*and-	a n d		foley2005	21037
+235570	proto-lower-sepik	1433_HIT	*di	*di	d i		foley2005	21038
+235577	proto-lower-sepik	1336_EAT	*am(b)	*am	a m		foley2005	21039
+235584	proto-lower-sepik	695_GO	*wa	*wa	w a		foley2005	21040
+235591	proto-lower-sepik	1446_COME	*ya	*ya	j a		foley2005	21041
+235598	proto-lower-sepik	1416_SIT	*sa	*sa	s a		foley2005	21042
+235604	proto-lower-sepik	1202_BIG	*kupa	*kupa	k u p a		foley2005	21043
+235610	proto-lower-sepik	1287_COLD	*sarV-	*sarV-	s a r V/ə		foley2005	21044
+235991	proto-lower-sepik	1493_ONE	*mb(w)ia-	*mbia-	m b i a		foley2005	21094
+235998	proto-lower-sepik	1498_TWO	*ri-pa-	*ri-pa-	r i + p a		foley2005	21095
+236005	proto-lower-sepik	492_THREE	*-ram	*-ram	r a m		foley2005	21096
+236012	proto-lower-sepik	683_PERSON	*nor	*nor	n o r		foley2005	21097
+236018	proto-lower-sepik	1553_MALE	*pon	*pon	p o n		foley2005	21098
+236023	proto-lower-sepik	962_WOMAN	*ŋay	*ŋay	ŋ a j		foley2005	21099
+236030	proto-lower-sepik	948_WATER	*arɨm	*arɨm	a r ɨ m		foley2005	21100
+236037	proto-lower-sepik	221_FIRE	*awr	*awr	a w r		foley2005	21101
+236050	proto-lower-sepik	1313_MOON	*?*m(w)il	*?*mil	m i l		foley2005	21102
+236063	proto-lower-sepik	1970_CANOE	*kay	*kay	k a j		foley2005	21103
+236076	proto-lower-sepik	930_VILLAGE	*num	*num	n u m		foley2005	21104
+236083	proto-lower-sepik	1402_BREAST	*nɨŋgay	*nɨŋgay	n ɨ ŋ g a j		foley2005	21105
+236090	proto-lower-sepik	1380_TOOTH	*?*sisiŋk	*?*sisiŋk	s i s i ŋ k		foley2005	21106
+236097	proto-lower-sepik	946_BLOOD	*ya-	*ya-	j a		foley2005	21107
+236104	proto-lower-sepik	1394_BONE	*sariŋamp	*sariŋamp	s a r i ŋ a m p		foley2005	21108
+236111	proto-lower-sepik	1205_TONGUE	*minɨŋ	*minɨŋ	m i n ɨ ŋ		foley2005	21109
+236118	proto-lower-sepik	1248_EYE	*tambri	*tambri	t a m b r i		foley2005	21110
+236130	proto-lower-sepik	2098_FOOT_OR_LEG	*namuŋk	*namuŋk	n a m u ŋ k		foley2005	21111
+236143	proto-lower-sepik	1247_EAR	*kwand-	*kwand-	k w a n d		foley2005	21112
+236150	proto-lower-sepik	744_EGG	*awŋ	*awŋ	a w ŋ		foley2005	21113
+236157	proto-lower-sepik	628_LEAF	*nɨmpramp	*nɨmpramp	n ɨ m p r a m p		foley2005	21114
+236164	proto-lower-sepik	808_yesterdaytomorrow	*ŋarɨŋ	*ŋarɨŋ	ŋ a r ɨ ŋ		foley2005	21115
+236171	proto-lower-sepik	3137_OAR	*(mɨ)naŋ	*naŋ	n a ŋ		foley2005	21116
+236178	proto-lower-sepik	217_BETELNUT	*poruŋ	*poruŋ	p o r u ŋ		foley2005	21117
+236185	proto-lower-sepik	982_LIME_FRUIT	*awi(r)	*awi	a w i		foley2005	21118
+236192	proto-lower-sepik	1337_PIG	*numpran	*numpran	n u m p r a n		foley2005	21119
+236205	proto-lower-sepik	730_SNAKE	*wakɨn	*wakɨn	w a k ɨ n		foley2005	21120
+236212	proto-lower-sepik	1509_MOSQUITO	*naŋgun	*naŋgun	n a ŋ g u n		foley2005	21121
+236219	proto-lower-sepik	2159_GROUND	*andi	*andi	a n d i		foley2005	21122
+236226	proto-lower-sepik	675_FAECES_EXCREMENT	*mɨndi	*mɨndi	m ɨ n d i		foley2005	21123
+236233	proto-lower-sepik	1408_HEAR	*and-	*and-	a n d		foley2005	21124
+236240	proto-lower-sepik	1433_HIT	*di	*di	d i		foley2005	21125
+236247	proto-lower-sepik	1336_EAT	*am(b)	*am	a m		foley2005	21126
+236254	proto-lower-sepik	695_GO	*wa	*wa	w a		foley2005	21127
+236261	proto-lower-sepik	1446_COME	*ya	*ya	j a		foley2005	21128
+236268	proto-lower-sepik	1416_SIT	*sa	*sa	s a		foley2005	21129
+236274	proto-lower-sepik	1202_BIG	*kupa	*kupa	k u p a		foley2005	21130
+236280	proto-lower-sepik	1287_COLD	*sarV-	*sarV-	s a r V/ə		foley2005	21131
+236287	proto-lower-sepik	1209_I	*ama	*ama	a m a		foley2005	21132
+236294	proto-lower-sepik	2304_THEE_OBLIQUE_CASE_OF_YOU	*mi	*mi	m i		foley2005	21133
+236301	proto-lower-sepik	262_HE_OR_SHE_OR_IT	*mɨn	*mɨn	m ɨ n		foley2005	21134
+236308	proto-lower-sepik	2634_WE_TWO	*ka-(pa)-i	*ka--i	k a + i		foley2005	21135
+236315	proto-lower-sepik	2111_YOU_TWO	*ka-(pa)-u	*ka--u	k a + u		foley2005	21136
+236328	proto-lower-sepik	2301_1ppaucal	*(pa)ŋk-i	*ŋk-i	ŋ k + i		foley2005	21137
+236333	proto-lower-sepik	2302_2ppaucal	*(pa)ŋk-u ?	*ŋk-u_?	ŋ k + u		foley2005	21138
+236337	proto-lower-sepik	2303_3ppaucal	*mɨŋkɨ	*mɨŋkɨ	m ɨ ŋ k ɨ		foley2005	21139
+236341	proto-lower-sepik	1212_WE	*a-(pa)-i	*a--i	a + i		foley2005	21140
+236349	proto-lower-sepik	2312_YOU_OBLIQUE_CASE_OF_YOU	*a-(pa)-u	*a--u	a + u		foley2005	21141
+236357	proto-lower-sepik	817_THEY	*mump?	*mump?	m u m p		foley2005	21142
+237591	alamblak	1493_ONE	rpa	rpa	r p a		foley2005	759
+237599	alamblak	492_THREE	hosfrpa	hosfrpa	h o s f r p a		foley2005	760
+237608	alamblak	1554_MAN	yima	yima	j i m a		foley2005	761
+237616	alamblak	948_WATER	bu-pam	bu-pam	b u + p a m		foley2005	762
+237624	alamblak	2108_RAINING_OR_RAIN	bu	bu	b u		foley2005	763
+237632	alamblak	221_FIRE	kaɣ	kaɣ	k a ɣ		foley2005	764
+237640	alamblak	1343_SUN	mar	mar	m a r		foley2005	765
+237648	alamblak	1313_MOON	yam	yam	j a m		foley2005	766
+237655	alamblak	1252_HOUSE	kuɲ	kuɲ	k u ɲ		foley2005	767
+237662	alamblak	930_VILLAGE	kmi	kmi	k m i		foley2005	768
+237670	alamblak	1402_BREAST	niŋgam	niŋgam	n i ŋ g a m		foley2005	769
+237678	alamblak	1380_TOOTH	biʃə	biʃə	b i ʃ ə		foley2005	770
+237687	alamblak	1394_BONE	tɨpi	tɨpi	t ɨ p i		foley2005	771
+237695	alamblak	1205_TONGUE	tor	tor	t o r		foley2005	772
+237703	alamblak	1248_EYE	ɲinga	ɲinga	ɲ i n g a		foley2005	773
+237711	alamblak	1221_NOSE	kusm	kusm	k u s m		foley2005	774
+237719	alamblak	2098_FOOT_OR_LEG	wura	wura	w u r a		foley2005	775
+237727	alamblak	1247_EAR	yimbɣindang	yimbɣindang	j i m b ɣ i n d a n g		foley2005	776
+237734	alamblak	744_EGG	fɣa	fɣa	f ɣ a		foley2005	777
+237743	alamblak	906_TREE	mɨy	mɨy	m ɨ j		foley2005	778
+237748	alamblak	1405_NAME	yufa	yufa	j u f a		foley2005	779
+237755	alamblak	1337_PIG	fəɣ	fəɣ	f ə ɣ		foley2005	780
+237764	alamblak	2009_DOG	yawi	yawi	j a w i		foley2005	781
+237770	alamblak	730_SNAKE	nandəm	nandəm	n a n d ə m		foley2005	782
+237776	alamblak	1509_MOSQUITO	yow	yow	j o w		foley2005	783
+237784	alamblak	1392_LOUSE	nəm	nəm	n ə m		foley2005	784
+237789	alamblak	675_FAECES_EXCREMENT	ri	ri	r i		foley2005	785
+237797	alamblak	1409_SEE	ɣɨti	ɣɨti	ɣ ɨ t i		foley2005	786
+237805	alamblak	1336_EAT	fa	fa	f a		foley2005	787
+237806	alamblak	1336_EAT	ka	ka	k a		foley2005	788
+237807	alamblak	1336_EAT	ye	ye	j e		foley2005	789
+237816	alamblak	695_GO	yi	yi	j i		foley2005	790
+237825	alamblak	1446_COME	nayay	nayay	n a j a j		foley2005	791
+237832	alamblak	1416_SIT	roɣ	roɣ	r o ɣ		foley2005	792
+237838	alamblak	1442_STAND	təɣ	təɣ	t ə ɣ		foley2005	793
+237846	alamblak	1209_I	na	na	n a		foley2005	794
+237854	alamblak	2304_THEE_OBLIQUE_CASE_OF_YOU	ni	ni	n i		foley2005	795
+237865	alamblak	262_HE_OR_SHE_OR_IT	rə-r	rə-r	r ə + r		foley2005	796
+237874	alamblak	262_HE_OR_SHE_OR_IT	rə-t	rə-t	r ə + t		foley2005	797
+237884	alamblak	2634_WE_TWO	nə	nə	n ə		foley2005	798
+237893	alamblak	2111_YOU_TWO	nifɨn	nifɨn	n i f ɨ n		foley2005	799
+237902	alamblak	817_THEY	rə-f	rə-f	r ə + f		foley2005	800
+237911	alamblak	1212_WE	nə-m	nə-m	n ə + m		foley2005	801
+237919	alamblak	2312_YOU_OBLIQUE_CASE_OF_YOU	nikə-m	nikə-m	n i k ə + m		foley2005	802
+237928	alamblak	817_THEY	rə-m	rə-m	r ə + m		foley2005	803

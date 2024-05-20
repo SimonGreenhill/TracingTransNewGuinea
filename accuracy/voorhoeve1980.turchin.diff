@@ -1,0 +1,3931 @@
+Concept: 1084_CALL, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-pirimapun  	jete	   1	   1
+asmat-central-keenakap-namen     	jate	   1	   1
+asmat-central-simai-ayam         	jete	   1	   1
+asmat-central-mismam-suru        	jate	   1	   1
+asmat-central-mismam-yepem       	jate	   1	   1
+asmat-central-keenok-komar       	jer 	   1	   3
+asmat-central-sokoni             	jere	   1	   3
+asmat-central-mecamup-omanesep   	ate 	   1	   4
+asmat-central-mismam-suru        	ate 	   1	   4
+asmat-central-mismam-yepem       	ate 	   1	   4
+#
+Concept: 10_FIREWOOD, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-aorket     	jisa  	   1	   1
+asmat-casuarina-coast-masin      	jü/usa	   1	   1
+asmat-casuarina-coast-pirimapun  	jisa  	   1	   1
+asmat-casuarina-coast-tareo      	jisa  	   1	   1
+asmat-central-kainak-atat        	jis   	   1	   1
+asmat-central-kainak-yamas       	jis   	   1	   1
+asmat-central-keenakap-namen     	jü/us 	   1	   1
+asmat-central-keenakap-yaosakor  	jis   	   1	   1
+asmat-central-keenok-komar       	jis   	   1	   1
+asmat-central-keenok-manep       	jis   	   1	   1
+asmat-central-keenok-sawa-erma   	jis   	   1	   1
+asmat-central-mecamup-kawet      	jis   	   1	   1
+asmat-central-mismam-per         	jis   	   1	   1
+asmat-central-mismam-suru        	jis   	   1	   1
+asmat-central-mismam-yepem       	jis   	   1	   1
+asmat-central-simai-ayam         	jis   	   1	   1
+asmat-north-momogo               	jise  	   1	   1
+asmat-north-pupis                	jü/usa	   1	   1
+citak-brazza-river               	jisa  	   1	   1
+asmat-casuarina-coast-otenep     	isa   	   1	   3
+asmat-central-mecamup-omanesep   	is    	   1	   3
+asmat-central-mecamup-yow        	is    	   1	   3
+citak-citak-senggo               	isa   	   1	   3
+#
+Concept: 1128_ORDER, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-pirimapun  	jirmet+jirim	   1	   1
+asmat-central-keenakap-namen     	jirim+jirim 	   1	   1
+asmat-central-keenok-komar       	jirmer+jirim	   1	   1
+asmat-central-mismam-suru        	jirmuc+jirim	   1	   1
+asmat-central-simai-ayam         	jirmec+jirim	   1	   1
+citak-citak-senggo               	zirim+zirim 	   1	   6
+#
+Concept: 1142_URINE, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-masin      	ji	   1	   1
+asmat-casuarina-coast-pirimapun  	ji	   1	   1
+asmat-casuarina-coast-tareo      	ji	   1	   1
+asmat-central-keenok-komar       	iː	   1	   4
+asmat-central-keenok-manep       	iː	   1	   4
+asmat-central-keenok-sawa-erma   	iː	   1	   4
+asmat-central-mecamup-omanesep   	i 	   1	   4
+asmat-central-mecamup-yow        	i 	   1	   4
+asmat-central-mine               	i 	   1	   4
+asmat-central-mismam-per         	i 	   1	   4
+asmat-central-mismam-suru        	i 	   1	   4
+asmat-central-mismam-uwus        	i 	   1	   4
+asmat-central-mismam-yepem       	i 	   1	   4
+asmat-central-simai-ayam         	i 	   1	   4
+asmat-central-sokoni             	i 	   1	   4
+citak-citak-senggo               	iː	   1	   4
+#
+Concept: 1175_GHOST, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-pirimapun  	nat  	   1	   1
+asmat-central-mecamup-yow        	net  	   1	   1
+asmat-central-mismam-suru        	net  	   1	   1
+asmat-central-mismam-yepem       	net  	   1	   1
+asmat-central-simai-ayam         	net  	   1	   1
+asmat-central-keenakap-namen     	miü/u	   2	   2
+asmat-central-keenok-komar       	miː  	   2	   2
+asmat-central-mismam-suru        	miw  	   2	   8
+asmat-central-mismam-yepem       	miw  	   2	   8
+asmat-central-simai-ayam         	miw  	   2	   8
+#
+Concept: 1199_WIFE, False Positives: no, False Negatives: yes
+asmat-central-kainak-atat        	em 	   1	   1
+asmat-central-keenakap-namen     	emo	   1	   1
+asmat-central-keenok-manep       	emo	   1	   1
+asmat-central-mecamup-kawet      	em 	   1	   1
+asmat-central-mecamup-omanesep   	em 	   1	   1
+asmat-central-mismam-suru        	em 	   1	   1
+asmat-central-mismam-yepem       	em 	   1	   1
+asmat-central-simai-ayam         	em 	   1	   1
+asmat-central-keenok-sawa-erma   	mo 	   1	   4
+#
+Concept: 1200_HUSBAND, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-masin      	ome  	   1	   1
+asmat-casuarina-coast-otenep     	ome  	   1	   1
+asmat-central-mecamup-omanesep   	umu  	   1	   1
+asmat-casuarina-coast-pirimapun  	mo   	   1	   3
+asmat-central-keenakap-namen     	mo   	   1	   3
+asmat-central-mecamup-cowew-yamew	mo   	   1	   3
+asmat-central-mecamup-yow        	mu   	   1	   3
+asmat-central-mismam-suru        	mo   	   1	   3
+asmat-central-mismam-yepem       	mo   	   1	   3
+citak-citak-senggo               	mo   	   1	   3
+asmat-central-kainak-atat        	mipic	   1	   4
+asmat-central-simai-ayam         	mipic	   1	   4
+asmat-central-keenok-komar       	mowir	   1	   6
+asmat-central-mismam-suru        	miwis	   1	   6
+asmat-central-mismam-yepem       	miwis	   1	   6
+asmat-central-simai-ayam         	miwis	   1	   6
+#
+Concept: 1202_BIG, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-makair     	awat	   1	   1
+asmat-casuarina-coast-masin      	awot	   1	   1
+asmat-casuarina-coast-pirimapun  	awot	   1	   1
+asmat-central-mecamup-amisu      	awut	   1	   1
+asmat-central-mecamup-omanesep   	awut	   1	   1
+asmat-central-mismam-yepem       	awut	   1	   1
+asmat-central-kainak-atat        	awut	   1	   1
+asmat-central-mismam-suru        	awut	   1	   1
+asmat-casuarina-coast-otenep     	aot 	   1	   3
+asmat-central-kainak-atat        	aut 	   1	   3
+asmat-central-mismam-suru        	aut 	   1	   3
+asmat-central-simai-ayam         	aut 	   1	   3
+asmat-central-keenok-komar       	aur 	   1	   6
+asmat-central-keenok-manep       	auru	   1	   6
+asmat-central-keenok-yipaer      	aur 	   1	   6
+asmat-central-keenok-sawa-erma   	asuw	   1	   8
+asmat-central-mismam-yepem       	asuw	   1	   8
+asmat-central-mismam-suru        	asuw	   1	   8
+#
+Concept: 1203_LONG, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-makair     	iraw  	   1	   1
+asmat-casuarina-coast-otenep     	jü/uro	   1	   2
+asmat-casuarina-coast-pirimapun  	jirao 	   1	   2
+asmat-central-kainak-atat        	jəro  	   1	   2
+asmat-central-keenakap-namen     	jirao 	   1	   2
+asmat-central-keenok-komar       	juro  	   1	   2
+asmat-central-keenok-sawa-erma   	juro  	   1	   2
+asmat-central-mecamup-amisu      	juruw 	   1	   2
+asmat-central-mecamup-omanesep   	juruw 	   1	   2
+asmat-central-mismam-per         	juruw 	   1	   2
+asmat-central-mismam-suru        	juruw 	   1	   2
+asmat-central-mismam-yepem       	juruw 	   1	   2
+asmat-central-simai-ayam         	jurow 	   1	   2
+asmat-central-keenok-manep       	joa   	   1	   7
+asmat-central-sokoni             	jao   	   1	   7
+#
+Concept: 1205_TONGUE, False Positives: no, False Negatives: yes
+asmat-central-kainak-ao          	koman	   1	   1
+asmat-central-kainak-atat        	koman	   1	   1
+asmat-central-kainak-kapi        	koman	   1	   1
+asmat-central-kainak-yamas       	koman	   1	   1
+asmat-central-keenakap-fos       	koman	   1	   1
+asmat-central-keenakap-miwar     	koman	   1	   1
+asmat-central-keenakap-namen     	komen	   1	   1
+asmat-central-keenakap-yaosakor  	koman	   1	   1
+asmat-central-keenok-komar       	komn 	   1	   1
+asmat-central-keenok-manep       	komən	   1	   1
+asmat-central-keenok-sawa-erma   	komne	   1	   1
+asmat-central-keenok-yipaer      	koman	   1	   1
+asmat-central-mecamup-amanamkai  	komen	   1	   1
+asmat-central-mecamup-amisu      	komen	   1	   1
+asmat-central-mecamup-kawet      	komen	   1	   1
+asmat-central-mecamup-omanesep   	komen	   1	   1
+asmat-central-mecamup-yow        	komen	   1	   1
+asmat-central-mine               	komen	   1	   1
+asmat-central-mismam-per         	komen	   1	   1
+asmat-central-mismam-suru        	komen	   1	   1
+asmat-central-mismam-uwus        	komen	   1	   1
+asmat-central-mismam-yepem       	komen	   1	   1
+asmat-central-simai-ayam         	komen	   1	   1
+citak-citak-senggo               	kömen	   1	   1
+asmat-central-keenok-yipaer      	komən	   1	   1
+asmat-north-irogo                	oməne	   1	  24
+asmat-north-momogo               	emene	   1	  24
+asmat-north-pupis                	emene	   1	  24
+asmat-north-ti                   	emene	   1	  24
+#
+Concept: 1206_cockatoo, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-masin      	turu   	   1	   1
+asmat-casuarina-coast-otenep     	tur    	   1	   1
+asmat-casuarina-coast-pirimapun  	tur    	   1	   1
+asmat-casuarina-coast-tareo      	turu   	   1	   1
+asmat-central-kainak-yamas       	jur    	   1	   5
+asmat-central-mecamup-kawet      	jur    	   1	   5
+asmat-central-mecamup-omanesep   	jur    	   1	   5
+asmat-central-mecamup-yow        	jur    	   1	   5
+asmat-central-mismam-suru        	jir    	   1	   5
+asmat-central-mismam-yepem       	jir    	   1	   5
+asmat-central-simai-ayam         	jur    	   1	   5
+asmat-central-keenok-sawa-erma   	iːr    	   1	   6
+asmat-central-keenok-yipaer      	iːr    	   1	   6
+asmat-north-momogo               	tü/ui  	   1	  14
+asmat-north-pupis                	tü/uü/u	   1	  14
+#
+Concept: 1208_cuscus, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-makair     	fat 	   1	   1
+asmat-casuarina-coast-otenep     	fat 	   1	   1
+asmat-casuarina-coast-pirimapun  	fat 	   1	   1
+asmat-casuarina-coast-tareo      	fat 	   1	   1
+asmat-central-keenakap-namen     	fate	   1	   1
+citak-citak-senggo               	fati	   1	   1
+asmat-central-keenok-komar       	fere	   1	   6
+asmat-central-keenok-manep       	furi	   1	   6
+asmat-central-keenok-sawa-erma   	firi	   1	   6
+asmat-central-keenok-yipaer      	firi	   1	   6
+asmat-north-momogo               	fare	   1	   6
+asmat-central-mecamup-omanesep   	fac 	   1	  10
+asmat-central-mismam-suru        	fac 	   1	  10
+asmat-central-mismam-yepem       	fac 	   1	  10
+asmat-central-simai-ayam         	fac 	   1	  10
+#
+Concept: 1209_I, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-otenep     	nor	   1	   1
+asmat-casuarina-coast-pirimapun  	ner	   1	   1
+asmat-central-kainak-atat        	nor	   1	   1
+asmat-central-keenakap-miwar     	ner	   1	   1
+asmat-central-keenakap-namen     	ner	   1	   1
+asmat-central-keenok-komar       	ner	   1	   1
+asmat-central-keenok-manep       	nor	   1	   1
+asmat-central-keenok-sawa-erma   	ner	   1	   1
+asmat-central-mecamup-yow        	nor	   1	   1
+asmat-central-mine               	nor	   1	   1
+asmat-central-mismam-suru        	nor	   1	   1
+asmat-central-mismam-yepem       	nor	   1	   1
+asmat-central-simai-ayam         	nor	   1	   1
+asmat-central-sokoni             	ne 	   1	  14
+asmat-north-momogo               	ne 	   1	  14
+asmat-north-pupis                	ne 	   1	  14
+citak-citak-senggo               	dör	   1	  17
+#
+Concept: 1210_HEAVY, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-otenep     	itur        	   1	   1
+asmat-casuarina-coast-pirimapun  	jutur       	   1	   2
+asmat-central-kainak-atat        	jitur       	   1	   2
+asmat-central-mecamup-omanesep   	jitor       	   1	   2
+asmat-central-mismam-suru        	jitur       	   1	   2
+asmat-central-mismam-yepem       	jitur       	   1	   2
+asmat-central-simai-ayam         	jutur       	   1	   2
+asmat-central-keenakap-namen     	wuturu      	   1	   4
+citak-citak-senggo               	zü/utü/urü/u	   1	   9
+#
+Concept: 1212_WE, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-otenep     	naro	   1	   1
+asmat-casuarina-coast-pirimapun  	nar 	   1	   1
+asmat-central-kainak-atat        	nar 	   1	   1
+asmat-central-keenakap-namen     	nar 	   1	   1
+asmat-central-keenok-komar       	nar 	   1	   1
+asmat-central-keenok-sawa-erma   	nar 	   1	   1
+asmat-central-mecamup-yow        	nar 	   1	   1
+asmat-central-mismam-suru        	nar 	   1	   1
+asmat-central-mismam-yepem       	nar 	   1	   1
+asmat-central-simai-ayam         	nar 	   1	   1
+asmat-central-sokoni             	nar 	   1	   1
+citak-citak-senggo               	dar 	   1	  12
+#
+Concept: 1214_THIS, False Positives: no, False Negatives: yes
+asmat-central-keenakap-fos       	ara	   1	   1
+asmat-central-keenok-sawa-erma   	are	   1	   1
+citak-citak-senggo               	ara	   1	   1
+asmat-central-mismam-suru        	ar 	   1	   1
+asmat-central-mismam-yepem       	ar 	   1	   1
+asmat-central-simai-ayam         	ar 	   1	   1
+asmat-central-mismam-suru        	a  	   1	   3
+asmat-central-mismam-yepem       	a  	   1	   3
+asmat-central-simai-ayam         	a  	   1	   3
+#
+Concept: 1216_MOTHER, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-masin      	ena   	   1	   1
+asmat-casuarina-coast-otenep     	enew  	   1	   1
+asmat-central-mecamup-ac         	enew  	   1	   1
+asmat-central-mecamup-amisu      	enew  	   1	   1
+asmat-casuarina-coast-pirimapun  	ena   	   1	   1
+asmat-central-kainak-atat        	ene   	   1	   1
+asmat-central-mecamup-omanesep   	enew  	   1	   1
+asmat-central-mismam-suru        	enew  	   1	   1
+asmat-central-mismam-yepem       	enew  	   1	   1
+asmat-central-simai-ayam         	enew  	   1	   1
+asmat-casuarina-coast-pirimapun  	os    	   3	   3
+asmat-central-kainak-atat        	osoːc 	   3	   3
+asmat-central-kainak-yamas       	osoːc 	   3	   3
+asmat-central-keenakap-namen     	asoːt 	   3	   3
+asmat-central-mismam-suru        	oswuc 	   3	   3
+asmat-central-mismam-yepem       	oswuc 	   3	   3
+asmat-central-simai-ayam         	osowuc	   3	   3
+citak-citak-senggo               	esaot 	   3	   3
+asmat-central-keenok-manep       	os    	   3	   3
+asmat-central-keenok-komar       	sor   	   3	   7
+asmat-central-keenok-manep       	soːr  	   3	   7
+asmat-central-keenok-sawa-erma   	sor   	   3	   7
+asmat-central-mecamup-cowew-yamew	wos   	   3	  12
+asmat-central-mecamup-kawet      	wos   	   3	  12
+asmat-central-mecamup-omanesep   	wos   	   3	  12
+asmat-north-momogo               	wose  	   3	  12
+#
+Concept: 1217_FATHER, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-pirimapun  	ü/ut  	   1	   1
+asmat-central-keenakap-kaimo     	ot    	   1	   1
+asmat-central-keenakap-miwar     	ot    	   1	   1
+asmat-central-keenakap-namen     	itipit	   1	   1
+citak-citak-senggo               	itipit	   1	   1
+citak-upper-sirec                	ate   	   1	   1
+asmat-central-kainak-atat        	icipic	   1	   2
+asmat-central-mismam-suru        	icipic	   1	   2
+asmat-central-simai-ayam         	icipic	   1	   2
+asmat-central-sokoni             	ar    	   1	   8
+asmat-central-wooi               	ar    	   1	   8
+asmat-central-yinak              	ar    	   1	   8
+asmat-north-momogo               	ar    	   1	   8
+asmat-central-mismam-suru        	wic   	   1	  14
+asmat-central-simai-ayam         	wic   	   1	  14
+#
+Concept: 1220_TAIL, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-masin      	mepe  	   1	   1
+asmat-casuarina-coast-otenep     	mepe  	   1	   1
+asmat-casuarina-coast-tareo      	mepmak	   1	   1
+asmat-north-momogo               	mepe  	   1	   1
+asmat-north-pupis                	mep   	   1	   1
+asmat-central-kainak-atat        	epe   	   1	   4
+asmat-central-keenakap-fos       	epemak	   1	   4
+asmat-central-keenok-komar       	epmak 	   1	   4
+asmat-central-keenok-sawa-erma   	epmak 	   1	   4
+asmat-central-mecamup-cowew-yamew	ep    	   1	   4
+asmat-central-mecamup-kawet      	ep    	   1	   4
+asmat-central-mismam-suru        	ep    	   1	   4
+asmat-central-mismam-yepem       	ep    	   1	   4
+asmat-central-simai-ayam         	ep    	   1	   4
+citak-citak-senggo               	epmak 	   1	   4
+#
+Concept: 1221_NOSE, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-aorket     	mimak	   1	   1
+asmat-casuarina-coast-masin      	mimak	   1	   1
+asmat-casuarina-coast-pirimapun  	mimak	   1	   1
+asmat-casuarina-coast-tareo      	mimak	   1	   1
+asmat-central-keenakap-fos       	mimak	   1	   1
+asmat-central-keenakap-kaimo     	mimuk	   1	   1
+asmat-central-keenakap-namen     	mimak	   1	   1
+asmat-central-keenakap-yaosakor  	mimak	   1	   1
+asmat-central-keenok-komar       	mimak	   1	   1
+asmat-central-sokoni             	mimak	   1	   1
+asmat-central-wooi               	mimuk	   1	   1
+asmat-central-yinak              	mimak	   1	   1
+asmat-central-keenok-sawa-erma   	mimak	   1	   1
+asmat-central-kainak-ao          	mi   	   1	   5
+asmat-central-kainak-atat        	mi   	   1	   5
+asmat-central-kainak-kapi        	mi   	   1	   5
+asmat-central-kainak-yamas       	mi   	   1	   5
+asmat-central-keenok-sawa-erma   	mi   	   1	   5
+asmat-central-mecamup-amanamkai  	mi   	   1	   5
+asmat-central-mecamup-amisu      	mi   	   1	   5
+asmat-central-mecamup-omanesep   	mi   	   1	   5
+asmat-central-mecamup-yow        	mi   	   1	   5
+asmat-central-mismam-per         	mi   	   1	   5
+asmat-central-mismam-suru        	mi   	   1	   5
+asmat-central-mismam-uwus        	mi   	   1	   5
+asmat-central-mismam-yepem       	mi   	   1	   5
+asmat-central-simai-ayam         	mi   	   1	   5
+#
+Concept: 1222_PENIS, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-masin      	tamene	   1	   1
+asmat-casuarina-coast-pirimapun  	tamene	   1	   1
+asmat-casuarina-coast-tareo      	tamene	   1	   1
+asmat-central-keenakap-fos       	tamane	   1	   1
+asmat-central-keenakap-kaimo     	taman 	   1	   1
+asmat-central-keenakap-namen     	tamane	   1	   1
+asmat-central-keenok-komar       	tamne 	   1	   1
+asmat-central-keenok-manep       	tame  	   1	   1
+asmat-central-keenok-sawa-erma   	tamne 	   1	   1
+asmat-central-keenok-yipaer      	tamne 	   1	   1
+asmat-central-sokoni             	tamen 	   1	   1
+asmat-central-wooi               	tamen 	   1	   1
+asmat-central-yinak              	tamen 	   1	   1
+asmat-north-irogo                	temena	   1	   1
+citak-brazza-river               	taman 	   1	   1
+citak-citak-senggo               	taman 	   1	   1
+citak-upper-sirec                	taman 	   1	   1
+asmat-central-kainak-ao          	cəman 	   1	   4
+asmat-central-kainak-atat        	cəman 	   1	   4
+asmat-central-kainak-kapi        	cəman 	   1	   4
+asmat-central-kainak-yamas       	cəman 	   1	   4
+asmat-central-mecamup-amanamkai  	cəmen 	   1	   4
+asmat-central-mecamup-amisu      	cəmen 	   1	   4
+asmat-central-mecamup-kawet      	cəmen 	   1	   4
+asmat-central-mecamup-omanesep   	cəmen 	   1	   4
+asmat-central-mecamup-yow        	cəmen 	   1	   4
+asmat-central-mismam-per         	cəmen 	   1	   4
+asmat-central-mismam-suru        	cəmen 	   1	   4
+asmat-central-mismam-yepem       	cəmen 	   1	   4
+asmat-central-misman-meriten     	cəmen 	   1	   4
+asmat-central-simai-ayam         	cəmen 	   1	   4
+asmat-north-momogo               	somənə	   1	  29
+#
+Concept: 1227_BOARD, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-nanew      	tupa	   1	   1
+asmat-casuarina-coast-tareo      	tup 	   1	   1
+asmat-central-mine               	tipa	   1	   1
+asmat-central-keenok-komar       	pa  	   1	   3
+asmat-central-mismam-suru        	cupa	   1	   5
+asmat-central-mismam-yepem       	cupa	   1	   5
+asmat-central-simai-ayam         	cipe	   1	   5
+#
+Concept: 1228_EARTH_SOIL, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-aorket     	tapinmi 	   1	   1
+asmat-casuarina-coast-pirimapun  	tapinmi 	   1	   1
+asmat-central-keenakap-fos       	tapinimi	   1	   1
+asmat-central-keenakap-namen     	tepinmi 	   1	   1
+asmat-central-keenok-manep       	tepenemi	   1	   1
+asmat-central-keenok-mu-akani    	tepmi   	   1	   1
+asmat-central-keenok-yipaer      	tepmi   	   1	   1
+asmat-central-kainak-atat        	capinmi 	   1	   3
+asmat-central-mecamup-amisu      	capinmi 	   1	   3
+asmat-central-mecamup-cowew-yamew	capinmi 	   1	   3
+asmat-central-mecamup-omanesep   	capinmi 	   1	   3
+asmat-central-mecamup-yow        	capinmi 	   1	   3
+asmat-central-mismam-suru        	capinmi 	   1	   3
+asmat-central-mismam-yepem       	capinmi 	   1	   3
+asmat-central-simai-ayam         	capinmi 	   1	   3
+asmat-central-keenok-komar       	takmi   	   1	   6
+asmat-central-keenok-sawa-erma   	takmi   	   1	   6
+#
+Concept: 1231_NEW, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-otenep     	aj  	   1	   1
+asmat-casuarina-coast-pirimapun  	aji 	   1	   1
+asmat-central-kainak-atat        	aji 	   1	   1
+asmat-central-kainak-yamas       	aji 	   1	   1
+asmat-central-keenok-komar       	aj  	   1	   1
+asmat-central-keenok-manep       	aj  	   1	   1
+asmat-central-keenok-sawa-erma   	aj  	   1	   1
+asmat-central-keenok-yipaer      	aj  	   1	   1
+asmat-central-mecamup-amisu      	aj  	   1	   1
+asmat-central-mecamup-omanesep   	aj  	   1	   1
+asmat-central-mismam-suru        	aj  	   1	   1
+asmat-central-mismam-yepem       	aj  	   1	   1
+asmat-central-simai-ayam         	aj  	   1	   1
+asmat-central-sokoni             	aj  	   1	   1
+asmat-north-momogo               	ajas	   1	   1
+citak-citak-senggo               	ai  	   1	  16
+#
+Concept: 1233_NIGHT, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-makair     	irima 	   1	   1
+asmat-central-kainak-atat        	eram  	   1	   1
+asmat-central-mecamup-amanamkai  	erem  	   1	   1
+asmat-central-mecamup-amisu      	erem  	   1	   1
+asmat-central-mecamup-omanesep   	erem  	   1	   1
+asmat-central-mismam-suru        	erem  	   1	   1
+asmat-central-mismam-yepem       	erem  	   1	   1
+asmat-central-simai-ayam         	eram  	   1	   1
+asmat-casuarina-coast-masin      	jirlma	   1	   2
+asmat-casuarina-coast-otenep     	jirlma	   1	   2
+asmat-casuarina-coast-pirimapun  	jirlma	   1	   2
+asmat-central-keenakap-namen     	jiram 	   1	   2
+asmat-central-keenok-komar       	jiram 	   1	   2
+asmat-central-keenok-sawa-erma   	jiram 	   1	   2
+asmat-central-keenok-manep       	jiam  	   1	   8
+asmat-central-keenok-mu-akani    	jam   	   1	   8
+asmat-central-sokoni             	jam   	   1	   8
+#
+Concept: 1235_WHO, False Positives: no, False Negatives: yes
+asmat-central-keenok-sawa-erma   	ta 	   1	   1
+citak-citak-senggo               	ta 	   1	   1
+asmat-central-mecamup-omanesep   	ca 	   1	   2
+asmat-central-mismam-suru        	ca 	   1	   2
+asmat-central-mismam-yepem       	ca 	   1	   2
+asmat-central-simai-ayam         	ca 	   1	   2
+asmat-central-mecamup-omanesep   	car	   1	   7
+asmat-central-mismam-suru        	car	   1	   7
+asmat-central-mismam-yepem       	car	   1	   7
+asmat-central-simai-ayam         	car	   1	   7
+#
+Concept: 123_FOREHEAD, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-otenep     	manepin  	   1	   1
+asmat-casuarina-coast-pirimapun  	manepin  	   1	   1
+asmat-central-kainak-ao          	maná/apin	   1	   1
+asmat-central-kainak-atat        	maná/apin	   1	   1
+asmat-central-kainak-kapi        	maná/apin	   1	   1
+asmat-central-kainak-yamas       	maná/apin	   1	   1
+asmat-central-keenakap-yaosakor  	maná/apin	   1	   1
+asmat-central-keenok-komar       	minipin  	   1	   1
+asmat-central-keenok-sawa-erma   	munipin  	   1	   1
+asmat-central-mecamup-amisu      	manpin   	   1	   1
+asmat-central-mismam-suru        	manpin   	   1	   1
+asmat-central-mismam-uwus        	manpin   	   1	   1
+asmat-central-mismam-yepem       	manpin   	   1	   1
+asmat-north-momogo               	minipin  	   1	   1
+citak-citak-senggo               	banapin  	   1	  15
+#
+Concept: 1240_NOT, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-aorket     	wapak	   1	   1
+asmat-casuarina-coast-pirimapun  	wapak	   1	   1
+asmat-central-keenakap-namen     	wap  	   1	   1
+asmat-casuarina-coast-otenep     	opak 	   1	   2
+asmat-central-kainak-atat        	opok 	   1	   2
+asmat-central-keenok-sawa-erma   	opok 	   1	   2
+asmat-central-mismam-suru        	opak 	   1	   2
+asmat-central-mismam-yepem       	opak 	   1	   2
+asmat-central-simai-ayam         	opok 	   1	   2
+asmat-central-sokoni             	opak 	   1	   2
+#
+Concept: 1247_EAR, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-aorket     	janəmak 	   1	   1
+asmat-casuarina-coast-masin      	janemake	   1	   1
+asmat-casuarina-coast-pirimapun  	jen     	   1	   1
+asmat-casuarina-coast-tareo      	jenmaka 	   1	   1
+asmat-central-kainak-ao          	jan     	   1	   1
+asmat-central-kainak-atat        	jan     	   1	   1
+asmat-central-kainak-kapi        	jan     	   1	   1
+asmat-central-kainak-yamas       	jan     	   1	   1
+asmat-central-keenakap-fos       	jane    	   1	   1
+asmat-central-keenakap-kaimo     	jane    	   1	   1
+asmat-central-keenakap-miwar     	jene    	   1	   1
+asmat-central-keenakap-namen     	jane    	   1	   1
+asmat-central-keenakap-yaosakor  	jane    	   1	   1
+asmat-central-keenok-komar       	jane    	   1	   1
+asmat-central-keenok-manep       	jane    	   1	   1
+asmat-central-keenok-mu-akani    	janma   	   1	   1
+asmat-central-keenok-sawa-erma   	jane    	   1	   1
+asmat-central-keenok-yipaer      	jane    	   1	   1
+asmat-central-mecamup-amisu      	jan     	   1	   1
+asmat-central-mecamup-kawet      	jan     	   1	   1
+asmat-central-mecamup-omanesep   	jan     	   1	   1
+asmat-central-mecamup-yow        	jan     	   1	   1
+asmat-central-mismam-per         	jen     	   1	   1
+asmat-central-mismam-suru        	jen     	   1	   1
+asmat-central-mismam-uwus        	jen     	   1	   1
+asmat-central-mismam-yepem       	jen     	   1	   1
+asmat-central-simai-ayam         	jan     	   1	   1
+asmat-central-wooi               	jan     	   1	   1
+asmat-central-yinak              	jan     	   1	   1
+asmat-north-irogo                	jene    	   1	   1
+asmat-north-momogo               	jene    	   1	   1
+asmat-north-pupis                	jene    	   1	   1
+asmat-north-ti                   	jan     	   1	   1
+citak-brazza-river               	jane    	   1	   1
+citak-upper-sirec                	jani    	   1	   1
+asmat-central-kainak-atat        	janmak  	   1	   1
+asmat-central-kainak-yamas       	janmak  	   1	   1
+asmat-central-mecamup-amisu      	janmak  	   1	   1
+asmat-central-mecamup-omanesep   	janmak  	   1	   1
+asmat-central-mecamup-yow        	janmak  	   1	   1
+asmat-central-mismam-per         	jenmak  	   1	   1
+asmat-central-mismam-suru        	jenmak  	   1	   1
+asmat-central-mismam-yepem       	jenmak  	   1	   1
+asmat-central-sokoni             	jahan   	   1	  28
+citak-citak-senggo               	zan     	   1	  36
+#
+Concept: 1248_EYE, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-makair     	manaka 	   1	   1
+asmat-casuarina-coast-masin      	manak  	   1	   1
+asmat-casuarina-coast-nanew      	manaka 	   1	   1
+asmat-casuarina-coast-otenep     	manak  	   1	   1
+asmat-casuarina-coast-pirimapun  	manak  	   1	   1
+asmat-central-kainak-atat        	manamok	   1	   1
+asmat-central-kainak-yamas       	manamok	   1	   1
+asmat-central-keenakap-fos       	manamek	   1	   1
+asmat-central-keenakap-kaimo     	manamek	   1	   1
+asmat-central-keenakap-namen     	manmak 	   1	   1
+asmat-central-keenakap-yaosakor  	manmak 	   1	   1
+asmat-central-keenok-mu-akani    	manmak 	   1	   1
+asmat-central-mecamup-amanamkai  	manmak 	   1	   1
+asmat-central-mecamup-amisu      	manmak 	   1	   1
+asmat-central-mecamup-kawet      	manmak 	   1	   1
+asmat-central-mecamup-omanesep   	manmak 	   1	   1
+asmat-central-mecamup-yow        	manmak 	   1	   1
+asmat-central-mismam-per         	manmak 	   1	   1
+asmat-central-mismam-suru        	manmak 	   1	   1
+asmat-central-mismam-uwus        	manmak 	   1	   1
+asmat-central-mismam-yepem       	manmak 	   1	   1
+asmat-central-simai-ayam         	manamok	   1	   1
+asmat-north-irogo                	manak  	   1	   1
+asmat-north-momogo               	manak  	   1	   1
+asmat-north-pupis                	manak  	   1	   1
+asmat-north-ti                   	menek  	   1	   1
+citak-citak-senggo               	manak  	   1	   1
+asmat-central-keenok-manep       	mamak  	   1	  12
+asmat-central-keenok-sawa-erma   	mamnak 	   1	  12
+asmat-central-keenok-yipaer      	mamnak 	   1	  12
+asmat-central-mine               	mamak  	   1	  12
+asmat-central-sokoni             	mamnak 	   1	  12
+asmat-central-yinak              	mamak  	   1	  12
+asmat-central-keenok-sawa-erma   	mamak  	   1	  12
+asmat-central-keenok-yipaer      	mamak  	   1	  12
+citak-brazza-river               	banatan	   1	  33
+citak-upper-sirec                	banak  	   1	  33
+#
+Concept: 124_THORN, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-masin      	iti 	   1	   1
+asmat-casuarina-coast-otenep     	iti 	   1	   1
+asmat-casuarina-coast-pirimapun  	iti 	   1	   1
+asmat-casuarina-coast-tareo      	iti 	   1	   1
+asmat-central-keenakap-namen     	iti 	   1	   1
+citak-citak-senggo               	iti 	   1	   1
+asmat-casuarina-coast-nanew      	jiti	   1	   2
+asmat-central-keenok-komar       	iri 	   1	   7
+asmat-central-keenok-manep       	iːri	   1	   7
+asmat-central-keenok-sawa-erma   	iri 	   1	   7
+asmat-central-mecamup-omanesep   	ic  	   1	  10
+asmat-central-mismam-suru        	ic  	   1	  10
+asmat-central-mismam-yepem       	ic  	   1	  10
+asmat-central-simai-ayam         	ici 	   1	  10
+asmat-central-mismam-suru        	fa  	  15	  15
+asmat-central-mismam-yepem       	fa  	  15	  15
+asmat-central-simai-ayam         	fa  	  15	  15
+#
+Concept: 1251_BELLY, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-aorket     	tia  	   1	   1
+asmat-casuarina-coast-makair     	tie  	   1	   1
+asmat-casuarina-coast-masin      	tie  	   1	   1
+asmat-casuarina-coast-pirimapun  	tie  	   1	   1
+asmat-casuarina-coast-tareo      	tia  	   1	   1
+asmat-central-kainak-ao          	jak  	   1	   6
+asmat-central-kainak-atat        	jak  	   1	   6
+asmat-central-kainak-kapi        	jak  	   1	   6
+asmat-central-kainak-yamas       	jak  	   1	   6
+asmat-central-keenakap-fos       	jak  	   1	   6
+asmat-central-keenakap-namen     	jak  	   1	   6
+asmat-central-keenok-komar       	jak  	   1	   6
+asmat-central-keenok-manep       	jak  	   1	   6
+asmat-central-keenok-sawa-erma   	jak  	   1	   6
+asmat-central-keenok-yipaer      	jak  	   1	   6
+asmat-central-mecamup-ac         	jak  	   1	   6
+asmat-central-mecamup-amanamkai  	jak  	   1	   6
+asmat-central-mecamup-amisu      	jak  	   1	   6
+asmat-central-mecamup-ar-nanim   	jak  	   1	   6
+asmat-central-mecamup-kawet      	jak  	   1	   6
+asmat-central-mecamup-miwar      	jak  	   1	   6
+asmat-central-mismam-per         	jak  	   1	   6
+asmat-central-mismam-suru        	jak  	   1	   6
+asmat-central-mismam-uwus        	jak  	   1	   6
+asmat-central-mismam-yepem       	jak  	   1	   6
+asmat-central-misman-meriten     	jak  	   1	   6
+asmat-central-simai-ayam         	jak  	   1	   6
+asmat-central-sokoni             	jeke 	   1	   6
+asmat-north-irogo                	tiake	   1	  29
+asmat-north-momogo               	teak 	   1	  29
+asmat-north-ti                   	tek  	   1	  29
+citak-citak-senggo               	zake 	   1	  32
+#
+Concept: 1252_HOUSE, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-aorket     	tam 	   1	   1
+asmat-casuarina-coast-makair     	tam 	   1	   1
+asmat-casuarina-coast-masin      	tam 	   1	   1
+asmat-casuarina-coast-otenep     	tam 	   1	   1
+asmat-casuarina-coast-pirimapun  	tam 	   1	   1
+asmat-casuarina-coast-tareo      	tam 	   1	   1
+asmat-central-keenakap-fos       	tame	   1	   1
+asmat-central-keenakap-kaimo     	tame	   1	   1
+asmat-central-keenakap-miwar     	tame	   1	   1
+asmat-central-keenakap-namen     	tame	   1	   1
+asmat-central-keenok-komar       	teme	   1	   1
+asmat-central-keenok-manep       	teme	   1	   1
+asmat-central-keenok-mu-akani    	teme	   1	   1
+asmat-central-keenok-sawa-erma   	teme	   1	   1
+asmat-central-mine               	tem 	   1	   1
+asmat-central-sokoni             	tem 	   1	   1
+asmat-central-wooi               	tem 	   1	   1
+asmat-central-yinak              	tem 	   1	   1
+asmat-north-momogo               	teme	   1	   1
+asmat-north-pupis                	teme	   1	   1
+citak-brazza-river               	tame	   1	   1
+citak-citak-senggo               	tame	   1	   1
+citak-upper-sirec                	tame	   1	   1
+asmat-central-kainak-atat        	cem 	   1	   7
+asmat-central-mecamup-amanamkai  	cem 	   1	   7
+asmat-central-mecamup-amisu      	cem 	   1	   7
+asmat-central-mecamup-kawet      	cem 	   1	   7
+asmat-central-mecamup-omanesep   	cem 	   1	   7
+asmat-central-mecamup-yow        	cem 	   1	   7
+asmat-central-mismam-per         	cem 	   1	   7
+asmat-central-mismam-suru        	cem 	   1	   7
+asmat-central-mismam-yepem       	cem 	   1	   7
+asmat-central-simai-ayam         	cem 	   1	   7
+#
+Concept: 1257_WING, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-masin      	jari  	   1	   1
+asmat-casuarina-coast-otenep     	jarmak	   1	   1
+asmat-casuarina-coast-pirimapun  	jari  	   1	   1
+asmat-casuarina-coast-tareo      	jari  	   1	   1
+asmat-central-keenakap-namen     	jaoro 	   1	   1
+asmat-central-keenok-komar       	jora  	   1	   1
+asmat-central-keenok-sawa-erma   	jera  	   1	   1
+asmat-central-keenok-yipaer      	jaro  	   1	   1
+asmat-central-mecamup-omanesep   	jaro  	   1	   1
+asmat-central-mismam-suru        	jəro  	   1	   1
+asmat-central-mismam-yepem       	jəro  	   1	   1
+asmat-central-simai-ayam         	joro  	   1	   1
+citak-citak-senggo               	zör   	   1	  13
+#
+Concept: 1262_BROTHER, False Positives: no, False Negatives: yes
+asmat-central-kainak-atat        	apuc 	   1	   1
+asmat-central-keenakap-miwar     	epot 	   1	   1
+asmat-central-keenakap-namen     	epot 	   1	   1
+asmat-central-mecamup-amanamkai  	epuc 	   1	   1
+asmat-central-mecamup-amisu      	epuc 	   1	   1
+asmat-central-mecamup-omanesep   	epuc 	   1	   1
+asmat-central-mismam-suru        	epuc 	   1	   1
+asmat-central-mismam-yepem       	epuc 	   1	   1
+asmat-central-simai-ayam         	epec 	   1	   1
+asmat-north-momogo               	epor 	   1	   1
+asmat-central-keenok-komar       	per  	   1	   4
+asmat-central-keenok-manep       	pur  	   1	   4
+asmat-central-keenok-sawa-erma   	per  	   1	   4
+asmat-central-keenok-yipaer      	per  	   1	   4
+asmat-central-sokoni             	pur  	   1	   4
+citak-citak-senggo               	pot  	   1	  17
+asmat-central-mecamup-yow        	ewuc 	  11	  11
+asmat-central-keenakap-miwar     	ewot 	  11	  11
+asmat-central-mecamup-amanamkai  	ewuc 	  11	  11
+asmat-central-mecamup-amisu      	ewuc 	  11	  11
+asmat-central-mecamup-omanesep   	ewuc 	  11	  11
+asmat-central-mismam-suru        	ewuc 	  11	  11
+asmat-central-mismam-yepem       	ewuc 	  11	  11
+asmat-central-simai-ayam         	ewec 	  11	  11
+asmat-central-kainak-atat        	á/aoc	  11	  18
+asmat-central-keenakap-namen     	eot  	  11	  20
+asmat-central-keenok-komar       	or   	  11	  21
+asmat-central-keenok-manep       	or   	  11	  21
+asmat-central-keenok-sawa-erma   	or   	  11	  21
+asmat-central-keenok-yipaer      	or   	  11	  21
+asmat-central-sokoni             	or   	  11	  21
+asmat-north-momogo               	or   	  11	  21
+citak-citak-senggo               	waot 	  11	  33
+#
+Concept: 1263_SISTER, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-pirimapun  	ipit 	   1	   1
+asmat-central-kainak-atat        	ipic 	   1	   1
+asmat-central-keenakap-miwar     	ipit 	   1	   1
+asmat-central-keenakap-namen     	ipit 	   1	   1
+asmat-central-keenok-komar       	ipir 	   1	   1
+asmat-central-mecamup-amanamkai  	epic 	   1	   1
+asmat-central-mecamup-amisu      	upic 	   1	   1
+asmat-central-mecamup-omanesep   	upic 	   1	   1
+asmat-central-mismam-suru        	epic 	   1	   1
+asmat-central-mismam-yepem       	epic 	   1	   1
+asmat-central-simai-ayam         	ipic 	   1	   1
+asmat-north-momogo               	ipiri	   1	   1
+citak-citak-senggo               	upita	   1	   1
+asmat-central-sokoni             	pir  	   1	  15
+asmat-central-keenok-sawa-erma   	imsi 	   6	   6
+asmat-central-keenok-yipaer      	emsi 	   6	   6
+asmat-central-mecamup-yow        	amos 	   6	   6
+asmat-central-kainak-atat        	omas 	   6	   6
+asmat-central-keenok-komar       	emsi 	   6	   6
+asmat-central-mecamup-amanamkai  	omos 	   6	   6
+asmat-central-mecamup-amisu      	omos 	   6	   6
+asmat-central-mecamup-omanesep   	omus 	   6	   6
+asmat-central-mismam-suru        	omus 	   6	   6
+asmat-central-mismam-yepem       	omus 	   6	   6
+asmat-central-simai-ayam         	omes 	   6	   6
+asmat-north-ti                   	masi 	   6	  17
+asmat-casuarina-coast-pirimapun  	mas  	   6	  17
+asmat-north-momogo               	mus  	   6	  17
+citak-citak-senggo               	masi 	   6	  17
+#
+Concept: 1278_VOMIT, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-pirimapun  	mo	   1	   1
+asmat-central-keenakap-namen     	mo	   1	   1
+asmat-central-keenok-komar       	mo	   1	   1
+asmat-central-keenok-manep       	mo	   1	   1
+asmat-central-mismam-suru        	mo	   1	   1
+asmat-central-mismam-yepem       	mo	   1	   1
+asmat-central-simai-ayam         	mo	   1	   1
+citak-citak-senggo               	bo	   1	   8
+#
+Concept: 1280_FALL, False Positives: no, False Negatives: yes
+asmat-central-keenok-sawa-erma   	nu 	   1	   1
+asmat-central-mismam-suru        	now	   1	   2
+asmat-central-mismam-yepem       	now	   1	   2
+asmat-central-simai-ayam         	now	   1	   2
+#
+Concept: 1283_TODAY, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-pirimapun  	wo  	   1	   1
+asmat-central-keenok-komar       	wo  	   1	   1
+asmat-central-keenok-manep       	wo  	   1	   1
+asmat-central-keenok-sawa-erma   	wo  	   1	   1
+asmat-central-keenakap-namen     	waw 	   1	   2
+asmat-central-mecamup-amanamkai  	wow 	   1	   2
+asmat-central-mecamup-amisu      	wow 	   1	   2
+asmat-central-mecamup-omanesep   	wow 	   1	   2
+asmat-central-mismam-suru        	wow 	   1	   2
+asmat-central-mismam-yepem       	wow 	   1	   2
+asmat-central-simai-ayam         	wow 	   1	   2
+citak-citak-senggo               	vawa	   1	   2
+#
+Concept: 1287_COLD, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-makair     	jufuto	   1	   1
+asmat-casuarina-coast-otenep     	jufut 	   1	   1
+asmat-casuarina-coast-pirimapun  	jufut 	   1	   1
+asmat-central-kainak-atat        	jufu  	   1	   1
+asmat-central-keenakap-miwar     	jifo  	   1	   1
+asmat-central-keenakap-namen     	jife  	   1	   1
+asmat-central-keenok-komar       	jufo  	   1	   1
+asmat-central-keenok-manep       	jofo  	   1	   1
+asmat-central-keenok-sawa-erma   	jufok 	   1	   1
+asmat-central-keenok-yipaer      	jufo  	   1	   1
+asmat-central-mecamup-omanesep   	jif   	   1	   1
+asmat-central-mismam-suru        	jufo  	   1	   1
+asmat-central-mismam-yepem       	jifo  	   1	   1
+asmat-central-simai-ayam         	jufu  	   1	   1
+asmat-central-sokoni             	jifo  	   1	   1
+asmat-central-mismam-suru        	jifo  	   1	   1
+citak-citak-senggo               	zufu  	   1	  16
+#
+Concept: 1292_BAD, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-makair     	petak  	   1	   1
+asmat-casuarina-coast-pirimapun  	petak  	   1	   1
+asmat-central-keenakap-miwar     	pota   	   1	   1
+asmat-central-keenakap-namen     	pota   	   1	   1
+asmat-central-keenok-sawa-erma   	petakas	   1	   1
+citak-citak-senggo               	petek  	   1	   1
+asmat-central-kainak-atat        	pəcak  	   1	   3
+asmat-central-mecamup-omanesep   	picak  	   1	   3
+asmat-central-mismam-suru        	pacak  	   1	   3
+asmat-central-mismam-yepem       	pacak  	   1	   3
+asmat-central-simai-ayam         	puicak 	   1	   3
+asmat-north-momogo               	pekas  	   1	   3
+asmat-central-keenok-komar       	perakas	   1	   6
+asmat-central-keenok-manep       	perakas	   1	   6
+asmat-central-keenok-yipaer      	perakas	   1	   6
+asmat-central-sokoni             	pərak  	   1	   6
+#
+Concept: 1307_LANGUAGE, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-makair     	atamo  	   1	   1
+asmat-casuarina-coast-masin      	atam   	   1	   1
+asmat-casuarina-coast-otenep     	atam   	   1	   1
+asmat-casuarina-coast-pirimapun  	atam   	   1	   1
+asmat-central-kainak-atat        	atakam 	   1	   1
+asmat-central-keenakap-namen     	atokom 	   1	   1
+asmat-central-mecamup-yow        	atakam 	   1	   1
+asmat-central-mismam-suru        	atakam 	   1	   1
+asmat-central-mismam-yepem       	atakam 	   1	   1
+asmat-central-simai-ayam         	atakam 	   1	   1
+citak-citak-senggo               	atakorn	   1	   1
+asmat-central-keenok-komar       	arakam 	   1	   7
+asmat-central-keenok-manep       	arakam 	   1	   7
+asmat-central-keenok-sawa-erma   	arakam 	   1	   7
+asmat-central-sokoni             	arakam 	   1	   7
+asmat-central-keenok-sawa-erma   	arakom 	   1	   7
+#
+Concept: 1313_MOON, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-makair     	pira	   1	   1
+asmat-casuarina-coast-masin      	pira	   1	   1
+asmat-casuarina-coast-otenep     	pira	   1	   1
+asmat-casuarina-coast-pirimapun  	pir 	   1	   1
+asmat-central-kainak-atat        	pir 	   1	   1
+asmat-central-keenakap-fos       	pir 	   1	   1
+asmat-central-keenakap-miwar     	pir 	   1	   1
+asmat-central-keenakap-namen     	pir 	   1	   1
+asmat-central-keenok-komar       	pir 	   1	   1
+asmat-central-keenok-sawa-erma   	pira	   1	   1
+asmat-central-keenok-yipaer      	pira	   1	   1
+asmat-central-mecamup-amanamkai  	pir 	   1	   1
+asmat-central-mecamup-amisu      	pir 	   1	   1
+asmat-central-mecamup-omanesep   	pir 	   1	   1
+asmat-central-mecamup-yow        	pir 	   1	   1
+asmat-central-mismam-suru        	pir 	   1	   1
+asmat-central-mismam-uwus        	pir 	   1	   1
+asmat-central-mismam-yepem       	pir 	   1	   1
+asmat-central-misman-meriten     	pir 	   1	   1
+asmat-central-simai-ayam         	pir 	   1	   1
+citak-citak-senggo               	pira	   1	   1
+asmat-central-keenok-manep       	piː 	   1	  10
+asmat-north-momogo               	pi  	   1	  10
+#
+Concept: 1336_EAT, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-aorket     	na	   1	   1
+asmat-casuarina-coast-makair     	na	   1	   1
+asmat-casuarina-coast-pirimapun  	ne	   1	   1
+asmat-central-kainak-atat        	na	   1	   1
+asmat-central-keenakap-namen     	na	   1	   1
+asmat-central-keenok-komar       	ne	   1	   1
+asmat-central-keenok-sawa-erma   	ne	   1	   1
+asmat-central-keenok-yipaer      	na	   1	   1
+asmat-central-mecamup-omanesep   	na	   1	   1
+asmat-central-mismam-suru        	na	   1	   1
+asmat-central-mismam-yepem       	na	   1	   1
+asmat-central-simai-ayam         	na	   1	   1
+asmat-central-sokoni             	ne	   1	   1
+asmat-north-momogo               	ne	   1	   1
+asmat-casuarina-coast-pirimapun  	na	   1	   1
+asmat-central-keenok-komar       	na	   1	   1
+asmat-central-keenok-sawa-erma   	na	   1	   1
+citak-citak-senggo               	de	   1	  15
+#
+Concept: 1337_PIG, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-makair     	wo  	   1	   1
+asmat-casuarina-coast-nanew      	wo  	   1	   1
+asmat-casuarina-coast-otenep     	wo  	   1	   1
+asmat-casuarina-coast-pirimapun  	wo  	   1	   1
+asmat-casuarina-coast-tareo      	wu  	   1	   1
+asmat-central-keenakap-kaimo     	wo  	   1	   1
+asmat-central-keenakap-miwar     	wo  	   1	   1
+asmat-central-keenakap-namen     	wo  	   1	   1
+asmat-central-keenok-komar       	wo  	   1	   1
+asmat-central-keenok-manep       	wo  	   1	   1
+asmat-central-keenok-sawa-erma   	wo  	   1	   1
+asmat-central-keenok-yipaer      	wo  	   1	   1
+asmat-casuarina-coast-masin      	oː  	   1	   2
+asmat-central-kainak-atat        	o   	   1	   2
+asmat-central-mecamup-cowew-yamew	o   	   1	   2
+asmat-central-mecamup-kawet      	o   	   1	   2
+asmat-central-mecamup-omanesep   	o   	   1	   2
+asmat-central-mecamup-yow        	o   	   1	   2
+asmat-central-mine               	o   	   1	   2
+asmat-central-mismam-suru        	o   	   1	   2
+asmat-central-mismam-yepem       	o   	   1	   2
+asmat-central-simai-ayam         	o   	   1	   2
+asmat-central-wooi               	oː  	   1	   2
+asmat-central-yinak              	oː  	   1	   2
+citak-citak-senggo               	uú/u	   1	   2
+asmat-casuarina-coast-makair     	oː  	   1	   2
+asmat-north-momogo               	ofo 	   1	  25
+asmat-north-pupis                	ofo 	   1	  25
+citak-upper-sirec                	owu 	   1	  28
+#
+Concept: 1339_MORNING, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-makair     	tama 	   1	   1
+asmat-casuarina-coast-masin      	tama 	   1	   1
+asmat-casuarina-coast-otenep     	tama 	   1	   1
+asmat-casuarina-coast-pirimapun  	tam  	   1	   1
+asmat-central-kainak-atat        	tam  	   1	   1
+asmat-central-keenakap-namen     	tom  	   1	   1
+asmat-central-keenok-komar       	tam  	   1	   1
+asmat-central-keenok-mu-akani    	tam  	   1	   1
+asmat-central-keenok-sawa-erma   	tam  	   1	   1
+asmat-central-mecamup-amanamkai  	tam  	   1	   1
+asmat-central-mecamup-amisu      	tam  	   1	   1
+asmat-central-mecamup-omanesep   	tam  	   1	   1
+asmat-central-mismam-suru        	tam  	   1	   1
+asmat-central-mismam-yepem       	tam  	   1	   1
+asmat-central-simai-ayam         	tam  	   1	   1
+citak-citak-senggo               	tam  	   1	   1
+asmat-central-sokoni             	taham	   1	  16
+#
+Concept: 1343_SUN, False Positives: no, False Negatives: yes
+asmat-central-kainak-atat        	jo+cənam	   1	   1
+asmat-central-keenakap-miwar     	joe     	   1	   2
+asmat-central-keenakap-namen     	joe     	   1	   2
+asmat-central-keenok-komar       	joː     	   1	   2
+asmat-central-mismam-suru        	jow     	   1	   5
+asmat-central-mismam-yepem       	jow     	   1	   5
+asmat-central-simai-ayam         	jow     	   1	   5
+#
+Concept: 1355_LAUGH, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-makair     	ute     	   1	   1
+asmat-casuarina-coast-pirimapun  	ut+ot   	   1	   1
+asmat-central-kainak-atat        	uci+oc  	   1	   3
+asmat-central-mecamup-omanesep   	uc+oc   	   1	   3
+asmat-central-mismam-suru        	uc+oc   	   1	   3
+asmat-central-mismam-yepem       	uc+oc   	   1	   3
+asmat-central-simai-ayam         	uc+oc   	   1	   3
+asmat-central-keenakap-namen     	wuti+wot	   1	   4
+asmat-central-keenok-komar       	wiri+wir	   1	   5
+asmat-central-keenok-sawa-erma   	wiri+wir	   1	   5
+asmat-central-sokoni             	wiri+wir	   1	   5
+#
+Concept: 1357_DAUGHTER, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-otenep     	porais   	   1	   1
+asmat-casuarina-coast-pirimapun  	pereis   	   1	   1
+asmat-central-kainak-atat        	parais   	   1	   1
+asmat-central-kainak-yamas       	porais   	   1	   1
+asmat-central-keenakap-namen     	parajü/us	   1	   1
+asmat-central-keenok-komar       	piris    	   1	   1
+asmat-central-mecamup-amanamkai  	pores    	   1	   1
+asmat-central-mecamup-amisu      	parwis   	   1	   1
+asmat-central-mecamup-cowew-yamew	puris    	   1	   1
+asmat-central-mecamup-kawet      	puris    	   1	   1
+asmat-central-mecamup-omanesep   	parwis   	   1	   1
+asmat-central-mecamup-yow        	porewis  	   1	   1
+asmat-central-mismam-suru        	puris    	   1	   1
+asmat-central-mismam-yepem       	puris    	   1	   1
+asmat-central-simai-ayam         	peres    	   1	   1
+asmat-central-sokoni             	paiwas   	   1	  16
+#
+Concept: 1371_KNEE, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-aorket     	jin+koman	   1	   1
+asmat-casuarina-coast-masin      	jine     	   1	   1
+asmat-casuarina-coast-pirimapun  	jine     	   1	   1
+asmat-casuarina-coast-tareo      	jin+okot 	   1	   1
+asmat-central-kainak-ao          	jina     	   1	   1
+asmat-central-kainak-atat        	jina     	   1	   1
+asmat-central-kainak-kapi        	jina     	   1	   1
+asmat-central-kainak-yamas       	jina     	   1	   1
+asmat-central-keenakap-awok      	jini     	   1	   1
+asmat-central-keenakap-fos       	jini     	   1	   1
+asmat-central-keenakap-kaimo     	jini     	   1	   1
+asmat-central-keenakap-namen     	jine     	   1	   1
+asmat-central-keenakap-yaosakor  	jini     	   1	   1
+asmat-central-keenok-komar       	jina     	   1	   1
+asmat-central-keenok-manep       	jina     	   1	   1
+asmat-central-keenok-sawa-erma   	jina     	   1	   1
+asmat-central-keenok-yipaer      	jina     	   1	   1
+asmat-central-mecamup-amanamkai  	jina     	   1	   1
+asmat-central-mecamup-amisu      	jina     	   1	   1
+asmat-central-mecamup-kawet      	jina     	   1	   1
+asmat-central-mecamup-omanesep   	jina     	   1	   1
+asmat-central-mecamup-yow        	jine     	   1	   1
+asmat-central-mismam-per         	jina     	   1	   1
+asmat-central-mismam-suru        	jina     	   1	   1
+asmat-central-mismam-uwus        	jina     	   1	   1
+asmat-central-mismam-yepem       	jina     	   1	   1
+asmat-central-simai-ayam         	jine     	   1	   1
+asmat-central-sokoni             	jine     	   1	   1
+asmat-central-wooi               	jine     	   1	   1
+asmat-central-yinak              	jine     	   1	   1
+asmat-north-irogo                	jine     	   1	   1
+asmat-north-momogo               	jini     	   1	   1
+asmat-north-pupis                	jina     	   1	   1
+citak-brazza-river               	jina     	   1	   1
+citak-upper-sirec                	jini     	   1	   1
+asmat-casuarina-coast-makair     	ini      	   1	   2
+citak-citak-senggo               	zini     	   1	  36
+#
+Concept: 1383_GRANDFATHER, False Positives: no, False Negatives: yes
+asmat-central-kainak-atat        	ak  	   1	   1
+asmat-central-keenakap-namen     	ak  	   1	   1
+asmat-central-keenok-komar       	ak  	   1	   1
+asmat-central-keenok-manep       	ak  	   1	   1
+asmat-central-keenok-sawa-erma   	ak  	   1	   1
+asmat-central-mecamup-amanamkai  	ak  	   1	   1
+asmat-central-mecamup-amisu      	ak  	   1	   1
+asmat-central-mismam-suru        	ak  	   1	   1
+asmat-central-mismam-yepem       	ak  	   1	   1
+asmat-central-simai-ayam         	ak  	   1	   1
+asmat-north-ti                   	ak  	   1	   1
+citak-citak-senggo               	ak  	   1	   1
+asmat-central-keenok-sawa-erma   	afok	   1	  13
+asmat-north-ti                   	afok	   1	  13
+#
+Concept: 1393_HORN_ANATOMY, False Positives: no, False Negatives: yes
+asmat-central-keenakap-fos       	fú/ui	   1	   1
+asmat-central-keenakap-yaosakor  	fú/ui	   1	   1
+asmat-central-mecamup-cowew-yamew	fú/ui	   1	   1
+asmat-central-mecamup-kawet      	fú/ui	   1	   1
+asmat-central-mecamup-omanesep   	fú/ui	   1	   1
+asmat-central-mecamup-yow        	fú/ui	   1	   1
+asmat-central-mismam-suru        	fu   	   1	   1
+asmat-central-mismam-yepem       	fu   	   1	   1
+asmat-central-simai-ayam         	fú/ui	   1	   1
+asmat-north-momogo               	fu   	   1	   1
+citak-citak-senggo               	fí/ii	   1	   1
+asmat-central-keenok-sawa-erma   	fl   	   1	   3
+#
+Concept: 1400_THIN_SLIM, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-pirimapun  	fatokot	   1	   1
+asmat-central-keenakap-namen     	fato   	   1	   1
+citak-citak-senggo               	fato   	   1	   1
+asmat-central-keenok-komar       	foro   	   1	   3
+asmat-central-mecamup-amisu      	faco   	   1	   4
+asmat-central-mecamup-omanesep   	faco   	   1	   4
+asmat-central-mismam-suru        	foco   	   1	   4
+asmat-central-mismam-yepem       	foco   	   1	   4
+asmat-central-simai-ayam         	faco   	   1	   4
+#
+Concept: 1402_BREAST, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-aorket     	aw  	   1	   1
+asmat-casuarina-coast-masin      	awa 	   1	   1
+asmat-casuarina-coast-pirimapun  	aw  	   1	   1
+asmat-casuarina-coast-tareo      	aw  	   1	   1
+asmat-central-kainak-atat        	aw  	   1	   1
+asmat-central-mecamup-amanamkai  	aw  	   1	   1
+asmat-central-mecamup-amisu      	aw  	   1	   1
+asmat-central-mecamup-kawet      	aw  	   1	   1
+asmat-central-mecamup-omanesep   	aw  	   1	   1
+asmat-central-mecamup-yow        	aw  	   1	   1
+asmat-central-mismam-per         	aw  	   1	   1
+asmat-central-mismam-suru        	aw  	   1	   1
+asmat-central-mismam-yepem       	aw  	   1	   1
+asmat-central-misman-meriten     	aw  	   1	   1
+asmat-central-simai-ayam         	aw  	   1	   1
+asmat-north-irogo                	aw  	   1	   1
+asmat-north-momogo               	aw  	   1	   1
+asmat-north-pupis                	aw  	   1	   1
+asmat-central-keenakap-fos       	aó/o	   1	   6
+asmat-central-keenakap-kaimo     	aó/o	   1	   6
+asmat-central-keenakap-miwar     	aó/o	   1	   6
+asmat-central-keenakap-namen     	aú/u	   1	   6
+asmat-central-keenok-komar       	aó/o	   1	   6
+asmat-central-keenok-manep       	aó/o	   1	   6
+asmat-central-keenok-sawa-erma   	aó/o	   1	   6
+asmat-central-keenok-yipaer      	aó/o	   1	   6
+asmat-central-sokoni             	aú/u	   1	   6
+asmat-central-wooi               	aó/o	   1	   6
+asmat-central-yinak              	aó/o	   1	   6
+citak-brazza-river               	aó/o	   1	   6
+citak-citak-senggo               	aú/u	   1	   6
+citak-upper-sirec                	aó/o	   1	   6
+#
+Concept: 1405_NAME, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-pirimapun  	juas 	   1	   1
+asmat-central-keenakap-kaimo     	juas 	   1	   1
+asmat-central-keenok-komar       	joːs 	   1	   1
+asmat-central-keenok-manep       	juas 	   1	   1
+asmat-central-keenok-sawa-erma   	joːs 	   1	   1
+asmat-central-simai-ayam         	juas 	   1	   1
+asmat-central-yinak              	jas  	   1	   1
+citak-brazza-river               	juas 	   1	   1
+asmat-central-mismam-suru        	juwus	   1	   6
+asmat-central-mismam-yepem       	juwus	   1	   6
+citak-citak-senggo               	zues 	   1	  11
+#
+Concept: 1416_SIT, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-masin      	ape	   1	   1
+asmat-casuarina-coast-pirimapun  	ap 	   1	   1
+asmat-casuarina-coast-tareo      	ape	   1	   1
+asmat-central-kainak-atat        	ap 	   1	   1
+asmat-central-keenok-komar       	ap 	   1	   1
+asmat-central-keenok-manep       	ap 	   1	   1
+asmat-central-keenok-sawa-erma   	ap 	   1	   1
+asmat-central-keenok-yipaer      	ap 	   1	   1
+asmat-central-mecamup-omanesep   	ap 	   1	   1
+asmat-central-mismam-suru        	ap 	   1	   1
+asmat-central-mismam-yepem       	ap 	   1	   1
+asmat-central-simai-ayam         	ap 	   1	   1
+asmat-north-momogo               	ap 	   1	   1
+asmat-north-ti                   	ap 	   1	   1
+citak-citak-senggo               	ap 	   1	   1
+asmat-casuarina-coast-pirimapun  	ape	   1	   1
+asmat-central-sokoni             	jap	   1	  13
+asmat-central-mismam-suru        	jap	   1	  13
+asmat-central-mismam-yepem       	jap	   1	  13
+#
+Concept: 1417_KILL, False Positives: no, False Negatives: yes
+asmat-central-kainak-atat        	toaf      	   1	   1
+asmat-central-mismam-suru        	towof     	   1	  11
+asmat-central-mismam-yepem       	towof     	   1	  11
+asmat-central-simai-ayam         	towof     	   1	  11
+asmat-central-keenakap-namen     	ta        	   2	   2
+asmat-central-keenok-komar       	ta        	   2	   2
+asmat-central-keenok-sawa-erma   	te        	   2	   2
+asmat-central-mismam-suru        	ca        	   2	   5
+asmat-central-mismam-yepem       	ca        	   2	   5
+asmat-central-simai-ayam         	ca        	   2	   5
+asmat-central-mismam-suru        	sonow+em  	   8	   8
+asmat-central-mismam-yepem       	sonow+em  	   8	   8
+asmat-central-simai-ayam         	saná/ao+em	   8	   8
+#
+Concept: 1419_FEAR_BE_AFRAID, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-aorket     	son  	   1	   1
+asmat-casuarina-coast-makair     	sone 	   1	   1
+asmat-casuarina-coast-masin      	sone 	   1	   1
+asmat-casuarina-coast-otenep     	son  	   1	   1
+asmat-casuarina-coast-pirimapun  	son  	   1	   1
+asmat-casuarina-coast-aorket     	sen  	   1	   1
+asmat-casuarina-coast-pirimapun  	sen  	   1	   1
+asmat-central-keenok-komar       	omare	   1	   6
+asmat-central-keenok-manep       	ome  	   1	   6
+asmat-central-keenok-sawa-erma   	omore	   1	   6
+asmat-central-keenok-yipaer      	omore	   1	   6
+asmat-central-mecamup-cowew-yamew	omer 	   1	   6
+asmat-central-mismam-suru        	omer 	   1	   6
+asmat-central-mismam-uwus        	omar 	   1	   6
+asmat-central-mismam-yepem       	omer 	   1	   6
+asmat-central-sokoni             	ome  	   1	   6
+#
+Concept: 1429_FULL, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-otenep     	piti    	   1	   1
+citak-citak-senggo               	peta    	   1	   1
+asmat-central-kainak-atat        	piti    	   1	   1
+asmat-central-keenakap-namen     	piti    	   1	   1
+asmat-central-mismam-suru        	piti    	   1	   1
+asmat-central-mismam-yepem       	piti    	   1	   1
+asmat-central-simai-ayam         	piti    	   1	   1
+asmat-central-keenok-komar       	pir     	   1	   4
+asmat-central-kainak-atat        	imunakap	   2	   2
+asmat-central-keenakap-namen     	imi     	   2	   2
+asmat-central-mismam-suru        	umunakap	   2	   2
+asmat-central-mismam-yepem       	umunakap	   2	   2
+asmat-central-simai-ayam         	imi     	   2	   2
+#
+Concept: 1430_STAR, False Positives: yes, False Negatives: yes
+asmat-casuarina-coast-makair     	má/aeto	   1	   1
+asmat-casuarina-coast-otenep     	má/aito	   1	   1
+asmat-casuarina-coast-pirimapun  	má/aeto	   1	   1
+asmat-central-kainak-atat        	maí/it 	   1	   1
+asmat-central-keenakap-fos       	maí/it 	   1	   1
+asmat-central-keenakap-miwar     	maé/et 	   1	   1
+asmat-central-simai-ayam         	maí/it 	   1	   1
+asmat-central-keenakap-namen     	majü/ut	   1	   7
+asmat-central-mecamup-amanamkai  	mawit  	   1	  13
+asmat-central-mecamup-amisu      	mawit  	   1	  13
+asmat-central-mecamup-omanesep   	mawit  	   1	  13
+asmat-central-mecamup-yow        	mawit  	   1	  13
+asmat-central-mismam-suru        	mawit  	   1	  13
+asmat-central-mismam-yepem       	mawit  	   1	  13
+asmat-central-keenok-komar       	mak    	   8	   8
+asmat-central-keenok-manep       	mak    	   8	   8
+asmat-central-keenok-mu-akani    	mak    	   8	   8
+asmat-central-keenok-sawa-erma   	mak    	   8	   8
+asmat-central-keenok-yipaer      	mak    	   8	   8
+asmat-central-mismam-suru        	mak    	   8	   8
+asmat-central-mismam-yepem       	mak    	   8	   8
+asmat-central-kainak-atat        	mawar  	  20	  13
+asmat-central-mecamup-amisu      	mewer  	  20	  13
+asmat-central-mismam-suru        	mewor  	  20	  13
+asmat-central-mismam-yepem       	mewor  	  20	  13
+asmat-north-pupis                	mor    	  20	  20
+#
+Concept: 1432_CUT, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-aorket     	sakam	   1	   1
+asmat-casuarina-coast-pirimapun  	sakam	   1	   1
+asmat-central-keenakap-namen     	sakam	   1	   1
+asmat-central-keenok-komar       	sakam	   1	   1
+asmat-central-keenok-manep       	sakam	   1	   1
+asmat-central-keenok-sawa-erma   	sakam	   1	   1
+asmat-central-mismam-suru        	sakam	   1	   1
+asmat-central-mismam-yepem       	sakam	   1	   1
+asmat-central-simai-ayam         	sakam	   1	   1
+asmat-central-sokoni             	sakam	   1	   1
+citak-citak-senggo               	sakam	   1	   1
+asmat-central-keenok-sawa-erma   	ti   	  12	  12
+asmat-central-mismam-suru        	ci   	  12	  13
+asmat-central-mismam-yepem       	ci   	  12	  13
+asmat-central-simai-ayam         	ci   	  12	  13
+#
+Concept: 1434_STAB, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-pirimapun  	fa 	   1	   1
+asmat-central-mecamup-omanesep   	faw	   1	   2
+asmat-central-mismam-suru        	faw	   1	   2
+asmat-central-mismam-yepem       	faw	   1	   2
+asmat-central-simai-ayam         	faw	   1	   2
+#
+Concept: 1439_SWIM, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-pirimapun  	tü/utu  	   1	   1
+asmat-central-keenakap-namen     	tü/utü/u	   1	   1
+asmat-central-kainak-atat        	cici    	   1	   2
+asmat-central-simai-ayam         	cucu    	   1	   2
+asmat-central-keenok-manep       	tu      	   1	   4
+asmat-central-keenok-sawa-erma   	tu      	   1	   4
+asmat-central-sokoni             	ti      	   1	   4
+#
+Concept: 1447_GIVE, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-otenep     	tetam	   1	   1
+asmat-casuarina-coast-pirimapun  	tetam	   1	   1
+asmat-central-kainak-atat        	tetam	   1	   1
+asmat-central-keenakap-namen     	tetam	   1	   1
+asmat-central-mecamup-omanesep   	tatam	   1	   1
+asmat-central-mismam-suru        	tetam	   1	   1
+asmat-central-mismam-yepem       	tetam	   1	   1
+asmat-central-simai-ayam         	tetam	   1	   1
+citak-citak-senggo               	tatam	   1	   1
+asmat-central-mismam-suru        	tatam	   1	   1
+asmat-central-mismam-yepem       	tatam	   1	   1
+asmat-central-simai-ayam         	tatam	   1	   1
+asmat-central-keenok-manep       	tam  	   1	   5
+asmat-central-sokoni             	tam  	   1	   5
+#
+Concept: 1456_THROW, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-masin      	jasom 	   1	   1
+asmat-casuarina-coast-otenep     	jasom 	   1	   1
+asmat-casuarina-coast-pirimapun  	josöm 	   1	   1
+asmat-central-kainak-atat        	jasom 	   1	   1
+asmat-central-mismam-suru        	wiasam	   1	   5
+asmat-central-mismam-yepem       	wiasam	   1	   5
+asmat-central-simai-ayam         	iwasom	   1	   7
+citak-citak-senggo               	zasom 	   1	   8
+#
+Concept: 1465_BOX, False Positives: no, False Negatives: yes
+asmat-central-kainak-atat        	mus 	   1	   1
+asmat-central-keenakap-kaimo     	muis	   1	   1
+asmat-central-mecamup-kawet      	mus 	   1	   1
+asmat-central-mecamup-yow        	mus 	   1	   1
+asmat-central-mismam-suru        	mus 	   1	   1
+asmat-central-mismam-yepem       	mus 	   1	   1
+asmat-central-wooi               	mus 	   1	   1
+asmat-central-yinak              	mus 	   1	   1
+citak-citak-senggo               	bus 	   1	   9
+citak-upper-sirec                	bus 	   1	   9
+#
+Concept: 1482_SHOULDER, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-makair     	se    	   1	   1
+asmat-central-keenakap-fos       	saja  	   1	   3
+asmat-central-mecamup-amanamkai  	sej   	   1	   3
+asmat-central-mecamup-amisu      	sej   	   1	   3
+asmat-central-mecamup-kawet      	sej   	   1	   3
+asmat-central-mecamup-omanesep   	sej   	   1	   3
+asmat-central-mismam-suru        	sej   	   1	   3
+asmat-central-mismam-yepem       	sej   	   1	   3
+asmat-central-misman-meriten     	sej   	   1	   3
+asmat-central-simai-ayam         	sej   	   1	   3
+asmat-central-yinak              	saji  	   1	   3
+asmat-central-keenok-komar       	sikop 	   1	   5
+asmat-central-keenok-sawa-erma   	sikop 	   1	   5
+asmat-central-keenok-manep       	sitemo	   1	   6
+asmat-central-kainak-atat        	poma  	   2	   2
+asmat-central-keenakap-kaimo     	pemo  	   2	   2
+asmat-central-mismam-per         	pemo  	   2	   2
+asmat-central-mismam-uwus        	pemo  	   2	   2
+citak-citak-senggo               	pema  	   2	   2
+asmat-central-keenok-sawa-erma   	pama  	   2	   2
+asmat-central-mecamup-kawet      	pemo  	   2	   2
+asmat-central-mecamup-omanesep   	pemo  	   2	   2
+asmat-central-mismam-suru        	pemo  	   2	   2
+asmat-central-mismam-yepem       	pemo  	   2	   2
+asmat-central-misman-meriten     	pemo  	   2	   2
+#
+Concept: 1493_ONE, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-masin      	tak  	   1	   1
+asmat-casuarina-coast-pirimapun  	tak  	   1	   1
+asmat-central-keenakap-kaimo     	take 	   1	   1
+asmat-central-keenakap-namen     	take 	   1	   1
+asmat-central-keenok-komar       	toko 	   1	   1
+asmat-central-keenok-manep       	toko 	   1	   1
+asmat-central-keenok-sawa-erma   	toko 	   1	   1
+citak-citak-senggo               	taka 	   1	   1
+asmat-central-mecamup-amisu      	cowak	   1	   8
+asmat-central-mecamup-kawet      	cowok	   1	   8
+asmat-central-mecamup-yow        	cowak	   1	   8
+asmat-central-mismam-suru        	cowak	   1	   8
+asmat-central-mismam-yepem       	cowak	   1	   8
+asmat-central-simai-ayam         	cowok	   1	   8
+#
+Concept: 1496_GRANDMOTHER, False Positives: no, False Negatives: yes
+asmat-central-kainak-atat        	sak 	   1	   1
+asmat-central-keenakap-namen     	sok 	   1	   1
+asmat-central-keenok-komar       	sok 	   1	   1
+asmat-central-keenok-manep       	sok 	   1	   1
+asmat-central-keenok-sawa-erma   	sok 	   1	   1
+asmat-central-keenok-yipaer      	sok 	   1	   1
+asmat-central-mecamup-amanamkai  	sok 	   1	   1
+asmat-central-mecamup-amisu      	sok 	   1	   1
+asmat-central-mecamup-omanesep   	sok 	   1	   1
+asmat-central-mismam-suru        	sok 	   1	   1
+asmat-central-mismam-yepem       	sok 	   1	   1
+asmat-central-simai-ayam         	sok 	   1	   1
+asmat-north-ti                   	sok 	   1	   1
+citak-citak-senggo               	asak	   1	  14
+#
+Concept: 1498_TWO, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-masin      	amini 	   1	   1
+asmat-casuarina-coast-pirimapun  	amin  	   1	   1
+asmat-central-keenok-manep       	imnuk 	   1	   1
+asmat-central-mecamup-yow        	amənuk	   1	   1
+asmat-central-keenakap-namen     	jamnuk	   1	   3
+asmat-central-keenok-komar       	jomnok	   1	   3
+asmat-central-keenok-sawa-erma   	jomnok	   1	   3
+asmat-central-mecamup-amisu      	jamnuk	   1	   3
+asmat-central-mecamup-kawet      	jamnuk	   1	   3
+asmat-central-mismam-suru        	jamnok	   1	   3
+asmat-central-mismam-yepem       	jamnok	   1	   3
+asmat-central-simai-ayam         	jamnuk	   1	   3
+asmat-central-sokoni             	jamnok	   1	   3
+asmat-north-irogo                	jamnok	   1	   3
+citak-citak-senggo               	zamnik	   1	  15
+asmat-central-mismam-suru        	kapom 	  16	  16
+asmat-central-mismam-yepem       	kapom 	  16	  16
+asmat-central-simai-ayam         	kapom 	  16	  16
+#
+Concept: 1504_FLY_INSECT, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-makair     	opoto 	   1	   1
+asmat-casuarina-coast-masin      	opoto 	   1	   1
+asmat-casuarina-coast-otenep     	opoto 	   1	   1
+asmat-casuarina-coast-pirimapun  	opot  	   1	   1
+asmat-casuarina-coast-tareo      	opot  	   1	   1
+asmat-central-kainak-atat        	opot  	   1	   1
+asmat-central-keenakap-namen     	opot  	   1	   1
+asmat-central-keenok-komar       	upur  	   1	   1
+asmat-central-keenok-manep       	upir  	   1	   1
+asmat-central-keenok-sawa-erma   	upur  	   1	   1
+asmat-central-mecamup-amanamkai  	opat  	   1	   1
+asmat-central-mecamup-omanesep   	opot  	   1	   1
+asmat-central-mismam-suru        	opat  	   1	   1
+asmat-central-mismam-yepem       	opat  	   1	   1
+asmat-central-misman-meriten     	opot  	   1	   1
+asmat-central-simai-ayam         	opot  	   1	   1
+citak-citak-senggo               	uput  	   1	   1
+asmat-north-momogo               	pere  	   1	  17
+asmat-central-keenok-komar       	ií/in 	  19	  19
+asmat-central-keenok-sawa-erma   	ií/in 	  19	  19
+citak-citak-senggo               	uin   	  19	  19
+asmat-central-mecamup-amanamkai  	iwin  	  19	  21
+asmat-central-mecamup-omanesep   	iwin  	  19	  21
+asmat-central-mismam-suru        	iwin  	  19	  21
+asmat-central-mismam-yepem       	iwin  	  19	  21
+asmat-central-simai-ayam         	iwiwin	  19	  21
+asmat-central-mismam-suru        	iwiwin	  19	  21
+#
+Concept: 1507_FRUIT, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-aorket     	ek  	   1	   1
+asmat-casuarina-coast-masin      	eke 	   1	   1
+asmat-central-kainak-atat        	eak 	   1	   1
+asmat-central-keenakap-miwar     	ek  	   1	   1
+asmat-central-keenakap-namen     	ek  	   1	   1
+asmat-central-keenok-komar       	eak 	   1	   1
+asmat-central-keenok-manep       	eak 	   1	   1
+asmat-central-keenok-sawa-erma   	eak 	   1	   1
+asmat-central-mecamup-amisu      	ek  	   1	   1
+asmat-central-mine               	ek  	   1	   1
+asmat-central-mismam-suru        	ek  	   1	   1
+asmat-central-mismam-yepem       	ek  	   1	   1
+asmat-central-simai-ayam         	ek  	   1	   1
+citak-citak-senggo               	ek  	   1	   1
+asmat-casuarina-coast-otenep     	jeke	   1	   4
+asmat-casuarina-coast-pirimapun  	jek 	   1	   4
+asmat-casuarina-coast-nanew      	sem 	   3	   3
+asmat-central-keenok-monu        	sem 	   3	   3
+asmat-casuarina-coast-masin      	sem 	   3	   3
+asmat-casuarina-coast-otenep     	sem 	   3	   3
+asmat-central-mine               	sam 	   3	   3
+asmat-central-mismam-suru        	sam 	   3	   3
+asmat-central-mismam-yepem       	sam 	   3	   3
+asmat-central-simai-ayam         	sam 	   3	   3
+#
+Concept: 1517_WASP, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-pirimapun  	iː   	   1	   1
+asmat-central-keenok-sawa-erma   	mako 	   2	   2
+asmat-central-mismam-suru        	mak  	   2	   2
+asmat-central-mismam-yepem       	mak  	   2	   2
+asmat-central-simai-ayam         	mak  	   2	   2
+citak-citak-senggo               	zipaj	   6	   6
+asmat-central-mismam-suru        	jupuj	   6	   7
+asmat-central-mismam-yepem       	jupuj	   6	   7
+asmat-central-simai-ayam         	jipae	   6	   7
+#
+Concept: 1531_BRANCH, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-aorket     	awa 	   1	   1
+asmat-casuarina-coast-makair     	awa 	   1	   1
+asmat-casuarina-coast-masin      	awa 	   1	   1
+asmat-casuarina-coast-nanew      	awa 	   1	   1
+asmat-casuarina-coast-otenep     	awa 	   1	   1
+asmat-central-keenok-komar       	awa 	   1	   1
+asmat-central-keenok-manep       	awa 	   1	   1
+asmat-central-keenok-sawa-erma   	awa 	   1	   1
+asmat-central-keenok-yipaer      	awa 	   1	   1
+asmat-casuarina-coast-pirimapun  	á/ao	   1	   6
+asmat-central-kainak-atat        	á/ao	   1	   6
+asmat-central-keenakap-miwar     	ó/oo	   1	   6
+asmat-central-keenakap-namen     	oa  	   1	   6
+asmat-central-mine               	á/aa	   1	   6
+asmat-central-mismam-suru        	a   	   1	   6
+asmat-central-mismam-yepem       	a   	   1	   6
+#
+Concept: 1533_BE_HUNGRY, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-masin      	jor  	   1	   1
+asmat-casuarina-coast-otenep     	jor  	   1	   1
+asmat-casuarina-coast-pirimapun  	jor  	   1	   1
+asmat-central-kainak-atat        	to   	   1	   4
+asmat-central-kainak-yamas       	to   	   1	   4
+asmat-central-keenakap-namen     	to   	   1	   4
+asmat-central-keenok-komar       	to   	   1	   4
+asmat-central-keenok-sawa-erma   	to   	   1	   4
+asmat-central-mismam-suru        	to   	   1	   4
+asmat-central-mismam-yepem       	to   	   1	   4
+asmat-central-simai-ayam         	to   	   1	   4
+asmat-central-sokoni             	to   	   1	   4
+citak-citak-senggo               	tuá/a	   1	   4
+#
+Concept: 1554_MAN, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-aorket     	jipit	   1	   1
+asmat-casuarina-coast-pirimapun  	jipit	   1	   1
+asmat-central-kainak-atat        	jipic	   1	   1
+asmat-central-kainak-yamas       	jipic	   1	   1
+asmat-central-keenakap-kaimo     	jipit	   1	   1
+asmat-central-keenakap-namen     	jipit	   1	   1
+asmat-central-keenok-komar       	jipir	   1	   1
+asmat-central-keenok-sawa-erma   	jipir	   1	   1
+asmat-central-keenok-yipaer      	jipir	   1	   1
+asmat-central-mecamup-amanamkai  	jipic	   1	   1
+asmat-central-mecamup-kawet      	jipic	   1	   1
+asmat-central-mecamup-omanesep   	jipic	   1	   1
+asmat-central-mine               	jipir	   1	   1
+asmat-central-mismam-suru        	jipic	   1	   1
+asmat-central-mismam-yepem       	jipic	   1	   1
+asmat-central-simai-ayam         	jipic	   1	   1
+asmat-central-sokoni             	jipir	   1	   1
+asmat-central-wooi               	jipit	   1	   1
+asmat-central-yinak              	jipit	   1	   1
+asmat-north-pupis                	jipir	   1	   1
+asmat-casuarina-coast-makair     	ipit 	   1	   2
+asmat-casuarina-coast-masin      	ipit 	   1	   2
+asmat-casuarina-coast-otenep     	ipit 	   1	   2
+asmat-north-momogo               	ipir 	   1	   2
+citak-brazza-river               	ipiti	   1	   2
+citak-citak-senggo               	ipit 	   1	   2
+citak-upper-sirec                	ipit 	   1	   2
+#
+Concept: 1567_DOOR, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-aorket     	jinsepe 	   1	   1
+asmat-casuarina-coast-tareo      	jinsupu 	   1	   1
+asmat-central-keenok-komar       	jü/unsep	   1	   1
+asmat-central-mine               	jinsup  	   1	   1
+asmat-central-sokoni             	jinsup  	   1	   1
+asmat-casuarina-coast-masin      	sepin   	   1	   2
+asmat-casuarina-coast-otenep     	isepini 	   1	   3
+asmat-casuarina-coast-pirimapun  	jimsepin	   1	   4
+asmat-central-kainak-yamas       	jimasap 	   1	   4
+asmat-central-keenakap-fos       	jumsap  	   1	   4
+asmat-central-keenakap-namen     	jimasap 	   1	   4
+asmat-central-keenakap-yaosakor  	jumsap  	   1	   4
+asmat-central-keenok-sawa-erma   	jimsep  	   1	   4
+asmat-central-mecamup-amanamkai  	jimsip  	   1	   4
+asmat-central-mecamup-amisu      	jimsip  	   1	   4
+asmat-central-mecamup-omanesep   	jimsip  	   1	   4
+asmat-central-mismam-per         	jimsip  	   1	   4
+asmat-central-mismam-suru        	jimsip  	   1	   4
+asmat-central-mismam-yepem       	jumcip  	   1	   4
+asmat-central-simai-ayam         	jimasap 	   1	   4
+asmat-central-mecamup-yow        	imsip   	   1	  15
+asmat-north-momogo               	jisipene	   1	  22
+asmat-north-pupis                	jisipene	   1	  22
+#
+Concept: 1592_CHEST, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-makair     	awué/e	   1	   1
+asmat-central-kainak-ao          	aw+fak	   1	   1
+asmat-central-kainak-yamas       	awu   	   1	   1
+asmat-central-mecamup-amanamkai  	awu   	   1	   1
+asmat-central-mecamup-amisu      	awu   	   1	   1
+asmat-central-mecamup-omanesep   	awu   	   1	   1
+asmat-central-mecamup-yow        	awu   	   1	   1
+asmat-central-mismam-suru        	awu   	   1	   1
+asmat-central-mismam-yepem       	awu   	   1	   1
+asmat-central-misman-meriten     	awu   	   1	   1
+asmat-central-simai-ayam         	awi   	   1	   1
+asmat-north-irogo                	aw+fak	   1	   1
+asmat-north-momogo               	aw+fak	   1	   1
+asmat-central-kainak-atat        	aw+fak	   1	   1
+asmat-central-kainak-kapi        	aw+fak	   1	   1
+asmat-central-kainak-yamas       	aw+fak	   1	   1
+asmat-casuarina-coast-masin      	wawi  	   1	   2
+asmat-casuarina-coast-pirimapun  	wawi  	   1	   2
+asmat-casuarina-coast-tareo      	wawi  	   1	   2
+asmat-central-kainak-atat        	aú/u  	   1	   6
+asmat-central-kainak-kapi        	aú/u  	   1	   6
+asmat-central-keenakap-fos       	jamam 	   1	   9
+asmat-central-keenakap-miwar     	jamom 	   1	   9
+asmat-central-keenakap-namen     	jamom 	   1	   9
+asmat-central-sokoni             	jamum 	   1	   9
+asmat-central-mismam-suru        	jamam 	   1	   9
+asmat-central-mismam-yepem       	jamam 	   1	   9
+asmat-north-ti                   	aj+fak	   1	  23
+citak-citak-senggo               	zamom 	   1	  24
+#
+Concept: 1593_DEEP, False Positives: no, False Negatives: yes
+asmat-central-kainak-atat        	kaku 	   1	   1
+asmat-central-keenakap-namen     	kaku 	   1	   1
+asmat-central-keenok-komar       	kok  	   1	   1
+asmat-central-keenok-sawa-erma   	kok  	   1	   1
+asmat-central-mecamup-omanesep   	kaku 	   1	   1
+asmat-central-mismam-suru        	kaku 	   1	   1
+asmat-central-mismam-yepem       	kaku 	   1	   1
+asmat-central-simai-ayam         	kaku 	   1	   1
+citak-citak-senggo               	takua	   1	   9
+asmat-central-mismam-suru        	mamu 	   1	  10
+asmat-central-mismam-yepem       	mamu 	   1	  10
+asmat-central-simai-ayam         	mamui	   1	  10
+#
+Concept: 1620_SON, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-aorket     	tiː    	   1	   1
+asmat-casuarina-coast-masin      	tiː    	   1	   1
+asmat-central-keenakap-namen     	tü/uü/u	   1	   1
+asmat-central-keenok-sawa-erma   	tiː    	   1	   1
+asmat-central-wooi               	tu     	   1	   1
+asmat-central-yinak              	tü/u   	   1	   1
+citak-citak-senggo               	tü/uü/u	   1	   1
+asmat-central-mecamup-amanamkai  	tiw    	   1	   5
+asmat-central-mecamup-amisu      	tiw    	   1	   5
+asmat-central-mecamup-cowew-yamew	tiw    	   1	   5
+asmat-central-mecamup-kawet      	tiw    	   1	   5
+asmat-central-mecamup-omanesep   	tiw    	   1	   5
+asmat-central-mismam-suru        	tiw    	   1	   5
+asmat-central-mismam-yepem       	tiw    	   1	   5
+asmat-central-simai-ayam         	tiw    	   1	   5
+#
+Concept: 1645_SHORT, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-makair     	fanip    	   1	   1
+asmat-casuarina-coast-otenep     	fanip    	   1	   1
+asmat-casuarina-coast-pirimapun  	fanip    	   1	   1
+asmat-central-kainak-atat        	faninakap	   1	   1
+asmat-central-mecamup-amisu      	fanip    	   1	   1
+asmat-central-mecamup-omanesep   	fanip    	   1	   1
+asmat-central-mismam-suru        	fanenakap	   1	   1
+asmat-central-mismam-yepem       	fanenakap	   1	   1
+asmat-central-simai-ayam         	fano     	   1	   1
+asmat-central-mismam-per         	fajenakap	   1	   7
+citak-citak-senggo               	fakup    	   1	  11
+#
+Concept: 1653_BLIND, False Positives: no, False Negatives: yes
+asmat-central-kainak-atat        	pete 	   1	   1
+asmat-central-keenakap-namen     	pete 	   1	   1
+asmat-central-mecamup-cowew-yamew	petej	   1	   1
+asmat-central-mecamup-omanesep   	peti 	   1	   1
+asmat-central-mismam-per         	pati 	   1	   1
+asmat-central-mismam-suru        	peti 	   1	   1
+asmat-central-mismam-yepem       	peti 	   1	   1
+asmat-central-simai-ayam         	petej	   1	   1
+asmat-central-mine               	pere 	   1	   5
+#
+Concept: 1654_LIGHTNING, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-masin      	masamaro	   1	   1
+asmat-casuarina-coast-pirimapun  	masamer 	   1	   1
+asmat-central-keenakap-namen     	mer     	   1	   3
+asmat-central-mecamup-amanamkai  	mar     	   1	   3
+asmat-central-mismam-suru        	mer     	   1	   3
+asmat-central-mismam-yepem       	mer     	   1	   3
+asmat-central-simai-ayam         	mer     	   1	   3
+citak-citak-senggo               	ba      	   1	  11
+asmat-central-keenok-komar       	werak   	   4	   4
+asmat-central-keenok-sawa-erma   	werak   	   4	   4
+asmat-central-mismam-suru        	warak   	   4	   4
+asmat-central-mismam-yepem       	warak   	   4	   4
+asmat-central-simai-ayam         	warkaj  	   4	   4
+asmat-central-keenok-manep       	waːk    	   4	   5
+#
+Concept: 1667_HOLE, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-nanew      	jafa	   1	   1
+asmat-casuarina-coast-pirimapun  	jof 	   1	   1
+asmat-casuarina-coast-tareo      	jaf 	   1	   1
+asmat-central-keenakap-namen     	jafa	   1	   1
+asmat-central-keenok-komar       	jofo	   1	   1
+asmat-central-keenok-manep       	jofo	   1	   1
+asmat-central-keenok-sawa-erma   	jofo	   1	   1
+asmat-central-keenok-yipaer      	jofo	   1	   1
+asmat-central-mecamup-omanesep   	jof 	   1	   1
+asmat-central-mecamup-yow        	jof 	   1	   1
+asmat-central-mismam-suru        	jof 	   1	   1
+asmat-central-mismam-yepem       	jof 	   1	   1
+asmat-central-simai-ayam         	jof 	   1	   1
+asmat-north-irogo                	jufa	   1	   1
+asmat-north-momogo               	jofo	   1	   1
+asmat-north-pupis                	jafa	   1	   1
+citak-citak-senggo               	zafa	   1	  17
+#
+Concept: 1669_ANCESTORS, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-masin      	nü/utü/ur	   1	   1
+asmat-central-keenok-komar       	niri     	   1	   2
+asmat-central-keenok-sawa-erma   	niri     	   1	   2
+asmat-central-mismam-suru        	nucur    	   1	   4
+asmat-central-mismam-yepem       	nucur    	   1	   4
+asmat-central-simai-ayam         	nucur    	   1	   4
+asmat-central-sokoni             	nejru    	   1	   7
+#
+Concept: 1726_WET, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-otenep     	murutu	   1	   1
+asmat-casuarina-coast-pirimapun  	murut 	   1	   1
+asmat-central-keenok-komar       	morok 	   1	   1
+asmat-central-keenok-manep       	morok 	   1	   1
+asmat-central-keenok-sawa-erma   	morok 	   1	   1
+asmat-central-sokoni             	maro  	   1	   1
+asmat-central-kainak-atat        	moco  	   1	   3
+asmat-central-mecamup-omanesep   	moco  	   1	   3
+asmat-central-mismam-suru        	moco  	   1	   3
+asmat-central-mismam-yepem       	moco  	   1	   3
+asmat-central-simai-ayam         	moco  	   1	   3
+citak-citak-senggo               	boto  	   1	  12
+#
+Concept: 1731_sawfish, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-masin      	sawat   	   1	   1
+asmat-casuarina-coast-otenep     	sawat   	   1	   1
+asmat-central-mismam-suru        	sowot   	   1	   1
+asmat-central-mismam-yepem       	sowot   	   1	   1
+asmat-central-simai-ayam         	sowot   	   1	   1
+asmat-casuarina-coast-tareo      	sə́/əote	   1	   3
+asmat-north-momogo               	soó/or  	   1	   7
+#
+Concept: 1732_SKY, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-makair     	onamo 	   1	   1
+asmat-casuarina-coast-masin      	onom  	   1	   1
+asmat-casuarina-coast-otenep     	onam  	   1	   1
+asmat-casuarina-coast-pirimapun  	onam  	   1	   1
+asmat-casuarina-coast-tareo      	onom  	   1	   1
+asmat-central-kainak-atat        	onam  	   1	   1
+asmat-central-mecamup-amisu      	onom  	   1	   1
+asmat-central-mecamup-omanesep   	onom  	   1	   1
+asmat-central-mecamup-yow        	onom  	   1	   1
+asmat-central-mismam-suru        	onam  	   1	   1
+asmat-central-mismam-uwus        	onam  	   1	   1
+asmat-central-mismam-yepem       	onam  	   1	   1
+asmat-central-misman-meriten     	onam  	   1	   1
+asmat-central-simai-ayam         	onam  	   1	   1
+asmat-north-irogo                	onomo 	   1	   1
+asmat-central-keenakap-fos       	wanamo	   1	   7
+asmat-central-keenakap-namen     	wonamo	   1	   7
+asmat-central-keenok-komar       	wenem 	   1	   7
+asmat-central-keenok-manep       	wonomo	   1	   7
+asmat-central-keenok-sawa-erma   	wonom 	   1	   7
+asmat-central-keenok-yipaer      	wenem 	   1	   7
+asmat-central-mine               	wanam 	   1	   7
+asmat-north-ti                   	wonom 	   1	   7
+#
+Concept: 1749_TAKE, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-otenep     	ter 	   1	   1
+asmat-central-keenok-komar       	ter 	   1	   1
+asmat-central-keenok-manep       	teːr	   1	   1
+asmat-central-keenok-sawa-erma   	ter 	   1	   1
+asmat-casuarina-coast-pirimapun  	tew 	   1	   2
+asmat-central-mecamup-omanesep   	tew 	   1	   2
+asmat-central-mismam-suru        	tew 	   1	   2
+asmat-central-mismam-yepem       	tew 	   1	   2
+asmat-central-simai-ayam         	tew 	   1	   2
+asmat-central-keenakap-namen     	tae 	   1	   3
+asmat-central-sokoni             	te  	   1	   3
+#
+Concept: 1781_THUMB, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-pirimapun  	mitü/ut	   1	   1
+asmat-central-keenakap-namen     	metet  	   1	   1
+asmat-central-keenok-komar       	metet  	   1	   1
+asmat-central-mismam-suru        	metet  	   1	   1
+asmat-central-simai-ayam         	metet  	   1	   1
+citak-citak-senggo               	bitit  	   1	   6
+#
+Concept: 178_RIPE, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-pirimapun  	pi     	   1	   1
+asmat-central-kainak-atat        	pií/i  	   1	   1
+asmat-central-keenakap-namen     	pií/i  	   1	   1
+asmat-central-keenok-komar       	pií/i  	   1	   1
+asmat-central-sokoni             	pü/u   	   1	   1
+citak-citak-senggo               	pü/uü/u	   1	   1
+asmat-central-mecamup-amanamkai  	piwi   	   1	   5
+asmat-central-mecamup-omanesep   	piwi   	   1	   5
+asmat-central-mismam-suru        	piwi   	   1	   5
+asmat-central-mismam-yepem       	piwi   	   1	   5
+asmat-central-simai-ayam         	piwi   	   1	   5
+#
+Concept: 1791_BUTTERFLY, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-masin      	foro	   1	   1
+asmat-casuarina-coast-tareo      	for 	   1	   1
+asmat-central-keenok-komar       	far 	   1	   1
+asmat-central-keenok-sawa-erma   	far 	   1	   1
+asmat-central-mismam-suru        	foc 	   1	   5
+asmat-central-mismam-yepem       	foc 	   1	   5
+asmat-central-simai-ayam         	fat 	   1	   7
+#
+Concept: 1793_BAT, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-pirimapun  	piaw	   1	   1
+asmat-central-keenok-yipaer      	piu 	   1	   2
+#
+Concept: 1807_AFTERNOON, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-makair     	pora 	   1	   1
+asmat-casuarina-coast-masin      	poro 	   1	   1
+asmat-casuarina-coast-otenep     	porow	   1	   1
+asmat-central-kainak-atat        	poro 	   1	   1
+asmat-central-keenok-komar       	poro 	   1	   1
+asmat-central-keenok-sawa-erma   	poro 	   1	   1
+asmat-central-mecamup-amisu      	porow	   1	   1
+asmat-central-mecamup-omanesep   	porow	   1	   1
+asmat-central-mismam-suru        	porow	   1	   1
+asmat-central-mismam-yepem       	porow	   1	   1
+asmat-central-simai-ayam         	porow	   1	   1
+asmat-central-keenok-manep       	puː  	   1	   6
+asmat-central-keenok-mu-akani    	puː  	   1	   6
+asmat-central-sokoni             	po   	   1	   6
+#
+Concept: 1819_LOOK, False Positives: yes, False Negatives: yes
+asmat-casuarina-coast-makair     	por 	   1	   1
+asmat-casuarina-coast-otenep     	por 	   1	   1
+asmat-casuarina-coast-pirimapun  	por 	   1	   1
+asmat-central-kainak-atat        	por 	   1	   1
+asmat-central-keenakap-namen     	por 	   1	   1
+asmat-central-keenok-komar       	per 	   1	   1
+asmat-central-mecamup-omanesep   	por 	   1	   1
+asmat-central-mismam-suru        	por 	   1	   1
+asmat-central-mismam-yepem       	por 	   1	   1
+asmat-central-simai-ayam         	por 	   1	   1
+citak-citak-senggo               	por 	   1	   1
+asmat-central-sokoni             	po  	   1	  11
+asmat-central-kainak-atat        	poː 	  13	  11
+asmat-central-keenakap-namen     	pa  	  13	  11
+asmat-central-keenok-komar       	poː 	  13	  11
+asmat-casuarina-coast-otenep     	powa	  13	  13
+asmat-casuarina-coast-pirimapun  	pow 	  13	  13
+asmat-central-mismam-suru        	pow 	  13	  13
+asmat-central-mismam-yepem       	pow 	  13	  13
+asmat-central-simai-ayam         	pow 	  13	  13
+#
+Concept: 1836_VAGINA, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-pirimapun  	tani	   1	   1
+asmat-casuarina-coast-tareo      	tane	   1	   1
+asmat-central-keenakap-namen     	teni	   1	   1
+asmat-central-keenok-komar       	tene	   1	   1
+asmat-central-keenok-manep       	tini	   1	   1
+asmat-central-keenok-sawa-erma   	tini	   1	   1
+citak-citak-senggo               	tani	   1	   1
+asmat-central-kainak-ao          	cen 	   1	   3
+asmat-central-kainak-kapi        	cen 	   1	   3
+asmat-central-kainak-yamas       	cen 	   1	   3
+asmat-central-mecamup-amanamkai  	cən 	   1	   3
+asmat-central-mecamup-amisu      	cən 	   1	   3
+asmat-central-mecamup-omanesep   	can 	   1	   3
+asmat-central-mecamup-yow        	cen 	   1	   3
+asmat-central-mismam-per         	cen 	   1	   3
+asmat-central-mismam-suru        	cen 	   1	   3
+asmat-central-mismam-yepem       	cen 	   1	   3
+asmat-central-misman-meriten     	cen 	   1	   3
+asmat-central-simai-ayam         	cen 	   1	   3
+asmat-central-mismam-suru        	per 	  20	  20
+asmat-central-mismam-yepem       	per 	  20	  20
+#
+Concept: 1838_NAVEL, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-masin      	mokopet	   1	   1
+asmat-casuarina-coast-pirimapun  	mokopet	   1	   1
+asmat-casuarina-coast-tareo      	mokopot	   1	   1
+asmat-central-kainak-atat        	mokoper	   1	   1
+asmat-central-kainak-kapi        	mokoper	   1	   1
+asmat-central-keenakap-fos       	mokoper	   1	   1
+asmat-central-keenakap-kaimo     	mokopir	   1	   1
+asmat-central-keenakap-namen     	mokoper	   1	   1
+asmat-central-keenok-komar       	mokoper	   1	   1
+asmat-central-keenok-manep       	mokope 	   1	   1
+asmat-central-keenok-sawa-erma   	mokper 	   1	   1
+asmat-central-keenok-yipaer      	mokoper	   1	   1
+asmat-central-mecamup-amanamkai  	mokoper	   1	   1
+asmat-central-mecamup-amisu      	mokoper	   1	   1
+asmat-central-mecamup-kawet      	mokoper	   1	   1
+asmat-central-mecamup-omanesep   	mokoper	   1	   1
+asmat-central-mecamup-yow        	mokoper	   1	   1
+asmat-central-mismam-per         	mokoper	   1	   1
+asmat-central-mismam-suru        	mokoper	   1	   1
+asmat-central-mismam-yepem       	mokoper	   1	   1
+asmat-central-misman-meriten     	mokoper	   1	   1
+asmat-central-simai-ayam         	mokoper	   1	   1
+asmat-central-sokoni             	mokope 	   1	   1
+asmat-central-wooi               	mokape 	   1	   1
+asmat-central-kainak-kapi        	mokper 	   1	   1
+asmat-central-yinak              	mope   	   1	  25
+asmat-north-irogo                	mepere 	   1	  25
+asmat-north-momogo               	mepe   	   1	  25
+asmat-north-pupis                	mepe   	   1	  25
+asmat-north-ti                   	meper  	   1	  25
+citak-citak-senggo               	bököpör	   1	  30
+#
+Concept: 1839_CRY, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-makair     	mate+mate	   1	   1
+asmat-casuarina-coast-otenep     	mate+mate	   1	   1
+asmat-casuarina-coast-pirimapun  	mat+mat  	   1	   1
+asmat-casuarina-coast-tareo      	mota+moto	   1	   1
+asmat-central-keenakap-namen     	mate+met 	   1	   1
+asmat-central-kainak-atat        	moc+moc  	   1	   5
+asmat-central-mecamup-omanesep   	mac+mac  	   1	   5
+asmat-central-mismam-suru        	moc+moc  	   1	   5
+asmat-central-mismam-yepem       	moc+moc  	   1	   5
+asmat-central-simai-ayam         	mec+mec  	   1	   5
+asmat-central-keenok-komar       	mere+mere	   1	   7
+asmat-central-keenok-manep       	muru+muru	   1	   7
+asmat-central-keenok-sawa-erma   	mere+mere	   1	   7
+asmat-central-mine               	mar+mor  	   1	   7
+asmat-north-momogo               	muru+muru	   1	   7
+citak-citak-senggo               	bati+bati	   1	  16
+#
+Concept: 1857_CROCODILE, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-aorket     	eː  	   1	   1
+asmat-casuarina-coast-makair     	öö  	   1	   1
+asmat-casuarina-coast-masin      	ö   	   1	   1
+asmat-casuarina-coast-otenep     	ö   	   1	   1
+asmat-casuarina-coast-pirimapun  	eː  	   1	   1
+asmat-casuarina-coast-tareo      	eː  	   1	   1
+asmat-central-keenakap-miwar     	öö  	   1	   1
+asmat-central-keenakap-namen     	öó/o	   1	   1
+asmat-central-keenok-komar       	ö   	   1	   1
+asmat-central-keenok-manep       	eː  	   1	   1
+asmat-central-keenok-sawa-erma   	eː  	   1	   1
+asmat-central-keenok-yipaer      	e   	   1	   1
+asmat-central-mine               	ö   	   1	   1
+citak-citak-senggo               	öö  	   1	   1
+asmat-central-mecamup-omanesep   	ew  	   1	  13
+asmat-central-mecamup-yow        	ew  	   1	  13
+asmat-central-mismam-suru        	ew  	   1	  13
+asmat-central-mismam-yepem       	ew  	   1	  13
+asmat-central-simai-ayam         	ew  	   1	  13
+citak-citak-senggo               	wö  	   1	  19
+#
+Concept: 185_FIREPLACE, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-aorket     	jawa 	   1	   1
+asmat-casuarina-coast-masin      	jawa 	   1	   1
+asmat-casuarina-coast-otenep     	jawa 	   1	   1
+asmat-casuarina-coast-pirimapun  	jawa 	   1	   1
+asmat-casuarina-coast-tareo      	jawa 	   1	   1
+asmat-central-mecamup-amanamkai  	jowse	   1	   1
+asmat-central-mecamup-amisu      	jowse	   1	   1
+asmat-central-mecamup-ar-nanim   	jowse	   1	   1
+asmat-central-mecamup-cowew-yamew	jowse	   1	   1
+asmat-central-mecamup-kawet      	jowse	   1	   1
+asmat-central-mecamup-omanesep   	jowse	   1	   1
+asmat-central-mecamup-yow        	jowse	   1	   1
+asmat-central-mismam-per         	jowse	   1	   1
+asmat-central-mismam-suru        	jowse	   1	   1
+asmat-central-mismam-yepem       	jowse	   1	   1
+asmat-central-misman-meriten     	jowse	   1	   1
+asmat-central-simai-ayam         	jowse	   1	   1
+asmat-central-kainak-atat        	joːsa	   1	   6
+asmat-central-keenok-komar       	josa 	   1	   6
+asmat-north-momogo               	jose 	   1	   6
+citak-citak-senggo               	zawas	   1	  21
+#
+Concept: 186_SHIN, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-masin      	emen   	   1	   1
+asmat-casuarina-coast-tareo      	emen   	   1	   1
+asmat-central-kainak-ao          	emenmak	   1	   1
+asmat-central-kainak-atat        	emenmak	   1	   1
+asmat-central-kainak-kapi        	emenmak	   1	   1
+asmat-central-kainak-yamas       	emenmak	   1	   1
+asmat-central-keenakap-yaosakor  	emenmak	   1	   1
+asmat-central-keenok-yipaer      	emimak 	   1	   1
+asmat-central-mecamup-amanamkai  	emenmak	   1	   1
+asmat-central-mecamup-amisu      	emenmak	   1	   1
+asmat-central-mecamup-kawet      	emenmak	   1	   1
+asmat-central-mecamup-omanesep   	emenmak	   1	   1
+asmat-central-mecamup-yow        	emenmak	   1	   1
+asmat-central-mismam-per         	emenmak	   1	   1
+asmat-central-mismam-suru        	emenmak	   1	   1
+asmat-central-mismam-uwus        	emenmak	   1	   1
+asmat-central-mismam-yepem       	emenmak	   1	   1
+asmat-central-simai-ayam         	emenmak	   1	   1
+asmat-central-sokoni             	emin   	   1	   1
+asmat-north-irogo                	jimori 	   1	  20
+asmat-north-pupis                	jimae  	   1	  20
+citak-citak-senggo               	zimori 	   1	  22
+#
+Concept: 1886_ARMPIT, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-makair     	amepi 	   1	   1
+asmat-casuarina-coast-masin      	jamepi	   1	   2
+asmat-casuarina-coast-pirimapun  	jamep 	   1	   2
+asmat-casuarina-coast-tareo      	jamepi	   1	   2
+asmat-central-keenakap-fos       	jamap 	   1	   2
+asmat-central-keenakap-miwar     	jamep 	   1	   2
+asmat-central-keenakap-namen     	jamep 	   1	   2
+asmat-central-keenakap-yaosakor  	jamap 	   1	   2
+asmat-central-keenok-komar       	jomom 	   1	   2
+asmat-central-keenok-manep       	jamop 	   1	   2
+asmat-central-keenok-sawa-erma   	jomop 	   1	   2
+asmat-central-keenok-yipaer      	jomop 	   1	   2
+asmat-central-sokoni             	jamip 	   1	   2
+asmat-north-irogo                	jiməpe	   1	   2
+asmat-north-momogo               	jiməp 	   1	   2
+asmat-north-pupis                	jiməp 	   1	   2
+asmat-north-ti                   	jimap 	   1	   2
+asmat-central-kainak-atat        	kap   	   1	   5
+asmat-central-mecamup-amanamkai  	kap   	   1	   5
+asmat-central-mecamup-amisu      	kap   	   1	   5
+asmat-central-mecamup-omanesep   	kap   	   1	   5
+asmat-central-mecamup-yow        	kap   	   1	   5
+asmat-central-mismam-per         	kap   	   1	   5
+asmat-central-mismam-suru        	kap   	   1	   5
+asmat-central-mismam-uwus        	kap   	   1	   5
+asmat-central-mismam-yepem       	kap   	   1	   5
+citak-citak-senggo               	kupu  	   1	   5
+citak-upper-sirec                	kabe  	   1	   5
+#
+Concept: 189_HAIR_BODY, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-aorket     	ufini	   1	   1
+asmat-casuarina-coast-makair     	ufini	   1	   1
+asmat-casuarina-coast-masin      	ufini	   1	   1
+asmat-casuarina-coast-tareo      	ufini	   1	   1
+asmat-north-momogo               	ifine	   1	   1
+asmat-north-pupis                	ifine	   1	   1
+asmat-north-ti                   	ufin 	   1	   1
+asmat-central-keenok-sawa-erma   	ufun 	   1	   1
+asmat-casuarina-coast-otenep     	fini 	   1	   4
+asmat-casuarina-coast-pirimapun  	fini 	   1	   4
+asmat-central-keenakap-fos       	fini 	   1	   4
+asmat-central-keenakap-kaimo     	fini 	   1	   4
+asmat-central-keenakap-miwar     	fina 	   1	   4
+asmat-central-keenakap-namen     	fina 	   1	   4
+asmat-central-keenakap-yaosakor  	fin  	   1	   4
+asmat-central-keenok-komar       	fini 	   1	   4
+asmat-central-keenok-manep       	fini 	   1	   4
+asmat-central-keenok-mu-akani    	fini 	   1	   4
+asmat-central-keenok-sawa-erma   	fini 	   1	   4
+asmat-central-keenok-yipaer      	fini 	   1	   4
+asmat-central-mecamup-amanamkai  	fin  	   1	   4
+asmat-central-mecamup-amisu      	fin  	   1	   4
+asmat-central-mecamup-kawet      	fin  	   1	   4
+asmat-central-mecamup-omanesep   	fin  	   1	   4
+asmat-central-mecamup-yow        	fin  	   1	   4
+asmat-central-mismam-uwus        	fin  	   1	   4
+asmat-central-misman-meriten     	fin  	   1	   4
+asmat-central-sokoni             	fin  	   1	   4
+asmat-central-wooi               	fin  	   1	   4
+asmat-central-yinak              	fin  	   1	   4
+asmat-north-irogo                	fine 	   1	   4
+citak-brazza-river               	fini 	   1	   4
+citak-citak-senggo               	fini 	   1	   4
+citak-upper-sirec                	fini 	   1	   4
+#
+Concept: 1927_BAMBOO, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-masin      	isim          	   1	   1
+asmat-casuarina-coast-otenep     	isim          	   1	   1
+asmat-casuarina-coast-pirimapun  	jisim         	   1	   3
+asmat-casuarina-coast-tareo      	jisim         	   1	   3
+asmat-central-kainak-atat        	siːn          	   1	   5
+asmat-central-keenakap-kaimo     	sini          	   1	   5
+asmat-central-keenakap-namen     	sü/uü/unü/u   	   1	   5
+asmat-central-keenok-komar       	sini          	   1	   5
+asmat-central-keenok-manep       	sini          	   1	   5
+asmat-central-keenok-yipaer      	sini          	   1	   5
+asmat-central-mine               	sü/uü/un      	   1	   5
+asmat-central-wooi               	siun          	   1	   5
+asmat-central-yinak              	siun          	   1	   5
+asmat-north-momogo               	siːne         	   1	   5
+citak-citak-senggo               	sü/uin+sü/uwin	   1	   5
+asmat-central-keenakap-fos       	jiːni         	   1	   6
+asmat-central-mecamup-cowew-yamew	siwin         	   1	  12
+asmat-central-mecamup-omanesep   	siwin         	   1	  12
+asmat-central-mecamup-yow        	siwin         	   1	  12
+asmat-central-mismam-suru        	siwin         	   1	  12
+asmat-central-mismam-yepem       	siwin         	   1	  12
+asmat-central-simai-ayam         	siwin         	   1	  12
+citak-brazza-river               	siwun         	   1	  12
+asmat-central-mecamup-omanesep   	wakan         	  24	  24
+asmat-central-mismam-suru        	wakan         	  24	  24
+asmat-central-mismam-yepem       	wakan         	  24	  24
+#
+Concept: 1959_RAW, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-pirimapun  	nati	   1	   1
+asmat-central-keenakap-namen     	nati	   1	   1
+asmat-central-keenok-komar       	nir 	   1	   3
+asmat-central-mismam-suru        	nec 	   1	   4
+asmat-central-mismam-yepem       	nec 	   1	   4
+asmat-central-simai-ayam         	naci	   1	   4
+citak-citak-senggo               	dati	   1	   7
+#
+Concept: 1965_LOINCLOTH, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-masin      	ajer	   1	   1
+asmat-casuarina-coast-otenep     	ajer	   1	   1
+asmat-casuarina-coast-tareo      	ajer	   1	   1
+asmat-central-kainak-atat        	awar	   1	   4
+asmat-central-mecamup-kawet      	awer	   1	   4
+asmat-central-mecamup-omanesep   	awer	   1	   4
+asmat-central-mecamup-yow        	awer	   1	   4
+asmat-central-mismam-per         	awer	   1	   4
+asmat-central-mismam-suru        	awer	   1	   4
+asmat-central-mismam-yepem       	awer	   1	   4
+asmat-central-simai-ayam         	awer	   1	   4
+asmat-central-keenok-komar       	aere	   1	   5
+asmat-central-keenok-yipaer      	aere	   1	   5
+asmat-north-momogo               	aere	   1	   5
+asmat-central-keenok-mu-akani    	ae  	   1	   6
+#
+Concept: 1970_CANOE, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-masin      	tu	   1	   1
+asmat-casuarina-coast-mayun      	ti	   1	   1
+asmat-casuarina-coast-nanew      	tu	   1	   1
+asmat-casuarina-coast-pirimapun  	tu	   1	   1
+asmat-casuarina-coast-tareo      	ti	   1	   1
+asmat-central-keenakap-fos       	ti	   1	   1
+asmat-central-keenakap-kaimo     	ti	   1	   1
+asmat-central-keenakap-miwar     	ti	   1	   1
+asmat-central-keenakap-namen     	tu	   1	   1
+asmat-central-keenok-komar       	ti	   1	   1
+asmat-central-keenok-manep       	ti	   1	   1
+asmat-central-keenok-mu-akani    	ti	   1	   1
+asmat-central-keenok-sawa-erma   	ti	   1	   1
+asmat-central-mine               	ti	   1	   1
+asmat-central-yinak              	ti	   1	   1
+asmat-north-momogo               	ti	   1	   1
+asmat-north-pupis                	tu	   1	   1
+citak-brazza-river               	ti	   1	   1
+citak-citak-senggo               	ti	   1	   1
+citak-upper-sirec                	ti	   1	   1
+asmat-central-kainak-atat        	ci	   1	   6
+asmat-central-mecamup-amanamkai  	ci	   1	   6
+asmat-central-mecamup-amisu      	ci	   1	   6
+asmat-central-mismam-suru        	ci	   1	   6
+asmat-central-mismam-yepem       	ci	   1	   6
+asmat-central-misman-meriten     	ci	   1	   6
+asmat-central-simai-ayam         	ci	   1	   6
+#
+Concept: 1989_CALF, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-makair     	mu         	   1	   1
+asmat-casuarina-coast-masin      	mo         	   1	   1
+asmat-casuarina-coast-pirimapun  	emenmo     	   1	   3
+asmat-casuarina-coast-tareo      	emenmo     	   1	   3
+asmat-central-kainak-atat        	emen+nas   	   1	   3
+asmat-central-kainak-kapi        	imanmos    	   1	   3
+asmat-central-kainak-yamas       	imenmos    	   1	   3
+asmat-central-keenakap-yaosakor  	emenmo+nesa	   1	   3
+asmat-central-mecamup-ac         	emenmo     	   1	   3
+asmat-central-mecamup-amisu      	imenmo     	   1	   3
+asmat-central-mecamup-kawet      	emenmo     	   1	   3
+asmat-central-mecamup-omanesep   	imenmo     	   1	   3
+asmat-central-mecamup-yow        	emenmo     	   1	   3
+asmat-central-mismam-per         	emenmo     	   1	   3
+asmat-central-mismam-suru        	emenmo     	   1	   3
+asmat-central-mismam-uwus        	emenmo     	   1	   3
+asmat-central-mismam-yepem       	emenmo     	   1	   3
+asmat-central-simai-ayam         	emenmo     	   1	   3
+asmat-central-sokoni             	emin+nes   	   1	   3
+citak-citak-senggo               	iminmu     	   1	   3
+#
+Concept: 2009_DOG, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-masin      	jú/uuri	   1	   1
+asmat-casuarina-coast-nanew      	jú/uuri	   1	   1
+asmat-casuarina-coast-otenep     	juːr   	   1	   1
+asmat-casuarina-coast-pirimapun  	jú/uuri	   1	   1
+asmat-casuarina-coast-tareo      	juru   	   1	   1
+asmat-central-kainak-atat        	juːr   	   1	   1
+asmat-central-keenakap-fos       	juri   	   1	   1
+asmat-central-keenakap-kaimo     	juri   	   1	   1
+asmat-central-keenakap-miwar     	juri   	   1	   1
+asmat-central-keenakap-namen     	jú/uuri	   1	   1
+asmat-central-keenok-komar       	jú/uuri	   1	   1
+asmat-central-keenok-sawa-erma   	juri   	   1	   1
+asmat-central-keenok-yipaer      	juri   	   1	   1
+asmat-central-simai-ayam         	juːr   	   1	   1
+asmat-north-irogo                	juːro  	   1	   1
+citak-upper-sirec                	jur    	   1	   1
+asmat-central-keenok-manep       	jú/uu  	   1	  12
+asmat-central-mine               	jo     	   1	  12
+asmat-central-wooi               	ju     	   1	  12
+asmat-central-yinak              	ju     	   1	  12
+asmat-north-momogo               	jui    	   1	  12
+asmat-central-mecamup-amanamkai  	juwur  	   1	  15
+asmat-central-mecamup-amisu      	juwur  	   1	  15
+asmat-central-mecamup-kawet      	juwur  	   1	  15
+asmat-central-mecamup-omanesep   	juwur  	   1	  15
+asmat-central-mecamup-yow        	juwur  	   1	  15
+asmat-central-mismam-suru        	juwur  	   1	  15
+asmat-central-mismam-yepem       	juwur  	   1	  15
+asmat-north-pupis                	juje   	   1	  28
+citak-citak-senggo               	zuːr   	   1	  29
+asmat-casuarina-coast-nanew      	wuri   	   1	  31
+#
+Concept: 2014_GO_DOWN_DESCEND, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-pirimapun  	naj 	   1	   1
+asmat-casuarina-coast-pirimapun  	nej 	   1	   1
+asmat-central-simai-ayam         	nej 	   1	   1
+asmat-central-kainak-atat        	ni  	   1	   2
+asmat-central-keenakap-namen     	ne  	   1	   2
+asmat-central-keenok-manep       	ni  	   1	   2
+asmat-central-keenok-sawa-erma   	ni  	   1	   2
+asmat-central-keenok-yipaer      	ni  	   1	   2
+asmat-central-mecamup-miwar      	ne  	   1	   2
+asmat-central-mismam-suru        	ni  	   1	   2
+asmat-central-mismam-yepem       	ni  	   1	   2
+asmat-casuarina-coast-pirimapun  	nuwa	   1	  15
+asmat-central-mismam-suru        	now 	   1	  15
+asmat-central-mismam-yepem       	now 	   1	  15
+asmat-central-simai-ayam         	now 	   1	  15
+asmat-central-mismam-suru        	nuw 	   1	  15
+asmat-central-mismam-yepem       	nuw 	   1	  15
+asmat-central-mismam-suru        	kor 	   8	   8
+asmat-central-mismam-yepem       	kor 	   8	   8
+asmat-central-simai-ayam         	kor 	   8	   8
+#
+Concept: 208_NASAL_MUCUS_SNOT, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-aorket     	mit 	   1	   1
+asmat-casuarina-coast-masin      	mita	   1	   1
+asmat-casuarina-coast-pirimapun  	mit 	   1	   1
+asmat-casuarina-coast-tareo      	miti	   1	   1
+asmat-central-kainak-atat        	mita	   1	   1
+asmat-central-keenakap-namen     	mite	   1	   1
+asmat-central-mecamup-amanamkai  	mite	   1	   1
+asmat-central-mecamup-omanesep   	mite	   1	   1
+asmat-central-mecamup-yow        	mite	   1	   1
+asmat-central-mismam-per         	mita	   1	   1
+asmat-central-mismam-suru        	mita	   1	   1
+asmat-central-mismam-uwus        	mita	   1	   1
+asmat-central-mismam-yepem       	mita	   1	   1
+asmat-central-simai-ayam         	miti	   1	   1
+asmat-central-sokoni             	mite	   1	   1
+citak-citak-senggo               	miti	   1	   1
+asmat-central-keenok-komar       	mira	   1	   7
+asmat-central-keenok-manep       	mira	   1	   7
+#
+Concept: 2098_FOOT_OR_LEG, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-aorket     	maji 	   1	   1
+asmat-casuarina-coast-makair     	maji 	   1	   1
+asmat-casuarina-coast-masin      	maji 	   1	   1
+asmat-casuarina-coast-pirimapun  	maji 	   1	   1
+asmat-casuarina-coast-tareo      	maji 	   1	   1
+asmat-central-keenakap-kaimo     	maji 	   1	   1
+asmat-central-keenakap-namen     	maji 	   1	   1
+asmat-central-keenakap-yaosakor  	maji 	   1	   1
+asmat-central-mecamup-amanamkai  	maj  	   1	   1
+asmat-central-mecamup-amisu      	maj  	   1	   1
+asmat-central-mecamup-omanesep   	maj  	   1	   1
+asmat-central-mismam-per         	maj  	   1	   1
+asmat-central-mismam-suru        	maj  	   1	   1
+asmat-central-mismam-uwus        	maj  	   1	   1
+asmat-central-mismam-yepem       	maj  	   1	   1
+asmat-central-simai-ayam         	mej  	   1	   1
+asmat-central-wooi               	maji 	   1	   1
+asmat-central-yinak              	maji 	   1	   1
+asmat-north-momogo               	maji 	   1	   1
+asmat-north-pupis                	maje 	   1	   1
+asmat-central-kainak-atat        	me   	   1	   6
+asmat-central-kainak-kapi        	me   	   1	   6
+asmat-central-keenakap-fos       	mai  	   1	   6
+asmat-central-keenakap-miwar     	mai  	   1	   6
+asmat-central-keenok-komar       	mí/ii	   1	   6
+asmat-central-keenok-manep       	mé/ee	   1	   6
+asmat-central-keenok-sawa-erma   	mí/ii	   1	   6
+asmat-central-keenok-yipaer      	me   	   1	   6
+asmat-central-sokoni             	mai  	   1	   6
+asmat-north-irogo                	mí/ii	   1	   6
+asmat-north-ti                   	mí/ii	   1	   6
+asmat-central-kainak-yamas       	mew  	   1	   8
+asmat-central-mecamup-kawet      	mew  	   1	   8
+citak-brazza-river               	bue  	   1	  34
+citak-citak-senggo               	baj  	   1	  35
+citak-upper-sirec                	baji 	   1	  35
+#
+Concept: 2099_CHILD, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-aorket     	jií/i  	   1	   1
+asmat-casuarina-coast-otenep     	jií/i  	   1	   1
+asmat-casuarina-coast-pirimapun  	jií/i  	   1	   1
+asmat-central-kainak-atat        	jií/i  	   1	   1
+asmat-central-keenakap-namen     	jü/uü/u	   1	   1
+asmat-central-keenok-sawa-erma   	jií/i  	   1	   1
+asmat-north-irogo                	jií/i  	   1	   1
+asmat-casuarina-coast-makair     	jiwi   	   1	   2
+asmat-central-mecamup-amanamkai  	jiwi   	   1	   2
+asmat-central-mecamup-cowew-yamew	jiwi   	   1	   2
+asmat-central-mecamup-kawet      	jiwi   	   1	   2
+asmat-central-mecamup-omanesep   	jiwi   	   1	   2
+asmat-central-mismam-suru        	jiwi   	   1	   2
+asmat-central-mismam-yepem       	jiwi   	   1	   2
+asmat-central-simai-ayam         	jiwi   	   1	   2
+asmat-casuarina-coast-masin      	iː     	   1	   3
+asmat-casuarina-coast-masin      	iwi    	   1	  17
+#
+Concept: 2100_THATCH_OR_ROOF, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-aorket     	wene  	   1	   1
+asmat-casuarina-coast-pirimapun  	wene  	   1	   1
+asmat-casuarina-coast-tareo      	wene  	   1	   1
+asmat-central-keenakap-fos       	wone  	   1	   1
+asmat-central-keenakap-namen     	wanöe 	   1	   1
+asmat-central-keenok-komar       	wene  	   1	   1
+asmat-central-keenok-manep       	wene  	   1	   1
+asmat-central-keenok-monu        	wane  	   1	   1
+asmat-central-keenok-sawa-erma   	wene  	   1	   1
+asmat-central-keenok-yipaer      	wene  	   1	   1
+asmat-central-mine               	wanü/u	   1	   1
+asmat-central-sokoni             	wane  	   1	   1
+asmat-north-momogo               	wane  	   1	   1
+asmat-north-pupis                	wane  	   1	   1
+asmat-north-ti                   	wene  	   1	   1
+asmat-casuarina-coast-makair     	one   	   1	   2
+asmat-casuarina-coast-otenep     	onowe 	   1	   2
+asmat-central-kainak-atat        	one   	   1	   2
+asmat-central-kainak-yamas       	one   	   1	   2
+asmat-central-mecamup-amanamkai  	onow  	   1	   2
+asmat-central-mecamup-amisu      	onew  	   1	   2
+asmat-central-mecamup-kawet      	onew  	   1	   2
+asmat-central-mecamup-omanesep   	onow  	   1	   2
+asmat-central-mecamup-yow        	onew  	   1	   2
+asmat-central-mismam-per         	onow  	   1	   2
+asmat-central-mismam-suru        	onow  	   1	   2
+asmat-central-mismam-yepem       	onow  	   1	   2
+asmat-central-misman-meriten     	onow  	   1	   2
+asmat-central-simai-ayam         	onew  	   1	   2
+citak-citak-senggo               	one   	   1	   2
+asmat-central-mecamup-omanesep   	onew  	   1	   2
+#
+Concept: 2101_BE_DEAD_OR_DIE, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-aorket     	nami+ri	   1	   1
+asmat-casuarina-coast-pirimapun  	namir  	   1	   1
+asmat-central-keenakap-namen     	namir  	   1	   1
+asmat-central-keenok-komar       	nimir  	   1	   1
+asmat-central-mecamup-amisu      	namir  	   1	   1
+asmat-central-mecamup-omanesep   	namir  	   1	   1
+asmat-central-mismam-per         	namir  	   1	   1
+asmat-central-mismam-suru        	namir  	   1	   1
+asmat-central-mismam-yepem       	namir  	   1	   1
+asmat-central-simai-ayam         	namir  	   1	   1
+asmat-central-sokoni             	nimir  	   1	   1
+citak-citak-senggo               	damir  	   1	  12
+#
+Concept: 2103_PAINFUL_OR_SICK, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-aorket     	nam   	   1	   1
+asmat-casuarina-coast-makair     	namu  	   1	   1
+asmat-casuarina-coast-otenep     	nam   	   1	   1
+asmat-central-kainak-atat        	nam   	   1	   1
+asmat-central-keenok-manep       	namo  	   1	   1
+asmat-central-keenok-sawa-erma   	nomo  	   1	   1
+asmat-central-keenok-yipaer      	nomo  	   1	   1
+asmat-central-mecamup-amanamkai  	nam   	   1	   1
+asmat-central-mecamup-amisu      	nam   	   1	   1
+asmat-central-mecamup-omanesep   	nam   	   1	   1
+asmat-central-mismam-per         	nam   	   1	   1
+asmat-central-sokoni             	nam   	   1	   1
+asmat-casuarina-coast-pirimapun  	nam   	   1	   1
+asmat-central-keenakap-namen     	nam   	   1	   1
+asmat-central-keenok-komar       	nomo  	   1	   1
+asmat-central-mismam-suru        	nam   	   1	   1
+asmat-central-mismam-yepem       	nam   	   1	   1
+asmat-central-simai-ayam         	nam   	   1	   1
+citak-citak-senggo               	damo  	   1	  26
+asmat-casuarina-coast-pirimapun  	asesak	   4	   4
+asmat-central-keenakap-namen     	asesa 	   4	   4
+asmat-central-keenok-komar       	asesok	   4	   4
+asmat-central-mismam-suru        	asesak	   4	   4
+asmat-central-mismam-yepem       	asesak	   4	   4
+asmat-central-simai-ayam         	asesak	   4	   4
+citak-citak-senggo               	asös  	   4	   4
+#
+Concept: 2105_FEMALE_PERSON, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-aorket     	tapes	   1	   1
+asmat-casuarina-coast-masin      	tapes	   1	   1
+asmat-casuarina-coast-otenep     	tapes	   1	   1
+asmat-casuarina-coast-pirimapun  	tapes	   1	   1
+asmat-central-keenakap-kaimo     	tapes	   1	   1
+asmat-central-keenakap-miwar     	tapes	   1	   1
+asmat-central-keenok-komar       	tepes	   1	   1
+asmat-central-keenok-manep       	tepes	   1	   1
+asmat-central-keenok-sawa-erma   	tepes	   1	   1
+asmat-central-keenok-yipaer      	tepes	   1	   1
+asmat-central-sokoni             	tapes	   1	   1
+asmat-central-wooi               	tapes	   1	   1
+asmat-central-yinak              	tapes	   1	   1
+citak-citak-senggo               	tapes	   1	   1
+asmat-central-mismam-suru        	cəpes	   1	  11
+asmat-central-mismam-yepem       	cəpes	   1	  11
+asmat-central-simai-ayam         	cəpes	   1	  11
+#
+Concept: 2121_ARM_OR_HAND, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-aorket     	mane  	   1	   1
+asmat-casuarina-coast-makair     	mane  	   1	   1
+asmat-casuarina-coast-masin      	man   	   1	   1
+asmat-casuarina-coast-otenep     	man   	   1	   1
+asmat-casuarina-coast-pirimapun  	mane  	   1	   1
+asmat-casuarina-coast-tareo      	mane  	   1	   1
+asmat-central-kainak-ao          	man   	   1	   1
+asmat-central-kainak-atat        	man   	   1	   1
+asmat-central-kainak-kapi        	man   	   1	   1
+asmat-central-kainak-yamas       	man   	   1	   1
+asmat-central-keenakap-awok      	man   	   1	   1
+asmat-central-keenakap-fos       	mane  	   1	   1
+asmat-central-keenakap-kaimo     	man   	   1	   1
+asmat-central-keenakap-miwar     	man   	   1	   1
+asmat-central-keenakap-namen     	man   	   1	   1
+asmat-central-keenakap-yaosakor  	man   	   1	   1
+asmat-central-keenok-komar       	man   	   1	   1
+asmat-central-keenok-manep       	man   	   1	   1
+asmat-central-keenok-mu-akani    	man   	   1	   1
+asmat-central-keenok-sawa-erma   	man   	   1	   1
+asmat-central-keenok-yipaer      	man   	   1	   1
+asmat-central-mecamup-ac         	man   	   1	   1
+asmat-central-mecamup-amanamkai  	man   	   1	   1
+asmat-central-mecamup-amisu      	man   	   1	   1
+asmat-central-mecamup-ar-nanim   	man   	   1	   1
+asmat-central-mecamup-miwar      	man   	   1	   1
+asmat-central-mismam-per         	man   	   1	   1
+asmat-central-mismam-suru        	man   	   1	   1
+asmat-central-mismam-uwus        	man   	   1	   1
+asmat-central-mismam-yepem       	man   	   1	   1
+asmat-central-misman-meriten     	man   	   1	   1
+asmat-central-simai-ayam         	man   	   1	   1
+asmat-central-wooi               	man   	   1	   1
+asmat-central-yinak              	man   	   1	   1
+asmat-north-momogo               	mane  	   1	   1
+asmat-north-pupis                	mane  	   1	   1
+asmat-north-ti                   	man   	   1	   1
+citak-brazza-river               	man   	   1	   1
+citak-citak-senggo               	man   	   1	   1
+citak-upper-sirec                	man   	   1	   1
+asmat-central-sokoni             	mahan 	   1	  36
+asmat-north-irogo                	mafane	   1	  39
+asmat-central-mecamup-kawet      	sep   	  26	  26
+asmat-central-mecamup-omanesep   	sep   	  26	  26
+asmat-central-mecamup-yow        	sap   	  26	  26
+asmat-casuarina-coast-masin      	sope  	  26	  26
+asmat-central-kainak-ao          	sop   	  26	  26
+asmat-central-kainak-atat        	sop   	  26	  26
+asmat-central-kainak-kapi        	sop   	  26	  26
+asmat-central-kainak-yamas       	sop   	  26	  26
+asmat-central-keenakap-kaimo     	sep   	  26	  26
+asmat-central-keenakap-namen     	sop   	  26	  26
+asmat-central-keenok-komar       	sop   	  26	  26
+asmat-central-keenok-manep       	sep   	  26	  26
+asmat-central-keenok-sawa-erma   	sop   	  26	  26
+asmat-central-keenok-yipaer      	sep   	  26	  26
+asmat-central-mecamup-amanamkai  	sop   	  26	  26
+asmat-central-mecamup-amisu      	sap   	  26	  26
+asmat-central-mismam-per         	sep   	  26	  26
+asmat-central-mismam-suru        	sep   	  26	  26
+asmat-central-mismam-yepem       	sep   	  26	  26
+asmat-central-misman-meriten     	sep   	  26	  26
+asmat-central-simai-ayam         	sop   	  26	  26
+asmat-central-sokoni             	sopmak	  26	  26
+asmat-north-irogo                	sepe  	  26	  26
+asmat-north-pupis                	sep   	  26	  26
+asmat-north-ti                   	sepe  	  26	  26
+asmat-central-kainak-atat        	sap   	  26	  26
+asmat-central-mecamup-amisu      	sep   	  26	  26
+asmat-central-wooi               	somak 	  26	  65
+asmat-central-yinak              	somak 	  26	  65
+#
+Concept: 2207_goanna, False Positives: no, False Negatives: yes
+asmat-central-keenok-sawa-erma   	wiri	   1	   1
+asmat-north-momogo               	wiri	   1	   1
+asmat-central-mecamup-omanesep   	uc  	   1	   2
+asmat-central-mismam-suru        	uc  	   1	   2
+asmat-central-mismam-yepem       	uc  	   1	   2
+asmat-central-simai-ayam         	uc  	   1	   2
+#
+Concept: 221_FIRE, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-aorket     	jisa    	   1	   1
+asmat-casuarina-coast-masin      	jü/usmak	   1	   1
+asmat-casuarina-coast-pirimapun  	jisa    	   1	   1
+asmat-casuarina-coast-tareo      	jisa    	   1	   1
+asmat-central-kainak-atat        	jismak  	   1	   1
+asmat-central-kainak-yamas       	jismak  	   1	   1
+asmat-central-keenakap-miwar     	jismak  	   1	   1
+asmat-central-keenakap-namen     	jü/usmak	   1	   1
+asmat-central-keenakap-yaosakor  	jismak  	   1	   1
+asmat-central-keenok-komar       	jismak  	   1	   1
+asmat-central-keenok-mu-akani    	jismak  	   1	   1
+asmat-central-keenok-sawa-erma   	jismak  	   1	   1
+asmat-central-mecamup-cowew-yamew	jismak  	   1	   1
+asmat-central-mecamup-kawet      	jismak  	   1	   1
+asmat-central-mismam-per         	jismak  	   1	   1
+asmat-central-mismam-suru        	jismak  	   1	   1
+asmat-central-mismam-yepem       	jismak  	   1	   1
+asmat-central-simai-ayam         	jismak  	   1	   1
+asmat-central-sokoni             	jismak  	   1	   1
+asmat-north-momogo               	jü/usmak	   1	   1
+asmat-north-pupis                	jismak  	   1	   1
+citak-brazza-river               	jisa    	   1	   1
+citak-upper-sirec                	jisamuk 	   1	   1
+asmat-casuarina-coast-otenep     	isa     	   1	   3
+asmat-central-mecamup-omanesep   	ismak   	   1	   3
+asmat-central-mecamup-yow        	ismak   	   1	   3
+citak-citak-senggo               	isa     	   1	   3
+asmat-central-mecamup-kawet      	ismak   	   1	   3
+asmat-central-keenok-manep       	jimak   	   1	  12
+asmat-central-wooi               	jimuk   	   1	  12
+asmat-central-yinak              	jimuk   	   1	  12
+asmat-north-momogo               	jumak   	   1	  12
+#
+Concept: 2240_crownpigeon, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-otenep     	joa 	   1	   1
+asmat-central-keenakap-namen     	ju  	   1	   1
+asmat-central-keenok-sawa-erma   	jo  	   1	   1
+asmat-central-mecamup-omanesep   	jo  	   1	   1
+asmat-central-mismam-suru        	jo  	   1	   1
+asmat-central-mismam-yepem       	jo  	   1	   1
+asmat-central-simai-ayam         	ju  	   1	   1
+asmat-north-momogo               	jufu	   1	   8
+asmat-north-pupis                	jufu	   1	   8
+#
+Concept: 2259_FLESH, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-makair     	nasa	   1	   1
+asmat-casuarina-coast-masin      	nasa	   1	   1
+asmat-casuarina-coast-pirimapun  	nasa	   1	   1
+asmat-casuarina-coast-tareo      	nasa	   1	   1
+asmat-central-kainak-atat        	nas 	   1	   1
+asmat-central-keenakap-fos       	nasa	   1	   1
+asmat-central-keenakap-kaimo     	nasa	   1	   1
+asmat-central-keenakap-miwar     	nasa	   1	   1
+asmat-central-keenakap-namen     	nasa	   1	   1
+asmat-central-keenakap-yaosakor  	nesa	   1	   1
+asmat-central-keenok-komar       	nese	   1	   1
+asmat-central-keenok-manep       	nese	   1	   1
+asmat-central-keenok-sawa-erma   	nese	   1	   1
+asmat-central-mecamup-amanamkai  	nas 	   1	   1
+asmat-central-mecamup-amisu      	nas 	   1	   1
+asmat-central-mecamup-omanesep   	nas 	   1	   1
+asmat-central-mecamup-yow        	nas 	   1	   1
+asmat-central-mismam-suru        	nes 	   1	   1
+asmat-central-mismam-yepem       	nes 	   1	   1
+asmat-central-simai-ayam         	nas 	   1	   1
+asmat-central-sokoni             	nes 	   1	   1
+asmat-central-wooi               	nas 	   1	   1
+asmat-central-yinak              	nas 	   1	   1
+asmat-north-irogo                	nesa	   1	   1
+asmat-north-momogo               	nese	   1	   1
+asmat-north-pupis                	nese	   1	   1
+asmat-north-ti                   	nes 	   1	   1
+citak-citak-senggo               	dasa	   1	  28
+#
+Concept: 2275_SHADOW, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-tareo      	jupəru	   1	   1
+asmat-central-mismam-suru        	jipir 	   1	   1
+asmat-central-mismam-yepem       	jipir 	   1	   1
+asmat-central-simai-ayam         	jipir 	   1	   1
+citak-citak-senggo               	zip   	   1	   5
+#
+Concept: 2304_THEE_OBLIQUE_CASE_OF_YOU, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-otenep     	woro	   1	   1
+asmat-central-keenakap-namen     	wor 	   1	   1
+asmat-central-keenok-komar       	wer 	   1	   1
+asmat-central-keenok-sawa-erma   	wer 	   1	   1
+asmat-central-keenok-yipaer      	wer 	   1	   1
+citak-citak-senggo               	wor 	   1	   1
+asmat-casuarina-coast-pirimapun  	oro 	   1	   2
+asmat-central-kainak-atat        	or  	   1	   2
+asmat-central-mismam-suru        	or  	   1	   2
+asmat-central-mismam-yepem       	or  	   1	   2
+asmat-central-simai-ayam         	or  	   1	   2
+asmat-central-sokoni             	wo  	   1	  11
+asmat-north-momogo               	we  	   1	  11
+asmat-north-pupis                	we  	   1	  11
+#
+Concept: 2312_YOU_OBLIQUE_CASE_OF_YOU, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-pirimapun  	tara	   1	   1
+asmat-central-keenakap-namen     	tar 	   1	   1
+asmat-central-keenok-komar       	tar 	   1	   1
+asmat-central-keenok-sawa-erma   	tar 	   1	   1
+citak-citak-senggo               	tar 	   1	   1
+asmat-central-kainak-atat        	ca  	   1	   2
+asmat-central-mismam-suru        	ca  	   1	   2
+asmat-central-mismam-yepem       	ca  	   1	   2
+asmat-central-simai-ayam         	ca  	   1	   2
+asmat-central-sokoni             	ta  	   1	   9
+asmat-central-kainak-atat        	car 	   1	  11
+asmat-central-mismam-suru        	car 	   1	  11
+asmat-central-mismam-yepem       	car 	   1	  11
+asmat-central-simai-ayam         	car 	   1	  11
+#
+Concept: 235_FLYING_FOX, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-masin      	tare 	   1	   1
+asmat-casuarina-coast-otenep     	tare 	   1	   1
+asmat-casuarina-coast-pirimapun  	tar  	   1	   1
+asmat-central-keenakap-namen     	tare 	   1	   1
+asmat-central-keenok-komar       	tare 	   1	   1
+asmat-central-keenok-sawa-erma   	tare 	   1	   1
+asmat-central-keenok-yipaer      	tere 	   1	   1
+asmat-central-mismam-suru        	ter  	   1	   1
+asmat-central-mismam-yepem       	ter  	   1	   1
+asmat-central-simai-ayam         	tar  	   1	   1
+citak-citak-senggo               	tare 	   1	   1
+asmat-north-momogo               	té/ee	   1	  11
+#
+Concept: 2371_BREADFRUIT, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-pirimapun  	paó/o	   1	   1
+asmat-central-keenakap-fos       	poó/o	   1	   1
+asmat-central-keenakap-miwar     	paó/o	   1	   1
+asmat-central-keenakap-namen     	paú/u	   1	   1
+asmat-central-keenok-komar       	paá/a	   1	   1
+asmat-central-keenok-monu        	pa   	   1	   1
+asmat-central-keenok-yipaer      	pa   	   1	   1
+asmat-central-mine               	po   	   1	   1
+asmat-north-momogo               	po   	   1	   1
+asmat-north-pupis                	po   	   1	   1
+asmat-central-keenakap-fos       	poó/o	   1	   1
+asmat-central-mecamup-kawet      	pow  	   1	   8
+asmat-central-mecamup-omanesep   	pow  	   1	   8
+asmat-central-mismam-suru        	pow  	   1	   8
+asmat-central-mismam-yepem       	pow  	   1	   8
+asmat-central-simai-ayam         	pow  	   1	   8
+#
+Concept: 2372_SAGO_PALM, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-masin      	to      	   1	   1
+asmat-casuarina-coast-nanew      	tao     	   1	   1
+asmat-casuarina-coast-otenep     	to      	   1	   1
+asmat-central-keenok-komar       	taː     	   1	   1
+asmat-central-keenok-sawa-erma   	taː     	   1	   1
+asmat-central-keenok-yipaer      	ta      	   1	   1
+asmat-north-irogo                	toː     	   1	   1
+asmat-central-kainak-atat        	cau     	   1	   4
+asmat-central-keenok-manep       	təwa    	   1	   6
+asmat-central-mecamup-amisu      	caw     	   1	   9
+asmat-central-mecamup-omanesep   	cow     	   1	   9
+asmat-central-mecamup-yow        	caw     	   1	   9
+asmat-central-mecamup-yow        	cow     	   1	   9
+asmat-central-mismam-suru        	cow     	   1	   9
+asmat-central-mismam-yepem       	cow     	   1	   9
+asmat-central-simai-ayam         	cow     	   1	   9
+asmat-central-mecamup-kawet      	junum   	  10	  10
+asmat-central-mismam-suru        	jinum   	  10	  10
+asmat-central-mismam-yepem       	jinum   	  10	  10
+asmat-central-simai-ayam         	junum   	  10	  10
+asmat-north-momogo               	junü/umu	  10	  10
+asmat-north-ti                   	jənum   	  10	  10
+#
+Concept: 2378_THUNDER_VERB, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-aorket     	wuru	   1	   1
+asmat-casuarina-coast-masin      	wuru	   1	   1
+asmat-casuarina-coast-pirimapun  	wur 	   1	   1
+asmat-central-keenakap-namen     	wur 	   1	   1
+asmat-central-keenok-komar       	wur 	   1	   1
+asmat-central-keenok-sawa-erma   	wur 	   1	   1
+asmat-central-mecamup-amanamkai  	wur 	   1	   1
+asmat-central-mecamup-amisu      	wur 	   1	   1
+asmat-central-mecamup-cowew-yamew	wur 	   1	   1
+asmat-central-mecamup-omanesep   	wur 	   1	   1
+asmat-central-mismam-suru        	wur 	   1	   1
+asmat-central-mismam-yepem       	wur 	   1	   1
+asmat-central-simai-ayam         	wir 	   1	   1
+citak-citak-senggo               	viː 	   1	  14
+#
+Concept: 2389_carving, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-tareo      	waw  	   1	   1
+asmat-central-keenakap-yaosakor  	wow  	   1	   1
+asmat-central-mecamup-amanamkai  	wow  	   1	   1
+asmat-central-mecamup-omanesep   	wow  	   1	   1
+asmat-central-mecamup-yow        	wow  	   1	   1
+asmat-central-mismam-suru        	wow  	   1	   1
+asmat-central-mismam-yepem       	wow  	   1	   1
+asmat-central-simai-ayam         	wow  	   1	   1
+asmat-central-keenakap-fos       	wao  	   1	   2
+asmat-central-keenok-mu-akani    	wó/oo	   1	   2
+asmat-north-momogo               	wo   	   1	   2
+asmat-north-pupis                	wo   	   1	   2
+#
+Concept: 238_PRAWNS, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-aorket     	me  	   1	   1
+asmat-casuarina-coast-masin      	me  	   1	   1
+asmat-casuarina-coast-otenep     	me  	   1	   1
+asmat-casuarina-coast-pirimapun  	me  	   1	   1
+asmat-casuarina-coast-tareo      	me  	   1	   1
+asmat-central-kainak-atat        	me  	   1	   1
+asmat-central-keenok-komar       	me  	   1	   1
+asmat-central-keenok-manep       	me  	   1	   1
+asmat-central-keenok-sawa-erma   	me  	   1	   1
+asmat-central-keenok-yipaer      	me  	   1	   1
+asmat-central-mecamup-omanesep   	me  	   1	   1
+asmat-central-mine               	me  	   1	   1
+asmat-central-mismam-suru        	me  	   1	   1
+asmat-central-mismam-yepem       	me  	   1	   1
+asmat-central-simai-ayam         	me  	   1	   1
+citak-citak-senggo               	be  	   1	  16
+asmat-casuarina-coast-masin      	sis 	  17	  17
+asmat-casuarina-coast-otenep     	sis 	  17	  17
+asmat-casuarina-coast-tareo      	sis 	  17	  17
+asmat-central-kainak-atat        	sisi	  17	  17
+asmat-central-keenok-manep       	sis 	  17	  17
+asmat-central-keenok-sawa-erma   	sis 	  17	  17
+asmat-central-keenok-yipaer      	sis 	  17	  17
+asmat-central-mecamup-omanesep   	sisi	  17	  17
+asmat-central-mismam-suru        	sisi	  17	  17
+asmat-central-mismam-yepem       	sisi	  17	  17
+asmat-central-simai-ayam         	sisi	  17	  17
+#
+Concept: 2393_sagotrough, False Positives: no, False Negatives: yes
+asmat-central-kainak-yamas       	an  	   1	   1
+asmat-central-mecamup-amanamkai  	an  	   1	   1
+asmat-central-mecamup-kawet      	an  	   1	   1
+asmat-central-mecamup-yow        	an  	   1	   1
+asmat-central-mismam-suru        	an  	   1	   1
+asmat-central-mismam-yepem       	an  	   1	   1
+asmat-central-simai-ayam         	an  	   1	   1
+asmat-north-momogo               	wane	   1	   8
+asmat-north-pupis                	wane	   1	   8
+#
+Concept: 239_FLOWER, False Positives: no, False Negatives: yes
+asmat-central-mismam-suru        	ciwew 	   1	   1
+citak-citak-senggo               	taü/ua	   1	   2
+#
+Concept: 2405_fishweir, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-otenep     	fera 	   1	   1
+asmat-central-keenok-komar       	fere 	   1	   1
+asmat-central-mecamup-amisu      	fer  	   1	   1
+asmat-central-mecamup-cowew-yamew	fer  	   1	   1
+asmat-central-mecamup-kawet      	fer  	   1	   1
+asmat-central-mecamup-omanesep   	fer  	   1	   1
+asmat-central-mecamup-yow        	fer  	   1	   1
+asmat-central-mismam-per         	fer  	   1	   1
+asmat-central-mismam-suru        	fer  	   1	   1
+asmat-central-mismam-yepem       	fer  	   1	   1
+asmat-north-irogo                	fere 	   1	   1
+asmat-central-keenok-manep       	fé/ee	   1	   3
+asmat-north-momogo               	fé/ee	   1	   3
+asmat-north-pupis                	fe   	   1	   3
+#
+Concept: 2412_secretly, False Positives: no, False Negatives: yes
+asmat-central-mismam-suru        	curuw   	   1	   1
+asmat-central-mismam-yepem       	curuw   	   1	   1
+asmat-central-simai-ayam         	curuw   	   1	   1
+citak-citak-senggo               	tü/urü/u	   1	   4
+#
+Concept: 2415_bushfowl, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-pirimapun  	one  	   1	   1
+asmat-central-keenakap-namen     	oá/an	   1	   1
+asmat-central-keenok-komar       	ó/oon	   1	   1
+asmat-central-keenok-manep       	ó/oon	   1	   1
+asmat-central-keenok-sawa-erma   	on   	   1	   1
+asmat-central-keenok-yipaer      	ó/oon	   1	   1
+asmat-central-keenakap-miwar     	owon 	   1	   2
+asmat-central-mismam-suru        	owan 	   1	   2
+asmat-central-mismam-yepem       	owan 	   1	   2
+asmat-central-simai-ayam         	owon 	   1	   2
+#
+Concept: 2417_ceremonialhouse, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-otenep     	jaw  	   1	   1
+asmat-central-mecamup-amisu      	jew  	   1	   1
+asmat-central-mecamup-cowew-yamew	jew  	   1	   1
+asmat-central-mecamup-kawet      	jew  	   1	   1
+asmat-central-mecamup-omanesep   	jew  	   1	   1
+asmat-central-mecamup-yow        	jew  	   1	   1
+asmat-central-mismam-suru        	jew  	   1	   1
+asmat-central-mismam-yepem       	jew  	   1	   1
+asmat-central-simai-ayam         	jew  	   1	   1
+asmat-central-kainak-yamas       	je   	   1	   2
+asmat-central-keenakap-fos       	já/ae	   1	   2
+asmat-central-keenakap-yaosakor  	já/ae	   1	   2
+asmat-central-keenok-yipaer      	je   	   1	   2
+asmat-central-mine               	jö   	   1	   2
+#
+Concept: 2419_contents, False Positives: no, False Negatives: yes
+asmat-central-kainak-atat        	cənam	   1	   1
+asmat-central-mecamup-amanamkai  	cənam	   1	   1
+asmat-central-mecamup-amisu      	cənam	   1	   1
+asmat-central-mecamup-kawet      	cənam	   1	   1
+asmat-central-mecamup-omanesep   	cənam	   1	   1
+asmat-central-mecamup-yow        	cənam	   1	   1
+asmat-central-mismam-per         	cənam	   1	   1
+asmat-central-mismam-suru        	cənam	   1	   1
+asmat-central-mismam-uwus        	cənam	   1	   1
+asmat-central-mismam-yepem       	cənam	   1	   1
+asmat-central-simai-ayam         	cənam	   1	   1
+asmat-central-keenakap-namen     	tenam	   1	   2
+asmat-central-keenok-komar       	tenem	   1	   2
+asmat-central-keenok-manep       	tanam	   1	   2
+asmat-central-keenok-sawa-erma   	tenem	   1	   2
+citak-citak-senggo               	tanam	   1	   2
+#
+Concept: 2426_nipafruit, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-tareo      	tase	   1	   1
+asmat-central-keenok-sawa-erma   	tase	   1	   1
+asmat-central-mismam-suru        	tes 	   1	   1
+asmat-central-mismam-yepem       	tes 	   1	   1
+asmat-central-simai-ayam         	tas 	   1	   1
+asmat-casuarina-coast-tareo      	mi  	   1	   6
+asmat-central-keenok-sawa-erma   	miː 	   1	   6
+asmat-central-mismam-suru        	miw 	   1	   8
+asmat-central-mismam-yepem       	miw 	   1	   8
+asmat-central-simai-ayam         	miw 	   1	   8
+#
+Concept: 2431_distribution, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-aorket     	saj  	   1	   1
+asmat-central-kainak-atat        	sej  	   1	   1
+asmat-central-mismam-suru        	sej  	   1	   1
+asmat-central-mismam-yepem       	sej  	   1	   1
+asmat-central-simai-ayam         	sej  	   1	   1
+asmat-central-keenok-manep       	sé/ee	   1	   3
+#
+Concept: 2432_drymeat, False Positives: no, False Negatives: yes
+asmat-central-mismam-suru        	sew   	   1	   1
+asmat-central-mismam-yepem       	sew   	   1	   1
+asmat-central-simai-ayam         	sew   	   1	   1
+citak-citak-senggo               	saü/ua	   1	   4
+#
+Concept: 2434_gall, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-pirimapun  	jir  	   1	   1
+asmat-central-keenakap-namen     	jira 	   1	   1
+asmat-central-keenok-komar       	jirak	   1	   1
+asmat-central-mismam-suru        	jir  	   1	   1
+asmat-central-mismam-yepem       	jir  	   1	   1
+asmat-central-simai-ayam         	jir  	   1	   1
+citak-citak-senggo               	ziri 	   1	   7
+#
+Concept: 2437_totremble, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-pirimapun  	tete  	   1	   1
+asmat-central-keenakap-namen     	tete  	   1	   1
+asmat-central-mismam-suru        	titi  	   1	   1
+asmat-central-mismam-yepem       	titi  	   1	   1
+asmat-central-simai-ayam         	titi  	   1	   1
+asmat-central-keenok-komar       	tiriri	   1	   3
+#
+Concept: 2439_arrowshaft, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-nanew      	fira 	   1	   1
+asmat-casuarina-coast-otenep     	fira 	   1	   1
+asmat-casuarina-coast-pirimapun  	fira 	   1	   1
+asmat-casuarina-coast-tareo      	firak	   1	   1
+asmat-central-kainak-atat        	fir  	   1	   1
+asmat-central-kainak-kapi        	fira 	   1	   1
+asmat-central-mecamup-omanesep   	fir  	   1	   1
+asmat-central-mecamup-yow        	fir  	   1	   1
+asmat-central-mismam-suru        	fir  	   1	   1
+asmat-central-mismam-yepem       	fir  	   1	   1
+asmat-central-simai-ayam         	fir  	   1	   1
+asmat-central-keenok-manep       	fií/i	   1	   7
+asmat-central-sokoni             	fi   	   1	   7
+asmat-north-momogo               	fií/i	   1	   7
+asmat-north-pupis                	fií/i	   1	   7
+#
+Concept: 2526_POWER, False Positives: no, False Negatives: yes
+asmat-central-mismam-suru        	tes	   1	   1
+asmat-central-mismam-yepem       	tes	   1	   1
+asmat-central-simai-ayam         	ces	   1	   3
+#
+Concept: 2673_BIRD_OF_PARADISE, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-masin      	jomot  	   1	   1
+asmat-casuarina-coast-otenep     	jomot  	   1	   1
+asmat-casuarina-coast-tareo      	jaomot 	   1	   1
+asmat-central-kainak-atat        	jamapan	   1	   1
+asmat-central-mismam-suru        	jomopan	   1	   1
+asmat-central-mismam-yepem       	jomopan	   1	   1
+asmat-central-simai-ayam         	jomopan	   1	   1
+asmat-casuarina-coast-pirimapun  	jawmut 	   1	   3
+asmat-central-keenakap-kaimo     	joa    	   1	   6
+asmat-central-yinak              	joa    	   1	   6
+citak-brazza-river               	joa    	   1	   6
+citak-upper-sirec                	joa    	   1	   6
+asmat-central-keenok-sawa-erma   	ju+soko	   1	   7
+#
+Concept: 2755_BUSY, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-pirimapun  	tatakaj	   1	   1
+asmat-central-keenakap-namen     	tetaka 	   1	   1
+asmat-central-mismam-suru        	tatakaj	   1	   1
+asmat-central-mismam-yepem       	tatakaj	   1	   1
+asmat-central-simai-ayam         	tetakaj	   1	   1
+asmat-central-keenok-komar       	teraka 	   1	   3
+#
+Concept: 2802_SAGO_GRUB, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-aorket     	to 	   1	   1
+asmat-casuarina-coast-makair     	toː	   1	   1
+asmat-casuarina-coast-masin      	toː	   1	   1
+asmat-casuarina-coast-otenep     	toː	   1	   1
+asmat-casuarina-coast-pirimapun  	to 	   1	   1
+asmat-central-kainak-yamas       	to 	   1	   1
+asmat-central-keenok-manep       	tuː	   1	   1
+asmat-central-keenok-sawa-erma   	toː	   1	   1
+asmat-central-keenok-yipaer      	tuː	   1	   1
+asmat-central-mecamup-ar-nanim   	tow	   1	  10
+asmat-central-mecamup-omanesep   	taw	   1	  10
+asmat-central-mecamup-yow        	tow	   1	  10
+asmat-central-mismam-suru        	tow	   1	  10
+asmat-central-mismam-yepem       	tow	   1	  10
+asmat-central-simai-ayam         	tow	   1	  10
+#
+Concept: 2975_THOUGHT, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-pirimapun  	minip	   1	   1
+asmat-central-keenakap-namen     	minip	   1	   1
+asmat-central-keenok-komar       	minip	   1	   1
+asmat-central-mismam-suru        	minip	   1	   1
+asmat-central-mismam-yepem       	minip	   1	   1
+asmat-central-simai-ayam         	minip	   1	   1
+citak-citak-senggo               	binip	   1	   7
+#
+Concept: 297_CROOKED, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-masin      	fasi 	   1	   1
+asmat-casuarina-coast-pirimapun  	fasi 	   1	   1
+asmat-central-keenakap-namen     	fasi 	   1	   1
+asmat-central-mecamup-omanesep   	fasi 	   1	   1
+asmat-central-mismam-suru        	fasi 	   1	   1
+asmat-central-mismam-yepem       	fasi 	   1	   1
+asmat-central-simai-ayam         	fasi 	   1	   1
+asmat-central-keenok-sawa-erma   	amer 	   1	   4
+asmat-central-simai-ayam         	jamor	   1	   9
+#
+Concept: 3149_ARMLET, False Positives: no, False Negatives: yes
+asmat-central-kainak-yamas       	metan	   1	   1
+asmat-central-keenakap-yaosakor  	metan	   1	   1
+asmat-central-mecamup-amanamkai  	meten	   1	   1
+asmat-central-mecamup-kawet      	meten	   1	   1
+asmat-central-mecamup-yow        	metan	   1	   1
+asmat-central-mismam-per         	meten	   1	   1
+asmat-central-mismam-suru        	meten	   1	   1
+asmat-central-mismam-yepem       	meten	   1	   1
+asmat-central-misman-meriten     	meten	   1	   1
+asmat-central-simai-ayam         	metan	   1	   1
+asmat-north-momogo               	metn 	   1	   1
+asmat-central-keenok-manep       	meren	   1	   3
+#
+Concept: 3260_HORNBILL, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-masin      	jər    	   1	   1
+asmat-casuarina-coast-pirimapun  	jir    	   1	   1
+asmat-casuarina-coast-tareo      	jiru   	   1	   1
+asmat-central-keenakap-yaosakor  	fofojir	   1	   4
+asmat-central-mecamup-amanamkai  	fofojir	   1	   4
+asmat-central-keenok-manep       	iː     	   1	   5
+asmat-central-keenok-sawa-erma   	ir     	   1	   6
+asmat-central-mismam-suru        	ir     	   1	   6
+asmat-central-mismam-uwus        	ir     	   1	   6
+asmat-central-simai-ayam         	ir     	   1	   6
+#
+Concept: 339_DIGGING_STICK, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-tareo      	wom	   1	   1
+asmat-central-keenakap-fos       	omo	   1	   2
+asmat-central-keenakap-yaosakor  	omo	   1	   2
+asmat-central-mecamup-amisu      	om 	   1	   2
+asmat-central-mecamup-kawet      	om 	   1	   2
+asmat-central-mecamup-omanesep   	om 	   1	   2
+asmat-central-mecamup-yow        	om 	   1	   2
+asmat-central-mine               	om 	   1	   2
+asmat-central-mismam-per         	om 	   1	   2
+asmat-central-mismam-suru        	om 	   1	   2
+asmat-central-mismam-yepem       	om 	   1	   2
+asmat-central-simai-ayam         	om 	   1	   2
+asmat-north-momogo               	omo	   1	   2
+#
+Concept: 355_CUT_DOWN, False Positives: no, False Negatives: yes
+asmat-central-keenok-manep       	mo	   1	   1
+asmat-central-keenok-sawa-erma   	mo	   1	   1
+asmat-central-mismam-suru        	ma	   1	   1
+asmat-central-mismam-yepem       	ma	   1	   1
+asmat-central-simai-ayam         	mo	   1	   1
+citak-citak-senggo               	bo	   1	   6
+#
+Concept: 3702_SLIPPERY, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-pirimapun  	jü/utü/ut	   1	   1
+asmat-central-keenakap-namen     	juta     	   1	   1
+asmat-central-keenok-komar       	juru     	   1	   3
+asmat-central-keenok-sawa-erma   	juro     	   1	   3
+asmat-central-sokoni             	jiro     	   1	   3
+asmat-central-mecamup-omanesep   	jico     	   1	   5
+asmat-central-mismam-suru        	jico     	   1	   5
+asmat-central-mismam-yepem       	jico     	   1	   5
+asmat-central-simai-ayam         	jucu     	   1	   5
+citak-citak-senggo               	zü/urü/u 	   1	  10
+#
+Concept: 388_FISHNET, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-masin      	jim 	   1	   1
+asmat-casuarina-coast-pirimapun  	jim 	   1	   1
+asmat-central-kainak-atat        	jim 	   1	   1
+asmat-central-keenakap-namen     	jimi	   1	   1
+asmat-central-keenok-komar       	jimi	   1	   1
+asmat-central-keenok-sawa-erma   	jimi	   1	   1
+asmat-central-mecamup-cowew-yamew	jim 	   1	   1
+asmat-central-mecamup-kawet      	jim 	   1	   1
+asmat-central-mecamup-omanesep   	jim 	   1	   1
+asmat-central-mecamup-yow        	jim 	   1	   1
+asmat-central-mismam-per         	jim 	   1	   1
+asmat-central-mismam-suru        	jim 	   1	   1
+asmat-central-mismam-yepem       	jim 	   1	   1
+asmat-central-simai-ayam         	jim 	   1	   1
+asmat-north-irogo                	jime	   1	   1
+asmat-north-momogo               	jime	   1	   1
+citak-citak-senggo               	zimi	   1	  17
+#
+Concept: 420_FOREST, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-masin      	wasene	   1	   1
+asmat-casuarina-coast-otenep     	wasene	   1	   1
+asmat-casuarina-coast-pirimapun  	wasene	   1	   1
+asmat-casuarina-coast-tareo      	wasene	   1	   1
+asmat-central-kainak-atat        	wasen 	   1	   1
+asmat-central-kainak-yamas       	wasan 	   1	   1
+asmat-central-keenakap-namen     	wasen 	   1	   1
+asmat-central-keenok-komar       	wasen 	   1	   1
+asmat-central-keenok-manep       	wasan 	   1	   1
+asmat-central-keenok-sawa-erma   	wasen 	   1	   1
+asmat-central-mecamup-amanamkai  	wasen 	   1	   1
+asmat-central-mecamup-amisu      	wasen 	   1	   1
+asmat-central-mismam-suru        	wasen 	   1	   1
+asmat-central-mismam-yepem       	wasen 	   1	   1
+asmat-central-simai-ayam         	wasan 	   1	   1
+asmat-central-sokoni             	wasen 	   1	   1
+asmat-central-mismam-suru        	wa    	   1	  17
+asmat-central-mismam-yepem       	wa    	   1	  17
+asmat-central-simai-ayam         	we    	   1	  17
+#
+Concept: 466_CASSOWARY, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-makair     	piru	   1	   1
+asmat-casuarina-coast-masin      	piru	   1	   1
+asmat-casuarina-coast-otenep     	piru	   1	   1
+asmat-casuarina-coast-pirimapun  	puru	   1	   1
+asmat-casuarina-coast-tareo      	puru	   1	   1
+asmat-central-kainak-atat        	pi  	   1	   6
+asmat-central-kainak-yamas       	pi  	   1	   6
+asmat-central-keenakap-kaimo     	pi  	   1	   6
+asmat-central-keenakap-miwar     	pi  	   1	   6
+asmat-central-keenakap-namen     	pi  	   1	   6
+asmat-central-keenok-komar       	pi  	   1	   6
+asmat-central-keenok-manep       	pi  	   1	   6
+asmat-central-keenok-sawa-erma   	pi  	   1	   6
+asmat-central-mecamup-omanesep   	pi  	   1	   6
+asmat-central-mecamup-yow        	pi  	   1	   6
+asmat-central-mine               	pi  	   1	   6
+asmat-central-mismam-suru        	pi  	   1	   6
+asmat-central-mismam-uwus        	pi  	   1	   6
+asmat-central-mismam-yepem       	pi  	   1	   6
+asmat-central-simai-ayam         	pi  	   1	   6
+asmat-central-wooi               	pi  	   1	   6
+asmat-central-yinak              	pi  	   1	   6
+citak-citak-senggo               	pi  	   1	   6
+citak-upper-sirec                	pi  	   1	   6
+#
+Concept: 478_LIP, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-aorket     	ene    	   1	   1
+asmat-casuarina-coast-masin      	ine    	   1	   1
+asmat-casuarina-coast-tareo      	ine    	   1	   1
+asmat-central-keenakap-yaosakor  	ü/unü/u	   1	   1
+asmat-casuarina-coast-pirimapun  	jene   	   1	   3
+asmat-north-momogo               	jine   	   1	   3
+asmat-central-kainak-atat        	e      	   1	   5
+asmat-central-keenakap-namen     	e      	   1	   5
+asmat-central-keenok-komar       	ipni   	   1	   8
+asmat-central-keenok-sawa-erma   	ipni   	   1	   8
+asmat-central-keenok-manep       	iwini  	   1	   9
+asmat-central-mecamup-amanamkai  	ewen   	   1	   9
+asmat-central-mecamup-amisu      	ewen   	   1	   9
+asmat-central-mecamup-omanesep   	ewen   	   1	   9
+asmat-central-mecamup-yow        	ewen   	   1	   9
+asmat-central-mismam-per         	ewen   	   1	   9
+asmat-central-mismam-suru        	ewen   	   1	   9
+asmat-central-mismam-uwus        	ewen   	   1	   9
+asmat-central-mismam-yepem       	ewen   	   1	   9
+asmat-central-simai-ayam         	ewen   	   1	   9
+#
+Concept: 491_CENTER, False Positives: no, False Negatives: yes
+asmat-central-kainak-atat        	wauc 	   1	   1
+asmat-central-keenok-sawa-erma   	wuːr 	   1	   2
+asmat-central-keenok-sawa-erma   	woːr 	   1	   2
+asmat-central-mismam-suru        	wowuc	   1	   3
+asmat-central-mismam-yepem       	wowuc	   1	   3
+asmat-central-simai-ayam         	wowoc	   1	   3
+citak-citak-senggo               	vawta	   1	   3
+#
+Concept: 495_REVENGE, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-pirimapun  	mit 	   1	   1
+asmat-central-keenakap-namen     	miti	   1	   1
+asmat-central-keenok-komar       	miri	   1	   3
+asmat-central-mismam-suru        	mic 	   1	   4
+asmat-central-mismam-yepem       	mic 	   1	   4
+asmat-central-simai-ayam         	mic 	   1	   4
+citak-citak-senggo               	biti	   1	   7
+#
+Concept: 502_NAIL_TOOL, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-aorket     	fit 	   1	   1
+asmat-casuarina-coast-pirimapun  	fit 	   1	   1
+asmat-casuarina-coast-tareo      	fiti	   1	   1
+asmat-north-ti                   	fit 	   1	   1
+citak-citak-senggo               	fiti	   1	   1
+asmat-casuarina-coast-makair     	fiki	   1	   2
+asmat-casuarina-coast-masin      	fiki	   1	   2
+asmat-central-kainak-atat        	fici	   1	   2
+asmat-central-mecamup-omanesep   	fic 	   1	   2
+asmat-central-mecamup-yow        	fic 	   1	   2
+asmat-central-mismam-per         	fic 	   1	   2
+asmat-central-mismam-suru        	fic 	   1	   2
+asmat-central-mismam-uwus        	fic 	   1	   2
+asmat-central-mismam-yepem       	fic 	   1	   2
+asmat-central-simai-ayam         	fic 	   1	   2
+asmat-central-keenok-sawa-erma   	firi	   1	   7
+asmat-north-irogo                	fire	   1	   7
+asmat-north-momogo               	fire	   1	   7
+asmat-north-pupis                	fire	   1	   7
+#
+Concept: 503_FROG, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-pirimapun  	eto  	   1	   1
+asmat-central-keenakap-fos       	eto  	   1	   1
+asmat-central-mecamup-omanesep   	eco  	   1	   5
+asmat-central-mismam-suru        	eco  	   1	   5
+asmat-central-mismam-yepem       	eco  	   1	   5
+asmat-central-simai-ayam         	eco  	   1	   5
+asmat-central-keenakap-namen     	mitin	   3	   3
+asmat-central-keenok-sawa-erma   	mitn 	   3	   3
+citak-citak-senggo               	mitin	   3	   3
+asmat-central-mismam-suru        	mucin	   3	  10
+asmat-central-mismam-yepem       	mucin	   3	  10
+asmat-central-simai-ayam         	micin	   3	  10
+#
+Concept: 51_SORE, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-masin      	nasu	   1	   1
+asmat-casuarina-coast-otenep     	nasu	   1	   1
+asmat-casuarina-coast-pirimapun  	nasu	   1	   1
+asmat-casuarina-coast-tareo      	nasu	   1	   1
+asmat-central-kainak-atat        	noso	   1	   1
+asmat-central-keenakap-namen     	noso	   1	   1
+asmat-central-keenok-komar       	noso	   1	   1
+asmat-central-keenok-sawa-erma   	noso	   1	   1
+asmat-central-mecamup-amanamkai  	noso	   1	   1
+asmat-central-mecamup-amisu      	noso	   1	   1
+asmat-central-mecamup-omanesep   	noso	   1	   1
+asmat-central-mismam-per         	noso	   1	   1
+asmat-central-mismam-suru        	noso	   1	   1
+asmat-central-mismam-yepem       	noso	   1	   1
+asmat-central-simai-ayam         	noso	   1	   1
+asmat-north-momogo               	nusu	   1	   1
+citak-citak-senggo               	dasö	   1	  17
+#
+Concept: 539_NEST, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-pirimapun  	tawa	   1	   1
+asmat-central-keenakap-namen     	to  	   1	   2
+asmat-central-keenok-komar       	to  	   1	   2
+asmat-central-keenok-sawa-erma   	to  	   1	   2
+citak-citak-senggo               	to  	   1	   2
+asmat-central-mecamup-omanesep   	co  	   1	   5
+asmat-central-mismam-suru        	co  	   1	   5
+asmat-central-mismam-yepem       	co  	   1	   5
+asmat-central-simai-ayam         	co  	   1	   5
+#
+Concept: 587_ANT, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-masin      	pirkum 	   1	   1
+asmat-central-keenok-sawa-erma   	pirokom	   1	   1
+asmat-central-mismam-suru        	pirkum 	   1	   1
+asmat-central-mismam-yepem       	pirkum 	   1	   1
+asmat-central-simai-ayam         	pukurum	   1	   5
+asmat-central-mismam-suru        	penam  	   6	   6
+asmat-central-mismam-yepem       	penam  	   6	   6
+asmat-central-simai-ayam         	penam  	   6	   6
+asmat-central-mismam-suru        	mes    	   9	   9
+#
+Concept: 606_GRASS, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-nanew      	finumu	   1	   1
+asmat-casuarina-coast-tareo      	fimini	   1	   2
+asmat-central-keenakap-fos       	fumin 	   1	   2
+asmat-central-keenakap-namen     	fumin 	   1	   2
+asmat-central-keenok-komar       	fomn  	   1	   2
+asmat-central-mecamup-amisu      	fimin 	   1	   2
+asmat-central-mecamup-cowew-yamew	fimin 	   1	   2
+asmat-central-mecamup-kawet      	fimin 	   1	   2
+asmat-central-mecamup-omanesep   	fimin 	   1	   2
+asmat-central-mecamup-yow        	fimin 	   1	   2
+asmat-central-mine               	fimin 	   1	   2
+asmat-central-mismam-suru        	fomin 	   1	   2
+asmat-central-mismam-yepem       	fomin 	   1	   2
+asmat-central-simai-ayam         	fumin 	   1	   2
+citak-citak-senggo               	femen 	   1	   2
+#
+Concept: 628_LEAF, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-aorket     	eː  	   1	   1
+asmat-casuarina-coast-pirimapun  	eː  	   1	   1
+asmat-central-kainak-atat        	eá/a	   1	   1
+asmat-central-kainak-yamas       	eá/a	   1	   1
+asmat-central-mecamup-amisu      	e   	   1	   1
+asmat-central-mecamup-yow        	e   	   1	   1
+asmat-central-mismam-suru        	e   	   1	   1
+asmat-central-mismam-yepem       	e   	   1	   1
+asmat-central-simai-ayam         	eː  	   1	   1
+asmat-north-irogo                	eá/a	   1	   1
+asmat-casuarina-coast-makair     	je  	   1	   2
+asmat-casuarina-coast-masin      	je  	   1	   2
+asmat-casuarina-coast-nanew      	je  	   1	   2
+asmat-casuarina-coast-otenep     	je  	   1	   2
+asmat-north-momogo               	ji  	   1	   2
+asmat-central-keenakap-namen     	ej  	   1	   9
+#
+Concept: 646_ASH, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-aorket     	jowmuti	   1	   1
+asmat-casuarina-coast-masin      	jawmuti	   1	   1
+asmat-casuarina-coast-otenep     	jawmuti	   1	   1
+asmat-casuarina-coast-pirimapun  	jawmuti	   1	   1
+asmat-casuarina-coast-tareo      	jawmuti	   1	   1
+asmat-central-mecamup-omanesep   	jawamic	   1	   1
+asmat-central-mismam-suru        	jowomic	   1	   1
+asmat-central-mismam-yepem       	jowomic	   1	   1
+asmat-central-simai-ayam         	jowmec 	   1	   1
+asmat-central-mismam-suru        	jowmic 	   1	   1
+asmat-central-mismam-yepem       	jowmic 	   1	   1
+asmat-central-kainak-atat        	joamic 	   1	   6
+asmat-central-keenakap-miwar     	jomet  	   1	   6
+asmat-central-keenakap-namen     	joːmet 	   1	   6
+asmat-central-keenakap-yaosakor  	jamit  	   1	   6
+asmat-central-keenok-komar       	jimere 	   1	   6
+asmat-central-keenok-manep       	jimir  	   1	   6
+asmat-central-keenok-sawa-erma   	jumur  	   1	   6
+asmat-central-keenok-yipaer      	jemir  	   1	   6
+asmat-central-mecamup-amisu      	joamic 	   1	   6
+asmat-central-mecamup-cowew-yamew	joamic 	   1	   6
+asmat-central-mecamup-kawet      	joamic 	   1	   6
+asmat-central-mecamup-yow        	joamic 	   1	   6
+asmat-central-mine               	jomir  	   1	   6
+asmat-central-sokoni             	jomir  	   1	   6
+citak-citak-senggo               	jamit  	   1	   6
+asmat-casuarina-coast-masin      	jomuti 	   1	   6
+asmat-casuarina-coast-tareo      	jomuti 	   1	   6
+citak-citak-senggo               	jamut  	   1	   6
+#
+Concept: 666_RIVER, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-aorket     	joa	   1	   1
+asmat-casuarina-coast-makair     	joa	   1	   1
+asmat-casuarina-coast-masin      	joa	   1	   1
+asmat-casuarina-coast-otenep     	joa	   1	   1
+asmat-casuarina-coast-pirimapun  	jua	   1	   1
+asmat-central-kainak-atat        	jo 	   1	   1
+asmat-central-keenakap-fos       	ju 	   1	   1
+asmat-central-keenakap-kaimo     	ju 	   1	   1
+asmat-central-keenakap-miwar     	ju 	   1	   1
+asmat-central-keenakap-namen     	ju 	   1	   1
+asmat-central-keenok-komar       	ji 	   1	   1
+asmat-central-keenok-manep       	ju 	   1	   1
+asmat-central-keenok-sawa-erma   	ji 	   1	   1
+asmat-central-keenok-yipaer      	ju 	   1	   1
+asmat-central-mecamup-amanamkai  	jo 	   1	   1
+asmat-central-mecamup-amisu      	jo 	   1	   1
+asmat-central-mecamup-kawet      	jo 	   1	   1
+asmat-central-mecamup-omanesep   	jo 	   1	   1
+asmat-central-mine               	ju 	   1	   1
+asmat-central-mismam-suru        	jo 	   1	   1
+asmat-central-mismam-yepem       	jo 	   1	   1
+asmat-central-misman-meriten     	jo 	   1	   1
+asmat-central-simai-ayam         	jo 	   1	   1
+asmat-casuarina-coast-otenep     	jua	   1	   1
+asmat-central-keenok-mu-akani    	juk	   1	  13
+citak-brazza-river               	zi 	   1	  25
+citak-citak-senggo               	zu 	   1	  25
+#
+Concept: 671_SAND, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-masin      	misini 	   1	   1
+asmat-casuarina-coast-otenep     	misini 	   1	   1
+asmat-casuarina-coast-pirimapun  	misini 	   1	   1
+asmat-central-kainak-atat        	misin  	   1	   1
+asmat-central-keenakap-fos       	misin  	   1	   1
+asmat-central-keenakap-namen     	misin  	   1	   1
+asmat-central-keenok-komar       	misin  	   1	   1
+asmat-central-keenok-sawa-erma   	misü/un	   1	   1
+asmat-central-mecamup-amanamkai  	misun  	   1	   1
+asmat-central-mecamup-amisu      	misin  	   1	   1
+asmat-central-mismam-suru        	misin  	   1	   1
+asmat-central-mismam-yepem       	misin  	   1	   1
+asmat-central-simai-ayam         	misin  	   1	   1
+citak-citak-senggo               	bisin  	   1	  14
+#
+Concept: 674_MOUTH, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-aorket     	mea 	   1	   1
+asmat-casuarina-coast-makair     	me  	   1	   1
+asmat-casuarina-coast-pirimapun  	me  	   1	   1
+asmat-casuarina-coast-tareo      	mea 	   1	   1
+asmat-central-kainak-atat        	ma  	   1	   1
+asmat-central-kainak-kapi        	ma  	   1	   1
+asmat-central-kainak-yamas       	me  	   1	   1
+asmat-central-keenakap-fos       	ma  	   1	   1
+asmat-central-keenakap-miwar     	mea 	   1	   1
+asmat-central-keenakap-namen     	me  	   1	   1
+asmat-central-keenakap-yaosakor  	mea 	   1	   1
+asmat-central-keenok-komar       	mia 	   1	   1
+asmat-central-keenok-manep       	mia 	   1	   1
+asmat-central-keenok-sawa-erma   	mia 	   1	   1
+asmat-central-keenok-yipaer      	mia 	   1	   1
+asmat-central-mecamup-amanamkai  	me  	   1	   1
+asmat-central-mecamup-amisu      	me  	   1	   1
+asmat-central-mecamup-kawet      	me  	   1	   1
+asmat-central-mecamup-omanesep   	me  	   1	   1
+asmat-central-mismam-per         	me  	   1	   1
+asmat-central-mismam-suru        	me  	   1	   1
+asmat-central-mismam-uwus        	me  	   1	   1
+asmat-central-mismam-yepem       	me  	   1	   1
+asmat-central-simai-ayam         	me  	   1	   1
+asmat-north-irogo                	mafa	   1	  25
+asmat-north-momogo               	mafa	   1	  25
+asmat-north-pupis                	mafa	   1	  25
+citak-citak-senggo               	be  	   1	  28
+#
+Concept: 683_PERSON, False Positives: no, False Negatives: yes
+asmat-central-keenakap-namen     	kae  	   1	   1
+asmat-central-keenok-sawa-erma   	keː  	   1	   1
+asmat-central-mismam-suru        	kawi 	   1	   3
+asmat-central-mismam-yepem       	kawi 	   1	   3
+asmat-central-simai-ayam         	kawej	   1	   3
+#
+Concept: 695_GO, False Positives: no, False Negatives: yes
+asmat-central-kainak-atat        	jar	   1	   1
+asmat-central-keenakap-namen     	jar	   1	   1
+asmat-central-keenok-yipaer      	jar	   1	   1
+asmat-central-mismam-suru        	jar	   1	   1
+asmat-central-mismam-yepem       	jar	   1	   1
+asmat-central-simai-ayam         	jar	   1	   1
+asmat-central-keenok-manep       	ja 	   1	   3
+asmat-central-sokoni             	ja 	   1	   3
+citak-citak-senggo               	zar	   1	   9
+#
+Concept: 700_CARRY, False Positives: no, False Negatives: yes
+asmat-central-keenakap-namen     	not	   1	   1
+asmat-central-keenok-komar       	nor	   1	   2
+asmat-central-keenok-manep       	nor	   1	   2
+asmat-central-keenok-sawa-erma   	nor	   1	   2
+asmat-central-mismam-suru        	noc	   1	   5
+asmat-central-mismam-yepem       	noc	   1	   5
+asmat-central-simai-ayam         	noc	   1	   5
+#
+Concept: 705_GO_UP_ASCEND, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-aorket     	tipe	   1	   1
+asmat-central-kainak-atat        	tep 	   1	   1
+asmat-central-keenok-komar       	tip 	   1	   1
+asmat-central-keenok-manep       	tepe	   1	   1
+asmat-central-keenok-sawa-erma   	tep 	   1	   1
+asmat-central-mecamup-omanesep   	tep 	   1	   1
+asmat-central-mismam-suru        	tep 	   1	   1
+asmat-central-mismam-yepem       	tep 	   1	   1
+asmat-central-simai-ayam         	tep 	   1	   1
+asmat-central-keenok-yipaer      	tin 	   6	   6
+asmat-central-keenok-sawa-erma   	tin 	   6	   6
+asmat-central-mismam-suru        	cin 	   6	  12
+asmat-central-mismam-yepem       	cin 	   6	  12
+asmat-central-simai-ayam         	cin 	   6	  12
+#
+Concept: 706_DARK, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-pirimapun  	jit      	   1	   1
+asmat-central-keenakap-namen     	jü/uü/utu	   1	   1
+asmat-central-keenok-komar       	jü/ur    	   1	   3
+asmat-central-mecamup-omanesep   	jiwic    	   1	   4
+asmat-central-mismam-suru        	jiwic    	   1	   4
+asmat-central-mismam-yepem       	jiwic    	   1	   4
+asmat-central-simai-ayam         	jiwic    	   1	   4
+citak-citak-senggo               	zü/uü/ut 	   1	   8
+#
+Concept: 713_STEAL, False Positives: no, False Negatives: yes
+asmat-central-keenok-sawa-erma   	wasem	   1	   1
+asmat-central-mismam-suru        	osom 	   1	   2
+asmat-central-mismam-yepem       	osom 	   1	   2
+asmat-central-simai-ayam         	osom 	   1	   2
+#
+Concept: 725_OLD_PERSON, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-otenep     	tarej 	   1	   1
+asmat-casuarina-coast-pirimapun  	tarej 	   1	   1
+asmat-central-kainak-atat        	tare  	   1	   1
+asmat-central-keenakap-namen     	tare  	   1	   1
+asmat-central-keenok-komar       	tari  	   1	   1
+asmat-central-keenok-sawa-erma   	tiri  	   1	   1
+asmat-central-keenok-yipaer      	tiri  	   1	   1
+asmat-central-mecamup-kawet      	tarej 	   1	   1
+asmat-central-mismam-suru        	tari  	   1	   1
+asmat-central-mismam-yepem       	tari  	   1	   1
+asmat-central-simai-ayam         	tarej 	   1	   1
+asmat-central-sokoni             	taí/i 	   1	  12
+asmat-casuarina-coast-pirimapun  	akmat 	   1	  13
+asmat-central-keenok-komar       	akamer	   1	  13
+asmat-central-mismam-suru        	akmat 	   1	  13
+asmat-central-mismam-yepem       	akmat 	   1	  13
+asmat-central-simai-ayam         	akamat	   1	  13
+#
+Concept: 730_SNAKE, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-masin      	amerto  	   1	   1
+asmat-casuarina-coast-otenep     	amerto  	   1	   1
+asmat-casuarina-coast-pirimapun  	amerto  	   1	   1
+asmat-central-kainak-atat        	amer    	   1	   1
+asmat-central-keenakap-namen     	amer    	   1	   1
+asmat-central-keenok-komar       	amer    	   1	   1
+asmat-central-keenok-manep       	ame     	   1	   1
+asmat-central-keenok-sawa-erma   	amernak 	   1	   1
+asmat-central-keenok-yipaer      	amer    	   1	   1
+asmat-central-mecamup-omanesep   	amer    	   1	   1
+asmat-central-mismam-suru        	amer    	   1	   1
+asmat-central-mismam-yepem       	amer    	   1	   1
+asmat-central-simai-ayam         	amer    	   1	   1
+citak-citak-senggo               	amer    	   1	   1
+asmat-casuarina-coast-masin      	mü/unü/u	  15	  15
+asmat-casuarina-coast-otenep     	mü/unü/u	  15	  15
+asmat-casuarina-coast-pirimapun  	mini    	  15	  15
+asmat-central-kainak-atat        	mini    	  15	  15
+asmat-central-keenok-manep       	mini    	  15	  15
+asmat-central-keenok-sawa-erma   	mini    	  15	  15
+asmat-central-keenok-yipaer      	mini    	  15	  15
+asmat-central-mismam-suru        	miniw   	  15	  15
+asmat-central-mismam-yepem       	miniw   	  15	  15
+asmat-central-simai-ayam         	miniw   	  15	  15
+citak-citak-senggo               	binu    	  15	  25
+asmat-casuarina-coast-otenep     	pit     	  26	  26
+asmat-casuarina-coast-pirimapun  	put     	  26	  26
+asmat-central-kainak-atat        	pit     	  26	  26
+asmat-central-mismam-suru        	pit     	  26	  26
+asmat-central-mismam-yepem       	pit     	  26	  26
+asmat-central-simai-ayam         	pit     	  26	  26
+citak-citak-senggo               	pitu    	  26	  26
+asmat-central-keenok-sawa-erma   	piru    	  26	  29
+asmat-central-keenok-yipaer      	piru    	  26	  29
+#
+Concept: 744_EGG, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-pirimapun  	ok 	   1	   1
+asmat-central-kainak-atat        	ok 	   1	   1
+asmat-central-keenakap-miwar     	oka	   1	   1
+asmat-central-keenakap-namen     	oka	   1	   1
+asmat-central-keenok-yipaer      	oka	   1	   1
+asmat-central-mecamup-amisu      	ok 	   1	   1
+asmat-central-mecamup-omanesep   	ok 	   1	   1
+asmat-central-mismam-suru        	ok 	   1	   1
+asmat-central-mismam-yepem       	ok 	   1	   1
+asmat-central-simai-ayam         	ok 	   1	   1
+citak-citak-senggo               	oka	   1	   1
+asmat-central-keenok-komar       	sa 	   1	   5
+asmat-central-keenok-manep       	sa 	   1	   5
+asmat-central-keenok-sawa-erma   	sa 	   1	   5
+asmat-central-keenok-yipaer      	sa 	   1	   5
+asmat-central-mismam-suru        	sa 	   1	   5
+asmat-central-mismam-yepem       	sa 	   1	   5
+asmat-central-simai-ayam         	sa 	   1	   5
+#
+Concept: 762_OUTSIDE, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-pirimapun  	tasen 	   1	   1
+asmat-central-keenakap-namen     	tasene	   1	   1
+asmat-central-keenok-komar       	tesen 	   1	   1
+citak-citak-senggo               	tasan 	   1	   1
+asmat-central-kainak-atat        	cesen 	   1	   2
+asmat-central-mismam-suru        	cesen 	   1	   2
+asmat-central-mismam-yepem       	cesen 	   1	   2
+#
+Concept: 763_SKIN, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-aorket     	pitin	   1	   1
+asmat-casuarina-coast-makair     	pitin	   1	   1
+asmat-casuarina-coast-otenep     	pitin	   1	   1
+asmat-casuarina-coast-pirimapun  	pitin	   1	   1
+asmat-casuarina-coast-tareo      	pitin	   1	   1
+asmat-central-keenakap-awok      	pitin	   1	   1
+asmat-central-keenakap-fos       	pitin	   1	   1
+asmat-central-keenakap-kaimo     	pitin	   1	   1
+asmat-central-keenakap-miwar     	pitin	   1	   1
+asmat-central-keenakap-namen     	pitin	   1	   1
+asmat-central-keenakap-yaosakor  	pitin	   1	   1
+asmat-central-keenok-komar       	pitni	   1	   1
+asmat-central-keenok-manep       	piti 	   1	   1
+asmat-central-keenok-sawa-erma   	pitni	   1	   1
+asmat-central-keenok-yipaer      	pitni	   1	   1
+asmat-north-irogo                	pitn 	   1	   1
+asmat-north-momogo               	pitn 	   1	   1
+asmat-north-pupis                	pitn 	   1	   1
+asmat-north-ti                   	pitn 	   1	   1
+citak-brazza-river               	pitn 	   1	   1
+citak-citak-senggo               	pitin	   1	   1
+citak-upper-sirec                	pitn 	   1	   1
+asmat-central-kainak-atat        	picin	   1	   6
+asmat-central-mecamup-amanamkai  	picin	   1	   6
+asmat-central-mecamup-omanesep   	picin	   1	   6
+asmat-central-mecamup-yow        	picin	   1	   6
+asmat-central-mismam-per         	picin	   1	   6
+asmat-central-mismam-suru        	picin	   1	   6
+asmat-central-mismam-uwus        	picin	   1	   6
+asmat-central-mismam-yepem       	picin	   1	   6
+asmat-central-simai-ayam         	picin	   1	   6
+asmat-central-mine               	pirin	   1	  20
+asmat-central-wooi               	pirin	   1	  20
+asmat-central-yinak              	pirin	   1	  20
+#
+Concept: 778_SMOKE_EXHAUST, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-masin      	isamun  	   1	   1
+asmat-casuarina-coast-otenep     	isamun  	   1	   1
+asmat-casuarina-coast-tareo      	isamln  	   1	   1
+asmat-central-keenok-manep       	isaman  	   1	   1
+asmat-central-mecamup-cowew-yamew	isamin  	   1	   1
+asmat-central-mecamup-kawet      	isamin  	   1	   1
+asmat-central-mecamup-omanesep   	isamin  	   1	   1
+asmat-central-mecamup-yow        	isamun  	   1	   1
+citak-citak-senggo               	isa+amun	   1	   1
+asmat-central-keenok-sawa-erma   	isamn   	   1	   1
+asmat-casuarina-coast-pirimapun  	jisamin 	   1	   3
+asmat-central-kainak-atat        	jisamun 	   1	   3
+asmat-central-kainak-yamas       	jisamun 	   1	   3
+asmat-central-keenakap-miwar     	jisamun 	   1	   3
+asmat-central-keenakap-namen     	jisamun 	   1	   3
+asmat-central-keenok-komar       	jisamun 	   1	   3
+asmat-central-keenok-mu-akani    	jisam   	   1	   3
+asmat-central-keenok-sawa-erma   	jisamen 	   1	   3
+asmat-central-keenok-yipaer      	jisamun 	   1	   3
+asmat-central-mecamup-amisu      	jisamun 	   1	   3
+asmat-central-mismam-per         	jisamin 	   1	   3
+asmat-central-mismam-suru        	jisamun 	   1	   3
+asmat-central-mismam-yepem       	jisamun 	   1	   3
+asmat-central-simai-ayam         	jisamun 	   1	   3
+asmat-central-sokoni             	jisamin 	   1	   3
+asmat-north-momogo               	jis+amnu	   1	   3
+asmat-north-pupis                	jis+amnu	   1	   3
+asmat-central-keenakap-miwar     	jisamin 	   1	   3
+#
+Concept: 789_PEOPLE, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-otenep     	owe 	   1	   1
+asmat-central-keenakap-kaimo     	owe 	   1	   1
+asmat-central-mecamup-omanesep   	ow  	   1	   1
+asmat-central-mismam-suru        	ow  	   1	   1
+asmat-central-mismam-yepem       	ow  	   1	   1
+asmat-central-simai-ayam         	ow  	   1	   1
+asmat-central-keenok-komar       	uú/u	   1	   3
+asmat-central-keenok-sawa-erma   	uú/u	   1	   3
+asmat-central-keenok-yipaer      	uú/u	   1	   3
+citak-upper-sirec                	á/ao	   1	   3
+#
+Concept: 797_TESTICLES, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-masin      	misaka	   1	   1
+asmat-casuarina-coast-pirimapun  	misaka	   1	   1
+asmat-casuarina-coast-tareo      	misaka	   1	   1
+asmat-central-kainak-ao          	misak 	   1	   1
+asmat-central-kainak-atat        	misak 	   1	   1
+asmat-central-kainak-kapi        	misak 	   1	   1
+asmat-central-kainak-yamas       	misak 	   1	   1
+asmat-central-keenakap-kaimo     	misak 	   1	   1
+asmat-central-keenakap-namen     	misak 	   1	   1
+asmat-central-keenok-komar       	misak 	   1	   1
+asmat-central-keenok-manep       	misak 	   1	   1
+asmat-central-keenok-sawa-erma   	misak 	   1	   1
+asmat-central-mecamup-amanamkai  	misak 	   1	   1
+asmat-central-mecamup-amisu      	misak 	   1	   1
+asmat-central-mecamup-kawet      	misak 	   1	   1
+asmat-central-mecamup-omanesep   	misak 	   1	   1
+asmat-central-mecamup-yow        	misak 	   1	   1
+asmat-central-mismam-per         	misak 	   1	   1
+asmat-central-mismam-suru        	misak 	   1	   1
+asmat-central-mismam-yepem       	misak 	   1	   1
+asmat-central-misman-meriten     	misak 	   1	   1
+asmat-central-simai-ayam         	misak 	   1	   1
+asmat-central-wooi               	misak 	   1	   1
+asmat-central-yinak              	misak 	   1	   1
+asmat-north-momogo               	misak 	   1	   1
+citak-citak-senggo               	bisak 	   1	  26
+citak-upper-sirec                	bisak 	   1	  26
+#
+Concept: 798_JAW, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-masin      	topane	   1	   1
+asmat-casuarina-coast-pirimapun  	topon 	   1	   1
+asmat-casuarina-coast-tareo      	topane	   1	   1
+asmat-central-kainak-ao          	okon  	   1	   4
+asmat-central-kainak-atat        	okon  	   1	   4
+asmat-central-kainak-kapi        	okon  	   1	   4
+asmat-central-kainak-yamas       	okon  	   1	   4
+asmat-central-keenakap-kaimo     	okon  	   1	   4
+asmat-central-keenakap-miwar     	okone 	   1	   4
+asmat-central-keenakap-namen     	okone 	   1	   4
+asmat-central-keenakap-yaosakor  	okone 	   1	   4
+asmat-central-keenok-komar       	okone 	   1	   4
+asmat-central-keenok-manep       	okone 	   1	   4
+asmat-central-keenok-sawa-erma   	okone 	   1	   4
+asmat-central-keenok-yipaer      	okone 	   1	   4
+asmat-central-mecamup-amanamkai  	okon  	   1	   4
+asmat-central-mecamup-amisu      	okon  	   1	   4
+asmat-central-mecamup-kawet      	okon  	   1	   4
+asmat-central-mecamup-omanesep   	okon  	   1	   4
+asmat-central-mecamup-yow        	okon  	   1	   4
+asmat-central-mismam-per         	okon  	   1	   4
+asmat-central-mismam-suru        	okon  	   1	   4
+asmat-central-mismam-uwus        	okon  	   1	   4
+asmat-central-mismam-yepem       	okon  	   1	   4
+asmat-central-misman-meriten     	okon  	   1	   4
+asmat-central-simai-ayam         	okon  	   1	   4
+asmat-central-sokoni             	okon  	   1	   4
+asmat-central-wooi               	okon  	   1	   4
+asmat-central-yinak              	okon  	   1	   4
+asmat-north-irogo                	okone 	   1	   4
+asmat-north-ti                   	oka   	   1	   4
+citak-brazza-river               	okon  	   1	   4
+citak-citak-senggo               	okon  	   1	   4
+citak-upper-sirec                	okon  	   1	   4
+asmat-north-momogo               	wakane	   1	  31
+asmat-north-pupis                	wokone	   1	  31
+#
+Concept: 800_THIGH, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-makair     	á/ae  	   1	   1
+asmat-casuarina-coast-pirimapun  	á/ae  	   1	   1
+asmat-casuarina-coast-tareo      	á/ae  	   1	   1
+asmat-central-kainak-atat        	eá/a  	   1	   1
+asmat-central-kainak-kapi        	iá/a  	   1	   1
+asmat-central-kainak-yamas       	iá/a  	   1	   1
+asmat-central-keenakap-kaimo     	eé/e  	   1	   1
+asmat-central-keenakap-namen     	eé/e  	   1	   1
+asmat-central-keenakap-yaosakor  	eá/a  	   1	   1
+asmat-central-mecamup-amanamkai  	a     	   1	   1
+asmat-central-mecamup-ar-nanim   	a     	   1	   1
+asmat-central-mecamup-kawet      	a     	   1	   1
+asmat-central-mecamup-omanesep   	a     	   1	   1
+asmat-central-mecamup-yow        	a     	   1	   1
+asmat-central-mismam-per         	a     	   1	   1
+asmat-central-mismam-suru        	a     	   1	   1
+asmat-central-mismam-uwus        	a     	   1	   1
+asmat-central-mismam-yepem       	a     	   1	   1
+asmat-central-simai-ayam         	e     	   1	   1
+asmat-central-sokoni             	a     	   1	   1
+asmat-central-wooi               	á/aa  	   1	   1
+asmat-central-yinak              	á/aa  	   1	   1
+asmat-north-momogo               	ae    	   1	   1
+asmat-north-pupis                	ae    	   1	   1
+asmat-north-ti                   	ae    	   1	   1
+citak-citak-senggo               	ae    	   1	   1
+asmat-casuarina-coast-masin      	aja   	   1	   2
+asmat-north-irogo                	ajiá/a	   1	   2
+citak-upper-sirec                	aije  	   1	   2
+asmat-central-keenok-komar       	emak  	   1	  11
+asmat-central-keenok-sawa-erma   	emak  	   1	  11
+asmat-central-keenok-yipaer      	emak  	   1	  11
+#
+Concept: 801_RIB, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-masin      	jaim      	   1	   1
+asmat-central-kainak-atat        	jaim      	   1	   1
+asmat-central-keenakap-namen     	jaemi     	   1	   1
+asmat-central-keenok-komar       	jima      	   1	   1
+asmat-central-keenok-manep       	jimi      	   1	   1
+asmat-central-keenok-sawa-erma   	jimi      	   1	   1
+asmat-central-sokoni             	jeim      	   1	   1
+asmat-north-momogo               	jimako    	   1	   1
+asmat-casuarina-coast-pirimapun  	jajem     	   1	   2
+asmat-casuarina-coast-tareo      	jajme     	   1	   2
+asmat-central-mecamup-amisu      	jawim     	   1	   9
+asmat-central-mecamup-omanesep   	jewim     	   1	   9
+asmat-central-mismam-suru        	jawim     	   1	   9
+asmat-central-mismam-yepem       	jawim     	   1	   9
+asmat-central-misman-meriten     	jewim     	   1	   9
+asmat-central-simai-ayam         	jewem     	   1	   9
+citak-citak-senggo               	zamim+emak	   1	  17
+#
+Concept: 834_BUTTOCKS, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-aorket     	femoro	   1	   1
+asmat-casuarina-coast-masin      	femoro	   1	   1
+asmat-casuarina-coast-pirimapun  	femoro	   1	   1
+asmat-central-kainak-ao          	famar 	   1	   1
+asmat-central-kainak-atat        	famar 	   1	   1
+asmat-central-kainak-kapi        	famar 	   1	   1
+asmat-central-kainak-yamas       	famar 	   1	   1
+asmat-central-keenakap-fos       	femore	   1	   1
+asmat-central-keenakap-namen     	famor 	   1	   1
+asmat-central-keenok-manep       	fame  	   1	   1
+asmat-central-keenok-mu-akani    	fame  	   1	   1
+asmat-central-mecamup-amisu      	famor 	   1	   1
+asmat-central-mecamup-omanesep   	famor 	   1	   1
+asmat-central-mecamup-yow        	famor 	   1	   1
+asmat-central-mismam-per         	famor 	   1	   1
+asmat-central-mismam-suru        	famor 	   1	   1
+asmat-central-mismam-uwus        	famor 	   1	   1
+asmat-central-mismam-yepem       	famor 	   1	   1
+asmat-central-misman-meriten     	famor 	   1	   1
+asmat-central-simai-ayam         	famor 	   1	   1
+asmat-north-irogo                	femore	   1	   1
+asmat-north-pupis                	famʷa 	   1	   1
+asmat-north-ti                   	famor 	   1	   1
+asmat-central-keenok-komar       	farner	   1	  10
+#
+Concept: 857_STONE, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-masin      	eke 	   1	   1
+asmat-casuarina-coast-otenep     	eke 	   1	   1
+asmat-central-kainak-atat        	ek  	   1	   1
+asmat-central-keenakap-kaimo     	ika 	   1	   1
+asmat-central-keenakap-namen     	eka 	   1	   1
+asmat-central-keenok-komar       	eke 	   1	   1
+asmat-central-keenok-sawa-erma   	eka 	   1	   1
+asmat-central-mecamup-amanamkai  	ek  	   1	   1
+asmat-central-mecamup-amisu      	ek  	   1	   1
+asmat-central-mecamup-kawet      	ek  	   1	   1
+asmat-central-mecamup-yow        	ek  	   1	   1
+asmat-central-mismam-suru        	ek  	   1	   1
+asmat-central-mismam-yepem       	ek  	   1	   1
+asmat-central-simai-ayam         	ek  	   1	   1
+asmat-central-yinak              	ek  	   1	   1
+citak-citak-senggo               	eka 	   1	   1
+asmat-north-momogo               	jeke	   1	  16
+citak-upper-sirec                	jeka	   1	  16
+#
+Concept: 866_WIN, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-aorket     	ká/arapman	   1	   1
+asmat-casuarina-coast-pirimapun  	ká/arapman	   1	   1
+asmat-central-kainak-atat        	poman     	   1	   3
+asmat-central-keenok-manep       	poman     	   1	   3
+asmat-central-keenok-sawa-erma   	poman     	   1	   3
+asmat-central-mecamup-amisu      	poman     	   1	   3
+asmat-central-mecamup-omanesep   	poman     	   1	   3
+asmat-central-mine               	poman     	   1	   3
+asmat-central-mismam-suru        	poman     	   1	   3
+asmat-central-mismam-yepem       	poman     	   1	   3
+asmat-central-simai-ayam         	poman     	   1	   3
+asmat-casuarina-coast-aorket     	é/erapman 	   1	  12
+asmat-casuarina-coast-pirimapun  	é/erapman 	   1	  12
+#
+Concept: 867_backofhand, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-aorket     	mekmak	   1	   1
+asmat-casuarina-coast-pirimapun  	mekmak	   1	   1
+asmat-casuarina-coast-tareo      	meke  	   1	   1
+asmat-central-kainak-atat        	mak   	   1	   1
+asmat-central-kainak-kapi        	mak   	   1	   1
+asmat-central-kainak-yamas       	makmak	   1	   1
+asmat-central-keenakap-fos       	mek   	   1	   1
+asmat-central-keenakap-kaimo     	makmak	   1	   1
+asmat-central-keenakap-miwar     	maek  	   1	   1
+asmat-central-keenakap-namen     	mak   	   1	   1
+asmat-central-keenok-komar       	makmak	   1	   1
+asmat-central-keenok-manep       	makama	   1	   1
+asmat-central-keenok-sawa-erma   	makmak	   1	   1
+asmat-central-keenok-yipaer      	makama	   1	   1
+asmat-central-mecamup-amanamkai  	makmak	   1	   1
+asmat-central-mecamup-amisu      	mak   	   1	   1
+asmat-central-mecamup-kawet      	mak   	   1	   1
+asmat-central-mecamup-omanesep   	makmak	   1	   1
+asmat-central-mecamup-yow        	makmak	   1	   1
+asmat-central-mismam-per         	maksa 	   1	   1
+asmat-central-mismam-suru        	mak   	   1	   1
+asmat-central-mismam-uwus        	maksa 	   1	   1
+asmat-central-mismam-yepem       	mak   	   1	   1
+asmat-central-misman-meriten     	maksa 	   1	   1
+asmat-central-simai-ayam         	mak   	   1	   1
+asmat-central-sokoni             	mek   	   1	   1
+asmat-central-wooi               	makmak	   1	   1
+asmat-central-yinak              	makmak	   1	   1
+asmat-north-momogo               	mek   	   1	   1
+asmat-north-pupis                	mek   	   1	   1
+citak-citak-senggo               	mekmak	   1	   1
+citak-upper-sirec                	mek   	   1	   1
+asmat-central-mecamup-kawet      	makmak	   1	   1
+asmat-casuarina-coast-makair     	memaka	   1	   2
+asmat-casuarina-coast-masin      	memaka	   1	   2
+#
+Concept: 882_PARROT, False Positives: no, False Negatives: yes
+asmat-central-keenok-sawa-erma   	meor 	   1	   1
+asmat-central-mecamup-omanesep   	mowor	   1	   2
+asmat-central-mismam-suru        	mewor	   1	   2
+asmat-central-mismam-yepem       	mewor	   1	   2
+asmat-central-simai-ayam         	mewor	   1	   2
+#
+Concept: 893_topoffoot, False Positives: yes, False Negatives: no
+asmat-central-kainak-atat        	imu  	   1	   1
+asmat-central-keenakap-namen     	imi  	   1	   1
+asmat-central-keenok-komar       	imi  	   1	   1
+asmat-central-mismam-suru        	umu  	   1	   1
+asmat-central-mismam-yepem       	umu  	   1	   1
+asmat-central-simai-ayam         	imi  	   1	   1
+citak-citak-senggo               	ü/umu	   1	   1
+asmat-central-mismam-suru        	amis 	   8	   1
+asmat-central-mismam-yepem       	amis 	   8	   1
+asmat-central-simai-ayam         	amis 	   8	   1
+#
+Concept: 906_TREE, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-makair     	ose 	   1	   1
+asmat-casuarina-coast-masin      	ose 	   1	   1
+asmat-casuarina-coast-otenep     	ose 	   1	   1
+asmat-central-kainak-atat        	os  	   1	   1
+asmat-central-mecamup-amisu      	os  	   1	   1
+asmat-central-mecamup-omanesep   	os  	   1	   1
+asmat-central-mismam-suru        	os  	   1	   1
+asmat-central-mismam-yepem       	os  	   1	   1
+asmat-central-simai-ayam         	os  	   1	   1
+asmat-north-irogo                	ose 	   1	   1
+citak-citak-senggo               	usu 	   1	   1
+asmat-casuarina-coast-pirimapun  	wese	   1	   4
+asmat-casuarina-coast-tareo      	wese	   1	   4
+asmat-central-keenakap-fos       	wos 	   1	   4
+asmat-central-keenakap-miwar     	wes 	   1	   4
+asmat-central-keenakap-namen     	wes 	   1	   4
+asmat-central-keenok-komar       	wes 	   1	   4
+asmat-central-keenok-manep       	wos 	   1	   4
+asmat-central-keenok-sawa-erma   	wes 	   1	   4
+asmat-central-keenok-yipaer      	wes 	   1	   4
+asmat-central-mine               	wos 	   1	   4
+asmat-north-momogo               	was 	   1	   4
+asmat-north-ti                   	was 	   1	   4
+#
+Concept: 937_BIRD, False Positives: no, False Negatives: yes
+asmat-central-kainak-atat        	sak  	   1	   1
+asmat-central-kainak-yamas       	sak  	   1	   1
+asmat-central-keenakap-miwar     	sakoː	   1	   1
+asmat-central-keenakap-namen     	sakuː	   1	   1
+asmat-central-keenok-komar       	soku 	   1	   1
+asmat-central-keenok-manep       	sako 	   1	   1
+asmat-central-keenok-sawa-erma   	sako 	   1	   1
+asmat-central-keenok-yipaer      	soko 	   1	   1
+asmat-central-mecamup-amisu      	sok  	   1	   1
+asmat-central-mecamup-omanesep   	sak  	   1	   1
+asmat-central-mecamup-yow        	sok  	   1	   1
+asmat-central-mine               	sako 	   1	   1
+asmat-central-mismam-suru        	sok  	   1	   1
+asmat-central-mismam-yepem       	sok  	   1	   1
+asmat-central-simai-ayam         	sok  	   1	   1
+citak-citak-senggo               	saku 	   1	   1
+asmat-central-keenok-sawa-erma   	soko 	   1	   1
+asmat-central-mismam-suru        	jum  	  18	  18
+asmat-central-mismam-yepem       	jum  	  18	  18
+asmat-central-simai-ayam         	jum  	  18	  18
+citak-citak-senggo               	zü/um	  18	  21
+#
+Concept: 945_SPEAR, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-aorket     	wetene	   1	   1
+asmat-central-keenakap-namen     	wotan 	   1	   1
+asmat-central-keenakap-yaosakor  	woten 	   1	   1
+asmat-central-keenok-komar       	wetn  	   1	   1
+asmat-central-keenok-sawa-erma   	wetn  	   1	   1
+asmat-north-pupis                	watne 	   1	   1
+asmat-casuarina-coast-masin      	otene 	   1	   2
+asmat-casuarina-coast-pirimapun  	otan  	   1	   2
+citak-citak-senggo               	otan  	   1	   2
+asmat-central-kainak-atat        	ocan  	   1	   4
+asmat-central-mecamup-amanamkai  	ocen  	   1	   4
+asmat-central-mecamup-amisu      	ocen  	   1	   4
+asmat-central-mecamup-cowew-yamew	ocen  	   1	   4
+asmat-central-mecamup-kawet      	ocan  	   1	   4
+asmat-central-mecamup-omanesep   	ocen  	   1	   4
+asmat-central-mecamup-yow        	ocen  	   1	   4
+asmat-central-mismam-per         	ocen  	   1	   4
+asmat-central-mismam-suru        	ocen  	   1	   4
+asmat-central-mismam-yepem       	ocen  	   1	   4
+asmat-central-simai-ayam         	ocan  	   1	   4
+asmat-central-keenok-manep       	waren 	   1	   8
+asmat-central-mine               	waren 	   1	   8
+#
+Concept: 948_WATER, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-aorket     	ml   	   1	   1
+asmat-casuarina-coast-makair     	ml   	   1	   1
+asmat-casuarina-coast-otenep     	ml   	   1	   1
+asmat-casuarina-coast-masin      	miː  	   1	   3
+asmat-casuarina-coast-pirimapun  	miː  	   1	   3
+asmat-central-kainak-atat        	mu   	   1	   3
+asmat-central-keenakap-fos       	muí/i	   1	   3
+asmat-central-keenakap-kaimo     	muí/i	   1	   3
+asmat-central-keenakap-miwar     	muí/i	   1	   3
+asmat-central-keenakap-namen     	muí/i	   1	   3
+asmat-central-keenok-komar       	mi   	   1	   3
+asmat-central-keenok-manep       	mi   	   1	   3
+asmat-central-keenok-mu-akani    	mu   	   1	   3
+asmat-central-keenok-sawa-erma   	mi   	   1	   3
+asmat-central-keenok-yipaer      	mi   	   1	   3
+asmat-central-mine               	mi   	   1	   3
+asmat-central-mismam-suru        	mu   	   1	   3
+asmat-central-mismam-yepem       	mu   	   1	   3
+asmat-central-simai-ayam         	muí/i	   1	   3
+asmat-central-sokoni             	mi   	   1	   3
+asmat-central-wooi               	mi   	   1	   3
+asmat-central-yinak              	mi   	   1	   3
+asmat-north-momogo               	mu   	   1	   3
+asmat-north-ti                   	mi   	   1	   3
+asmat-central-mecamup-amanamkai  	muj  	   1	  16
+asmat-central-mecamup-amisu      	muj  	   1	  16
+asmat-central-mecamup-cowew-yamew	muj  	   1	  16
+asmat-central-mecamup-kawet      	muj  	   1	  16
+asmat-central-mecamup-omanesep   	muj  	   1	  16
+asmat-central-mecamup-yow        	muj  	   1	  16
+citak-brazza-river               	biː  	   1	  31
+citak-citak-senggo               	biː  	   1	  31
+citak-upper-sirec                	biː  	   1	  31
+#
+Concept: 949_WATER_LEECH, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-pirimapun  	ti	   1	   1
+asmat-central-keenakap-namen     	ti	   1	   1
+asmat-central-keenok-komar       	ti	   1	   1
+citak-citak-senggo               	ti	   1	   1
+asmat-central-mecamup-omanesep   	ci	   1	   4
+asmat-central-mismam-suru        	ci	   1	   4
+asmat-central-mismam-yepem       	ci	   1	   4
+asmat-central-simai-ayam         	ci	   1	   4
+#
+Concept: 962_WOMAN, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-makair     	taot 	   1	   1
+asmat-casuarina-coast-masin      	taot 	   1	   1
+asmat-casuarina-coast-otenep     	taot 	   1	   1
+asmat-casuarina-coast-tareo      	taot 	   1	   1
+asmat-central-keenakap-namen     	toːt 	   1	   1
+asmat-central-mine               	taot 	   1	   1
+citak-citak-senggo               	taot 	   1	   1
+asmat-casuarina-coast-pirimapun  	towot	   1	   4
+asmat-central-kainak-atat        	cowoc	   1	   6
+asmat-central-kainak-yamas       	cowoc	   1	   6
+asmat-central-mecamup-amanamkai  	cowuc	   1	   6
+asmat-central-mecamup-kawet      	cawuc	   1	   6
+asmat-central-mismam-suru        	cowuc	   1	   6
+asmat-central-mismam-yepem       	cowuc	   1	   6
+asmat-central-simai-ayam         	cowoc	   1	   6
+asmat-central-keenok-komar       	toːr 	   1	   9
+asmat-central-keenok-manep       	toːr 	   1	   9
+asmat-central-keenok-sawa-erma   	toːr 	   1	   9
+asmat-central-keenok-yipaer      	toːr 	   1	   9
+asmat-north-momogo               	toːr 	   1	   9
+#
+Concept: 970_COCONUT, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-aorket     	jü/usini  	   1	   1
+asmat-casuarina-coast-makair     	jü/usü/uni	   1	   1
+asmat-casuarina-coast-masin      	jisü/un   	   1	   1
+asmat-casuarina-coast-otenep     	jisü/un   	   1	   1
+asmat-casuarina-coast-pirimapun  	jü/usini  	   1	   1
+asmat-central-kainak-atat        	jisin     	   1	   1
+asmat-central-kainak-yamas       	jusun     	   1	   1
+asmat-central-keenakap-fos       	jisini    	   1	   1
+asmat-central-keenakap-namen     	jusini    	   1	   1
+asmat-central-mine               	jisin     	   1	   1
+asmat-central-mismam-suru        	jisin     	   1	   1
+asmat-central-mismam-yepem       	jisin     	   1	   1
+asmat-central-simai-ayam         	jusun     	   1	   1
+asmat-casuarina-coast-nanew      	ü/usü/uni 	   1	   4
+asmat-central-mecamup-amisu      	isin      	   1	   4
+asmat-central-mecamup-omanesep   	isin      	   1	   4
+asmat-central-mecamup-yow        	isun      	   1	   4
+citak-citak-senggo               	zisin     	   1	  18
+#
+Concept: 977_ARROW, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-aorket     	fira   	   1	   1
+asmat-central-keenakap-kaimo     	firokom	   1	   1
+asmat-central-keenok-manep       	firokom	   1	   1
+asmat-north-irogo                	firkom 	   1	   1
+citak-brazza-river               	firokum	   1	   1
+asmat-casuarina-coast-pirimapun  	fira   	   1	   1
+asmat-central-kainak-atat        	firakam	   1	   1
+asmat-central-kainak-yamas       	firakam	   1	   1
+asmat-central-mecamup-amisu      	firkum 	   1	   1
+asmat-central-mecamup-cowew-yamew	firkum 	   1	   1
+asmat-central-mecamup-kawet      	firkum 	   1	   1
+asmat-central-mecamup-omanesep   	firkum 	   1	   1
+asmat-central-mecamup-yow        	firkum 	   1	   1
+asmat-central-mismam-suru        	firkom 	   1	   1
+asmat-central-mismam-yepem       	firkom 	   1	   1
+asmat-central-simai-ayam         	firikom	   1	   1
+asmat-central-keenakap-miwar     	firokom	   1	   1
+asmat-central-keenok-komar       	firkom 	   1	   1
+asmat-central-keenok-sawa-erma   	firokom	   1	   1
+asmat-central-wooi               	fi     	   1	  31
+asmat-central-yinak              	fiakam 	   1	  32
+citak-upper-sirec                	biakum 	   1	  32
+asmat-central-mine               	fekam  	   1	  32
+asmat-central-sokoni             	fiakam 	   1	  32
+asmat-casuarina-coast-makair     	taise  	   2	   2
+asmat-casuarina-coast-masin      	tasi   	   2	   2
+asmat-casuarina-coast-otenep     	tasi   	   2	   2
+asmat-casuarina-coast-pirimapun  	tasi   	   2	   2
+asmat-casuarina-coast-tareo      	taise  	   2	   2
+asmat-central-keenakap-miwar     	tes    	   2	   2
+asmat-central-keenakap-namen     	tes    	   2	   2
+asmat-central-keenakap-yaosakor  	tas    	   2	   2
+asmat-central-keenok-komar       	tes    	   2	   2
+asmat-central-keenok-sawa-erma   	tes    	   2	   2
+asmat-central-sokoni             	tes    	   2	   2
+asmat-north-momogo               	tes    	   2	   2
+asmat-north-pupis                	tes    	   2	   2
+citak-citak-senggo               	tasa   	   2	   2
+asmat-central-kainak-ao          	ces    	   2	   7
+asmat-central-kainak-atat        	ces    	   2	   7
+asmat-central-kainak-kapi        	ces    	   2	   7
+asmat-central-kainak-yamas       	ces    	   2	   7
+asmat-central-mecamup-amanamkai  	cəs    	   2	   7
+asmat-central-mecamup-amisu      	cəs    	   2	   7
+asmat-central-mecamup-ar-nanim   	cəs    	   2	   7
+asmat-central-mecamup-cowew-yamew	cəs    	   2	   7
+asmat-central-mecamup-kawet      	cəs    	   2	   7
+asmat-central-mecamup-omanesep   	cəs    	   2	   7
+asmat-central-mecamup-yow        	cəs    	   2	   7
+asmat-central-mismam-per         	ces    	   2	   7
+asmat-central-mismam-suru        	ces    	   2	   7
+asmat-central-mismam-yepem       	ces    	   2	   7
+asmat-central-simai-ayam         	ces    	   2	   7
+asmat-central-mine               	sön    	  25	  25
+asmat-central-keenakap-miwar     	soane  	  25	  25
+asmat-central-keenok-komar       	sene   	  25	  25
+asmat-central-keenok-sawa-erma   	sene   	  25	  25
+asmat-north-momogo               	səənə  	  25	  25
+asmat-north-pupis                	səənə  	  25	  25
+asmat-casuarina-coast-masin      	apato  	  39	  39
+asmat-casuarina-coast-otenep     	apoto  	  39	  39
+asmat-central-keenok-manep       	apene  	  39	  39
+asmat-central-mismam-per         	apan   	  39	  39
+asmat-central-kainak-atat        	apon   	  39	  39
+asmat-central-mecamup-amisu      	apan   	  39	  39
+asmat-central-mecamup-cowew-yamew	apan   	  39	  39
+asmat-central-mecamup-kawet      	apan   	  39	  39
+asmat-central-mine               	apon   	  39	  39
+asmat-central-mismam-per         	apon   	  39	  39
+asmat-central-mismam-suru        	apan   	  39	  39
+asmat-central-mismam-yepem       	apan   	  39	  39
+asmat-central-simai-ayam         	apan   	  39	  39
+asmat-central-keenok-komar       	apene  	  39	  39
+asmat-central-keenok-sawa-erma   	apne   	  39	  39
+#
+Concept: 980_HEEL, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-masin      	tü/umi	   1	   1
+asmat-casuarina-coast-pirimapun  	tim   	   1	   1
+asmat-central-keenakap-fos       	timi  	   1	   1
+asmat-central-keenakap-namen     	tü/umi	   1	   1
+asmat-central-keenakap-yaosakor  	tü/umi	   1	   1
+asmat-central-keenok-komar       	timi  	   1	   1
+asmat-central-keenok-sawa-erma   	timi  	   1	   1
+asmat-central-sokoni             	tim   	   1	   1
+asmat-north-irogo                	tü/umi	   1	   1
+citak-citak-senggo               	tü/uma	   1	   1
+asmat-central-kainak-ao          	cimi  	   1	   3
+asmat-central-kainak-atat        	cimi  	   1	   3
+asmat-central-kainak-kapi        	cimi  	   1	   3
+asmat-central-kainak-yamas       	cimi  	   1	   3
+asmat-central-mecamup-amisu      	cimi  	   1	   3
+asmat-central-mecamup-kawet      	cumi  	   1	   3
+asmat-central-mecamup-omanesep   	cumi  	   1	   3
+asmat-central-mecamup-yow        	cumi  	   1	   3
+asmat-central-mismam-per         	cimi  	   1	   3
+asmat-central-mismam-suru        	cimi  	   1	   3
+asmat-central-mismam-uwus        	cimi  	   1	   3
+asmat-central-mismam-yepem       	cimi  	   1	   3
+asmat-central-simai-ayam         	cimi  	   1	   3
+#
+Concept: 98_ALL, False Positives: no, False Negatives: yes
+asmat-casuarina-coast-masin      	takase 	   1	   1
+asmat-central-keenakap-namen     	takas  	   1	   1
+asmat-central-mecamup-amisu      	takas  	   1	   1
+asmat-central-mecamup-kawet      	takas  	   1	   1
+asmat-central-mismam-suru        	takas  	   1	   1
+asmat-central-mismam-yepem       	takas  	   1	   1
+asmat-central-simai-ayam         	takas  	   1	   1
+asmat-north-momogo               	tokose 	   1	   1
+asmat-central-mecamup-omanesep   	takas  	   1	   1
+asmat-casuarina-coast-pirimapun  	atkas  	   1	   2
+asmat-central-mecamup-omanesep   	atakas 	   1	   2
+asmat-central-keenok-komar       	mitakas	   1	   4
+#

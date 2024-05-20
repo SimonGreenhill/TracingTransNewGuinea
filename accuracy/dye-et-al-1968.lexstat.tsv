@@ -1,0 +1,607 @@
+# Wordlist
+
+# DATA
+ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	SOURCE	COGID	SONARS	PROSTRINGS	CLASSES	LANGID	NUMBERS	WEIGHTS	IPA	DUPLICATES	AUTOCOGID
+#
+225129	kapriman	1013_FRESHWATER_EEL	fʌliL	fʌliL	f ʌ l i L/l		dye-et-al-1968	20877	3 7 5 7 5	AXBYN	BELIL	4	4.B.C 4.E.V 4.L.C 4.I.V 4.L.c	2.0 1.5 1.75 1.3 0.8	fʌliL/l	0	3
+225130	bahinemo	1013_FRESHWATER_EEL	'ɩlafuli	'ɩlafuli	ɪ l a f u l i		dye-et-al-1968	20877	7 5 7 3 7 5 7	XBYBYBZ	ILABYLI	3	3.I.V 3.L.C 3.A.V 3.B.C 3.Y.V 3.L.C 3.I.V	1.5 1.75 1.3 1.75 1.3 1.75 0.8	ɪlafuli	0	2
+225128	alamblak	1013_FRESHWATER_EEL	gongʌm	gongʌm	g o n g ʌ m		dye-et-al-1968	20668	1 7 4 1 7 4	AXMBYN	KUNKEM	2	2.K.C 2.U.V 2.N.c 2.K.C 2.E.V 2.M.c	2.0 1.5 1.1 1.75 1.3 0.8	gongʌm	0	1
+225131	saniyo-hiyewe	1013_FRESHWATER_EEL	harɛwati	harɛwati	h a r ɛ w a t i		dye-et-al-1968	20778	3 7 5 7 6 7 1 7	AXBYBYBZ	HAREWATI	5	5.H.C 5.A.V 5.R.C 5.E.V 5.W.C 5.A.V 5.T.C 5.I.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	harɛwati	0	4
+#
+224741	kapriman	1202_BIG	marbe	marbe	m a r b e		dye-et-al-1968	20953	4 7 5 1 7	AXMBZ	MARPE	4	4.M.C 4.A.V 4.R.c 4.P.C 4.E.V	2.0 1.5 1.1 1.75 0.8	marbe	0	7
+224742	bahinemo	1202_BIG	bʌdo	bʌdo	b ʌ d o		dye-et-al-1968	20953	1 7 1 7	AXBZ	PETU	3	3.P.C 3.E.V 3.T.C 3.U.V	2.0 1.5 1.75 0.8	bʌdo	0	5
+224740	alamblak	1202_BIG	bʌdokham	bʌdokham	b ʌ d o k h a m		dye-et-al-1968	20745	1 7 1 7 1 3 7 4	AXBYBCYN	PETUKHAM	2	2.P.C 2.E.V 2.T.C 2.U.V 2.K.C 2.H.C 2.A.V 2.M.c	2.0 1.5 1.75 1.3 1.75 1.5 1.3 0.8	bʌdokham	0	5
+224743	saniyo-hiyewe	1202_BIG	rasi	rasi	r a s i		dye-et-al-1968	20695	5 7 3 7	AXBZ	RASI	5	5.R.C 5.A.V 5.S.C 5.I.V	2.0 1.5 1.75 0.8	rasi	0	8
+#
+225038	kapriman	1203_LONG	xagər	xagər	x a g ə r		dye-et-al-1968	20923	3 7 1 7 5	AXBYN	GAKER	4	4.G.C 4.A.V 4.K.C 4.E.V 4.R.c	2.0 1.5 1.75 1.3 0.8	xagər	0	11
+225039	bahinemo	1203_LONG	miya	miya	m i j a		dye-et-al-1968	20827	4 7 6 7	AXBZ	MIJA	3	3.M.C 3.I.V 3.J.C 3.A.V	2.0 1.5 1.75 0.8	mija	0	10
+225037	alamblak	1203_LONG	yukhar	yukhar	j u k h a r		dye-et-al-1968	20923	6 7 1 3 7 5	AXBCYN	JYKHAR	2	2.J.C 2.Y.V 2.K.C 2.H.C 2.A.V 2.R.c	2.0 1.5 1.75 1.5 1.3 0.8	jukhar	0	9
+225040	saniyo-hiyewe	1203_LONG	pitase	pitase	p i t a s e		dye-et-al-1968	20732	1 7 1 7 3 7	AXBYBZ	PITASE	5	5.P.C 5.I.V 5.T.C 5.A.V 5.S.C 5.E.V	2.0 1.5 1.75 1.3 1.75 0.8	pitase	0	12
+#
+224765	kapriman	1205_TONGUE	thʌdɩs	thʌdɩs	t h ʌ d ɪ s		dye-et-al-1968	20709	1 3 7 1 7 3	ACXBYN	THETIS	4	4.T.C 4.H.C 4.E.V 4.T.C 4.I.V 4.S.c	2.0 1.5 1.5 1.75 1.3 0.8	thʌdɪs	0	15
+224766	bahinemo	1205_TONGUE	thɔlu	thɔlu	t h ɔ l u		dye-et-al-1968	20709	1 3 7 5 7	ACXBZ	THULY	3	3.T.C 3.H.C 3.U.V 3.L.C 3.Y.V	2.0 1.5 1.5 1.75 0.8	thɔlu	0	14
+224764	alamblak	1205_TONGUE	torkh	torkh	t o r k h		dye-et-al-1968	20709	1 7 5 1 3	AXMBC	TURKH	2	2.T.C 2.U.V 2.R.c 2.K.C 2.H.C	2.0 1.5 1.1 1.75 1.5	torkh	0	13
+224767	saniyo-hiyewe	1205_TONGUE	soruwɛ	soruwɛ	s o r u w ɛ		dye-et-al-1968	20709	3 7 5 7 6 7	AXBYBZ	SURYWE	5	5.S.C 5.U.V 5.R.C 5.Y.V 5.W.C 5.E.V	2.0 1.5 1.75 1.3 1.75 0.8	soruwɛ	0	16
+#
+225078	kapriman	1209_I	an	an	a n		dye-et-al-1968	20868	7 4	XN	AN	4	4.A.V 4.N.c	1.5 0.8	an	0	18
+225079	bahinemo	1209_I	'ani	'ani	a n i		dye-et-al-1968	20868	7 4 7	XBZ	ANI	3	3.A.V 3.N.C 3.I.V	1.5 1.75 0.8	ani	0	18
+225077	alamblak	1209_I	na	na	n a		dye-et-al-1968	20868	4 7	AX	NA	2	2.N.C 2.A.V	2.0 1.5	na	0	17
+225080	saniyo-hiyewe	1209_I	ane	ane	a n e		dye-et-al-1968	20868	7 4 7	XBZ	ANE	5	5.A.V 5.N.C 5.E.V	1.5 1.75 0.8	ane	0	18
+#
+225046	kapriman	1210_HEAVY	xargogwor	xargogwor	x a r g o g w o r		dye-et-al-1968	20718	3 7 5 1 7 1 6 7 5	AXMBYBCYN	GARKUKWUR	4	4.G.C 4.A.V 4.R.c 4.K.C 4.U.V 4.K.C 4.W.C 4.U.V 4.R.c	2.0 1.5 1.1 1.75 1.3 1.75 1.5 1.3 0.8	xargogwor	0	21
+225047	bahinemo	1210_HEAVY	yisiy	yisiy	j i s i j		dye-et-al-1968	20740	6 7 3 7 6	AXBYN	JISIJ	3	3.J.C 3.I.V 3.S.C 3.I.V 3.J.c	2.0 1.5 1.75 1.3 0.8	jisij	0	20
+225045	alamblak	1210_HEAVY	khurukhiyuth	khurukhiyuth	k h u r u k h i j u t h		dye-et-al-1968	20718	1 3 7 5 7 1 3 7 6 7 1 3	ACXBYBCYBYBC	KHYRYKHIJYTH	2	2.K.C 2.H.C 2.Y.V 2.R.C 2.Y.V 2.K.C 2.H.C 2.I.V 2.J.C 2.Y.V 2.T.C 2.H.C	2.0 1.5 1.5 1.75 1.3 1.75 1.5 1.3 1.75 1.3 1.75 1.5	khurukhijuth	0	19
+225048	saniyo-hiyewe	1210_HEAVY	orasia'i	orasia'i	o r a s i a i		dye-et-al-1968	20808	7 5 7 3 7 7 7	XBYBYYZ	URASIAI	5	5.U.V 5.R.C 5.A.V 5.S.C 5.I.V 5.A.V 5.I.V	1.5 1.75 1.3 1.75 1.3 1.3 0.8	orasiai	0	22
+#
+225086	kapriman	1212_WE	nʌm	nʌm	n ʌ m		dye-et-al-1968	20866	4 7 4	AXN	NEM	4	4.N.C 4.E.V 4.M.c	2.0 1.5 0.8	nʌm	0	23
+225087	bahinemo	1212_WE	nʌm	nʌm	n ʌ m		dye-et-al-1968	20866	4 7 4	AXN	NEM	3	3.N.C 3.E.V 3.M.c	2.0 1.5 0.8	nʌm	1	23
+225085	alamblak	1212_WE	nʌm	nʌm	n ʌ m		dye-et-al-1968	20866	4 7 4	AXN	NEM	2	2.N.C 2.E.V 2.M.c	2.0 1.5 0.8	nʌm	0	23
+225088	saniyo-hiyewe	1212_WE	nʌmo	nʌmo	n ʌ m o		dye-et-al-1968	20866	4 7 4 7	AXBZ	NEMU	5	5.N.C 5.E.V 5.M.C 5.U.V	2.0 1.5 1.75 0.8	nʌmo	0	26
+#
+225082	kapriman	1215_THOU	nï	nï	n ï/i		dye-et-al-1968	20805	4 7	AX	NI	4	4.N.C 4.I.V	2.0 1.5	nï/i	0	27
+225083	bahinemo	1215_THOU	'ini	'ini	i n i		dye-et-al-1968	20805	7 4 7	XBZ	INI	3	3.I.V 3.N.C 3.I.V	1.5 1.75 0.8	ini	0	27
+225081	alamblak	1215_THOU	ni	ni	n i		dye-et-al-1968	20805	4 7	AX	NI	2	2.N.C 2.I.V	2.0 1.5	ni	0	27
+225084	saniyo-hiyewe	1215_THOU	ne	ne	n e		dye-et-al-1968	20805	4 7	AX	NE	5	5.N.C 5.E.V	2.0 1.5	ne	0	27
+#
+224928	kapriman	1216_MOTHER	maynja	maynja	m a j n j a		dye-et-al-1968	20671	4 7 6 4 6 7	AXMBCZ	MAJNJA	4	4.M.C 4.A.V 4.J.c 4.N.C 4.J.C 4.A.V	2.0 1.5 1.1 1.75 1.5 0.8	majnja	0	30
+224929	bahinemo	1216_MOTHER	thanmay	thanmay	t h a n m a j		dye-et-al-1968	20671	1 3 7 4 4 7 6	ACXMBYN	THANMAJ	3	3.T.C 3.H.C 3.A.V 3.N.c 3.M.C 3.A.V 3.J.c	2.0 1.5 1.5 1.1 1.75 1.3 0.8	thanmaj	0	29
+224927	alamblak	1216_MOTHER	mʌmɛmɩt	mʌmɛmɩt	m ʌ m ɛ m ɪ t		dye-et-al-1968	20785	4 7 4 7 4 7 1	AXBYBYN	MEMEMIT	2	2.M.C 2.E.V 2.M.C 2.E.V 2.M.C 2.I.V 2.T.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	mʌmɛmɪt	0	28
+224930	saniyo-hiyewe	1216_MOTHER	may	may	m a j		dye-et-al-1968	20671	4 7 6	AXN	MAJ	5	5.M.C 5.A.V 5.J.c	2.0 1.5 0.8	maj	0	30
+#
+224924	kapriman	1217_FATHER	aytya	aytya	a j t j a		dye-et-al-1968	20693	7 6 1 6 7	XMBCZ	AJTJA	4	4.A.V 4.J.c 4.T.C 4.J.C 4.A.V	1.5 1.1 1.75 1.5 0.8	ajtja	0	33
+224925	bahinemo	1217_FATHER	mahuwa	mahuwa	m a h u w a		dye-et-al-1968	20779	4 7 3 7 6 7	AXBYBZ	MAHYWA	3	3.M.C 3.A.V 3.H.C 3.Y.V 3.W.C 3.A.V	2.0 1.5 1.75 1.3 1.75 0.8	mahuwa	0	32
+224923	alamblak	1217_FATHER	yivemar	yivemar	j i v e m a r		dye-et-al-1968	20902	6 7 3 7 4 7 5	AXBYBYN	JIBEMAR	2	2.J.C 2.I.V 2.B.C 2.E.V 2.M.C 2.A.V 2.R.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	jivemar	0	31
+224926	saniyo-hiyewe	1217_FATHER	aytɛ	aytɛ	a j t ɛ		dye-et-al-1968	20693	7 6 1 7	XMBZ	AJTE	5	5.A.V 5.J.c 5.T.C 5.E.V	1.5 1.1 1.75 0.8	ajtɛ	0	33
+#
+224912	kapriman	1220_TAIL	ningyɛvu	ningyɛvu	n i n g j ɛ v u		dye-et-al-1968	20947	4 7 4 1 6 7 3 7	AXMBCYBZ	NINKJEBY	4	4.N.C 4.I.V 4.N.c 4.K.C 4.J.C 4.E.V 4.B.C 4.Y.V	2.0 1.5 1.1 1.75 1.5 1.3 1.75 0.8	ningjɛvu	0	36
+224913	bahinemo	1220_TAIL	yɩni	yɩni	j ɪ n i		dye-et-al-1968	20854	6 7 4 7	AXBZ	JINI	3	3.J.C 3.I.V 3.N.C 3.I.V	2.0 1.5 1.75 0.8	jɪni	0	35
+224911	alamblak	1220_TAIL	gərbʌn	gərbʌn	g ə r b ʌ n		dye-et-al-1968	20731	1 7 5 1 7 4	AXMBYN	KERPEN	2	2.K.C 2.E.V 2.R.c 2.P.C 2.E.V 2.N.c	2.0 1.5 1.1 1.75 1.3 0.8	gərbʌn	0	34
+224914	saniyo-hiyewe	1220_TAIL	ini	ini	i n i		dye-et-al-1968	20854	7 4 7	XBZ	INI	5	5.I.V 5.N.C 5.I.V	1.5 1.75 0.8	ini	0	35
+#
+224677	kapriman	1221_NOSE	singova	singova	s i n g o v a		dye-et-al-1968	20860	3 7 4 1 7 3 7	AXMBYBZ	SINKUBA	4	4.S.C 4.I.V 4.N.c 4.K.C 4.U.V 4.B.C 4.A.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	singova	0	39
+224678	bahinemo	1221_NOSE	sɛkʌnɩ	sɛkʌnɩ	s ɛ k ʌ n ɪ		dye-et-al-1968	20692	3 7 1 7 4 7	AXBYBZ	SEKENI	3	3.S.C 3.E.V 3.K.C 3.E.V 3.N.C 3.I.V	2.0 1.5 1.75 1.3 1.75 0.8	sɛkʌnɪ	0	38
+224676	alamblak	1221_NOSE	khusɩmʌth	khusɩmʌth	k h u s ɪ m ʌ t h		dye-et-al-1968	20954	1 3 7 3 7 4 7 1 3	ACXBYBYBC	KHYSIMETH	2	2.K.C 2.H.C 2.Y.V 2.S.C 2.I.V 2.M.C 2.E.V 2.T.C 2.H.C	2.0 1.5 1.5 1.75 1.3 1.75 1.3 1.75 1.5	khusɪmʌth	0	37
+224679	saniyo-hiyewe	1221_NOSE	ɛrɛmɛ	ɛrɛmɛ	ɛ r ɛ m ɛ		dye-et-al-1968	20807	7 5 7 4 7	XBYBZ	EREME	5	5.E.V 5.R.C 5.E.V 5.M.C 5.E.V	1.5 1.75 1.3 1.75 0.8	ɛrɛmɛ	0	40
+#
+224884	kapriman	1223_HEART	yagux	yagux	j a g u x		dye-et-al-1968	20878	6 7 1 7 3	AXBYN	JAKYG	4	4.J.C 4.A.V 4.K.C 4.Y.V 4.G.c	2.0 1.5 1.75 1.3 0.8	jagux	0	43
+224885	bahinemo	1223_HEART	yuw	yuw	j u w		dye-et-al-1968	20878	6 7 6	AXN	JYW	3	3.J.C 3.Y.V 3.W.c	2.0 1.5 0.8	juw	0	42
+224883	alamblak	1223_HEART	marbil	marbil	m a r b i l		dye-et-al-1968	20749	4 7 5 1 7 5	AXMBYN	MARPIL	2	2.M.C 2.A.V 2.R.c 2.P.C 2.I.V 2.L.c	2.0 1.5 1.1 1.75 1.3 0.8	marbil	0	41
+224886	saniyo-hiyewe	1223_HEART	marɛpi	marɛpi	m a r ɛ p i		dye-et-al-1968	20749	4 7 5 7 1 7	AXBYBZ	MAREPI	5	5.M.C 5.A.V 5.R.C 5.E.V 5.P.C 5.I.V	2.0 1.5 1.75 1.3 1.75 0.8	marɛpi	0	41
+#
+224888	kapriman	1224_LIVER	wavəL	wavəL	w a v ə L/l		dye-et-al-1968	20945	6 7 3 7 5	AXBYN	WABEL	4	4.W.C 4.A.V 4.B.C 4.E.V 4.L.c	2.0 1.5 1.75 1.3 0.8	wavəL/l	0	44
+224889	bahinemo	1224_LIVER	wafu	wafu	w a f u		dye-et-al-1968	20945	6 7 3 7	AXBZ	WABY	3	3.W.C 3.A.V 3.B.C 3.Y.V	2.0 1.5 1.75 0.8	wafu	0	44
+224887	alamblak	1224_LIVER	wavʌt	wavʌt	w a v ʌ t		dye-et-al-1968	20945	6 7 3 7 1	AXBYN	WABET	2	2.W.C 2.A.V 2.B.C 2.E.V 2.T.c	2.0 1.5 1.75 1.3 0.8	wavʌt	0	44
+224890	saniyo-hiyewe	1224_LIVER	wave	wave	w a v e		dye-et-al-1968	20945	6 7 3 7	AXBZ	WABE	5	5.W.C 5.A.V 5.B.C 5.E.V	2.0 1.5 1.75 0.8	wave	0	44
+#
+224994	kapriman	1228_EARTH_SOIL	bubʌɣa	bubʌɣa	b u b ʌ ɣ a		dye-et-al-1968	20689	1 7 1 7 3 7	AXBYBZ	PYPEGA	4	4.P.C 4.Y.V 4.P.C 4.E.V 4.G.C 4.A.V	2.0 1.5 1.75 1.3 1.75 0.8	bubʌɣa	0	46
+224995	bahinemo	1228_EARTH_SOIL	bobu	bobu	b o b u		dye-et-al-1968	20689	1 7 1 7	AXBZ	PUPY	3	3.P.C 3.U.V 3.P.C 3.Y.V	2.0 1.5 1.75 0.8	bobu	0	46
+224993	alamblak	1228_EARTH_SOIL	bʌbɩnsapith	bʌbɩnsapith	b ʌ b ɪ n s a p i t h		dye-et-al-1968	20777	1 7 1 7 4 3 7 1 7 1 3	AXBYMBYBYBC	PEPINSAPITH	2	2.P.C 2.E.V 2.P.C 2.I.V 2.N.c 2.S.C 2.A.V 2.P.C 2.I.V 2.T.C 2.H.C	2.0 1.5 1.75 1.3 1.1 1.75 1.3 1.75 1.3 1.75 1.5	bʌbɪnsapith	0	45
+224996	saniyo-hiyewe	1228_EARTH_SOIL	pɛpɛri	pɛpɛri	p ɛ p ɛ r i		dye-et-al-1968	20689	1 7 1 7 5 7	AXBYBZ	PEPERI	5	5.P.C 5.E.V 5.P.C 5.E.V 5.R.C 5.I.V	2.0 1.5 1.75 1.3 1.75 0.8	pɛpɛri	0	46
+#
+225018	kapriman	1233_NIGHT	nilis	nilis	n i l i s		dye-et-al-1968	20760	4 7 5 7 3	AXBYN	NILIS	4	4.N.C 4.I.V 4.L.C 4.I.V 4.S.c	2.0 1.5 1.75 1.3 0.8	nilis	0	48
+225019	bahinemo	1233_NIGHT	nʌmuli	nʌmuli	n ʌ m u l i		dye-et-al-1968	20858	4 7 4 7 5 7	AXBYBZ	NEMYLI	3	3.N.C 3.E.V 3.M.C 3.Y.V 3.L.C 3.I.V	2.0 1.5 1.75 1.3 1.75 0.8	nʌmuli	0	48
+225017	alamblak	1233_NIGHT	yɩvungʌth	yɩvungʌth	j ɪ v u n g ʌ t h		dye-et-al-1968	20673	6 7 3 7 4 1 7 1 3	AXBYMBYBC	JIBYNKETH	2	2.J.C 2.I.V 2.B.C 2.Y.V 2.N.c 2.K.C 2.E.V 2.T.C 2.H.C	2.0 1.5 1.75 1.3 1.1 1.75 1.3 1.75 1.5	jɪvungʌth	0	47
+225020	saniyo-hiyewe	1233_NIGHT	pasi	pasi	p a s i		dye-et-al-1968	20876	1 7 3 7	AXBZ	PASI	5	5.P.C 5.A.V 5.S.C 5.I.V	2.0 1.5 1.75 0.8	pasi	0	50
+#
+224865	kapriman	123_FOREHEAD	yɛnbʌvas	yɛnbʌvas	j ɛ n b ʌ v a s		dye-et-al-1968	20743	6 7 4 1 7 3 7 3	AXMBYBYN	JENPEBAS	4	4.J.C 4.E.V 4.N.c 4.P.C 4.E.V 4.B.C 4.A.V 4.S.c	2.0 1.5 1.1 1.75 1.3 1.75 1.3 0.8	jɛnbʌvas	0	53
+224866	bahinemo	123_FOREHEAD	nɩbʌgi	nɩbʌgi	n ɪ b ʌ g i		dye-et-al-1968	20719	4 7 1 7 1 7	AXBYBZ	NIPEKI	3	3.N.C 3.I.V 3.P.C 3.E.V 3.K.C 3.I.V	2.0 1.5 1.75 1.3 1.75 0.8	nɪbʌgi	0	51
+224864	alamblak	123_FOREHEAD	nɩmbikh	nɩmbikh	n ɪ m b i k h		dye-et-al-1968	20719	4 7 4 1 7 1 3	AXMBYBC	NIMPIKH	2	2.N.C 2.I.V 2.M.c 2.P.C 2.I.V 2.K.C 2.H.C	2.0 1.5 1.1 1.75 1.3 1.75 1.5	nɪmbikh	0	51
+224867	saniyo-hiyewe	123_FOREHEAD	mapinɛ	mapinɛ	m a p i n ɛ		dye-et-al-1968	20719	4 7 1 7 4 7	AXBYBZ	MAPINE	5	5.M.C 5.A.V 5.P.C 5.I.V 5.N.C 5.E.V	2.0 1.5 1.75 1.3 1.75 0.8	mapinɛ	0	54
+#
+224745	kapriman	1246_SMALL	glɩkha	glɩkha	g l ɪ k h a		dye-et-al-1968	20708	1 5 7 1 3 7	ACXBCZ	KLIKHA	4	4.K.C 4.L.C 4.I.V 4.K.C 4.H.C 4.A.V	2.0 1.5 1.5 1.75 1.5 0.8	glɪkha	0	57
+224746	bahinemo	1246_SMALL	'ʌnhaytha	'ʌnhaytha	ʌ n h a j t h a		dye-et-al-1968	1	7 4 3 7 6 1 3 7	XMBYMBCZ	ENHAJTHA	3	3.E.V 3.N.c 3.H.C 3.A.V 3.J.c 3.T.C 3.H.C 3.A.V	1.5 1.1 1.75 1.3 1.1 1.75 1.5 0.8	ʌnhajtha	0	56
+224744	alamblak	1246_SMALL	takhəphuyɛrʌm	takhəphuyɛrʌm	t a k h ə p h u j ɛ r ʌ m		dye-et-al-1968	20922	1 7 1 3 7 1 3 7 6 7 5 7 4	AXBCYBCYBYBYN	TAKHEPHYJEREM	2	2.T.C 2.A.V 2.K.C 2.H.C 2.E.V 2.P.C 2.H.C 2.Y.V 2.J.C 2.E.V 2.R.C 2.E.V 2.M.c	2.0 1.5 1.75 1.5 1.3 1.75 1.5 1.3 1.75 1.3 1.75 1.3 0.8	takhəphujɛrʌm	0	55
+224747	saniyo-hiyewe	1246_SMALL	'ʌswa'i	'ʌswa'i	ʌ s w a i		dye-et-al-1968	20753	7 3 6 7 7	XBCYZ	ESWAI	5	5.E.V 5.S.C 5.W.C 5.A.V 5.I.V	1.5 1.75 1.5 1.3 0.8	ʌswai	0	58
+#
+224761	kapriman	1247_EAR	womblaja	womblaja	w o m b l a j a		dye-et-al-1968	20895	6 7 4 1 5 7 6 7	AXMBCYBZ	WUMPLAJA	4	4.W.C 4.U.V 4.M.c 4.P.C 4.L.C 4.A.V 4.J.C 4.A.V	2.0 1.5 1.1 1.75 1.5 1.3 1.75 0.8	womblaja	0	61
+224762	bahinemo	1247_EAR	bʌsiya	bʌsiya	b ʌ s i j a		dye-et-al-1968	20687	1 7 3 7 6 7	AXBYBZ	PESIJA	3	3.P.C 3.E.V 3.S.C 3.I.V 3.J.C 3.A.V	2.0 1.5 1.75 1.3 1.75 0.8	bʌsija	0	60
+224760	alamblak	1247_EAR	yɩmbʌlindangʌm	yɩmbʌlindangʌm	j ɪ m b ʌ l i n d a n g ʌ m		dye-et-al-1968	20796	6 7 4 1 7 5 7 4 1 7 4 1 7 4	AXMBYBYMBYMBYN	JIMPELINTANKEM	2	2.J.C 2.I.V 2.M.c 2.P.C 2.E.V 2.L.C 2.I.V 2.N.c 2.T.C 2.A.V 2.N.c 2.K.C 2.E.V 2.M.c	2.0 1.5 1.1 1.75 1.3 1.75 1.3 1.1 1.75 1.3 1.1 1.75 1.3 0.8	jɪmbʌlindangʌm	0	59
+224763	saniyo-hiyewe	1247_EAR	apahɛ	apahɛ	a p a h ɛ		dye-et-al-1968	20774	7 1 7 3 7	XBYBZ	APAHE	5	5.A.V 5.P.C 5.A.V 5.H.C 5.E.V	1.5 1.75 1.3 1.75 0.8	apahɛ	0	62
+#
+224681	kapriman	1248_EYE	nikha	nikha	n i k h a		dye-et-al-1968	20804	4 7 1 3 7	AXBCZ	NIKHA	4	4.N.C 4.I.V 4.K.C 4.H.C 4.A.V	2.0 1.5 1.75 1.5 0.8	nikha	0	64
+224682	bahinemo	1248_EYE	niya	niya	n i j a		dye-et-al-1968	20804	4 7 6 7	AXBZ	NIJA	3	3.N.C 3.I.V 3.J.C 3.A.V	2.0 1.5 1.75 0.8	nija	0	64
+224680	alamblak	1248_EYE	ningaw	ningaw	n i n g a w		dye-et-al-1968	20804	4 7 4 1 7 6	AXMBYN	NINKAW	2	2.N.C 2.I.V 2.N.c 2.K.C 2.A.V 2.W.c	2.0 1.5 1.1 1.75 1.3 0.8	ningaw	0	63
+224683	saniyo-hiyewe	1248_EYE	nihɛ	nihɛ	n i h ɛ		dye-et-al-1968	20804	4 7 3 7	AXBZ	NIHE	5	5.N.C 5.I.V 5.H.C 5.E.V	2.0 1.5 1.75 0.8	nihɛ	0	64
+#
+224689	kapriman	1251_BELLY	fanis	fanis	f a n i s		dye-et-al-1968	20865	3 7 4 7 3	AXBYN	BANIS	4	4.B.C 4.A.V 4.N.C 4.I.V 4.S.c	2.0 1.5 1.75 1.3 0.8	fanis	0	67
+224690	bahinemo	1251_BELLY	law	law	l a w		dye-et-al-1968	20961	5 7 6	AXN	LAW	3	3.L.C 3.A.V 3.W.c	2.0 1.5 0.8	law	0	66
+224688	alamblak	1251_BELLY	yalith	yalith	j a l i t h		dye-et-al-1968	20766	6 7 5 7 1 3	AXBYBC	JALITH	2	2.J.C 2.A.V 2.L.C 2.I.V 2.T.C 2.H.C	2.0 1.5 1.75 1.3 1.75 1.5	jalith	0	65
+224691	saniyo-hiyewe	1251_BELLY	rivɛ	rivɛ	r i v ɛ		dye-et-al-1968	20913	5 7 3 7	AXBZ	RIBE	5	5.R.C 5.I.V 5.B.C 5.E.V	2.0 1.5 1.75 0.8	rivɛ	0	68
+#
+224990	kapriman	1252_HOUSE	wunuL	wunuL	w u n u L/l		dye-et-al-1968	20906	6 7 4 7 5	AXBYN	WYNYL	4	4.W.C 4.Y.V 4.N.C 4.Y.V 4.L.c	2.0 1.5 1.75 1.3 0.8	wunuL/l	0	71
+224991	bahinemo	1252_HOUSE	'ɩna	'ɩna	ɪ n a		dye-et-al-1968	20756	7 4 7	XBZ	INA	3	3.I.V 3.N.C 3.A.V	1.5 1.75 0.8	ɪna	0	70
+224989	alamblak	1252_HOUSE	khunyʌm	khunyʌm	k h u n j ʌ m		dye-et-al-1968	20756	1 3 7 4 6 7 4	ACXBCYN	KHYNJEM	2	2.K.C 2.H.C 2.Y.V 2.N.C 2.J.C 2.E.V 2.M.c	2.0 1.5 1.5 1.75 1.5 1.3 0.8	khunjʌm	0	69
+224992	saniyo-hiyewe	1252_HOUSE	wʌsi	wʌsi	w ʌ s i		dye-et-al-1968	20891	6 7 3 7	AXBZ	WESI	5	5.W.C 5.E.V 5.S.C 5.I.V	2.0 1.5 1.75 0.8	wʌsi	0	72
+#
+224669	kapriman	1256_HEAD	toɣo	toɣo	t o ɣ o		dye-et-al-1968	20761	1 7 3 7	AXBZ	TUGU	4	4.T.C 4.U.V 4.G.C 4.U.V	2.0 1.5 1.75 0.8	toɣo	0	75
+224670	bahinemo	1256_HEAD	thu	thu	t h u		dye-et-al-1968	20761	1 3 7	ACX	THY	3	3.T.C 3.H.C 3.Y.V	2.0 1.5 1.5	thu	0	74
+224668	alamblak	1256_HEAD	mʌbogath	mʌbogath	m ʌ b o g a t h		dye-et-al-1968	20770	4 7 1 7 1 7 1 3	AXBYBYBC	MEPUKATH	2	2.M.C 2.E.V 2.P.C 2.U.V 2.K.C 2.A.V 2.T.C 2.H.C	2.0 1.5 1.75 1.3 1.75 1.3 1.75 1.5	mʌbogath	0	73
+224671	saniyo-hiyewe	1256_HEAD	tu	tu	t u		dye-et-al-1968	20761	1 7	AX	TY	5	5.T.C 5.Y.V	2.0 1.5	tu	0	74
+#
+224900	kapriman	1257_WING	tɩbi	tɩbi	t ɪ b i		dye-et-al-1968	20904	1 7 1 7	AXBZ	TIPI	4	4.T.C 4.I.V 4.P.C 4.I.V	2.0 1.5 1.75 0.8	tɪbi	0	78
+224904	kapriman	1257_WING	tɩbi	tɩbi	t ɪ b i		dye-et-al-1968	20904	1 7 1 7	AXBZ	TIPI	4	4.T.C 4.I.V 4.P.C 4.I.V	2.0 1.5 1.75 0.8	tɪbi	1	78
+224901	bahinemo	1257_WING	sɩfi	sɩfi	s ɪ f i		dye-et-al-1968	20904	3 7 3 7	AXBZ	SIBI	3	3.S.C 3.I.V 3.B.C 3.I.V	2.0 1.5 1.75 0.8	sɪfi	0	77
+224905	bahinemo	1257_WING	sɩi	sɩi	s ɪ i		dye-et-al-1968	20904	3 7 7	AXZ	SII	3	3.S.C 3.I.V 3.I.V	2.0 1.5 0.8	sɪi	0	77
+224899	alamblak	1257_WING	biɛrnam	biɛrnam	b i ɛ r n a m		dye-et-al-1968	20856	1 7 7 5 4 7 4	AXYMBYN	PIERNAM	2	2.P.C 2.I.V 2.E.V 2.R.c 2.N.C 2.A.V 2.M.c	2.0 1.5 1.3 1.1 1.75 1.3 0.8	biɛrnam	0	76
+224903	alamblak	1257_WING	biɛrnam	biɛrnam	b i ɛ r n a m		dye-et-al-1968	20856	1 7 7 5 4 7 4	AXYMBYN	PIERNAM	2	2.P.C 2.I.V 2.E.V 2.R.c 2.N.C 2.A.V 2.M.c	2.0 1.5 1.3 1.1 1.75 1.3 0.8	biɛrnam	1	76
+224902	saniyo-hiyewe	1257_WING	haypi	haypi	h a j p i		dye-et-al-1968	20698	3 7 6 1 7	AXMBZ	HAJPI	5	5.H.C 5.A.V 5.J.c 5.P.C 5.I.V	2.0 1.5 1.1 1.75 0.8	hajpi	0	79
+224906	saniyo-hiyewe	1257_WING	haypi	haypi	h a j p i		dye-et-al-1968	20698	3 7 6 1 7	AXMBZ	HAJPI	5	5.H.C 5.A.V 5.J.c 5.P.C 5.I.V	2.0 1.5 1.1 1.75 0.8	hajpi	1	79
+#
+224936	kapriman	1263_SISTER	walawuth	walawuth	w a l a w u t h	male speaking	dye-et-al-1968	20939	6 7 5 7 6 7 1 3	AXBYBYBC	WALAWYTH	4	4.W.C 4.A.V 4.L.C 4.A.V 4.W.C 4.Y.V 4.T.C 4.H.C	2.0 1.5 1.75 1.3 1.75 1.3 1.75 1.5	walawuth	0	82
+224937	bahinemo	1263_SISTER	nʌmda	nʌmda	n ʌ m d a	male speaking	dye-et-al-1968	20722	4 7 4 1 7	AXMBZ	NEMTA	3	3.N.C 3.E.V 3.M.c 3.T.C 3.A.V	2.0 1.5 1.1 1.75 0.8	nʌmda	0	81
+224935	alamblak	1263_SISTER	mʌndarɛmth	mʌndarɛmth	m ʌ n d a r ɛ m t h	male speaking	dye-et-al-1968	20844	4 7 4 1 7 5 7 4 1 3	AXMBYBYMBC	MENTAREMTH	2	2.M.C 2.E.V 2.N.c 2.T.C 2.A.V 2.R.C 2.E.V 2.M.c 2.T.C 2.H.C	2.0 1.5 1.1 1.75 1.3 1.75 1.3 1.1 1.75 1.5	mʌndarɛmth	0	80
+224938	saniyo-hiyewe	1263_SISTER	ine	ine	i n e	male speaking	dye-et-al-1968	20819	7 4 7	XBZ	INE	5	5.I.V 5.N.C 5.E.V	1.5 1.75 0.8	ine	0	83
+#
+225070	kapriman	1268_YES	yo	yo	j o		dye-et-al-1968	20721	6 7	AX	JU	4	4.J.C 4.U.V	2.0 1.5	jo	0	86
+225071	bahinemo	1268_YES	'ey	'ey	e j		dye-et-al-1968	20776	7 6	XN	EJ	3	3.E.V 3.J.c	1.5 0.8	ej	0	85
+225069	alamblak	1268_YES	wa	wa	w a		dye-et-al-1968	20815	6 7	AX	WA	2	2.W.C 2.A.V	2.0 1.5	wa	0	84
+225072	saniyo-hiyewe	1268_YES	yaw	yaw	j a w		dye-et-al-1968	20721	6 7 6	AXN	JAW	5	5.J.C 5.A.V 5.W.c	2.0 1.5 0.8	jaw	0	86
+#
+225074	kapriman	1269_NO	mba	mba	m b a		dye-et-al-1968	20841	4 1 7	ACZ	MPA	4	4.M.C 4.P.C 4.A.V	2.0 1.5 0.8	mba	0	88
+225075	bahinemo	1269_NO	mbaya	mbaya	m b a j a		dye-et-al-1968	20841	4 1 7 6 7	ACYBZ	MPAJA	3	3.M.C 3.P.C 3.A.V 3.J.C 3.A.V	2.0 1.5 1.3 1.75 0.8	mbaja	0	88
+225073	alamblak	1269_NO	nʌgay	nʌgay	n ʌ g a j		dye-et-al-1968	20803	4 7 1 7 6	AXBYN	NEKAJ	2	2.N.C 2.E.V 2.K.C 2.A.V 2.J.c	2.0 1.5 1.75 1.3 0.8	nʌgaj	0	87
+225076	saniyo-hiyewe	1269_NO	piyɛte	piyɛte	p i j ɛ t e		dye-et-al-1968	20795	1 7 6 7 1 7	AXBYBZ	PIJETE	5	5.P.C 5.I.V 5.J.C 5.E.V 5.T.C 5.E.V	2.0 1.5 1.75 1.3 1.75 0.8	pijɛte	0	90
+#
+225054	kapriman	1287_COLD	gonyugu	gonyugu	g o n j u g u		dye-et-al-1968	20948	1 7 4 6 7 1 7	AXBCYBZ	KUNJYKY	4	4.K.C 4.U.V 4.N.C 4.J.C 4.Y.V 4.K.C 4.Y.V	2.0 1.5 1.75 1.5 1.3 1.75 0.8	gonjugu	0	93
+225055	bahinemo	1287_COLD	khʌni	khʌni	k h ʌ n i		dye-et-al-1968	20948	1 3 7 4 7	ACXBZ	KHENI	3	3.K.C 3.H.C 3.E.V 3.N.C 3.I.V	2.0 1.5 1.5 1.75 0.8	khʌni	0	92
+225053	alamblak	1287_COLD	gonʌgʌtheyoth	gonʌgʌtheyoth	g o n ʌ g ʌ t h e j o t h		dye-et-al-1968	20948	1 7 4 7 1 7 1 3 7 6 7 1 3	AXBYBYBCYBYBC	KUNEKETHEJUTH	2	2.K.C 2.U.V 2.N.C 2.E.V 2.K.C 2.E.V 2.T.C 2.H.C 2.E.V 2.J.C 2.U.V 2.T.C 2.H.C	2.0 1.5 1.75 1.3 1.75 1.3 1.75 1.5 1.3 1.75 1.3 1.75 1.5	gonʌgʌthejoth	0	91
+225056	saniyo-hiyewe	1287_COLD	narataya'i	narataya'i	n a r a t a j a i		dye-et-al-1968	20855	4 7 5 7 1 7 6 7 7	AXBYBYBYZ	NARATAJAI	5	5.N.C 5.A.V 5.R.C 5.A.V 5.T.C 5.A.V 5.J.C 5.A.V 5.I.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 1.3 0.8	naratajai	0	94
+#
+224785	kapriman	1313_MOON	yagos	yagos	j a g o s		dye-et-al-1968	20929	6 7 1 7 3	AXBYN	JAKUS	4	4.J.C 4.A.V 4.K.C 4.U.V 4.S.c	2.0 1.5 1.75 1.3 0.8	jagos	0	97
+224786	bahinemo	1313_MOON	yamal	yamal	j a m a l		dye-et-al-1968	20799	6 7 4 7 5	AXBYN	JAMAL	3	3.J.C 3.A.V 3.M.C 3.A.V 3.L.c	2.0 1.5 1.75 1.3 0.8	jamal	0	95
+224784	alamblak	1313_MOON	yamʌth	yamʌth	j a m ʌ t h		dye-et-al-1968	20799	6 7 4 7 1 3	AXBYBC	JAMETH	2	2.J.C 2.A.V 2.M.C 2.E.V 2.T.C 2.H.C	2.0 1.5 1.75 1.3 1.75 1.5	jamʌth	0	95
+224787	saniyo-hiyewe	1313_MOON	yamɛ'	yamɛ'	j a m ɛ		dye-et-al-1968	20799	6 7 4 7	AXBZ	JAME	5	5.J.C 5.A.V 5.M.C 5.E.V	2.0 1.5 1.75 0.8	jamɛ	0	95
+#
+225022	kapriman	1335_WHITE	gubow	gubow	g u b o w		dye-et-al-1968	20809	1 7 1 7 6	AXBYN	KYPUW	4	4.K.C 4.Y.V 4.P.C 4.U.V 4.W.c	2.0 1.5 1.75 1.3 0.8	gubow	0	100
+225023	bahinemo	1335_WHITE	gay	gay	g a j		dye-et-al-1968	20905	1 7 6	AXN	KAJ	3	3.K.C 3.A.V 3.J.c	2.0 1.5 0.8	gaj	0	99
+225021	alamblak	1335_WHITE	gaynyʌmth	gaynyʌmth	g a j n j ʌ m t h		dye-et-al-1968	20905	1 7 6 4 6 7 4 1 3	AXMBCYMBC	KAJNJEMTH	2	2.K.C 2.A.V 2.J.c 2.N.C 2.J.C 2.E.V 2.M.c 2.T.C 2.H.C	2.0 1.5 1.1 1.75 1.5 1.3 1.1 1.75 1.5	gajnjʌmth	0	98
+225024	saniyo-hiyewe	1335_WHITE	wapoa'i	wapoa'i	w a p o a i		dye-et-al-1968	20717	6 7 1 7 7 7	AXBYYZ	WAPUAI	5	5.W.C 5.A.V 5.P.C 5.U.V 5.A.V 5.I.V	2.0 1.5 1.75 1.3 1.3 0.8	wapoai	0	101
+#
+224829	kapriman	1336_EAT	asoliya	asoliya	a s o l i j a		dye-et-al-1968	20675	7 3 7 5 7 6 7	XBYBYBZ	ASULIJA	4	4.A.V 4.S.C 4.U.V 4.L.C 4.I.V 4.J.C 4.A.V	1.5 1.75 1.3 1.75 1.3 1.75 0.8	asolija	0	104
+224830	bahinemo	1336_EAT	diyaw	diyaw	d i j a w		dye-et-al-1968	20675	1 7 6 7 6	AXBYN	TIJAW	3	3.T.C 3.I.V 3.J.C 3.A.V 3.W.c	2.0 1.5 1.75 1.3 0.8	dijaw	0	103
+224828	alamblak	1336_EAT	weyanum	weyanum	w e j a n u m		dye-et-al-1968	20675	6 7 6 7 4 7 4	AXBYBYN	WEJANYM	2	2.W.C 2.E.V 2.J.C 2.A.V 2.N.C 2.Y.V 2.M.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	wejanum	0	102
+224831	saniyo-hiyewe	1336_EAT	asiyʌ	asiyʌ	a s i j ʌ		dye-et-al-1968	20675	7 3 7 6 7	XBYBZ	ASIJE	5	5.A.V 5.S.C 5.I.V 5.J.C 5.E.V	1.5 1.75 1.3 1.75 0.8	asijʌ	0	104
+#
+224944	kapriman	1337_PIG	fʌɣr	fʌɣr	f ʌ ɣ r		dye-et-al-1968	20965	3 7 3 5	AXBC	BEGR	4	4.B.C 4.E.V 4.G.C 4.R.C	2.0 1.5 1.75 1.5	fʌɣr	0	105
+224945	bahinemo	1337_PIG	fa	fa	f a		dye-et-al-1968	20965	3 7	AX	BA	3	3.B.C 3.A.V	2.0 1.5	fa	0	106
+224943	alamblak	1337_PIG	fagʌr	fagʌr	f a g ʌ r		dye-et-al-1968	20965	3 7 1 7 5	AXBYN	BAKER	2	2.B.C 2.A.V 2.K.C 2.E.V 2.R.c	2.0 1.5 1.75 1.3 0.8	fagʌr	0	105
+224946	saniyo-hiyewe	1337_PIG	fe	fe	f e		dye-et-al-1968	20965	3 7	AX	BE	5	5.B.C 5.E.V	2.0 1.5	fe	0	106
+#
+224781	kapriman	1343_SUN	yɛneza	yɛneza	j ɛ n e z a		dye-et-al-1968	20848	6 7 4 7 3 7	AXBYBZ	JENESA	4	4.J.C 4.E.V 4.N.C 4.E.V 4.S.C 4.A.V	2.0 1.5 1.75 1.3 1.75 0.8	jɛneza	0	109
+224782	bahinemo	1343_SUN	tɩniya	tɩniya	t ɪ n i j a		dye-et-al-1968	20943	1 7 4 7 6 7	AXBYBZ	TINIJA	3	3.T.C 3.I.V 3.N.C 3.I.V 3.J.C 3.A.V	2.0 1.5 1.75 1.3 1.75 0.8	tɪnija	0	108
+224780	alamblak	1343_SUN	mar	mar	m a r		dye-et-al-1968	20750	4 7 5	AXN	MAR	2	2.M.C 2.A.V 2.R.c	2.0 1.5 0.8	mar	0	107
+224783	saniyo-hiyewe	1343_SUN	poɔyuɛ	poɔyuɛ	p o ɔ j u ɛ		dye-et-al-1968	20696	1 7 7 6 7 7	AXYBYZ	PUUJYE	5	5.P.C 5.U.V 5.U.V 5.J.C 5.Y.V 5.E.V	2.0 1.5 1.3 1.75 1.3 0.8	poɔjuɛ	0	110
+#
+224685	kapriman	1347_NAPE_OF_NECK	maɣə	maɣə	m a ɣ ə		dye-et-al-1968	20903	4 7 3 7	AXBZ	MAGE	4	4.M.C 4.A.V 4.G.C 4.E.V	2.0 1.5 1.75 0.8	maɣə	0	113
+224686	bahinemo	1347_NAPE_OF_NECK	bakʌnal	bakʌnal	b a k ʌ n a l		dye-et-al-1968	20806	1 7 1 7 4 7 5	AXBYBYN	PAKENAL	3	3.P.C 3.A.V 3.K.C 3.E.V 3.N.C 3.A.V 3.L.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	bakʌnal	0	112
+224684	alamblak	1347_NAPE_OF_NECK	mokhthʌphil	mokhthʌphil	m o k h t h ʌ p h i l		dye-et-al-1968	20932	4 7 1 3 1 3 7 1 3 7 5	AXBYBCYBCYN	MUKHTHEPHIL	2	2.M.C 2.U.V 2.K.C 2.H.V 2.T.C 2.H.C 2.E.V 2.P.C 2.H.C 2.I.V 2.L.c	2.0 1.5 1.75 1.3 1.75 1.5 1.3 1.75 1.5 1.3 0.8	mokhthʌphil	0	111
+224687	saniyo-hiyewe	1347_NAPE_OF_NECK	wʌno'o	wʌno'o	w ʌ n o o		dye-et-al-1968	20789	6 7 4 7 7	AXBYZ	WENUU	5	5.W.C 5.E.V 5.N.C 5.U.V 5.U.V	2.0 1.5 1.75 1.3 0.8	wʌnoo	0	114
+#
+224916	kapriman	1366_BOY	moɣʌla	moɣʌla	m o ɣ ʌ l a		dye-et-al-1968	20833	4 7 3 7 5 7	AXBYBZ	MUGELA	4	4.M.C 4.U.V 4.G.C 4.E.V 4.L.C 4.A.V	2.0 1.5 1.75 1.3 1.75 0.8	moɣʌla	0	117
+224917	bahinemo	1366_BOY	'ɩma yɛn	'ɩma_yɛn	ɪ m a + j ɛ n		dye-et-al-1968	20736	7 4 7 9 6 7 4	XBZ_AXN	IMA_JEN	3	3.I.V 3.M.C 3.A.V 3._._ 3.J.C 3.E.V 3.N.c	1.5 1.75 0.8 0.0 2.0 1.5 0.8	ɪma+jɛn	0	116
+224915	alamblak	1366_BOY	yʌnər	yʌnər	j ʌ n ə r		dye-et-al-1968	20736	6 7 4 7 5	AXBYN	JENER	2	2.J.C 2.E.V 2.N.C 2.E.V 2.R.c	2.0 1.5 1.75 1.3 0.8	jʌnər	0	115
+224918	saniyo-hiyewe	1366_BOY	emanɛ	emanɛ	e m a n ɛ		dye-et-al-1968	20736	7 4 7 4 7	XBYBZ	EMANE	5	5.E.V 5.M.C 5.A.V 5.N.C 5.E.V	1.5 1.75 1.3 1.75 0.8	emanɛ	0	118
+#
+224697	kapriman	1371_KNEE	bangutok	bangutok	b a n g u t o k		dye-et-al-1968	20916	1 7 4 1 7 1 7 1	AXMBYBYN	PANKYTUK	4	4.P.C 4.A.V 4.N.c 4.K.C 4.Y.V 4.T.C 4.U.V 4.K.c	2.0 1.5 1.1 1.75 1.3 1.75 1.3 0.8	bangutok	0	121
+224698	bahinemo	1371_KNEE	yakʌsi	yakʌsi	j a k ʌ s i		dye-et-al-1968	20680	6 7 1 7 3 7	AXBYBZ	JAKESI	3	3.J.C 3.A.V 3.K.C 3.E.V 3.S.C 3.I.V	2.0 1.5 1.75 1.3 1.75 0.8	jakʌsi	0	120
+224696	alamblak	1371_KNEE	bangor	bangor	b a n g o r		dye-et-al-1968	20916	1 7 4 1 7 5	AXMBYN	PANKUR	2	2.P.C 2.A.V 2.N.c 2.K.C 2.U.V 2.R.c	2.0 1.5 1.1 1.75 1.3 0.8	bangor	0	119
+224699	saniyo-hiyewe	1371_KNEE	roʌ'upʌro	roʌ'upʌro	r o ʌ u p ʌ r o		dye-et-al-1968	20764	5 7 7 7 1 7 5 7	AXYYBYBZ	RUEYPERU	5	5.R.C 5.U.V 5.E.V 5.Y.V 5.P.C 5.E.V 5.R.C 5.U.V	2.0 1.5 1.3 1.3 1.75 1.3 1.75 0.8	roʌupʌro	0	122
+#
+224769	kapriman	1380_TOOTH	bim	bim	b i m		dye-et-al-1968	20755	1 7 4	AXN	PIM	4	4.P.C 4.I.V 4.M.c	2.0 1.5 0.8	bim	0	124
+224770	bahinemo	1380_TOOTH	pi	pi	p i		dye-et-al-1968	20755	1 7	AX	PI	3	3.P.C 3.I.V	2.0 1.5	pi	0	124
+224768	alamblak	1380_TOOTH	bɩsʌm	bɩsʌm	b ɪ s ʌ m		dye-et-al-1968	20755	1 7 3 7 4	AXBYN	PISEM	2	2.P.C 2.I.V 2.S.C 2.E.V 2.M.c	2.0 1.5 1.75 1.3 0.8	bɪsʌm	0	123
+224771	saniyo-hiyewe	1380_TOOTH	pi	pi	p i		dye-et-al-1968	20755	1 7	AX	PI	5	5.P.C 5.I.V	2.0 1.5	pi	0	124
+#
+224845	kapriman	1392_LOUSE	nʌmɩs	nʌmɩs	n ʌ m ɪ s		dye-et-al-1968	20669	4 7 4 7 3	AXBYN	NEMIS	4	4.N.C 4.E.V 4.M.C 4.I.V 4.S.c	2.0 1.5 1.75 1.3 0.8	nʌmɪs	0	125
+224846	bahinemo	1392_LOUSE	nʌmu	nʌmu	n ʌ m u		dye-et-al-1968	20669	4 7 4 7	AXBZ	NEMY	3	3.N.C 3.E.V 3.M.C 3.Y.V	2.0 1.5 1.75 0.8	nʌmu	0	125
+224844	alamblak	1392_LOUSE	nʌmo	nʌmo	n ʌ m o		dye-et-al-1968	20669	4 7 4 7	AXBZ	NEMU	2	2.N.C 2.E.V 2.M.C 2.U.V	2.0 1.5 1.75 0.8	nʌmo	0	125
+224847	saniyo-hiyewe	1392_LOUSE	nɛmɛ	nɛmɛ	n ɛ m ɛ		dye-et-al-1968	20669	4 7 4 7	AXBZ	NEME	5	5.N.C 5.E.V 5.M.C 5.E.V	2.0 1.5 1.75 0.8	nɛmɛ	0	125
+#
+224892	kapriman	1394_BONE	sibevam	sibevam	s i b e v a m		dye-et-al-1968	20889	3 7 1 7 3 7 4	AXBYBYN	SIPEBAM	4	4.S.C 4.I.V 4.P.C 4.E.V 4.B.C 4.A.V 4.M.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	sibevam	0	128
+224893	bahinemo	1394_BONE	hʌbi	hʌbi	h ʌ b i		dye-et-al-1968	20889	3 7 1 7	AXBZ	HEPI	3	3.H.C 3.E.V 3.P.C 3.I.V	2.0 1.5 1.75 0.8	hʌbi	0	126
+224891	alamblak	1394_BONE	thʌphim	thʌphim	t h ʌ p h i m		dye-et-al-1968	20889	1 3 7 1 3 7 4	ACXBCYN	THEPHIM	2	2.T.C 2.H.C 2.E.V 2.P.C 2.H.C 2.I.V 2.M.c	2.0 1.5 1.5 1.75 1.5 1.3 0.8	thʌphim	0	126
+224894	saniyo-hiyewe	1394_BONE	pa'arɛ	pa'arɛ	p a a r ɛ		dye-et-al-1968	20791	1 7 7 5 7	AXYBZ	PAARE	5	5.P.C 5.A.V 5.A.V 5.R.C 5.E.V	2.0 1.5 1.3 1.75 0.8	paarɛ	0	129
+#
+224773	kapriman	1402_BREAST	mʌnikha	mʌnikha	m ʌ n i k h a		dye-et-al-1968	20940	4 7 4 7 1 3 7	AXBYBCZ	MENIKHA	4	4.M.C 4.E.V 4.N.C 4.I.V 4.K.C 4.H.C 4.A.V	2.0 1.5 1.75 1.3 1.75 1.5 0.8	mʌnikha	0	132
+224774	bahinemo	1402_BREAST	mosu	mosu	m o s u		dye-et-al-1968	20968	4 7 3 7	AXBZ	MUSY	3	3.M.C 3.U.V 3.S.C 3.Y.V	2.0 1.5 1.75 0.8	mosu	0	131
+224772	alamblak	1402_BREAST	mingam	mingam	m i n g a m		dye-et-al-1968	20940	4 7 4 1 7 4	AXMBYN	MINKAM	2	2.M.C 2.I.V 2.N.c 2.K.C 2.A.V 2.M.c	2.0 1.5 1.1 1.75 1.3 0.8	mingam	0	130
+224775	saniyo-hiyewe	1402_BREAST	mo'u	mo'u	m o u		dye-et-al-1968	20747	4 7 7	AXZ	MUY	5	5.M.C 5.U.V 5.Y.V	2.0 1.5 0.8	mou	0	131
+#
+224940	kapriman	1405_NAME	ovas	ovas	o v a s		dye-et-al-1968	20810	7 3 7 3	XBYN	UBAS	4	4.U.V 4.B.C 4.A.V 4.S.c	1.5 1.75 1.3 0.8	ovas	0	133
+224941	bahinemo	1405_NAME	wufa	wufa	w u f a		dye-et-al-1968	20810	6 7 3 7	AXBZ	WYBA	3	3.W.C 3.Y.V 3.B.C 3.A.V	2.0 1.5 1.75 0.8	wufa	0	134
+224939	alamblak	1405_NAME	yufat	yufat	j u f a t		dye-et-al-1968	20810	6 7 3 7 1	AXBYN	JYBAT	2	2.J.C 2.Y.V 2.B.C 2.A.V 2.T.c	2.0 1.5 1.75 1.3 0.8	jufat	0	133
+224942	saniyo-hiyewe	1405_NAME	yapɛ	yapɛ	j a p ɛ		dye-et-al-1968	20810	6 7 1 7	AXBZ	JAPE	5	5.J.C 5.A.V 5.P.C 5.E.V	2.0 1.5 1.75 0.8	japɛ	0	136
+#
+224837	kapriman	1409_SEE	wangatogər	wangatogər	w a n g a t o g ə r		dye-et-al-1968	20846	6 7 4 1 7 1 7 1 7 5	AXMBYBYBYN	WANKATUKER	4	4.W.C 4.A.V 4.N.c 4.K.C 4.A.V 4.T.C 4.U.V 4.K.C 4.E.V 4.R.c	2.0 1.5 1.1 1.75 1.3 1.75 1.3 1.75 1.3 0.8	wangatogər	0	139
+224838	bahinemo	1409_SEE	dʌnowey	dʌnowey	d ʌ n o w e j		dye-et-al-1968	20821	1 7 4 7 6 7 6	AXBYBYN	TENUWEJ	3	3.T.C 3.E.V 3.N.C 3.U.V 3.W.C 3.E.V 3.J.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	dʌnowej	0	138
+224836	alamblak	1409_SEE	wokatinum	wokatinum	w o k a t i n u m		dye-et-al-1968	20846	6 7 1 7 1 7 4 7 4	AXBYBYBYN	WUKATINYM	2	2.W.C 2.U.V 2.K.C 2.A.V 2.T.C 2.I.V 2.N.C 2.Y.V 2.M.c	2.0 1.5 1.75 1.3 1.75 1.3 1.75 1.3 0.8	wokatinum	0	137
+224839	saniyo-hiyewe	1409_SEE	siyɛsiyʌ	siyɛsiyʌ	s i j ɛ s i j ʌ		dye-et-al-1968	20725	3 7 6 7 3 7 6 7	AXBYBYBZ	SIJESIJE	5	5.S.C 5.I.V 5.J.C 5.E.V 5.S.C 5.I.V 5.J.C 5.E.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	sijɛsijʌ	0	140
+#
+224717	kapriman	1416_SIT	woɣloL lij	woɣloL_lij	w o ɣ l o L/l + l i j		dye-et-al-1968	20800	6 7 3 5 7 5 9 5 7 6	AXBCYN_AXN	WUGLUL_LIJ	4	4.W.C 4.U.V 4.G.C 4.L.C 4.U.V 4.L.c 4._._ 4.L.C 4.I.V 4.J.c	2.0 1.5 1.75 1.5 1.3 0.8 0.0 2.0 1.5 0.8	woɣloL/l+lij	0	143
+224718	bahinemo	1416_SIT	diyʌl	diyʌl	d i j ʌ l		dye-et-al-1968	20773	1 7 6 7 5	AXBYN	TIJEL	3	3.T.C 3.I.V 3.J.C 3.E.V 3.L.c	2.0 1.5 1.75 1.3 0.8	dijʌl	0	142
+224716	alamblak	1416_SIT	khodʌgor	khodʌgor	k h o d ʌ g o r		dye-et-al-1968	20894	1 3 7 1 7 1 7 5	ACXBYBYN	KHUTEKUR	2	2.K.C 2.H.C 2.U.V 2.T.C 2.E.V 2.K.C 2.U.V 2.R.c	2.0 1.5 1.5 1.75 1.3 1.75 1.3 0.8	khodʌgor	0	141
+224719	saniyo-hiyewe	1416_SIT	'ʌnue	'ʌnue	ʌ n u e		dye-et-al-1968	20730	7 4 7 7	XBYZ	ENYE	5	5.E.V 5.N.C 5.Y.V 5.E.V	1.5 1.75 1.3 0.8	ʌnue	0	144
+#
+225030	kapriman	1424_YELLOW	wokwar	wokwar	w o k w a r		dye-et-al-1968	20792	6 7 1 6 7 5	AXBCYN	WUKWAR	4	4.W.C 4.U.V 4.K.C 4.W.C 4.A.V 4.R.c	2.0 1.5 1.75 1.5 1.3 0.8	wokwar	0	146
+225031	bahinemo	1424_YELLOW	gwudi	gwudi	g w u d i		dye-et-al-1968	20679	1 6 7 1 7	ACXBZ	KWYTI	3	3.K.C 3.W.C 3.Y.V 3.T.C 3.I.V	2.0 1.5 1.5 1.75 0.8	gwudi	0	146
+225029	alamblak	1424_YELLOW	gonthiphan	gonthiphan	g o n t h i p h a n		dye-et-al-1968	20679	1 7 4 1 3 7 1 3 7 4	AXMBCYBCYN	KUNTHIPHAN	2	2.K.C 2.U.V 2.N.c 2.T.C 2.H.C 2.I.V 2.P.C 2.H.C 2.A.V 2.N.c	2.0 1.5 1.1 1.75 1.5 1.3 1.75 1.5 1.3 0.8	gonthiphan	0	145
+225032	saniyo-hiyewe	1424_YELLOW	warimea'i	warimea'i	w a r i m e a i		dye-et-al-1968	20880	6 7 5 7 4 7 7 7	AXBYBYYZ	WARIMEAI	5	5.W.C 5.A.V 5.R.C 5.I.V 5.M.C 5.E.V 5.A.V 5.I.V	2.0 1.5 1.75 1.3 1.75 1.3 1.3 0.8	warimeai	0	148
+#
+224789	kapriman	1430_STAR	duL	duL	d u L/l		dye-et-al-1968	20670	1 7 5	AXN	TYL	4	4.T.C 4.Y.V 4.L.c	2.0 1.5 0.8	duL/l	0	151
+224790	bahinemo	1430_STAR	dul	dul	d u l		dye-et-al-1968	20670	1 7 5	AXN	TYL	3	3.T.C 3.Y.V 3.L.c	2.0 1.5 0.8	dul	0	150
+224788	alamblak	1430_STAR	gunyər	gunyər	g u n j ə r		dye-et-al-1968	20949	1 7 4 6 7 5	AXBCYN	KYNJER	2	2.K.C 2.Y.V 2.N.C 2.J.C 2.E.V 2.R.c	2.0 1.5 1.75 1.5 1.3 0.8	gunjər	0	149
+224791	saniyo-hiyewe	1430_STAR	sariyɩpu	sariyɩpu	s a r i j ɪ p u		dye-et-al-1968	20705	3 7 5 7 6 7 1 7	AXBYBYBZ	SARIJIPY	5	5.S.C 5.A.V 5.R.C 5.I.V 5.J.C 5.I.V 5.P.C 5.Y.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	sarijɪpu	0	152
+#
+224721	kapriman	1442_STAND	wathʌx	wathʌx	w a t h ʌ x		dye-et-al-1968	20924	6 7 1 3 7 3	AXBCYN	WATHEG	4	4.W.C 4.A.V 4.T.C 4.H.C 4.E.V 4.G.c	2.0 1.5 1.75 1.5 1.3 0.8	wathʌx	0	155
+224722	bahinemo	1442_STAND	dʌthayɩsi	dʌthayɩsi	d ʌ t h a j ɪ s i		dye-et-al-1968	20924	1 7 1 3 7 6 7 3 7	AXBCYBYBZ	TETHAJISI	3	3.T.C 3.E.V 3.T.C 3.H.C 3.A.V 3.J.C 3.I.V 3.S.C 3.I.V	2.0 1.5 1.75 1.5 1.3 1.75 1.3 1.75 0.8	dʌthajɪsi	0	154
+224720	alamblak	1442_STAND	thʌgaythɔgor	thʌgaythɔgor	t h ʌ g a j t h ɔ g o r		dye-et-al-1968	20924	1 3 7 1 7 6 1 3 7 1 7 5	ACXBYMBCYBYN	THEKAJTHUKUR	2	2.T.C 2.H.C 2.E.V 2.K.C 2.A.V 2.J.c 2.T.C 2.H.C 2.U.V 2.K.C 2.U.V 2.R.c	2.0 1.5 1.5 1.75 1.3 1.1 1.75 1.5 1.3 1.75 1.3 0.8	thʌgajthɔgor	0	153
+224723	saniyo-hiyewe	1442_STAND	teye	teye	t e j e		dye-et-al-1968	20924	1 7 6 7	AXBZ	TEJE	5	5.T.C 5.E.V 5.J.C 5.E.V	2.0 1.5 1.75 0.8	teje	0	156
+#
+224729	kapriman	1443_WALK	thethʌk	thethʌk	t h e t h ʌ k		dye-et-al-1968	20823	1 3 7 1 3 7 1	ACXBCYN	THETHEK	4	4.T.C 4.H.C 4.E.V 4.T.C 4.H.C 4.E.V 4.K.c	2.0 1.5 1.5 1.75 1.5 1.3 0.8	thethʌk	0	158
+224730	bahinemo	1443_WALK	dʌthithey	dʌthithey	d ʌ t h i t h e j		dye-et-al-1968	20823	1 7 1 3 7 1 3 7 6	AXBCYBCYN	TETHITHEJ	3	3.T.C 3.E.V 3.T.C 3.H.C 3.I.V 3.T.C 3.H.C 3.E.V 3.J.c	2.0 1.5 1.75 1.5 1.3 1.75 1.5 1.3 0.8	dʌthithej	0	158
+224728	alamblak	1443_WALK	wiyawiyawor	wiyawiyawor	w i j a w i j a w o r		dye-et-al-1968	20728	6 7 6 7 6 7 6 7 6 7 5	AXBYBYBYBYN	WIJAWIJAWUR	2	2.W.C 2.I.V 2.J.C 2.A.V 2.W.C 2.I.V 2.J.C 2.A.V 2.W.C 2.U.V 2.R.c	2.0 1.5 1.75 1.3 1.75 1.3 1.75 1.3 1.75 1.3 0.8	wijawijawor	0	157
+224731	saniyo-hiyewe	1443_WALK	'iye	'iye	i j e		dye-et-al-1968	20920	7 6 7	XBZ	IJE	5	5.I.V 5.J.C 5.E.V	1.5 1.75 0.8	ije	0	160
+#
+224841	kapriman	1446_COME	ja	ja	j a		dye-et-al-1968	20784	6 7	AX	JA	4	4.J.C 4.A.V	2.0 1.5	ja	0	163
+224842	bahinemo	1446_COME	diyayu	diyayu	d i j a j u		dye-et-al-1968	20784	1 7 6 7 6 7	AXBYBZ	TIJAJY	3	3.T.C 3.I.V 3.J.C 3.A.V 3.J.C 3.Y.V	2.0 1.5 1.75 1.3 1.75 0.8	dijaju	0	162
+224840	alamblak	1446_COME	bineyawa	bineyawa	b i n e j a w a		dye-et-al-1968	20813	1 7 4 7 6 7 6 7	AXBYBYBZ	PINEJAWA	2	2.P.C 2.I.V 2.N.C 2.E.V 2.J.C 2.A.V 2.W.C 2.A.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	binejawa	0	161
+224843	saniyo-hiyewe	1446_COME	ayuʌ	ayuʌ	a j u ʌ		dye-et-al-1968	20784	7 6 7 7	XBYZ	AJYE	5	5.A.V 5.J.C 5.Y.V 5.E.V	1.5 1.75 1.3 0.8	ajuʌ	0	164
+#
+224833	kapriman	1447_GIVE	lianaɣo	lianaɣo	l i a n a ɣ o	give (to me)	dye-et-al-1968	20786	5 7 7 4 7 3 7	AXYBYBZ	LIANAGU	4	4.L.C 4.I.V 4.A.V 4.N.C 4.A.V 4.G.C 4.U.V	2.0 1.5 1.3 1.75 1.3 1.75 0.8	lianaɣo	0	167
+224834	bahinemo	1447_GIVE	diyu	diyu	d i j u	give (to me)	dye-et-al-1968	20885	1 7 6 7	AXBZ	TIJY	3	3.T.C 3.I.V 3.J.C 3.Y.V	2.0 1.5 1.75 0.8	diju	0	166
+224832	alamblak	1447_GIVE	rapakuda	rapakuda	r a p a k u d a	give (to me)	dye-et-al-1968	20699	5 7 1 7 1 7 1 7	AXBYBYBZ	RAPAKYTA	2	2.R.C 2.A.V 2.P.C 2.A.V 2.K.C 2.Y.V 2.T.C 2.A.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	rapakuda	0	165
+224835	saniyo-hiyewe	1447_GIVE	awe	awe	a w e	give (to me)	dye-et-al-1968	20786	7 6 7	XBZ	AWE	5	5.A.V 5.W.C 5.E.V	1.5 1.75 0.8	awe	0	168
+#
+224975	kapriman	146_SUGAR_CANE	mangi	mangi	m a n g i		dye-et-al-1968	20946	4 7 4 1 7	AXMBZ	MANKI	4	4.M.C 4.A.V 4.N.c 4.K.C 4.I.V	2.0 1.5 1.1 1.75 0.8	mangi	0	171
+224976	bahinemo	146_SUGAR_CANE	go	go	g o		dye-et-al-1968	20729	1 7	AX	KU	3	3.K.C 3.U.V	2.0 1.5	go	0	170
+224974	alamblak	146_SUGAR_CANE	mʌtsimgʌrm	mʌtsimgʌrm	m ʌ ts i m g ʌ r m		dye-et-al-1968	20886	4 7 2 7 4 1 7 5 4	AXBYMBYLN	MECIMKERM	2	2.M.C 2.E.V 2.C.C 2.I.V 2.M.c 2.K.C 2.E.V 2.R.c 2.M.c	2.0 1.5 1.75 1.3 1.1 1.75 1.3 1.1 0.8	mʌtsimgʌrm	0	169
+224977	saniyo-hiyewe	146_SUGAR_CANE	nɛriyave	nɛriyave	n ɛ r i j a v e		dye-et-al-1968	20825	4 7 5 7 6 7 3 7	AXBYBYBZ	NERIJABE	5	5.N.C 5.E.V 5.R.C 5.I.V 5.J.C 5.A.V 5.B.C 5.E.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	nɛrijave	0	172
+#
+224861	kapriman	1482_SHOULDER	tʌras	tʌras	t ʌ r a s		dye-et-al-1968	20912	1 7 5 7 3	AXBYN	TERAS	4	4.T.C 4.E.V 4.R.C 4.A.V 4.S.c	2.0 1.5 1.75 1.3 0.8	tʌras	0	174
+224862	bahinemo	1482_SHOULDER	thʌla	thʌla	t h ʌ l a		dye-et-al-1968	20912	1 3 7 5 7	ACXBZ	THELA	3	3.T.C 3.H.C 3.E.V 3.L.C 3.A.V	2.0 1.5 1.5 1.75 0.8	thʌla	0	174
+224860	alamblak	1482_SHOULDER	bʌdingat	bʌdingat	b ʌ d i n g a t		dye-et-al-1968	20938	1 7 1 7 4 1 7 1	AXBYMBYN	PETINKAT	2	2.P.C 2.E.V 2.T.C 2.I.V 2.N.c 2.K.C 2.A.V 2.T.c	2.0 1.5 1.75 1.3 1.1 1.75 1.3 0.8	bʌdingat	0	173
+224863	saniyo-hiyewe	1482_SHOULDER	yo'o	yo'o	j o o		dye-et-al-1968	20818	6 7 7	AXZ	JUU	5	5.J.C 5.U.V 5.U.V	2.0 1.5 0.8	joo	0	176
+#
+224793	kapriman	1489_CLOUD	dʌbʌdali	dʌbʌdali	d ʌ b ʌ d a l i		dye-et-al-1968	20751	1 7 1 7 1 7 5 7	AXBYBYBZ	TEPETALI	4	4.T.C 4.E.V 4.P.C 4.E.V 4.T.C 4.A.V 4.L.C 4.I.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	dʌbʌdali	0	179
+224794	bahinemo	1489_CLOUD	dobul	dobul	d o b u l		dye-et-al-1968	20751	1 7 1 7 5	AXBYN	TUPYL	3	3.T.C 3.U.V 3.P.C 3.Y.V 3.L.c	2.0 1.5 1.75 1.3 0.8	dobul	0	178
+224792	alamblak	1489_CLOUD	mowʌnkh	mowʌnkh	m o w ʌ n k h		dye-et-al-1968	20665	4 7 6 7 4 1 3	AXBYMBC	MUWENKH	2	2.M.C 2.U.V 2.W.C 2.E.V 2.N.c 2.K.C 2.H.C	2.0 1.5 1.75 1.3 1.1 1.75 1.5	mowʌnkh	0	177
+224795	saniyo-hiyewe	1489_CLOUD	safu	safu	s a f u		dye-et-al-1968	20849	3 7 3 7	AXBZ	SABY	5	5.S.C 5.A.V 5.B.C 5.Y.V	2.0 1.5 1.75 0.8	safu	0	180
+#
+224960	kapriman	1490_RAT	abu	abu	a b u		dye-et-al-1968	20688	7 1 7	XBZ	APY	4	4.A.V 4.P.C 4.Y.V	1.5 1.75 0.8	abu	0	183
+224961	bahinemo	1490_RAT	fio bitho	fio_bitho	f i o + b i t h o		dye-et-al-1968	20897	3 7 7 9 1 7 1 3 7	AXZ_AXBCZ	BIU_PITHU	3	3.B.C 3.I.V 3.U.V 3._._ 3.P.C 3.I.V 3.T.C 3.H.C 3.U.V	2.0 1.5 0.8 0.0 2.0 1.5 1.75 1.5 0.8	fio+bitho	0	182
+224959	alamblak	1490_RAT	wilar	wilar	w i l a r		dye-et-al-1968	20711	6 7 5 7 5	AXBYN	WILAR	2	2.W.C 2.I.V 2.L.C 2.A.V 2.R.c	2.0 1.5 1.75 1.3 0.8	wilar	0	181
+#
+224849	kapriman	1493_ONE	dɩbar	dɩbar	d ɪ b a r		dye-et-al-1968	20678	1 7 1 7 5	AXBYN	TIPAR	4	4.T.C 4.I.V 4.P.C 4.A.V 4.R.c	2.0 1.5 1.75 1.3 0.8	dɪbar	0	185
+224850	bahinemo	1493_ONE	dʌbatha	dʌbatha	d ʌ b a t h a		dye-et-al-1968	20678	1 7 1 7 1 3 7	AXBYBCZ	TEPATHA	3	3.T.C 3.E.V 3.P.C 3.A.V 3.T.C 3.H.C 3.A.V	2.0 1.5 1.75 1.3 1.75 1.5 0.8	dʌbatha	0	185
+224848	alamblak	1493_ONE	rɛphar	rɛphar	r ɛ p h a r		dye-et-al-1968	20678	5 7 1 3 7 5	AXBCYN	REPHAR	2	2.R.C 2.E.V 2.P.C 2.H.C 2.A.V 2.R.c	2.0 1.5 1.75 1.5 1.3 0.8	rɛphar	0	184
+224851	saniyo-hiyewe	1493_ONE	hɛta'i	hɛta'i	h ɛ t a i		dye-et-al-1968	20957	3 7 1 7 7	AXBYZ	HETAI	5	5.H.C 5.E.V 5.T.C 5.A.V 5.I.V	2.0 1.5 1.75 1.3 0.8	hɛtai	0	187
+#
+224853	kapriman	1498_TWO	kothi	kothi	k o t h i		dye-et-al-1968	20781	1 7 1 3 7	AXBCZ	KUTHI	4	4.K.C 4.U.V 4.T.C 4.H.C 4.I.V	2.0 1.5 1.75 1.5 0.8	kothi	0	190
+224854	bahinemo	1498_TWO	husi	husi	h u s i		dye-et-al-1968	20781	3 7 3 7	AXBZ	HYSI	3	3.H.C 3.Y.V 3.S.C 3.I.V	2.0 1.5 1.75 0.8	husi	0	189
+224852	alamblak	1498_TWO	hutsif	hutsif	h u ts i f		dye-et-al-1968	20781	3 7 2 7 3	AXBYN	HYCIB	2	2.H.C 2.Y.V 2.C.C 2.I.V 2.B.c	2.0 1.5 1.75 1.3 0.8	hutsif	0	188
+224855	saniyo-hiyewe	1498_TWO	hɛsi	hɛsi	h ɛ s i		dye-et-al-1968	20781	3 7 3 7	AXBZ	HESI	5	5.H.C 5.E.V 5.S.C 5.I.V	2.0 1.5 1.75 0.8	hɛsi	0	188
+#
+225062	kapriman	1500_FOUR	gayjala	gayjala	g a j j a l a		dye-et-al-1968	20830	1 7 6 6 7 5 7	AXMBYBZ	KAJJALA	4	4.K.C 4.A.V 4.J.c 4.J.C 4.A.V 4.L.C 4.A.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	gajjala	0	193
+225063	bahinemo	1500_FOUR	gʌda	gʌda	g ʌ d a		dye-et-al-1968	20830	1 7 1 7	AXBZ	KETA	3	3.K.C 3.E.V 3.T.C 3.A.V	2.0 1.5 1.75 0.8	gʌda	0	192
+225061	alamblak	1500_FOUR	hutsɩfɩhutsɩf	hutsɩfɩhutsɩf	h u ts ɪ f ɪ h u ts ɪ f		dye-et-al-1968	20720	3 7 2 7 3 7 3 7 2 7 3	AXBYBYBYBYN	HYCIBIHYCIB	2	2.H.C 2.Y.V 2.C.C 2.I.V 2.B.C 2.I.V 2.H.C 2.Y.V 2.C.C 2.I.V 2.B.c	2.0 1.5 1.75 1.3 1.75 1.3 1.75 1.3 1.75 1.3 0.8	hutsɪfɪhutsɪf	0	191
+225064	saniyo-hiyewe	1500_FOUR	hɛsiohɛsio	hɛsiohɛsio	h ɛ s i o h ɛ s i o		dye-et-al-1968	20720	3 7 3 7 7 3 7 3 7 7	AXBYYBYBYZ	HESIUHESIU	5	5.H.C 5.E.V 5.S.C 5.I.V 5.U.V 5.H.C 5.E.V 5.S.C 5.I.V 5.U.V	2.0 1.5 1.75 1.3 1.3 1.75 1.3 1.75 1.3 0.8	hɛsiohɛsio	0	191
+#
+225137	kapriman	1509_MOSQUITO	wum	wum	w u m		dye-et-al-1968	20797	6 7 4	AXN	WYM	4	4.W.C 4.Y.V 4.M.c	2.0 1.5 0.8	wum	0	196
+225138	bahinemo	1509_MOSQUITO	yuw	yuw	j u w		dye-et-al-1968	20797	6 7 6	AXN	JYW	3	3.J.C 3.Y.V 3.W.c	2.0 1.5 0.8	juw	1	194
+225136	alamblak	1509_MOSQUITO	yoth	yoth	j o t h		dye-et-al-1968	20797	6 7 1 3	AXBC	JUTH	2	2.J.C 2.U.V 2.T.C 2.H.C	2.0 1.5 1.75 1.5	joth	0	194
+225139	saniyo-hiyewe	1509_MOSQUITO	nɛ'i	nɛ'i	n ɛ i		dye-et-al-1968	20775	4 7 7	AXZ	NEI	5	5.N.C 5.E.V 5.I.V	2.0 1.5 0.8	nɛi	0	197
+#
+224869	kapriman	1510_CHIN	khasɩbɩs	khasɩbɩs	k h a s ɪ b ɪ s		dye-et-al-1968	20683	1 3 7 3 7 1 7 3	ACXBYBYN	KHASIPIS	4	4.K.C 4.H.C 4.A.V 4.S.C 4.I.V 4.P.C 4.I.V 4.S.c	2.0 1.5 1.5 1.75 1.3 1.75 1.3 0.8	khasɪbɪs	0	200
+224870	bahinemo	1510_CHIN	yɛkhī	yɛkhī	j ɛ k h iː		dye-et-al-1968	20963	6 7 1 3 7	AXBCZ	JEKHI	3	3.J.C 3.E.V 3.K.C 3.H.C 3.I.V	2.0 1.5 1.75 1.5 0.8	jɛkhiː	0	199
+224868	alamblak	1510_CHIN	yɛngʌngovat	yɛngʌngovat	j ɛ n g ʌ n g o v a t		dye-et-al-1968	20783	6 7 4 1 7 4 1 7 3 7 1	AXMBYMBYBYN	JENKENKUBAT	2	2.J.C 2.E.V 2.N.c 2.K.C 2.E.V 2.N.c 2.K.C 2.U.V 2.B.C 2.A.V 2.T.c	2.0 1.5 1.1 1.75 1.3 1.1 1.75 1.3 1.75 1.3 0.8	jɛngʌngovat	0	198
+224871	saniyo-hiyewe	1510_CHIN	ahita'o	ahita'o	a h i t a o		dye-et-al-1968	20686	7 3 7 1 7 7	XBYBYZ	AHITAU	5	5.A.V 5.H.C 5.I.V 5.T.C 5.A.V 5.U.V	1.5 1.75 1.3 1.75 1.3 0.8	ahitao	0	201
+#
+224701	kapriman	1554_MAN	wiyak	wiyak	w i j a k		dye-et-al-1968	20927	6 7 6 7 1	AXBYN	WIJAK	4	4.W.C 4.I.V 4.J.C 4.A.V 4.K.c	2.0 1.5 1.75 1.3 0.8	wijak	0	204
+224702	bahinemo	1554_MAN	'ɩma	'ɩma	ɪ m a		dye-et-al-1968	20951	7 4 7	XBZ	IMA	3	3.I.V 3.M.C 3.A.V	1.5 1.75 0.8	ɪma	0	203
+224700	aheave	1554_MAN	yimar	yimar	j i m a r		dye-et-al-1968	20951	6 7 4 7 5	AXBYN	JIMAR	1	1.J.C 1.I.V 1.M.C 1.A.V 1.R.c	2.0 1.5 1.75 1.3 0.8	jimar	0	202
+224703	saniyo-hiyewe	1554_MAN	mitaru	mitaru	m i t a r u		dye-et-al-1968	20831	4 7 1 7 5 7	AXBYBZ	MITARY	5	5.M.C 5.I.V 5.T.C 5.A.V 5.R.C 5.Y.V	2.0 1.5 1.75 1.3 1.75 0.8	mitaru	0	205
+#
+225034	kapriman	156_RED	mʌbjay	mʌbjay	m ʌ b j a j		dye-et-al-1968	20914	4 7 1 6 7 6	AXBCYN	MEPJAJ	4	4.M.C 4.E.V 4.P.C 4.J.C 4.A.V 4.J.c	2.0 1.5 1.75 1.5 1.3 0.8	mʌbjaj	0	208
+225035	bahinemo	156_RED	mahiyo	mahiyo	m a h i j o		dye-et-al-1968	20914	4 7 3 7 6 7	AXBYBZ	MAHIJU	3	3.M.C 3.A.V 3.H.C 3.I.V 3.J.C 3.U.V	2.0 1.5 1.75 1.3 1.75 0.8	mahijo	0	207
+225033	alamblak	156_RED	khokhophi	khokhophi	k h o k h o p h i		dye-et-al-1968	20703	1 3 7 1 3 7 1 3 7	ACXBCYBCZ	KHUKHUPHI	2	2.K.C 2.H.C 2.U.V 2.K.C 2.H.C 2.U.V 2.P.C 2.H.C 2.I.V	2.0 1.5 1.5 1.75 1.5 1.3 1.75 1.5 0.8	khokhophi	0	206
+225036	saniyo-hiyewe	156_RED	ro'ua'i	ro'ua'i	r o u a i		dye-et-al-1968	20713	5 7 7 7 7	AXYYZ	RUYAI	5	5.R.C 5.U.V 5.Y.V 5.A.V 5.I.V	2.0 1.5 1.3 1.3 0.8	rouai	0	209
+#
+225026	kapriman	163_BLACK	khrumu	khrumu	k h r u m u		dye-et-al-1968	20759	1 3 5 7 4 7	ACCXBZ	KHRYMY	4	4.K.C 4.H.C 4.R.C 4.Y.V 4.M.C 4.Y.V	2.0 1.5 1.5 1.5 1.75 0.8	khrumu	0	211
+225027	bahinemo	163_BLACK	khī	khī	k h iː		dye-et-al-1968	20759	1 3 7	ACX	KHI	3	3.K.C 3.H.C 3.I.V	2.0 1.5 1.5	khiː	0	211
+225025	alamblak	163_BLACK	khərthath	khərthath	k h ə r t h a t h		dye-et-al-1968	20759	1 3 7 5 1 3 7 1 3	ACXMBCYBC	KHERTHATH	2	2.K.C 2.H.C 2.E.V 2.R.c 2.T.C 2.H.C 2.A.V 2.T.C 2.H.C	2.0 1.5 1.5 1.1 1.75 1.5 1.3 1.75 1.5	khərthath	0	210
+225028	saniyo-hiyewe	163_BLACK	ivisia'i	ivisia'i	i v i s i a i		dye-et-al-1968	20748	7 3 7 3 7 7 7	XBYBYYZ	IBISIAI	5	5.I.V 5.B.C 5.I.V 5.S.C 5.I.V 5.A.V 5.I.V	1.5 1.75 1.3 1.75 1.3 1.3 0.8	ivisiai	0	213
+#
+225042	kapriman	1645_SHORT	tamʌɣa	tamʌɣa	t a m ʌ ɣ a		dye-et-al-1968	20790	1 7 4 7 3 7	AXBYBZ	TAMEGA	4	4.T.C 4.A.V 4.M.C 4.E.V 4.G.C 4.A.V	2.0 1.5 1.75 1.3 1.75 0.8	tamʌɣa	0	216
+225043	bahinemo	1645_SHORT	bɔtha	bɔtha	b ɔ t h a		dye-et-al-1968	20887	1 7 1 3 7	AXBCZ	PUTHA	3	3.P.C 3.U.V 3.T.C 3.H.C 3.A.V	2.0 1.5 1.75 1.5 0.8	bɔtha	0	215
+225041	alamblak	1645_SHORT	khukhopheyn	khukhopheyn	k h u k h o p h e j n		dye-et-al-1968	20702	1 3 7 1 3 7 1 3 7 6 4	ACXBCYBCYLN	KHYKHUPHEJN	2	2.K.C 2.H.C 2.Y.V 2.K.C 2.H.C 2.U.V 2.P.C 2.H.C 2.E.V 2.J.c 2.N.c	2.0 1.5 1.5 1.75 1.5 1.3 1.75 1.5 1.3 1.1 0.8	khukhophejn	0	214
+225044	saniyo-hiyewe	1645_SHORT	tɛ'ia'i	tɛ'ia'i	t ɛ i a i		dye-et-al-1968	20681	1 7 7 7 7	AXYYZ	TEIAI	5	5.T.C 5.E.V 5.I.V 5.A.V 5.I.V	2.0 1.5 1.3 1.3 0.8	tɛiai	0	217
+#
+224920	kapriman	1646_GIRL	matɩtamaɣas	matɩtamaɣas	m a t ɪ t a m a ɣ a s		dye-et-al-1968	20967	4 7 1 7 1 7 4 7 3 7 3	AXBYBYBYBYN	MATITAMAGAS	4	4.M.C 4.A.V 4.T.C 4.I.V 4.T.C 4.A.V 4.M.C 4.A.V 4.G.C 4.A.V 4.S.c	2.0 1.5 1.75 1.3 1.75 1.3 1.75 1.3 1.75 1.3 0.8	matɪtamaɣas	0	220
+224921	bahinemo	1646_GIRL	dʌfi	dʌfi	d ʌ f i		dye-et-al-1968	20746	1 7 3 7	AXBZ	TEBI	3	3.T.C 3.E.V 3.B.C 3.I.V	2.0 1.5 1.75 0.8	dʌfi	0	219
+224919	alamblak	1646_GIRL	yʌnt mɛrɩith	yʌnt_mɛrɩith	j ʌ n t + m ɛ r ɪ i t h		dye-et-al-1968	20870	6 7 4 1 9 4 7 5 7 7 1 3	AXLN_AXBYYBC	JENT_MERIITH	2	2.J.C 2.E.V 2.N.c 2.T.c 2._._ 2.M.C 2.E.V 2.R.C 2.I.V 2.I.V 2.T.C 2.H.C	2.0 1.5 1.1 0.8 0.0 2.0 1.5 1.75 1.3 1.3 1.75 1.5	jʌnt+mɛrɪith	0	218
+224922	saniyo-hiyewe	1646_GIRL	tawnemanɛ	tawnemanɛ	t a w n e m a n ɛ		dye-et-al-1968	20843	1 7 6 4 7 4 7 4 7	AXMBYBYBZ	TAWNEMANE	5	5.T.C 5.A.V 5.W.c 5.N.C 5.E.V 5.M.C 5.A.V 5.N.C 5.E.V	2.0 1.5 1.1 1.75 1.3 1.75 1.3 1.75 0.8	tawnemanɛ	0	221
+#
+224952	kapriman	165_WALLABY	koruwe	koruwe	k o r u w e		dye-et-al-1968	20739	1 7 5 7 6 7	AXBYBZ	KURYWE	4	4.K.C 4.U.V 4.R.C 4.Y.V 4.W.C 4.E.V	2.0 1.5 1.75 1.3 1.75 0.8	koruwe	0	224
+224953	bahinemo	165_WALLABY	fyubɩsï	fyubɩsï	f j u b ɪ s ï/i		dye-et-al-1968	20960	3 6 7 1 7 3 7	ACXBYBZ	BJYPISI	3	3.B.C 3.J.C 3.Y.V 3.P.C 3.I.V 3.S.C 3.I.V	2.0 1.5 1.5 1.75 1.3 1.75 0.8	fjubɪsï/i	0	223
+224951	alamblak	165_WALLABY	wilgapor	wilgapor	w i l g a p o r		dye-et-al-1968	20765	6 7 5 1 7 1 7 5	AXMBYBYN	WILKAPUR	2	2.W.C 2.I.V 2.L.c 2.K.C 2.A.V 2.P.C 2.U.V 2.R.c	2.0 1.5 1.1 1.75 1.3 1.75 1.3 0.8	wilgapor	0	222
+224954	saniyo-hiyewe	165_WALLABY	'aviyɛ 'ɛrɛvi	'aviyɛ_'ɛrɛvi	a v i j ɛ + ɛ r ɛ v i		dye-et-al-1968	20739	7 3 7 6 7 9 7 5 7 3 7	XBYBZ_XBYBZ	ABIJE_EREBI	5	5.A.V 5.B.C 5.I.V 5.J.C 5.E.V 5._._ 5.E.V 5.R.C 5.E.V 5.B.C 5.I.V	1.5 1.75 1.3 1.75 0.8 0.0 1.5 1.75 1.3 1.75 0.8	avijɛ+ɛrɛvi	0	225
+#
+224932	kapriman	1759_OLDER_BROTHER	nayL	nayL	n a j L/l	male speaking	dye-et-al-1968	20869	4 7 6 5	AXLN	NAJL	4	4.N.C 4.A.V 4.J.c 4.L.c	2.0 1.5 1.1 0.8	najL/l	0	228
+224933	bahinemo	1759_OLDER_BROTHER	bʌdo	bʌdo	b ʌ d o	male speaking	dye-et-al-1968	20926	1 7 1 7	AXBZ	PETU	3	3.P.C 3.E.V 3.T.C 3.U.V	2.0 1.5 1.75 0.8	bʌdo	1	227
+224931	alamblak	1759_OLDER_BROTHER	nayjʌmər	nayjʌmər	n a j j ʌ m ə r	male speaking	dye-et-al-1968	20869	4 7 6 6 7 4 7 5	AXMBYBYN	NAJJEMER	2	2.N.C 2.A.V 2.J.c 2.J.C 2.E.V 2.M.C 2.E.V 2.R.c	2.0 1.5 1.1 1.75 1.3 1.75 1.3 0.8	najjʌmər	0	226
+224934	saniyo-hiyewe	1759_OLDER_BROTHER	ayru	ayru	a j r u	male speaking	dye-et-al-1968	20712	7 6 5 7	XMBZ	AJRY	5	5.A.V 5.J.c 5.R.C 5.Y.V	1.5 1.1 1.75 0.8	ajru	0	229
+#
+224876	kapriman	1781_THUMB	sɛbithɛvis	sɛbithɛvis	s ɛ b i t h ɛ v i s		dye-et-al-1968	20682	3 7 1 7 1 3 7 3 7 3	AXBYBCYBYN	SEPITHEBIS	4	4.S.C 4.E.V 4.P.C 4.I.V 4.T.C 4.H.C 4.E.V 4.B.C 4.I.V 4.S.c	2.0 1.5 1.75 1.3 1.75 1.5 1.3 1.75 1.3 0.8	sɛbithɛvis	0	232
+224877	bahinemo	1781_THUMB	hʌl bithɩfi	hʌl_bithɩfi	h ʌ l + b i t h ɪ f i		dye-et-al-1968	20682	3 7 5 9 1 7 1 3 7 3 7	AXN_AXBCYBZ	HEL_PITHIBI	3	3.H.C 3.E.V 3.L.c 3._._ 3.P.C 3.I.V 3.T.C 3.H.C 3.I.V 3.B.C 3.I.V	2.0 1.5 0.8 0.0 2.0 1.5 1.75 1.5 1.3 1.75 0.8	hʌl+bithɪfi	0	231
+224875	alamblak	1781_THUMB	mʌmapinyap	mʌmapinyap	m ʌ m a p i n j a p		dye-et-al-1968	20767	4 7 4 7 1 7 4 6 7 1	AXBYBYBCYN	MEMAPINJAP	2	2.M.C 2.E.V 2.M.C 2.A.V 2.P.C 2.I.V 2.N.C 2.J.C 2.A.V 2.P.c	2.0 1.5 1.75 1.3 1.75 1.3 1.75 1.5 1.3 0.8	mʌmapinjap	0	230
+224878	saniyo-hiyewe	1781_THUMB	'ɛrɛti nayɛ'	'ɛrɛti_nayɛ'	ɛ r ɛ t i + n a j ɛ		dye-et-al-1968	20888	7 5 7 1 7 9 4 7 6 7	XBYBZ_AXBZ	ERETI_NAJE	5	5.E.V 5.R.C 5.E.V 5.T.C 5.I.V 5._._ 5.N.C 5.A.V 5.J.C 5.E.V	1.5 1.75 1.3 1.75 0.8 0.0 2.0 1.5 1.75 0.8	ɛrɛti+najɛ	0	233
+#
+225133	kapriman	1857_CROCODILE	mogur	mogur	m o g u r		dye-et-al-1968	20850	4 7 1 7 5	AXBYN	MUKYR	4	4.M.C 4.U.V 4.K.C 4.Y.V 4.R.c	2.0 1.5 1.75 1.3 0.8	mogur	0	236
+225134	bahinemo	1857_CROCODILE	yey mugulu	yey_mugulu	j e j + m u g u l u		dye-et-al-1968	20850	6 7 6 9 4 7 1 7 5 7	AXN_AXBYBZ	JEJ_MYKYLY	3	3.J.C 3.E.V 3.J.c 3._._ 3.M.C 3.Y.V 3.K.C 3.Y.V 3.L.C 3.Y.V	2.0 1.5 0.8 0.0 2.0 1.5 1.75 1.3 1.75 0.8	jej+mugulu	0	235
+225132	alamblak	1857_CROCODILE	mʌnumbor	mʌnumbor	m ʌ n u m b o r		dye-et-al-1968	20824	4 7 4 7 4 1 7 5	AXBYMBYN	MENYMPUR	2	2.M.C 2.E.V 2.N.C 2.Y.V 2.M.c 2.P.C 2.U.V 2.R.c	2.0 1.5 1.75 1.3 1.1 1.75 1.3 0.8	mʌnumbor	0	234
+225135	saniyo-hiyewe	1857_CROCODILE	harɛ mʌ'ʌru	harɛ_mʌ'ʌru	h a r ɛ + m ʌ ʌ r u		dye-et-al-1968	20850	3 7 5 7 9 4 7 7 5 7	AXBZ_AXYBZ	HARE_MEERY	5	5.H.C 5.A.V 5.R.C 5.E.V 5._._ 5.M.C 5.E.V 5.E.V 5.R.C 5.Y.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5 1.3 1.75 0.8	harɛ+mʌʌru	0	237
+#
+224665	kapriman	189_HAIR_BODY	tuwam	tuwam	t u w a m		dye-et-al-1968	20835	1 7 6 7 4	AXBYN	TYWAM	4	4.T.C 4.Y.V 4.W.C 4.A.V 4.M.c	2.0 1.5 1.75 1.3 0.8	tuwam	0	240
+224666	bahinemo	189_HAIR_BODY	thunʌba	thunʌba	t h u n ʌ b a		dye-et-al-1968	20936	1 3 7 4 7 1 7	ACXBYBZ	THYNEPA	3	3.T.C 3.H.C 3.Y.V 3.N.C 3.E.V 3.P.C 3.A.V	2.0 1.5 1.5 1.75 1.3 1.75 0.8	thunʌba	0	239
+224664	alamblak	189_HAIR_BODY	tʌmarts	tʌmarts	t ʌ m a r ts		dye-et-al-1968	20882	1 7 4 7 5 2	AXBYLN	TEMARC	2	2.T.C 2.E.V 2.M.C 2.A.V 2.R.c 2.C.c	2.0 1.5 1.75 1.3 1.1 0.8	tʌmarts	0	238
+224667	saniyo-hiyewe	189_HAIR_BODY	tutowe	tutowe	t u t o w e		dye-et-al-1968	20835	1 7 1 7 6 7	AXBYBZ	TYTUWE	5	5.T.C 5.Y.V 5.T.C 5.U.V 5.W.C 5.E.V	2.0 1.5 1.75 1.3 1.75 0.8	tutowe	0	241
+#
+225102	kapriman	1927_BAMBOO	khʌnɩs	khʌnɩs	k h ʌ n ɪ s		dye-et-al-1968	20716	1 3 7 4 7 3	ACXBYN	KHENIS	4	4.K.C 4.H.C 4.E.V 4.N.C 4.I.V 4.S.c	2.0 1.5 1.5 1.75 1.3 0.8	khʌnɪs	0	243
+225103	bahinemo	1927_BAMBOO	gani	gani	g a n i		dye-et-al-1968	20716	1 7 4 7	AXBZ	KANI	3	3.K.C 3.A.V 3.N.C 3.I.V	2.0 1.5 1.75 0.8	gani	0	243
+225101	alamblak	1927_BAMBOO	kʌnepm	kʌnepm	k ʌ n e p m		dye-et-al-1968	20716	1 7 4 7 1 4	AXBYBC	KENEPM	2	2.K.C 2.E.V 2.N.C 2.E.V 2.P.C 2.M.C	2.0 1.5 1.75 1.3 1.75 1.5	kʌnepm	0	242
+225104	saniyo-hiyewe	1927_BAMBOO	mɛnɛ'ɛ	mɛnɛ'ɛ	m ɛ n ɛ ɛ		dye-et-al-1968	20694	4 7 4 7 7	AXBYZ	MENEE	5	5.M.C 5.E.V 5.N.C 5.E.V 5.E.V	2.0 1.5 1.75 1.3 0.8	mɛnɛɛ	0	245
+#
+225106	kapriman	1970_CANOE	doɣor	doɣor	d o ɣ o r		dye-et-al-1968	20966	1 7 3 7 5	AXBYN	TUGUR	4	4.T.C 4.U.V 4.G.C 4.U.V 4.R.c	2.0 1.5 1.75 1.3 0.8	doɣor	0	248
+225107	bahinemo	1970_CANOE	doma	doma	d o m a		dye-et-al-1968	20966	1 7 4 7	AXBZ	TUMA	3	3.T.C 3.U.V 3.M.C 3.A.V	2.0 1.5 1.75 0.8	doma	0	247
+225105	alamblak	1970_CANOE	doɣʌth	doɣʌth	d o ɣ ʌ t h		dye-et-al-1968	20966	1 7 3 7 1 3	AXBYBC	TUGETH	2	2.T.C 2.U.V 2.G.C 2.E.V 2.T.C 2.H.C	2.0 1.5 1.75 1.3 1.75 1.5	doɣʌth	0	246
+225108	saniyo-hiyewe	1970_CANOE	way	way	w a j		dye-et-al-1968	20901	6 7 6	AXN	WAJ	5	5.W.C 5.A.V 5.J.c	2.0 1.5 0.8	waj	0	249
+#
+224713	kapriman	2009_DOG	yom	yom	j o m		dye-et-al-1968	20691	6 7 4	AXN	JUM	4	4.J.C 4.U.V 4.M.c	2.0 1.5 0.8	jom	0	252
+224714	bahinemo	2009_DOG	yo	yo	j o		dye-et-al-1968	20691	6 7	AX	JU	3	3.J.C 3.U.V	2.0 1.5	jo	0	251
+224712	alamblak	2009_DOG	yawu	yawu	j a w u		dye-et-al-1968	20691	6 7 6 7	AXBZ	JAWY	2	2.J.C 2.A.V 2.W.C 2.Y.V	2.0 1.5 1.75 0.8	jawu	0	250
+224715	saniyo-hiyewe	2009_DOG	yo	yo	j o		dye-et-al-1968	20691	6 7	AX	JU	5	5.J.C 5.U.V	2.0 1.5	jo	0	251
+#
+224880	kapriman	2098_FOOT_OR_LEG	wola	wola	w o l a		dye-et-al-1968	20834	6 7 5 7	AXBZ	WULA	4	4.W.C 4.U.V 4.L.C 4.A.V	2.0 1.5 1.75 0.8	wola	0	253
+224881	bahinemo	2098_FOOT_OR_LEG	lowa	lowa	l o w a		dye-et-al-1968	20834	5 7 6 7	AXBZ	LUWA	3	3.L.C 3.U.V 3.W.C 3.A.V	2.0 1.5 1.75 0.8	lowa	0	254
+224879	alamblak	2098_FOOT_OR_LEG	wʌlat	wʌlat	w ʌ l a t		dye-et-al-1968	20834	6 7 5 7 1	AXBYN	WELAT	2	2.W.C 2.E.V 2.L.C 2.A.V 2.T.c	2.0 1.5 1.75 1.3 0.8	wʌlat	0	253
+224882	saniyo-hiyewe	2098_FOOT_OR_LEG	rowɛ	rowɛ	r o w ɛ		dye-et-al-1968	20834	5 7 6 7	AXBZ	RUWE	5	5.R.C 5.U.V 5.W.C 5.E.V	2.0 1.5 1.75 0.8	rowɛ	0	254
+#
+225125	kapriman	2100_THATCH_OR_ROOF	gʌlova	gʌlova	g ʌ l o v a		dye-et-al-1968	20701	1 7 5 7 3 7	AXBYBZ	KELUBA	4	4.K.C 4.E.V 4.L.C 4.U.V 4.B.C 4.A.V	2.0 1.5 1.75 1.3 1.75 0.8	gʌlova	0	257
+225126	bahinemo	2100_THATCH_OR_ROOF	khʌsiya	khʌsiya	k h ʌ s i j a		dye-et-al-1968	20701	1 3 7 3 7 6 7	ACXBYBZ	KHESIJA	3	3.K.C 3.H.C 3.E.V 3.S.C 3.I.V 3.J.C 3.A.V	2.0 1.5 1.5 1.75 1.3 1.75 0.8	khʌsija	0	256
+225124	alamblak	2100_THATCH_OR_ROOF	gʌthuwam	gʌthuwam	g ʌ t h u w a m		dye-et-al-1968	20701	1 7 1 3 7 6 7 4	AXBCYBYN	KETHYWAM	2	2.K.C 2.E.V 2.T.C 2.H.C 2.Y.V 2.W.C 2.A.V 2.M.c	2.0 1.5 1.75 1.5 1.3 1.75 1.3 0.8	gʌthuwam	0	255
+225127	saniyo-hiyewe	2100_THATCH_OR_ROOF	'ʌtowɛ	'ʌtowɛ	ʌ t o w ɛ		dye-et-al-1968	20701	7 1 7 6 7	XBYBZ	ETUWE	5	5.E.V 5.T.C 5.U.V 5.W.C 5.E.V	1.5 1.75 1.3 1.75 0.8	ʌtowɛ	0	258
+#
+224797	kapriman	2108_RAINING_OR_RAIN	sekar	sekar	s e k a r		dye-et-al-1968	20768	3 7 1 7 5	AXBYN	SEKAR	4	4.S.C 4.E.V 4.K.C 4.A.V 4.R.c	2.0 1.5 1.75 1.3 0.8	sekar	0	261
+224798	bahinemo	2108_RAINING_OR_RAIN	hagi isuwa	hagi_isuwa	h a g i + i s u w a		dye-et-al-1968	20867	3 7 1 7 9 7 3 7 6 7	AXBZ_XBYBZ	HAKI_ISYWA	3	3.H.C 3.A.V 3.K.C 3.I.V 3._._ 3.I.V 3.S.C 3.Y.V 3.W.C 3.A.V	2.0 1.5 1.75 0.8 0.0 1.5 1.75 1.3 1.75 0.8	hagi+isuwa	0	260
+224796	alamblak	2108_RAINING_OR_RAIN	buriogo	buriogo	b u r i o g o		dye-et-al-1968	20742	1 7 5 7 7 1 7	AXBYYBZ	PYRIUKU	2	2.P.C 2.Y.V 2.R.C 2.I.V 2.U.V 2.K.C 2.U.V	2.0 1.5 1.75 1.3 1.3 1.75 0.8	buriogo	0	259
+224799	saniyo-hiyewe	2108_RAINING_OR_RAIN	sa'i utie	sa'i_utie	s a i + u t i e		dye-et-al-1968	20867	3 7 7 9 7 1 7 7	AXZ_XBYZ	SAI_YTIE	5	5.S.C 5.A.V 5.I.V 5._._ 5.Y.V 5.T.C 5.I.V 5.E.V	2.0 1.5 0.8 0.0 1.5 1.75 1.3 0.8	sai+utie	0	262
+#
+224777	kapriman	2121_ARM_OR_HAND	sɛlis	sɛlis	s ɛ l i s		dye-et-al-1968	20704	3 7 5 7 3	AXBYN	SELIS	4	4.S.C 4.E.V 4.L.C 4.I.V 4.S.c	2.0 1.5 1.75 1.3 0.8	sɛlis	0	265
+224778	bahinemo	2121_ARM_OR_HAND	həlbʌdufa	həlbʌdufa	h ə l b ʌ d u f a		dye-et-al-1968	20915	3 7 5 1 7 1 7 3 7	AXMBYBYBZ	HELPETYBA	3	3.H.C 3.E.V 3.L.c 3.P.C 3.E.V 3.T.C 3.Y.V 3.B.C 3.A.V	2.0 1.5 1.1 1.75 1.3 1.75 1.3 1.75 0.8	həlbʌdufa	0	264
+224776	alamblak	2121_ARM_OR_HAND	thiwapith	thiwapith	t h i w a p i t h		dye-et-al-1968	20723	1 3 7 6 7 1 7 1 3	ACXBYBYBC	THIWAPITH	2	2.T.C 2.H.C 2.I.V 2.W.C 2.A.V 2.P.C 2.I.V 2.T.C 2.H.C	2.0 1.5 1.5 1.75 1.3 1.75 1.3 1.75 1.5	thiwapith	0	263
+224779	saniyo-hiyewe	2121_ARM_OR_HAND	'ɛrɛti	'ɛrɛti	ɛ r ɛ t i		dye-et-al-1968	20704	7 5 7 1 7	XBYBZ	ERETI	5	5.E.V 5.R.C 5.E.V 5.T.C 5.I.V	1.5 1.75 1.3 1.75 0.8	ɛrɛti	0	266
+#
+224725	kapriman	215_LIE_DOWN	khweyL	khweyL	k h w e j L/l		dye-et-al-1968	20839	1 3 6 7 6 5	ACCXLN	KHWEJL	4	4.K.C 4.H.C 4.W.C 4.E.V 4.J.c 4.L.c	2.0 1.5 1.5 1.5 1.1 0.8	khwejL/l	0	269
+224726	bahinemo	215_LIE_DOWN	muhwi	muhwi	m u h w i		dye-et-al-1968	20839	4 7 3 6 7	AXBCZ	MYHWI	3	3.M.C 3.Y.V 3.H.C 3.W.C 3.I.V	2.0 1.5 1.75 1.5 0.8	muhwi	0	268
+224724	alamblak	215_LIE_DOWN	hoitwor	hoitwor	h o i t w o r		dye-et-al-1968	20839	3 7 7 1 6 7 5	AXYBCYN	HUITWUR	2	2.H.C 2.U.V 2.I.V 2.T.C 2.W.C 2.U.V 2.R.c	2.0 1.5 1.3 1.75 1.5 1.3 0.8	hoitwor	0	267
+224727	saniyo-hiyewe	215_LIE_DOWN	howive	howive	h o w i v e		dye-et-al-1968	20839	3 7 6 7 3 7	AXBYBZ	HUWIBE	5	5.H.C 5.U.V 5.W.C 5.I.V 5.B.C 5.E.V	2.0 1.5 1.75 1.3 1.75 0.8	howive	0	270
+#
+225090	kapriman	217_BETELNUT	yʌsukha	yʌsukha	j ʌ s u k h a		dye-et-al-1968	20879	6 7 3 7 1 3 7	AXBYBCZ	JESYKHA	4	4.J.C 4.E.V 4.S.C 4.Y.V 4.K.C 4.H.C 4.A.V	2.0 1.5 1.75 1.3 1.75 1.5 0.8	jʌsukha	0	273
+225091	bahinemo	217_BETELNUT	khʌday	khʌday	k h ʌ d a j		dye-et-al-1968	20829	1 3 7 1 7 6	ACXBYN	KHETAJ	3	3.K.C 3.H.C 3.E.V 3.T.C 3.A.V 3.J.c	2.0 1.5 1.5 1.75 1.3 0.8	khʌdaj	0	272
+225089	alamblak	217_BETELNUT	yʌbmum	yʌbmum	j ʌ b m u m		dye-et-al-1968	20879	6 7 1 4 7 4	AXBCYN	JEPMYM	2	2.J.C 2.E.V 2.P.C 2.M.C 2.Y.V 2.M.c	2.0 1.5 1.75 1.5 1.3 0.8	jʌbmum	0	271
+225092	saniyo-hiyewe	217_BETELNUT	veve	veve	v e v e		dye-et-al-1968	20925	3 7 3 7	AXBZ	BEBE	5	5.B.C 5.E.V 5.B.C 5.E.V	2.0 1.5 1.75 0.8	veve	0	274
+#
+224749	kapriman	221_FIRE	moyos	moyos	m o j o s		dye-et-al-1968	20909	4 7 6 7 3	AXBYN	MUJUS	4	4.M.C 4.U.V 4.J.C 4.U.V 4.S.c	2.0 1.5 1.75 1.3 0.8	mojos	0	277
+224750	bahinemo	221_FIRE	ya	ya	j a		dye-et-al-1968	20883	6 7	AX	JA	3	3.J.C 3.A.V	2.0 1.5	ja	0	276
+224748	alamblak	221_FIRE	khaxth	khaxth	k h a x t h		dye-et-al-1968	20883	1 3 7 3 1 3	ACXMBC	KHAGTH	2	2.K.C 2.H.C 2.A.V 2.G.c 2.T.C 2.H.C	2.0 1.5 1.5 1.1 1.75 1.5	khaxth	0	275
+224751	saniyo-hiyewe	221_FIRE	yɛhɛ	yɛhɛ	j ɛ h ɛ		dye-et-al-1968	20883	6 7 3 7	AXBZ	JEHE	5	5.J.C 5.E.V 5.H.C 5.E.V	2.0 1.5 1.75 0.8	jɛhɛ	0	276
+#
+225098	kapriman	2270_SAGO	nar	nar	n a r		dye-et-al-1968	20937	4 7 5	AXN	NAR	4	4.N.C 4.A.V 4.R.c	2.0 1.5 0.8	nar	0	280
+225099	bahinemo	2270_SAGO	naw	naw	n a w		dye-et-al-1968	20937	4 7 6	AXN	NAW	3	3.N.C 3.A.V 3.W.c	2.0 1.5 0.8	naw	0	279
+225097	alamblak	2270_SAGO	nakum	nakum	n a k u m		dye-et-al-1968	20937	4 7 1 7 4	AXBYN	NAKYM	2	2.N.C 2.A.V 2.K.C 2.Y.V 2.M.c	2.0 1.5 1.75 1.3 0.8	nakum	0	278
+225100	saniyo-hiyewe	2270_SAGO	naw	naw	n a w		dye-et-al-1968	20937	4 7 6	AXN	NAW	5	5.N.C 5.A.V 5.W.c	2.0 1.5 0.8	naw	0	280
+#
+225110	kapriman	234_PADDLE	khayja	khayja	k h a j j a		dye-et-al-1968	20859	1 3 7 6 6 7	ACXMBZ	KHAJJA	4	4.K.C 4.H.C 4.A.V 4.J.c 4.J.C 4.A.V	2.0 1.5 1.5 1.1 1.75 0.8	khajja	0	283
+225111	bahinemo	234_PADDLE	yafïï	yafïï	j a f ï/i ï/i		dye-et-al-1968	20955	6 7 3 7 7	AXBYZ	JABII	3	3.J.C 3.A.V 3.B.C 3.I.V 3.I.V	2.0 1.5 1.75 1.3 0.8	jafï/iï/i	0	282
+225109	alamblak	234_PADDLE	mʌnagʌm	mʌnagʌm	m ʌ n a g ʌ m		dye-et-al-1968	20782	4 7 4 7 1 7 4	AXBYBYN	MENAKEM	2	2.M.C 2.E.V 2.N.C 2.A.V 2.K.C 2.E.V 2.M.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	mʌnagʌm	0	281
+225112	saniyo-hiyewe	234_PADDLE	ihe	ihe	i h e		dye-et-al-1968	20757	7 3 7	XBZ	IHE	5	5.I.V 5.H.C 5.E.V	1.5 1.75 0.8	ihe	0	284
+#
+224956	kapriman	235_FLYING_FOX	kʌbis	kʌbis	k ʌ b i s		dye-et-al-1968	20794	1 7 1 7 3	AXBYN	KEPIS	4	4.K.C 4.E.V 4.P.C 4.I.V 4.S.c	2.0 1.5 1.75 1.3 0.8	kʌbis	0	285
+224957	bahinemo	235_FLYING_FOX	khʌbi	khʌbi	k h ʌ b i		dye-et-al-1968	20794	1 3 7 1 7	ACXBZ	KHEPI	3	3.K.C 3.H.C 3.E.V 3.P.C 3.I.V	2.0 1.5 1.5 1.75 0.8	khʌbi	0	285
+224955	alamblak	235_FLYING_FOX	gʌbis	gʌbis	g ʌ b i s		dye-et-al-1968	20794	1 7 1 7 3	AXBYN	KEPIS	2	2.K.C 2.E.V 2.P.C 2.I.V 2.S.c	2.0 1.5 1.75 1.3 0.8	gʌbis	0	285
+224958	saniyo-hiyewe	235_FLYING_FOX	'iruwʌ'opi	'iruwʌ'opi	i r u w ʌ o p i		dye-et-al-1968	20794	7 5 7 6 7 7 1 7	XBYBYYBZ	IRYWEUPI	5	5.I.V 5.R.C 5.Y.V 5.W.C 5.E.V 5.U.V 5.P.C 5.I.V	1.5 1.75 1.3 1.75 1.3 1.3 1.75 0.8	iruwʌopi	0	288
+#
+224733	kapriman	2457_PATH_OR_ROAD	aɣot	aɣot	a ɣ o t		dye-et-al-1968	20842	7 3 7 1	XBYN	AGUT	4	4.A.V 4.G.C 4.U.V 4.T.c	1.5 1.75 1.3 0.8	aɣot	0	291
+224734	bahinemo	2457_PATH_OR_ROAD	yɔ	yɔ	j ɔ		dye-et-al-1968	20826	6 7	AX	JU	3	3.J.C 3.U.V	2.0 1.5	jɔ	0	290
+224732	alamblak	2457_PATH_OR_ROAD	yʌgothar	yʌgothar	j ʌ g o t h a r		dye-et-al-1968	20710	6 7 1 7 1 3 7 5	AXBYBCYN	JEKUTHAR	2	2.J.C 2.E.V 2.K.C 2.U.V 2.T.C 2.H.C 2.A.V 2.R.c	2.0 1.5 1.75 1.3 1.75 1.5 1.3 0.8	jʌgothar	0	289
+224735	saniyo-hiyewe	2457_PATH_OR_ROAD	yomay	yomay	j o m a j		dye-et-al-1968	20853	6 7 4 7 6	AXBYN	JUMAJ	5	5.J.C 5.U.V 5.M.C 5.A.V 5.J.c	2.0 1.5 1.75 1.3 0.8	jomaj	0	292
+#
+224971	kapriman	2638_FISHING	amaram	amaram	a m a r a m		dye-et-al-1968	20864	7 4 7 5 7 4	XBYBYN	AMARAM	4	4.A.V 4.M.C 4.A.V 4.R.C 4.A.V 4.M.c	1.5 1.75 1.3 1.75 1.3 0.8	amaram	0	295
+224972	bahinemo	2638_FISHING	'ɩla	'ɩla	ɪ l a		dye-et-al-1968	20864	7 5 7	XBZ	ILA	3	3.I.V 3.L.C 3.A.V	1.5 1.75 0.8	ɪla	0	294
+224970	alamblak	2638_FISHING	yɛlam	yɛlam	j ɛ l a m		dye-et-al-1968	20864	6 7 5 7 4	AXBYN	JELAM	2	2.J.C 2.E.V 2.L.C 2.A.V 2.M.c	2.0 1.5 1.75 1.3 0.8	jɛlam	0	293
+224973	saniyo-hiyewe	2638_FISHING	harɛ	harɛ	h a r ɛ		dye-et-al-1968	20864	3 7 5 7	AXBZ	HARE	5	5.H.C 5.A.V 5.R.C 5.E.V	2.0 1.5 1.75 0.8	harɛ	0	296
+#
+224986	kapriman	293_NETBAG	khʌliL	khʌliL	k h ʌ l i L/l		dye-et-al-1968	20817	1 3 7 5 7 5	ACXBYN	KHELIL	4	4.K.C 4.H.C 4.E.V 4.L.C 4.I.V 4.L.c	2.0 1.5 1.5 1.75 1.3 0.8	khʌliL/l	0	298
+224987	bahinemo	293_NETBAG	hʌli	hʌli	h ʌ l i		dye-et-al-1968	20817	3 7 5 7	AXBZ	HELI	3	3.H.C 3.E.V 3.L.C 3.I.V	2.0 1.5 1.75 0.8	hʌli	0	298
+224985	alamblak	293_NETBAG	yɔgʌt	yɔgʌt	j ɔ g ʌ t		dye-et-al-1968	20934	6 7 1 7 1	AXBYN	JUKET	2	2.J.C 2.U.V 2.K.C 2.E.V 2.T.c	2.0 1.5 1.75 1.3 0.8	jɔgʌt	0	297
+224988	saniyo-hiyewe	293_NETBAG	niyɛ	niyɛ	n i j ɛ		dye-et-al-1968	20762	4 7 6 7	AXBZ	NIJE	5	5.N.C 5.I.V 5.J.C 5.E.V	2.0 1.5 1.75 0.8	nijɛ	0	300
+#
+224821	kapriman	323_FAT_ORGANIC_SUBSTANCE	tivar	tivar	t i v a r		dye-et-al-1968	20861	1 7 3 7 5	AXBYN	TIBAR	4	4.T.C 4.I.V 4.B.C 4.A.V 4.R.c	2.0 1.5 1.75 1.3 0.8	tivar	0	303
+224822	bahinemo	323_FAT_ORGANIC_SUBSTANCE	gwʌlil	gwʌlil	g w ʌ l i l		dye-et-al-1968	20956	1 6 7 5 7 5	ACXBYN	KWELIL	3	3.K.C 3.W.C 3.E.V 3.L.C 3.I.V 3.L.c	2.0 1.5 1.5 1.75 1.3 0.8	gwʌlil	0	302
+224820	alamblak	323_FAT_ORGANIC_SUBSTANCE	sivopam	sivopam	s i v o p a m		dye-et-al-1968	20861	3 7 3 7 1 7 4	AXBYBYN	SIBUPAM	2	2.S.C 2.I.V 2.B.C 2.U.V 2.P.C 2.A.V 2.M.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	sivopam	0	301
+224823	saniyo-hiyewe	323_FAT_ORGANIC_SUBSTANCE	piyo'u	piyo'u	p i j o u		dye-et-al-1968	20737	1 7 6 7 7	AXBYZ	PIJUY	5	5.P.C 5.I.V 5.J.C 5.U.V 5.Y.V	2.0 1.5 1.75 1.3 0.8	pijou	0	304
+#
+225121	kapriman	328_GRASS-SKIRT	sowe	sowe	s o w e		dye-et-al-1968	20863	3 7 6 7	AXBZ	SUWE	4	4.S.C 4.U.V 4.W.C 4.E.V	2.0 1.5 1.75 0.8	sowe	0	306
+225122	bahinemo	328_GRASS-SKIRT	hʌwi	hʌwi	h ʌ w i		dye-et-al-1968	20863	3 7 6 7	AXBZ	HEWI	3	3.H.C 3.E.V 3.W.C 3.I.V	2.0 1.5 1.75 0.8	hʌwi	0	306
+225120	alamblak	328_GRASS-SKIRT	suwiɛm	suwiɛm	s u w i ɛ m		dye-et-al-1968	20863	3 7 6 7 7 4	AXBYYN	SYWIEM	2	2.S.C 2.Y.V 2.W.C 2.I.V 2.E.V 2.M.c	2.0 1.5 1.75 1.3 1.3 0.8	suwiɛm	0	305
+225123	saniyo-hiyewe	328_GRASS-SKIRT	sɛvi	sɛvi	s ɛ v i		dye-et-al-1968	20863	3 7 3 7	AXBZ	SEBI	5	5.S.C 5.E.V 5.B.C 5.I.V	2.0 1.5 1.75 0.8	sɛvi	0	308
+#
+225010	kapriman	343_VINE	mʌsijʌp	mʌsijʌp	m ʌ s i j ʌ p		dye-et-al-1968	20875	4 7 3 7 6 7 1	AXBYBYN	MESIJEP	4	4.M.C 4.E.V 4.S.C 4.I.V 4.J.C 4.E.V 4.P.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	mʌsijʌp	0	311
+225011	bahinemo	343_VINE	ley	ley	l e j		dye-et-al-1968	20898	5 7 6	AXN	LEJ	3	3.L.C 3.E.V 3.J.c	2.0 1.5 0.8	lej	0	310
+225009	alamblak	343_VINE	mʌthithʌbm	mʌthithʌbm	m ʌ t h i t h ʌ b m		dye-et-al-1968	20875	4 7 1 3 7 1 3 7 1 4	AXBCYBCYBC	METHITHEPM	2	2.M.C 2.E.V 2.T.C 2.H.C 2.I.V 2.T.C 2.H.C 2.E.V 2.P.C 2.M.C	2.0 1.5 1.75 1.5 1.3 1.75 1.5 1.3 1.75 1.5	mʌthithʌbm	1	309
+225012	saniyo-hiyewe	343_VINE	wafay	wafay	w a f a j		dye-et-al-1968	20964	6 7 3 7 6	AXBYN	WABAJ	5	5.W.C 5.A.V 5.B.C 5.A.V 5.J.c	2.0 1.5 1.75 1.3 0.8	wafaj	0	312
+#
+225113	kapriman	389_FISH_TRAP	tasoɣe	tasoɣe	t a s o ɣ e		dye-et-al-1968	20836	1 7 3 7 3 7	AXBYBZ	TASUGE	4	4.T.C 4.A.V 4.S.C 4.U.V 4.G.C 4.E.V	2.0 1.5 1.75 1.3 1.75 0.8	tasoɣe	0	314
+225114	bahinemo	389_FISH_TRAP	geli	geli	g e l i		dye-et-al-1968	20933	1 7 5 7	AXBZ	KELI	3	3.K.C 3.E.V 3.L.C 3.I.V	2.0 1.5 1.75 0.8	geli	0	313
+225115	saniyo-hiyewe	389_FISH_TRAP	harɛ'ɛri	harɛ'ɛri	h a r ɛ ɛ r i		dye-et-al-1968	20933	3 7 5 7 7 5 7	AXBYYBZ	HAREERI	5	5.H.C 5.A.V 5.R.C 5.E.V 5.E.V 5.R.C 5.I.V	2.0 1.5 1.75 1.3 1.3 1.75 0.8	harɛɛri	0	315
+#
+224948	kapriman	466_CASSOWARY	wolos	wolos	w o l o s		dye-et-al-1968	20769	6 7 5 7 3	AXBYN	WULUS	4	4.W.C 4.U.V 4.L.C 4.U.V 4.S.c	2.0 1.5 1.75 1.3 0.8	wolos	0	318
+224949	bahinemo	466_CASSOWARY	fyulu	fyulu	f j u l u		dye-et-al-1968	20769	3 6 7 5 7	ACXBZ	BJYLY	3	3.B.C 3.J.C 3.Y.V 3.L.C 3.Y.V	2.0 1.5 1.5 1.75 0.8	fjulu	0	317
+224947	alamblak	466_CASSOWARY	bundugwʌr	bundugwʌr	b u n d u g w ʌ r		dye-et-al-1968	20684	1 7 4 1 7 1 6 7 5	AXMBYBCYN	PYNTYKWER	2	2.P.C 2.Y.V 2.N.c 2.T.C 2.Y.V 2.K.C 2.W.C 2.E.V 2.R.c	2.0 1.5 1.1 1.75 1.3 1.75 1.5 1.3 0.8	bundugwʌr	0	316
+224950	saniyo-hiyewe	466_CASSOWARY	'iruwʌru	'iruwʌru	i r u w ʌ r u		dye-et-al-1968	20769	7 5 7 6 7 5 7	XBYBYBZ	IRYWERY	5	5.I.V 5.R.C 5.Y.V 5.W.C 5.E.V 5.R.C 5.Y.V	1.5 1.75 1.3 1.75 1.3 1.75 0.8	iruwʌru	0	319
+#
+225058	kapriman	492_THREE	humbʌli	humbʌli	h u m b ʌ l i		dye-et-al-1968	20724	3 7 4 1 7 5 7	AXMBYBZ	HYMPELI	4	4.H.C 4.Y.V 4.M.c 4.P.C 4.E.V 4.L.C 4.I.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	humbʌli	0	321
+225059	bahinemo	492_THREE	huməli	huməli	h u m ə l i		dye-et-al-1968	20724	3 7 4 7 5 7	AXBYBZ	HYMELI	3	3.H.C 3.Y.V 3.M.C 3.E.V 3.L.C 3.I.V	2.0 1.5 1.75 1.3 1.75 0.8	huməli	0	321
+225057	alamblak	492_THREE	hutsɩfɩtupar	hutsɩfɩtupar	h u ts ɪ f ɪ t u p a r		dye-et-al-1968	20820	3 7 2 7 3 7 1 7 1 7 5	AXBYBYBYBYN	HYCIBITYPAR	2	2.H.C 2.Y.V 2.C.C 2.I.V 2.B.C 2.I.V 2.T.C 2.Y.V 2.P.C 2.A.V 2.R.c	2.0 1.5 1.75 1.3 1.75 1.3 1.75 1.3 1.75 1.3 0.8	hutsɪfɪtupar	0	320
+225060	saniyo-hiyewe	492_THREE	hɛsi heta	hɛsi_heta	h ɛ s i + h e t a		dye-et-al-1968	20941	3 7 3 7 9 3 7 1 7	AXBZ_AXBZ	HESI_HETA	5	5.H.C 5.E.V 5.S.C 5.I.V 5._._ 5.H.C 5.E.V 5.T.C 5.A.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5 1.75 0.8	hɛsi+heta	0	323
+#
+225066	kapriman	493_FIVE	sɛjifa	sɛjifa	s ɛ j i f a		dye-et-al-1968	20738	3 7 6 7 3 7	AXBYBZ	SEJIBA	4	4.S.C 4.E.V 4.J.C 4.I.V 4.B.C 4.A.V	2.0 1.5 1.75 1.3 1.75 0.8	sɛjifa	0	326
+225067	bahinemo	493_FIVE	hʌlbafu	hʌlbafu	h ʌ l b a f u		dye-et-al-1968	20838	3 7 5 1 7 3 7	AXMBYBZ	HELPABY	3	3.H.C 3.E.V 3.L.c 3.P.C 3.A.V 3.B.C 3.Y.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	hʌlbafu	0	325
+225065	alamblak	493_FIVE	tiyokuthut	tiyokuthut	t i j o k u t h u t		dye-et-al-1968	20959	1 7 6 7 1 7 1 3 7 1	AXBYBYBCYN	TIJUKYTHYT	2	2.T.C 2.I.V 2.J.C 2.U.V 2.K.C 2.Y.V 2.T.C 2.H.C 2.Y.V 2.T.c	2.0 1.5 1.75 1.3 1.75 1.3 1.75 1.5 1.3 0.8	tijokuthut	0	324
+225068	saniyo-hiyewe	493_FIVE	'ɛrɛtifɛni	'ɛrɛtifɛni	ɛ r ɛ t i f ɛ n i		dye-et-al-1968	20788	7 5 7 1 7 3 7 4 7	XBYBYBYBZ	ERETIBENI	5	5.E.V 5.R.C 5.E.V 5.T.C 5.I.V 5.B.C 5.E.V 5.N.C 5.I.V	1.5 1.75 1.3 1.75 1.3 1.75 1.3 1.75 0.8	ɛrɛtifɛni	0	327
+#
+224963	kapriman	503_FROG	kʌkʌlʌ	kʌkʌlʌ	k ʌ k ʌ l ʌ		dye-et-al-1968	20847	1 7 1 7 5 7	AXBYBZ	KEKELE	4	4.K.C 4.E.V 4.K.C 4.E.V 4.L.C 4.E.V	2.0 1.5 1.75 1.3 1.75 0.8	kʌkʌlʌ	0	330
+224964	bahinemo	503_FROG	wabi	wabi	w a b i		dye-et-al-1968	20942	6 7 1 7	AXBZ	WAPI	3	3.W.C 3.A.V 3.P.C 3.I.V	2.0 1.5 1.75 0.8	wabi	0	329
+224962	alamblak	503_FROG	khukhar	khukhar	k h u k h a r		dye-et-al-1968	20847	1 3 7 1 3 7 5	ACXBCYN	KHYKHAR	2	2.K.C 2.H.C 2.Y.V 2.K.C 2.H.C 2.A.V 2.R.c	2.0 1.5 1.5 1.75 1.5 1.3 0.8	khukhar	0	328
+224965	saniyo-hiyewe	503_FROG	so	so	s o		dye-et-al-1968	20726	3 7	AX	SU	5	5.S.C 5.U.V	2.0 1.5	so	0	331
+#
+224813	kapriman	628_LEAF	mutuwas	mutuwas	m u t u w a s		dye-et-al-1968	20893	4 7 1 7 6 7 3	AXBYBYN	MYTYWAS	4	4.M.C 4.Y.V 4.T.C 4.Y.V 4.W.C 4.A.V 4.S.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	mutuwas	0	334
+224814	bahinemo	628_LEAF	mi sɩnowa	mi_sɩnowa	m i + s ɪ n o w a		dye-et-al-1968	20871	4 7 9 3 7 4 7 6 7	AX_AXBYBZ	MI_SINUWA	3	3.M.C 3.I.V 3._._ 3.S.C 3.I.V 3.N.C 3.U.V 3.W.C 3.A.V	2.0 1.5 0.0 2.0 1.5 1.75 1.3 1.75 0.8	mi+sɪnowa	0	333
+224812	alamblak	628_LEAF	revatuam	revatuam	r e v a t u a m		dye-et-al-1968	20893	5 7 3 7 1 7 7 4	AXBYBYYN	REBATYAM	2	2.R.C 2.E.V 2.B.C 2.A.V 2.T.C 2.Y.V 2.A.V 2.M.c	2.0 1.5 1.75 1.3 1.75 1.3 1.3 0.8	revatuam	0	332
+224815	saniyo-hiyewe	628_LEAF	mʌtowɛ	mʌtowɛ	m ʌ t o w ɛ		dye-et-al-1968	20893	4 7 1 7 6 7	AXBYBZ	METUWE	5	5.M.C 5.E.V 5.T.C 5.U.V 5.W.C 5.E.V	2.0 1.5 1.75 1.3 1.75 0.8	mʌtowɛ	0	334
+#
+225050	kapriman	630_LIGHT_RADIATION	sikikar	sikikar	s i k i k a r		dye-et-al-1968	20907	3 7 1 7 1 7 5	AXBYBYN	SIKIKAR	4	4.S.C 4.I.V 4.K.C 4.I.V 4.K.C 4.A.V 4.R.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	sikikar	0	337
+225051	bahinemo	630_LIGHT_RADIATION	walwa	walwa	w a l w a		dye-et-al-1968	20697	6 7 5 6 7	AXBCZ	WALWA	3	3.W.C 3.A.V 3.L.C 3.W.C 3.A.V	2.0 1.5 1.75 1.5 0.8	walwa	0	336
+225049	alamblak	630_LIGHT_RADIATION	futotweyoth	futotweyoth	f u t o t w e j o t h		dye-et-al-1968	20812	3 7 1 7 1 6 7 6 7 1 3	AXBYBCYBYBC	BYTUTWEJUTH	2	2.B.C 2.Y.V 2.T.C 2.U.V 2.T.C 2.W.C 2.E.V 2.J.C 2.U.V 2.T.C 2.H.C	2.0 1.5 1.75 1.3 1.75 1.5 1.3 1.75 1.3 1.75 1.5	futotwejoth	0	335
+225052	saniyo-hiyewe	630_LIGHT_RADIATION	pɛtania'i	pɛtania'i	p ɛ t a n i a i		dye-et-al-1968	20958	1 7 1 7 4 7 7 7	AXBYBYYZ	PETANIAI	5	5.P.C 5.E.V 5.T.C 5.A.V 5.N.C 5.I.V 5.A.V 5.I.V	2.0 1.5 1.75 1.3 1.75 1.3 1.3 0.8	pɛtaniai	0	338
+#
+224817	kapriman	634_MEAT	amalaneva	amalaneva	a m a l a n e v a		dye-et-al-1968	20667	7 4 7 5 7 4 7 3 7	XBYBYBYBZ	AMALANEBA	4	4.A.V 4.M.C 4.A.V 4.L.C 4.A.V 4.N.C 4.E.V 4.B.C 4.A.V	1.5 1.75 1.3 1.75 1.3 1.75 1.3 1.75 0.8	amalaneva	0	341
+224818	bahinemo	634_MEAT	nʌm	nʌm	n ʌ m		dye-et-al-1968	20754	4 7 4	AXN	NEM	3	3.N.C 3.E.V 3.M.c	2.0 1.5 0.8	nʌm	0	339
+224816	alamblak	634_MEAT	nʌmpam	nʌmpam	n ʌ m p a m		dye-et-al-1968	20754	4 7 4 1 7 4	AXMBYN	NEMPAM	2	2.N.C 2.E.V 2.M.c 2.P.C 2.A.V 2.M.c	2.0 1.5 1.1 1.75 1.3 0.8	nʌmpam	0	339
+224819	saniyo-hiyewe	634_MEAT	ro'u	ro'u	r o u		dye-et-al-1968	20944	5 7 7	AXZ	RUY	5	5.R.C 5.U.V 5.Y.V	2.0 1.5 0.8	rou	0	342
+#
+225002	kapriman	639_MOUNTAIN	nʌmbwomtok	nʌmbwomtok	n ʌ m b w o m t o k		dye-et-al-1968	20676	4 7 4 1 6 7 4 1 7 1	AXMBCYMBYN	NEMPWUMTUK	4	4.N.C 4.E.V 4.M.c 4.P.C 4.W.C 4.U.V 4.M.c 4.T.C 4.U.V 4.K.c	2.0 1.5 1.1 1.75 1.5 1.3 1.1 1.75 1.3 0.8	nʌmbwomtok	0	345
+225003	bahinemo	639_MOUNTAIN	biga	biga	b i g a		dye-et-al-1968	20672	1 7 1 7	AXBZ	PIKA	3	3.P.C 3.I.V 3.K.C 3.A.V	2.0 1.5 1.75 0.8	biga	0	344
+225001	alamblak	639_MOUNTAIN	khʌmin	khʌmin	k h ʌ m i n		dye-et-al-1968	20780	1 3 7 4 7 4	ACXBYN	KHEMIN	2	2.K.C 2.H.C 2.E.V 2.M.C 2.I.V 2.N.c	2.0 1.5 1.5 1.75 1.3 0.8	khʌmin	0	343
+225004	saniyo-hiyewe	639_MOUNTAIN	omo	omo	o m o		dye-et-al-1968	20676	7 4 7	XBZ	UMU	5	5.U.V 5.M.C 5.U.V	1.5 1.75 0.8	omo	0	346
+#
+224757	kapriman	646_ASH	fokhwa	fokhwa	f o k h w a		dye-et-al-1968	20763	3 7 1 3 6 7	AXBCCZ	BUKHWA	4	4.B.C 4.U.V 4.K.C 4.H.C 4.W.C 4.A.V	2.0 1.5 1.75 1.5 1.5 0.8	fokhwa	0	349
+224758	bahinemo	646_ASH	ya si	ya_si	j a + s i		dye-et-al-1968	20801	6 7 9 3 7	AX_AX	JA_SI	3	3.J.C 3.A.V 3._._ 3.S.C 3.I.V	2.0 1.5 0.0 2.0 1.5	ja+si	0	348
+224756	alamblak	646_ASH	yokonopam	yokonopam	j o k o n o p a m		dye-et-al-1968	20862	6 7 1 7 4 7 1 7 4	AXBYBYBYN	JUKUNUPAM	2	2.J.C 2.U.V 2.K.C 2.U.V 2.N.C 2.U.V 2.P.C 2.A.V 2.M.c	2.0 1.5 1.75 1.3 1.75 1.3 1.75 1.3 0.8	jokonopam	0	347
+224759	saniyo-hiyewe	646_ASH	yɛsi	yɛsi	j ɛ s i		dye-et-al-1968	20801	6 7 3 7	AXBZ	JESI	5	5.J.C 5.E.V 5.S.C 5.I.V	2.0 1.5 1.75 0.8	jɛsi	0	350
+#
+224809	kapriman	670_ROOT	mɩnɩniva	mɩnɩniva	m ɪ n ɪ n i v a		dye-et-al-1968	20707	4 7 4 7 4 7 3 7	AXBYBYBZ	MININIBA	4	4.M.C 4.I.V 4.N.C 4.I.V 4.N.C 4.I.V 4.B.C 4.A.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	mɪnɪniva	0	353
+224810	bahinemo	670_ROOT	mi nabi	mi_nabi	m i + n a b i		dye-et-al-1968	20919	4 7 9 4 7 1 7	AX_AXBZ	MI_NAPI	3	3.M.C 3.I.V 3._._ 3.N.C 3.A.V 3.P.C 3.I.V	2.0 1.5 0.0 2.0 1.5 1.75 0.8	mi+nabi	0	352
+224808	alamblak	670_ROOT	mʌthithʌbm	mʌthithʌbm	m ʌ t h i t h ʌ b m		dye-et-al-1968	20727	4 7 1 3 7 1 3 7 1 4	AXBCYBCYBC	METHITHEPM	2	2.M.C 2.E.V 2.T.C 2.H.C 2.I.V 2.T.C 2.H.C 2.E.V 2.P.C 2.M.C	2.0 1.5 1.75 1.5 1.3 1.75 1.5 1.3 1.75 1.5	mʌthithʌbm	0	351
+224811	saniyo-hiyewe	670_ROOT	menapi	menapi	m e n a p i		dye-et-al-1968	20919	4 7 4 7 1 7	AXBYBZ	MENAPI	5	5.M.C 5.E.V 5.N.C 5.A.V 5.P.C 5.I.V	2.0 1.5 1.75 1.3 1.75 0.8	menapi	0	353
+#
+224998	kapriman	671_SAND	nʌngu	nʌngu	n ʌ n g u		dye-et-al-1968	20881	4 7 4 1 7	AXMBZ	NENKY	4	4.N.C 4.E.V 4.N.c 4.K.C 4.Y.V	2.0 1.5 1.1 1.75 0.8	nʌngu	0	354
+224999	bahinemo	671_SAND	nogu	nogu	n o g u		dye-et-al-1968	20881	4 7 1 7	AXBZ	NUKY	3	3.N.C 3.U.V 3.K.C 3.Y.V	2.0 1.5 1.75 0.8	nogu	0	354
+224997	alamblak	671_SAND	nonguth	nonguth	n o n g u t h		dye-et-al-1968	20881	4 7 4 1 7 1 3	AXMBYBC	NUNKYTH	2	2.N.C 2.U.V 2.N.c 2.K.C 2.Y.V 2.T.C 2.H.C	2.0 1.5 1.1 1.75 1.3 1.75 1.5	nonguth	0	354
+225000	saniyo-hiyewe	671_SAND	'ɛnɛri	'ɛnɛri	ɛ n ɛ r i		dye-et-al-1968	20744	7 4 7 5 7	XBYBZ	ENERI	5	5.E.V 5.N.C 5.E.V 5.R.C 5.I.V	1.5 1.75 1.3 1.75 0.8	ɛnɛri	0	357
+#
+224673	kapriman	674_MOUTH	ayos	ayos	a j o s		dye-et-al-1968	20930	7 6 7 3	XBYN	AJUS	4	4.A.V 4.J.C 4.U.V 4.S.c	1.5 1.75 1.3 0.8	ajos	0	360
+224674	bahinemo	674_MOUTH	gom	gom	g o m		dye-et-al-1968	20715	1 7 4	AXN	KUM	3	3.K.C 3.U.V 3.M.c	2.0 1.5 0.8	gom	0	359
+224672	alamblak	674_MOUTH	tʌngʌth	tʌngʌth	t ʌ n g ʌ t h		dye-et-al-1968	20832	1 7 4 1 7 1 3	AXMBYBC	TENKETH	2	2.T.C 2.E.V 2.N.c 2.K.C 2.E.V 2.T.C 2.H.C	2.0 1.5 1.1 1.75 1.3 1.75 1.5	tʌngʌth	0	358
+224675	saniyo-hiyewe	674_MOUTH	ahi	ahi	a h i		dye-et-al-1968	20674	7 3 7	XBZ	AHI	5	5.A.V 5.H.C 5.I.V	1.5 1.75 0.8	ahi	0	361
+#
+225014	kapriman	714_SEED	miyokwar	miyokwar	m i j o k w a r		dye-et-al-1968	20890	4 7 6 7 1 6 7 5	AXBYBCYN	MIJUKWAR	4	4.M.C 4.I.V 4.J.C 4.U.V 4.K.C 4.W.C 4.A.V 4.R.c	2.0 1.5 1.75 1.3 1.75 1.5 1.3 0.8	mijokwar	0	362
+225015	bahinemo	714_SEED	hʌbi	hʌbi	h ʌ b i		dye-et-al-1968	20917	3 7 1 7	AXBZ	HEPI	3	3.H.C 3.E.V 3.P.C 3.I.V	2.0 1.5 1.75 0.8	hʌbi	1	363
+225013	alamblak	714_SEED	miyukhram	miyukhram	m i j u k h r a m		dye-et-al-1968	20890	4 7 6 7 1 3 5 7 4	AXBYBCCYN	MIJYKHRAM	2	2.M.C 2.I.V 2.J.C 2.Y.V 2.K.C 2.H.C 2.R.C 2.A.V 2.M.c	2.0 1.5 1.75 1.3 1.75 1.5 1.5 1.3 0.8	mijukhram	0	362
+225016	saniyo-hiyewe	714_SEED	meso	meso	m e s o		dye-et-al-1968	20706	4 7 3 7	AXBZ	MESU	5	5.M.C 5.E.V 5.S.C 5.U.V	2.0 1.5 1.75 0.8	meso	0	365
+#
+224908	kapriman	72_CLAW	tsʌtikhʌn	tsʌtikhʌn	ts ʌ t i k h ʌ n		dye-et-al-1968	20892	2 7 1 7 1 3 7 4	AXBYBCYN	CETIKHEN	4	4.C.C 4.E.V 4.T.C 4.I.V 4.K.C 4.H.C 4.E.V 4.N.c	2.0 1.5 1.75 1.3 1.75 1.5 1.3 0.8	tsʌtikhʌn	0	368
+224909	bahinemo	72_CLAW	wabo sï	wabo_sï	w a b o + s ï/i		dye-et-al-1968	20896	6 7 1 7 9 3 7	AXBZ_AX	WAPU_SI	3	3.W.C 3.A.V 3.P.C 3.U.V 3._._ 3.S.C 3.I.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5	wabo+sï/i	0	367
+224907	alamblak	72_CLAW	phɩtsʌkam	phɩtsʌkam	p h ɪ ts ʌ k a m		dye-et-al-1968	20921	1 3 7 2 7 1 7 4	ACXBYBYN	PHICEKAM	2	2.P.C 2.H.C 2.I.V 2.C.C 2.E.V 2.K.C 2.A.V 2.M.c	2.0 1.5 1.5 1.75 1.3 1.75 1.3 0.8	phɪtsʌkam	0	366
+224910	saniyo-hiyewe	72_CLAW	yaruwapi	yaruwapi	j a r u w a p i		dye-et-al-1968	20771	6 7 5 7 6 7 1 7	AXBYBYBZ	JARYWAPI	5	5.J.C 5.A.V 5.R.C 5.Y.V 5.W.C 5.A.V 5.P.C 5.I.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	jaruwapi	0	369
+#
+224967	kapriman	730_SNAKE	bidyor	bidyor	b i d j o r		dye-et-al-1968	20950	1 7 1 6 7 5	AXBCYN	PITJUR	4	4.P.C 4.I.V 4.T.C 4.J.C 4.U.V 4.R.c	2.0 1.5 1.75 1.5 1.3 0.8	bidjor	0	372
+224968	bahinemo	730_SNAKE	no	no	n o		dye-et-al-1968	20857	4 7	AX	NU	3	3.N.C 3.U.V	2.0 1.5	no	0	371
+224966	alamblak	730_SNAKE	nandʌm	nandʌm	n a n d ʌ m		dye-et-al-1968	20733	4 7 4 1 7 4	AXMBYN	NANTEM	2	2.N.C 2.A.V 2.N.c 2.T.C 2.E.V 2.M.c	2.0 1.5 1.1 1.75 1.3 0.8	nandʌm	0	370
+224969	saniyo-hiyewe	730_SNAKE	haru	haru	h a r u		dye-et-al-1968	20758	3 7 5 7	AXBZ	HARY	5	5.H.C 5.A.V 5.R.C 5.Y.V	2.0 1.5 1.75 0.8	haru	0	373
+#
+224825	kapriman	744_EGG	yuɣwar	yuɣwar	j u ɣ w a r		dye-et-al-1968	20828	6 7 3 6 7 5	AXBCYN	JYGWAR	4	4.J.C 4.Y.V 4.G.C 4.W.C 4.A.V 4.R.c	2.0 1.5 1.75 1.5 1.3 0.8	juɣwar	0	376
+224826	bahinemo	744_EGG	wabo mu	wabo_mu	w a b o + m u		dye-et-al-1968	20931	6 7 1 7 9 4 7	AXBZ_AX	WAPU_MY	3	3.W.C 3.A.V 3.P.C 3.U.V 3._._ 3.M.C 3.Y.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5	wabo+mu	0	375
+224824	alamblak	744_EGG	fokam	fokam	f o k a m		dye-et-al-1968	20828	3 7 1 7 4	AXBYN	BUKAM	2	2.B.C 2.U.V 2.K.C 2.A.V 2.M.c	2.0 1.5 1.75 1.3 0.8	fokam	0	374
+224827	saniyo-hiyewe	744_EGG	hotɛ	hotɛ	h o t ɛ		dye-et-al-1968	20828	3 7 1 7	AXBZ	HUTE	5	5.H.C 5.U.V 5.T.C 5.E.V	2.0 1.5 1.75 0.8	hotɛ	0	377
+#
+224693	kapriman	763_SKIN	thʌgas	thʌgas	t h ʌ g a s		dye-et-al-1968	20872	1 3 7 1 7 3	ACXBYN	THEKAS	4	4.T.C 4.H.C 4.E.V 4.K.C 4.A.V 4.S.c	2.0 1.5 1.5 1.75 1.3 0.8	thʌgas	0	378
+224694	bahinemo	763_SKIN	thʌbi	thʌbi	t h ʌ b i		dye-et-al-1968	20845	1 3 7 1 7	ACXBZ	THEPI	3	3.T.C 3.H.C 3.E.V 3.P.C 3.I.V	2.0 1.5 1.5 1.75 0.8	thʌbi	0	379
+224692	alamblak	763_SKIN	thʌkhath	thʌkhath	t h ʌ k h a t h		dye-et-al-1968	20872	1 3 7 1 3 7 1 3	ACXBCYBC	THEKHATH	2	2.T.C 2.H.C 2.E.V 2.K.C 2.H.C 2.A.V 2.T.C 2.H.C	2.0 1.5 1.5 1.75 1.5 1.3 1.75 1.5	thʌkhath	0	378
+224695	saniyo-hiyewe	763_SKIN	tahɛ	tahɛ	t a h ɛ		dye-et-al-1968	20872	1 7 3 7	AXBZ	TAHE	5	5.T.C 5.A.V 5.H.C 5.E.V	2.0 1.5 1.75 0.8	tahɛ	0	381
+#
+224753	kapriman	778_SMOKE_EXHAUST	yɛrikha	yɛrikha	j ɛ r i k h a		dye-et-al-1968	20798	6 7 5 7 1 3 7	AXBYBCZ	JERIKHA	4	4.J.C 4.E.V 4.R.C 4.I.V 4.K.C 4.H.C 4.A.V	2.0 1.5 1.75 1.3 1.75 1.5 0.8	jɛrikha	0	384
+224754	bahinemo	778_SMOKE_EXHAUST	ya sifi	ya_sifi	j a + s i f i		dye-et-al-1968	20816	6 7 9 3 7 3 7	AX_AXBZ	JA_SIBI	3	3.J.C 3.A.V 3._._ 3.S.C 3.I.V 3.B.C 3.I.V	2.0 1.5 0.0 2.0 1.5 1.75 0.8	ja+sifi	0	383
+224752	alamblak	778_SMOKE_EXHAUST	khaxipor	khaxipor	k h a x i p o r		dye-et-al-1968	20873	1 3 7 3 7 1 7 5	ACXBYBYN	KHAGIPUR	2	2.K.C 2.H.C 2.A.V 2.G.C 2.I.V 2.P.C 2.U.V 2.R.c	2.0 1.5 1.5 1.75 1.3 1.75 1.3 0.8	khaxipor	0	382
+224755	saniyo-hiyewe	778_SMOKE_EXHAUST	yɛhitʌmu	yɛhitʌmu	j ɛ h i t ʌ m u		dye-et-al-1968	20714	6 7 3 7 1 7 4 7	AXBYBYBZ	JEHITEMY	5	5.J.C 5.E.V 5.H.C 5.I.V 5.T.C 5.E.V 5.M.C 5.Y.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	jɛhitʌmu	0	385
+#
+225117	kapriman	841_FISHING_SPEAR	khabʌlɔs	khabʌlɔs	k h a b ʌ l ɔ s		dye-et-al-1968	20840	1 3 7 1 7 5 7 3	ACXBYBYN	KHAPELUS	4	4.K.C 4.H.C 4.A.V 4.P.C 4.E.V 4.L.C 4.U.V 4.S.c	2.0 1.5 1.5 1.75 1.3 1.75 1.3 0.8	khabʌlɔs	0	388
+225118	bahinemo	841_FISHING_SPEAR	dawɩn	dawɩn	d a w ɪ n		dye-et-al-1968	20741	1 7 6 7 4	AXBYN	TAWIN	3	3.T.C 3.A.V 3.W.C 3.I.V 3.N.c	2.0 1.5 1.75 1.3 0.8	dawɪn	0	386
+225116	alamblak	841_FISHING_SPEAR	dawonʌm	dawonʌm	d a w o n ʌ m		dye-et-al-1968	20741	1 7 6 7 4 7 4	AXBYBYN	TAWUNEM	2	2.T.C 2.A.V 2.W.C 2.U.V 2.N.C 2.E.V 2.M.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	dawonʌm	0	386
+225119	saniyo-hiyewe	841_FISHING_SPEAR	towe	towe	t o w e		dye-et-al-1968	20741	1 7 6 7	AXBZ	TUWE	5	5.T.C 5.U.V 5.W.C 5.E.V	2.0 1.5 1.75 0.8	towe	0	386
+#
+224737	kapriman	857_STONE	obar	obar	o b a r		dye-et-al-1968	20900	7 1 7 5	XBYN	UPAR	4	4.U.V 4.P.C 4.A.V 4.R.c	1.5 1.75 1.3 0.8	obar	0	390
+224738	bahinemo	857_STONE	ba	ba	b a		dye-et-al-1968	20802	1 7	AX	PA	3	3.P.C 3.A.V	2.0 1.5	ba	0	390
+224736	alamblak	857_STONE	taxim	taxim	t a x i m		dye-et-al-1968	20928	1 7 3 7 4	AXBYN	TAGIM	2	2.T.C 2.A.V 2.G.C 2.I.V 2.M.c	2.0 1.5 1.75 1.3 0.8	taxim	0	389
+224739	saniyo-hiyewe	857_STONE	tapiyɛ	tapiyɛ	t a p i j ɛ		dye-et-al-1968	20952	1 7 1 7 6 7	AXBYBZ	TAPIJE	5	5.T.C 5.A.V 5.P.C 5.I.V 5.J.C 5.E.V	2.0 1.5 1.75 1.3 1.75 0.8	tapijɛ	0	392
+#
+224857	kapriman	867_backofhand	mogum	mogum	m o g u m		dye-et-al-1968	20814	4 7 1 7 4	AXBYN	MUKYM	4	4.M.C 4.U.V 4.K.C 4.Y.V 4.M.c	2.0 1.5 1.75 1.3 0.8	mogum	0	395
+224858	bahinemo	867_backofhand	bɔlu	bɔlu	b ɔ l u		dye-et-al-1968	20910	1 7 5 7	AXBZ	PULY	3	3.P.C 3.U.V 3.L.C 3.Y.V	2.0 1.5 1.75 0.8	bɔlu	0	394
+224856	alamblak	867_backofhand	moəngʌt	moəngʌt	m o ə n g ʌ t		dye-et-al-1968	20814	4 7 7 4 1 7 1	AXYMBYN	MUENKET	2	2.M.C 2.U.V 2.E.V 2.N.c 2.K.C 2.E.V 2.T.c	2.0 1.5 1.3 1.1 1.75 1.3 0.8	moəngʌt	0	393
+224859	saniyo-hiyewe	867_backofhand	mɛ'iyɩni	mɛ'iyɩni	m ɛ i j ɪ n i		dye-et-al-1968	20814	4 7 7 6 7 4 7	AXYBYBZ	MEIJINI	5	5.M.C 5.E.V 5.I.V 5.J.C 5.I.V 5.N.C 5.I.V	2.0 1.5 1.3 1.75 1.3 1.75 0.8	mɛijɪni	0	396
+#
+224979	kapriman	868_BANANA	gʌnʌga	gʌnʌga	g ʌ n ʌ g a		dye-et-al-1968	20851	1 7 4 7 1 7	AXBYBZ	KENEKA	4	4.K.C 4.E.V 4.N.C 4.E.V 4.K.C 4.A.V	2.0 1.5 1.75 1.3 1.75 0.8	gʌnʌga	0	397
+224980	bahinemo	868_BANANA	gʌni	gʌni	g ʌ n i		dye-et-al-1968	20851	1 7 4 7	AXBZ	KENI	3	3.K.C 3.E.V 3.N.C 3.I.V	2.0 1.5 1.75 0.8	gʌni	0	397
+224978	alamblak	868_BANANA	gʌnigam	gʌnigam	g ʌ n i g a m		dye-et-al-1968	20851	1 7 4 7 1 7 4	AXBYBYN	KENIKAM	2	2.K.C 2.E.V 2.N.C 2.I.V 2.K.C 2.A.V 2.M.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	gʌnigam	0	397
+224981	saniyo-hiyewe	868_BANANA	'one	'one	o n e		dye-et-al-1968	20851	7 4 7	XBZ	UNE	5	5.U.V 5.N.C 5.E.V	1.5 1.75 0.8	one	0	400
+#
+225141	kapriman	895_TORTOISE	thʌɣays	thʌɣays	t h ʌ ɣ a j s		dye-et-al-1968	20962	1 3 7 3 7 6 3	ACXBYLN	THEGAJS	4	4.T.C 4.H.C 4.E.V 4.G.C 4.A.V 4.J.c 4.S.c	2.0 1.5 1.5 1.75 1.3 1.1 0.8	thʌɣajs	0	403
+225142	bahinemo	895_TORTOISE	'ɩlathi	'ɩlathi	ɪ l a t h i		dye-et-al-1968	20962	7 5 7 1 3 7	XBYBCZ	ILATHI	3	3.I.V 3.L.C 3.A.V 3.T.C 3.H.C 3.I.V	1.5 1.75 1.3 1.75 1.5 0.8	ɪlathi	0	402
+225140	alamblak	895_TORTOISE	thʌkith	thʌkith	t h ʌ k i t h		dye-et-al-1968	20962	1 3 7 1 7 1 3	ACXBYBC	THEKITH	2	2.T.C 2.H.C 2.E.V 2.K.C 2.I.V 2.T.C 2.H.C	2.0 1.5 1.5 1.75 1.3 1.75 1.5	thʌkith	0	401
+225143	saniyo-hiyewe	895_TORTOISE	harɛ ti	harɛ_ti	h a r ɛ + t i		dye-et-al-1968	20962	3 7 5 7 9 1 7	AXBZ_AX	HARE_TI	5	5.H.C 5.A.V 5.R.C 5.E.V 5._._ 5.T.C 5.I.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5	harɛ+ti	0	404
+#
+224805	kapriman	906_TREE	mə	mə	m ə		dye-et-al-1968	20734	4 7	AX	ME	4	4.M.C 4.E.V	2.0 1.5	mə	0	405
+224806	bahinemo	906_TREE	mi	mi	m i		dye-et-al-1968	20734	4 7	AX	MI	3	3.M.C 3.I.V	2.0 1.5	mi	0	405
+224804	alamblak	906_TREE	mim	mim	m i m		dye-et-al-1968	20734	4 7 4	AXN	MIM	2	2.M.C 2.I.V 2.M.c	2.0 1.5 0.8	mim	0	405
+224807	saniyo-hiyewe	906_TREE	me	me	m e		dye-et-al-1968	20734	4 7	AX	ME	5	5.M.C 5.E.V	2.0 1.5	me	0	405
+#
+224709	kapriman	937_BIRD	yerɛpm	yerɛpm	j e r ɛ p m		dye-et-al-1968	20822	6 7 5 7 1 4	AXBYBC	JEREPM	4	4.J.C 4.E.V 4.R.C 4.E.V 4.P.C 4.M.C	2.0 1.5 1.75 1.3 1.75 1.5	jerɛpm	0	408
+224710	bahinemo	937_BIRD	wabo	wabo	w a b o		dye-et-al-1968	20918	6 7 1 7	AXBZ	WAPU	3	3.W.C 3.A.V 3.P.C 3.U.V	2.0 1.5 1.75 0.8	wabo	0	407
+224708	alamblak	937_BIRD	nongwar	nongwar	n o n g w a r		dye-et-al-1968	20793	4 7 4 1 6 7 5	AXMBCYN	NUNKWAR	2	2.N.C 2.U.V 2.N.c 2.K.C 2.W.C 2.A.V 2.R.c	2.0 1.5 1.1 1.75 1.5 1.3 0.8	nongwar	0	406
+224711	saniyo-hiyewe	937_BIRD	iruwɛ	iruwɛ	i r u w ɛ		dye-et-al-1968	20735	7 5 7 6 7	XBYBZ	IRYWE	5	5.I.V 5.R.C 5.Y.V 5.W.C 5.E.V	1.5 1.75 1.3 1.75 0.8	iruwɛ	0	409
+#
+224896	kapriman	946_BLOOD	kokwem	kokwem	k o k w e m		dye-et-al-1968	20911	1 7 1 6 7 4	AXBCYN	KUKWEM	4	4.K.C 4.U.V 4.K.C 4.W.C 4.E.V 4.M.c	2.0 1.5 1.75 1.5 1.3 0.8	kokwem	0	412
+224897	bahinemo	946_BLOOD	mahələ	mahələ	m a h ə l ə		dye-et-al-1968	20700	4 7 3 7 5 7	AXBYBZ	MAHELE	3	3.M.C 3.A.V 3.H.C 3.E.V 3.L.C 3.E.V	2.0 1.5 1.75 1.3 1.75 0.8	mahələ	0	411
+224895	alamblak	946_BLOOD	khukhupam	khukhupam	k h u k h u p a m		dye-et-al-1968	20911	1 3 7 1 3 7 1 7 4	ACXBCYBYN	KHYKHYPAM	2	2.K.C 2.H.C 2.Y.V 2.K.C 2.H.C 2.Y.V 2.P.C 2.A.V 2.M.c	2.0 1.5 1.5 1.75 1.5 1.3 1.75 1.3 0.8	khukhupam	0	410
+224898	saniyo-hiyewe	946_BLOOD	fisa'i	fisa'i	f i s a i		dye-et-al-1968	20787	3 7 3 7 7	AXBYZ	BISAI	5	5.B.C 5.I.V 5.S.C 5.A.V 5.I.V	2.0 1.5 1.75 1.3 0.8	fisai	0	413
+#
+224801	kapriman	948_WATER	sagim	sagim	s a g i m		dye-et-al-1968	20837	3 7 1 7 4	AXBYN	SAKIM	4	4.S.C 4.A.V 4.K.C 4.I.V 4.M.c	2.0 1.5 1.75 1.3 0.8	sagim	0	415
+224802	bahinemo	948_WATER	hagi	hagi	h a g i		dye-et-al-1968	20837	3 7 1 7	AXBZ	HAKI	3	3.H.C 3.A.V 3.K.C 3.I.V	2.0 1.5 1.75 0.8	hagi	0	415
+224800	alamblak	948_WATER	bukbam	bukbam	b u k b a m		dye-et-al-1968	20811	1 7 1 1 7 4	AXMBYN	PYKPAM	2	2.P.C 2.Y.V 2.K.c 2.P.C 2.A.V 2.M.c	2.0 1.5 1.1 1.75 1.3 0.8	bukbam	0	414
+224803	saniyo-hiyewe	948_WATER	sa'i	sa'i	s a i		dye-et-al-1968	20837	3 7 7	AXZ	SAI	5	5.S.C 5.A.V 5.I.V	2.0 1.5 0.8	sai	0	417
+#
+225006	kapriman	960_WIND	wevos	wevos	w e v o s		dye-et-al-1968	20874	6 7 3 7 3	AXBYN	WEBUS	4	4.W.C 4.E.V 4.B.C 4.U.V 4.S.c	2.0 1.5 1.75 1.3 0.8	wevos	0	418
+225007	bahinemo	960_WIND	gafu	gafu	g a f u		dye-et-al-1968	20666	1 7 3 7	AXBZ	KABY	3	3.K.C 3.A.V 3.B.C 3.Y.V	2.0 1.5 1.75 0.8	gafu	0	419
+225005	alamblak	960_WIND	wivoth	wivoth	w i v o t h		dye-et-al-1968	20874	6 7 3 7 1 3	AXBYBC	WIBUTH	2	2.W.C 2.I.V 2.B.C 2.U.V 2.T.C 2.H.C	2.0 1.5 1.75 1.3 1.75 1.5	wivoth	0	418
+225008	saniyo-hiyewe	960_WIND	fiaru	fiaru	f i a r u		dye-et-al-1968	20752	3 7 7 5 7	AXYBZ	BIARY	5	5.B.C 5.I.V 5.A.V 5.R.C 5.Y.V	2.0 1.5 1.3 1.75 0.8	fiaru	0	421
+#
+224705	kapriman	962_WOMAN	toɣwan	toɣwan	t o ɣ w a n		dye-et-al-1968	20908	1 7 3 6 7 4	AXBCYN	TUGWAN	4	4.T.C 4.U.V 4.G.C 4.W.C 4.A.V 4.N.c	2.0 1.5 1.75 1.5 1.3 0.8	toɣwan	0	424
+224706	bahinemo	962_WOMAN	swani	swani	s w a n i		dye-et-al-1968	20908	3 6 7 4 7	ACXBZ	SWANI	3	3.S.C 3.W.C 3.A.V 3.N.C 3.I.V	2.0 1.5 1.5 1.75 0.8	swani	0	423
+224704	alamblak	962_WOMAN	metum	metum	m e t u m		dye-et-al-1968	20935	4 7 1 7 4	AXBYN	METYM	2	2.M.C 2.E.V 2.T.C 2.Y.V 2.M.c	2.0 1.5 1.75 1.3 0.8	metum	0	422
+224707	saniyo-hiyewe	962_WOMAN	tawnɛ	tawnɛ	t a w n ɛ		dye-et-al-1968	20908	1 7 6 4 7	AXMBZ	TAWNE	5	5.T.C 5.A.V 5.W.c 5.N.C 5.E.V	2.0 1.5 1.1 1.75 0.8	tawnɛ	0	425
+#
+224983	bahinemo	977_ARROW	'ɩnaba	'ɩnaba	ɪ n a b a		dye-et-al-1968	20899	7 4 7 1 7	XBYBZ	INAPA	3	3.I.V 3.N.C 3.A.V 3.P.C 3.A.V	1.5 1.75 1.3 1.75 0.8	ɪnaba	0	427
+224982	alamblak	977_ARROW	khʌfaram	khʌfaram	k h ʌ f a r a m		dye-et-al-1968	20690	1 3 7 3 7 5 7 4	ACXBYBYN	KHEBARAM	2	2.K.C 2.H.C 2.E.V 2.B.C 2.A.V 2.R.C 2.A.V 2.M.c	2.0 1.5 1.5 1.75 1.3 1.75 1.3 0.8	khʌfaram	0	426
+224984	saniyo-hiyewe	977_ARROW	ene	ene	e n e		dye-et-al-1968	20899	7 4 7	XBZ	ENE	5	5.E.V 5.N.C 5.E.V	1.5 1.75 0.8	ene	0	427
+#
+224873	kapriman	981_ELBOW	sɛthukhwa	sɛthukhwa	s ɛ t h u k h w a		dye-et-al-1968	20884	3 7 1 3 7 1 3 6 7	AXBCYBCCZ	SETHYKHWA	4	4.S.C 4.E.V 4.T.C 4.H.C 4.Y.V 4.K.C 4.H.C 4.W.C 4.A.V	2.0 1.5 1.75 1.5 1.3 1.75 1.5 1.5 0.8	sɛthukhwa	0	430
+224874	bahinemo	981_ELBOW	hʌl bakhʌsiya	hʌl_bakhʌsiya	h ʌ l + b a k h ʌ s i j a		dye-et-al-1968	20677	3 7 5 9 1 7 1 3 7 3 7 6 7	AXN_AXBCYBYBZ	HEL_PAKHESIJA	3	3.H.C 3.E.V 3.L.c 3._._ 3.P.C 3.A.V 3.K.C 3.H.C 3.E.V 3.S.C 3.I.V 3.J.C 3.A.V	2.0 1.5 0.8 0.0 2.0 1.5 1.75 1.5 1.3 1.75 1.3 1.75 0.8	hʌl+bakhʌsija	0	429
+224872	alamblak	981_ELBOW	tilingʌnʌgar	tilingʌnʌgar	t i l i n g ʌ n ʌ g a r		dye-et-al-1968	20852	1 7 5 7 4 1 7 4 7 1 7 5	AXBYMBYBYBYN	TILINKENEKAR	2	2.T.C 2.I.V 2.L.C 2.I.V 2.N.c 2.K.C 2.E.V 2.N.C 2.E.V 2.K.C 2.A.V 2.R.c	2.0 1.5 1.75 1.3 1.1 1.75 1.3 1.75 1.3 1.75 1.3 0.8	tilingʌnʌgar	0	428
+#
+225094	kapriman	982_LIME_FRUIT	khweym	khweym	k h w e j m		dye-et-al-1968	20772	1 3 6 7 6 4	ACCXLN	KHWEJM	4	4.K.C 4.H.C 4.W.C 4.E.V 4.J.c 4.M.c	2.0 1.5 1.5 1.5 1.1 0.8	khwejm	0	431
+225095	bahinemo	982_LIME_FRUIT	dɔ	dɔ	d ɔ		dye-et-al-1968	20685	1 7	AX	TU	3	3.T.C 3.U.V	2.0 1.5	dɔ	0	432
+225093	alamblak	982_LIME_FRUIT	khum	khum	k h u m		dye-et-al-1968	20772	1 3 7 4	ACXN	KHYM	2	2.K.C 2.H.C 2.Y.V 2.M.c	2.0 1.5 1.5 0.8	khum	0	431
+225096	saniyo-hiyewe	982_LIME_FRUIT	to	to	t o		dye-et-al-1968	20685	1 7	AX	TU	5	5.T.C 5.U.V	2.0 1.5	to	0	432
+# Created using the LexStat class of LingPy-2.6.9
+# Parameters: 2:1_1.00_10000_0.70_global-2-0.50:local-1-0.50_0.30__T_shuffle_False:upgma:-2_0.7_0.00_-5.00
+# Cluster: lexstat_upgma_0.60

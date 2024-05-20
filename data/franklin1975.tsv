@@ -1,0 +1,928 @@
+# Wordlist
+
+# DATA
+ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	SOURCE	COGID
+80257	wiru	867_backofhand	mukiti	mukiti	m u k i t i		franklin1975	1
+80267	wiru	1251_BELLY	tepe	tepe	t e p e		franklin1975	5933
+80276	wiru	1394_BONE	tono	tono	t o n o		franklin1975	2
+80286	wiru	1402_BREAST	adu	adu	a d u		franklin1975	5935
+80296	wiru	1510_CHIN	pakunu	pakunu	p a k u n u	chin	franklin1975	3
+80305	wiru	1247_EAR	kabidi	kabidi	k a b i d i		franklin1975	4
+80314	wiru	1248_EYE	lene	lene	l e n e		franklin1975	5938
+80324	wiru	2098_FOOT_OR_LEG	kawà	kawà	k a w à/a	leg, foot	franklin1975	5
+80334	wiru	123_FOREHEAD	pono	pono	p o n o	forehead	franklin1975	5940
+80344	wiru	189_HAIR_BODY	píne	píne	p í/i n e		franklin1975	6
+80354	wiru	2121_ARM_OR_HAND	yono	yono	j o n o	hand	franklin1975	7
+80364	wiru	1371_KNEE	wadini	wadini	w a d i n i		franklin1975	8
+80373	wiru	1224_LIVER	kolotíni	kolotíni	k o l o t í/i n i		franklin1975	9
+80382	wiru	1405_NAME	ibíni	ibíni	i b í/i n i		franklin1975	14135
+80391	wiru	1333_NECK	kabè	kabè	k a b è/e		franklin1975	10
+80401	wiru	670_ROOT	teke	teke	t e k e		franklin1975	11
+80410	wiru	1482_SHOULDER	wagène	wagène	w a g è/e n e		franklin1975	12
+80420	wiru	1205_TONGUE	keké	keké	k e k é/e		franklin1975	5949
+80430	wiru	1366_BOY	ali mati	ali_mati	a l i + m a t i		franklin1975	13
+80439	wiru	1262_BROTHER	wamene	wamene	w a m e n e		franklin1975	5951
+80461	wiru	1554_MAN	ali	ali	a l i		franklin1975	5954
+80478	wiru	1216_MOTHER	one kąųà	one_kąųà	o n e + k ą/a ų/u à/a	his	franklin1975	14
+80486	wiru	1640_SIBLING	anaí	anaí	a n a í/i		franklin1975	15
+80494	wiru	962_WOMAN	atòa	atòa	a t ò/o a		franklin1975	16
+80504	wiru	1209_I	no	no	n o		franklin1975	5958
+80515	wiru	262_HE_OR_SHE_OR_IT	onè	onè	o n è/e		franklin1975	17
+80525	wiru	78_THAT	eni	eni	e n i		franklin1975	18
+80535	wiru	817_THEY	kini	kini	k i n i		franklin1975	19
+80546	wiru	817_THEY	kità	kità	k i t à/a		franklin1975	20
+80557	wiru	1214_THIS	ì	ì	ì/i		franklin1975	21
+80567	wiru	1215_THOU	nè	nè	n è/e		franklin1975	5964
+80576	wiru	1212_WE	toto	toto	t o t o		franklin1975	22
+80587	wiru	2634_WE_TWO	totà	totà	t o t à/a		franklin1975	23
+80597	wiru	1236_WHAT	edele	edele	e d e l e		franklin1975	5967
+80607	wiru	1238_WHEN	manipeté	manipeté	m a n i p e t é/e		franklin1975	24
+80617	wiru	1235_WHO	teyó	teyó	t e j ó/o		franklin1975	25
+80627	wiru	2312_YOU_OBLIQUE_CASE_OF_YOU	kíwi	kíwi	k í/i w i		franklin1975	26
+80637	wiru	2091_YOUR	kità	kità	k i t à/a		franklin1975	27
+80648	wiru	492_THREE	temboto	temboto	t e m b o t o		franklin1975	5972
+80658	wiru	1498_TWO	ta kutà	ta_kutà	t a + k u t à/a		franklin1975	28
+80668	wiru	1252_HOUSE	yapù	yapù	j a p ù/u		franklin1975	29
+80678	wiru	293_NETBAG	kà	kà	k à/a		franklin1975	30
+80688	wiru	1337_PIG	kaì	kaì	k a ì/i		franklin1975	31
+80706	wiru	646_ASH	kùku	kùku	k ù/u k u		franklin1975	32
+80716	wiru	1228_EARTH_SOIL	itonó	itonó	i t o n ó/o		franklin1975	33
+80724	wiru	1313_MOON	tokene	tokene	t o k e n e		franklin1975	5980
+80732	wiru	639_MOUNTAIN	tóno	tóno	t ó/o n o		franklin1975	34
+80743	wiru	671_SAND	kibi	kibi	k i b i		franklin1975	35
+80751	wiru	857_STONE	kué	kué	k u é/e		franklin1975	36
+80762	wiru	1343_SUN	loú	loú	l o ú/u		franklin1975	37
+80772	wiru	948_WATER	uè	uè	u è/e		franklin1975	38
+80788	wiru	1174_YESTERDAY	abela	abela	a b e l a		franklin1975	5987
+80798	wiru	868_BANANA	kaká	kaká	k a k á/a		franklin1975	39
+80808	wiru	634_MEAT	melépu	melépu	m e l é/e p u		franklin1975	40
+80821	wiru	146_SUGAR_CANE	tai	tai	t a i		franklin1975	41
+80831	wiru	159_SWEET_POTATO	modó	modó	m o d ó/o		franklin1975	42
+80842	wiru	351_TARO	mᶖ	mᶖ	m ᶖ/i		franklin1975	5993
+80850	wiru	906_TREE	yomò	yomò	j o m ò/o		franklin1975	43
+80860	wiru	937_BIRD	inì	inì	i n ì/i		franklin1975	44
+80867	wiru	235_FLYING_FOX	kaima	kaima	k a i m a		franklin1975	5996
+80875	wiru	1392_LOUSE	nomò	nomò	n o m ò/o		franklin1975	5997
+80885	wiru	1336_EAT	nakò	nakò	n a k ò/o		franklin1975	5998
+80895	wiru	702_CATCH	motòko	motòko	m o t ò/o k o		franklin1975	45
+80905	wiru	1448_HOLD	motòko	motòko	m o t ò/o k o		franklin1975	46
+80915	wiru	1446_COME	nokò	nokò	n o k ò/o		franklin1975	47
+80923	wiru	2101_BE_DEAD_OR_DIE	túko	túko	t ú/u k o		franklin1975	48
+80938	wiru	1447_GIVE	meteko	meteko	m e t e k o	to first person	franklin1975	49
+80948	wiru	1408_HEAR	yatekò	yatekò	j a t e k ò/o		franklin1975	50
+80956	wiru	1433_HIT	witiko	witiko	w i t i k o		franklin1975	51
+80964	wiru	215_LIE_DOWN	pitíko	pitíko	p i t í/i k o		franklin1975	6007
+80974	wiru	2708_TALK	wa oko	wa_oko	w a + o k o		franklin1975	52
+80984	wiru	1409_SEE	eneko	eneko	e n e k o		franklin1975	6009
+80994	wiru	1416_SIT	mekó	mekó	m e k ó/o		franklin1975	53
+81004	wiru	1442_STAND	kakò	kakò	k a k ò/o		franklin1975	54
+81014	wiru	695_GO	yakó	yakó	j a k ó/o		franklin1975	55
+81022	wiru	1292_BAD	póko	póko	p ó/o k o		franklin1975	6013
+81032	wiru	1202_BIG	tubeà	tubeà	t u b e à/a		franklin1975	56
+81040	wiru	706_DARK	lieneá	lieneá	l i e n e á/a	colored	franklin1975	57
+81050	wiru	879_COUGH	totona óko	totona_óko	t o t o n a + ó/o k o		franklin1975	58
+81060	wiru	1786_DRY_UP	kaù toko	kaù_toko	k a ù/u + t o k o		franklin1975	59
+81070	wiru	1035_GOOD	epe tèko	epe_tèko	e p e + t è/e k o		franklin1975	6018
+81080	wiru	1355_LAUGH	yáu toko	yáu_toko	j á/a u + t o k o		franklin1975	60
+81088	wiru	1231_NEW	péne	péne	p é/e n e		franklin1975	6020
+81097	wiru	1240_NOT	mená	mená	m e n á/a		franklin1975	61
+81107	wiru	1210_HEAVY	kedá toko	kedá_toko	k e d á/a + t o k o		franklin1975	6022
+81140	wiru	1335_WHITE	áke tanea	áke_tanea	á/a k e + t a n e a		franklin1975	6026
+81150	wiru	1424_YELLOW	kakai pagènea	kakai_pagènea	k a k a i + p a g è/e n e a		franklin1975	62
+81160	wiru	1519_RUN	teia pea pokò	teia_pea_pokò	t e i a + p e a + p o k ò/o	run away	franklin1975	63
+80253	samberigi	867_backofhand	hoki	hoki	h o k i		franklin1975	64
+80263	samberigi	1251_BELLY	palo	palo	p a l o		franklin1975	65
+80272	samberigi	1394_BONE	holiki	holiki	h o l i k i		franklin1975	5934
+80282	samberigi	1402_BREAST	andu	andu	a n d u		franklin1975	5935
+80292	samberigi	1510_CHIN	yankake	yankake	j a n k a k e	chin	franklin1975	5936
+80302	samberigi	1247_EAR	kerake	kerake	k e r a k e		franklin1975	5937
+80310	samberigi	1248_EYE	leke	leke	l e k e		franklin1975	5938
+80320	samberigi	2098_FOOT_OR_LEG	anke	anke	a n k e	leg, foot	franklin1975	5939
+80330	samberigi	123_FOREHEAD	wenoko	wenoko	w e n o k o	forehead	franklin1975	5940
+80340	samberigi	189_HAIR_BODY	iti(ki)	iti	i t i		franklin1975	5941
+80350	samberigi	2121_ARM_OR_HAND	kiki	kiki	k i k i	hand	franklin1975	5942
+80360	samberigi	1371_KNEE	tumiki	tumiki	t u m i k i		franklin1975	5943
+80369	samberigi	1224_LIVER	puki	puki	p u k i		franklin1975	5944
+80378	samberigi	1405_NAME	biki	biki	b i k i		franklin1975	14135
+80388	samberigi	1333_NECK	make	make	m a k e		franklin1975	5946
+80397	samberigi	670_ROOT	piki	piki	p i k i		franklin1975	5947
+80407	samberigi	1482_SHOULDER	peyoko	peyoko	p e j o k o		franklin1975	5948
+80416	samberigi	1205_TONGUE	kekeke	kekeke	k e k e k e		franklin1975	5949
+80426	samberigi	1366_BOY	weke	weke	w e k e		franklin1975	66
+80435	samberigi	1262_BROTHER	hameme	hameme	h a m e m e		franklin1975	5951
+80443	samberigi	3162_CROSS-COUSIN	kąᶖ	kąᶖ	k ą/a ᶖ/i		franklin1975	5952
+80457	samberigi	1554_MAN	hali	hali	h a l i		franklin1975	5954
+80474	samberigi	1216_MOTHER	inkiki	inkiki	i n k i k i	his	franklin1975	13763
+80482	samberigi	1640_SIBLING	beliki	beliki	b e l i k i		franklin1975	5956
+80500	samberigi	1209_I	ᶖ	ᶖ	ᶖ/i		franklin1975	5958
+80511	samberigi	262_HE_OR_SHE_OR_IT	ipiki	ipiki	i p i k i		franklin1975	5959
+80522	samberigi	78_THAT	mo	mo	m o		franklin1975	5960
+80531	samberigi	817_THEY	iki	iki	i k i		franklin1975	5961
+80542	samberigi	817_THEY	ipiliki	ipiliki	i p i l i k i		franklin1975	5962
+80553	samberigi	1214_THIS	do	do	d o		franklin1975	5963
+80563	samberigi	1215_THOU	neke	neke	n e k e		franklin1975	5964
+80574	samberigi	1212_WE	niki	niki	n i k i		franklin1975	5965
+80583	samberigi	2634_WE_TWO	diki	diki	d i k i		franklin1975	5966
+80593	samberigi	1236_WHAT	aleke	aleke	a l e k e		franklin1975	5967
+80603	samberigi	1238_WHEN	handimæ	handimæ	h a n d i m æ		franklin1975	67
+80613	samberigi	1235_WHO	epi	epi	e p i		franklin1975	5969
+80623	samberigi	2312_YOU_OBLIQUE_CASE_OF_YOU	iki	iki	i k i		franklin1975	5970
+80633	samberigi	2091_YOUR	ipiliki	ipiliki	i p i l i k i		franklin1975	5971
+80644	samberigi	492_THREE	tepo	tepo	t e p o		franklin1975	5972
+80654	samberigi	1498_TWO	yæpo	yæpo	j æ p o		franklin1975	5973
+80664	samberigi	1252_HOUSE	nda	nda	n d a		franklin1975	5974
+80674	samberigi	293_NETBAG	nu	nu	n u		franklin1975	5975
+80685	samberigi	1337_PIG	mænæ	mænæ	m æ n æ		franklin1975	68
+80694	samberigi	1274_SALT	epi	epi	e p i		franklin1975	5977
+80702	samberigi	646_ASH	lankæ	lankæ	l a n k æ		franklin1975	5978
+80712	samberigi	1228_EARTH_SOIL	yu	yu	j u		franklin1975	5979
+80720	samberigi	1313_MOON	eke	eke	e k e		franklin1975	5980
+80728	samberigi	639_MOUNTAIN	pote	pote	p o t e		franklin1975	69
+80738	samberigi	671_SAND	hou	hou	h o u		franklin1975	70
+80747	samberigi	857_STONE	topi	topi	t o p i		franklin1975	71
+80757	samberigi	1343_SUN	nate	nate	n a t e		franklin1975	5984
+80768	samberigi	948_WATER	ikali	ikali	i k a l i		franklin1975	72
+80778	samberigi	762_OUTSIDE	hamæ	hamæ	h a m æ		franklin1975	5986
+80785	samberigi	1174_YESTERDAY	ambaneke	ambaneke	a m b a n e k e		franklin1975	5987
+80794	samberigi	868_BANANA	dæ̨̨̨ᶖ	dæ̨̨̨ᶖ	d æ ᶖ/i		franklin1975	5988
+80804	samberigi	634_MEAT	mænæ	mænæ	m æ n æ		franklin1975	73
+80814	samberigi	2500_pandanusedible	ankæ	ankæ	a n k æ		franklin1975	5990
+80817	samberigi	146_SUGAR_CANE	weli	weli	w e l i		franklin1975	5991
+80827	samberigi	159_SWEET_POTATO	tia	tia	t i a		franklin1975	74
+80837	samberigi	351_TARO	mæ	mæ	m æ		franklin1975	5993
+80846	samberigi	906_TREE	ti	ti	t i		franklin1975	5994
+80856	samberigi	937_BIRD	ba	ba	b a		franklin1975	75
+80864	samberigi	235_FLYING_FOX	ætæna	ætæna	æ t æ n a		franklin1975	76
+80871	samberigi	1392_LOUSE	læmæ	læmæ	l æ m æ		franklin1975	5997
+80881	samberigi	1336_EAT	na	na	n a		franklin1975	5998
+80891	samberigi	702_CATCH	minæ	minæ	m i n æ		franklin1975	5999
+80901	samberigi	1448_HOLD	minæ	minæ	m i n æ		franklin1975	6000
+80911	samberigi	1446_COME	ipu	ipu	i p u		franklin1975	6001
+80919	samberigi	2101_BE_DEAD_OR_DIE	homæ	homæ	h o m æ		franklin1975	6002
+80927	samberigi	813_DO	pæ	pæ	p æ		franklin1975	6003
+80934	samberigi	1447_GIVE	kitæ	kitæ	k i t æ	to first person	franklin1975	6004
+80944	samberigi	1408_HEAR	opuæ	opuæ	o p u æ		franklin1975	6005
+80952	samberigi	1433_HIT	litæ	litæ	l i t æ		franklin1975	6006
+80960	samberigi	215_LIE_DOWN	peliæ	peliæ	p e l i æ		franklin1975	6007
+80970	samberigi	2708_TALK	alæ	alæ	a l æ		franklin1975	6008
+80980	samberigi	1409_SEE	handæ	handæ	h a n d æ		franklin1975	6009
+80990	samberigi	1416_SIT	pilæ	pilæ	p i l æ		franklin1975	6010
+81000	samberigi	1442_STAND	tiæsæ	tiæsæ	t i æ s æ		franklin1975	6011
+81010	samberigi	695_GO	pu	pu	p u		franklin1975	6012
+81018	samberigi	1292_BAD	hoke	hoke	h o k e		franklin1975	6013
+81028	samberigi	1202_BIG	tieke	tieke	t i e k e		franklin1975	77
+81036	samberigi	706_DARK	punu pæ	punu_pæ	p u n u + p æ	colored	franklin1975	78
+81044	samberigi	879_COUGH	hoto alæ	hoto_alæ	h o t o + a l æ		franklin1975	6016
+81056	samberigi	1786_DRY_UP	hapu lae	hapu_lae	h a p u + l a e		franklin1975	6017
+81066	samberigi	1035_GOOD	epeke	epeke	e p e k e		franklin1975	6018
+81076	samberigi	1355_LAUGH	ki talæ	ki_talæ	k i + t a l æ		franklin1975	6019
+81084	samberigi	1231_NEW	panake	panake	p a n a k e		franklin1975	6020
+81094	samberigi	1240_NOT	diæ	diæ	d i æ		franklin1975	6021
+81103	samberigi	1210_HEAVY	kændæ	kændæ	k æ n d æ		franklin1975	6022
+81113	samberigi	2103_PAINFUL_OR_SICK	tanda	tanda	t a n d a	pain	franklin1975	6023
+81121	samberigi	51_SORE	tete	tete	t e t e		franklin1975	6024
+81129	samberigi	1587_SMELL_STINK	punku mi	punku_mi	p u n k u + m i		franklin1975	6025
+81136	samberigi	1335_WHITE	hake pæ	hake_pæ	h a k e + p æ		franklin1975	6026
+81146	samberigi	1424_YELLOW	hami pae	hami_pae	h a m i + p a e		franklin1975	79
+81156	samberigi	1519_RUN	aí pulæ	aí_pulæ	a í/i + p u l æ	run away	franklin1975	6028
+81164	samberigi	1440_SPIT	dopi tæ	dopi_tæ	d o p i + t æ		franklin1975	6029
+80258	fasu	867_backofhand	mati	mati	m a t i		franklin1975	5932
+80277	fasu	1394_BONE	kiki	kiki	k i k i		franklin1975	5934
+80287	fasu	1402_BREAST	hoko	hoko	h o k o		franklin1975	80
+80297	fasu	1510_CHIN	akae	akae	a k a e	chin	franklin1975	5936
+80306	fasu	1247_EAR	senaki	senaki	s e n a k i		franklin1975	81
+80315	fasu	1248_EYE	hi	hi	h i		franklin1975	5938
+80325	fasu	2098_FOOT_OR_LEG	korake	korake	k o r a k e	leg, foot	franklin1975	5939
+80335	fasu	123_FOREHEAD	wamu	wamu	w a m u	forehead	franklin1975	5940
+80345	fasu	189_HAIR_BODY	iti	iti	i t i		franklin1975	5941
+80355	fasu	2121_ARM_OR_HAND	hokono	hokono	h o k o n o	hand	franklin1975	82
+80374	fasu	1224_LIVER	kosoko	kosoko	k o s o k o		franklin1975	83
+80383	fasu	1405_NAME	yano	yano	j a n o		franklin1975	84
+80392	fasu	1333_NECK	mawi	mawi	m a w i		franklin1975	5946
+80402	fasu	670_ROOT	pikinu	pikinu	p i k i n u		franklin1975	5947
+80411	fasu	1482_SHOULDER	kinu	kinu	k i n u		franklin1975	85
+80421	fasu	1205_TONGUE	alu	alu	a l u		franklin1975	86
+80462	fasu	1554_MAN	aporo	aporo	a p o r o		franklin1975	87
+80479	fasu	1216_MOTHER	ama	ama	a m a	his	franklin1975	88
+80487	fasu	1640_SIBLING	apu	apu	a p u		franklin1975	89
+80495	fasu	962_WOMAN	hinamo	hinamo	h i n a m o		franklin1975	5957
+80505	fasu	1209_I	ano	ano	a n o		franklin1975	5958
+80506	fasu	1209_I	nomo	nomo	n o m o		franklin1975	5958
+80516	fasu	262_HE_OR_SHE_OR_IT	epo	epo	e p o		franklin1975	5959
+80517	fasu	262_HE_OR_SHE_OR_IT	ipi	ipi	i p i		franklin1975	5959
+80526	fasu	78_THAT	ane	ane	a n e		franklin1975	90
+80536	fasu	817_THEY	yi	yi	j i		franklin1975	91
+80537	fasu	817_THEY	ipu	ipu	i p u		franklin1975	92
+80547	fasu	817_THEY	tati	tati	t a t i		franklin1975	5962
+80548	fasu	817_THEY	tetapo	tetapo	t e t a p o		franklin1975	5962
+80558	fasu	1214_THIS	one	one	o n e		franklin1975	5963
+80568	fasu	1215_THOU	ne	ne	n e		franklin1975	5964
+80569	fasu	1215_THOU	nomo	nomo	n o m o		franklin1975	5964
+80577	fasu	1212_WE	isina	isina	i s i n a		franklin1975	93
+80578	fasu	1212_WE	isu	isu	i s u		franklin1975	94
+80588	fasu	2634_WE_TWO	iti	iti	i t i		franklin1975	95
+80589	fasu	2634_WE_TWO	eto	eto	e t o		franklin1975	96
+80598	fasu	1236_WHAT	yakapa	yakapa	j a k a p a		franklin1975	97
+80608	fasu	1238_WHEN	masinaka	masinaka	m a s i n a k a		franklin1975	98
+80618	fasu	1235_WHO	epa	epa	e p a		franklin1975	5969
+80628	fasu	2312_YOU_OBLIQUE_CASE_OF_YOU	nanima	nanima	n a n i m a		franklin1975	5970
+80638	fasu	2091_YOUR	titi	titi	t i t i		franklin1975	5971
+80639	fasu	2091_YOUR	teto	teto	t e t o		franklin1975	5971
+80649	fasu	492_THREE	isia	isia	i s i a		franklin1975	99
+80659	fasu	1498_TWO	teta	teta	t e t a		franklin1975	5973
+80669	fasu	1252_HOUSE	ape	ape	a p e		franklin1975	5974
+80679	fasu	293_NETBAG	aku	aku	a k u		franklin1975	100
+80689	fasu	1337_PIG	saro	saro	s a r o		franklin1975	101
+80707	fasu	646_ASH	katema	katema	k a t e m a		franklin1975	102
+80717	fasu	1228_EARTH_SOIL	hauwaka	hauwaka	h a u w a k a		franklin1975	103
+80725	fasu	1313_MOON	heke	heke	h e k e		franklin1975	5980
+80733	fasu	639_MOUNTAIN	uli	uli	u l i		franklin1975	5981
+80744	fasu	671_SAND	tekima	tekima	t e k i m a		franklin1975	104
+80752	fasu	857_STONE	eke	eke	e k e		franklin1975	5983
+80763	fasu	1343_SUN	maiya	maiya	m a i j a		franklin1975	105
+80773	fasu	948_WATER	hę	hę	h ę/e		franklin1975	106
+80789	fasu	1174_YESTERDAY	lao	lao	l a o		franklin1975	107
+80799	fasu	868_BANANA	kaputa	kaputa	k a p u t a		franklin1975	108
+80809	fasu	634_MEAT	maiya	maiya	m a i j a		franklin1975	109
+80822	fasu	146_SUGAR_CANE	sąǫ	sąǫ	s ą/a ǫ/o		franklin1975	110
+80832	fasu	159_SWEET_POTATO	supuru	supuru	s u p u r u		franklin1975	111
+80843	fasu	351_TARO	me	me	m e		franklin1975	5993
+80851	fasu	906_TREE	ira	ira	i r a		franklin1975	5994
+80861	fasu	937_BIRD	mena	mena	m e n a		franklin1975	112
+80868	fasu	235_FLYING_FOX	kaema	kaema	k a e m a		franklin1975	5996
+80876	fasu	1392_LOUSE	yapani	yapani	j a p a n i		franklin1975	113
+80886	fasu	1336_EAT	anene	anene	a n e n e		franklin1975	5998
+80896	fasu	702_CATCH	maka are	maka_are	m a k a + a r e		franklin1975	114
+80906	fasu	1448_HOLD	maka are	maka_are	m a k a + a r e		franklin1975	115
+80916	fasu	1446_COME	apere	apere	a p e r e		franklin1975	6001
+80924	fasu	2101_BE_DEAD_OR_DIE	akure	akure	a k u r e		franklin1975	116
+80939	fasu	1447_GIVE	akare	akare	a k a r e	to first person	franklin1975	117
+80949	fasu	1408_HEAR	kairaka	kairaka	k a i r a k a		franklin1975	118
+80957	fasu	1433_HIT	alure	alure	a l u r e		franklin1975	119
+80965	fasu	215_LIE_DOWN	aware	aware	a w a r e		franklin1975	120
+80975	fasu	2708_TALK	someraka	someraka	s o m e r a k a		franklin1975	121
+80985	fasu	1409_SEE	asere	asere	a s e r e		franklin1975	122
+80995	fasu	1416_SIT	akaiye	akaiye	a k a i j e		franklin1975	6010
+81005	fasu	1442_STAND	ale	ale	a l e		franklin1975	123
+81015	fasu	695_GO	korakare	korakare	k o r a k a r e		franklin1975	124
+81023	fasu	1292_BAD	watikisa	watikisa	w a t i k i s a		franklin1975	125
+81033	fasu	1202_BIG	kara	kara	k a r a		franklin1975	6014
+81041	fasu	706_DARK	pikirisa	pikirisa	p i k i r i s a	colored	franklin1975	126
+81051	fasu	879_COUGH	yiyoko ane	yiyoko_ane	j i j o k o + a n e		franklin1975	127
+81061	fasu	1786_DRY_UP	parosa	parosa	p a r o s a		franklin1975	128
+81071	fasu	1035_GOOD	kotesa	kotesa	k o t e s a		franklin1975	129
+81081	fasu	1355_LAUGH	takuane	takuane	t a k u a n e		franklin1975	130
+81089	fasu	1231_NEW	kawe	kawe	k a w e		franklin1975	131
+81098	fasu	1240_NOT	wai	wai	w a i		franklin1975	132
+81108	fasu	1210_HEAVY	umisa	umisa	u m i s a		franklin1975	133
+81141	fasu	1335_WHITE	pakaesa	pakaesa	p a k a e s a		franklin1975	6026
+81151	fasu	1424_YELLOW	kiamesa	kiamesa	k i a m e s a		franklin1975	134
+81161	fasu	1519_RUN	foaka apure	foaka_apure	f o a k a + a p u r e	run away	franklin1975	135
+80255	huli	867_backofhand	erebira	erebira	e r e b i r a		franklin1975	136
+80265	huli	1251_BELLY	tombe	tombe	t o m b e		franklin1975	5933
+80274	huli	1394_BONE	kuni	kuni	k u n i		franklin1975	5934
+80284	huli	1402_BREAST	adu	adu	a d u		franklin1975	5935
+80294	huli	1510_CHIN	yanga	yanga	j a n g a	chin	franklin1975	5936
+80312	huli	1248_EYE	re	re	r e		franklin1975	5938
+80322	huli	2098_FOOT_OR_LEG	ge	ge	g e	leg, foot	franklin1975	5939
+80332	huli	123_FOREHEAD	wane kui	wane_kui	w a n e + k u i	forehead	franklin1975	5940
+80342	huli	189_HAIR_BODY	iri	iri	i r i		franklin1975	5941
+80352	huli	2121_ARM_OR_HAND	ki	ki	k i	hand	franklin1975	5942
+80362	huli	1371_KNEE	ge	ge	g e		franklin1975	137
+80371	huli	1224_LIVER	puní	puní	p u n í/i		franklin1975	5944
+80380	huli	1405_NAME	mini	mini	m i n i		franklin1975	14135
+80399	huli	670_ROOT	pini	pini	p i n i		franklin1975	5947
+80418	huli	1205_TONGUE	hege	hege	h e g e		franklin1975	5949
+80428	huli	1366_BOY	igiri	igiri	i g i r i		franklin1975	138
+80437	huli	1262_BROTHER	hameme	hameme	h a m e m e		franklin1975	5951
+80445	huli	3162_CROSS-COUSIN	hani(ni)	hani	h a n i		franklin1975	5952
+80452	huli	1217_FATHER	aba	aba	a b a		franklin1975	5953
+80459	huli	1554_MAN	agali	agali	a g a l i		franklin1975	5954
+80468	huli	1216_MOTHER	ąya	ąya	ą/a j a	my	franklin1975	139
+80476	huli	1216_MOTHER	ᶖdya	ᶖdya	ᶖ/i d j a	his	franklin1975	140
+80484	huli	1640_SIBLING	mbalini	mbalini	m b a l i n i		franklin1975	5956
+80492	huli	962_WOMAN	wali	wali	w a l i		franklin1975	5957
+80502	huli	1209_I	ᶖ	ᶖ	ᶖ/i		franklin1975	5958
+80513	huli	262_HE_OR_SHE_OR_IT	ibu	ibu	i b u		franklin1975	5959
+80533	huli	817_THEY	ti	ti	t i		franklin1975	5961
+80544	huli	817_THEY	libu	libu	l i b u		franklin1975	5962
+80555	huli	1214_THIS	o	o	o		franklin1975	5963
+80565	huli	1215_THOU	ɭ̀̀	ɭ̀̀	ɭ		franklin1975	5964
+80585	huli	2634_WE_TWO	iya	iya	i j a		franklin1975	5966
+80595	huli	1236_WHAT	agi	agi	a g i		franklin1975	5967
+80605	huli	1238_WHEN	angi	angi	a n g i		franklin1975	141
+80615	huli	1235_WHO	ai	ai	a i		franklin1975	5969
+80625	huli	2312_YOU_OBLIQUE_CASE_OF_YOU	ti	ti	t i		franklin1975	5970
+80635	huli	2091_YOUR	libu	libu	l i b u		franklin1975	5971
+80646	huli	492_THREE	tebira	tebira	t e b i r a		franklin1975	5972
+80656	huli	1498_TWO	kira	kira	k i r a		franklin1975	142
+80666	huli	1252_HOUSE	anda	anda	a n d a		franklin1975	5974
+80676	huli	293_NETBAG	nu	nu	n u		franklin1975	5975
+80686	huli	1337_PIG	nogo	nogo	n o g o		franklin1975	143
+80696	huli	1274_SALT	ibi	ibi	i b i		franklin1975	5977
+80704	huli	646_ASH	danga	danga	d a n g a		franklin1975	5978
+80714	huli	1228_EARTH_SOIL	dindi	dindi	d i n d i		franklin1975	144
+80722	huli	1313_MOON	ege	ege	e g e		franklin1975	5980
+80730	huli	639_MOUNTAIN	hari	hari	h a r i		franklin1975	5981
+80741	huli	671_SAND	iba mų	iba_mų	i b a + m ų/u		franklin1975	5982
+80749	huli	857_STONE	tǫle	tǫle	t ǫ/o l e		franklin1975	145
+80759	huli	1343_SUN	ni	ni	n i		franklin1975	5984
+80770	huli	948_WATER	iba	iba	i b a		franklin1975	5985
+80787	huli	1174_YESTERDAY	abe	abe	a b e		franklin1975	5987
+80796	huli	868_BANANA	hai	hai	h a i		franklin1975	5988
+80806	huli	634_MEAT	mbirini	mbirini	m b i r i n i		franklin1975	5989
+80819	huli	146_SUGAR_CANE	tu	tu	t u		franklin1975	146
+80829	huli	159_SWEET_POTATO	hina	hina	h i n a		franklin1975	147
+80839	huli	351_TARO	ma	ma	m a		franklin1975	5993
+80848	huli	906_TREE	ira	ira	i r a		franklin1975	5994
+80858	huli	937_BIRD	ega	ega	e g a		franklin1975	5995
+80866	huli	235_FLYING_FOX	gamia	gamia	g a m i a		franklin1975	5996
+80873	huli	1392_LOUSE	emo	emo	e m o		franklin1975	5997
+80883	huli	1336_EAT	ná	ná	n á/a		franklin1975	5998
+80893	huli	702_CATCH	yu bia	yu_bia	j u + b i a		franklin1975	5999
+80903	huli	1448_HOLD	yu bia	yu_bia	j u + b i a		franklin1975	6000
+80913	huli	1446_COME	ibu	ibu	i b u		franklin1975	6001
+80921	huli	2101_BE_DEAD_OR_DIE	homa	homa	h o m a		franklin1975	6002
+80929	huli	813_DO	bia	bia	b i a		franklin1975	6003
+80936	huli	1447_GIVE	ngí	ngí	n g í/i	to first person	franklin1975	6004
+80946	huli	1408_HEAR	hale ha	hale_ha	h a l e + h a		franklin1975	148
+80954	huli	1433_HIT	ba	ba	b a		franklin1975	6006
+80962	huli	215_LIE_DOWN	pàlia	pàlia	p à/a l i a		franklin1975	6007
+80972	huli	2708_TALK	la	la	l a		franklin1975	6008
+80982	huli	1409_SEE	hàndá	hàndá	h à/a n d á/a		franklin1975	6009
+80992	huli	1416_SIT	birá	birá	b i r á/a		franklin1975	6010
+81002	huli	1442_STAND	heya	heya	h e j a		franklin1975	149
+81012	huli	695_GO	pú	pú	p ú/u		franklin1975	6012
+81020	huli	1292_BAD	ko	ko	k o		franklin1975	6013
+81030	huli	1202_BIG	timbu(ni)	timbu	t i m b u		franklin1975	150
+81038	huli	706_DARK	mindi bi	mindi_bi	m i n d i + b i	colored	franklin1975	151
+81048	huli	879_COUGH	ko al	ko_al	k o + a l		franklin1975	6016
+81058	huli	1786_DRY_UP	yo bira	yo_bira	j o + b i r a		franklin1975	152
+81068	huli	1035_GOOD	bayale	bayale	b a j a l e		franklin1975	153
+81078	huli	1355_LAUGH	oba timbuni ha	oba_timbuni_ha	o b a + t i m b u n i + h a		franklin1975	154
+81086	huli	1231_NEW	gahange	gahange	g a h a n g e		franklin1975	6020
+81105	huli	1210_HEAVY	gendabi	gendabi	g e n d a b i		franklin1975	6022
+81115	huli	2103_PAINFUL_OR_SICK	tandaga	tandaga	t a n d a g a	pain	franklin1975	6023
+81123	huli	51_SORE	dere	dere	d e r e		franklin1975	6024
+81131	huli	1587_SMELL_STINK	ngu ha	ngu_ha	n g u + h a		franklin1975	6025
+81138	huli	1335_WHITE	pagabua	pagabua	p a g a b u a		franklin1975	6026
+81148	huli	1424_YELLOW	ambuabi	ambuabi	a m b u a b i		franklin1975	6027
+81158	huli	1519_RUN	ge raila	ge_raila	g e + r a i l a	run away	franklin1975	155
+81166	huli	1440_SPIT	hamiaga	hamiaga	h a m i a g a		franklin1975	156
+81171	huli	1278_VOMIT	magu tagu wia	magu_tagu_wia	m a g u + t a g u + w i a		franklin1975	6030
+80254	enga	867_backofhand	máitá	máitá	m á/a i t á/a		franklin1975	5932
+80264	enga	1251_BELLY	tóbá	tóbá	t ó/o b á/a		franklin1975	5933
+80273	enga	1394_BONE	korí	korí	k o r í/i		franklin1975	5934
+80283	enga	1402_BREAST	ádu	ádu	á/a d u		franklin1975	5935
+80293	enga	1510_CHIN	agapú	agapú	a g a p ú/u	chin	franklin1975	5936
+80303	enga	1247_EAR	karé	karé	k a r é/e		franklin1975	5937
+80311	enga	1248_EYE	rége	rége	r é/e g e		franklin1975	5938
+80321	enga	2098_FOOT_OR_LEG	kápé	kápé	k á/a p é/e	leg, foot	franklin1975	5939
+80331	enga	123_FOREHEAD	ragárú	ragárú	r a g á/a r ú/u	forehead	franklin1975	157
+80341	enga	189_HAIR_BODY	ítí	ítí	í/i t í/i		franklin1975	5941
+80351	enga	2121_ARM_OR_HAND	kigi	kigi	k i g i	hand	franklin1975	5942
+80361	enga	1371_KNEE	rúma	rúma	r ú/u m a		franklin1975	5943
+80370	enga	1224_LIVER	pugi	pugi	p u g i		franklin1975	5944
+80379	enga	1405_NAME	kége	kége	k é/e g e		franklin1975	158
+80389	enga	1333_NECK	magé	magé	m a g é/e		franklin1975	5946
+80398	enga	670_ROOT	pigi	pigi	p i g i		franklin1975	5947
+80408	enga	1482_SHOULDER	rake	rake	r a k e		franklin1975	159
+80417	enga	1205_TONGUE	kekenge	kekenge	k e k e n g e		franklin1975	5949
+80427	enga	1366_BOY	wané	wané	w a n é/e		franklin1975	160
+80436	enga	1262_BROTHER	yagóge	yagóge	j a g ó/o g e		franklin1975	161
+80444	enga	3162_CROSS-COUSIN	kaiigí	kaiigí	k a iː g í/i		franklin1975	5952
+80451	enga	1217_FATHER	apáné	apáné	a p á/a n é/e		franklin1975	5953
+80458	enga	1554_MAN	akári	akári	a k á/a r i		franklin1975	5954
+80467	enga	1216_MOTHER	mamea	mamea	m a m e a	my	franklin1975	13763
+80475	enga	1216_MOTHER	edagí	edagí	e d a g í/i	his	franklin1975	162
+80483	enga	1640_SIBLING	pimarége	pimarége	p i m a r é/e g e		franklin1975	163
+80491	enga	962_WOMAN	éda	éda	é/e d a		franklin1975	5957
+80501	enga	1209_I	nabá	nabá	n a b á/a		franklin1975	5958
+80512	enga	262_HE_OR_SHE_OR_IT	báa	báa	b á/a a		franklin1975	5959
+80523	enga	78_THAT	dòko	dòko	d ò/o k o		franklin1975	5960
+80532	enga	817_THEY	dúpa	dúpa	d ú/u p a		franklin1975	5961
+80543	enga	817_THEY	dorápo	dorápo	d o r á/a p o		franklin1975	5962
+80554	enga	1214_THIS	dàke	dàke	d à/a k e		franklin1975	5963
+80564	enga	1215_THOU	éba	éba	é/e b a		franklin1975	5964
+80575	enga	1212_WE	náima	náima	n á/a i m a		franklin1975	5965
+80584	enga	2634_WE_TWO	naríba	naríba	n a r í/i b a		franklin1975	5966
+80594	enga	1236_WHAT	àki	àki	à/a k i		franklin1975	5967
+80604	enga	1238_WHEN	adokópá	adokópá	a d o k ó/o p á/a		franklin1975	164
+80614	enga	1235_WHO	apí	apí	a p í/i		franklin1975	5969
+80624	enga	2312_YOU_OBLIQUE_CASE_OF_YOU	nyakáma	nyakáma	n j a k á/a m a		franklin1975	5970
+80634	enga	2091_YOUR	nyarabo	nyarabo	n j a r a b o		franklin1975	5971
+80645	enga	492_THREE	téma	téma	t é/e m a		franklin1975	5972
+80655	enga	1498_TWO	ráma	ráma	r á/a m a		franklin1975	5973
+80665	enga	1252_HOUSE	ádá	ádá	á/a d á/a		franklin1975	5974
+80675	enga	293_NETBAG	nuú	nuú	n u ú/u		franklin1975	5975
+80695	enga	1274_SALT	aípí	aípí	a í/i p í/i		franklin1975	5977
+80703	enga	646_ASH	búsi	búsi	b ú/u s i		franklin1975	165
+80713	enga	1228_EARTH_SOIL	yúu	yúu	j ú/u u		franklin1975	5979
+80721	enga	1313_MOON	kaná	kaná	k a n á/a		franklin1975	166
+80729	enga	639_MOUNTAIN	mádá	mádá	m á/a d á/a		franklin1975	167
+80739	enga	671_SAND	ipa	ipa	i p a		franklin1975	5982
+80740	enga	671_SAND	kée	kée	k é/e e		franklin1975	168
+80748	enga	857_STONE	kaná	kaná	k a n á/a		franklin1975	5983
+80758	enga	1343_SUN	nitá	nitá	n i t á/a		franklin1975	5984
+80769	enga	948_WATER	ípa	ípa	í/i p a		franklin1975	5985
+80779	enga	762_OUTSIDE	kamáda	kamáda	k a m á/a d a		franklin1975	5986
+80786	enga	1174_YESTERDAY	kwáka	kwáka	k w á/a k a		franklin1975	169
+80795	enga	868_BANANA	saé	saé	s a é/e		franklin1975	5988
+80805	enga	634_MEAT	miju	miju	m i j u		franklin1975	5989
+80818	enga	146_SUGAR_CANE	iyáa	iyáa	i j á/a a		franklin1975	170
+80828	enga	159_SWEET_POTATO	áina	áina	á/a i n a		franklin1975	171
+80838	enga	351_TARO	máa	máa	m á/a a		franklin1975	5993
+80847	enga	906_TREE	ítá	ítá	í/i t á/a		franklin1975	5994
+80857	enga	937_BIRD	yáka	yáka	j á/a k a		franklin1975	5995
+80865	enga	235_FLYING_FOX	saima	saima	s a i m a		franklin1975	5996
+80872	enga	1392_LOUSE	rema	rema	r e m a		franklin1975	5997
+80882	enga	1336_EAT	negé	negé	n e g é/e		franklin1975	5998
+80892	enga	702_CATCH	minyir	minyir	m i n j i r		franklin1975	5999
+80902	enga	1448_HOLD	minyir	minyir	m i n j i r		franklin1975	6000
+80912	enga	1446_COME	epegé	epegé	e p e g é/e		franklin1975	6001
+80920	enga	2101_BE_DEAD_OR_DIE	kumi	kumi	k u m i		franklin1975	6002
+80928	enga	813_DO	pigí	pigí	p i g í/i		franklin1975	6003
+80935	enga	1447_GIVE	maligi	maligi	m a l i g i	to first person	franklin1975	6004
+80945	enga	1408_HEAR	sirámo	sirámo	s i r á/a m o		franklin1975	172
+80953	enga	1433_HIT	takígi	takígi	t a k í/i g i		franklin1975	6006
+80961	enga	215_LIE_DOWN	paregé	paregé	p a r e g é/e		franklin1975	173
+80971	enga	2708_TALK	re	re	r e		franklin1975	6008
+80981	enga	1409_SEE	kadege	kadege	k a d e g e		franklin1975	6009
+80991	enga	1416_SIT	petegé	petegé	p e t e g é/e		franklin1975	6010
+81001	enga	1442_STAND	kategé	kategé	k a t e g é/e		franklin1975	6011
+81011	enga	695_GO	paegé	paegé	p a e g é/e		franklin1975	6012
+81019	enga	1292_BAD	koó	koó	k o ó/o		franklin1975	6013
+81029	enga	1202_BIG	adáke	adáke	a d á/a k e		franklin1975	6014
+81037	enga	706_DARK	pupúti	pupúti	p u p ú/u t i	colored	franklin1975	174
+81057	enga	1786_DRY_UP	kéké regé	kéké_regé	k é/e k é/e + r e g é/e		franklin1975	6017
+81067	enga	1035_GOOD	épé	épé	é/e p é/e		franklin1975	6018
+81077	enga	1355_LAUGH	gi irámo	gi_irámo	g i + i r á/a m o		franklin1975	6019
+81085	enga	1231_NEW	enége	enége	e n é/e g e		franklin1975	6020
+81095	enga	1240_NOT	daá	daá	d a á/a		franklin1975	6021
+81104	enga	1210_HEAVY	kédá	kédá	k é/e d á/a		franklin1975	6022
+81114	enga	2103_PAINFUL_OR_SICK	tádá	tádá	t á/a d á/a	pain	franklin1975	6023
+81122	enga	51_SORE	téte	téte	t é/e t e		franklin1975	6024
+81130	enga	1587_SMELL_STINK	púgú pigí	púgú_pigí	p ú/u g ú/u + p i g í/i		franklin1975	6025
+81137	enga	1335_WHITE	ipaí	ipaí	i p a í/i		franklin1975	175
+81147	enga	1424_YELLOW	ábwa	ábwa	á/a b w a		franklin1975	6027
+81157	enga	1519_RUN	ára pígi	ára_pígi	á/a r a + p í/i g i	run away	franklin1975	6028
+81165	enga	1440_SPIT	sopo kári	sopo_kári	s o p o + k á/a r i		franklin1975	6029
+81170	enga	1278_VOMIT	myúku talyígi	myúku_talyígi	m j ú/u k u + t a l j í/i g i		franklin1975	6030
+80249	west-kewa	867_backofhand	masa	masa	m a s a		franklin1975	5932
+80259	west-kewa	1251_BELLY	robaa	robaa	r o b aː		franklin1975	5933
+80269	west-kewa	1394_BONE	uni	uni	u n i		franklin1975	5934
+80278	west-kewa	1402_BREAST	adu	adu	a d u		franklin1975	5935
+80288	west-kewa	1510_CHIN	yagaa	yagaa	j a g aː	chin	franklin1975	5936
+80299	west-kewa	1247_EAR	aane	aane	aː n e		franklin1975	5937
+80308	west-kewa	1248_EYE	ini	ini	i n i		franklin1975	5938
+80316	west-kewa	2098_FOOT_OR_LEG	àà	àà	à/a à/a	leg, foot	franklin1975	5939
+80326	west-kewa	123_FOREHEAD	weno	weno	w e n o	forehead	franklin1975	5940
+80336	west-kewa	189_HAIR_BODY	iri	iri	i r i		franklin1975	5941
+80346	west-kewa	2121_ARM_OR_HAND	ki	ki	k i	hand	franklin1975	5942
+80356	west-kewa	1371_KNEE	rumu	rumu	r u m u		franklin1975	5943
+80365	west-kewa	1224_LIVER	pu	pu	p u		franklin1975	5944
+80376	west-kewa	1405_NAME	bi	bi	b i		franklin1975	14135
+80384	west-kewa	1333_NECK	má	má	m á/a		franklin1975	5946
+80393	west-kewa	670_ROOT	pitya	pitya	p i t j a		franklin1975	5947
+80403	west-kewa	1482_SHOULDER	pasa	pasa	p a s a		franklin1975	5948
+80412	west-kewa	1205_TONGUE	keke	keke	k e k e		franklin1975	5949
+80422	west-kewa	1366_BOY	naaki	naaki	n aː k i		franklin1975	5950
+80431	west-kewa	1262_BROTHER	ame	ame	a m e		franklin1975	5951
+80440	west-kewa	3162_CROSS-COUSIN	aai	aai	aː i		franklin1975	5952
+80447	west-kewa	1217_FATHER	aapa	aapa	aː p a		franklin1975	5953
+80455	west-kewa	1554_MAN	àà	àà	à/a à/a		franklin1975	5954
+80463	west-kewa	1216_MOTHER	ama	ama	a m a	my	franklin1975	13763
+80470	west-kewa	1216_MOTHER	agi	agi	a g i	his	franklin1975	13763
+80489	west-kewa	962_WOMAN	ona	ona	o n a		franklin1975	5957
+80496	west-kewa	1209_I	ni	ni	n i		franklin1975	5958
+80507	west-kewa	262_HE_OR_SHE_OR_IT	(n)ipu	ipu	i p u		franklin1975	5959
+80518	west-kewa	78_THAT	mo	mo	m o		franklin1975	5960
+80527	west-kewa	817_THEY	(n)imu	imu	i m u		franklin1975	5961
+80538	west-kewa	817_THEY	(n)ipu	ipu	i p u		franklin1975	5962
+80549	west-kewa	1214_THIS	go	go	g o		franklin1975	5963
+80559	west-kewa	1215_THOU	ne	ne	n e		franklin1975	5964
+80571	west-kewa	1212_WE	niaa	niaa	n i aː		franklin1975	5965
+80572	west-kewa	1212_WE	nyaa	nyaa	n j aː		franklin1975	5965
+80579	west-kewa	2634_WE_TWO	saa	saa	s aː		franklin1975	5966
+80591	west-kewa	1236_WHAT	ake	ake	a k e		franklin1975	5967
+80599	west-kewa	1238_WHEN	a rabo	a_rabo	a + r a b o		franklin1975	5968
+80609	west-kewa	1235_WHO	api	api	a p i		franklin1975	5969
+80619	west-kewa	2312_YOU_OBLIQUE_CASE_OF_YOU	(n)imi	imi	i m i		franklin1975	5970
+80629	west-kewa	2091_YOUR	(n)ipi	ipi	i p i		franklin1975	5971
+80640	west-kewa	492_THREE	repo	repo	r e p o		franklin1975	5972
+80650	west-kewa	1498_TWO	laapo	laapo	l aː p o		franklin1975	5973
+80660	west-kewa	1252_HOUSE	ada	ada	a d a		franklin1975	5974
+80670	west-kewa	293_NETBAG	nu	nu	n u		franklin1975	5975
+80680	west-kewa	1337_PIG	mena	mena	m e n a		franklin1975	5976
+80690	west-kewa	1274_SALT	aipa	aipa	a i p a		franklin1975	5977
+80698	west-kewa	646_ASH	taga	taga	t a g a		franklin1975	5978
+80708	west-kewa	1228_EARTH_SOIL	su	su	s u		franklin1975	5979
+80734	west-kewa	671_SAND	ipa mu	ipa_mu	i p a + m u		franklin1975	5982
+80753	west-kewa	1343_SUN	nare	nare	n a r e		franklin1975	5984
+80764	west-kewa	948_WATER	ipa	ipa	i p a		franklin1975	5985
+80774	west-kewa	762_OUTSIDE	(k)amaa	amaa	a m aː		franklin1975	5986
+80781	west-kewa	1174_YESTERDAY	abala	abala	a b a l a		franklin1975	5987
+80790	west-kewa	868_BANANA	(k)ai	ai	a i		franklin1975	5988
+80800	west-kewa	634_MEAT	midi	midi	m i d i		franklin1975	5989
+80810	west-kewa	2500_pandanusedible	aga	aga	a g a		franklin1975	5990
+80823	west-kewa	159_SWEET_POTATO	saapi	saapi	s aː p i		franklin1975	5992
+80833	west-kewa	351_TARO	maa	maa	m aː		franklin1975	5993
+80844	west-kewa	906_TREE	repona	repona	r e p o n a		franklin1975	176
+80852	west-kewa	937_BIRD	yáá 	yáá	j á/a á/a		franklin1975	5995
+80877	west-kewa	1336_EAT	na	na	n a		franklin1975	5998
+80887	west-kewa	702_CATCH	sapira	sapira	s a p i r a		franklin1975	5999
+80897	west-kewa	1448_HOLD	ripinya	ripinya	r i p i n j a		franklin1975	6000
+80907	west-kewa	1446_COME	ipu	ipu	i p u		franklin1975	6001
+80925	west-kewa	813_DO	pa	pa	p a		franklin1975	6003
+80930	west-kewa	1447_GIVE	gi	gi	g i	to first person	franklin1975	6004
+80940	west-kewa	1408_HEAR	paga	paga	p a g a		franklin1975	6005
+80966	west-kewa	2708_TALK	la	la	l a		franklin1975	6008
+80976	west-kewa	1409_SEE	ada	ada	a d a		franklin1975	6009
+80986	west-kewa	1416_SIT	pira	pira	p i r a		franklin1975	6010
+80996	west-kewa	1442_STAND	reka	reka	r e k a		franklin1975	6011
+81006	west-kewa	695_GO	pu	pu	p u		franklin1975	6012
+81024	west-kewa	1202_BIG	adaa	adaa	a d aː		franklin1975	6014
+81034	west-kewa	706_DARK	pobore	pobore	p o b o r e	colored	franklin1975	6015
+81045	west-kewa	879_COUGH	kóto re	kóto_re	k ó/o t o + r e		franklin1975	6016
+81052	west-kewa	1786_DRY_UP	kaapu ta	kaapu_ta	k aː p u + t a		franklin1975	6017
+81062	west-kewa	1035_GOOD	epe (ta)	epe_	e p e		franklin1975	6018
+81072	west-kewa	1355_LAUGH	giri ta	giri_ta	g i r i + t a		franklin1975	6019
+81090	west-kewa	1240_NOT	dia	dia	d i a		franklin1975	6021
+81099	west-kewa	1210_HEAVY	kedaa (pea)	kedaa_	k e d aː		franklin1975	6022
+81109	west-kewa	2103_PAINFUL_OR_SICK	radaa (pia)	radaa_	r a d aː	pain	franklin1975	6023
+81117	west-kewa	51_SORE	rere (pia)	rere_	r e r e		franklin1975	6024
+81125	west-kewa	1587_SMELL_STINK	pugu (pia)	pugu_	p u g u		franklin1975	6025
+81132	west-kewa	1335_WHITE	kaake (pia)	kaake_	k aː k e		franklin1975	6026
+81142	west-kewa	1424_YELLOW	ambu	ambu	a m b u		franklin1975	6027
+81152	west-kewa	1519_RUN	alo pu	alo_pu	a l o + p u	run away	franklin1975	6028
+81162	west-kewa	1440_SPIT	sope raa	sope_raa	s o p e + r aː		franklin1975	6029
+81168	west-kewa	1278_VOMIT	maaku ra	maaku_ra	m aː k u + r a		franklin1975	6030
+80250	east-kewa	867_backofhand	masa	masa	m a s a		franklin1975	5932
+80260	east-kewa	1251_BELLY	robaa	robaa	r o b aː		franklin1975	5933
+80268	east-kewa	1394_BONE	kuli	kuli	k u l i		franklin1975	5934
+80279	east-kewa	1402_BREAST	adu	adu	a d u		franklin1975	5935
+80289	east-kewa	1510_CHIN	yagaa	yagaa	j a g aː	chin	franklin1975	5936
+80298	east-kewa	1247_EAR	kale	kale	k a l e		franklin1975	5937
+80307	east-kewa	1248_EYE	le	le	l e		franklin1975	5938
+80317	east-kewa	2098_FOOT_OR_LEG	àà	àà	à/a à/a	leg, foot	franklin1975	5939
+80327	east-kewa	123_FOREHEAD	weno	weno	w e n o	forehead	franklin1975	5940
+80337	east-kewa	189_HAIR_BODY	iri	iri	i r i		franklin1975	5941
+80347	east-kewa	2121_ARM_OR_HAND	ki	ki	k i	hand	franklin1975	5942
+80357	east-kewa	1371_KNEE	rumu	rumu	r u m u		franklin1975	5943
+80366	east-kewa	1224_LIVER	pu	pu	p u		franklin1975	5944
+80375	east-kewa	1405_NAME	ibi	ibi	i b i		franklin1975	14135
+80385	east-kewa	1333_NECK	má	má	m á/a		franklin1975	5946
+80394	east-kewa	670_ROOT	pitya	pitya	p i t j a		franklin1975	5947
+80404	east-kewa	1482_SHOULDER	pasa	pasa	p a s a		franklin1975	5948
+80413	east-kewa	1205_TONGUE	keke	keke	k e k e		franklin1975	5949
+80423	east-kewa	1366_BOY	naaki	naaki	n aː k i		franklin1975	5950
+80432	east-kewa	1262_BROTHER	ame	ame	a m e		franklin1975	5951
+80441	east-kewa	3162_CROSS-COUSIN	kai	kai	k a i		franklin1975	5952
+80448	east-kewa	1217_FATHER	aapa	aapa	aː p a		franklin1975	5953
+80454	east-kewa	1554_MAN	ali	ali	a l i		franklin1975	5954
+80464	east-kewa	1216_MOTHER	ama	ama	a m a	my	franklin1975	13763
+80471	east-kewa	1216_MOTHER	agi	agi	a g i	his	franklin1975	13763
+80480	east-kewa	1640_SIBLING	bali	bali	b a l i		franklin1975	5956
+80488	east-kewa	962_WOMAN	winya	winya	w i n j a		franklin1975	5957
+80497	east-kewa	1209_I	ni	ni	n i		franklin1975	5958
+80508	east-kewa	262_HE_OR_SHE_OR_IT	(n)ipu	ipu	i p u		franklin1975	5959
+80519	east-kewa	78_THAT	mo	mo	m o		franklin1975	5960
+80528	east-kewa	817_THEY	(n)imu	imu	i m u		franklin1975	5961
+80539	east-kewa	817_THEY	(n)ipu	ipu	i p u		franklin1975	5962
+80550	east-kewa	1214_THIS	go	go	g o		franklin1975	5963
+80560	east-kewa	1215_THOU	ne	ne	n e		franklin1975	5964
+80570	east-kewa	1212_WE	naa	naa	n aː		franklin1975	5965
+80580	east-kewa	2634_WE_TWO	saa	saa	s aː		franklin1975	5966
+80590	east-kewa	1236_WHAT	ali	ali	a l i		franklin1975	5967
+80600	east-kewa	1238_WHEN	a rabo	a_rabo	a + r a b o		franklin1975	5968
+80610	east-kewa	1235_WHO	api	api	a p i		franklin1975	5969
+80620	east-kewa	2312_YOU_OBLIQUE_CASE_OF_YOU	(n)imi	imi	i m i		franklin1975	5970
+80630	east-kewa	2091_YOUR	(n)ipi	ipi	i p i		franklin1975	5971
+80641	east-kewa	492_THREE	repo	repo	r e p o		franklin1975	5972
+80651	east-kewa	1498_TWO	laapo	laapo	l aː p o		franklin1975	5973
+80661	east-kewa	1252_HOUSE	ada	ada	a d a		franklin1975	5974
+80671	east-kewa	293_NETBAG	nu	nu	n u		franklin1975	5975
+80681	east-kewa	1337_PIG	mena	mena	m e n a		franklin1975	5976
+80691	east-kewa	1274_SALT	aipa	aipa	a i p a		franklin1975	5977
+80699	east-kewa	646_ASH	taga	taga	t a g a		franklin1975	5978
+80709	east-kewa	1228_EARTH_SOIL	su	su	s u		franklin1975	5979
+80718	east-kewa	1313_MOON	eke	eke	e k e		franklin1975	5980
+80726	east-kewa	639_MOUNTAIN	kari	kari	k a r i		franklin1975	5981
+80735	east-kewa	671_SAND	ipa mu	ipa_mu	i p a + m u		franklin1975	5982
+80745	east-kewa	857_STONE	kana	kana	k a n a		franklin1975	5983
+80754	east-kewa	1343_SUN	nare	nare	n a r e		franklin1975	5984
+80765	east-kewa	948_WATER	ipa	ipa	i p a		franklin1975	5985
+80775	east-kewa	762_OUTSIDE	(k)amaa	amaa	a m aː		franklin1975	5986
+80782	east-kewa	1174_YESTERDAY	abala	abala	a b a l a		franklin1975	5987
+80791	east-kewa	868_BANANA	(k)ai	ai	a i		franklin1975	5988
+80801	east-kewa	634_MEAT	midi	midi	m i d i		franklin1975	5989
+80811	east-kewa	2500_pandanusedible	aga	aga	a g a		franklin1975	5990
+80815	east-kewa	146_SUGAR_CANE	wali	wali	w a l i		franklin1975	5991
+80824	east-kewa	159_SWEET_POTATO	saapi	saapi	s aː p i		franklin1975	5992
+80834	east-kewa	351_TARO	maa	maa	m aː		franklin1975	5993
+80853	east-kewa	937_BIRD	yáá 	yáá	j á/a á/a		franklin1975	5995
+80862	east-kewa	235_FLYING_FOX	kaima	kaima	k a i m a		franklin1975	5996
+80869	east-kewa	1392_LOUSE	lema	lema	l e m a		franklin1975	5997
+80878	east-kewa	1336_EAT	na	na	n a		franklin1975	5998
+80888	east-kewa	702_CATCH	sapira	sapira	s a p i r a		franklin1975	5999
+80898	east-kewa	1448_HOLD	ripinya	ripinya	r i p i n j a		franklin1975	6000
+80908	east-kewa	1446_COME	ipu	ipu	i p u		franklin1975	6001
+80917	east-kewa	2101_BE_DEAD_OR_DIE	koma	koma	k o m a		franklin1975	6002
+80931	east-kewa	1447_GIVE	gi	gi	g i	to first person	franklin1975	6004
+80941	east-kewa	1408_HEAR	paga	paga	p a g a		franklin1975	6005
+80950	east-kewa	1433_HIT	tya	tya	t j a		franklin1975	6006
+80958	east-kewa	215_LIE_DOWN	patya	patya	p a t j a		franklin1975	6007
+80967	east-kewa	2708_TALK	la	la	l a		franklin1975	6008
+80977	east-kewa	1409_SEE	ada	ada	a d a		franklin1975	6009
+80987	east-kewa	1416_SIT	pira	pira	p i r a		franklin1975	6010
+80997	east-kewa	1442_STAND	reka	reka	r e k a		franklin1975	6011
+81007	east-kewa	695_GO	pu	pu	p u		franklin1975	6012
+81016	east-kewa	1292_BAD	kolea	kolea	k o l e a		franklin1975	6013
+81025	east-kewa	1202_BIG	adaa	adaa	a d aː		franklin1975	6014
+81042	east-kewa	879_COUGH	koro ta	koro_ta	k o r o + t a		franklin1975	6016
+81046	east-kewa	879_COUGH	kóto re	kóto_re	k ó/o t o + r e		franklin1975	6016
+81053	east-kewa	1786_DRY_UP	kaapu ta	kaapu_ta	k aː p u + t a		franklin1975	6017
+81063	east-kewa	1035_GOOD	epe (ta)	epe_	e p e		franklin1975	6018
+81073	east-kewa	1355_LAUGH	giri ta	giri_ta	g i r i + t a		franklin1975	6019
+81082	east-kewa	1231_NEW	pena	pena	p e n a		franklin1975	6020
+81091	east-kewa	1240_NOT	dia	dia	d i a		franklin1975	6021
+81100	east-kewa	1210_HEAVY	kedaa (pea)	kedaa_	k e d aː		franklin1975	6022
+81110	east-kewa	2103_PAINFUL_OR_SICK	radaa (pia)	radaa_	r a d aː	pain	franklin1975	6023
+81118	east-kewa	51_SORE	rere (pia)	rere_	r e r e		franklin1975	6024
+81126	east-kewa	1587_SMELL_STINK	pugu (pia)	pugu_	p u g u		franklin1975	6025
+81133	east-kewa	1335_WHITE	kaake (pia)	kaake_	k aː k e		franklin1975	6026
+81143	east-kewa	1424_YELLOW	ambu	ambu	a m b u		franklin1975	6027
+81153	east-kewa	1519_RUN	alo pu	alo_pu	a l o + p u	run away	franklin1975	6028
+80251	erave	867_backofhand	masa	masa	m a s a		franklin1975	5932
+80261	erave	1251_BELLY	robaa	robaa	r o b aː		franklin1975	5933
+80280	erave	1402_BREAST	adu	adu	a d u		franklin1975	5935
+80290	erave	1510_CHIN	yagaa	yagaa	j a g aː	chin	franklin1975	5936
+80318	erave	2098_FOOT_OR_LEG	ange	ange	a n g e	leg, foot	franklin1975	5939
+80328	erave	123_FOREHEAD	weno	weno	w e n o	forehead	franklin1975	5940
+80338	erave	189_HAIR_BODY	iri	iri	i r i		franklin1975	5941
+80348	erave	2121_ARM_OR_HAND	ki	ki	k i	hand	franklin1975	5942
+80358	erave	1371_KNEE	rumu	rumu	r u m u		franklin1975	5943
+80367	erave	1224_LIVER	pu	pu	p u		franklin1975	5944
+80386	erave	1333_NECK	má	má	m á/a		franklin1975	5946
+80395	erave	670_ROOT	pitya	pitya	p i t j a		franklin1975	5947
+80405	erave	1482_SHOULDER	pasa	pasa	p a s a		franklin1975	5948
+80414	erave	1205_TONGUE	keke	keke	k e k e		franklin1975	5949
+80424	erave	1366_BOY	naaki	naaki	n aː k i		franklin1975	5950
+80433	erave	1262_BROTHER	ame	ame	a m e		franklin1975	5951
+80449	erave	1217_FATHER	aapa	aapa	aː p a		franklin1975	5953
+80465	erave	1216_MOTHER	ama	ama	a m a	my	franklin1975	13763
+80472	erave	1216_MOTHER	agi	agi	a g i	his	franklin1975	13763
+80498	erave	1209_I	ni	ni	n i		franklin1975	5958
+80509	erave	262_HE_OR_SHE_OR_IT	(n)ipu	ipu	i p u		franklin1975	5959
+80520	erave	78_THAT	mo	mo	m o		franklin1975	5960
+80529	erave	817_THEY	(n)imu	imu	i m u		franklin1975	5961
+80540	erave	817_THEY	(n)ipu	ipu	i p u		franklin1975	5962
+80551	erave	1214_THIS	go	go	g o		franklin1975	5963
+80561	erave	1215_THOU	ne	ne	n e		franklin1975	5964
+80581	erave	2634_WE_TWO	saa	saa	s aː		franklin1975	5966
+80601	erave	1238_WHEN	a rabo	a_rabo	a + r a b o		franklin1975	5968
+80611	erave	1235_WHO	api	api	a p i		franklin1975	5969
+80621	erave	2312_YOU_OBLIQUE_CASE_OF_YOU	(n)imi	imi	i m i		franklin1975	5970
+80631	erave	2091_YOUR	(n)ipi	ipi	i p i		franklin1975	5971
+80642	erave	492_THREE	repo	repo	r e p o		franklin1975	5972
+80652	erave	1498_TWO	laapo	laapo	l aː p o		franklin1975	5973
+80662	erave	1252_HOUSE	ada	ada	a d a		franklin1975	5974
+80672	erave	293_NETBAG	nu	nu	n u		franklin1975	5975
+80682	erave	1337_PIG	mena	mena	m e n a		franklin1975	5976
+80692	erave	1274_SALT	aipa	aipa	a i p a		franklin1975	5977
+80700	erave	646_ASH	taga	taga	t a g a		franklin1975	5978
+80710	erave	1228_EARTH_SOIL	su	su	s u		franklin1975	5979
+80736	erave	671_SAND	ipa mu	ipa_mu	i p a + m u		franklin1975	5982
+80755	erave	1343_SUN	nare	nare	n a r e		franklin1975	5984
+80766	erave	948_WATER	ipa	ipa	i p a		franklin1975	5985
+80776	erave	762_OUTSIDE	(k)amaa	amaa	a m aː		franklin1975	5986
+80783	erave	1174_YESTERDAY	abala	abala	a b a l a		franklin1975	5987
+80792	erave	868_BANANA	(k)ai	ai	a i		franklin1975	5988
+80802	erave	634_MEAT	midi	midi	m i d i		franklin1975	5989
+80812	erave	2500_pandanusedible	aga	aga	a g a		franklin1975	5990
+80825	erave	159_SWEET_POTATO	saapi	saapi	s aː p i		franklin1975	5992
+80835	erave	351_TARO	maa	maa	m aː		franklin1975	5993
+80854	erave	937_BIRD	yáá 	yáá	j á/a á/a		franklin1975	5995
+80879	erave	1336_EAT	na	na	n a		franklin1975	5998
+80889	erave	702_CATCH	sapira	sapira	s a p i r a		franklin1975	5999
+80899	erave	1448_HOLD	ripinya	ripinya	r i p i n j a		franklin1975	6000
+80909	erave	1446_COME	ipu	ipu	i p u		franklin1975	6001
+80932	erave	1447_GIVE	gi	gi	g i	to first person	franklin1975	6004
+80942	erave	1408_HEAR	paga	paga	p a g a		franklin1975	6005
+80968	erave	2708_TALK	la	la	l a		franklin1975	6008
+80978	erave	1409_SEE	ada	ada	a d a		franklin1975	6009
+80988	erave	1416_SIT	pira	pira	p i r a		franklin1975	6010
+80998	erave	1442_STAND	reka	reka	r e k a		franklin1975	6011
+81008	erave	695_GO	pu	pu	p u		franklin1975	6012
+81026	erave	1202_BIG	adaa	adaa	a d aː		franklin1975	6014
+81047	erave	879_COUGH	kóto re	kóto_re	k ó/o t o + r e		franklin1975	6016
+81054	erave	1786_DRY_UP	kaapu ta	kaapu_ta	k aː p u + t a		franklin1975	6017
+81064	erave	1035_GOOD	epe (ta)	epe_	e p e		franklin1975	6018
+81074	erave	1355_LAUGH	giri ta	giri_ta	g i r i + t a		franklin1975	6019
+81092	erave	1240_NOT	dia	dia	d i a		franklin1975	6021
+81101	erave	1210_HEAVY	kedaa (pea)	kedaa_	k e d aː		franklin1975	6022
+81111	erave	2103_PAINFUL_OR_SICK	radaa (pia)	radaa_	r a d aː	pain	franklin1975	6023
+81119	erave	51_SORE	rere (pia)	rere_	r e r e		franklin1975	6024
+81127	erave	1587_SMELL_STINK	pugu (pia)	pugu_	p u g u		franklin1975	6025
+81134	erave	1335_WHITE	kaake (pia)	kaake_	k aː k e		franklin1975	6026
+81144	erave	1424_YELLOW	ambu	ambu	a m b u		franklin1975	6027
+81154	erave	1519_RUN	alo pu	alo_pu	a l o + p u	run away	franklin1975	6028
+80252	angal	867_backofhand	mesa	mesa	m e s a		franklin1975	5932
+80262	angal	1251_BELLY	tomba	tomba	t o m b a		franklin1975	5933
+80270	angal	1394_BONE	win	win	w i n		franklin1975	5934
+80271	angal	1394_BONE	kʷin	kʷin	kʷ i n		franklin1975	5934
+80281	angal	1402_BREAST	ɔndu	ɔndu	ɔ n d u		franklin1975	5935
+80291	angal	1510_CHIN	sɔngɔ	sɔngɔ	s ɔ n g ɔ	chin	franklin1975	5936
+80300	angal	1247_EAR	kan	kan	k a n		franklin1975	5937
+80309	angal	1248_EYE	in	in	i n		franklin1975	5938
+80319	angal	2098_FOOT_OR_LEG	ang	ang	a n g	leg, foot	franklin1975	5939
+80329	angal	123_FOREHEAD	wonɔ	wonɔ	w o n ɔ	forehead	franklin1975	5940
+80339	angal	189_HAIR_BODY	iti	iti	i t i		franklin1975	5941
+80349	angal	2121_ARM_OR_HAND	ki	ki	k i	hand	franklin1975	5942
+80359	angal	1371_KNEE	tum	tum	t u m		franklin1975	5943
+80368	angal	1224_LIVER	pu	pu	p u		franklin1975	5944
+80377	angal	1405_NAME	mbi	mbi	m b i		franklin1975	14135
+80387	angal	1333_NECK	ma	ma	m a		franklin1975	5946
+80396	angal	670_ROOT	piƚa	piƚa	p i lˠ a		franklin1975	5947
+80406	angal	1482_SHOULDER	pesa	pesa	p e s a		franklin1975	5948
+80425	angal	1366_BOY	naik	naik	n a i k		franklin1975	5950
+80442	angal	3162_CROSS-COUSIN	he	he	h e		franklin1975	5952
+80450	angal	1217_FATHER	ap	ap	a p		franklin1975	5953
+80456	angal	1554_MAN	ɔɨ	ɔɨ	ɔ ɨ		franklin1975	5954
+80466	angal	1216_MOTHER	am	am	a m	my	franklin1975	13763
+80481	angal	1640_SIBLING	mbɔli	mbɔli	m b ɔ l i		franklin1975	5956
+80490	angal	962_WOMAN	ten	ten	t e n		franklin1975	177
+80499	angal	1209_I	ni	ni	n i		franklin1975	5958
+80510	angal	262_HE_OR_SHE_OR_IT	ipu	ipu	i p u		franklin1975	5959
+80521	angal	78_THAT	mongo	mongo	m o n g o		franklin1975	5960
+80530	angal	817_THEY	nim	nim	n i m		franklin1975	5961
+80541	angal	817_THEY	ipi	ipi	i p i		franklin1975	5962
+80552	angal	1214_THIS	ngo	ngo	n g o		franklin1975	5963
+80562	angal	1215_THOU	nge	nge	n g e		franklin1975	5964
+80573	angal	1212_WE	nɔ	nɔ	n ɔ		franklin1975	5965
+80582	angal	2634_WE_TWO	yɔ	yɔ	j ɔ		franklin1975	5966
+80592	angal	1236_WHAT	aik	aik	a i k		franklin1975	5967
+80602	angal	1238_WHEN	a rɔmbu	a_rɔmbu	a + r ɔ m b u		franklin1975	5968
+80612	angal	1235_WHO	ap	ap	a p		franklin1975	5969
+80622	angal	2312_YOU_OBLIQUE_CASE_OF_YOU	imi	imi	i m i		franklin1975	5970
+80632	angal	2091_YOUR	ipi	ipi	i p i		franklin1975	5971
+80643	angal	492_THREE	tep	tep	t e p		franklin1975	5972
+80653	angal	1498_TWO	kap	kap	k a p		franklin1975	5973
+80663	angal	1252_HOUSE	and	and	a n d		franklin1975	5974
+80673	angal	293_NETBAG	nu	nu	n u		franklin1975	5975
+80683	angal	1337_PIG	mok	mok	m o k		franklin1975	178
+80693	angal	1274_SALT	æp	æp	æ p		franklin1975	5977
+80701	angal	646_ASH	tɔng	tɔng	t ɔ n g		franklin1975	5978
+80711	angal	1228_EARTH_SOIL	su	su	s u		franklin1975	5979
+80719	angal	1313_MOON	ek	ek	e k		franklin1975	5980
+80737	angal	671_SAND	ip mu	ip_mu	i p + m u		franklin1975	5982
+80756	angal	1343_SUN	nar	nar	n a r		franklin1975	5984
+80767	angal	948_WATER	ip	ip	i p		franklin1975	5985
+80777	angal	762_OUTSIDE	homa	homa	h o m a		franklin1975	5986
+80784	angal	1174_YESTERDAY	ɔmboɨa	ɔmboɨa	ɔ m b o ɨ a		franklin1975	5987
+80803	angal	634_MEAT	mindi	mindi	m i n d i		franklin1975	5989
+80813	angal	2500_pandanusedible	ank	ank	a n k		franklin1975	5990
+80816	angal	146_SUGAR_CANE	wɔƚ	wɔƚ	w ɔ lˠ		franklin1975	5991
+80826	angal	159_SWEET_POTATO	sepi	sepi	s e p i		franklin1975	5992
+80836	angal	351_TARO	mɔ	mɔ	m ɔ		franklin1975	5993
+80845	angal	906_TREE	ti	ti	t i		franklin1975	5994
+80855	angal	937_BIRD	sɔ	sɔ	s ɔ		franklin1975	5995
+80870	angal	1392_LOUSE	em	em	e m		franklin1975	5997
+80880	angal	1336_EAT	ne	ne	n e		franklin1975	5998
+80890	angal	702_CATCH	wapiɔ	wapiɔ	w a p i ɔ		franklin1975	5999
+80900	angal	1448_HOLD	wapiɔ	wapiɔ	w a p i ɔ		franklin1975	6000
+80910	angal	1446_COME	epe	epe	e p e		franklin1975	6001
+80918	angal	2101_BE_DEAD_OR_DIE	ome	ome	o m e		franklin1975	6002
+80926	angal	813_DO	pi	pi	p i		franklin1975	6003
+80933	angal	1447_GIVE	nge	nge	n g e	to first person	franklin1975	6004
+80943	angal	1408_HEAR	pɔnge	pɔnge	p ɔ n g e		franklin1975	6005
+80951	angal	1433_HIT	le	le	l e		franklin1975	6006
+80959	angal	215_LIE_DOWN	pɔle 	pɔle	p ɔ l e		franklin1975	6007
+80969	angal	2708_TALK	ƚe	ƚe	lˠ e		franklin1975	6008
+80979	angal	1409_SEE	ɔnde	ɔnde	ɔ n d e		franklin1975	6009
+80989	angal	1416_SIT	pete	pete	p e t e		franklin1975	6010
+80999	angal	1442_STAND	tikɔ	tikɔ	t i k ɔ		franklin1975	6011
+81009	angal	695_GO	pe	pe	p e		franklin1975	6012
+81017	angal	1292_BAD	ko	ko	k o		franklin1975	6013
+81027	angal	1202_BIG	ɔndɔ	ɔndɔ	ɔ n d ɔ		franklin1975	6014
+81035	angal	706_DARK	pɔmbete	pɔmbete	p ɔ m b e t e	colored	franklin1975	6015
+81043	angal	879_COUGH	ot ƚe	ot_ƚe	o t + lˠ e		franklin1975	6016
+81055	angal	1786_DRY_UP	kæpi	kæpi	k æ p i		franklin1975	6017
+81065	angal	1035_GOOD	epe	epe	e p e		franklin1975	6018
+81075	angal	1355_LAUGH	kit ƚe	kit_ƚe	k i t + lˠ e		franklin1975	6019
+81083	angal	1231_NEW	wene	wene	w e n e		franklin1975	6020
+81093	angal	1240_NOT	ind	ind	i n d		franklin1975	6021
+81102	angal	1210_HEAVY	kend	kend	k e n d		franklin1975	6022
+81112	angal	2103_PAINFUL_OR_SICK	tand	tand	t a n d	pain	franklin1975	6023
+81120	angal	51_SORE	ter	ter	t e r		franklin1975	6024
+81128	angal	1587_SMELL_STINK	punk	punk	p u n k		franklin1975	6025
+81135	angal	1335_WHITE	aiki pi	aiki_pi	a i k i + p i		franklin1975	6026
+81145	angal	1424_YELLOW	ɔmb	ɔmb	ɔ m b		franklin1975	6027
+81155	angal	1519_RUN	aƚama pepe	aƚama_pepe	a lˠ a m a + p e p e	run away	franklin1975	6028
+81163	angal	1440_SPIT	nemake	nemake	n e m a k e		franklin1975	179
+81169	angal	1278_VOMIT	mak	mak	m a k		franklin1975	6030
+80301	angal-heneng	1247_EAR	haɨ	haɨ	h a ɨ		franklin1975	5937
+80415	angal-heneng	1205_TONGUE	hege	hege	h e g e		franklin1975	5949
+80434	angal-heneng	1262_BROTHER	hame	hame	h a m e		franklin1975	5951
+80473	angal-heneng	1216_MOTHER	anji	anji	a n j i	his	franklin1975	13763
+80684	angal-heneng	1337_PIG	jome	jome	j o m e		franklin1975	180
+80727	angal-heneng	639_MOUNTAIN	har	har	h a r		franklin1975	5981
+80746	angal-heneng	857_STONE	han	han	h a n		franklin1975	5983
+80793	angal-enen	868_BANANA	ai	ai	a i		franklin1975	5988
+80863	angal-enen	235_FLYING_FOX	keim	keim	k e i m		franklin1975	5996
+80256	ipili	867_backofhand	masia	masia	m a s i a		franklin1975	5932
+80266	ipili	1251_BELLY	tobene	tobene	t o b e n e		franklin1975	5933
+80275	ipili	1394_BONE	kulini	kulini	k u l i n i		franklin1975	5934
+80285	ipili	1402_BREAST	adu	adu	a d u		franklin1975	5935
+80295	ipili	1510_CHIN	agapu	agapu	a g a p u	chin	franklin1975	5936
+80304	ipili	1247_EAR	ale	ale	a l e		franklin1975	5937
+80313	ipili	1248_EYE	lene	lene	l e n e		franklin1975	5938
+80323	ipili	2098_FOOT_OR_LEG	kene	kene	k e n e	leg, foot	franklin1975	5939
+80333	ipili	123_FOREHEAD	weno(ne)	weno	w e n o	forehead	franklin1975	5940
+80343	ipili	189_HAIR_BODY	iti(ni)	iti	i t i		franklin1975	5941
+80353	ipili	2121_ARM_OR_HAND	kini	kini	k i n i	hand	franklin1975	5942
+80363	ipili	1371_KNEE	aiki(ni)	aiki	a i k i		franklin1975	181
+80372	ipili	1224_LIVER	lasiane	lasiane	l a s i a n e		franklin1975	182
+80381	ipili	1405_NAME	gene	gene	g e n e		franklin1975	183
+80390	ipili	1333_NECK	mane	mane	m a n e		franklin1975	5946
+80400	ipili	670_ROOT	pini	pini	p i n i		franklin1975	5947
+80409	ipili	1482_SHOULDER	payia(ne)	payia	p a j i a		franklin1975	5948
+80419	ipili	1205_TONGUE	eke	eke	e k e		franklin1975	5949
+80429	ipili	1366_BOY	ane	ane	a n e		franklin1975	184
+80438	ipili	1262_BROTHER	amene	amene	a m e n e		franklin1975	5951
+80446	ipili	3162_CROSS-COUSIN	aini	aini	a i n i		franklin1975	5952
+80453	ipili	1217_FATHER	apa	apa	a p a		franklin1975	5953
+80460	ipili	1554_MAN	akali	akali	a k a l i		franklin1975	5954
+80469	ipili	1216_MOTHER	ama	ama	a m a	my	franklin1975	13763
+80477	ipili	1216_MOTHER	agini	agini	a g i n i	his	franklin1975	13763
+80485	ipili	1640_SIBLING	imalini	imalini	i m a l i n i		franklin1975	5956
+80493	ipili	962_WOMAN	wada	wada	w a d a		franklin1975	5957
+80503	ipili	1209_I	ni(ba)	ni	n i		franklin1975	5958
+80514	ipili	262_HE_OR_SHE_OR_IT	(e)baka	baka	b a k a		franklin1975	5959
+80524	ipili	78_THAT	molo	molo	m o l o		franklin1975	5960
+80534	ipili	817_THEY	yakaba	yakaba	j a k a b a		franklin1975	5961
+80545	ipili	817_THEY	liyaba	liyaba	l i j a b a		franklin1975	5962
+80556	ipili	1214_THIS	oko(ne)	oko	o k o		franklin1975	5963
+80566	ipili	1215_THOU	n(iba)	n	n		franklin1975	5964
+80586	ipili	2634_WE_TWO	nalipa	nalipa	n a l i p a		franklin1975	5966
+80596	ipili	1236_WHAT	aki	aki	a k i		franklin1975	5967
+80606	ipili	1238_WHEN	a kidi	a_kidi	a + k i d i		franklin1975	185
+80616	ipili	1235_WHO	api	api	a p i		franklin1975	5969
+80626	ipili	2312_YOU_OBLIQUE_CASE_OF_YOU	yakaba	yakaba	j a k a b a		franklin1975	5970
+80636	ipili	2091_YOUR	liyaba	liyaba	l i j a b a		franklin1975	5971
+80647	ipili	492_THREE	tebo	tebo	t e b o		franklin1975	5972
+80657	ipili	1498_TWO	lapo	lapo	l a p o		franklin1975	5973
+80667	ipili	1252_HOUSE	ada	ada	a d a		franklin1975	5974
+80677	ipili	293_NETBAG	nuu	nuu	n uː		franklin1975	5975
+80687	ipili	1337_PIG	yia	yia	j i a		franklin1975	186
+80697	ipili	1274_SALT	ipi	ipi	i p i		franklin1975	5977
+80705	ipili	646_ASH	pete	pete	p e t e		franklin1975	187
+80715	ipili	1228_EARTH_SOIL	yuu	yuu	j uː		franklin1975	5979
+80723	ipili	1313_MOON	ana	ana	a n a		franklin1975	188
+80731	ipili	639_MOUNTAIN	ati	ati	a t i		franklin1975	5981
+80742	ipili	671_SAND	ipa mau	ipa_mau	i p a + m a u		franklin1975	5982
+80750	ipili	857_STONE	ana	ana	a n a		franklin1975	5983
+80760	ipili	1343_SUN	nai	nai	n a i		franklin1975	5984
+80761	ipili	1343_SUN	nate	nate	n a t e		franklin1975	5984
+80771	ipili	948_WATER	ipa	ipa	i p a		franklin1975	5985
+80780	ipili	762_OUTSIDE	kamaka	kamaka	k a m a k a		franklin1975	5986
+80797	ipili	868_BANANA	ai	ai	a i		franklin1975	5988
+80807	ipili	634_MEAT	mijuni	mijuni	m i j u n i		franklin1975	5989
+80820	ipili	146_SUGAR_CANE	iya	iya	i j a		franklin1975	189
+80830	ipili	159_SWEET_POTATO	aina	aina	a i n a		franklin1975	190
+80840	ipili	351_TARO	anama	anama	a n a m a		franklin1975	5993
+80841	ipili	351_TARO	ma	ma	m a		franklin1975	5993
+80849	ipili	906_TREE	ita	ita	i t a		franklin1975	5994
+80859	ipili	937_BIRD	eka	eka	e k a		franklin1975	5995
+80874	ipili	1392_LOUSE	lemo	lemo	l e m o		franklin1975	5997
+80884	ipili	1336_EAT	naa	naa	n aː		franklin1975	5998
+80894	ipili	702_CATCH	mina	mina	m i n a		franklin1975	5999
+80904	ipili	1448_HOLD	mina	mina	m i n a		franklin1975	6000
+80914	ipili	1446_COME	ípu	ípu	í/i p u		franklin1975	6001
+80922	ipili	2101_BE_DEAD_OR_DIE	oma	oma	o m a		franklin1975	6002
+80937	ipili	1447_GIVE	gii	gii	g iː	to first person	franklin1975	6004
+80947	ipili	1408_HEAR	ale a	ale_a	a l e + a		franklin1975	191
+80955	ipili	1433_HIT	laa	laa	l aː		franklin1975	6006
+80963	ipili	215_LIE_DOWN	pali	pali	p a l i		franklin1975	6007
+80973	ipili	2708_TALK	laa	laa	l aː		franklin1975	6008
+80983	ipili	1409_SEE	ada	ada	a d a		franklin1975	6009
+80993	ipili	1416_SIT	piti	piti	p i t i		franklin1975	6010
+81003	ipili	1442_STAND	ata	ata	a t a		franklin1975	192
+81013	ipili	695_GO	puu	puu	p uː		franklin1975	6012
+81021	ipili	1292_BAD	koo	koo	k oː		franklin1975	6013
+81031	ipili	1202_BIG	ada(ne)	ada	a d a		franklin1975	6014
+81039	ipili	706_DARK	pobotene	pobotene	p o b o t e n e	colored	franklin1975	6015
+81049	ipili	879_COUGH	koto laa	koto_laa	k o t o + l aː		franklin1975	6016
+81059	ipili	1786_DRY_UP	kapu	kapu	k a p u		franklin1975	6017
+81069	ipili	1035_GOOD	wayu	wayu	w a j u		franklin1975	193
+81079	ipili	1355_LAUGH	gitu	gitu	g i t u		franklin1975	6019
+81087	ipili	1231_NEW	wenene	wenene	w e n e n e		franklin1975	6020
+81096	ipili	1240_NOT	jia	jia	j i a		franklin1975	6021
+81106	ipili	1210_HEAVY	keda	keda	k e d a		franklin1975	6022
+81116	ipili	2103_PAINFUL_OR_SICK	tandaka	tandaka	t a n d a k a	pain	franklin1975	6023
+81124	ipili	51_SORE	tete	tete	t e t e		franklin1975	6024
+81139	ipili	1335_WHITE	ake pene	ake_pene	a k e + p e n e		franklin1975	6026
+81149	ipili	1424_YELLOW	abua	abua	a b u a		franklin1975	6027
+81159	ipili	1519_RUN	pekala puu	pekala_puu	p e k a l a + p uː	run away	franklin1975	6028
+81167	ipili	1440_SPIT	soo laa	soo_laa	s oː + l aː		franklin1975	6029
+81172	ipili	1278_VOMIT	miagu tagua	miagu_tagua	m i a g u + t a g u a		franklin1975	6030

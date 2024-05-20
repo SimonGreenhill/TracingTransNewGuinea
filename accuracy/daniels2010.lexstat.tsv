@@ -1,0 +1,550 @@
+# Wordlist
+
+# DATA
+ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	SOURCE	COGID	SONARS	PROSTRINGS	CLASSES	LANGID	NUMBERS	WEIGHTS	IPA	DUPLICATES	AUTOCOGID
+#
+83034	apali	1013_FRESHWATER_EEL	ɣɨᵐbaram	ɣɨᵐbaram	ɣ ɨ ⁿb a r a m		daniels2010	7208	3 7 1 7 5 7 4	AXBYBYN	GIPARAM	2	2.G.C 2.I.V 2.P.C 2.A.V 2.R.C 2.A.V 2.M.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	ɣɨⁿbaram	0	1
+83035	sirva	1013_FRESHWATER_EEL	kɨᵐbra	kɨᵐbra	k ɨ ⁿb r a		daniels2010	7208	1 7 1 5 7	AXBCZ	KIPRA	8	8.K.C 8.I.V 8.P.C 8.R.C 8.A.V	2.0 1.5 1.75 1.5 0.8	kɨⁿbra	0	1
+83036	aisi	1013_FRESHWATER_EEL	kɨßar	kɨßar	k ɨ β a r		daniels2010	7208	1 7 3 7 5	AXBYN	KIBAR	1	1.K.C 1.I.V 1.B.C 1.A.V 1.R.c	2.0 1.5 1.75 1.3 0.8	kɨβar	1	1
+#
+83004	mum	1084_CALL	ura(rama)-	ura-	u r a		daniels2010	14173	7 5 7	XBZ	YRA	6	6.Y.V 6.R.C 6.A.V	1.5 1.75 0.8	ura	0	2
+83003	apali	1084_CALL	ur-	ur-	u r		daniels2010	14173	7 5	XN	YR	2	2.Y.V 2.R.c	1.5 0.8	ur	0	2
+83002	manat	1084_CALL	ura-	ura-	u r a		daniels2010	14173	7 5 7	XBZ	YRA	5	5.Y.V 5.R.C 5.A.V	1.5 1.75 0.8	ura	0	2
+83005	aisi	1084_CALL	ur-	ur-	u r		daniels2010	14173	7 5	XN	YR	1	1.Y.V 1.R.c	1.5 0.8	ur	0	2
+83006	kulsab	1084_CALL	uara-	uara-	u a r a		daniels2010	14173	7 7 5 7	XYBZ	YARA	4	4.Y.V 4.A.V 4.R.C 4.A.V	1.5 1.3 1.75 0.8	uara	0	2
+#
+83276	mum	1100_COOK_SOMETHING	kuᵑgra-	kuᵑgra-	k u ŋ g r a		daniels2010	7226	1 7 4 1 5 7	AXMBCZ	KYNKRA	6	6.K.C 6.Y.V 6.N.c 6.K.C 6.R.C 6.A.V	2.0 1.5 1.1 1.75 1.5 0.8	kuŋgra	0	3
+82838	nend	1100_COOK_SOMETHING	ema-	ema-	e m a		daniels2010	7218	7 4 7	XBZ	EMA	7	7.E.V 7.M.C 7.A.V	1.5 1.75 0.8	ema	0	5
+83275	apali	1100_COOK_SOMETHING	ɣuᵑgɨr-	ɣuᵑgɨr-	ɣ u ŋ g ɨ r		daniels2010	7226	3 7 4 1 7 5	AXMBYN	GYNKIR	2	2.G.C 2.Y.V 2.N.c 2.K.C 2.I.V 2.R.c	2.0 1.5 1.1 1.75 1.3 0.8	ɣuŋgɨr	0	3
+82839	manat	1100_COOK_SOMETHING	imu-	imu-	i m u		daniels2010	7218	7 4 7	XBZ	IMY	5	5.I.V 5.M.C 5.Y.V	1.5 1.75 0.8	imu	0	5
+83274	aisi	1100_COOK_SOMETHING	koɣr-	koɣr-	k o ɣ r		daniels2010	7226	1 7 3 5	AXBC	KUGR	1	1.K.C 1.U.V 1.G.C 1.R.C	2.0 1.5 1.75 1.5	koɣr	0	3
+#
+82957	apali	1115_SPEECH	ciaŋ	ciaŋ	c i a ŋ	(Acɨ dialect)	daniels2010	7160	1 7 7 4	AXYN	CIAN	2	2.C.C 2.I.V 2.A.V 2.N.c	2.0 1.5 1.3 0.8	ciaŋ	0	7
+82958	sirva	1115_SPEECH	cia	cia	c i a		daniels2010	7160	1 7 7	AXZ	CIA	8	8.C.C 8.I.V 8.A.V	2.0 1.5 0.8	cia	0	9
+82959	aisi	1115_SPEECH	ki	ki	k i		daniels2010	7160	1 7	AX	KI	1	1.K.C 1.I.V	2.0 1.5	ki	0	6
+82960	kulsab	1115_SPEECH	-kia	-kia	k i a	"singsing"	daniels2010	7160	1 7 7	AXZ	KIA	4	4.K.C 4.I.V 4.A.V	2.0 1.5 0.8	kia	0	6
+#
+82788	atemble	1202_BIG	uram(oɣra)	uram	u r a m	big, old	daniels2010	345	7 5 7 4	XBYN	YRAM	3	3.Y.V 3.R.C 3.A.V 3.M.c	1.5 1.75 1.3 0.8	uram	0	10
+82790	mum	1202_BIG	aru	aru	a r u	big, respected	daniels2010	345	7 5 7	XBZ	ARY	6	6.A.V 6.R.C 6.Y.V	1.5 1.75 0.8	aru	0	10
+82789	manat	1202_BIG	arum	arum	a r u m		daniels2010	345	7 5 7 4	XBYN	ARYM	5	5.A.V 5.R.C 5.Y.V 5.M.c	1.5 1.75 1.3 0.8	arum	0	10
+#
+83411	mum	1210_HEAVY	pɨm	pɨm	p ɨ m		daniels2010	7256	1 7 4	AXN	PIM	6	6.P.C 6.I.V 6.M.c	2.0 1.5 0.8	pɨm	0	11
+83412	aisi	1210_HEAVY	pum	pum	p u m		daniels2010	7256	1 7 4	AXN	PYM	1	1.P.C 1.Y.V 1.M.c	2.0 1.5 0.8	pum	0	11
+#
+82806	mum	1217_FATHER	iaßa(ⁿdak)	iaßa	i a β a		daniels2010	10523	7 7 3 7	XYBZ	IABA	6	6.I.V 6.A.V 6.B.C 6.A.V	1.5 1.3 1.75 0.8	iaβa	0	12
+82805	apali	1217_FATHER	iaßaŋ	iaßaŋ	i a β a ŋ		daniels2010	10523	7 7 3 7 4	XYBYN	IABAN	2	2.I.V 2.A.V 2.B.C 2.A.V 2.N.c	1.5 1.3 1.75 1.3 0.8	iaβaŋ	0	12
+82804	manat	1217_FATHER	aßan	aßan	a β a n		daniels2010	10523	7 3 7 4	XBYN	ABAN	5	5.A.V 5.B.C 5.A.V 5.N.c	1.5 1.75 1.3 0.8	aβan	0	12
+82807	sirva	1217_FATHER	iaßa	iaßa	i a β a		daniels2010	10523	7 7 3 7	XYBZ	IABA	8	8.I.V 8.A.V 8.B.C 8.A.V	1.5 1.3 1.75 0.8	iaβa	0	12
+#
+82988	mum	1231_NEW	kɨɣi	kɨɣi	k ɨ ɣ i		daniels2010	14067	1 7 3 7	AXBZ	KIGI	6	6.K.C 6.I.V 6.G.C 6.I.V	2.0 1.5 1.75 0.8	kɨɣi	0	13
+82987	apali	1231_NEW	ɣɨɣɨ	ɣɨɣɨ	ɣ ɨ ɣ ɨ		daniels2010	14067	3 7 3 7	AXBZ	GIGI	2	2.G.C 2.I.V 2.G.C 2.I.V	2.0 1.5 1.75 0.8	ɣɨɣɨ	0	13
+82989	sirva	1231_NEW	kikɨ	kikɨ	k i k ɨ		daniels2010	14067	1 7 1 7	AXBZ	KIKI	8	8.K.C 8.I.V 8.K.C 8.I.V	2.0 1.5 1.75 0.8	kikɨ	0	13
+#
+83187	mum	1248_EYE	tamᵑga	tamᵑga	t a m ⁿg a		daniels2010	9839	1 7 4 1 7	AXMBZ	TAMKA	6	6.T.C 6.A.V 6.M.c 6.K.C 6.A.V	2.0 1.5 1.1 1.75 0.8	tamⁿga	0	14
+83184	nend	1248_EYE	ampɨn	ampɨn	a m p ɨ n		daniels2010	9839	7 4 1 7 4	XMBYN	AMPIN	7	7.A.V 7.M.c 7.P.C 7.I.V 7.N.c	1.5 1.1 1.75 1.3 0.8	ampɨn	0	19
+83186	apali	1248_EYE	ramɨᵑgaŋ	ramɨᵑgaŋ	r a m i ŋ g a ŋ		daniels2010	9839	5 7 4 7 4 1 7 4	AXBYMBYN	RAMINKAN	2	2.R.C 2.A.V 2.M.C 2.I.V 2.N.c 2.K.C 2.A.V 2.N.c	2.0 1.5 1.75 1.3 1.1 1.75 1.3 0.8	ramiŋgaŋ	0	15
+83185	manat	1248_EYE	mɨᵑga	mɨᵑga	m i ŋ g a		daniels2010	9839	4 7 4 1 7	AXMBZ	MINKA	5	5.M.C 5.I.V 5.N.c 5.K.C 5.A.V	2.0 1.5 1.1 1.75 0.8	miŋga	0	15
+83188	sirva	1248_EYE	tarɨma	tarɨma	t a r ɨ m a		daniels2010	9839	1 7 5 7 4 7	AXBYBZ	TARIMA	8	8.T.C 8.A.V 8.R.C 8.I.V 8.M.C 8.A.V	2.0 1.5 1.75 1.3 1.75 0.8	tarɨma	0	14
+83189	aisi	1248_EYE	tamɨ	tamɨ	t a m ɨ		daniels2010	9839	1 7 4 7	AXBZ	TAMI	1	1.T.C 1.A.V 1.M.C 1.I.V	2.0 1.5 1.75 0.8	tamɨ	0	14
+83190	kulsab	1248_EYE	-tama	-tama	t a m a		daniels2010	9839	1 7 4 7	AXBZ	TAMA	4	4.T.C 4.A.V 4.M.C 4.A.V	2.0 1.5 1.75 0.8	tama	0	14
+#
+83011	atemble	1252_HOUSE	oram	oram	o r a m		daniels2010	2751	7 5 7 4	XBYN	URAM	3	3.U.V 3.R.C 3.A.V 3.M.c	1.5 1.75 1.3 0.8	oram	0	21
+83012	nend	1252_HOUSE	oram	oram	o r a m		daniels2010	2751	7 5 7 4	XBYN	URAM	7	7.U.V 7.R.C 7.A.V 7.M.c	1.5 1.75 1.3 0.8	oram	0	21
+83013	apali	1252_HOUSE	uraŋ	uraŋ	u r a ŋ		daniels2010	2751	7 5 7 4	XBYN	YRAN	2	2.Y.V 2.R.C 2.A.V 2.N.c	1.5 1.75 1.3 0.8	uraŋ	0	21
+83014	sirva	1252_HOUSE	uara	uara	u a r a		daniels2010	2751	7 7 5 7	XYBZ	YARA	8	8.Y.V 8.A.V 8.R.C 8.A.V	1.5 1.3 1.75 0.8	uara	0	21
+83015	aisi	1252_HOUSE	uru	uru	u r u		daniels2010	2751	7 5 7	XBZ	YRY	1	1.Y.V 1.R.C 1.Y.V	1.5 1.75 0.8	uru	0	21
+#
+82771	atemble	1257_WING	apuɣɨ	apuɣɨ	a p u ɣ ɨ		daniels2010	14031	7 1 7 3 7	XBYBZ	APYGI	3	3.A.V 3.P.C 3.Y.V 3.G.C 3.I.V	1.5 1.75 1.3 1.75 0.8	apuɣɨ	0	24
+82775	mum	1257_WING	aᵐb	aᵐb	ã b		daniels2010	14031	7 1	XN	AP	6	6.A.V 6.P.c	1.5 0.8	ãb	0	26
+82772	nend	1257_WING	mpɨŋ	mpɨŋ	m p ɨ ŋ		daniels2010	14031	4 1 7 4	ACYN	MPIN	7	7.M.C 7.P.C 7.I.V 7.N.c	2.0 1.5 1.3 0.8	mpɨŋ	0	22
+82774	apali	1257_WING	aᵐbɨŋ	aᵐbɨŋ	ã b ɨ ŋ		daniels2010	14031	7 1 7 4	XBYN	APIN	2	2.A.V 2.P.C 2.I.V 2.N.c	1.5 1.75 1.3 0.8	ãbɨŋ	0	22
+82773	manat	1257_WING	(ß)aᵐb	aᵐb	ã b		daniels2010	14031	7 1	XN	AP	5	5.A.V 5.P.c	1.5 0.8	ãb	0	25
+82776	sirva	1257_WING	aᵐbɨ	aᵐbɨ	ã b ɨ		daniels2010	14031	7 1 7	XBZ	API	8	8.A.V 8.P.C 8.I.V	1.5 1.75 0.8	ãbɨ	0	22
+82777	aisi	1257_WING	ambɨŋ	ambɨŋ	a m b ɨ ŋ		daniels2010	14031	7 4 1 7 4	XMBYN	AMPIN	1	1.A.V 1.M.c 1.P.C 1.I.V 1.N.c	1.5 1.1 1.75 1.3 0.8	ambɨŋ	0	22
+#
+83527	atemble	1274_SALT	utɨm	utɨm	u t ɨ m		daniels2010	7197	7 1 7 4	XBYN	YTIM	3	3.Y.V 3.T.C 3.I.V 3.M.c	1.5 1.75 1.3 0.8	utɨm	0	27
+83528	nend	1274_SALT	utɨm	utɨm	u t ɨ m		daniels2010	7197	7 1 7 4	XBYN	YTIM	7	7.Y.V 7.T.C 7.I.V 7.M.c	1.5 1.75 1.3 0.8	utɨm	0	27
+83530	apali	1274_SALT	rurɨm	rurɨm	r u r ɨ m		daniels2010	7197	5 7 5 7 4	AXBYN	RYRIM	2	2.R.C 2.Y.V 2.R.C 2.I.V 2.M.c	2.0 1.5 1.75 1.3 0.8	rurɨm	0	27
+83529	manat	1274_SALT	tɨm	tɨm	t ɨ m		daniels2010	7197	1 7 4	AXN	TIM	5	5.T.C 5.I.V 5.M.c	2.0 1.5 0.8	tɨm	0	27
+#
+83359	apali	1280_FALL	mɨᵑga(iϕ)-	mɨᵑga-	m i ŋ g a		daniels2010	7200	4 7 4 1 7	AXMBZ	MINKA	2	2.M.C 2.I.V 2.N.c 2.K.C 2.A.V	2.0 1.5 1.1 1.75 0.8	miŋga	0	28
+83360	sirva	1280_FALL	mɨᵑga	mɨᵑga	m i ŋ g a	a fall	daniels2010	7200	4 7 4 1 7	AXMBZ	MINKA	8	8.M.C 8.I.V 8.N.c 8.K.C 8.A.V	2.0 1.5 1.1 1.75 0.8	miŋga	1	28
+83361	aisi	1280_FALL	mɨɣ-	mɨɣ-	m ɨ ɣ		daniels2010	7200	4 7 3	AXN	MIG	1	1.M.C 1.I.V 1.G.c	2.0 1.5 0.8	mɨɣ	0	28
+#
+82971	mum	1287_COLD	kɨmri	kɨmri	k ɨ m r i		daniels2010	8313	1 7 4 5 7	AXBCZ	KIMRI	6	6.K.C 6.I.V 6.M.C 6.R.C 6.I.V	2.0 1.5 1.75 1.5 0.8	kɨmri	0	29
+82969	nend	1287_COLD	imɨr	imɨr	i m ɨ r		daniels2010	8313	7 4 7 5	XBYN	IMIR	7	7.I.V 7.M.C 7.I.V 7.R.c	1.5 1.75 1.3 0.8	imɨr	0	31
+82970	manat	1287_COLD	ɣɨmri	ɣɨmri	ɣ ɨ m r i		daniels2010	8313	3 7 4 5 7	AXBCZ	GIMRI	5	5.G.C 5.I.V 5.M.C 5.R.C 5.I.V	2.0 1.5 1.75 1.5 0.8	ɣɨmri	0	29
+#
+83452	mum	1313_MOON	rakun	rakun	r a k u n	(Acɨ dialect)	daniels2010	14183	5 7 1 7 4	AXBYN	RAKYN	6	6.R.C 6.A.V 6.K.C 6.Y.V 6.N.c	2.0 1.5 1.75 1.3 0.8	rakun	0	33
+83453	mum	1313_MOON	taku	taku	t a k u		daniels2010	14183	1 7 1 7	AXBZ	TAKY	6	6.T.C 6.A.V 6.K.C 6.Y.V	2.0 1.5 1.75 0.8	taku	0	32
+83454	aisi	1313_MOON	taku	taku	t a k u		daniels2010	14183	1 7 1 7	AXBZ	TAKY	1	1.T.C 1.A.V 1.K.C 1.Y.V	2.0 1.5 1.75 0.8	taku	0	32
+#
+82782	mum	1329_TOMORROW	amu	amu	a m u		daniels2010	14222	7 4 7	XBZ	AMY	6	6.A.V 6.M.C 6.Y.V	1.5 1.75 0.8	amu	0	34
+82781	manat	1329_TOMORROW	aᵐbr(us)	aᵐbr	ã b r		daniels2010	14222	7 1 5	XBC	APR	5	5.A.V 5.P.C 5.R.C	1.5 1.75 1.5	ãbr	0	35
+82783	sirva	1329_TOMORROW	amu	amu	a m u		daniels2010	14222	7 4 7	XBZ	AMY	8	8.A.V 8.M.C 8.Y.V	1.5 1.75 0.8	amu	0	34
+82784	aisi	1329_TOMORROW	amor	amor	a m o r		daniels2010	14222	7 4 7 5	XBYN	AMUR	1	1.A.V 1.M.C 1.U.V 1.R.c	1.5 1.75 1.3 0.8	amor	0	34
+#
+83385	mum	1333_NECK	naᵑgu	naᵑgu	n a ŋ g u		daniels2010	7157	4 7 4 1 7	AXMBZ	NANKY	6	6.N.C 6.A.V 6.N.c 6.K.C 6.Y.V	2.0 1.5 1.1 1.75 0.8	naŋgu	0	36
+83386	sirva	1333_NECK	naᵑgu	naᵑgu	n a ŋ g u		daniels2010	7157	4 7 4 1 7	AXMBZ	NANKY	8	8.N.C 8.A.V 8.N.c 8.K.C 8.Y.V	2.0 1.5 1.1 1.75 0.8	naŋgu	0	36
+83387	aisi	1333_NECK	naɣum	naɣum	n a ɣ u m		daniels2010	7157	4 7 3 7 4	AXBYN	NAGYM	1	1.N.C 1.A.V 1.G.C 1.Y.V 1.M.c	2.0 1.5 1.75 1.3 0.8	naɣum	0	36
+#
+83147	atemble	1336_EAT	nja-	nja-	n j a		daniels2010	8319	4 6 7	ACX	NJA	3	3.N.C 3.J.C 3.A.V	2.0 1.5 1.5	nja	0	39
+83151	mum	1336_EAT	ña-	ña-	ɲ a		daniels2010	8319	4 7	AX	NA	6	6.N.C 6.A.V	2.0 1.5	ɲa	0	37
+83148	nend	1336_EAT	na-	na-	n a		daniels2010	8319	4 7	AX	NA	7	7.N.C 7.A.V	2.0 1.5	na	0	37
+83150	apali	1336_EAT	n-	n-	n		daniels2010	8319	4	A	N	2	2.N.C	2.0	n	0	37
+83149	manat	1336_EAT	ña-	ña-	ɲ a		daniels2010	8319	4 7	AX	NA	5	5.N.C 5.A.V	2.0 1.5	ɲa	0	37
+83152	sirva	1336_EAT	ñi-	ñi-	ɲ i		daniels2010	8319	4 7	AX	NI	8	8.N.C 8.I.V	2.0 1.5	ɲi	0	37
+83153	aisi	1336_EAT	n-	n-	n		daniels2010	8319	4	A	N	1	1.N.C	2.0	n	0	37
+83154	kulsab	1336_EAT	ne-	ne-	n e		daniels2010	8319	4 7	AX	NE	4	4.N.C 4.E.V	2.0 1.5	ne	0	37
+#
+83317	mum	1380_TOOTH	mɨka	mɨka	m ɨ k a		daniels2010	14182	4 7 1 7	AXBZ	MIKA	6	6.M.C 6.I.V 6.K.C 6.A.V	2.0 1.5 1.75 0.8	mɨka	0	40
+83315	nend	1380_TOOTH	kar	kar	k a r	mouth	daniels2010	14182	1 7 5	AXN	KAR	7	7.K.C 7.A.V 7.R.c	2.0 1.5 0.8	kar	0	44
+83316	apali	1380_TOOTH	mɨka	mɨka	m ɨ k a	(Acɨ dialect)	daniels2010	14182	4 7 1 7	AXBZ	MIKA	2	2.M.C 2.I.V 2.K.C 2.A.V	2.0 1.5 1.75 0.8	mɨka	0	40
+83318	sirva	1380_TOOTH	mɨka	mɨka	m ɨ k a		daniels2010	14182	4 7 1 7	AXBZ	MIKA	8	8.M.C 8.I.V 8.K.C 8.A.V	2.0 1.5 1.75 0.8	mɨka	0	40
+83319	aisi	1380_TOOTH	makɨ	makɨ	m a k ɨ		daniels2010	14182	4 7 1 7	AXBZ	MAKI	1	1.M.C 1.A.V 1.K.C 1.I.V	2.0 1.5 1.75 0.8	makɨ	0	40
+83320	kulsab	1380_TOOTH	maka	maka	m a k a		daniels2010	14182	4 7 1 7	AXBZ	MAKA	4	4.M.C 4.A.V 4.K.C 4.A.V	2.0 1.5 1.75 0.8	maka	0	40
+#
+82820	atemble	1392_LOUSE	eman	eman	e m a n		daniels2010	9905	7 4 7 4	XBYN	EMAN	3	3.E.V 3.M.C 3.A.V 3.N.c	1.5 1.75 1.3 0.8	eman	0	45
+82823	mum	1392_LOUSE	ñima	ñima	ɲ i m a		daniels2010	9905	4 7 4 7	AXBZ	NIMA	6	6.N.C 6.I.V 6.M.C 6.A.V	2.0 1.5 1.75 0.8	ɲima	0	45
+82821	nend	1392_LOUSE	eman	eman	e m a n		daniels2010	9905	7 4 7 4	XBYN	EMAN	7	7.E.V 7.M.C 7.A.V 7.N.c	1.5 1.75 1.3 0.8	eman	0	45
+82822	apali	1392_LOUSE	iman	iman	i m a n		daniels2010	9905	7 4 7 4	XBYN	IMAN	2	2.I.V 2.M.C 2.A.V 2.N.c	1.5 1.75 1.3 0.8	iman	0	45
+82824	sirva	1392_LOUSE	ima	ima	i m a		daniels2010	9905	7 4 7	XBZ	IMA	8	8.I.V 8.M.C 8.A.V	1.5 1.75 0.8	ima	0	45
+82825	aisi	1392_LOUSE	imu	imu	i m u		daniels2010	9905	7 4 7	XBZ	IMY	1	1.I.V 1.M.C 1.Y.V	1.5 1.75 0.8	imu	0	45
+82826	kulsab	1392_LOUSE	ima	ima	i m a		daniels2010	9905	7 4 7	XBZ	IMA	4	4.I.V 4.M.C 4.A.V	1.5 1.75 0.8	ima	0	45
+#
+83159	mum	1394_BONE	punj	punj	p u n j		daniels2010	14165	1 7 4 6	AXBC	PYNJ	6	6.P.C 6.Y.V 6.N.C 6.J.C	2.0 1.5 1.75 1.5	punj	0	46
+83158	nend	1394_BONE	unsɨŋ	unsɨŋ	u n s ɨ ŋ		daniels2010	14165	7 4 3 7 4	XMBYN	YNSIN	7	7.Y.V 7.N.c 7.S.C 7.I.V 7.N.c	1.5 1.1 1.75 1.3 0.8	unsɨŋ	0	47
+83160	sirva	1394_BONE	punz	punz	p u n z		daniels2010	14165	1 7 4 3	AXLN	PYNS	8	8.P.C 8.Y.V 8.N.c 8.S.c	2.0 1.5 1.1 0.8	punz	0	47
+#
+82755	atemble	1402_BREAST	aman	aman	a m a n		daniels2010	8305	7 4 7 4	XBYN	AMAN	3	3.A.V 3.M.C 3.A.V 3.N.c	1.5 1.75 1.3 0.8	aman	0	48
+82757	mum	1402_BREAST	ama	ama	a m a		daniels2010	8305	7 4 7	XBZ	AMA	6	6.A.V 6.M.C 6.A.V	1.5 1.75 0.8	ama	0	48
+82756	apali	1402_BREAST	amaŋ	amaŋ	a m a ŋ		daniels2010	8305	7 4 7 4	XBYN	AMAN	2	2.A.V 2.M.C 2.A.V 2.N.c	1.5 1.75 1.3 0.8	amaŋ	0	48
+82758	sirva	1402_BREAST	ama	ama	a m a		daniels2010	8305	7 4 7	XBZ	AMA	8	8.A.V 8.M.C 8.A.V	1.5 1.75 0.8	ama	0	48
+82759	aisi	1402_BREAST	amɨ	amɨ	a m ɨ		daniels2010	8305	7 4 7	XBZ	AMI	1	1.A.V 1.M.C 1.I.V	1.5 1.75 0.8	amɨ	0	48
+#
+82868	mum	1403_BITE	sa-	sa-	s a		daniels2010	14133	3 7	AX	SA	6	6.S.C 6.A.V	2.0 1.5	sa	0	50
+82869	sirva	1403_BITE	isa-	isa-	i s a		daniels2010	14133	7 3 7	XBZ	ISA	8	8.I.V 8.S.C 8.A.V	1.5 1.75 0.8	isa	0	50
+82870	aisi	1403_BITE	is-	is-	i s		daniels2010	14133	7 3	XN	IS	1	1.I.V 1.S.c	1.5 0.8	is	0	49
+82871	kulsab	1403_BITE	isa-	isa-	i s a		daniels2010	14133	7 3 7	XBZ	ISA	4	4.I.V 4.S.C 4.A.V	1.5 1.75 0.8	isa	0	50
+#
+82831	mum	1405_NAME	ñiᵐbi	ñiᵐbi	ɲ i ⁿb i		daniels2010	14135	4 7 1 7	AXBZ	NIPI	6	6.N.C 6.I.V 6.P.C 6.I.V	2.0 1.5 1.75 0.8	ɲiⁿbi	0	51
+82830	apali	1405_NAME	iᵐbi	iᵐbi	i ⁿb i		daniels2010	14135	7 1 7	XBZ	IPI	2	2.I.V 2.P.C 2.I.V	1.5 1.75 0.8	iⁿbi	0	51
+82832	sirva	1405_NAME	iᵐb	iᵐb	i ⁿb		daniels2010	14135	7 1	XN	IP	8	8.I.V 8.P.c	1.5 0.8	iⁿb	0	51
+82833	aisi	1405_NAME	iß	iß	i β		daniels2010	14135	7 3	XN	IB	1	1.I.V 1.B.c	1.5 0.8	iβ	0	51
+82834	kulsab	1405_NAME	-nibe	-nibe	n i b e		daniels2010	14135	4 7 1 7	AXBZ	NIPE	4	4.N.C 4.I.V 4.P.C 4.E.V	2.0 1.5 1.75 0.8	nibe	0	51
+#
+82843	mum	1408_HEAR	iⁿdar	iⁿdar	ĩ d a r		daniels2010	7199	7 1 7 5	XBYN	ITAR	6	6.I.V 6.T.C 6.A.V 6.R.c	1.5 1.75 1.3 0.8	ĩdar	0	52
+82844	sirva	1408_HEAR	ⁿdar-	ⁿdar-	ⁿd a r		daniels2010	7199	1 7 5	AXN	TAR	8	8.T.C 8.A.V 8.R.c	2.0 1.5 0.8	ⁿdar	0	52
+82845	aisi	1408_HEAR	ir	ir	i r	hear, see	daniels2010	7199	7 5	XN	IR	1	1.I.V 1.R.c	1.5 0.8	ir	0	52
+#
+83165	mum	1423_FIGHT	saᵑga	saᵑga	s a ŋ g a		daniels2010	8330	3 7 4 1 7	AXMBZ	SANKA	6	6.S.C 6.A.V 6.N.c 6.K.C 6.A.V	2.0 1.5 1.1 1.75 0.8	saŋga	0	53
+83164	apali	1423_FIGHT	saᵑgaŋ	saᵑgaŋ	s a ŋ g a ŋ		daniels2010	8330	3 7 4 1 7 4	AXMBYN	SANKAN	2	2.S.C 2.A.V 2.N.c 2.K.C 2.A.V 2.N.c	2.0 1.5 1.1 1.75 1.3 0.8	saŋgaŋ	0	53
+83166	aisi	1423_FIGHT	saɣɨ	saɣɨ	s a ɣ ɨ		daniels2010	8330	3 7 3 7	AXBZ	SAGI	1	1.S.C 1.A.V 1.G.C 1.I.V	2.0 1.5 1.75 0.8	saɣɨ	0	53
+#
+82812	nend	1432_CUT	ika-	ika-	i k a		daniels2010	7198	7 1 7	XBZ	IKA	7	7.I.V 7.K.C 7.A.V	1.5 1.75 0.8	ika	0	56
+82813	apali	1432_CUT	iɣ-	iɣ-	i ɣ		daniels2010	7198	7 3	XN	IG	2	2.I.V 2.G.c	1.5 0.8	iɣ	0	54
+82814	aisi	1432_CUT	ik-	ik-	i k		daniels2010	7198	7 1	XN	IK	1	1.I.V 1.K.c	1.5 0.8	ik	1	54
+82815	kulsab	1432_CUT	ika-	ika-	i k a		daniels2010	7198	7 1 7	XBZ	IKA	4	4.I.V 4.K.C 4.A.V	1.5 1.75 0.8	ika	0	56
+#
+83430	mum	1436_SCRATCH	prɨ	prɨ	p r ɨ		daniels2010	7251	1 5 7	ACX	PRI	6	6.P.C 6.R.C 6.I.V	2.0 1.5 1.5	prɨ	1	58
+83431	aisi	1436_SCRATCH	uri-	uri-	u r i		daniels2010	7251	7 5 7	XBZ	YRI	1	1.Y.V 1.R.C 1.I.V	1.5 1.75 0.8	uri	0	57
+#
+83494	mum	1442_STAND	taᵑgu(rama)-	taᵑgu-	t a ŋ g u		daniels2010	15195	1 7 4 1 7	AXMBZ	TANKY	6	6.T.C 6.A.V 6.N.c 6.K.C 6.Y.V	2.0 1.5 1.1 1.75 0.8	taŋgu	0	59
+83493	apali	1442_STAND	raᵑgu-	raᵑgu-	r a ŋ g u		daniels2010	15195	5 7 4 1 7	AXMBZ	RANKY	2	2.R.C 2.A.V 2.N.c 2.K.C 2.Y.V	2.0 1.5 1.1 1.75 0.8	raŋgu	1	59
+83492	manat	1442_STAND	aᵑg(rama)-	aᵑg-	a ŋ g		daniels2010	15195	7 4 1	XLN	ANK	5	5.A.V 5.N.c 5.K.c	1.5 1.1 0.8	aŋg	0	61
+83495	sirva	1442_STAND	taᵑgu(rama)-	taᵑgu-	t a ŋ g u		daniels2010	15195	1 7 4 1 7	AXMBZ	TANKY	8	8.T.C 8.A.V 8.N.c 8.K.C 8.Y.V	2.0 1.5 1.1 1.75 0.8	taŋgu	0	59
+83496	aisi	1442_STAND	toɣa(pam)-	toɣa-	t o ɣ a		daniels2010	15195	1 7 3 7	AXBZ	TUGA	1	1.T.C 1.U.V 1.G.C 1.A.V	2.0 1.5 1.75 0.8	toɣa	0	59
+#
+83063	mum	1443_WALK	kɨⁿda-	kɨⁿda-	k ɨ ⁿd a		daniels2010	14085	1 7 1 7	AXBZ	KITA	6	6.K.C 6.I.V 6.T.C 6.A.V	2.0 1.5 1.75 0.8	kɨⁿda	0	63
+83060	nend	1443_WALK	taŋ	taŋ	t a ŋ		daniels2010	14085	1 7 4	AXN	TAN	7	7.T.C 7.A.V 7.N.c	2.0 1.5 0.8	taŋ	0	63
+83062	apali	1443_WALK	ɣɨⁿd-	ɣɨⁿd-	ɣ ɨ ⁿd		daniels2010	14085	3 7 1	AXN	GIT	2	2.G.C 2.I.V 2.T.c	2.0 1.5 0.8	ɣɨⁿd	0	62
+83061	manat	1443_WALK	ⁿda-	ⁿda-	ⁿd a		daniels2010	14085	1 7	AX	TA	5	5.T.C 5.A.V	2.0 1.5	ⁿda	0	63
+83064	sirva	1443_WALK	kɨⁿda-	kɨⁿda-	k ɨ ⁿd a		daniels2010	14085	1 7 1 7	AXBZ	KITA	8	8.K.C 8.I.V 8.T.C 8.A.V	2.0 1.5 1.75 0.8	kɨⁿda	0	63
+#
+82852	atemble	1447_GIVE	ikw-	ikw-	i k w		daniels2010	7250	7 1 6	XBC	IKW	3	3.I.V 3.K.C 3.W.C	1.5 1.75 1.5	ikw	0	66
+82854	mum	1447_GIVE	ᵑgu-	ᵑgu-	ⁿg u		daniels2010	7250	1 7	AX	KY	6	6.K.C 6.Y.V	2.0 1.5	ⁿgu	0	65
+82853	nend	1447_GIVE	iᵑgʷa-	iᵑgʷa-	i ˀⁿgʷ a		daniels2010	7250	7 0 7	XBZ	I0A	7	7.I.V 7.0.C 7.A.V	1.5 1.75 0.8	iˀⁿgʷa	0	69
+82851	apali	1447_GIVE	iᵑgu-	iᵑgu-	i ⁿg u		daniels2010	7250	7 1 7	XBZ	IKY	2	2.I.V 2.K.C 2.Y.V	1.5 1.75 0.8	iⁿgu	0	65
+82850	manat	1447_GIVE	iᵑgu-	iᵑgu-	i ⁿg u		daniels2010	7250	7 1 7	XBZ	IKY	5	5.I.V 5.K.C 5.Y.V	1.5 1.75 0.8	iⁿgu	0	65
+82855	sirva	1447_GIVE	ᵑgu-	ᵑgu-	ⁿg u		daniels2010	7250	1 7	AX	KY	8	8.K.C 8.Y.V	2.0 1.5	ⁿgu	0	65
+82856	aisi	1447_GIVE	iɣʷ-	iɣʷ-	i ɣʷ		daniels2010	7250	7 3	XN	IG	1	1.I.V 1.G.c	1.5 0.8	iɣʷ	0	64
+#
+83353	mum	1448_HOLD	mɨŋa-	mɨŋa-	m ɨ ŋ a		daniels2010	14121	4 7 4 7	AXBZ	MINA	6	6.M.C 6.I.V 6.N.C 6.A.V	2.0 1.5 1.75 0.8	mɨŋa	0	70
+83350	nend	1448_HOLD	ŋa-	ŋa-	ŋ a		daniels2010	14121	4 7	AX	NA	7	7.N.C 7.A.V	2.0 1.5	ŋa	0	70
+83352	apali	1448_HOLD	mɨŋ-	mɨŋ-	m ɨ ŋ		daniels2010	14121	4 7 4	AXN	MIN	2	2.M.C 2.I.V 2.N.c	2.0 1.5 0.8	mɨŋ	0	70
+83351	manat	1448_HOLD	mɨŋa-	mɨŋa-	m ɨ ŋ a		daniels2010	14121	4 7 4 7	AXBZ	MINA	5	5.M.C 5.I.V 5.N.C 5.A.V	2.0 1.5 1.75 0.8	mɨŋa	0	70
+83354	sirva	1448_HOLD	mɨŋa-	mɨŋa-	m ɨ ŋ a		daniels2010	14121	4 7 4 7	AXBZ	MINA	8	8.M.C 8.I.V 8.N.C 8.A.V	2.0 1.5 1.75 0.8	mɨŋa	0	70
+83355	aisi	1448_HOLD	mɨŋa(pam)-	mɨŋa-	m ɨ ŋ a		daniels2010	14121	4 7 4 7	AXBZ	MINA	1	1.M.C 1.I.V 1.N.C 1.A.V	2.0 1.5 1.75 0.8	mɨŋa	0	70
+#
+82937	mum	1456_THROW	kaßara-	kaßara-	k a β a r a		daniels2010	14083	1 7 3 7 5 7	AXBYBZ	KABARA	6	6.K.C 6.A.V 6.B.C 6.A.V 6.R.C 6.A.V	2.0 1.5 1.75 1.3 1.75 0.8	kaβara	0	71
+82934	nend	1456_THROW	aß(su)-	aß-	a β		daniels2010	14083	7 3	XN	AB	7	7.A.V 7.B.c	1.5 0.8	aβ	0	75
+82936	apali	1456_THROW	ɣaßar-	ɣaßar-	ɣ a β a r		daniels2010	14083	3 7 3 7 5	AXBYN	GABAR	2	2.G.C 2.A.V 2.B.C 2.A.V 2.R.c	2.0 1.5 1.75 1.3 0.8	ɣaβar	0	71
+82935	manat	1456_THROW	apara-	apara-	a p a r a		daniels2010	14083	7 1 7 5 7	XBYBZ	APARA	5	5.A.V 5.P.C 5.A.V 5.R.C 5.A.V	1.5 1.75 1.3 1.75 0.8	apara	0	73
+82938	sirva	1456_THROW	kapara-	kapara-	k a p a r a		daniels2010	14083	1 7 1 7 5 7	AXBYBZ	KAPARA	8	8.K.C 8.A.V 8.P.C 8.A.V 8.R.C 8.A.V	2.0 1.5 1.75 1.3 1.75 0.8	kapara	0	71
+82939	aisi	1456_THROW	kapr-	kapr-	k a p r		daniels2010	14083	1 7 1 5	AXBC	KAPR	1	1.K.C 1.A.V 1.P.C 1.R.C	2.0 1.5 1.75 1.5	kapr	0	71
+#
+83437	mum	1462_POT	sɨᵑg	sɨᵑg	s i ŋ g		daniels2010	14821	3 7 4 1	AXLN	SINK	6	6.S.C 6.I.V 6.N.c 6.K.c	2.0 1.5 1.1 0.8	siŋg	0	76
+83435	nend	1462_POT	ncɨ	ncɨ	n c ɨ		daniels2010	14821	4 1 7	ACZ	NCI	7	7.N.C 7.C.C 7.I.V	2.0 1.5 0.8	ncɨ	0	80
+83436	apali	1462_POT	sɨᵑji	sɨᵑji	s i ŋ j i		daniels2010	14821	3 7 4 6 7	AXBCZ	SINJI	2	2.S.C 2.I.V 2.N.C 2.J.C 2.I.V	2.0 1.5 1.75 1.5 0.8	siŋji	0	76
+83438	sirva	1462_POT	sɨᵑgi	sɨᵑgi	s i ŋ g i		daniels2010	14821	3 7 4 1 7	AXMBZ	SINKI	8	8.S.C 8.I.V 8.N.c 8.K.C 8.I.V	2.0 1.5 1.1 1.75 0.8	siŋgi	0	76
+83439	aisi	1462_POT	siɣ	siɣ	s i ɣ		daniels2010	14821	3 7 3	AXN	SIG	1	1.S.C 1.I.V 1.G.c	2.0 1.5 0.8	siɣ	0	76
+83440	kulsab	1462_POT	sig	sig	s i g		daniels2010	14821	3 7 1	AXN	SIK	4	4.S.C 4.I.V 4.K.c	2.0 1.5 0.8	sig	0	78
+#
+82887	nend	1510_CHIN	aᵐban	aᵐban	ã b a n	chin	daniels2010	7219	7 1 7 4	XBYN	APAN	7	7.A.V 7.P.C 7.A.V 7.N.c	1.5 1.75 1.3 0.8	ãban	0	81
+#
+82918	nend	1519_RUN	aŋra-	aŋra-	a ŋ r a		daniels2010	7237	7 4 5 7	XBCZ	ANRA	7	7.A.V 7.N.C 7.R.C 7.A.V	1.5 1.75 1.5 0.8	aŋra	0	82
+82920	apali	1519_RUN	ɣaŋɨr-	ɣaŋɨr-	ɣ a ŋ ɨ r		daniels2010	7237	3 7 4 7 5	AXBYN	GANIR	2	2.G.C 2.A.V 2.N.C 2.I.V 2.R.c	2.0 1.5 1.75 1.3 0.8	ɣaŋɨr	0	82
+82919	manat	1519_RUN	aŋra-	aŋra-	a ŋ r a		daniels2010	7237	7 4 5 7	XBCZ	ANRA	5	5.A.V 5.N.C 5.R.C 5.A.V	1.5 1.75 1.5 0.8	aŋra	0	82
+#
+83299	nend	1554_MAN	kura	kura	k u r a		daniels2010	14045	1 7 5 7	AXBZ	KYRA	7	7.K.C 7.Y.V 7.R.C 7.A.V	2.0 1.5 1.75 0.8	kura	0	83
+83301	apali	1554_MAN	ɣuraŋ	ɣuraŋ	ɣ u r a ŋ		daniels2010	14045	3 7 5 7 4	AXBYN	GYRAN	2	2.G.C 2.Y.V 2.R.C 2.A.V 2.N.c	2.0 1.5 1.75 1.3 0.8	ɣuraŋ	0	83
+83300	manat	1554_MAN	rum	rum	r u m		daniels2010	14045	5 7 4	AXN	RYM	5	5.R.C 5.Y.V 5.M.c	2.0 1.5 0.8	rum	0	86
+83302	sirva	1554_MAN	kura	kura	k u r a		daniels2010	14045	1 7 5 7	AXBZ	KYRA	8	8.K.C 8.Y.V 8.R.C 8.A.V	2.0 1.5 1.75 0.8	kura	0	83
+83303	aisi	1554_MAN	kuru	kuru	k u r u		daniels2010	14045	1 7 5 7	AXBZ	KYRY	1	1.K.C 1.Y.V 1.R.C 1.Y.V	2.0 1.5 1.75 0.8	kuru	0	83
+83304	kulsab	1554_MAN	kura	kura	k u r a		daniels2010	14045	1 7 5 7	AXBZ	KYRA	4	4.K.C 4.Y.V 4.R.C 4.A.V	2.0 1.5 1.75 0.8	kura	0	83
+#
+82764	mum	1623_SPEAK	aᵐba-	aᵐba-	ã b a		daniels2010	7216	7 1 7	XBZ	APA	6	6.A.V 6.P.C 6.A.V	1.5 1.75 0.8	ãba	0	87
+82763	apali	1623_SPEAK	aᵐb-	aᵐb-	ã b		daniels2010	7216	7 1	XN	AP	2	2.A.V 2.P.c	1.5 0.8	ãb	0	88
+82765	sirva	1623_SPEAK	aᵐba-	aᵐba-	ã b a		daniels2010	7216	7 1 7	XBZ	APA	8	8.A.V 8.P.C 8.A.V	1.5 1.75 0.8	ãba	0	87
+82766	aisi	1623_SPEAK	aß-	aß-	a β		daniels2010	7216	7 3	XN	AB	1	1.A.V 1.B.c	1.5 0.8	aβ	0	87
+82767	kulsab	1623_SPEAK	aba-	aba-	a b a		daniels2010	7216	7 1 7	XBZ	APA	4	4.A.V 4.P.C 4.A.V	1.5 1.75 0.8	aba	0	87
+#
+82965	mum	1650_WATCH	kiɣra-	kiɣra-	k i ɣ r a		daniels2010	7222	1 7 3 5 7	AXBCZ	KIGRA	6	6.K.C 6.I.V 6.G.C 6.R.C 6.A.V	2.0 1.5 1.75 1.5 0.8	kiɣra	0	89
+82964	nend	1650_WATCH	iɣra-	iɣra-	i ɣ r a		daniels2010	7222	7 3 5 7	XBCZ	IGRA	7	7.I.V 7.G.C 7.R.C 7.A.V	1.5 1.75 1.5 0.8	iɣra	0	89
+#
+83465	atemble	1717_toputgive	aᵐba-	aᵐba-	ã b a		daniels2010	6037	7 1 7	XBZ	APA	3	3.A.V 3.P.C 3.A.V	1.5 1.75 0.8	ãba	0	92
+83468	mum	1717_toputgive	tama-	tama-	t a m a		daniels2010	6037	1 7 4 7	AXBZ	TAMA	6	6.T.C 6.A.V 6.M.C 6.A.V	2.0 1.5 1.75 0.8	tama	0	90
+83467	apali	1717_toputgive	ram-	ram-	r a m		daniels2010	6037	5 7 4	AXN	RAM	2	2.R.C 2.A.V 2.M.c	2.0 1.5 0.8	ram	0	90
+83466	manat	1717_toputgive	rama-	rama-	r a m a		daniels2010	6037	5 7 4 7	AXBZ	RAMA	5	5.R.C 5.A.V 5.M.C 5.A.V	2.0 1.5 1.75 0.8	rama	0	90
+83469	sirva	1717_toputgive	tama-	tama-	t a m a		daniels2010	6037	1 7 4 7	AXBZ	TAMA	8	8.T.C 8.A.V 8.M.C 8.A.V	2.0 1.5 1.75 0.8	tama	0	90
+83470	aisi	1717_toputgive	tam-	tam-	t a m		daniels2010	6037	1 7 4	AXN	TAM	1	1.T.C 1.A.V 1.M.c	2.0 1.5 0.8	tam	0	90
+#
+83423	nend	1726_WET	(iaᵐbɨ)ta	ta	t a		daniels2010	7180	1 7	AX	TA	7	7.T.C 7.A.V	2.0 1.5	ta	0	93
+83425	apali	1726_WET	pɨta	pɨta	p ɨ t a	(Acɨ dialect)	daniels2010	7180	1 7 1 7	AXBZ	PITA	2	2.P.C 2.I.V 2.T.C 2.A.V	2.0 1.5 1.75 0.8	pɨta	0	93
+83424	manat	1726_WET	ßɨta	ßɨta	β ɨ t a		daniels2010	7180	3 7 1 7	AXBZ	BITA	5	5.B.C 5.I.V 5.T.C 5.A.V	2.0 1.5 1.75 0.8	βɨta	0	93
+83426	aisi	1726_WET	pɨtɨ	pɨtɨ	p ɨ t ɨ		daniels2010	7180	1 7 1 7	AXBZ	PITI	1	1.P.C 1.I.V 1.T.C 1.I.V	2.0 1.5 1.75 0.8	pɨtɨ	0	93
+#
+83118	nend	1730_CHEEK	kɨm(sa)	kɨm	k ɨ m		daniels2010	7231	1 7 4	AXN	KIM	7	7.K.C 7.I.V 7.M.c	2.0 1.5 0.8	kɨm	0	96
+83120	apali	1730_CHEEK	mɨɣum	mɨɣum	m ɨ ɣ u m		daniels2010	7231	4 7 3 7 4	AXBYN	MIGYM	2	2.M.C 2.I.V 2.G.C 2.Y.V 2.M.c	2.0 1.5 1.75 1.3 0.8	mɨɣum	0	94
+83119	manat	1730_CHEEK	mɨku(ßɨsa)	mɨku	m ɨ k u	mouth	daniels2010	7231	4 7 1 7	AXBZ	MIKY	5	5.M.C 5.I.V 5.K.C 5.Y.V	2.0 1.5 1.75 0.8	mɨku	0	94
+#
+83092	mum	175_BLOW_OF_WIND	kra-	kra-	k r a		daniels2010	7203	1 5 7	ACX	KRA	6	6.K.C 6.R.C 6.A.V	2.0 1.5 1.5	kra	1	97
+83090	nend	175_BLOW_OF_WIND	kr(esɨ)-	kr-	k r		daniels2010	7203	1 5	AC	KR	7	7.K.C 7.R.C	2.0 1.5	kr	0	97
+83091	manat	175_BLOW_OF_WIND	ɣra-	ɣra-	ɣ r a		daniels2010	7203	3 5 7	ACX	GRA	5	5.G.C 5.R.C 5.A.V	2.0 1.5 1.5	ɣra	1	97
+83093	aisi	175_BLOW_OF_WIND	(u)kr-	kr-	k r		daniels2010	7203	1 5	AC	KR	1	1.K.C 1.R.C	2.0 1.5	kr	0	97
+#
+83280	sirva	1829_JUMP	kußra-	kußra-	k u β r a		daniels2010	14024	1 7 3 5 7	AXBCZ	KYBRA	8	8.K.C 8.Y.V 8.B.C 8.R.C 8.A.V	2.0 1.5 1.75 1.5 0.8	kuβra	0	98
+83281	aisi	1829_JUMP	kopr-	kopr-	k o p r		daniels2010	14024	1 7 1 5	AXBC	KUPR	1	1.K.C 1.U.V 1.P.C 1.R.C	2.0 1.5 1.75 1.5	kopr	0	98
+83282	kulsab	1829_JUMP	kopra-	kopra-	k o p r a	to run	daniels2010	14024	1 7 1 5 7	AXBCZ	KUPRA	4	4.K.C 4.U.V 4.P.C 4.R.C 4.A.V	2.0 1.5 1.75 1.5 0.8	kopra	0	98
+#
+83445	atemble	1837_VULVA	akam	akam	a k a m		daniels2010	14169	7 1 7 4	XBYN	AKAM	3	3.A.V 3.K.C 3.A.V 3.M.c	1.5 1.75 1.3 0.8	akam	0	100
+83447	mum	1837_VULVA	taɣa	taɣa	t a ɣ a		daniels2010	14169	1 7 3 7	AXBZ	TAGA	6	6.T.C 6.A.V 6.G.C 6.A.V	2.0 1.5 1.75 0.8	taɣa	0	99
+83446	nend	1837_VULVA	aɣam	aɣam	a ɣ a m		daniels2010	14169	7 3 7 4	XBYN	AGAM	7	7.A.V 7.G.C 7.A.V 7.M.c	1.5 1.75 1.3 0.8	aɣam	0	100
+83448	aisi	1837_VULVA	takɨ	takɨ	t a k ɨ		daniels2010	14169	1 7 1 7	AXBZ	TAKI	1	1.T.C 1.A.V 1.K.C 1.I.V	2.0 1.5 1.75 0.8	takɨ	0	99
+#
+82862	mum	1839_CRY	irɣa-	irɣa-	i r ɣ a		daniels2010	14185	7 5 3 7	XMBZ	IRGA	6	6.I.V 6.R.c 6.G.C 6.A.V	1.5 1.1 1.75 0.8	irɣa	0	102
+82861	apali	1839_CRY	irɨɣ-	irɨɣ-	i r ɨ ɣ		daniels2010	14185	7 5 7 3	XBYN	IRIG	2	2.I.V 2.R.C 2.I.V 2.G.c	1.5 1.75 1.3 0.8	irɨɣ	0	102
+82860	manat	1839_CRY	irɣa-	irɣa-	i r ɣ a		daniels2010	14185	7 5 3 7	XMBZ	IRGA	5	5.I.V 5.R.c 5.G.C 5.A.V	1.5 1.1 1.75 0.8	irɣa	0	103
+82863	sirva	1839_CRY	irɨɣa-	irɨɣa-	i r ɨ ɣ a		daniels2010	14185	7 5 7 3 7	XBYBZ	IRIGA	8	8.I.V 8.R.C 8.I.V 8.G.C 8.A.V	1.5 1.75 1.3 1.75 0.8	irɨɣa	0	102
+82864	aisi	1839_CRY	ik-	ik-	i k		daniels2010	14185	7 1	XN	IK	1	1.I.V 1.K.c	1.5 0.8	ik	0	101
+#
+83083	mum	1886_ARMPIT	kuŋgɨs	kuŋgɨs	k u ŋ g ɨ s		daniels2010	14065	1 7 4 1 7 3	AXMBYN	KYNKIS	6	6.K.C 6.Y.V 6.N.c 6.K.C 6.I.V 6.S.c	2.0 1.5 1.1 1.75 1.3 0.8	kuŋgɨs	0	104
+83080	nend	1886_ARMPIT	ŋkɨsɨ(mpɨŋ)	ŋkɨsɨ	ŋ k ɨ s ɨ		daniels2010	14065	4 1 7 3 7	ACYBZ	NKISI	7	7.N.C 7.K.C 7.I.V 7.S.C 7.I.V	2.0 1.5 1.3 1.75 0.8	ŋkɨsɨ	0	108
+83082	apali	1886_ARMPIT	ɣuᵑji	ɣuᵑji	ɣ u ŋ j i		daniels2010	14065	3 7 4 6 7	AXBCZ	GYNJI	2	2.G.C 2.Y.V 2.N.C 2.J.C 2.I.V	2.0 1.5 1.75 1.5 0.8	ɣuŋji	0	104
+83081	manat	1886_ARMPIT	ᵑgɨsɨ	ᵑgɨsɨ	ⁿg ɨ s ɨ		daniels2010	14065	1 7 3 7	AXBZ	KISI	5	5.K.C 5.I.V 5.S.C 5.I.V	2.0 1.5 1.75 0.8	ⁿgɨsɨ	0	106
+83084	sirva	1886_ARMPIT	kuᵑgus	kuᵑgus	k u ŋ g u s		daniels2010	14065	1 7 4 1 7 3	AXMBYN	KYNKYS	8	8.K.C 8.Y.V 8.N.c 8.K.C 8.Y.V 8.S.c	2.0 1.5 1.1 1.75 1.3 0.8	kuŋgus	0	104
+83085	kulsab	1886_ARMPIT	-kʷegi	-kʷegi	kʷ e g i		daniels2010	14065	1 7 1 7	AXBZ	KEKI	4	4.K.C 4.E.V 4.K.C 4.I.V	2.0 1.5 1.75 0.8	kʷegi	0	105
+#
+83325	mum	189_HAIR_BODY	mɨn	mɨn	m ɨ n		daniels2010	10534	4 7 4	AXN	MIN	6	6.M.C 6.I.V 6.N.c	2.0 1.5 0.8	mɨn	0	109
+83324	apali	189_HAIR_BODY	mɨnɨ	mɨnɨ	m ɨ n ɨ		daniels2010	10534	4 7 4 7	AXBZ	MINI	2	2.M.C 2.I.V 2.N.C 2.I.V	2.0 1.5 1.75 0.8	mɨnɨ	0	109
+83326	sirva	189_HAIR_BODY	mɨn	mɨn	m ɨ n		daniels2010	10534	4 7 4	AXN	MIN	8	8.M.C 8.I.V 8.N.c	2.0 1.5 0.8	mɨn	0	109
+83327	aisi	189_HAIR_BODY	mɨnɨ	mɨnɨ	m ɨ n ɨ	back of head	daniels2010	10534	4 7 4 7	AXBZ	MINI	1	1.M.C 1.I.V 1.N.C 1.I.V	2.0 1.5 1.75 0.8	mɨnɨ	0	109
+#
+82876	mum	1917_TIE	kaɣa-	kaɣa-	k a ɣ a		daniels2010	14171	1 7 3 7	AXBZ	KAGA	6	6.K.C 6.A.V 6.G.C 6.A.V	2.0 1.5 1.75 0.8	kaɣa	0	110
+82875	apali	1917_TIE	ɣaɣ-	ɣaɣ-	ɣ a ɣ		daniels2010	14171	3 7 3	AXN	GAG	2	2.G.C 2.A.V 2.G.c	2.0 1.5 0.8	ɣaɣ	0	110
+82877	sirva	1917_TIE	kaɣa	kaɣa	k a ɣ a		daniels2010	14171	1 7 3 7	AXBZ	KAGA	8	8.K.C 8.A.V 8.G.C 8.A.V	2.0 1.5 1.75 0.8	kaɣa	0	110
+82878	aisi	1917_TIE	kak(r)-	kak-	k a k		daniels2010	14171	1 7 1	AXN	KAK	1	1.K.C 1.A.V 1.K.c	2.0 1.5 0.8	kak	0	110
+#
+83097	nend	1927_BAMBOO	aɣai	aɣai	a ɣ a i		daniels2010	14005	7 3 7 7	XBYZ	AGAI	7	7.A.V 7.G.C 7.A.V 7.I.V	1.5 1.75 1.3 0.8	aɣai	0	111
+83098	apali	1927_BAMBOO	sɨɣai	sɨɣai	s ɨ ɣ a i		daniels2010	14005	3 7 3 7 7	AXBYZ	SIGAI	2	2.S.C 2.I.V 2.G.C 2.A.V 2.I.V	2.0 1.5 1.75 1.3 0.8	sɨɣai	0	111
+#
+83243	atemble	1962_ROAST_SOMETHING	kra-	kra-	k r a		daniels2010	7233	1 5 7	ACX	KRA	3	3.K.C 3.R.C 3.A.V	2.0 1.5 1.5	kra	0	112
+83247	mum	1962_ROAST_SOMETHING	kra-	kra-	k r a		daniels2010	7233	1 5 7	ACX	KRA	6	6.K.C 6.R.C 6.A.V	2.0 1.5 1.5	kra	0	112
+83244	nend	1962_ROAST_SOMETHING	kra-	kra-	k r a		daniels2010	7233	1 5 7	ACX	KRA	7	7.K.C 7.R.C 7.A.V	2.0 1.5 1.5	kra	0	112
+83246	apali	1962_ROAST_SOMETHING	ɣɨr-	ɣɨr-	ɣ ɨ r		daniels2010	7233	3 7 5	AXN	GIR	2	2.G.C 2.I.V 2.R.c	2.0 1.5 0.8	ɣɨr	0	112
+83245	manat	1962_ROAST_SOMETHING	ɣra-	ɣra-	ɣ r a		daniels2010	7233	3 5 7	ACX	GRA	5	5.G.C 5.R.C 5.A.V	2.0 1.5 1.5	ɣra	0	112
+83248	aisi	1962_ROAST_SOMETHING	kɨr-	kɨr-	k ɨ r		daniels2010	7233	1 7 5	AXN	KIR	1	1.K.C 1.I.V 1.R.c	2.0 1.5 0.8	kɨr	0	112
+83249	kulsab	1962_ROAST_SOMETHING	kira-	kira-	k i r a		daniels2010	7233	1 7 5 7	AXBZ	KIRA	4	4.K.C 4.I.V 4.R.C 4.A.V	2.0 1.5 1.75 0.8	kira	0	112
+#
+83335	mum	1967_firelight	mira	mira	m i r a	flame	daniels2010	14200	4 7 5 7	AXBZ	MIRA	6	6.M.C 6.I.V 6.R.C 6.A.V	2.0 1.5 1.75 0.8	mira	0	113
+83332	nend	1967_firelight	era	era	e r a		daniels2010	14200	7 5 7	XBZ	ERA	7	7.E.V 7.R.C 7.A.V	1.5 1.75 0.8	era	0	113
+83334	apali	1967_firelight	mira	mira	m i r a	white	daniels2010	14200	4 7 5 7	AXBZ	MIRA	2	2.M.C 2.I.V 2.R.C 2.A.V	2.0 1.5 1.75 0.8	mira	0	113
+83333	manat	1967_firelight	mira	mira	m i r a	light	daniels2010	14200	4 7 5 7	AXBZ	MIRA	5	5.M.C 5.I.V 5.R.C 5.A.V	2.0 1.5 1.75 0.8	mira	0	113
+83336	sirva	1967_firelight	mira	mira	m i r a	flame	daniels2010	14200	4 7 5 7	AXBZ	MIRA	8	8.M.C 8.I.V 8.R.C 8.A.V	2.0 1.5 1.75 0.8	mira	0	113
+83337	kulsab	1967_firelight	nimera	nimera	n i m e r a		daniels2010	14200	4 7 4 7 5 7	AXBYBZ	NIMERA	4	4.N.C 4.I.V 4.M.C 4.E.V 4.R.C 4.A.V	2.0 1.5 1.75 1.3 1.75 0.8	nimera	0	113
+#
+83369	mum	2014_GO_DOWN_DESCEND	mɨᵑgu-	mɨᵑgu-	m i ŋ g u		daniels2010	14128	4 7 4 1 7	AXMBZ	MINKY	6	6.M.C 6.I.V 6.N.c 6.K.C 6.Y.V	2.0 1.5 1.1 1.75 0.8	miŋgu	0	114
+83366	nend	2014_GO_DOWN_DESCEND	ŋkʷ-	ŋkʷ-	ŋ kʷ		daniels2010	14128	4 1	AN	NK	7	7.N.C 7.K.c	2.0 0.8	ŋkʷ	0	118
+83368	apali	2014_GO_DOWN_DESCEND	mɨᵑgu-	mɨᵑgu-	m i ŋ g u		daniels2010	14128	4 7 4 1 7	AXMBZ	MINKY	2	2.M.C 2.I.V 2.N.c 2.K.C 2.Y.V	2.0 1.5 1.1 1.75 0.8	miŋgu	0	114
+83367	manat	2014_GO_DOWN_DESCEND	mɨᵑgu-	mɨᵑgu-	m i ŋ g u		daniels2010	14128	4 7 4 1 7	AXMBZ	MINKY	5	5.M.C 5.I.V 5.N.c 5.K.C 5.Y.V	2.0 1.5 1.1 1.75 0.8	miŋgu	0	114
+83370	sirva	2014_GO_DOWN_DESCEND	muᵑgura-	muᵑgura-	m u ŋ g u r a		daniels2010	14128	4 7 4 1 7 5 7	AXMBYBZ	MYNKYRA	8	8.M.C 8.Y.V 8.N.c 8.K.C 8.Y.V 8.R.C 8.A.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	muŋgura	0	114
+83371	kulsab	2014_GO_DOWN_DESCEND	muɣ-	muɣ-	m u ɣ		daniels2010	14128	4 7 3	AXN	MYG	4	4.M.C 4.Y.V 4.G.c	2.0 1.5 0.8	muɣ	0	115
+#
+83474	atemble	2098_FOOT_OR_LEG	ⁿdasɨm	ⁿdasɨm	ⁿd a s ɨ m		daniels2010	7213	1 7 3 7 4	AXBYN	TASIM	3	3.T.C 3.A.V 3.S.C 3.I.V 3.M.c	2.0 1.5 1.75 1.3 0.8	ⁿdasɨm	0	120
+83478	mum	2098_FOOT_OR_LEG	taⁿda	taⁿda	t ã d a		daniels2010	7213	1 7 1 7	AXBZ	TATA	6	6.T.C 6.A.V 6.T.C 6.A.V	2.0 1.5 1.75 0.8	tãda	0	119
+83475	nend	2098_FOOT_OR_LEG	aⁿdam	aⁿdam	ã d a m		daniels2010	7213	7 1 7 4	XBYN	ATAM	7	7.A.V 7.T.C 7.A.V 7.M.c	1.5 1.75 1.3 0.8	ãdam	0	119
+83477	apali	2098_FOOT_OR_LEG	raⁿdam	raⁿdam	r ã d a m		daniels2010	7213	5 7 1 7 4	AXBYN	RATAM	2	2.R.C 2.A.V 2.T.C 2.A.V 2.M.c	2.0 1.5 1.75 1.3 0.8	rãdam	0	119
+83476	manat	2098_FOOT_OR_LEG	aⁿdam	aⁿdam	ã d a m		daniels2010	7213	7 1 7 4	XBYN	ATAM	5	5.A.V 5.T.C 5.A.V 5.M.c	1.5 1.75 1.3 0.8	ãdam	0	119
+83479	sirva	2098_FOOT_OR_LEG	taⁿda	taⁿda	t ã d a		daniels2010	7213	1 7 1 7	AXBZ	TATA	8	8.T.C 8.A.V 8.T.C 8.A.V	2.0 1.5 1.75 0.8	tãda	0	119
+#
+83049	atemble	2101_BE_DEAD_OR_DIE	ᵐbu	ᵐbu	ⁿb u		daniels2010	13479	1 7	AX	PY	3	3.P.C 3.Y.V	2.0 1.5	ⁿbu	0	123
+83053	mum	2101_BE_DEAD_OR_DIE	kɨmu-	kɨmu-	k ɨ m u		daniels2010	13479	1 7 4 7	AXBZ	KIMY	6	6.K.C 6.I.V 6.M.C 6.Y.V	2.0 1.5 1.75 0.8	kɨmu	0	121
+83050	nend	2101_BE_DEAD_OR_DIE	ma-	ma-	m a		daniels2010	13479	4 7	AX	MA	7	7.M.C 7.A.V	2.0 1.5	ma	0	127
+83052	apali	2101_BE_DEAD_OR_DIE	ɣɨm-	ɣɨm-	ɣ ɨ m		daniels2010	13479	3 7 4	AXN	GIM	2	2.G.C 2.I.V 2.M.c	2.0 1.5 0.8	ɣɨm	0	121
+83051	manat	2101_BE_DEAD_OR_DIE	ɣɨmu-	ɣɨmu-	ɣ ɨ m u		daniels2010	13479	3 7 4 7	AXBZ	GIMY	5	5.G.C 5.I.V 5.M.C 5.Y.V	2.0 1.5 1.75 0.8	ɣɨmu	0	121
+83054	sirva	2101_BE_DEAD_OR_DIE	kumru-	kumru-	k u m r u		daniels2010	13479	1 7 4 5 7	AXBCZ	KYMRY	8	8.K.C 8.Y.V 8.M.C 8.R.C 8.Y.V	2.0 1.5 1.75 1.5 0.8	kumru	0	121
+83055	aisi	2101_BE_DEAD_OR_DIE	kum-	kum-	k u m		daniels2010	13479	1 7 4	AXN	KYM	1	1.K.C 1.Y.V 1.M.c	2.0 1.5 0.8	kum	0	121
+83056	kulsab	2101_BE_DEAD_OR_DIE	kumo-	kumo-	k u m o		daniels2010	13479	1 7 4 7	AXBZ	KYMU	4	4.K.C 4.Y.V 4.M.C 4.U.V	2.0 1.5 1.75 0.8	kumo	0	121
+#
+83072	mum	2121_ARM_OR_HAND	kuma	kuma	k u m a		daniels2010	7202	1 7 4 7	AXBZ	KYMA	6	6.K.C 6.Y.V 6.M.C 6.A.V	2.0 1.5 1.75 0.8	kuma	0	128
+83069	nend	2121_ARM_OR_HAND	oman	oman	o m a n		daniels2010	7202	7 4 7 4	XBYN	UMAN	7	7.U.V 7.M.C 7.A.V 7.N.c	1.5 1.75 1.3 0.8	oman	0	128
+83071	apali	2121_ARM_OR_HAND	ɣuman	ɣuman	ɣ u m a n		daniels2010	7202	3 7 4 7 4	AXBYN	GYMAN	2	2.G.C 2.Y.V 2.M.C 2.A.V 2.N.c	2.0 1.5 1.75 1.3 0.8	ɣuman	0	128
+83070	manat	2121_ARM_OR_HAND	uᵐbram	uᵐbram	u ⁿb r a m		daniels2010	7202	7 1 5 7 4	XBCYN	YPRAM	5	5.Y.V 5.P.C 5.R.C 5.A.V 5.M.c	1.5 1.75 1.5 1.3 0.8	uⁿbram	0	131
+83073	sirva	2121_ARM_OR_HAND	kuma	kuma	k u m a		daniels2010	7202	1 7 4 7	AXBZ	KYMA	8	8.K.C 8.Y.V 8.M.C 8.A.V	2.0 1.5 1.75 0.8	kuma	0	128
+83074	aisi	2121_ARM_OR_HAND	umu	umu	u m u		daniels2010	7202	7 4 7	XBZ	YMY	1	1.Y.V 1.M.C 1.Y.V	1.5 1.75 0.8	umu	0	128
+83075	kulsab	2121_ARM_OR_HAND	-koma	-koma	k o m a		daniels2010	7202	1 7 4 7	AXBZ	KUMA	4	4.K.C 4.U.V 4.M.C 4.A.V	2.0 1.5 1.75 0.8	koma	0	128
+#
+83417	mum	2159_GROUND	prɨ	prɨ	p r ɨ		daniels2010	7172	1 5 7	ACX	PRI	6	6.P.C 6.R.C 6.I.V	2.0 1.5 1.5	prɨ	0	133
+83416	apali	2159_GROUND	ϕɨrɨ	ϕɨrɨ	ɸ ɨ r ɨ		daniels2010	7172	3 7 5 7	AXBZ	BIRI	2	2.B.C 2.I.V 2.R.C 2.I.V	2.0 1.5 1.75 0.8	ɸɨrɨ	0	133
+83418	aisi	2159_GROUND	ur	ur	u r		daniels2010	7172	7 5	XN	YR	1	1.Y.V 1.R.c	1.5 0.8	ur	1	132
+#
+82749	atemble	217_BETELNUT	aɣuas	aɣuas	a ɣ u a s		daniels2010	7184	7 3 7 7 3	XBYYN	AGYAS	3	3.A.V 3.G.C 3.Y.V 3.A.V 3.S.c	1.5 1.75 1.3 1.3 0.8	aɣuas	0	135
+82950	mum	217_BETELNUT	kari	kari	k a r i		daniels2010	7238	1 7 5 7	AXBZ	KARI	6	6.K.C 6.A.V 6.R.C 6.I.V	2.0 1.5 1.75 0.8	kari	0	134
+82750	nend	217_BETELNUT	aɣʷas	aɣʷas	a ɣʷ a s		daniels2010	7184	7 3 7 3	XBYN	AGAS	7	7.A.V 7.G.C 7.A.V 7.S.c	1.5 1.75 1.3 0.8	aɣʷas	0	139
+82748	manat	217_BETELNUT	aɣusa	aɣusa	a ɣ u s a		daniels2010	7184	7 3 7 3 7	XBYBZ	AGYSA	5	5.A.V 5.G.C 5.Y.V 5.S.C 5.A.V	1.5 1.75 1.3 1.75 0.8	aɣusa	0	137
+82951	sirva	217_BETELNUT	kari	kari	k a r i		daniels2010	7238	1 7 5 7	AXBZ	KARI	8	8.K.C 8.A.V 8.R.C 8.I.V	2.0 1.5 1.75 0.8	kari	0	134
+82952	aisi	217_BETELNUT	kare	kare	k a r e		daniels2010	7238	1 7 5 7	AXBZ	KARE	1	1.K.C 1.A.V 1.R.C 1.E.V	2.0 1.5 1.75 0.8	kare	0	134
+82953	kulsab	217_BETELNUT	karia	karia	k a r i a		daniels2010	7238	1 7 5 7 7	AXBYZ	KARIA	4	4.K.C 4.A.V 4.R.C 4.I.V 4.A.V	2.0 1.5 1.75 1.3 0.8	karia	0	134
+#
+82907	mum	2183_RIGHT_HAND	kaᵑd	kaᵑd	k a ŋ d		daniels2010	7241	1 7 4 1	AXLN	KANT	6	6.K.C 6.A.V 6.N.c 6.T.c	2.0 1.5 1.1 0.8	kaŋd	0	141
+82906	manat	2183_RIGHT_HAND	ɣaᵑd	ɣaᵑd	ɣ a ŋ d		daniels2010	7241	3 7 4 1	AXLN	GANT	5	5.G.C 5.A.V 5.N.c 5.T.c	2.0 1.5 1.1 0.8	ɣaŋd	0	141
+82908	kulsab	2183_RIGHT_HAND	-kada	-kada	k a d a		daniels2010	7241	1 7 1 7	AXBZ	KATA	4	4.K.C 4.A.V 4.T.C 4.A.V	2.0 1.5 1.75 0.8	kada	0	140
+#
+82912	nend	2275_SHADOW	aᵑdar	aᵑdar	a ŋ d a r		daniels2010	7207	7 4 1 7 5	XMBYN	ANTAR	7	7.A.V 7.N.c 7.T.C 7.A.V 7.R.c	1.5 1.1 1.75 1.3 0.8	aŋdar	0	142
+82914	apali	2275_SHADOW	ɣaᵑdarɨ	ɣaᵑdarɨ	ɣ a ŋ d a r ɨ		daniels2010	7207	3 7 4 1 7 5 7	AXMBYBZ	GANTARI	2	2.G.C 2.A.V 2.N.c 2.T.C 2.A.V 2.R.C 2.I.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	ɣaŋdarɨ	0	142
+82913	manat	2275_SHADOW	aᵑdat	aᵑdat	a ŋ d a t		daniels2010	7207	7 4 1 7 1	XMBYN	ANTAT	5	5.A.V 5.N.c 5.T.C 5.A.V 5.T.c	1.5 1.1 1.75 1.3 0.8	aŋdat	0	142
+#
+83041	mum	2457_PATH_OR_ROAD	kuᵐbɨ	kuᵐbɨ	k u ⁿb ɨ		daniels2010	7232	1 7 1 7	AXBZ	KYPI	6	6.K.C 6.Y.V 6.P.C 6.I.V	2.0 1.5 1.75 0.8	kuⁿbɨ	0	144
+83040	apali	2457_PATH_OR_ROAD	ɣɨᵐbɨ	ɣɨᵐbɨ	ɣ ɨ ⁿb ɨ		daniels2010	7232	3 7 1 7	AXBZ	GIPI	2	2.G.C 2.I.V 2.P.C 2.I.V	2.0 1.5 1.75 0.8	ɣɨⁿbɨ	0	144
+83042	sirva	2457_PATH_OR_ROAD	ukɨᵐb	ukɨᵐb	u k ɨ ⁿb		daniels2010	7232	7 1 7 1	XBYN	YKIP	8	8.Y.V 8.K.C 8.I.V 8.P.c	1.5 1.75 1.3 0.8	ukɨⁿb	0	144
+83043	aisi	2457_PATH_OR_ROAD	kɨß(iŋ)	kɨß	k ɨ β		daniels2010	7232	1 7 3	AXN	KIB	1	1.K.C 1.I.V 1.B.c	2.0 1.5 0.8	kɨβ	0	144
+83044	kulsab	2457_PATH_OR_ROAD	kubu	kubu	k u b u		daniels2010	7232	1 7 1 7	AXBZ	KYPY	4	4.K.C 4.Y.V 4.P.C 4.Y.V	2.0 1.5 1.75 0.8	kubu	0	144
+#
+82892	apali	249_FOG	ɣamu	ɣamu	ɣ a m u		daniels2010	7236	3 7 4 7	AXBZ	GAMY	2	2.G.C 2.A.V 2.M.C 2.Y.V	2.0 1.5 1.75 0.8	ɣamu	0	145
+82893	sirva	249_FOG	kamu(gu)	kamu	k a m u		daniels2010	7236	1 7 4 7	AXBZ	KAMY	8	8.K.C 8.A.V 8.M.C 8.Y.V	2.0 1.5 1.75 0.8	kamu	0	145
+82894	aisi	249_FOG	kamo	kamo	k a m o		daniels2010	7236	1 7 4 7	AXBZ	KAMU	1	1.K.C 1.A.V 1.M.C 1.U.V	2.0 1.5 1.75 0.8	kamo	0	145
+#
+83522	sirva	2500_pandanusedible	tɨᵐbɨ	tɨᵐbɨ	t ɨ ⁿb ɨ		daniels2010	14086	1 7 1 7	AXBZ	TIPI	8	8.T.C 8.I.V 8.P.C 8.I.V	2.0 1.5 1.75 0.8	tɨⁿbɨ	0	146
+83523	kulsab	2500_pandanusedible	tubu	tubu	t u b u		daniels2010	14086	1 7 1 7	AXBZ	TYPY	4	4.T.C 4.Y.V 4.P.C 4.Y.V	2.0 1.5 1.75 0.8	tubu	0	146
+#
+82982	mum	251_SHARPEN_SOMETHING	kira-	kira-	k i r a		daniels2010	7249	1 7 5 7	AXBZ	KIRA	6	6.K.C 6.I.V 6.R.C 6.A.V	2.0 1.5 1.75 0.8	kira	0	150
+82981	nend	251_SHARPEN_SOMETHING	irañ	irañ	i r a ɲ	sharp	daniels2010	7249	7 5 7 4	XBYN	IRAN	7	7.I.V 7.R.C 7.A.V 7.N.c	1.5 1.75 1.3 0.8	iraɲ	0	150
+83484	nend	251_SHARPEN_SOMETHING	aŋkʷɨ	aŋkʷɨ	a ŋ kʷ ɨ	sharp	daniels2010	7196	7 4 1 7	XMBZ	ANKI	7	7.A.V 7.N.c 7.K.C 7.I.V	1.5 1.1 1.75 0.8	aŋkʷɨ	0	148
+83486	apali	251_SHARPEN_SOMETHING	raᵑgu-	raᵑgu-	r a ŋ g u		daniels2010	7196	5 7 4 1 7	AXMBZ	RANKY	2	2.R.C 2.A.V 2.N.c 2.K.C 2.Y.V	2.0 1.5 1.1 1.75 0.8	raŋgu	0	148
+83485	manat	251_SHARPEN_SOMETHING	aŋgɨßa-	aŋgɨßa-	a ŋ g ɨ β a		daniels2010	7196	7 4 1 7 3 7	XMBYBZ	ANKIBA	5	5.A.V 5.N.c 5.K.C 5.I.V 5.B.C 5.A.V	1.5 1.1 1.75 1.3 1.75 0.8	aŋgɨβa	0	148
+82983	sirva	251_SHARPEN_SOMETHING	kira-	kira-	k i r a		daniels2010	7249	1 7 5 7	AXBZ	KIRA	8	8.K.C 8.I.V 8.R.C 8.A.V	2.0 1.5 1.75 0.8	kira	0	150
+83487	aisi	251_SHARPEN_SOMETHING	tuk	tuk	t u k		daniels2010	7196	1 7 1	AXN	TYK	1	1.T.C 1.Y.V 1.K.c	2.0 1.5 0.8	tuk	0	147
+#
+83392	atemble	293_NETBAG	aŋan	aŋan	a ŋ a n		daniels2010	14071	7 4 7 4	XBYN	ANAN	3	3.A.V 3.N.C 3.A.V 3.N.c	1.5 1.75 1.3 0.8	aŋan	0	151
+83395	mum	293_NETBAG	paŋa	paŋa	p a ŋ a		daniels2010	14071	1 7 4 7	AXBZ	PANA	6	6.P.C 6.A.V 6.N.C 6.A.V	2.0 1.5 1.75 0.8	paŋa	0	151
+83393	nend	293_NETBAG	aŋan	aŋan	a ŋ a n		daniels2010	14071	7 4 7 4	XBYN	ANAN	7	7.A.V 7.N.C 7.A.V 7.N.c	1.5 1.75 1.3 0.8	aŋan	0	151
+83394	apali	293_NETBAG	ßaŋaŋ	ßaŋaŋ	β a ŋ a ŋ		daniels2010	14071	3 7 4 7 4	AXBYN	BANAN	2	2.B.C 2.A.V 2.N.C 2.A.V 2.N.c	2.0 1.5 1.75 1.3 0.8	βaŋaŋ	0	151
+83396	sirva	293_NETBAG	paŋa	paŋa	p a ŋ a		daniels2010	14071	1 7 4 7	AXBZ	PANA	8	8.P.C 8.A.V 8.N.C 8.A.V	2.0 1.5 1.75 0.8	paŋa	0	151
+83397	aisi	293_NETBAG	uaŋɨ	uaŋɨ	u a ŋ ɨ		daniels2010	14071	7 7 4 7	XYBZ	YANI	1	1.Y.V 1.A.V 1.N.C 1.I.V	1.5 1.3 1.75 0.8	uaŋɨ	0	151
+83398	kulsab	293_NETBAG	ϕana	ϕana	ɸ a n a		daniels2010	14071	3 7 4 7	AXBZ	BANA	4	4.B.C 4.A.V 4.N.C 4.A.V	2.0 1.5 1.75 0.8	ɸana	0	151
+#
+82900	mum	3181_MUSTARD	kamura	kamura	k a m u r a		daniels2010	7182	1 7 4 7 5 7	AXBYBZ	KAMYRA	6	6.K.C 6.A.V 6.M.C 6.Y.V 6.R.C 6.A.V	2.0 1.5 1.75 1.3 1.75 0.8	kamura	0	152
+82899	apali	3181_MUSTARD	ɣamuraŋ	ɣamuraŋ	ɣ a m u r a ŋ		daniels2010	7182	3 7 4 7 5 7 4	AXBYBYN	GAMYRAN	2	2.G.C 2.A.V 2.M.C 2.Y.V 2.R.C 2.A.V 2.N.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	ɣamuraŋ	0	152
+82898	manat	3181_MUSTARD	ɣamura	ɣamura	ɣ a m u r a		daniels2010	7182	3 7 4 7 5 7	AXBYBZ	GAMYRA	5	5.G.C 5.A.V 5.M.C 5.Y.V 5.R.C 5.A.V	2.0 1.5 1.75 1.3 1.75 0.8	ɣamura	0	152
+82901	sirva	3181_MUSTARD	kamura	kamura	k a m u r a		daniels2010	7182	1 7 4 7 5 7	AXBYBZ	KAMYRA	8	8.K.C 8.A.V 8.M.C 8.Y.V 8.R.C 8.A.V	2.0 1.5 1.75 1.3 1.75 0.8	kamura	0	152
+82902	aisi	3181_MUSTARD	kamor	kamor	k a m o r		daniels2010	7182	1 7 4 7 5	AXBYN	KAMUR	1	1.K.C 1.A.V 1.M.C 1.U.V 1.R.c	2.0 1.5 1.75 1.3 0.8	kamor	0	152
+#
+83511	atemble	3222_TWIG	tɨm	tɨm	t ɨ m		daniels2010	14122	1 7 4	AXN	TIM	3	3.T.C 3.I.V 3.M.c	2.0 1.5 0.8	tɨm	0	153
+83515	mum	3222_TWIG	tɨm	tɨm	t ɨ m	piece	daniels2010	14122	1 7 4	AXN	TIM	6	6.T.C 6.I.V 6.M.c	2.0 1.5 0.8	tɨm	0	153
+83512	nend	3222_TWIG	tɨm	tɨm	t ɨ m		daniels2010	14122	1 7 4	AXN	TIM	7	7.T.C 7.I.V 7.M.c	2.0 1.5 0.8	tɨm	0	153
+83514	apali	3222_TWIG	tɨᵐbɨ	tɨᵐbɨ	t ɨ ⁿb ɨ	(Acɨ dialect)	daniels2010	14122	1 7 1 7	AXBZ	TIPI	2	2.T.C 2.I.V 2.P.C 2.I.V	2.0 1.5 1.75 0.8	tɨⁿbɨ	0	154
+83513	manat	3222_TWIG	rɨᵐb	rɨᵐb	r ɨ ⁿb		daniels2010	14122	5 7 1	AXN	RIP	5	5.R.C 5.I.V 5.P.c	2.0 1.5 0.8	rɨⁿb	0	157
+83516	sirva	3222_TWIG	timi	timi	t i m i	stick	daniels2010	14122	1 7 4 7	AXBZ	TIMI	8	8.T.C 8.I.V 8.M.C 8.I.V	2.0 1.5 1.75 0.8	timi	0	153
+83517	aisi	3222_TWIG	tum	tum	t u m		daniels2010	14122	1 7 4	AXN	TYM	1	1.T.C 1.Y.V 1.M.c	2.0 1.5 0.8	tum	0	153
+83518	kulsab	3222_TWIG	tum	tum	t u m		daniels2010	14122	1 7 4	AXN	TYM	4	4.T.C 4.Y.V 4.M.c	2.0 1.5 0.8	tum	0	153
+#
+83171	mum	323_FAT_ORGANIC_SUBSTANCE	sɨⁿja	sɨⁿja	s ɨ n j a		daniels2010	14149	3 7 4 6 7	AXBCZ	SINJA	6	6.S.C 6.I.V 6.N.C 6.J.C 6.A.V	2.0 1.5 1.75 1.5 0.8	sɨnja	0	160
+83170	apali	323_FAT_ORGANIC_SUBSTANCE	sɨⁿdaŋ	sɨⁿdaŋ	s ɨ ⁿd a ŋ		daniels2010	14149	3 7 1 7 4	AXBYN	SITAN	2	2.S.C 2.I.V 2.T.C 2.A.V 2.N.c	2.0 1.5 1.75 1.3 0.8	sɨⁿdaŋ	0	158
+83172	sirva	323_FAT_ORGANIC_SUBSTANCE	sɨⁿda	sɨⁿda	s ɨ ⁿd a		daniels2010	14149	3 7 1 7	AXBZ	SITA	8	8.S.C 8.I.V 8.T.C 8.A.V	2.0 1.5 1.75 0.8	sɨⁿda	0	158
+83173	aisi	323_FAT_ORGANIC_SUBSTANCE	sɨrɨ	sɨrɨ	s ɨ r ɨ		daniels2010	14149	3 7 5 7	AXBZ	SIRI	1	1.S.C 1.I.V 1.R.C 1.I.V	2.0 1.5 1.75 0.8	sɨrɨ	0	158
+#
+83287	mum	3358_SPROUT_SHOOT	ɣur-	ɣur-	ɣ u r		daniels2010	7235	3 7 5	AXN	GYR	6	6.G.C 6.Y.V 6.R.c	2.0 1.5 0.8	ɣur	0	161
+83288	mum	3358_SPROUT_SHOOT	kur-	kur-	k u r		daniels2010	7235	1 7 5	AXN	KYR	6	6.K.C 6.Y.V 6.R.c	2.0 1.5 0.8	kur	0	161
+83286	nend	3358_SPROUT_SHOOT	ur-	ur-	u r		daniels2010	7235	7 5	XN	YR	7	7.Y.V 7.R.c	1.5 0.8	ur	0	161
+83289	sirva	3358_SPROUT_SHOOT	kuru-	kuru-	k u r u		daniels2010	7235	1 7 5 7	AXBZ	KYRY	8	8.K.C 8.Y.V 8.R.C 8.Y.V	2.0 1.5 1.75 0.8	kuru	0	161
+#
+83379	mum	345_SAP	mɨrɨ	mɨrɨ	m ɨ r ɨ		daniels2010	14156	4 7 5 7	AXBZ	MIRI	6	6.M.C 6.I.V 6.R.C 6.I.V	2.0 1.5 1.75 0.8	mɨrɨ	0	162
+83376	nend	345_SAP	rɨm	rɨm	r ɨ m		daniels2010	14156	5 7 4	AXN	RIM	7	7.R.C 7.I.V 7.M.c	2.0 1.5 0.8	rɨm	0	162
+83378	apali	345_SAP	mɨrɨm	mɨrɨm	m ɨ r ɨ m		daniels2010	14156	4 7 5 7 4	AXBYN	MIRIM	2	2.M.C 2.I.V 2.R.C 2.I.V 2.M.c	2.0 1.5 1.75 1.3 0.8	mɨrɨm	0	162
+83377	manat	345_SAP	mɨrmɨr	mɨrmɨr	m ɨ r m ɨ r		daniels2010	14156	4 7 5 4 7 5	AXMBYN	MIRMIR	5	5.M.C 5.I.V 5.R.c 5.M.C 5.I.V 5.R.c	2.0 1.5 1.1 1.75 1.3 0.8	mɨrmɨr	0	165
+83380	aisi	345_SAP	mɨr	mɨr	m ɨ r		daniels2010	14156	4 7 5	AXN	MIR	1	1.M.C 1.I.V 1.R.c	2.0 1.5 0.8	mɨr	0	162
+83381	kulsab	345_SAP	murum	murum	m u r u m		daniels2010	14156	4 7 5 7 4	AXBYN	MYRYM	4	4.M.C 4.Y.V 4.R.C 4.Y.V 4.M.c	2.0 1.5 1.75 1.3 0.8	murum	0	162
+#
+83265	mum	410_YAM	kunja	kunja	k u n j a		daniels2010	7223	1 7 4 6 7	AXBCZ	KYNJA	6	6.K.C 6.Y.V 6.N.C 6.J.C 6.A.V	2.0 1.5 1.75 1.5 0.8	kunja	0	166
+83263	nend	410_YAM	unsa	unsa	u n s a		daniels2010	7223	7 4 3 7	XMBZ	YNSA	7	7.Y.V 7.N.c 7.S.C 7.A.V	1.5 1.1 1.75 0.8	unsa	0	168
+83264	apali	410_YAM	ɣunja	ɣunja	ɣ u n j a		daniels2010	7223	3 7 4 6 7	AXBCZ	GYNJA	2	2.G.C 2.Y.V 2.N.C 2.J.C 2.A.V	2.0 1.5 1.75 1.5 0.8	ɣunja	0	166
+#
+83294	mum	420_FOREST	kura	kura	k u r a		daniels2010	7169	1 7 5 7	AXBZ	KYRA	6	6.K.C 6.Y.V 6.R.C 6.A.V	2.0 1.5 1.75 0.8	kura	0	169
+83293	manat	420_FOREST	ura	ura	u r a	L	daniels2010	7169	7 5 7	XBZ	YRA	5	5.Y.V 5.R.C 5.A.V	1.5 1.75 0.8	ura	1	169
+#
+83131	atemble	466_CASSOWARY	oiam	oiam	o i a m		daniels2010	14027	7 7 7 4	XYYN	UIAM	3	3.U.V 3.I.V 3.A.V 3.M.c	1.5 1.3 1.3 0.8	oiam	0	170
+83134	mum	466_CASSOWARY	muia	muia	m u i a		daniels2010	14027	4 7 7 7	AXYZ	MYIA	6	6.M.C 6.Y.V 6.I.V 6.A.V	2.0 1.5 1.3 0.8	muia	0	170
+83132	nend	466_CASSOWARY	oiam	oiam	o i a m		daniels2010	14027	7 7 7 4	XYYN	UIAM	7	7.U.V 7.I.V 7.A.V 7.M.c	1.5 1.3 1.3 0.8	oiam	0	170
+83133	apali	466_CASSOWARY	muiaŋ	muiaŋ	m u i a ŋ		daniels2010	14027	4 7 7 7 4	AXYYN	MYIAN	2	2.M.C 2.Y.V 2.I.V 2.A.V 2.N.c	2.0 1.5 1.3 1.3 0.8	muiaŋ	0	170
+83135	sirva	466_CASSOWARY	muia	muia	m u i a		daniels2010	14027	4 7 7 7	AXYZ	MYIA	8	8.M.C 8.Y.V 8.I.V 8.A.V	2.0 1.5 1.3 0.8	muia	0	170
+83136	aisi	466_CASSOWARY	muiaŋ	muiaŋ	m u i a ŋ	cassowary call	daniels2010	14027	4 7 7 7 4	AXYYN	MYIAN	1	1.M.C 1.Y.V 1.I.V 1.A.V 1.N.c	2.0 1.5 1.3 1.3 0.8	muiaŋ	0	170
+#
+83254	atemble	479_GROW	oɣra	oɣra	o ɣ r a	big	daniels2010	7227	7 3 5 7	XBCZ	UGRA	3	3.U.V 3.G.C 3.R.C 3.A.V	1.5 1.75 1.5 0.8	oɣra	0	173
+83258	mum	479_GROW	kuɣra-	kuɣra-	k u ɣ r a		daniels2010	7227	1 7 3 5 7	AXBCZ	KYGRA	6	6.K.C 6.Y.V 6.G.C 6.R.C 6.A.V	2.0 1.5 1.75 1.5 0.8	kuɣra	0	173
+83255	nend	479_GROW	oɣra(ra)-	oɣra-	o ɣ r a		daniels2010	7227	7 3 5 7	XBCZ	UGRA	7	7.U.V 7.G.C 7.R.C 7.A.V	1.5 1.75 1.5 0.8	oɣra	0	173
+83257	apali	479_GROW	ɣuɣɨr-	ɣuɣɨr-	ɣ u ɣ ɨ r		daniels2010	7227	3 7 3 7 5	AXBYN	GYGIR	2	2.G.C 2.Y.V 2.G.C 2.I.V 2.R.c	2.0 1.5 1.75 1.3 0.8	ɣuɣɨr	0	173
+83256	manat	479_GROW	ukra-	ukra-	u k r a		daniels2010	7227	7 1 5 7	XBCZ	YKRA	5	5.Y.V 5.K.C 5.R.C 5.A.V	1.5 1.75 1.5 0.8	ukra	0	173
+83259	aisi	479_GROW	kokr-	kokr-	k o k r		daniels2010	7227	1 7 1 5	AXBC	KUKR	1	1.K.C 1.U.V 1.K.C 1.R.C	2.0 1.5 1.75 1.5	kokr	0	173
+#
+83222	mum	503_FROG	kukasa	kukasa	k u k a s a		daniels2010	14038	1 7 1 7 3 7	AXBYBZ	KYKASA	6	6.K.C 6.Y.V 6.K.C 6.A.V 6.S.C 6.A.V	2.0 1.5 1.75 1.3 1.75 0.8	kukasa	0	174
+83221	nend	503_FROG	oɣas	oɣas	o ɣ a s		daniels2010	14038	7 3 7 3	XBYN	UGAS	7	7.U.V 7.G.C 7.A.V 7.S.c	1.5 1.75 1.3 0.8	oɣas	0	175
+#
+83211	atemble	586_GARDEN	uarɨ	uarɨ	u a r ɨ		daniels2010	7171	7 7 5 7	XYBZ	YARI	3	3.Y.V 3.A.V 3.R.C 3.I.V	1.5 1.3 1.75 0.8	uarɨ	0	176
+83215	mum	586_GARDEN	kɨßa	kɨßa	k ɨ β a		daniels2010	7171	1 7 3 7	AXBZ	KIBA	6	6.K.C 6.I.V 6.B.C 6.A.V	2.0 1.5 1.75 0.8	kɨβa	0	179
+83212	nend	586_GARDEN	uar	uar	u a r		daniels2010	7171	7 7 5	XYN	YAR	7	7.Y.V 7.A.V 7.R.c	1.5 1.3 0.8	uar	0	176
+83214	apali	586_GARDEN	ɣuarɨ	ɣuarɨ	ɣ u a r ɨ		daniels2010	7171	3 7 7 5 7	AXYBZ	GYARI	2	2.G.C 2.Y.V 2.A.V 2.R.C 2.I.V	2.0 1.5 1.3 1.75 0.8	ɣuarɨ	0	176
+83213	manat	586_GARDEN	ßar	ßar	β a r		daniels2010	7171	3 7 5	AXN	BAR	5	5.B.C 5.A.V 5.R.c	2.0 1.5 0.8	βar	0	179
+83216	sirva	586_GARDEN	kɨßa	kɨßa	k ɨ β a		daniels2010	7171	1 7 3 7	AXBZ	KIBA	8	8.K.C 8.I.V 8.B.C 8.A.V	2.0 1.5 1.75 0.8	kɨβa	0	179
+83217	aisi	586_GARDEN	kuar	kuar	k u a r		daniels2010	7171	1 7 7 5	AXYN	KYAR	1	1.K.C 1.Y.V 1.A.V 1.R.c	2.0 1.5 1.3 0.8	kuar	0	176
+#
+83342	atemble	606_GRASS	ta	ta	t a		daniels2010	7165	1 7	AX	TA	3	3.T.C 3.A.V	2.0 1.5	ta	0	180
+83343	nend	606_GRASS	nta	nta	n t a		daniels2010	7165	4 1 7	ACZ	NTA	7	7.N.C 7.T.C 7.A.V	2.0 1.5 0.8	nta	0	180
+83344	apali	606_GRASS	mɨⁿda	mɨⁿda	m ɨ ⁿd a		daniels2010	7165	4 7 1 7	AXBZ	MITA	2	2.M.C 2.I.V 2.T.C 2.A.V	2.0 1.5 1.75 0.8	mɨⁿda	0	180
+83345	kulsab	606_GRASS	muda	muda	m u d a		daniels2010	7165	4 7 1 7	AXBZ	MYTA	4	4.M.C 4.Y.V 4.T.C 4.A.V	2.0 1.5 1.75 0.8	muda	0	180
+#
+83227	atemble	670_ROOT	trɨ	trɨ	t r ɨ		daniels2010	14025	1 5 7	ACX	TRI	3	3.T.C 3.R.C 3.I.V	2.0 1.5 1.5	trɨ	0	183
+83230	mum	670_ROOT	kɨⁿdɨ	kɨⁿdɨ	k ɨ ⁿd ɨ		daniels2010	14025	1 7 1 7	AXBZ	KITI	6	6.K.C 6.I.V 6.T.C 6.I.V	2.0 1.5 1.75 0.8	kɨⁿdɨ	0	181
+83228	nend	670_ROOT	ntɨr	ntɨr	n t ɨ r		daniels2010	14025	4 1 7 5	ACYN	NTIR	7	7.N.C 7.T.C 7.I.V 7.R.c	2.0 1.5 1.3 0.8	ntɨr	0	185
+83229	apali	670_ROOT	ɣɨⁿdɨrɨ	ɣɨⁿdɨrɨ	ɣ ɨ ⁿd ɨ r ɨ		daniels2010	14025	3 7 1 7 5 7	AXBYBZ	GITIRI	2	2.G.C 2.I.V 2.T.C 2.I.V 2.R.C 2.I.V	2.0 1.5 1.75 1.3 1.75 0.8	ɣɨⁿdɨrɨ	0	181
+83231	aisi	670_ROOT	kɨrɨr	kɨrɨr	k ɨ r ɨ r		daniels2010	14025	1 7 5 7 5	AXBYN	KIRIR	1	1.K.C 1.I.V 1.R.C 1.I.V 1.R.c	2.0 1.5 1.75 1.3 0.8	kɨrɨr	0	181
+#
+83178	mum	675_FAECES_EXCREMENT	su	su	s u		daniels2010	15269	3 7	AX	SY	6	6.S.C 6.Y.V	2.0 1.5	su	0	186
+83177	apali	675_FAECES_EXCREMENT	su	su	s u		daniels2010	15269	3 7	AX	SY	2	2.S.C 2.Y.V	2.0 1.5	su	0	186
+83179	aisi	675_FAECES_EXCREMENT	su	su	s u		daniels2010	15269	3 7	AX	SY	1	1.S.C 1.Y.V	2.0 1.5	su	0	186
+#
+82883	mum	677_AXE	kaɣri	kaɣri	k a ɣ r i		daniels2010	7240	1 7 3 5 7	AXBCZ	KAGRI	6	6.K.C 6.A.V 6.G.C 6.R.C 6.I.V	2.0 1.5 1.75 1.5 0.8	kaɣri	0	189
+82882	nend	677_AXE	ayɨr	ayɨr	a j ɨ r		daniels2010	7240	7 6 7 5	XBYN	AJIR	7	7.A.V 7.J.C 7.I.V 7.R.c	1.5 1.75 1.3 0.8	ajɨr	0	190
+82975	apali	677_AXE	cinaŋ	cinaŋ	c i n a ŋ	(Acɨ dialect)	daniels2010	7239	1 7 4 7 4	AXBYN	CINAN	2	2.C.C 2.I.V 2.N.C 2.A.V 2.N.c	2.0 1.5 1.75 1.3 0.8	cinaŋ	0	187
+82976	sirva	677_AXE	kina	kina	k i n a		daniels2010	7239	1 7 4 7	AXBZ	KINA	8	8.K.C 8.I.V 8.N.C 8.A.V	2.0 1.5 1.75 0.8	kina	0	187
+82977	aisi	677_AXE	kinɨ	kinɨ	k i n ɨ		daniels2010	7239	1 7 4 7	AXBZ	KINI	1	1.K.C 1.I.V 1.N.C 1.I.V	2.0 1.5 1.75 0.8	kinɨ	0	187
+#
+83198	mum	695_GO	u-	u-	u		daniels2010	7252	7	X	Y	6	6.Y.V	1.5	u	0	191
+83195	nend	695_GO	w-	w-	w		daniels2010	7252	6	A	W	7	7.W.C	2.0	w	0	195
+83197	apali	695_GO	u-	u-	u		daniels2010	7252	7	X	Y	2	2.Y.V	1.5	u	0	191
+83196	manat	695_GO	ßu-	ßu-	β u		daniels2010	7252	3 7	AX	BY	5	5.B.C 5.Y.V	2.0 1.5	βu	0	191
+83199	sirva	695_GO	uru-	uru-	u r u		daniels2010	7252	7 5 7	XBZ	YRY	8	8.Y.V 8.R.C 8.Y.V	1.5 1.75 0.8	uru	0	196
+83200	aisi	695_GO	u(ßia)-	u-	u		daniels2010	7252	7	X	Y	1	1.Y.V	1.5	u	0	191
+#
+82944	mum	700_CARRY	kaßu-	kaßu-	k a β u		daniels2010	14052	1 7 3 7	AXBZ	KABY	6	6.K.C 6.A.V 6.B.C 6.Y.V	2.0 1.5 1.75 0.8	kaβu	0	199
+83027	mum	700_CARRY	kɨᵐbar-	kɨᵐbar-	k ɨ ⁿb a r		daniels2010	7221	1 7 1 7 5	AXBYN	KIPAR	6	6.K.C 6.I.V 6.P.C 6.A.V 6.R.c	2.0 1.5 1.75 1.3 0.8	kɨⁿbar	0	197
+82943	apali	700_CARRY	ɣaß	ɣaß	ɣ a β		daniels2010	14052	3 7 3	AXN	GAB	2	2.G.C 2.A.V 2.B.c	2.0 1.5 0.8	ɣaβ	0	198
+82945	sirva	700_CARRY	kaßuru-	kaßuru-	k a β u r u		daniels2010	14052	1 7 3 7 5 7	AXBYBZ	KABYRY	8	8.K.C 8.A.V 8.B.C 8.Y.V 8.R.C 8.Y.V	2.0 1.5 1.75 1.3 1.75 0.8	kaβuru	0	199
+83028	sirva	700_CARRY	kɨᵐbara-	kɨᵐbara-	k ɨ ⁿb a r a		daniels2010	7221	1 7 1 7 5 7	AXBYBZ	KIPARA	8	8.K.C 8.I.V 8.P.C 8.A.V 8.R.C 8.A.V	2.0 1.5 1.75 1.3 1.75 0.8	kɨⁿbara	0	197
+83029	aisi	700_CARRY	kɨßar-	kɨßar-	k ɨ β a r		daniels2010	7221	1 7 3 7 5	AXBYN	KIBAR	1	1.K.C 1.I.V 1.B.C 1.A.V 1.R.c	2.0 1.5 1.75 1.3 0.8	kɨβar	0	197
+82946	kulsab	700_CARRY	kapo-	kapo-	k a p o		daniels2010	14052	1 7 1 7	AXBZ	KAPU	4	4.K.C 4.A.V 4.P.C 4.U.V	2.0 1.5 1.75 0.8	kapo	0	199
+83030	kulsab	700_CARRY	kiba-	kiba-	k i b a		daniels2010	7221	1 7 1 7	AXBZ	KIPA	4	4.K.C 4.I.V 4.P.C 4.A.V	2.0 1.5 1.75 0.8	kiba	0	197
+#
+82797	mum	705_GO_UP_ASCEND	iaɣu-	iaɣu-	i a ɣ u		daniels2010	14144	7 7 3 7	XYBZ	IAGY	6	6.I.V 6.A.V 6.G.C 6.Y.V	1.5 1.3 1.75 0.8	iaɣu	0	201
+82795	nend	705_GO_UP_ASCEND	akʷ-	akʷ-	a kʷ		daniels2010	14144	7 1	XN	AK	7	7.A.V 7.K.c	1.5 0.8	akʷ	0	205
+82798	apali	705_GO_UP_ASCEND	iaɣu-	iaɣu-	i a ɣ u		daniels2010	14144	7 7 3 7	XYBZ	IAGY	2	2.I.V 2.A.V 2.G.C 2.Y.V	1.5 1.3 1.75 0.8	iaɣu	0	201
+82796	manat	705_GO_UP_ASCEND	aku-	aku-	a k u		daniels2010	14144	7 1 7	XBZ	AKY	5	5.A.V 5.K.C 5.Y.V	1.5 1.75 0.8	aku	0	201
+82799	aisi	705_GO_UP_ASCEND	iok-	iok-	i o k		daniels2010	14144	7 7 1	XYN	IUK	1	1.I.V 1.U.V 1.K.c	1.5 1.3 0.8	iok	0	200
+82800	kulsab	705_GO_UP_ASCEND	iak-	iak-	i a k		daniels2010	14144	7 7 1	XYN	IAK	4	4.I.V 4.A.V 4.K.c	1.5 1.3 0.8	iak	0	202
+#
+83460	mum	730_SNAKE	tau	tau	t a u		daniels2010	14046	1 7 7	AXZ	TAY	6	6.T.C 6.A.V 6.Y.V	2.0 1.5 0.8	tau	0	206
+83458	nend	730_SNAKE	akʷɨ	akʷɨ	a kʷ ɨ		daniels2010	14046	7 1 7	XBZ	AKI	7	7.A.V 7.K.C 7.I.V	1.5 1.75 0.8	akʷɨ	0	208
+83459	apali	730_SNAKE	raɣu	raɣu	r a ɣ u		daniels2010	14046	5 7 3 7	AXBZ	RAGY	2	2.R.C 2.A.V 2.G.C 2.Y.V	2.0 1.5 1.75 0.8	raɣu	0	206
+#
+83111	atemble	744_EGG	aku	aku	a k u		daniels2010	7169	7 1 7	XBZ	AKY	3	3.A.V 3.K.C 3.Y.V	1.5 1.75 0.8	aku	0	210
+83141	mum	744_EGG	muk	muk	m u k	egg, knee	daniels2010	14209	4 7 1	AXN	MYK	6	6.M.C 6.Y.V 6.K.c	2.0 1.5 0.8	muk	0	213
+83112	nend	744_EGG	aŋkɨ	aŋkɨ	a ŋ k ɨ		daniels2010	1	7 4 1 7	XMBZ	ANKI	7	7.A.V 7.N.c 7.K.C 7.I.V	1.5 1.1 1.75 0.8	aŋkɨ	0	210
+83113	apali	744_EGG	maᵑgɨ	maᵑgɨ	m a ŋ g ɨ		daniels2010	14209	4 7 4 1 7	AXMBZ	MANKI	2	2.M.C 2.A.V 2.N.c 2.K.C 2.I.V	2.0 1.5 1.1 1.75 0.8	maŋgɨ	0	210
+83140	manat	744_EGG	muku	muku	m u k u		daniels2010	14209	4 7 1 7	AXBZ	MYKY	5	5.M.C 5.Y.V 5.K.C 5.Y.V	2.0 1.5 1.75 0.8	muku	0	210
+83114	sirva	744_EGG	mɨᵑga	mɨᵑga	m i ŋ g a		daniels2010	14209	4 7 4 1 7	AXMBZ	MINKA	8	8.M.C 8.I.V 8.N.c 8.K.C 8.A.V	2.0 1.5 1.1 1.75 0.8	miŋga	0	210
+83142	aisi	744_EGG	muku	muku	m u k u	ball	daniels2010	14209	4 7 1 7	AXBZ	MYKY	1	1.M.C 1.Y.V 1.K.C 1.Y.V	2.0 1.5 1.75 0.8	muku	0	210
+#
+83269	atemble	760_KNOT	uŋkɨ(mpa)-	uŋkɨ-	u ŋ k ɨ	fasten	daniels2010	7164	7 4 1 7	XMBZ	YNKI	3	3.Y.V 3.N.c 3.K.C 3.I.V	1.5 1.1 1.75 0.8	uŋkɨ	0	214
+83270	apali	760_KNOT	ɣuᵑgi	ɣuᵑgi	ɣ u ŋ g i		daniels2010	7164	3 7 4 1 7	AXMBZ	GYNKI	2	2.G.C 2.Y.V 2.N.c 2.K.C 2.I.V	2.0 1.5 1.1 1.75 0.8	ɣuŋgi	0	214
+#
+83405	mum	776_TRUNK_OF_TREE	pat	pat	p a t		daniels2010	7193	1 7 1	AXN	PAT	6	6.P.C 6.A.V 6.T.c	2.0 1.5 0.8	pat	0	218
+83402	nend	776_TRUNK_OF_TREE	pa	pa	p a		daniels2010	7193	1 7	AX	PA	7	7.P.C 7.A.V	2.0 1.5	pa	0	218
+83404	apali	776_TRUNK_OF_TREE	pɨrɨ	pɨrɨ	p ɨ r ɨ	(Acɨ dialect)	daniels2010	7193	1 7 5 7	AXBZ	PIRI	2	2.P.C 2.I.V 2.R.C 2.I.V	2.0 1.5 1.75 0.8	pɨrɨ	0	215
+83403	manat	776_TRUNK_OF_TREE	ßat	ßat	β a t	center	daniels2010	7193	3 7 1	AXN	BAT	5	5.B.C 5.A.V 5.T.c	2.0 1.5 0.8	βat	0	215
+83406	sirva	776_TRUNK_OF_TREE	pat	pat	p a t		daniels2010	7193	1 7 1	AXN	PAT	8	8.P.C 8.A.V 8.T.c	2.0 1.5 0.8	pat	0	218
+83407	aisi	776_TRUNK_OF_TREE	pɨr	pɨr	p ɨ r		daniels2010	7193	1 7 5	AXN	PIR	1	1.P.C 1.I.V 1.R.c	2.0 1.5 0.8	pɨr	0	215
+#
+82888	mum	798_JAW	kaᵐba(ᵑgɨna)	kaᵐba	k ã b a	beard	daniels2010	7219	1 7 1 7	AXBZ	KAPA	6	6.K.C 6.A.V 6.P.C 6.A.V	2.0 1.5 1.75 0.8	kãba	0	219
+#
+82995	mum	832_BEAN	umai	umai	u m a i		daniels2010	14197	7 4 7 7	XBYZ	YMAI	6	6.Y.V 6.M.C 6.A.V 6.I.V	1.5 1.75 1.3 0.8	umai	0	220
+82994	apali	832_BEAN	ume	ume	u m e		daniels2010	14197	7 4 7	XBZ	YME	2	2.Y.V 2.M.C 2.E.V	1.5 1.75 0.8	ume	0	220
+82993	manat	832_BEAN	umai	umai	u m a i		daniels2010	14197	7 4 7 7	XBYZ	YMAI	5	5.Y.V 5.M.C 5.A.V 5.I.V	1.5 1.75 1.3 0.8	umai	0	220
+82996	sirva	832_BEAN	ume	ume	u m e		daniels2010	14197	7 4 7	XBZ	YME	8	8.Y.V 8.M.C 8.E.V	1.5 1.75 0.8	ume	0	225
+82997	aisi	832_BEAN	ume	ume	u m e		daniels2010	14197	7 4 7	XBZ	YME	1	1.Y.V 1.M.C 1.E.V	1.5 1.75 0.8	ume	0	220
+82998	kulsab	832_BEAN	omai	omai	o m a i		daniels2010	14197	7 4 7 7	XBYZ	UMAI	4	4.U.V 4.M.C 4.A.V 4.I.V	1.5 1.75 1.3 0.8	omai	0	220
+#
+83206	mum	857_STONE	tɨᵐba	tɨᵐba	t ɨ ⁿb a		daniels2010	4483	1 7 1 7	AXBZ	TIPA	6	6.T.C 6.I.V 6.P.C 6.A.V	2.0 1.5 1.75 0.8	tɨⁿba	0	226
+83204	nend	857_STONE	(oman) ampɨ-	_ampɨ-	a m p ɨ	fingernail	daniels2010	4483	7 4 1 7	XMBZ	AMPI	7	7.A.V 7.M.c 7.P.C 7.I.V	1.5 1.1 1.75 0.8	ampɨ	0	228
+83205	apali	857_STONE	rɨᵐba	rɨᵐba	r ɨ ⁿb a		daniels2010	4483	5 7 1 7	AXBZ	RIPA	2	2.R.C 2.I.V 2.P.C 2.A.V	2.0 1.5 1.75 0.8	rɨⁿba	0	226
+#
+83105	mum	868_BANANA	man	man	m a n		daniels2010	7166	4 7 4	AXN	MAN	6	6.M.C 6.A.V 6.N.c	2.0 1.5 0.8	man	0	229
+83107	nend	868_BANANA	anɨŋ	anɨŋ	a n ɨ ŋ		daniels2010	7166	7 4 7 4	XBYN	ANIN	7	7.A.V 7.N.C 7.I.V 7.N.c	1.5 1.75 1.3 0.8	anɨŋ	0	232
+83104	apali	868_BANANA	man	man	m a n	(Acɨ dialect)	daniels2010	7166	4 7 4	AXN	MAN	2	2.M.C 2.A.V 2.N.c	2.0 1.5 0.8	man	0	229
+83106	sirva	868_BANANA	man	man	m a n		daniels2010	7166	4 7 4	AXN	MAN	8	8.M.C 8.A.V 8.N.c	2.0 1.5 0.8	man	0	229
+83103	aisi	868_BANANA	maŋ	maŋ	m a ŋ		daniels2010	7166	4 7 4	AXN	MAN	1	1.M.C 1.A.V 1.N.c	2.0 1.5 0.8	maŋ	0	229
+#
+83125	mum	879_COUGH	mɨti	mɨti	m ɨ t i		daniels2010	7158	4 7 1 7	AXBZ	MITI	6	6.M.C 6.I.V 6.T.C 6.I.V	2.0 1.5 1.75 0.8	mɨti	0	233
+83124	apali	879_COUGH	mɨti	mɨti	m ɨ t i	(Acɨ dialect)	daniels2010	7158	4 7 1 7	AXBZ	MITI	2	2.M.C 2.I.V 2.T.C 2.I.V	2.0 1.5 1.75 0.8	mɨti	0	233
+83126	sirva	879_COUGH	mɨti	mɨti	m ɨ t i		daniels2010	7158	4 7 1 7	AXBZ	MITI	8	8.M.C 8.I.V 8.T.C 8.I.V	2.0 1.5 1.75 0.8	mɨti	0	233
+83127	kulsab	879_COUGH	mute	mute	m u t e		daniels2010	7158	4 7 1 7	AXBZ	MYTE	4	4.M.C 4.Y.V 4.T.C 4.E.V	2.0 1.5 1.75 0.8	mute	0	233
+#
+83501	nend	906_TREE	arɨ	arɨ	a r ɨ		daniels2010	15342	7 5 7	XBZ	ARI	7	7.A.V 7.R.C 7.I.V	1.5 1.75 0.8	arɨ	0	235
+83503	apali	906_TREE	rari	rari	r a r i		daniels2010	15342	5 7 5 7	AXBZ	RARI	2	2.R.C 2.A.V 2.R.C 2.I.V	2.0 1.5 1.75 0.8	rari	0	235
+83502	manat	906_TREE	tat	tat	t a t		daniels2010	15342	1 7 1	AXN	TAT	5	5.T.C 5.A.V 5.T.c	2.0 1.5 0.8	tat	0	237
+83504	sirva	906_TREE	tar	tar	t a r		daniels2010	15342	1 7 5	AXN	TAR	8	8.T.C 8.A.V 8.R.c	2.0 1.5 0.8	tar	0	234
+83505	aisi	906_TREE	tar	tar	t a r		daniels2010	15342	1 7 5	AXN	TAR	1	1.T.C 1.A.V 1.R.c	2.0 1.5 0.8	tar	0	234
+83506	kulsab	906_TREE	tar	tar	t a r		daniels2010	15342	1 7 5	AXN	TAR	4	4.T.C 4.A.V 4.R.c	2.0 1.5 0.8	tar	0	234
+#
+82926	mum	937_BIRD	kaßa	kaßa	k a β a		daniels2010	15011	1 7 3 7	AXBZ	KABA	6	6.K.C 6.A.V 6.B.C 6.A.V	2.0 1.5 1.75 0.8	kaβa	0	238
+82924	nend	937_BIRD	apa	apa	a p a		daniels2010	15011	7 1 7	XBZ	APA	7	7.A.V 7.P.C 7.A.V	1.5 1.75 0.8	apa	0	242
+82925	apali	937_BIRD	ɣaßaŋ	ɣaßaŋ	ɣ a β a ŋ		daniels2010	15011	3 7 3 7 4	AXBYN	GABAN	2	2.G.C 2.A.V 2.B.C 2.A.V 2.N.c	2.0 1.5 1.75 1.3 0.8	ɣaβaŋ	0	238
+82927	sirva	937_BIRD	kaßa	kaßa	k a β a		daniels2010	15011	1 7 3 7	AXBZ	KABA	8	8.K.C 8.A.V 8.B.C 8.A.V	2.0 1.5 1.75 0.8	kaβa	0	238
+82928	aisi	937_BIRD	kapu	kapu	k a p u		daniels2010	15011	1 7 1 7	AXBZ	KAPY	1	1.K.C 1.A.V 1.P.C 1.Y.V	2.0 1.5 1.75 0.8	kapu	0	238
+82929	kulsab	937_BIRD	kapa	kapa	k a p a		daniels2010	15011	1 7 1 7	AXBZ	KAPA	4	4.K.C 4.A.V 4.P.C 4.A.V	2.0 1.5 1.75 0.8	kapa	0	238
+#
+83309	mum	970_COCONUT	kuima	kuima	k u i m a		daniels2010	13411	1 7 7 4 7	AXYBZ	KYIMA	6	6.K.C 6.Y.V 6.I.V 6.M.C 6.A.V	2.0 1.5 1.3 1.75 0.8	kuima	0	243
+83308	manat	970_COCONUT	ɣuma	ɣuma	ɣ u m a		daniels2010	13411	3 7 4 7	AXBZ	GYMA	5	5.G.C 5.Y.V 5.M.C 5.A.V	2.0 1.5 1.75 0.8	ɣuma	0	243
+83310	sirva	970_COCONUT	kuima	kuima	k u i m a		daniels2010	13411	1 7 7 4 7	AXYBZ	KYIMA	8	8.K.C 8.Y.V 8.I.V 8.M.C 8.A.V	2.0 1.5 1.3 1.75 0.8	kuima	0	243
+#
+83235	mum	977_ARROW	kɨna	kɨna	k ɨ n a		daniels2010	7220	1 7 4 7	AXBZ	KINA	6	6.K.C 6.I.V 6.N.C 6.A.V	2.0 1.5 1.75 0.8	kɨna	0	244
+83238	apali	977_ARROW	ɣɨŋaŋ	ɣɨŋaŋ	ɣ ɨ ŋ a ŋ		daniels2010	7220	3 7 4 7 4	AXBYN	GINAN	2	2.G.C 2.I.V 2.N.C 2.A.V 2.N.c	2.0 1.5 1.75 1.3 0.8	ɣɨŋaŋ	0	244
+83236	sirva	977_ARROW	kɨŋa	kɨŋa	k ɨ ŋ a		daniels2010	7220	1 7 4 7	AXBZ	KINA	8	8.K.C 8.I.V 8.N.C 8.A.V	2.0 1.5 1.75 0.8	kɨŋa	0	244
+83237	aisi	977_ARROW	kɨŋɨ	kɨŋɨ	k ɨ ŋ ɨ		daniels2010	7220	1 7 4 7	AXBZ	KINI	1	1.K.C 1.I.V 1.N.C 1.I.V	2.0 1.5 1.75 0.8	kɨŋɨ	0	244
+#
+83020	mum	994_BOW	kɨm	kɨm	k ɨ m		daniels2010	10771	1 7 4	AXN	KIM	6	6.K.C 6.I.V 6.M.c	2.0 1.5 0.8	kɨm	0	245
+83019	apali	994_BOW	ɣɨmi	ɣɨmi	ɣ ɨ m i		daniels2010	10771	3 7 4 7	AXBZ	GIMI	2	2.G.C 2.I.V 2.M.C 2.I.V	2.0 1.5 1.75 0.8	ɣɨmi	0	245
+83021	sirva	994_BOW	kimi	kimi	k i m i		daniels2010	10771	1 7 4 7	AXBZ	KIMI	8	8.K.C 8.I.V 8.M.C 8.I.V	2.0 1.5 1.75 0.8	kimi	0	245
+83022	aisi	994_BOW	kim	kim	k i m		daniels2010	10771	1 7 4	AXN	KIM	1	1.K.C 1.I.V 1.M.c	2.0 1.5 0.8	kim	0	245
+83023	kulsab	994_BOW	kim	kim	k i m		daniels2010	10771	1 7 4	AXN	KIM	4	4.K.C 4.I.V 4.M.c	2.0 1.5 0.8	kim	0	245
+# Created using the LexStat class of LingPy-2.6.9
+# Parameters: 2:1_1.00_10000_0.70_global-2-0.50:local-1-0.50_0.30__T_shuffle_False:upgma:-2_0.7_0.00_-5.00
+# Cluster: lexstat_upgma_0.60

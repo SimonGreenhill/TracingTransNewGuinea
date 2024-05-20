@@ -1,0 +1,615 @@
+Concept: 1013_FRESHWATER_EEL, False Positives: no, False Negatives: yes
+aisi   	kɨβar   	   1	   1
+apali  	ɣɨⁿbaram	   1	   2
+sirva  	kɨⁿbra  	   1	   3
+#
+Concept: 1084_CALL, False Positives: no, False Negatives: yes
+aisi   	ur  	   1	   1
+apali  	ur  	   1	   1
+kulsab 	uara	   1	   3
+manat  	ura 	   1	   3
+mum    	ura 	   1	   3
+#
+Concept: 1100_COOK_SOMETHING, False Positives: no, False Negatives: yes
+aisi   	koɣr  	   1	   1
+apali  	ɣuŋgɨr	   1	   2
+mum    	kuŋgra	   1	   4
+manat  	imu   	   3	   3
+nend   	ema   	   3	   5
+#
+Concept: 1115_SPEECH, False Positives: no, False Negatives: yes
+aisi   	ki  	   1	   1
+apali  	ciaŋ	   1	   2
+sirva  	cia 	   1	   2
+kulsab 	kia 	   1	   3
+#
+Concept: 1202_BIG, False Positives: no, False Negatives: yes
+atemble	uram	   1	   1
+manat  	arum	   1	   2
+mum    	aru 	   1	   2
+#
+Concept: 1210_HEAVY, False Positives: no, False Negatives: yes
+aisi   	pum	   1	   1
+mum    	pɨm	   1	   2
+#
+Concept: 1217_FATHER, False Positives: no, False Negatives: yes
+apali  	iaβaŋ	   1	   1
+mum    	iaβa 	   1	   1
+sirva  	iaβa 	   1	   1
+manat  	aβan 	   1	   2
+#
+Concept: 1231_NEW, False Positives: no, False Negatives: yes
+apali  	ɣɨɣɨ	   1	   1
+mum    	kɨɣi	   1	   2
+sirva  	kikɨ	   1	   3
+#
+Concept: 1248_EYE, False Positives: no, False Negatives: yes
+aisi   	tamɨ    	   1	   1
+apali  	ramiŋgaŋ	   1	   2
+kulsab 	tama    	   1	   3
+mum    	tamⁿga  	   1	   3
+manat  	miŋga   	   1	   4
+nend   	ampɨn   	   1	   6
+sirva  	tarɨma  	   1	   7
+#
+Concept: 1252_HOUSE, False Positives: no, False Negatives: yes
+aisi   	uru 	   1	   1
+apali  	uraŋ	   1	   2
+atemble	oram	   1	   3
+nend   	oram	   1	   3
+sirva  	uara	   1	   5
+#
+Concept: 1257_WING, False Positives: no, False Negatives: yes
+aisi   	ambɨŋ	   1	   1
+apali  	ãbɨŋ 	   1	   2
+sirva  	ãbɨ  	   1	   2
+atemble	apuɣɨ	   1	   3
+manat  	ãb   	   1	   4
+mum    	ãb   	   1	   4
+nend   	mpɨŋ 	   1	   6
+#
+Concept: 1274_SALT, False Positives: no, False Negatives: yes
+apali  	rurɨm	   1	   1
+atemble	utɨm 	   1	   2
+manat  	tɨm  	   1	   2
+nend   	utɨm 	   1	   2
+#
+Concept: 1280_FALL, False Positives: no, False Negatives: yes
+aisi   	mɨɣ  	   1	   1
+apali  	miŋga	   1	   2
+sirva  	miŋga	   1	   2
+#
+Concept: 1287_COLD, False Positives: no, False Negatives: yes
+manat  	ɣɨmri	   1	   1
+mum    	kɨmri	   1	   1
+nend   	imɨr 	   1	   3
+#
+Concept: 1313_MOON, False Positives: no, False Negatives: yes
+aisi   	taku 	   1	   1
+mum    	taku 	   1	   1
+mum    	rakun	   1	   2
+#
+Concept: 1329_TOMORROW, False Positives: no, False Negatives: yes
+aisi   	amor	   1	   1
+manat  	ãbr 	   1	   2
+mum    	amu 	   1	   3
+sirva  	amu 	   1	   3
+#
+Concept: 1333_NECK, False Positives: no, False Negatives: yes
+aisi   	naɣum	   1	   1
+mum    	naŋgu	   1	   2
+sirva  	naŋgu	   1	   2
+#
+Concept: 1336_EAT, False Positives: no, False Negatives: yes
+aisi   	n  	   1	   1
+apali  	n  	   1	   1
+atemble	nja	   1	   3
+kulsab 	ne 	   1	   4
+manat  	ɲa 	   1	   5
+mum    	ɲa 	   1	   5
+nend   	na 	   1	   7
+sirva  	ɲi 	   1	   8
+#
+Concept: 1380_TOOTH, False Positives: no, False Negatives: yes
+aisi   	makɨ	   1	   1
+kulsab 	maka	   1	   1
+apali  	mɨka	   1	   2
+mum    	mɨka	   1	   2
+sirva  	mɨka	   1	   2
+nend   	kar 	   1	   5
+#
+Concept: 1392_LOUSE, False Positives: no, False Negatives: yes
+aisi   	imu 	   1	   1
+apali  	iman	   1	   2
+atemble	eman	   1	   2
+nend   	eman	   1	   2
+kulsab 	ima 	   1	   4
+mum    	ɲima	   1	   4
+sirva  	ima 	   1	   4
+#
+Concept: 1394_BONE, False Positives: no, False Negatives: yes
+mum    	punj 	   1	   1
+sirva  	punz 	   1	   1
+nend   	unsɨŋ	   1	   2
+#
+Concept: 1402_BREAST, False Positives: no, False Negatives: yes
+aisi   	amɨ 	   1	   1
+apali  	amaŋ	   1	   2
+atemble	aman	   1	   2
+mum    	ama 	   1	   2
+sirva  	ama 	   1	   2
+#
+Concept: 1403_BITE, False Positives: no, False Negatives: yes
+aisi   	is 	   1	   1
+kulsab 	isa	   1	   2
+sirva  	isa	   1	   2
+mum    	sa 	   1	   3
+#
+Concept: 1405_NAME, False Positives: no, False Negatives: yes
+aisi   	iβ   	   1	   1
+apali  	iⁿbi 	   1	   2
+mum    	ɲiⁿbi	   1	   2
+kulsab 	nibe 	   1	   3
+sirva  	iⁿb  	   1	   5
+#
+Concept: 1408_HEAR, False Positives: no, False Negatives: yes
+aisi   	ir  	   1	   1
+mum    	ĩdar	   1	   2
+sirva  	ⁿdar	   1	   3
+#
+Concept: 1423_FIGHT, False Positives: no, False Negatives: yes
+aisi   	saɣɨ  	   1	   1
+apali  	saŋgaŋ	   1	   2
+mum    	saŋga 	   1	   2
+#
+Concept: 1432_CUT, False Positives: no, False Negatives: yes
+aisi   	ik 	   1	   1
+apali  	iɣ 	   1	   2
+kulsab 	ika	   1	   3
+nend   	ika	   1	   3
+#
+Concept: 1436_SCRATCH, False Positives: no, False Negatives: yes
+aisi   	uri	   1	   1
+mum    	prɨ	   1	   2
+#
+Concept: 1442_STAND, False Positives: no, False Negatives: yes
+aisi   	toɣa 	   1	   1
+apali  	raŋgu	   1	   2
+mum    	taŋgu	   1	   2
+sirva  	taŋgu	   1	   2
+manat  	aŋg  	   1	   3
+#
+Concept: 1443_WALK, False Positives: no, False Negatives: yes
+apali  	ɣɨⁿd 	   1	   1
+manat  	ⁿda  	   1	   2
+mum    	kɨⁿda	   1	   3
+sirva  	kɨⁿda	   1	   3
+nend   	taŋ  	   1	   4
+#
+Concept: 1447_GIVE, False Positives: no, False Negatives: yes
+aisi   	iɣʷ   	   1	   1
+apali  	iⁿgu  	   1	   2
+manat  	iⁿgu  	   1	   2
+atemble	ikw   	   1	   3
+mum    	ⁿgu   	   1	   5
+sirva  	ⁿgu   	   1	   5
+nend   	iˀⁿgʷa	   1	   6
+#
+Concept: 1448_HOLD, False Positives: no, False Negatives: yes
+aisi   	mɨŋa	   1	   1
+apali  	mɨŋ 	   1	   1
+manat  	mɨŋa	   1	   1
+mum    	mɨŋa	   1	   1
+sirva  	mɨŋa	   1	   1
+nend   	ŋa  	   1	   5
+#
+Concept: 1456_THROW, False Positives: no, False Negatives: yes
+aisi   	kapr  	   1	   1
+apali  	ɣaβar 	   1	   2
+manat  	apara 	   1	   3
+mum    	kaβara	   1	   3
+sirva  	kapara	   1	   3
+nend   	aβ    	   1	   5
+#
+Concept: 1462_POT, False Positives: no, False Negatives: yes
+aisi   	siɣ  	   1	   1
+apali  	siŋji	   1	   2
+sirva  	siŋgi	   1	   2
+kulsab 	sig  	   1	   3
+mum    	siŋg 	   1	   3
+nend   	ncɨ  	   1	   5
+#
+Concept: 1519_RUN, False Positives: no, False Negatives: yes
+apali  	ɣaŋɨr	   1	   1
+manat  	aŋra 	   1	   2
+nend   	aŋra 	   1	   2
+#
+Concept: 1554_MAN, False Positives: no, False Negatives: yes
+aisi   	kuru 	   1	   1
+kulsab 	kura 	   1	   1
+nend   	kura 	   1	   1
+sirva  	kura 	   1	   1
+apali  	ɣuraŋ	   1	   2
+manat  	rum  	   1	   4
+#
+Concept: 1623_SPEAK, False Positives: no, False Negatives: yes
+aisi   	aβ 	   1	   1
+apali  	ãb 	   1	   2
+kulsab 	aba	   1	   3
+mum    	ãba	   1	   4
+sirva  	ãba	   1	   4
+#
+Concept: 1717_toputgive, False Positives: no, False Negatives: yes
+aisi   	tam 	   1	   1
+mum    	tama	   1	   1
+sirva  	tama	   1	   1
+apali  	ram 	   1	   2
+manat  	rama	   1	   2
+atemble	ãba 	   1	   3
+#
+Concept: 1726_WET, False Positives: no, False Negatives: yes
+aisi   	pɨtɨ	   1	   1
+apali  	pɨta	   1	   1
+manat  	βɨta	   1	   3
+nend   	ta  	   1	   4
+#
+Concept: 1730_CHEEK, False Positives: no, False Negatives: yes
+apali  	mɨɣum	   1	   1
+manat  	mɨku 	   1	   2
+nend   	kɨm  	   1	   3
+#
+Concept: 175_BLOW_OF_WIND, False Positives: no, False Negatives: yes
+aisi   	kr 	   1	   1
+nend   	kr 	   1	   1
+manat  	ɣra	   1	   2
+mum    	kra	   1	   3
+#
+Concept: 1829_JUMP, False Positives: no, False Negatives: yes
+aisi   	kopr 	   1	   1
+kulsab 	kopra	   1	   1
+sirva  	kuβra	   1	   3
+#
+Concept: 1837_VULVA, False Positives: no, False Negatives: yes
+aisi   	takɨ	   1	   1
+atemble	akam	   1	   2
+nend   	aɣam	   1	   2
+mum    	taɣa	   1	   3
+#
+Concept: 1839_CRY, False Positives: no, False Negatives: yes
+aisi   	ik   	   1	   1
+apali  	irɨɣ 	   1	   2
+sirva  	irɨɣa	   1	   2
+manat  	irɣa 	   1	   3
+mum    	irɣa 	   1	   3
+#
+Concept: 1886_ARMPIT, False Positives: no, False Negatives: yes
+apali  	ɣuŋji 	   1	   1
+kulsab 	kʷegi 	   1	   2
+manat  	ⁿgɨsɨ 	   1	   3
+mum    	kuŋgɨs	   1	   4
+sirva  	kuŋgus	   1	   4
+nend   	ŋkɨsɨ 	   1	   5
+#
+Concept: 1917_TIE, False Positives: no, False Negatives: yes
+aisi   	kak 	   1	   1
+apali  	ɣaɣ 	   1	   2
+mum    	kaɣa	   1	   3
+sirva  	kaɣa	   1	   3
+#
+Concept: 1927_BAMBOO, False Positives: no, False Negatives: yes
+apali  	sɨɣai	   1	   1
+nend   	aɣai 	   1	   2
+#
+Concept: 1962_ROAST_SOMETHING, False Positives: no, False Negatives: yes
+aisi   	kɨr 	   1	   1
+apali  	ɣɨr 	   1	   2
+atemble	kra 	   1	   3
+kulsab 	kira	   1	   3
+mum    	kra 	   1	   3
+nend   	kra 	   1	   3
+manat  	ɣra 	   1	   5
+#
+Concept: 1967_firelight, False Positives: no, False Negatives: yes
+apali  	mira  	   1	   1
+manat  	mira  	   1	   1
+mum    	mira  	   1	   1
+sirva  	mira  	   1	   1
+kulsab 	nimera	   1	   2
+nend   	era   	   1	   5
+#
+Concept: 2014_GO_DOWN_DESCEND, False Positives: no, False Negatives: yes
+apali  	miŋgu  	   1	   1
+manat  	miŋgu  	   1	   1
+mum    	miŋgu  	   1	   1
+kulsab 	muɣ    	   1	   2
+nend   	ŋkʷ    	   1	   5
+sirva  	muŋgura	   1	   6
+#
+Concept: 2098_FOOT_OR_LEG, False Positives: no, False Negatives: yes
+apali  	rãdam 	   1	   1
+manat  	ãdam  	   1	   1
+nend   	ãdam  	   1	   1
+atemble	ⁿdasɨm	   1	   2
+mum    	tãda  	   1	   4
+sirva  	tãda  	   1	   4
+#
+Concept: 2101_BE_DEAD_OR_DIE, False Positives: no, False Negatives: yes
+aisi   	kum  	   1	   1
+kulsab 	kumo 	   1	   1
+apali  	ɣɨm  	   1	   2
+manat  	ɣɨmu 	   1	   2
+atemble	ⁿbu  	   1	   3
+mum    	kɨmu 	   1	   6
+nend   	ma   	   1	   7
+sirva  	kumru	   1	   8
+#
+Concept: 2121_ARM_OR_HAND, False Positives: no, False Negatives: yes
+aisi   	umu   	   1	   1
+apali  	ɣuman 	   1	   2
+kulsab 	koma  	   1	   3
+mum    	kuma  	   1	   3
+sirva  	kuma  	   1	   3
+manat  	uⁿbram	   1	   4
+nend   	oman  	   1	   6
+#
+Concept: 2159_GROUND, False Positives: no, False Negatives: yes
+aisi   	ur  	   1	   1
+apali  	ɸɨrɨ	   1	   2
+mum    	prɨ 	   1	   3
+#
+Concept: 217_BETELNUT, False Positives: no, False Negatives: yes
+aisi   	kare 	   1	   1
+kulsab 	karia	   1	   1
+mum    	kari 	   1	   1
+sirva  	kari 	   1	   1
+atemble	aɣuas	   2	   2
+manat  	aɣusa	   2	   4
+nend   	aɣʷas	   2	   6
+#
+Concept: 2183_RIGHT_HAND, False Positives: no, False Negatives: yes
+kulsab 	kada	   1	   1
+manat  	ɣaŋd	   1	   2
+mum    	kaŋd	   1	   2
+#
+Concept: 2275_SHADOW, False Positives: no, False Negatives: yes
+apali  	ɣaŋdarɨ	   1	   1
+manat  	aŋdat  	   1	   2
+nend   	aŋdar  	   1	   2
+#
+Concept: 2457_PATH_OR_ROAD, False Positives: no, False Negatives: yes
+aisi   	kɨβ  	   1	   1
+apali  	ɣɨⁿbɨ	   1	   2
+kulsab 	kubu 	   1	   3
+mum    	kuⁿbɨ	   1	   4
+sirva  	ukɨⁿb	   1	   5
+#
+Concept: 249_FOG, False Positives: no, False Negatives: yes
+aisi   	kamo	   1	   1
+sirva  	kamu	   1	   1
+apali  	ɣamu	   1	   2
+#
+Concept: 2500_pandanusedible, False Positives: no, False Negatives: yes
+kulsab 	tubu 	   1	   1
+sirva  	tɨⁿbɨ	   1	   2
+#
+Concept: 251_SHARPEN_SOMETHING, False Positives: no, False Negatives: yes
+aisi   	tuk   	   1	   1
+apali  	raŋgu 	   1	   2
+manat  	aŋgɨβa	   1	   3
+nend   	aŋkʷɨ 	   1	   7
+mum    	kira  	   4	   4
+sirva  	kira  	   4	   4
+nend   	iraɲ  	   4	   5
+#
+Concept: 293_NETBAG, False Positives: no, False Negatives: yes
+aisi   	uaŋɨ 	   1	   1
+apali  	βaŋaŋ	   1	   2
+atemble	aŋan 	   1	   3
+nend   	aŋan 	   1	   3
+kulsab 	ɸana 	   1	   4
+mum    	paŋa 	   1	   5
+sirva  	paŋa 	   1	   5
+#
+Concept: 3181_MUSTARD, False Positives: no, False Negatives: yes
+aisi   	kamor  	   1	   1
+apali  	ɣamuraŋ	   1	   2
+manat  	ɣamura 	   1	   2
+mum    	kamura 	   1	   2
+sirva  	kamura 	   1	   2
+#
+Concept: 3222_TWIG, False Positives: no, False Negatives: yes
+aisi   	tum  	   1	   1
+kulsab 	tum  	   1	   1
+apali  	tɨⁿbɨ	   1	   2
+atemble	tɨm  	   1	   3
+mum    	tɨm  	   1	   3
+nend   	tɨm  	   1	   3
+manat  	rɨⁿb 	   1	   5
+sirva  	timi 	   1	   8
+#
+Concept: 323_FAT_ORGANIC_SUBSTANCE, False Positives: no, False Negatives: yes
+aisi   	sɨrɨ  	   1	   1
+apali  	sɨⁿdaŋ	   1	   2
+sirva  	sɨⁿda 	   1	   2
+mum    	sɨnja 	   1	   3
+#
+Concept: 3358_SPROUT_SHOOT, False Positives: no, False Negatives: yes
+mum    	ɣur 	   1	   1
+nend   	ur  	   1	   2
+sirva  	kuru	   1	   3
+mum    	kur 	   1	   3
+#
+Concept: 345_SAP, False Positives: no, False Negatives: yes
+aisi   	mɨr   	   1	   1
+apali  	mɨrɨm 	   1	   2
+mum    	mɨrɨ  	   1	   2
+kulsab 	murum 	   1	   3
+manat  	mɨrmɨr	   1	   4
+nend   	rɨm   	   1	   6
+#
+Concept: 410_YAM, False Positives: no, False Negatives: yes
+apali  	ɣunja	   1	   1
+mum    	kunja	   1	   1
+nend   	unsa 	   1	   3
+#
+Concept: 466_CASSOWARY, False Positives: no, False Negatives: yes
+aisi   	muiaŋ	   1	   1
+apali  	muiaŋ	   1	   1
+mum    	muia 	   1	   1
+sirva  	muia 	   1	   1
+atemble	oiam 	   1	   3
+nend   	oiam 	   1	   3
+#
+Concept: 479_GROW, False Positives: no, False Negatives: yes
+aisi   	kokr 	   1	   1
+apali  	ɣuɣɨr	   1	   2
+atemble	oɣra 	   1	   3
+nend   	oɣra 	   1	   3
+manat  	ukra 	   1	   4
+mum    	kuɣra	   1	   5
+#
+Concept: 503_FROG, False Positives: no, False Negatives: yes
+mum    	kukasa	   1	   1
+nend   	oɣas  	   1	   2
+#
+Concept: 586_GARDEN, False Positives: no, False Negatives: yes
+aisi   	kuar 	   1	   1
+nend   	uar  	   1	   1
+apali  	ɣuarɨ	   1	   2
+atemble	uarɨ 	   1	   2
+manat  	βar  	   1	   4
+mum    	kɨβa 	   1	   5
+sirva  	kɨβa 	   1	   5
+#
+Concept: 606_GRASS, False Positives: no, False Negatives: yes
+apali  	mɨⁿda	   1	   1
+atemble	ta   	   1	   2
+kulsab 	muda 	   1	   3
+nend   	nta  	   1	   4
+#
+Concept: 670_ROOT, False Positives: no, False Negatives: yes
+aisi   	kɨrɨr  	   1	   1
+apali  	ɣɨⁿdɨrɨ	   1	   2
+atemble	trɨ    	   1	   3
+mum    	kɨⁿdɨ  	   1	   4
+nend   	ntɨr   	   1	   5
+#
+Concept: 677_AXE, False Positives: no, False Negatives: yes
+aisi   	kinɨ 	   1	   1
+sirva  	kina 	   1	   1
+apali  	cinaŋ	   1	   2
+mum    	kaɣri	   3	   3
+nend   	ajɨr 	   3	   4
+#
+Concept: 695_GO, False Positives: no, False Negatives: yes
+aisi   	u  	   1	   1
+apali  	u  	   1	   1
+mum    	u  	   1	   1
+manat  	βu 	   1	   3
+nend   	w  	   1	   5
+sirva  	uru	   1	   6
+#
+Concept: 700_CARRY, False Positives: no, False Negatives: yes
+aisi   	kɨβar  	   1	   1
+mum    	kɨⁿbar 	   1	   1
+sirva  	kɨⁿbara	   1	   1
+kulsab 	kiba   	   1	   6
+apali  	ɣaβ    	   2	   2
+kulsab 	kapo   	   2	   3
+mum    	kaβu   	   2	   4
+sirva  	kaβuru 	   2	   5
+#
+Concept: 705_GO_UP_ASCEND, False Positives: no, False Negatives: yes
+aisi   	iok 	   1	   1
+apali  	iaɣu	   1	   2
+mum    	iaɣu	   1	   2
+kulsab 	iak 	   1	   3
+manat  	aku 	   1	   4
+nend   	akʷ 	   1	   6
+#
+Concept: 730_SNAKE, False Positives: no, False Negatives: yes
+apali  	raɣu	   1	   1
+mum    	tau 	   1	   2
+nend   	akʷɨ	   1	   3
+#
+Concept: 744_EGG, False Positives: no, False Negatives: yes
+aisi   	muku 	   1	   1
+manat  	muku 	   1	   1
+mum    	muk  	   1	   1
+apali  	maŋgɨ	   1	   2
+sirva  	miŋga	   1	   7
+atemble	aku  	   3	   3
+nend   	aŋkɨ 	   6	   6
+#
+Concept: 760_KNOT, False Positives: no, False Negatives: yes
+apali  	ɣuŋgi	   1	   1
+atemble	uŋkɨ 	   1	   2
+#
+Concept: 776_TRUNK_OF_TREE, False Positives: no, False Negatives: yes
+aisi   	pɨr 	   1	   1
+apali  	pɨrɨ	   1	   1
+manat  	βat 	   1	   3
+mum    	pat 	   1	   4
+sirva  	pat 	   1	   4
+nend   	pa  	   1	   5
+#
+Concept: 832_BEAN, False Positives: no, False Negatives: yes
+aisi   	ume 	   1	   1
+apali  	ume 	   1	   1
+sirva  	ume 	   1	   1
+kulsab 	omai	   1	   3
+manat  	umai	   1	   3
+mum    	umai	   1	   3
+#
+Concept: 857_STONE, False Positives: no, False Negatives: yes
+apali  	rɨⁿba	   1	   1
+mum    	tɨⁿba	   1	   1
+nend   	ampɨ 	   1	   3
+#
+Concept: 868_BANANA, False Positives: no, False Negatives: yes
+aisi   	maŋ 	   1	   1
+apali  	man 	   1	   2
+mum    	man 	   1	   2
+sirva  	man 	   1	   2
+nend   	anɨŋ	   1	   4
+#
+Concept: 879_COUGH, False Positives: no, False Negatives: yes
+apali  	mɨti	   1	   1
+mum    	mɨti	   1	   1
+sirva  	mɨti	   1	   1
+kulsab 	mute	   1	   2
+#
+Concept: 906_TREE, False Positives: no, False Negatives: yes
+aisi   	tar 	   1	   1
+kulsab 	tar 	   1	   1
+sirva  	tar 	   1	   1
+apali  	rari	   1	   2
+manat  	tat 	   1	   4
+nend   	arɨ 	   1	   5
+#
+Concept: 937_BIRD, False Positives: no, False Negatives: yes
+aisi   	kapu 	   1	   1
+kulsab 	kapa 	   1	   1
+apali  	ɣaβaŋ	   1	   2
+mum    	kaβa 	   1	   4
+sirva  	kaβa 	   1	   4
+nend   	apa  	   1	   5
+#
+Concept: 970_COCONUT, False Positives: no, False Negatives: yes
+manat  	ɣuma 	   1	   1
+mum    	kuima	   1	   2
+sirva  	kuima	   1	   2
+#
+Concept: 977_ARROW, False Positives: no, False Negatives: yes
+aisi   	kɨŋɨ 	   1	   1
+sirva  	kɨŋa 	   1	   1
+apali  	ɣɨŋaŋ	   1	   2
+mum    	kɨna 	   1	   3
+#
+Concept: 994_BOW, False Positives: no, False Negatives: yes
+aisi   	kim 	   1	   1
+kulsab 	kim 	   1	   1
+sirva  	kimi	   1	   1
+apali  	ɣɨmi	   1	   2
+mum    	kɨm 	   1	   4
+#

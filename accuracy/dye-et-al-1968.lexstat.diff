@@ -1,0 +1,459 @@
+Concept: 1013_FRESHWATER_EEL, False Positives: no, False Negatives: yes
+alamblak     	gongʌm  	   1	   1
+bahinemo     	ɪlafuli 	   2	   2
+kapriman     	fʌliL/l 	   2	   3
+saniyo-hiyewe	harɛwati	   4	   4
+#
+Concept: 1202_BIG, False Positives: yes, False Negatives: yes
+alamblak     	bʌdokham	   1	   1
+bahinemo     	bʌdo    	   2	   1
+kapriman     	marbe   	   2	   3
+saniyo-hiyewe	rasi    	   4	   4
+#
+Concept: 1203_LONG, False Positives: no, False Negatives: yes
+alamblak     	jukhar	   1	   1
+kapriman     	xagər 	   1	   3
+bahinemo     	mija  	   2	   2
+saniyo-hiyewe	pitase	   4	   4
+#
+Concept: 1205_TONGUE, False Positives: no, False Negatives: yes
+alamblak     	torkh 	   1	   1
+bahinemo     	thɔlu 	   1	   2
+kapriman     	thʌdɪs	   1	   3
+saniyo-hiyewe	soruwɛ	   1	   4
+#
+Concept: 1209_I, False Positives: no, False Negatives: yes
+alamblak     	na 	   1	   1
+bahinemo     	ani	   1	   2
+kapriman     	an 	   1	   2
+saniyo-hiyewe	ane	   1	   2
+#
+Concept: 1210_HEAVY, False Positives: no, False Negatives: yes
+alamblak     	khurukhijuth	   1	   1
+kapriman     	xargogwor   	   1	   3
+bahinemo     	jisij       	   2	   2
+saniyo-hiyewe	orasiai     	   4	   4
+#
+Concept: 1212_WE, False Positives: no, False Negatives: yes
+alamblak     	nʌm 	   1	   1
+bahinemo     	nʌm 	   1	   1
+kapriman     	nʌm 	   1	   1
+saniyo-hiyewe	nʌmo	   1	   4
+#
+Concept: 1216_MOTHER, False Positives: no, False Negatives: yes
+alamblak     	mʌmɛmɪt	   1	   1
+bahinemo     	thanmaj	   2	   2
+kapriman     	majnja 	   2	   3
+saniyo-hiyewe	maj    	   2	   3
+#
+Concept: 1223_HEART, False Positives: no, False Negatives: yes
+alamblak     	marbil	   1	   1
+saniyo-hiyewe	marɛpi	   1	   1
+bahinemo     	juw   	   2	   2
+kapriman     	jagux 	   2	   3
+#
+Concept: 1233_NIGHT, False Positives: yes, False Negatives: no
+alamblak     	jɪvungʌth	   1	   1
+bahinemo     	nʌmuli   	   2	   2
+kapriman     	nilis    	   3	   2
+saniyo-hiyewe	pasi     	   4	   4
+#
+Concept: 123_FOREHEAD, False Positives: no, False Negatives: yes
+alamblak     	nɪmbikh 	   1	   1
+bahinemo     	nɪbʌgi  	   1	   1
+saniyo-hiyewe	mapinɛ  	   1	   4
+kapriman     	jɛnbʌvas	   3	   3
+#
+Concept: 1248_EYE, False Positives: no, False Negatives: yes
+alamblak     	ningaw	   1	   1
+bahinemo     	nija  	   1	   2
+kapriman     	nikha 	   1	   2
+saniyo-hiyewe	nihɛ  	   1	   2
+#
+Concept: 1252_HOUSE, False Positives: no, False Negatives: yes
+alamblak     	khunjʌm	   1	   1
+bahinemo     	ɪna    	   1	   2
+kapriman     	wunuL/l	   3	   3
+saniyo-hiyewe	wʌsi   	   4	   4
+#
+Concept: 1256_HEAD, False Positives: no, False Negatives: yes
+alamblak     	mʌbogath	   1	   1
+bahinemo     	thu     	   2	   2
+saniyo-hiyewe	tu      	   2	   2
+kapriman     	toɣo    	   2	   3
+#
+Concept: 1257_WING, False Positives: no, False Negatives: yes
+alamblak     	biɛrnam	   1	   1
+alamblak     	biɛrnam	   1	   1
+bahinemo     	sɪfi   	   2	   2
+bahinemo     	sɪi    	   2	   2
+kapriman     	tɪbi   	   2	   3
+kapriman     	tɪbi   	   2	   3
+saniyo-hiyewe	hajpi  	   4	   4
+saniyo-hiyewe	hajpi  	   4	   4
+#
+Concept: 1287_COLD, False Positives: no, False Negatives: yes
+alamblak     	gonʌgʌthejoth	   1	   1
+bahinemo     	khʌni        	   1	   2
+kapriman     	gonjugu      	   1	   3
+saniyo-hiyewe	naratajai    	   4	   4
+#
+Concept: 1335_WHITE, False Positives: no, False Negatives: yes
+alamblak     	gajnjʌmth	   1	   1
+bahinemo     	gaj      	   1	   2
+kapriman     	gubow    	   3	   3
+saniyo-hiyewe	wapoai   	   4	   4
+#
+Concept: 1336_EAT, False Positives: no, False Negatives: yes
+alamblak     	wejanum	   1	   1
+bahinemo     	dijaw  	   1	   2
+kapriman     	asolija	   1	   3
+saniyo-hiyewe	asijʌ  	   1	   3
+#
+Concept: 1337_PIG, False Positives: no, False Negatives: yes
+alamblak     	fagʌr	   1	   1
+kapriman     	fʌɣr 	   1	   1
+bahinemo     	fa   	   1	   2
+saniyo-hiyewe	fe   	   1	   2
+#
+Concept: 1366_BOY, False Positives: no, False Negatives: yes
+alamblak     	jʌnər  	   1	   1
+bahinemo     	ɪma+jɛn	   1	   2
+saniyo-hiyewe	emanɛ  	   1	   4
+kapriman     	moɣʌla 	   3	   3
+#
+Concept: 1371_KNEE, False Positives: no, False Negatives: yes
+alamblak     	bangor  	   1	   1
+kapriman     	bangutok	   1	   3
+bahinemo     	jakʌsi  	   2	   2
+saniyo-hiyewe	roʌupʌro	   4	   4
+#
+Concept: 1380_TOOTH, False Positives: no, False Negatives: yes
+alamblak     	bɪsʌm	   1	   1
+bahinemo     	pi   	   1	   2
+kapriman     	bim  	   1	   2
+saniyo-hiyewe	pi   	   1	   2
+#
+Concept: 1394_BONE, False Positives: no, False Negatives: yes
+alamblak     	thʌphim	   1	   1
+bahinemo     	hʌbi   	   1	   1
+kapriman     	sibevam	   1	   3
+saniyo-hiyewe	paarɛ  	   4	   4
+#
+Concept: 1402_BREAST, False Positives: yes, False Negatives: yes
+alamblak     	mingam 	   1	   1
+kapriman     	mʌnikha	   1	   3
+bahinemo     	mosu   	   2	   2
+saniyo-hiyewe	mou    	   4	   2
+#
+Concept: 1405_NAME, False Positives: no, False Negatives: yes
+alamblak     	jufat	   1	   1
+kapriman     	ovas 	   1	   1
+bahinemo     	wufa 	   1	   2
+saniyo-hiyewe	japɛ 	   1	   4
+#
+Concept: 1409_SEE, False Positives: no, False Negatives: yes
+alamblak     	wokatinum 	   1	   1
+kapriman     	wangatogər	   1	   3
+bahinemo     	dʌnowej   	   2	   2
+saniyo-hiyewe	sijɛsijʌ  	   4	   4
+#
+Concept: 1424_YELLOW, False Positives: yes, False Negatives: yes
+alamblak     	gonthiphan	   1	   1
+bahinemo     	gwudi     	   1	   2
+kapriman     	wokwar    	   3	   2
+saniyo-hiyewe	warimeai  	   4	   4
+#
+Concept: 1430_STAR, False Positives: no, False Negatives: yes
+alamblak     	gunjər  	   1	   1
+bahinemo     	dul     	   2	   2
+kapriman     	duL/l   	   2	   3
+saniyo-hiyewe	sarijɪpu	   4	   4
+#
+Concept: 1442_STAND, False Positives: no, False Negatives: yes
+alamblak     	thʌgajthɔgor	   1	   1
+bahinemo     	dʌthajɪsi   	   1	   2
+kapriman     	wathʌx      	   1	   3
+saniyo-hiyewe	teje        	   1	   4
+#
+Concept: 1446_COME, False Positives: no, False Negatives: yes
+alamblak     	binejawa	   1	   1
+bahinemo     	dijaju  	   2	   2
+kapriman     	ja      	   2	   3
+saniyo-hiyewe	ajuʌ    	   2	   4
+#
+Concept: 1447_GIVE, False Positives: no, False Negatives: yes
+alamblak     	rapakuda	   1	   1
+bahinemo     	diju    	   2	   2
+kapriman     	lianaɣo 	   3	   3
+saniyo-hiyewe	awe     	   3	   4
+#
+Concept: 1489_CLOUD, False Positives: no, False Negatives: yes
+alamblak     	mowʌnkh 	   1	   1
+bahinemo     	dobul   	   2	   2
+kapriman     	dʌbʌdali	   2	   3
+saniyo-hiyewe	safu    	   4	   4
+#
+Concept: 1493_ONE, False Positives: no, False Negatives: yes
+alamblak     	rɛphar 	   1	   1
+bahinemo     	dʌbatha	   1	   2
+kapriman     	dɪbar  	   1	   2
+saniyo-hiyewe	hɛtai  	   4	   4
+#
+Concept: 1498_TWO, False Positives: no, False Negatives: yes
+alamblak     	hutsif	   1	   1
+saniyo-hiyewe	hɛsi  	   1	   1
+bahinemo     	husi  	   1	   2
+kapriman     	kothi 	   1	   3
+#
+Concept: 1500_FOUR, False Positives: no, False Negatives: yes
+alamblak     	hutsɪfɪhutsɪf	   1	   1
+saniyo-hiyewe	hɛsiohɛsio   	   1	   1
+bahinemo     	gʌda         	   2	   2
+kapriman     	gajjala      	   2	   3
+#
+Concept: 1509_MOSQUITO, False Positives: no, False Negatives: yes
+alamblak     	joth	   1	   1
+bahinemo     	juw 	   1	   1
+kapriman     	wum 	   1	   3
+saniyo-hiyewe	nɛi 	   4	   4
+#
+Concept: 1554_MAN, False Positives: no, False Negatives: yes
+aheave       	jimar 	   1	   1
+bahinemo     	ɪma   	   1	   2
+kapriman     	wijak 	   3	   3
+saniyo-hiyewe	mitaru	   4	   4
+#
+Concept: 156_RED, False Positives: no, False Negatives: yes
+alamblak     	khokhophi	   1	   1
+bahinemo     	mahijo   	   2	   2
+kapriman     	mʌbjaj   	   2	   3
+saniyo-hiyewe	rouai    	   4	   4
+#
+Concept: 163_BLACK, False Positives: no, False Negatives: yes
+alamblak     	khərthath	   1	   1
+bahinemo     	khiː     	   1	   2
+kapriman     	khrumu   	   1	   2
+saniyo-hiyewe	ivisiai  	   4	   4
+#
+Concept: 165_WALLABY, False Positives: no, False Negatives: yes
+alamblak     	wilgapor   	   1	   1
+bahinemo     	fjubɪsï/i  	   2	   2
+kapriman     	koruwe     	   3	   3
+saniyo-hiyewe	avijɛ+ɛrɛvi	   3	   4
+#
+Concept: 1759_OLDER_BROTHER, False Positives: no, False Negatives: yes
+alamblak     	najjʌmər	   1	   1
+kapriman     	najL/l  	   1	   3
+bahinemo     	bʌdo    	   2	   2
+saniyo-hiyewe	ajru    	   4	   4
+#
+Concept: 1781_THUMB, False Positives: no, False Negatives: yes
+alamblak     	mʌmapinjap 	   1	   1
+bahinemo     	hʌl+bithɪfi	   2	   2
+kapriman     	sɛbithɛvis 	   2	   3
+saniyo-hiyewe	ɛrɛti+najɛ 	   4	   4
+#
+Concept: 1857_CROCODILE, False Positives: no, False Negatives: yes
+alamblak     	mʌnumbor  	   1	   1
+bahinemo     	jej+mugulu	   2	   2
+kapriman     	mogur     	   2	   3
+saniyo-hiyewe	harɛ+mʌʌru	   2	   4
+#
+Concept: 189_HAIR_BODY, False Positives: no, False Negatives: yes
+alamblak     	tʌmarts	   1	   1
+bahinemo     	thunʌba	   2	   2
+kapriman     	tuwam  	   3	   3
+saniyo-hiyewe	tutowe 	   3	   4
+#
+Concept: 1927_BAMBOO, False Positives: no, False Negatives: yes
+alamblak     	kʌnepm	   1	   1
+bahinemo     	gani  	   1	   2
+kapriman     	khʌnɪs	   1	   2
+saniyo-hiyewe	mɛnɛɛ 	   4	   4
+#
+Concept: 1970_CANOE, False Positives: no, False Negatives: yes
+alamblak     	doɣʌth	   1	   1
+bahinemo     	doma  	   1	   2
+kapriman     	doɣor 	   1	   3
+saniyo-hiyewe	waj   	   4	   4
+#
+Concept: 2009_DOG, False Positives: no, False Negatives: yes
+alamblak     	jawu	   1	   1
+bahinemo     	jo  	   1	   2
+saniyo-hiyewe	jo  	   1	   2
+kapriman     	jom 	   1	   3
+#
+Concept: 2098_FOOT_OR_LEG, False Positives: no, False Negatives: yes
+alamblak     	wʌlat	   1	   1
+kapriman     	wola 	   1	   1
+bahinemo     	lowa 	   1	   2
+saniyo-hiyewe	rowɛ 	   1	   2
+#
+Concept: 2100_THATCH_OR_ROOF, False Positives: no, False Negatives: yes
+alamblak     	gʌthuwam	   1	   1
+bahinemo     	khʌsija 	   1	   2
+kapriman     	gʌlova  	   1	   3
+saniyo-hiyewe	ʌtowɛ   	   1	   4
+#
+Concept: 2108_RAINING_OR_RAIN, False Positives: no, False Negatives: yes
+alamblak     	buriogo   	   1	   1
+bahinemo     	hagi+isuwa	   2	   2
+saniyo-hiyewe	sai+utie  	   2	   4
+kapriman     	sekar     	   3	   3
+#
+Concept: 2121_ARM_OR_HAND, False Positives: no, False Negatives: yes
+alamblak     	thiwapith	   1	   1
+bahinemo     	həlbʌdufa	   2	   2
+kapriman     	sɛlis    	   3	   3
+saniyo-hiyewe	ɛrɛti    	   3	   4
+#
+Concept: 215_LIE_DOWN, False Positives: no, False Negatives: yes
+alamblak     	hoitwor 	   1	   1
+bahinemo     	muhwi   	   1	   2
+kapriman     	khwejL/l	   1	   3
+saniyo-hiyewe	howive  	   1	   4
+#
+Concept: 217_BETELNUT, False Positives: no, False Negatives: yes
+alamblak     	jʌbmum 	   1	   1
+kapriman     	jʌsukha	   1	   3
+bahinemo     	khʌdaj 	   2	   2
+saniyo-hiyewe	veve   	   4	   4
+#
+Concept: 221_FIRE, False Positives: no, False Negatives: yes
+alamblak     	khaxth	   1	   1
+bahinemo     	ja    	   1	   2
+saniyo-hiyewe	jɛhɛ  	   1	   2
+kapriman     	mojos 	   3	   3
+#
+Concept: 2270_SAGO, False Positives: no, False Negatives: yes
+alamblak     	nakum	   1	   1
+bahinemo     	naw  	   1	   2
+kapriman     	nar  	   1	   3
+saniyo-hiyewe	naw  	   1	   3
+#
+Concept: 235_FLYING_FOX, False Positives: no, False Negatives: yes
+alamblak     	gʌbis   	   1	   1
+bahinemo     	khʌbi   	   1	   1
+kapriman     	kʌbis   	   1	   1
+saniyo-hiyewe	iruwʌopi	   1	   4
+#
+Concept: 2638_FISHING, False Positives: no, False Negatives: yes
+alamblak     	jɛlam 	   1	   1
+bahinemo     	ɪla   	   1	   2
+kapriman     	amaram	   1	   3
+saniyo-hiyewe	harɛ  	   1	   4
+#
+Concept: 323_FAT_ORGANIC_SUBSTANCE, False Positives: no, False Negatives: yes
+alamblak     	sivopam	   1	   1
+kapriman     	tivar  	   1	   3
+bahinemo     	gwʌlil 	   2	   2
+saniyo-hiyewe	pijou  	   4	   4
+#
+Concept: 328_GRASS-SKIRT, False Positives: no, False Negatives: yes
+alamblak     	suwiɛm	   1	   1
+bahinemo     	hʌwi  	   1	   2
+kapriman     	sowe  	   1	   2
+saniyo-hiyewe	sɛvi  	   1	   4
+#
+Concept: 343_VINE, False Positives: no, False Negatives: yes
+alamblak     	mʌthithʌbm	   1	   1
+kapriman     	mʌsijʌp   	   1	   3
+bahinemo     	lej       	   2	   2
+saniyo-hiyewe	wafaj     	   4	   4
+#
+Concept: 389_FISH_TRAP, False Positives: no, False Negatives: yes
+bahinemo     	geli   	   1	   1
+saniyo-hiyewe	harɛɛri	   1	   3
+kapriman     	tasoɣe 	   2	   2
+#
+Concept: 466_CASSOWARY, False Positives: no, False Negatives: yes
+alamblak     	bundugwʌr	   1	   1
+bahinemo     	fjulu    	   2	   2
+kapriman     	wolos    	   2	   3
+saniyo-hiyewe	iruwʌru  	   2	   4
+#
+Concept: 503_FROG, False Positives: no, False Negatives: yes
+alamblak     	khukhar	   1	   1
+kapriman     	kʌkʌlʌ 	   1	   3
+bahinemo     	wabi   	   2	   2
+saniyo-hiyewe	so     	   4	   4
+#
+Concept: 628_LEAF, False Positives: no, False Negatives: yes
+alamblak     	revatuam 	   1	   1
+kapriman     	mutuwas  	   1	   3
+saniyo-hiyewe	mʌtowɛ   	   1	   3
+bahinemo     	mi+sɪnowa	   2	   2
+#
+Concept: 639_MOUNTAIN, False Positives: no, False Negatives: yes
+alamblak     	khʌmin    	   1	   1
+bahinemo     	biga      	   2	   2
+kapriman     	nʌmbwomtok	   3	   3
+saniyo-hiyewe	omo       	   3	   4
+#
+Concept: 646_ASH, False Positives: no, False Negatives: yes
+alamblak     	jokonopam	   1	   1
+bahinemo     	ja+si    	   2	   2
+saniyo-hiyewe	jɛsi     	   2	   4
+kapriman     	fokhwa   	   3	   3
+#
+Concept: 670_ROOT, False Positives: yes, False Negatives: yes
+alamblak     	mʌthithʌbm	   1	   1
+bahinemo     	mi+nabi   	   2	   2
+saniyo-hiyewe	menapi    	   2	   3
+kapriman     	mɪnɪniva  	   3	   3
+#
+Concept: 744_EGG, False Positives: no, False Negatives: yes
+alamblak     	fokam  	   1	   1
+kapriman     	juɣwar 	   1	   3
+saniyo-hiyewe	hotɛ   	   1	   4
+bahinemo     	wabo+mu	   2	   2
+#
+Concept: 763_SKIN, False Positives: no, False Negatives: yes
+alamblak     	thʌkhath	   1	   1
+kapriman     	thʌgas  	   1	   1
+saniyo-hiyewe	tahɛ    	   1	   4
+bahinemo     	thʌbi   	   2	   2
+#
+Concept: 857_STONE, False Positives: yes, False Negatives: no
+alamblak     	taxim 	   1	   1
+bahinemo     	ba    	   2	   2
+kapriman     	obar  	   3	   2
+saniyo-hiyewe	tapijɛ	   4	   4
+#
+Concept: 867_backofhand, False Positives: no, False Negatives: yes
+alamblak     	moəngʌt	   1	   1
+kapriman     	mogum  	   1	   3
+saniyo-hiyewe	mɛijɪni	   1	   4
+bahinemo     	bɔlu   	   2	   2
+#
+Concept: 868_BANANA, False Positives: no, False Negatives: yes
+alamblak     	gʌnigam	   1	   1
+bahinemo     	gʌni   	   1	   1
+kapriman     	gʌnʌga 	   1	   1
+saniyo-hiyewe	one    	   1	   4
+#
+Concept: 895_TORTOISE, False Positives: no, False Negatives: yes
+alamblak     	thʌkith	   1	   1
+bahinemo     	ɪlathi 	   1	   2
+kapriman     	thʌɣajs	   1	   3
+saniyo-hiyewe	harɛ+ti	   1	   4
+#
+Concept: 946_BLOOD, False Positives: no, False Negatives: yes
+alamblak     	khukhupam	   1	   1
+kapriman     	kokwem   	   1	   3
+bahinemo     	mahələ   	   2	   2
+saniyo-hiyewe	fisai    	   4	   4
+#
+Concept: 948_WATER, False Positives: no, False Negatives: yes
+alamblak     	bukbam	   1	   1
+bahinemo     	hagi  	   2	   2
+kapriman     	sagim 	   2	   2
+saniyo-hiyewe	sai   	   2	   4
+#
+Concept: 962_WOMAN, False Positives: no, False Negatives: yes
+alamblak     	metum 	   1	   1
+bahinemo     	swani 	   2	   2
+kapriman     	toɣwan	   2	   3
+saniyo-hiyewe	tawnɛ 	   2	   4
+#

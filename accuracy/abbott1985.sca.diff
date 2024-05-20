@@ -1,0 +1,728 @@
+Concept: 1035_GOOD, False Positives: yes, False Negatives: yes
+angoram-kambrindo	mandʒikʊn  	   1	   1
+angoram-kanduanum	ar̝andəkʰən	   2	   1
+angoram-marbuk   	nandəkʰ+n  	   2	   4
+angoram-karau    	ar̝ətʰogo  	   3	   3
+angoram-wagamut  	ar̝ətʰo    	   3	   3
+kopar-singarin   	ar̝atʰətʰ  	   3	   3
+ap-ma-kambaramba 	jolaimɛn   	   6	   6
+chambri-kilimbit 	jabkʰar̃ən 	   7	   7
+tok-pisin        	gutpela    	   9	   9
+#
+Concept: 1201_FEATHER, False Positives: no, False Negatives: yes
+angoram-kambrindo	wambwʊngr̝i      	   1	   1
+angoram-magendo  	wambwʊngr̝i      	   1	   1
+angoram-kanduanum	wanbluŋ          	   1	   2
+angoram-karau    	uason            	   3	   3
+angoram-wagamut  	uasən            	   3	   3
+angoram-marbuk   	pakʰenəm         	   5	   5
+ap-ma-kambaramba 	angopʰ           	   7	   7
+chambri-kilimbit 	iambəlʊnkʰ       	   8	   8
+kopar-singarin   	tsɛtseiŋ         	   9	   9
+tok-pisin        	gras+bilong+pisin	  10	  10
+#
+Concept: 1202_BIG, False Positives: yes, False Negatives: no
+angoram-kambrindo	kʰəpan 	   1	   1
+angoram-kanduanum	kʰəpan 	   2	   1
+angoram-karau    	apʰo   	   3	   3
+angoram-magendo  	kʰəpan 	   4	   1
+angoram-marbuk   	kʰəpan 	   5	   1
+angoram-wagamut  	apʰo   	   6	   3
+chambri-kilimbit 	ubo    	   7	   3
+kopar-singarin   	kʰapʰam	   8	   1
+tok-pisin        	bikpela	   9	   9
+#
+Concept: 1203_LONG, False Positives: no, False Negatives: yes
+angoram-kambrindo	kʰaisekʰakʰan   	   1	   1
+angoram-kanduanum	kʰongr̝antʰəkən 	   2	   2
+angoram-marbuk   	kʰoŋkʰor̝onokʰən	   2	   2
+angoram-karau    	gogoŋgo         	   2	   3
+angoram-wagamut  	gogoŋ           	   2	   3
+kopar-singarin   	ŋkʰoŋkʰopʰar̝i  	   2	   8
+ap-ma-kambaramba 	lolkʰonətʰ      	   6	   6
+chambri-kilimbit 	kʰʊlndr̃əŋ      	   7	   7
+tok-pisin        	longpela        	   9	   9
+#
+Concept: 1209_I, False Positives: yes, False Negatives: yes
+angoram-kambrindo	mitʰɛpʰe	   1	   1
+ap-ma-kambaramba 	ape     	   1	   4
+angoram-karau    	ma      	   2	   2
+angoram-wagamut  	ma      	   2	   2
+chambri-kilimbit 	ami     	   2	   2
+kopar-singarin   	ma      	   2	   2
+tok-pisin        	mi      	   7	   2
+#
+Concept: 1210_HEAVY, False Positives: no, False Negatives: yes
+angoram-kambrindo	iəbɪnkʰand+kʰr̝e	   1	   1
+angoram-kanduanum	ivikʰarakən     	   2	   2
+angoram-marbuk   	ibinatʰakʰən    	   2	   4
+angoram-karau    	dipʰatʰo        	   3	   3
+angoram-wagamut  	dipʰatʰo        	   3	   3
+ap-ma-kambaramba 	dənatʰ          	   6	   6
+chambri-kilimbit 	wopitarəŋ       	   7	   7
+kopar-singarin   	patəntʰü/ukʰ    	   8	   8
+tok-pisin        	hevi            	   9	   9
+#
+Concept: 1215_THOU, False Positives: no, False Negatives: yes
+angoram-kambrindo	ɛmetʰakʰəpe	   1	   1
+angoram-karau    	mi         	   2	   2
+angoram-wagamut  	mi         	   2	   2
+chambri-kilimbit 	nɨmi       	   2	   5
+kopar-singarin   	momi       	   2	   6
+ap-ma-kambaramba 	joləŋga    	   4	   4
+tok-pisin        	ju         	   7	   7
+#
+Concept: 1216_MOTHER, False Positives: yes, False Negatives: no
+angoram-kambrindo	nɪŋe 	   1	   1
+angoram-magendo  	nəŋe 	   1	   1
+angoram-kanduanum	mar̝i	   2	   2
+angoram-karau    	ŋain 	   3	   3
+angoram-wagamut  	ŋiən 	   3	   3
+angoram-marbuk   	nama 	   5	   5
+ap-ma-kambaramba 	niam 	   7	   7
+kopar-singarin   	aia  	   8	   8
+tok-pisin        	mama 	   9	   5
+#
+Concept: 1217_FATHER, False Positives: yes, False Negatives: no
+angoram-kambrindo	ano 	   1	   1
+angoram-kanduanum	ano 	   1	   1
+angoram-karau    	ian 	   3	   3
+angoram-wagamut  	ian 	   3	   3
+angoram-magendo  	mam 	   4	   4
+angoram-marbuk   	mam 	   4	   4
+ap-ma-kambaramba 	ape 	   7	   7
+kopar-singarin   	aʈʂe	   8	   8
+tok-pisin        	papa	   9	   7
+#
+Concept: 1231_NEW, False Positives: yes, False Negatives: no
+angoram-kanduanum	tʰəkʰasipar̝ənə	   1	   1
+angoram-karau    	nəŋgəmoŋgo     	   2	   2
+kopar-singarin   	nənkʰü/umü/ukʰ 	   3	   2
+tok-pisin        	nupela         	   4	   4
+#
+Concept: 1246_SMALL, False Positives: yes, False Negatives: no
+angoram-kambrindo	tʰamatʰkʰandigre  	   1	   1
+angoram-kanduanum	kʰɪndʒəmbagəm     	   2	   2
+angoram-karau    	ŋgaŋgan           	   3	   3
+angoram-magendo  	sematʰəkʰantʰəkʰən	   4	   1
+angoram-marbuk   	tʰamaratʰəkʰən    	   5	   5
+angoram-wagamut  	ŋgaŋgan           	   6	   3
+ap-ma-kambaramba 	kʰər̝ənəs         	   7	   7
+chambri-kilimbit 	bapokʰo           	   8	   8
+kopar-singarin   	mɛndɛkʰ           	   9	   9
+tok-pisin        	liklik            	  10	  10
+#
+Concept: 1247_EAR, False Positives: yes, False Negatives: yes
+angoram-kambrindo	bɛm       	   1	   1
+angoram-kanduanum	kʰʊndʊm   	   2	   2
+angoram-karau    	kʰarəkʰɛpʰ	   3	   3
+angoram-wagamut  	kʰalakʰɛpʰ	   3	   3
+kopar-singarin   	kʰotakʰɛr̝	   3	   9
+angoram-magendo  	kʰʊndʊm   	   4	   2
+angoram-marbuk   	kʰʊndʊm   	   4	   2
+ap-ma-kambaramba 	kʰombe    	   7	   7
+chambri-kilimbit 	kʰeli     	   8	   8
+tok-pisin        	jau       	  10	  10
+#
+Concept: 1248_EYE, False Positives: no, False Negatives: yes
+angoram-kambrindo	tʰambli  	   1	   1
+angoram-kanduanum	tʰambli  	   1	   1
+angoram-magendo  	tʰambr̝i 	   1	   1
+angoram-marbuk   	tʰambri  	   1	   1
+angoram-karau    	nabin    	   1	   3
+angoram-wagamut  	nabin    	   1	   3
+kopar-singarin   	nambrɪn  	   1	   3
+ap-ma-kambaramba 	lambən   	   7	   7
+chambri-kilimbit 	biaŋkʰ   	   8	   8
+chambri-kilimbit 	tsɪtsɪŋkʰ	   8	  11
+tok-pisin        	ai       	  10	  10
+#
+Concept: 1257_WING, False Positives: no, False Negatives: yes
+angoram-kambrindo	tʰʊmbr̝akʰəno    	   1	   1
+angoram-magendo  	tʰənəmbr̝əgwe    	   1	   4
+angoram-kanduanum	ʂʊsak+nue        	   2	   2
+angoram-karau    	kʰokʰotʰapʰ      	   3	   3
+angoram-wagamut  	kʰokʰotʰapʰ      	   3	   3
+angoram-marbuk   	wantʰəmboi       	   5	   5
+ap-ma-kambaramba 	pʰa              	   7	   7
+chambri-kilimbit 	nɨmpu            	   8	   8
+kopar-singarin   	lakʰon           	   9	   9
+tok-pisin        	wing+bilong+pisin	  10	  10
+#
+Concept: 1268_YES, False Positives: yes, False Negatives: no
+angoram-kambrindo	tʰakʰəpʰe	   1	   1
+angoram-karau    	ao       	   2	   2
+angoram-wagamut  	ao       	   2	   2
+kopar-singarin   	ao       	   2	   2
+ap-ma-kambaramba 	na       	   4	   4
+chambri-kilimbit 	ai       	   5	   2
+tok-pisin        	jes      	   7	   7
+#
+Concept: 1289_BABY, False Positives: yes, False Negatives: no
+angoram-kambrindo	tʰomatʰəkʰən       	   1	   1
+angoram-kanduanum	mamse              	   2	   2
+angoram-karau    	gwan               	   3	   3
+angoram-magendo  	mantʰəkʰən         	   4	   1
+angoram-marbuk   	mantakʰən          	   5	   1
+angoram-wagamut  	gwan               	   6	   3
+ap-ma-kambaramba 	bebuam             	   7	   7
+chambri-kilimbit 	lɪmenənkʰor̃əkʰonan	   8	   8
+kopar-singarin   	tsɛmentʰiŋkʰ       	   9	   9
+tok-pisin        	liklik+pikinini    	  10	  10
+angoram-kanduanum	pʰise              	  11	  11
+angoram-marbuk   	tʰomatʰəkʰən       	  12	   1
+#
+Concept: 1292_BAD, False Positives: no, False Negatives: yes
+angoram-kambrindo	magr̝e 	   1	   1
+kopar-singarin   	makʰ   	   1	   8
+angoram-kanduanum	mwakʰən	   2	   2
+angoram-marbuk   	mwakʰən	   2	   2
+angoram-karau    	mwao   	   3	   3
+angoram-wagamut  	mwao   	   3	   3
+ap-ma-kambaramba 	dʒʊe   	   6	   6
+chambri-kilimbit 	mədr̃əŋ	   7	   7
+tok-pisin        	nogut  	   9	   9
+#
+Concept: 1329_TOMORROW, False Positives: no, False Negatives: yes
+angoram-kambrindo	tʰʊmbʊn	   1	   1
+angoram-kanduanum	tʰʊmbʊn	   1	   1
+angoram-magendo  	tʰʊmbʊn	   1	   1
+angoram-marbuk   	tʰʊmbʊn	   1	   1
+ap-ma-kambaramba 	bʊn    	   1	   7
+angoram-karau    	ar̝ən  	   3	   3
+angoram-wagamut  	nar̝ʊn 	   3	   3
+kopar-singarin   	nar̝ən 	   3	   3
+chambri-kilimbit 	kʰasɪpʰ	   8	   8
+tok-pisin        	tumora 	  10	  10
+#
+Concept: 1336_EAT, False Positives: yes, False Negatives: no
+angoram-kambrindo	mbwəwamga         	   1	   1
+angoram-karau    	məndr̝imaro       	   2	   2
+ap-ma-kambaramba 	ʊsɪndəma          	   3	   3
+kopar-singarin   	bonmʊmbʊkoia      	   4	   4
+tok-pisin        	em+i+kaikai+saksak	   5	   5
+ap-ma-kambaramba 	vaŋdəma           	   6	   3
+#
+Concept: 1343_SUN, False Positives: no, False Negatives: yes
+angoram-kambrindo	mbwino 	   1	   1
+angoram-kanduanum	mbwino 	   1	   1
+angoram-magendo  	mbwino 	   1	   1
+angoram-marbuk   	nʊmbi+o	   1	   5
+angoram-karau    	akʰʊn  	   3	   3
+angoram-wagamut  	akʰʊn  	   3	   3
+kopar-singarin   	akʰʊn  	   3	   3
+ap-ma-kambaramba 	aim    	   7	   7
+chambri-kilimbit 	sɪnmali	   8	   8
+tok-pisin        	san    	  10	  10
+#
+Concept: 1366_BOY, False Positives: yes, False Negatives: no
+angoram-kambrindo	pise              	   1	   1
+angoram-kanduanum	pʰise             	   2	   1
+angoram-karau    	gwaŋgaŋgan        	   3	   3
+angoram-magendo  	mantʰəkʰən        	   4	   4
+angoram-marbuk   	pʰor̝imantʰəkʰ    	   5	   5
+ap-ma-kambaramba 	bembogo           	   6	   6
+chambri-kilimbit 	nor̃anankʰor̃əkʰan	   7	   7
+kopar-singarin   	tsɛmentʰiŋkʰ      	   8	   8
+tok-pisin        	pikinini+man      	   9	   9
+#
+Concept: 1370_MONTH, False Positives: yes, False Negatives: yes
+angoram-kambrindo	ambʊr̃   	   1	   1
+angoram-magendo  	amʊgʊr̃  	   1	   4
+angoram-kanduanum	məle     	   2	   2
+angoram-karau    	kʰar̃ewan	   3	   3
+angoram-wagamut  	kʰalewan 	   3	   3
+angoram-marbuk   	kʰar̃ɛpʰ 	   3	   5
+kopar-singarin   	kʰarɛpʰ  	   3	   5
+ap-ma-kambaramba 	mambo    	   7	   1
+chambri-kilimbit 	mwil     	   8	   8
+tok-pisin        	mun      	  10	  10
+#
+Concept: 1371_KNEE, False Positives: yes, False Negatives: no
+angoram-kambrindo	ʊrʊkʰe         	   1	   1
+angoram-kanduanum	lugue          	   2	   2
+angoram-karau    	nəmbig         	   3	   3
+angoram-magendo  	ur̃ʊkʰe        	   4	   1
+angoram-marbuk   	r̃okʰai        	   5	   2
+angoram-wagamut  	patʰʊr̃        	   6	   6
+ap-ma-kambaramba 	ambwənpwəndama 	   7	   7
+chambri-kilimbit 	pr̃ampʰ        	   8	   8
+kopar-singarin   	pəntɪkipʰ      	   9	   9
+tok-pisin        	skru+bilong+lek	  10	  10
+#
+Concept: 1394_BONE, False Positives: no, False Negatives: yes
+angoram-kambrindo	sar̝in      	   1	   1
+angoram-kanduanum	ʈʂar̝iŋ     	   1	   1
+angoram-magendo  	ʈʂar̝ɪŋ     	   1	   1
+angoram-marbuk   	sar̝in      	   1	   1
+chambri-kilimbit 	anampʰ      	   1	   8
+angoram-karau    	sar̝igib    	   3	   3
+angoram-wagamut  	sor̝igib    	   3	   3
+kopar-singarin   	ʈʂar̝iŋkʰipʰ	   3	   3
+ap-ma-kambaramba 	wamo        	   7	   7
+tok-pisin        	bun         	  10	  10
+#
+Concept: 1416_SIT, False Positives: no, False Negatives: yes
+angoram-kambrindo	nandakʰa    	   1	   1
+kopar-singarin   	mantʰasa    	   1	   3
+angoram-karau    	tʰosasa     	   2	   2
+tok-pisin        	em+i+sindaun	   4	   4
+#
+Concept: 1446_COME, False Positives: no, False Negatives: yes
+angoram-kambrindo	naniakʰa  	   1	   1
+kopar-singarin   	maiəkʰə   	   1	   4
+angoram-karau    	mənwoiar̝a	   2	   2
+ap-ma-kambaramba 	mise      	   3	   3
+tok-pisin        	em+i+kam  	   5	   5
+#
+Concept: 1482_SHOULDER, False Positives: no, False Negatives: yes
+angoram-kambrindo	kʰab+kʰenəm	   1	   1
+angoram-kanduanum	kʰabʊkʰenəm	   1	   2
+angoram-magendo  	kʰabʊkʰenəm	   1	   2
+angoram-marbuk   	kʰabʊkʰinʊm	   1	   2
+angoram-karau    	pʰinagemb  	   3	   3
+angoram-wagamut  	pʰɪnagemb  	   3	   3
+ap-ma-kambaramba 	namboŋ     	   7	   7
+kopar-singarin   	r̝ahon     	   8	   8
+tok-pisin        	sol        	   9	   9
+#
+Concept: 1490_RAT, False Positives: no, False Negatives: yes
+angoram-kambrindo	jakʰrauwi   	   1	   1
+angoram-magendo  	iakr̝ani    	   1	   4
+ap-ma-kambaramba 	jakʰa       	   1	   7
+angoram-kanduanum	kʰasəkʰamar̝	   2	   2
+angoram-karau    	kʰimbar̝    	   2	   3
+angoram-wagamut  	kʰimbaul    	   2	   3
+angoram-marbuk   	nʊnangar̝   	   5	   5
+kopar-singarin   	nanankʰar̝  	   5	   5
+chambri-kilimbit 	mantol      	   8	   8
+tok-pisin        	rat         	  10	  10
+#
+Concept: 1509_MOSQUITO, False Positives: no, False Negatives: yes
+angoram-kanduanum	ualuale     	   1	   1
+angoram-magendo  	uar̝ər̝ar̝əm	   1	   3
+angoram-marbuk   	or̝ar̝a     	   1	   4
+angoram-karau    	naukʰ       	   2	   2
+angoram-wagamut  	naukʰ       	   2	   2
+chambri-kilimbit 	nankw+n     	   6	   6
+kopar-singarin   	naŋgitʰ     	   7	   7
+tok-pisin        	natnat      	   8	   8
+#
+Concept: 1539_BASKET, False Positives: yes, False Negatives: no
+angoram-kambrindo	isi   	   1	   1
+angoram-kanduanum	isi   	   2	   1
+angoram-magendo  	isi   	   2	   1
+angoram-marbuk   	isi   	   2	   1
+ap-ma-kambaramba 	tsa   	   5	   5
+chambri-kilimbit 	ʈʂi   	   6	   5
+tok-pisin        	basket	   7	   7
+#
+Concept: 1585_SLEEP, False Positives: yes, False Negatives: no
+angoram-kambrindo	nankʰonʈʂikʰa     	   1	   1
+angoram-karau    	tʰoar̝ə           	   2	   2
+kopar-singarin   	makʰantʰəkʰambaijə	   3	   3
+tok-pisin        	em+i+slip         	   4	   4
+angoram-kambrindo	nankʰondʒikʰa     	   5	   1
+angoram-karau    	manwar̝agar̝a     	   6	   6
+kopar-singarin   	makʰantakʰü/umbojə	   7	   3
+#
+Concept: 159_SWEET_POTATO, False Positives: no, False Negatives: yes
+angoram-karau    	ambandəkʰin     	   1	   1
+angoram-wagamut  	nəmbantʰəkʰi    	   1	   1
+angoram-marbuk   	gawepapakʰil    	   2	   2
+kopar-singarin   	angʊmar̝əpapakil	   2	   4
+tok-pisin        	kaukau          	   5	   5
+#
+Concept: 1646_GIRL, False Positives: yes, False Negatives: no
+angoram-kambrindo	tʰomanse       	   1	   1
+angoram-kanduanum	mamse          	   2	   2
+angoram-karau    	nasegaŋgan     	   3	   3
+angoram-magendo  	tʰomandʒe      	   4	   1
+angoram-marbuk   	ŋamantʰəkʰ     	   5	   5
+ap-ma-kambaramba 	leŋkʰan        	   6	   6
+chambri-kilimbit 	nəmpar̃əkwenən 	   7	   7
+kopar-singarin   	pisietamantʰakʰ	   8	   8
+tok-pisin        	jangpela+meri  	   9	   9
+#
+Concept: 1758_OLDER_SISTER, False Positives: yes, False Negatives: no
+angoram-kambrindo	weɛr̝mə                	   1	   1
+angoram-kanduanum	man                    	   2	   2
+angoram-karau    	tʰatʰən                	   3	   3
+angoram-magendo  	uɛr̝əme                	   4	   4
+angoram-marbuk   	manənkʰopʰan           	   5	   5
+angoram-wagamut  	tʰatən                 	   6	   3
+kopar-singarin   	mamakʰapan             	   7	   5
+tok-pisin        	bikpela+susa+bilong+man	   8	   8
+#
+Concept: 1781_THUMB, False Positives: yes, False Negatives: no
+angoram-kambrindo	nʊŋonaŋkʰam   	   1	   1
+angoram-kanduanum	nʊŋonʊŋoa     	   2	   1
+angoram-karau    	dar̝ipʰinən   	   3	   3
+angoram-magendo  	mbeŋ          	   4	   4
+angoram-marbuk   	piŋɪm         	   5	   5
+ap-ma-kambaramba 	iokʰotonam    	   6	   6
+chambri-kilimbit 	bwiəmpʰ       	   7	   7
+kopar-singarin   	kʰapam        	   8	   8
+tok-pisin        	nambawan+pinga	   9	   9
+#
+Concept: 1857_CROCODILE, False Positives: no, False Negatives: yes
+angoram-kanduanum	uaiami 	   1	   1
+angoram-karau    	dwamin 	   1	   2
+angoram-wagamut  	dwamin 	   1	   2
+angoram-magendo  	uar̝ami	   1	   3
+angoram-marbuk   	uar̝ami	   1	   3
+kopar-singarin   	oramen 	   1	   3
+chambri-kilimbit 	aji    	   6	   6
+tok-pisin        	pukpuk 	   8	   8
+#
+Concept: 1970_CANOE, False Positives: yes, False Negatives: yes
+angoram-kambrindo	kʰe    	   1	   1
+chambri-kilimbit 	kʰe    	   1	   1
+angoram-kanduanum	kʰe    	   2	   1
+angoram-karau    	gain   	   3	   3
+angoram-wagamut  	gain   	   3	   3
+kopar-singarin   	kʰain  	   3	   3
+angoram-marbuk   	kʰair̝ 	   3	   5
+angoram-magendo  	kʰe    	   4	   1
+ap-ma-kambaramba 	məndʊma	   7	   7
+tok-pisin        	kanu   	  10	  10
+#
+Concept: 2009_DOG, False Positives: yes, False Negatives: no
+angoram-kambrindo	ndanda      	   1	   1
+angoram-kanduanum	m+ndanda    	   2	   1
+angoram-karau    	dw+n        	   3	   3
+angoram-magendo  	ndanda      	   4	   1
+angoram-marbuk   	kʰaukʰ      	   5	   5
+angoram-wagamut  	dw+n        	   6	   3
+ap-ma-kambaramba 	wor+ntʰ+m+tʰ	   7	   7
+chambri-kilimbit 	juri        	   8	   8
+kopar-singarin   	or+n        	   9	   9
+tok-pisin        	dok         	  10	  10
+#
+Concept: 2098_FOOT_OR_LEG, False Positives: yes, False Negatives: no
+angoram-kambrindo	namuŋ   	   1	   1
+angoram-kanduanum	namʊŋkʰ 	   1	   1
+angoram-magendo  	namʊŋ   	   1	   1
+angoram-marbuk   	namʊŋ   	   1	   1
+chambri-kilimbit 	namaŋkʰ 	   1	   1
+kopar-singarin   	namoŋ   	   1	   1
+angoram-karau    	daŋkʰ   	   3	   3
+angoram-wagamut  	daŋkʰ   	   3	   3
+ap-ma-kambaramba 	spəŋ    	   7	   7
+tok-pisin        	lek     	  10	  10
+angoram-kanduanum	namʊŋ   	  11	   1
+angoram-magendo  	am      	  12	  12
+angoram-marbuk   	nʊmbʊnaŋ	  13	  13
+tok-pisin        	lek     	  14	  10
+#
+Concept: 2108_RAINING_OR_RAIN, False Positives: yes, False Negatives: no
+angoram-kambrindo	buʈʂine   	   1	   1
+angoram-kanduanum	ʂʊenəŋ    	   2	   2
+angoram-karau    	ar̝ʊm     	   3	   3
+angoram-magendo  	bʊʈʂine   	   4	   1
+angoram-marbuk   	mʊnʊm     	   5	   5
+angoram-wagamut  	alʊm      	   6	   3
+ap-ma-kambaramba 	jandama   	   7	   7
+chambri-kilimbit 	mainʊ     	   8	   5
+kopar-singarin   	tʰʊkʰakʰən	   9	   9
+tok-pisin        	ren       	  10	  10
+angoram-wagamut  	ar̝um     	  11	   3
+#
+Concept: 2121_ARM_OR_HAND, False Positives: no, False Negatives: yes
+angoram-kambrindo	iagr̃i  	   1	   1
+angoram-kanduanum	jangr̃i 	   1	   2
+angoram-marbuk   	nangr̃i 	   1	   2
+angoram-karau    	dər̃ɪn  	   3	   3
+angoram-wagamut  	dər̃ɪn  	   3	   3
+angoram-magendo  	pʰonom  	   4	   4
+ap-ma-kambaramba 	jabau   	   7	   7
+chambri-kilimbit 	nunkʰalo	   8	   8
+kopar-singarin   	napaŋ   	   9	   9
+tok-pisin        	han     	  10	  10
+#
+Concept: 217_BETELNUT, False Positives: no, False Negatives: yes
+angoram-kambrindo	pwar̝əŋ 	   1	   1
+angoram-kanduanum	pwar̝əŋ 	   1	   1
+angoram-magendo  	pwar̝əŋ 	   1	   1
+angoram-marbuk   	pwar̝əŋ 	   1	   1
+kopar-singarin   	por̃oŋ  	   1	   1
+angoram-karau    	pʰər̝og 	   1	   3
+angoram-wagamut  	pʰor̝ogə	   1	   3
+ap-ma-kambaramba 	au      	   7	   7
+tok-pisin        	buai    	   9	   9
+#
+Concept: 221_FIRE, False Positives: no, False Negatives: yes
+angoram-kambrindo	uor̝    	   1	   1
+angoram-karau    	aur̝    	   1	   1
+angoram-magendo  	uor̝    	   1	   1
+kopar-singarin   	aur̝    	   1	   1
+angoram-wagamut  	aul     	   1	   6
+angoram-kanduanum	ar̝ʊnkʰ 	   2	   2
+angoram-marbuk   	ŋar̝    	   5	   5
+ap-ma-kambaramba 	pʰəndəma	   7	   7
+chambri-kilimbit 	haiil   	   8	   8
+tok-pisin        	paia    	  10	  10
+#
+Concept: 2270_SAGO, False Positives: no, False Negatives: yes
+angoram-kambrindo	mbwe      	   1	   1
+angoram-kanduanum	tʰoli     	   2	   2
+angoram-karau    	dʊr̝ɪn    	   3	   3
+angoram-wagamut  	dʊr̝ɪn    	   3	   3
+angoram-marbuk   	r̝ino     	   3	   5
+angoram-magendo  	ur̝i      	   4	   4
+chambri-kilimbit 	tʰinəm    	   4	   8
+ap-ma-kambaramba 	japaŋ     	   7	   7
+kopar-singarin   	mar̝inü/un	   9	   9
+tok-pisin        	sasak     	  10	  10
+#
+Concept: 2272_HOT_OR_WARM, False Positives: yes, False Negatives: no
+angoram-kambrindo	aiəkʰarkʰe    	   1	   1
+angoram-kanduanum	aiakʰarəkʰən  	   2	   1
+angoram-karau    	udun          	   3	   3
+angoram-wagamut  	akʊŋgəpʰarəpʰo	   4	   4
+ap-ma-kambaramba 	ʊisanar̝akʰop 	   5	   5
+chambri-kilimbit 	alejakʰɨn     	   6	   6
+tok-pisin        	hat           	   7	   7
+#
+Concept: 2312_YOU_OBLIQUE_CASE_OF_YOU, False Positives: yes, False Negatives: no
+angoram-kambrindo	tʰakʰnte	   1	   1
+chambri-kilimbit 	jibi    	   2	   2
+tok-pisin        	jupela  	   3	   2
+#
+Concept: 234_PADDLE, False Positives: no, False Negatives: yes
+angoram-kambrindo	inapʰ	   1	   1
+angoram-kanduanum	inapʰ	   1	   1
+angoram-magendo  	inapʰ	   1	   1
+angoram-marbuk   	inapʰ	   1	   1
+angoram-karau    	inaŋ 	   1	   3
+angoram-wagamut  	inaŋ 	   1	   3
+chambri-kilimbit 	naŋkʰ	   1	   3
+kopar-singarin   	naŋ  	   1	   3
+ap-ma-kambaramba 	napʊŋ	   7	   7
+tok-pisin        	pul  	  10	  10
+#
+Concept: 2638_FISHING, False Positives: no, False Negatives: yes
+angoram-kambrindo	aməngr̝e  	   1	   1
+angoram-kanduanum	aməngr̝e  	   1	   1
+angoram-magendo  	aməngr̝e  	   1	   1
+angoram-marbuk   	amʊtʰar̝e 	   1	   5
+ap-ma-kambaramba 	məgər̝e   	   1	   7
+angoram-karau    	tʰantʰ    	   3	   3
+angoram-wagamut  	tʰantʰ    	   3	   3
+chambri-kilimbit 	kʰontsal  	   8	   8
+kopar-singarin   	tʰamʊuntʰo	   9	   9
+tok-pisin        	pis       	  10	  10
+#
+Concept: 2824_KNUCKLE, False Positives: yes, False Negatives: no
+angoram-kambrindo	tiŋ              	   1	   1
+angoram-kanduanum	kwoŋbinəm        	   2	   2
+angoram-karau    	pʰədəkʰ          	   3	   3
+angoram-magendo  	tʰəŋ             	   4	   1
+angoram-marbuk   	sʊŋgədʊŋ         	   5	   5
+angoram-wagamut  	pʰədakʰ          	   6	   3
+ap-ma-kambaramba 	iandən           	   7	   7
+chambri-kilimbit 	tʊlʊk            	   8	   8
+chambri-kilimbit 	tʊr̝ʊk           	   8	   8
+kopar-singarin   	nampapʰətəŋ      	   9	   9
+tok-pisin        	skru+bilong+pinga	  10	  10
+#
+Concept: 406_OLD_MAN, False Positives: yes, False Negatives: no
+angoram-kambrindo	apapʰ        	   1	   1
+angoram-kanduanum	abapʰ        	   2	   1
+angoram-karau    	norapʰo      	   3	   3
+angoram-magendo  	pʰondokʰopʰan	   4	   4
+angoram-marbuk   	pʰondokʰopʰan	   5	   4
+angoram-wagamut  	apʰanor̃     	   6	   6
+ap-ma-kambaramba 	uau          	   7	   7
+chambri-kilimbit 	nor̃ənən     	   8	   8
+kopar-singarin   	kʰapanor̝o   	   9	   6
+tok-pisin        	lapun+man    	  10	  10
+#
+Concept: 503_FROG, False Positives: yes, False Negatives: no
+angoram-kambrindo	kʰər̝em    	   1	   1
+angoram-kanduanum	kʰər̝ɛm    	   1	   1
+angoram-magendo  	kʰər̝ɛm    	   1	   1
+angoram-marbuk   	kʰər̝em    	   1	   1
+angoram-karau    	kʰokʰr̝aikʰ	   3	   3
+angoram-wagamut  	pʰopʰr̝akʰ 	   6	   6
+ap-ma-kambaramba 	ukʰər̝əmpʰə	   7	   1
+kopar-singarin   	gr̝ongr̝okʰ	   8	   3
+tok-pisin        	krokrok    	   9	   3
+#
+Concept: 628_LEAF, False Positives: no, False Negatives: yes
+angoram-kambrindo	bər̝ʊm    	   1	   1
+angoram-magendo  	bə̌/ər̝ʊm 	   1	   1
+angoram-marbuk   	nambər̝ʊm 	   1	   5
+chambri-kilimbit 	nɨmbəlampʰ	   1	   5
+angoram-kanduanum	mbr̃i     	   2	   2
+angoram-karau    	nabir̝əkʰ 	   3	   3
+angoram-wagamut  	nabir̝ukʰ 	   3	   3
+ap-ma-kambaramba 	baiəbɛn   	   7	   7
+kopar-singarin   	br̝iŋdan  	   9	   9
+tok-pisin        	lip       	  10	  10
+#
+Concept: 630_LIGHT_RADIATION, False Positives: no, False Negatives: yes
+angoram-kambrindo	pr̝ɪndəmʊsɪkʰre	   1	   1
+angoram-kanduanum	samblakalakʰən 	   2	   2
+angoram-marbuk   	snamkʰantʰakʰən	   2	   4
+angoram-karau    	sanabao        	   3	   3
+angoram-wagamut  	sonabao        	   3	   3
+ap-ma-kambaramba 	pansəmbar̝i    	   6	   6
+kopar-singarin   	tsanənpr̝au    	   7	   7
+tok-pisin        	in+no+hevi     	   8	   8
+#
+Concept: 639_MOUNTAIN, False Positives: no, False Negatives: yes
+angoram-kambrindo	uiŋ     	   1	   1
+angoram-magendo  	uiŋ     	   1	   1
+angoram-kanduanum	wɪngr̝i 	   1	   2
+angoram-karau    	pʰar̝am 	   3	   3
+angoram-wagamut  	pʰər̝am 	   3	   3
+kopar-singarin   	pʰantʰam	   3	   9
+angoram-marbuk   	imbwaŋ  	   5	   5
+ap-ma-kambaramba 	iəmbwan 	   5	   5
+chambri-kilimbit 	bawi    	   8	   8
+tok-pisin        	maunten 	  10	  10
+#
+Concept: 671_SAND, False Positives: no, False Negatives: yes
+angoram-kambrindo	sʊŋwaia     	   1	   1
+angoram-magendo  	tsingaiə    	   1	   4
+angoram-marbuk   	s+ŋai       	   1	   5
+angoram-wagamut  	dʒəŋai      	   1	   6
+angoram-kanduanum	kʰər̝ar̝ən  	   2	   2
+kopar-singarin   	kʰəkʰər̝ən  	   2	   2
+angoram-karau    	gʊgʊdʒər̝akʰ	   3	   3
+ap-ma-kambaramba 	mʊiŋ        	   7	   7
+chambri-kilimbit 	or̝antikʰas 	   8	   8
+tok-pisin        	waisan      	  10	  10
+#
+Concept: 677_AXE, False Positives: no, False Negatives: yes
+angoram-kambrindo	sakʰar̝əma  	   1	   1
+angoram-kanduanum	ʈʂakʰar̝əma 	   1	   1
+angoram-marbuk   	sakʰar̝əma  	   1	   1
+angoram-karau    	bor̝in      	   3	   3
+angoram-wagamut  	iamborinəŋgə	   3	   6
+angoram-magendo  	uakʰəmpiʂe  	   4	   4
+ap-ma-kambaramba 	nkʰai       	   7	   7
+chambri-kilimbit 	jiampʰar̃ʊ  	   8	   8
+kopar-singarin   	pʰantʰɛn    	   9	   9
+tok-pisin        	tamiok      	  10	  10
+#
+Concept: 744_EGG, False Positives: no, False Negatives: yes
+angoram-kambrindo	ʊoŋ   	   1	   1
+angoram-magendo  	uoŋ   	   1	   1
+angoram-kanduanum	aunkʰ 	   1	   2
+chambri-kilimbit 	awaŋkʰ	   1	   2
+angoram-marbuk   	ŋaŋ   	   1	   5
+angoram-karau    	ngaug 	   3	   3
+angoram-wagamut  	ngaug 	   3	   3
+ap-ma-kambaramba 	mbwi  	   7	   7
+kopar-singarin   	aol   	   9	   9
+tok-pisin        	kiau  	  10	  10
+#
+Concept: 763_SKIN, False Positives: no, False Negatives: yes
+angoram-kambrindo	nanguni  	   1	   1
+angoram-karau    	nagun    	   1	   1
+angoram-magendo  	nanguni  	   1	   1
+angoram-wagamut  	nagun    	   1	   1
+kopar-singarin   	nangun   	   1	   1
+angoram-kanduanum	naŋgəbər̃	   1	   2
+angoram-marbuk   	ŋaŋi     	   1	   5
+ap-ma-kambaramba 	ʊntʰ     	   7	   7
+chambri-kilimbit 	maŋgekʰ  	   8	   8
+tok-pisin        	skin     	  10	  10
+#
+Concept: 778_SMOKE_EXHAUST, False Positives: yes, False Negatives: no
+angoram-kambrindo	gɪndingr̝i      	   1	   1
+angoram-kanduanum	kʰɪntʰiŋ        	   2	   1
+angoram-karau    	sakʰɛn          	   3	   3
+angoram-magendo  	nkʰɪntʰən       	   4	   1
+angoram-marbuk   	sokʰai          	   5	   3
+angoram-wagamut  	sakʰərəkʰatih   	   6	   6
+ap-ma-kambaramba 	pus             	   7	   7
+chambri-kilimbit 	elapan          	   8	   8
+kopar-singarin   	atʰikʰ          	   9	   9
+tok-pisin        	smok+bilong+paia	  10	  10
+#
+Concept: 857_STONE, False Positives: no, False Negatives: yes
+angoram-kambrindo	kʰambwakʰ	   1	   1
+angoram-kanduanum	kʰamwakʰ 	   1	   1
+angoram-karau    	dug      	   3	   3
+angoram-wagamut  	dug      	   3	   3
+angoram-magendo  	le       	   4	   4
+angoram-marbuk   	lal      	   4	   5
+chambri-kilimbit 	or̝o     	   7	   7
+kopar-singarin   	pʰatʰ    	   8	   8
+tok-pisin        	ston     	   9	   9
+#
+Concept: 868_BANANA, False Positives: yes, False Negatives: no
+angoram-kambrindo	ar̝ambəŋ 	   1	   1
+angoram-kanduanum	alambəŋ  	   1	   1
+angoram-magendo  	alambəŋ  	   1	   1
+angoram-marbuk   	ar̝ambəŋ 	   1	   1
+angoram-karau    	pʰr̝eman 	   3	   3
+angoram-wagamut  	pʰɪniman 	   3	   3
+kopar-singarin   	pʰɛr̝iman	   3	   3
+ap-ma-kambaramba 	naŋge    	   7	   7
+chambri-kilimbit 	pənæŋkʰ  	   8	   8
+tok-pisin        	banana   	  10	   8
+#
+Concept: 906_TREE, False Positives: no, False Negatives: yes
+angoram-kambrindo	ior̃or̃ 	   1	   1
+angoram-kanduanum	ior̃or̃ 	   1	   1
+angoram-karau    	iar̝ar̝ 	   1	   1
+angoram-magendo  	ior̃or̃ 	   1	   1
+angoram-marbuk   	ior̃or̃ 	   1	   1
+kopar-singarin   	ɛr̝ar̝  	   1	   1
+angoram-wagamut  	ialal   	   1	   6
+ap-ma-kambaramba 	wɪntjɛtʰ	   7	   7
+chambri-kilimbit 	iuan    	   8	   8
+tok-pisin        	diwai   	  10	  10
+#
+Concept: 907_OLD_WOMAN, False Positives: yes, False Negatives: no
+angoram-kambrindo	apapʰ        	   1	   1
+angoram-kanduanum	ar̝əmbwo     	   2	   2
+angoram-karau    	lapʰʊmar̝o   	   3	   3
+angoram-magendo  	pʰondokʰopʰan	   4	   4
+angoram-marbuk   	ŋaŋkʰopʰan   	   5	   5
+angoram-wagamut  	lapʰʊmar̝o   	   6	   3
+ap-ma-kambaramba 	mɔm          	   7	   7
+kopar-singarin   	kʰapamantʰakʰ	   8	   8
+tok-pisin        	lapun+meri   	   9	   9
+angoram-kambrindo	ate          	  10	  10
+#
+Concept: 962_WOMAN, False Positives: yes, False Negatives: yes
+angoram-kambrindo	anmandəkʰən	   1	   1
+angoram-magendo  	anmandəkʰan	   1	   1
+angoram-kanduanum	aŋuno      	   2	   2
+angoram-karau    	numar̝o    	   3	   3
+angoram-wagamut  	numar̝o    	   3	   3
+angoram-marbuk   	ŋan        	   5	   5
+ap-ma-kambaramba 	naiŋ       	   5	   5
+kopar-singarin   	namantakʰ  	   8	   1
+chambri-kilimbit 	nʊmænən    	   8	   8
+tok-pisin        	meri       	  10	  10
+#
+Concept: 977_ARROW, False Positives: yes, False Negatives: no
+angoram-kambrindo	andʒimangən	   1	   1
+angoram-kanduanum	ŋgar̝i     	   2	   2
+angoram-karau    	aiəmpʰɛpʰ  	   3	   3
+angoram-magendo  	ŋgar̝i     	   4	   2
+angoram-marbuk   	inon       	   5	   5
+angoram-wagamut  	nigekʰ     	   6	   6
+ap-ma-kambaramba 	pʊr̝i      	   7	   7
+chambri-kilimbit 	wantʰampʰ  	   8	   8
+kopar-singarin   	mbɛmpʰ     	   9	   9
+tok-pisin        	spia       	  10	  10
+ap-ma-kambaramba 	pʊli       	  11	   7
+#
+Concept: 982_LIME_FRUIT, False Positives: no, False Negatives: yes
+angoram-kambrindo	auɪr̃  	   1	   1
+angoram-kanduanum	auir̃  	   1	   1
+angoram-karau    	air̃   	   1	   1
+angoram-magendo  	auir̃  	   1	   1
+angoram-marbuk   	auir̃  	   1	   1
+angoram-wagamut  	air̃   	   1	   1
+kopar-singarin   	air̃   	   1	   1
+ap-ma-kambaramba 	ai     	   1	   7
+tok-pisin        	kəmbang	   9	   9
+#

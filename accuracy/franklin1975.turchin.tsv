@@ -1,0 +1,1028 @@
+# Wordlist
+
+# DATA
+ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	SOURCE	COGID	SONARS	PROSTRINGS	CLASSES	LANGID	NUMBERS	WEIGHTS	IPA	DUPLICATES	AUTOCOGID
+#
+81070	wiru	1035_GOOD	epe tèko	epe_tèko	e p e + t è/e k o		franklin1975	6018	7 1 7 9 1 7 1 7	XBZ_AXBZ	EPE_TEKU	12	12.E.V 12.P.C 12.E.V 12._._ 12.T.C 12.E.V 12.K.C 12.U.V	1.5 1.75 0.8 0.0 2.0 1.5 1.75 0.8	epe+tè/eko	0	1
+81066	samberigi	1035_GOOD	epeke	epeke	e p e k e		franklin1975	6018	7 1 7 1 7	XBYBZ	EPEKE	10	10.E.V 10.P.C 10.E.V 10.K.C 10.E.V	1.5 1.75 1.3 1.75 0.8	epeke	0	1
+81071	fasu	1035_GOOD	kotesa	kotesa	k o t e s a		franklin1975	129	1 7 1 7 3 7	AXBYBZ	KUTESA	7	7.K.C 7.U.V 7.T.C 7.E.V 7.S.C 7.A.V	2.0 1.5 1.75 1.3 1.75 0.8	kotesa	0	5
+81068	huli	1035_GOOD	bayale	bayale	b a j a l e		franklin1975	153	1 7 6 7 5 7	AXBYBZ	PAJALE	8	8.P.C 8.A.V 8.J.C 8.A.V 8.L.C 8.E.V	2.0 1.5 1.75 1.3 1.75 0.8	bajale	0	6
+81067	enga	1035_GOOD	épé	épé	é/e p é/e		franklin1975	6018	7 1 7	XBZ	EPE	5	5.E.V 5.P.C 5.E.V	1.5 1.75 0.8	é/epé/e	0	1
+81062	west-kewa	1035_GOOD	epe (ta)	epe_	e p e		franklin1975	6018	7 1 7	XBZ	EPE	11	11.E.V 11.P.C 11.E.V	1.5 1.75 0.8	epe	0	1
+81063	east-kewa	1035_GOOD	epe (ta)	epe_	e p e		franklin1975	6018	7 1 7	XBZ	EPE	4	4.E.V 4.P.C 4.E.V	1.5 1.75 0.8	epe	0	1
+81064	erave	1035_GOOD	epe (ta)	epe_	e p e		franklin1975	6018	7 1 7	XBZ	EPE	6	6.E.V 6.P.C 6.E.V	1.5 1.75 0.8	epe	0	1
+81065	angal	1035_GOOD	epe	epe	e p e		franklin1975	6018	7 1 7	XBZ	EPE	1	1.E.V 1.P.C 1.E.V	1.5 1.75 0.8	epe	1	1
+81069	ipili	1035_GOOD	wayu	wayu	w a j u		franklin1975	193	6 7 6 7	AXBZ	WAJY	9	9.W.C 9.A.V 9.J.C 9.Y.V	2.0 1.5 1.75 0.8	waju	0	7
+#
+80788	wiru	1174_YESTERDAY	abela	abela	a b e l a		franklin1975	5987	7 1 7 5 7	XBYBZ	APELA	12	12.A.V 12.P.C 12.E.V 12.L.C 12.A.V	1.5 1.75 1.3 1.75 0.8	abela	0	9
+80785	samberigi	1174_YESTERDAY	ambaneke	ambaneke	a m b a n e k e		franklin1975	5987	7 4 1 7 4 7 1 7	XMBYBYBZ	AMPANEKE	10	10.A.V 10.M.c 10.P.C 10.A.V 10.N.C 10.E.V 10.K.C 10.E.V	1.5 1.1 1.75 1.3 1.75 1.3 1.75 0.8	ambaneke	0	8
+80789	fasu	1174_YESTERDAY	lao	lao	l a o		franklin1975	107	5 7 7	AXZ	LAU	7	7.L.C 7.A.V 7.U.V	2.0 1.5 0.8	lao	0	12
+80787	huli	1174_YESTERDAY	abe	abe	a b e		franklin1975	5987	7 1 7	XBZ	APE	8	8.A.V 8.P.C 8.E.V	1.5 1.75 0.8	abe	0	9
+80786	enga	1174_YESTERDAY	kwáka	kwáka	k w á/a k a		franklin1975	169	1 6 7 1 7	ACXBZ	KWAKA	5	5.K.C 5.W.C 5.A.V 5.K.C 5.A.V	2.0 1.5 1.5 1.75 0.8	kwá/aka	0	10
+80781	west-kewa	1174_YESTERDAY	abala	abala	a b a l a		franklin1975	5987	7 1 7 5 7	XBYBZ	APALA	11	11.A.V 11.P.C 11.A.V 11.L.C 11.A.V	1.5 1.75 1.3 1.75 0.8	abala	0	9
+80782	east-kewa	1174_YESTERDAY	abala	abala	a b a l a		franklin1975	5987	7 1 7 5 7	XBYBZ	APALA	4	4.A.V 4.P.C 4.A.V 4.L.C 4.A.V	1.5 1.75 1.3 1.75 0.8	abala	0	9
+80783	erave	1174_YESTERDAY	abala	abala	a b a l a		franklin1975	5987	7 1 7 5 7	XBYBZ	APALA	6	6.A.V 6.P.C 6.A.V 6.L.C 6.A.V	1.5 1.75 1.3 1.75 0.8	abala	0	9
+80784	angal	1174_YESTERDAY	ɔmboɨa	ɔmboɨa	ɔ m b o ɨ a		franklin1975	5987	7 4 1 7 7 7	XMBYYZ	UMPUIA	1	1.U.V 1.M.c 1.P.C 1.U.V 1.I.V 1.A.V	1.5 1.1 1.75 1.3 1.3 0.8	ɔmboɨa	0	8
+#
+81032	wiru	1202_BIG	tubeà	tubeà	t u b e à/a		franklin1975	56	1 7 1 7 7	AXBYZ	TYPEA	12	12.T.C 12.Y.V 12.P.C 12.E.V 12.A.V	2.0 1.5 1.75 1.3 0.8	tubeà/a	0	22
+81028	samberigi	1202_BIG	tieke	tieke	t i e k e		franklin1975	77	1 7 7 1 7	AXYBZ	TIEKE	10	10.T.C 10.I.V 10.E.V 10.K.C 10.E.V	2.0 1.5 1.3 1.75 0.8	tieke	0	20
+81033	fasu	1202_BIG	kara	kara	k a r a		franklin1975	6014	1 7 5 7	AXBZ	KARA	7	7.K.C 7.A.V 7.R.C 7.A.V	2.0 1.5 1.75 0.8	kara	0	17
+81030	huli	1202_BIG	timbu(ni)	timbu	t i m b u		franklin1975	150	1 7 4 1 7	AXMBZ	TIMPY	8	8.T.C 8.I.V 8.M.c 8.P.C 8.Y.V	2.0 1.5 1.1 1.75 0.8	timbu	0	18
+81029	enga	1202_BIG	adáke	adáke	a d á/a k e		franklin1975	6014	7 1 7 1 7	XBYBZ	ATAKE	5	5.A.V 5.T.C 5.A.V 5.K.C 5.E.V	1.5 1.75 1.3 1.75 0.8	adá/ake	0	14
+81024	west-kewa	1202_BIG	adaa	adaa	a d aː		franklin1975	6014	7 1 7	XBZ	ATA	11	11.A.V 11.T.C 11.A.V	1.5 1.75 0.8	adaː	0	14
+81025	east-kewa	1202_BIG	adaa	adaa	a d aː		franklin1975	6014	7 1 7	XBZ	ATA	4	4.A.V 4.T.C 4.A.V	1.5 1.75 0.8	adaː	0	14
+81026	erave	1202_BIG	adaa	adaa	a d aː		franklin1975	6014	7 1 7	XBZ	ATA	6	6.A.V 6.T.C 6.A.V	1.5 1.75 0.8	adaː	0	14
+81027	angal	1202_BIG	ɔndɔ	ɔndɔ	ɔ n d ɔ		franklin1975	6014	7 4 1 7	XMBZ	UNTU	1	1.U.V 1.N.c 1.T.C 1.U.V	1.5 1.1 1.75 0.8	ɔndɔ	0	13
+81031	ipili	1202_BIG	ada(ne)	ada	a d a		franklin1975	6014	7 1 7	XBZ	ATA	9	9.A.V 9.T.C 9.A.V	1.5 1.75 0.8	ada	1	14
+#
+80420	wiru	1205_TONGUE	keké	keké	k e k é/e		franklin1975	5949	1 7 1 7	AXBZ	KEKE	12	12.K.C 12.E.V 12.K.C 12.E.V	2.0 1.5 1.75 0.8	keké/e	0	24
+80416	samberigi	1205_TONGUE	kekeke	kekeke	k e k e k e		franklin1975	5949	1 7 1 7 1 7	AXBYBZ	KEKEKE	10	10.K.C 10.E.V 10.K.C 10.E.V 10.K.C 10.E.V	2.0 1.5 1.75 1.3 1.75 0.8	kekeke	0	24
+80421	fasu	1205_TONGUE	alu	alu	a l u		franklin1975	86	7 5 7	XBZ	ALY	7	7.A.V 7.L.C 7.Y.V	1.5 1.75 0.8	alu	0	27
+80418	huli	1205_TONGUE	hege	hege	h e g e		franklin1975	5949	3 7 1 7	AXBZ	HEKE	8	8.H.C 8.E.V 8.K.C 8.E.V	2.0 1.5 1.75 0.8	hege	0	23
+80417	enga	1205_TONGUE	kekenge	kekenge	k e k e n g e		franklin1975	5949	1 7 1 7 4 1 7	AXBYMBZ	KEKENKE	5	5.K.C 5.E.V 5.K.C 5.E.V 5.N.c 5.K.C 5.E.V	2.0 1.5 1.75 1.3 1.1 1.75 0.8	kekenge	0	24
+80412	west-kewa	1205_TONGUE	keke	keke	k e k e		franklin1975	5949	1 7 1 7	AXBZ	KEKE	11	11.K.C 11.E.V 11.K.C 11.E.V	2.0 1.5 1.75 0.8	keke	0	24
+80413	east-kewa	1205_TONGUE	keke	keke	k e k e		franklin1975	5949	1 7 1 7	AXBZ	KEKE	4	4.K.C 4.E.V 4.K.C 4.E.V	2.0 1.5 1.75 0.8	keke	0	24
+80414	erave	1205_TONGUE	keke	keke	k e k e		franklin1975	5949	1 7 1 7	AXBZ	KEKE	6	6.K.C 6.E.V 6.K.C 6.E.V	2.0 1.5 1.75 0.8	keke	0	24
+80415	angal-heneng	1205_TONGUE	hege	hege	h e g e		franklin1975	5949	3 7 1 7	AXBZ	HEKE	3	3.H.C 3.E.V 3.K.C 3.E.V	2.0 1.5 1.75 0.8	hege	0	23
+80419	ipili	1205_TONGUE	eke	eke	e k e		franklin1975	5949	7 1 7	XBZ	EKE	9	9.E.V 9.K.C 9.E.V	1.5 1.75 0.8	eke	0	23
+#
+80504	wiru	1209_I	no	no	n o		franklin1975	5958	4 7	AX	NU	12	12.N.C 12.U.V	2.0 1.5	no	0	28
+80500	samberigi	1209_I	ᶖ	ᶖ	ᶖ/i		franklin1975	5958	7	X	I	10	10.I.V	1.5	ᶖ/i	0	33
+80505	fasu	1209_I	ano	ano	a n o		franklin1975	5958	7 4 7	XBZ	ANU	7	7.A.V 7.N.C 7.U.V	1.5 1.75 0.8	ano	0	32
+80506	fasu	1209_I	nomo	nomo	n o m o		franklin1975	5958	4 7 4 7	AXBZ	NUMU	7	7.N.C 7.U.V 7.M.C 7.U.V	2.0 1.5 1.75 0.8	nomo	0	38
+80502	huli	1209_I	ᶖ	ᶖ	ᶖ/i		franklin1975	5958	7	X	I	8	8.I.V	1.5	ᶖ/i	0	33
+80501	enga	1209_I	nabá	nabá	n a b á/a		franklin1975	5958	4 7 1 7	AXBZ	NAPA	5	5.N.C 5.A.V 5.P.C 5.A.V	2.0 1.5 1.75 0.8	nabá/a	0	30
+80496	west-kewa	1209_I	ni	ni	n i		franklin1975	5958	4 7	AX	NI	11	11.N.C 11.I.V	2.0 1.5	ni	0	28
+80497	east-kewa	1209_I	ni	ni	n i		franklin1975	5958	4 7	AX	NI	4	4.N.C 4.I.V	2.0 1.5	ni	0	28
+80498	erave	1209_I	ni	ni	n i		franklin1975	5958	4 7	AX	NI	6	6.N.C 6.I.V	2.0 1.5	ni	0	28
+80499	angal	1209_I	ni	ni	n i		franklin1975	5958	4 7	AX	NI	1	1.N.C 1.I.V	2.0 1.5	ni	0	28
+80503	ipili	1209_I	ni(ba)	ni	n i		franklin1975	5958	4 7	AX	NI	9	9.N.C 9.I.V	2.0 1.5	ni	0	28
+#
+81107	wiru	1210_HEAVY	kedá toko	kedá_toko	k e d á/a + t o k o		franklin1975	6022	1 7 1 7 9 1 7 1 7	AXBZ_AXBZ	KETA_TUKU	12	12.K.C 12.E.V 12.T.C 12.A.V 12._._ 12.T.C 12.U.V 12.K.C 12.U.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5 1.75 0.8	kedá/a+toko	0	40
+81103	samberigi	1210_HEAVY	kændæ	kændæ	k æ n d æ		franklin1975	6022	1 7 4 1 7	AXMBZ	KENTE	10	10.K.C 10.E.V 10.N.c 10.T.C 10.E.V	2.0 1.5 1.1 1.75 0.8	kændæ	0	39
+81108	fasu	1210_HEAVY	umisa	umisa	u m i s a		franklin1975	133	7 4 7 3 7	XBYBZ	YMISA	7	7.Y.V 7.M.C 7.I.V 7.S.C 7.A.V	1.5 1.75 1.3 1.75 0.8	umisa	0	43
+81105	huli	1210_HEAVY	gendabi	gendabi	g e n d a b i		franklin1975	6022	1 7 4 1 7 1 7	AXMBYBZ	KENTAPI	8	8.K.C 8.E.V 8.N.c 8.T.C 8.A.V 8.P.C 8.I.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	gendabi	0	39
+81104	enga	1210_HEAVY	kédá	kédá	k é/e d á/a		franklin1975	6022	1 7 1 7	AXBZ	KETA	5	5.K.C 5.E.V 5.T.C 5.A.V	2.0 1.5 1.75 0.8	ké/edá/a	0	40
+81099	west-kewa	1210_HEAVY	kedaa (pea)	kedaa_	k e d aː		franklin1975	6022	1 7 1 7	AXBZ	KETA	11	11.K.C 11.E.V 11.T.C 11.A.V	2.0 1.5 1.75 0.8	kedaː	0	40
+81100	east-kewa	1210_HEAVY	kedaa (pea)	kedaa_	k e d aː		franklin1975	6022	1 7 1 7	AXBZ	KETA	4	4.K.C 4.E.V 4.T.C 4.A.V	2.0 1.5 1.75 0.8	kedaː	0	40
+81101	erave	1210_HEAVY	kedaa (pea)	kedaa_	k e d aː		franklin1975	6022	1 7 1 7	AXBZ	KETA	6	6.K.C 6.E.V 6.T.C 6.A.V	2.0 1.5 1.75 0.8	kedaː	0	40
+81102	angal	1210_HEAVY	kend	kend	k e n d		franklin1975	6022	1 7 4 1	AXLN	KENT	1	1.K.C 1.E.V 1.N.c 1.T.c	2.0 1.5 1.1 0.8	kend	0	39
+81106	ipili	1210_HEAVY	keda	keda	k e d a		franklin1975	6022	1 7 1 7	AXBZ	KETA	9	9.K.C 9.E.V 9.T.C 9.A.V	2.0 1.5 1.75 0.8	keda	0	40
+#
+80576	wiru	1212_WE	toto	toto	t o t o		franklin1975	22	1 7 1 7	AXBZ	TUTU	12	12.T.C 12.U.V 12.T.C 12.U.V	2.0 1.5 1.75 0.8	toto	0	50
+80574	samberigi	1212_WE	niki	niki	n i k i		franklin1975	5965	4 7 1 7	AXBZ	NIKI	10	10.N.C 10.I.V 10.K.C 10.I.V	2.0 1.5 1.75 0.8	niki	0	48
+80577	fasu	1212_WE	isina	isina	i s i n a		franklin1975	93	7 3 7 4 7	XBYBZ	ISINA	7	7.I.V 7.S.C 7.I.V 7.N.C 7.A.V	1.5 1.75 1.3 1.75 0.8	isina	0	47
+80578	fasu	1212_WE	isu	isu	i s u		franklin1975	94	7 3 7	XBZ	ISY	7	7.I.V 7.S.C 7.Y.V	1.5 1.75 0.8	isu	0	47
+80575	enga	1212_WE	náima	náima	n á/a i m a		franklin1975	5965	4 7 7 4 7	AXYBZ	NAIMA	5	5.N.C 5.A.V 5.I.V 5.M.C 5.A.V	2.0 1.5 1.3 1.75 0.8	ná/aima	0	46
+80571	west-kewa	1212_WE	niaa	niaa	n i aː		franklin1975	5965	4 7 7	AXZ	NIA	11	11.N.C 11.I.V 11.A.V	2.0 1.5 0.8	niaː	0	44
+80572	west-kewa	1212_WE	nyaa	nyaa	n j aː		franklin1975	5965	4 6 7	ACX	NJA	11	11.N.C 11.J.C 11.A.V	2.0 1.5 1.5	njaː	0	52
+80570	east-kewa	1212_WE	naa	naa	n aː		franklin1975	5965	4 7	AX	NA	4	4.N.C 4.A.V	2.0 1.5	naː	0	44
+80573	angal	1212_WE	nɔ	nɔ	n ɔ		franklin1975	5965	4 7	AX	NU	1	1.N.C 1.U.V	2.0 1.5	nɔ	0	44
+#
+80557	wiru	1214_THIS	ì	ì	ì/i		franklin1975	21	7	X	I	12	12.I.V	1.5	ì/i	0	58
+80553	samberigi	1214_THIS	do	do	d o		franklin1975	5963	1 7	AX	TU	10	10.T.C 10.U.V	2.0 1.5	do	0	60
+80558	fasu	1214_THIS	one	one	o n e		franklin1975	5963	7 4 7	XBZ	UNE	7	7.U.V 7.N.C 7.E.V	1.5 1.75 0.8	one	0	57
+80555	huli	1214_THIS	o	o	o		franklin1975	5963	7	X	U	8	8.U.V	1.5	o	0	58
+80554	enga	1214_THIS	dàke	dàke	d à/a k e		franklin1975	5963	1 7 1 7	AXBZ	TAKE	5	5.T.C 5.A.V 5.K.C 5.E.V	2.0 1.5 1.75 0.8	dà/ake	0	55
+80549	west-kewa	1214_THIS	go	go	g o		franklin1975	5963	1 7	AX	KU	11	11.K.C 11.U.V	2.0 1.5	go	0	54
+80550	east-kewa	1214_THIS	go	go	g o		franklin1975	5963	1 7	AX	KU	4	4.K.C 4.U.V	2.0 1.5	go	0	54
+80551	erave	1214_THIS	go	go	g o		franklin1975	5963	1 7	AX	KU	6	6.K.C 6.U.V	2.0 1.5	go	0	54
+80552	angal	1214_THIS	ngo	ngo	n g o		franklin1975	5963	4 1 7	ACZ	NKU	1	1.N.C 1.K.C 1.U.V	2.0 1.5 0.8	ngo	0	53
+80556	ipili	1214_THIS	oko(ne)	oko	o k o		franklin1975	5963	7 1 7	XBZ	UKU	9	9.U.V 9.K.C 9.U.V	1.5 1.75 0.8	oko	0	59
+#
+80567	wiru	1215_THOU	nè	nè	n è/e		franklin1975	5964	4 7	AX	NE	12	12.N.C 12.E.V	2.0 1.5	nè/e	0	62
+80563	samberigi	1215_THOU	neke	neke	n e k e		franklin1975	5964	4 7 1 7	AXBZ	NEKE	10	10.N.C 10.E.V 10.K.C 10.E.V	2.0 1.5 1.75 0.8	neke	0	61
+80568	fasu	1215_THOU	ne	ne	n e		franklin1975	5964	4 7	AX	NE	7	7.N.C 7.E.V	2.0 1.5	ne	0	62
+80569	fasu	1215_THOU	nomo	nomo	n o m o		franklin1975	5964	4 7 4 7	AXBZ	NUMU	7	7.N.C 7.U.V 7.M.C 7.U.V	2.0 1.5 1.75 0.8	nomo	1	71
+80565	huli	1215_THOU	ɭ̀̀	ɭ̀̀	ɭ		franklin1975	5964	5	A	L	8	8.L.C	2.0	ɭ	0	66
+80564	enga	1215_THOU	éba	éba	é/e b a		franklin1975	5964	7 1 7	XBZ	EPA	5	5.E.V 5.P.C 5.A.V	1.5 1.75 0.8	é/eba	0	63
+80559	west-kewa	1215_THOU	ne	ne	n e		franklin1975	5964	4 7	AX	NE	11	11.N.C 11.E.V	2.0 1.5	ne	0	62
+80560	east-kewa	1215_THOU	ne	ne	n e		franklin1975	5964	4 7	AX	NE	4	4.N.C 4.E.V	2.0 1.5	ne	0	62
+80561	erave	1215_THOU	ne	ne	n e		franklin1975	5964	4 7	AX	NE	6	6.N.C 6.E.V	2.0 1.5	ne	0	62
+80562	angal	1215_THOU	nge	nge	n g e		franklin1975	5964	4 1 7	ACZ	NKE	1	1.N.C 1.K.C 1.E.V	2.0 1.5 0.8	nge	0	61
+80566	ipili	1215_THOU	n(iba)	n	n		franklin1975	5964	4	A	N	9	9.N.C	2.0	n	0	62
+#
+80478	wiru	1216_MOTHER	one kąųà	one_kąųà	o n e + k ą/a ų/u à/a	his	franklin1975	14	7 4 7 9 1 7 7 7	XBZ_AXYZ	UNE_KAYA	12	12.U.V 12.N.C 12.E.V 12._._ 12.K.C 12.A.V 12.Y.V 12.A.V	1.5 1.75 0.8 0.0 2.0 1.5 1.3 0.8	one+ką/aų/uà/a	0	73
+80474	samberigi	1216_MOTHER	inkiki	inkiki	i n k i k i	his	franklin1975	13763	7 4 1 7 1 7	XMBYBZ	INKIKI	10	10.I.V 10.N.c 10.K.C 10.I.V 10.K.C 10.I.V	1.5 1.1 1.75 1.3 1.75 0.8	inkiki	0	73
+80479	fasu	1216_MOTHER	ama	ama	a m a	his	franklin1975	88	7 4 7	XBZ	AMA	7	7.A.V 7.M.C 7.A.V	1.5 1.75 0.8	ama	0	72
+80468	huli	1216_MOTHER	ąya	ąya	ą/a j a	my	franklin1975	139	7 6 7	XBZ	AJA	8	8.A.V 8.J.C 8.A.V	1.5 1.75 0.8	ą/aja	0	78
+80476	huli	1216_MOTHER	ᶖdya	ᶖdya	ᶖ/i d j a	his	franklin1975	140	7 1 6 7	XBCZ	ITJA	8	8.I.V 8.T.C 8.J.C 8.A.V	1.5 1.75 1.5 0.8	ᶖ/idja	0	84
+80467	enga	1216_MOTHER	mamea	mamea	m a m e a	my	franklin1975	13763	4 7 4 7 7	AXBYZ	MAMEA	5	5.M.C 5.A.V 5.M.C 5.E.V 5.A.V	2.0 1.5 1.75 1.3 0.8	mamea	0	75
+80475	enga	1216_MOTHER	edagí	edagí	e d a g í/i	his	franklin1975	162	7 1 7 1 7	XBYBZ	ETAKI	5	5.E.V 5.T.C 5.A.V 5.K.C 5.I.V	1.5 1.75 1.3 1.75 0.8	edagí/i	0	84
+80463	west-kewa	1216_MOTHER	ama	ama	a m a	my	franklin1975	13763	7 4 7	XBZ	AMA	11	11.A.V 11.M.C 11.A.V	1.5 1.75 0.8	ama	0	72
+80470	west-kewa	1216_MOTHER	agi	agi	a g i	his	franklin1975	13763	7 1 7	XBZ	AKI	11	11.A.V 11.K.C 11.I.V	1.5 1.75 0.8	agi	0	83
+80464	east-kewa	1216_MOTHER	ama	ama	a m a	my	franklin1975	13763	7 4 7	XBZ	AMA	4	4.A.V 4.M.C 4.A.V	1.5 1.75 0.8	ama	0	72
+80471	east-kewa	1216_MOTHER	agi	agi	a g i	his	franklin1975	13763	7 1 7	XBZ	AKI	4	4.A.V 4.K.C 4.I.V	1.5 1.75 0.8	agi	0	83
+80465	erave	1216_MOTHER	ama	ama	a m a	my	franklin1975	13763	7 4 7	XBZ	AMA	6	6.A.V 6.M.C 6.A.V	1.5 1.75 0.8	ama	0	72
+80472	erave	1216_MOTHER	agi	agi	a g i	his	franklin1975	13763	7 1 7	XBZ	AKI	6	6.A.V 6.K.C 6.I.V	1.5 1.75 0.8	agi	0	83
+80466	angal	1216_MOTHER	am	am	a m	my	franklin1975	13763	7 4	XN	AM	1	1.A.V 1.M.c	1.5 0.8	am	0	72
+80473	angal-heneng	1216_MOTHER	anji	anji	a n j i	his	franklin1975	13763	7 4 6 7	XBCZ	ANJI	3	3.A.V 3.N.C 3.J.C 3.I.V	1.5 1.75 1.5 0.8	anji	0	73
+80469	ipili	1216_MOTHER	ama	ama	a m a	my	franklin1975	13763	7 4 7	XBZ	AMA	9	9.A.V 9.M.C 9.A.V	1.5 1.75 0.8	ama	0	72
+80477	ipili	1216_MOTHER	agini	agini	a g i n i	his	franklin1975	13763	7 1 7 4 7	XBYBZ	AKINI	9	9.A.V 9.K.C 9.I.V 9.N.C 9.I.V	1.5 1.75 1.3 1.75 0.8	agini	0	83
+#
+80452	huli	1217_FATHER	aba	aba	a b a		franklin1975	5953	7 1 7	XBZ	APA	8	8.A.V 8.P.C 8.A.V	1.5 1.75 0.8	aba	0	85
+80451	enga	1217_FATHER	apáné	apáné	a p á/a n é/e		franklin1975	5953	7 1 7 4 7	XBYBZ	APANE	5	5.A.V 5.P.C 5.A.V 5.N.C 5.E.V	1.5 1.75 1.3 1.75 0.8	apá/ané/e	0	85
+80447	west-kewa	1217_FATHER	aapa	aapa	aː p a		franklin1975	5953	7 1 7	XBZ	APA	11	11.A.V 11.P.C 11.A.V	1.5 1.75 0.8	aːpa	0	85
+80448	east-kewa	1217_FATHER	aapa	aapa	aː p a		franklin1975	5953	7 1 7	XBZ	APA	4	4.A.V 4.P.C 4.A.V	1.5 1.75 0.8	aːpa	0	85
+80449	erave	1217_FATHER	aapa	aapa	aː p a		franklin1975	5953	7 1 7	XBZ	APA	6	6.A.V 6.P.C 6.A.V	1.5 1.75 0.8	aːpa	0	85
+80450	angal	1217_FATHER	ap	ap	a p		franklin1975	5953	7 1	XN	AP	1	1.A.V 1.P.c	1.5 0.8	ap	1	85
+80453	ipili	1217_FATHER	apa	apa	a p a		franklin1975	5953	7 1 7	XBZ	APA	9	9.A.V 9.P.C 9.A.V	1.5 1.75 0.8	apa	0	85
+#
+80373	wiru	1224_LIVER	kolotíni	kolotíni	k o l o t í/i n i		franklin1975	9	1 7 5 7 1 7 4 7	AXBYBYBZ	KULUTINI	12	12.K.C 12.U.V 12.L.C 12.U.V 12.T.C 12.I.V 12.N.C 12.I.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	kolotí/ini	0	95
+80369	samberigi	1224_LIVER	puki	puki	p u k i		franklin1975	5944	1 7 1 7	AXBZ	PYKI	10	10.P.C 10.Y.V 10.K.C 10.I.V	2.0 1.5 1.75 0.8	puki	0	88
+80374	fasu	1224_LIVER	kosoko	kosoko	k o s o k o		franklin1975	83	1 7 3 7 1 7	AXBYBZ	KUSUKU	7	7.K.C 7.U.V 7.S.C 7.U.V 7.K.C 7.U.V	2.0 1.5 1.75 1.3 1.75 0.8	kosoko	0	90
+80371	huli	1224_LIVER	puní	puní	p u n í/i		franklin1975	5944	1 7 4 7	AXBZ	PYNI	8	8.P.C 8.Y.V 8.N.C 8.I.V	2.0 1.5 1.75 0.8	puní/i	0	91
+80370	enga	1224_LIVER	pugi	pugi	p u g i		franklin1975	5944	1 7 1 7	AXBZ	PYKI	5	5.P.C 5.Y.V 5.K.C 5.I.V	2.0 1.5 1.75 0.8	pugi	0	88
+80365	west-kewa	1224_LIVER	pu	pu	p u		franklin1975	5944	1 7	AX	PY	11	11.P.C 11.Y.V	2.0 1.5	pu	0	86
+80366	east-kewa	1224_LIVER	pu	pu	p u		franklin1975	5944	1 7	AX	PY	4	4.P.C 4.Y.V	2.0 1.5	pu	0	86
+80367	erave	1224_LIVER	pu	pu	p u		franklin1975	5944	1 7	AX	PY	6	6.P.C 6.Y.V	2.0 1.5	pu	0	86
+80368	angal	1224_LIVER	pu	pu	p u		franklin1975	5944	1 7	AX	PY	1	1.P.C 1.Y.V	2.0 1.5	pu	0	86
+80372	ipili	1224_LIVER	lasiane	lasiane	l a s i a n e		franklin1975	182	5 7 3 7 7 4 7	AXBYYBZ	LASIANE	9	9.L.C 9.A.V 9.S.C 9.I.V 9.A.V 9.N.C 9.E.V	2.0 1.5 1.75 1.3 1.3 1.75 0.8	lasiane	0	92
+#
+80716	wiru	1228_EARTH_SOIL	itonó	itonó	i t o n ó/o		franklin1975	33	7 1 7 4 7	XBYBZ	ITUNU	12	12.I.V 12.T.C 12.U.V 12.N.C 12.U.V	1.5 1.75 1.3 1.75 0.8	itonó/o	0	105
+80712	samberigi	1228_EARTH_SOIL	yu	yu	j u		franklin1975	5979	6 7	AX	JY	10	10.J.C 10.Y.V	2.0 1.5	ju	0	98
+80717	fasu	1228_EARTH_SOIL	hauwaka	hauwaka	h a u w a k a		franklin1975	103	3 7 7 6 7 1 7	AXYBYBZ	HAYWAKA	7	7.H.C 7.A.V 7.Y.V 7.W.C 7.A.V 7.K.C 7.A.V	2.0 1.5 1.3 1.75 1.3 1.75 0.8	hauwaka	0	100
+80714	huli	1228_EARTH_SOIL	dindi	dindi	d i n d i		franklin1975	144	1 7 4 1 7	AXMBZ	TINTI	8	8.T.C 8.I.V 8.N.c 8.T.C 8.I.V	2.0 1.5 1.1 1.75 0.8	dindi	0	101
+80713	enga	1228_EARTH_SOIL	yúu	yúu	j ú/u u		franklin1975	5979	6 7 7	AXZ	JYY	5	5.J.C 5.Y.V 5.Y.V	2.0 1.5 0.8	jú/uu	0	98
+80708	west-kewa	1228_EARTH_SOIL	su	su	s u		franklin1975	5979	3 7	AX	SY	11	11.S.C 11.Y.V	2.0 1.5	su	0	96
+80709	east-kewa	1228_EARTH_SOIL	su	su	s u		franklin1975	5979	3 7	AX	SY	4	4.S.C 4.Y.V	2.0 1.5	su	0	96
+80710	erave	1228_EARTH_SOIL	su	su	s u		franklin1975	5979	3 7	AX	SY	6	6.S.C 6.Y.V	2.0 1.5	su	0	96
+80711	angal	1228_EARTH_SOIL	su	su	s u		franklin1975	5979	3 7	AX	SY	1	1.S.C 1.Y.V	2.0 1.5	su	0	96
+80715	ipili	1228_EARTH_SOIL	yuu	yuu	j uː		franklin1975	5979	6 7	AX	JY	9	9.J.C 9.Y.V	2.0 1.5	juː	0	98
+#
+81088	wiru	1231_NEW	péne	péne	p é/e n e		franklin1975	6020	1 7 4 7	AXBZ	PENE	12	12.P.C 12.E.V 12.N.C 12.E.V	2.0 1.5 1.75 0.8	pé/ene	0	107
+81084	samberigi	1231_NEW	panake	panake	p a n a k e		franklin1975	6020	1 7 4 7 1 7	AXBYBZ	PANAKE	10	10.P.C 10.A.V 10.N.C 10.A.V 10.K.C 10.E.V	2.0 1.5 1.75 1.3 1.75 0.8	panake	0	107
+81089	fasu	1231_NEW	kawe	kawe	k a w e		franklin1975	131	1 7 6 7	AXBZ	KAWE	7	7.K.C 7.A.V 7.W.C 7.E.V	2.0 1.5 1.75 0.8	kawe	0	109
+81086	huli	1231_NEW	gahange	gahange	g a h a n g e		franklin1975	6020	1 7 3 7 4 1 7	AXBYMBZ	KAHANKE	8	8.K.C 8.A.V 8.H.C 8.A.V 8.N.c 8.K.C 8.E.V	2.0 1.5 1.75 1.3 1.1 1.75 0.8	gahange	0	110
+81085	enga	1231_NEW	enége	enége	e n é/e g e		franklin1975	6020	7 4 7 1 7	XBYBZ	ENEKE	5	5.E.V 5.N.C 5.E.V 5.K.C 5.E.V	1.5 1.75 1.3 1.75 0.8	ené/ege	0	108
+81082	east-kewa	1231_NEW	pena	pena	p e n a		franklin1975	6020	1 7 4 7	AXBZ	PENA	4	4.P.C 4.E.V 4.N.C 4.A.V	2.0 1.5 1.75 0.8	pena	0	107
+81083	angal	1231_NEW	wene	wene	w e n e		franklin1975	6020	6 7 4 7	AXBZ	WENE	1	1.W.C 1.E.V 1.N.C 1.E.V	2.0 1.5 1.75 0.8	wene	0	106
+81087	ipili	1231_NEW	wenene	wenene	w e n e n e		franklin1975	6020	6 7 4 7 4 7	AXBYBZ	WENENE	9	9.W.C 9.E.V 9.N.C 9.E.V 9.N.C 9.E.V	2.0 1.5 1.75 1.3 1.75 0.8	wenene	0	106
+#
+80617	wiru	1235_WHO	teyó	teyó	t e j ó/o		franklin1975	25	1 7 6 7	AXBZ	TEJU	12	12.T.C 12.E.V 12.J.C 12.U.V	2.0 1.5 1.75 0.8	tejó/o	0	120
+80613	samberigi	1235_WHO	epi	epi	e p i		franklin1975	5969	7 1 7	XBZ	EPI	10	10.E.V 10.P.C 10.I.V	1.5 1.75 0.8	epi	0	111
+80618	fasu	1235_WHO	epa	epa	e p a		franklin1975	5969	7 1 7	XBZ	EPA	7	7.E.V 7.P.C 7.A.V	1.5 1.75 0.8	epa	0	111
+80615	huli	1235_WHO	ai	ai	a i		franklin1975	5969	7 7	XZ	AI	8	8.A.V 8.I.V	1.5 0.8	ai	0	116
+80614	enga	1235_WHO	apí	apí	a p í/i		franklin1975	5969	7 1 7	XBZ	API	5	5.A.V 5.P.C 5.I.V	1.5 1.75 0.8	apí/i	0	111
+80609	west-kewa	1235_WHO	api	api	a p i		franklin1975	5969	7 1 7	XBZ	API	11	11.A.V 11.P.C 11.I.V	1.5 1.75 0.8	api	0	111
+80610	east-kewa	1235_WHO	api	api	a p i		franklin1975	5969	7 1 7	XBZ	API	4	4.A.V 4.P.C 4.I.V	1.5 1.75 0.8	api	0	111
+80611	erave	1235_WHO	api	api	a p i		franklin1975	5969	7 1 7	XBZ	API	6	6.A.V 6.P.C 6.I.V	1.5 1.75 0.8	api	0	111
+80612	angal	1235_WHO	ap	ap	a p		franklin1975	5969	7 1	XN	AP	1	1.A.V 1.P.c	1.5 0.8	ap	0	111
+80616	ipili	1235_WHO	api	api	a p i		franklin1975	5969	7 1 7	XBZ	API	9	9.A.V 9.P.C 9.I.V	1.5 1.75 0.8	api	0	111
+#
+80597	wiru	1236_WHAT	edele	edele	e d e l e		franklin1975	5967	7 1 7 5 7	XBYBZ	ETELE	12	12.E.V 12.T.C 12.E.V 12.L.C 12.E.V	1.5 1.75 1.3 1.75 0.8	edele	0	129
+80593	samberigi	1236_WHAT	aleke	aleke	a l e k e		franklin1975	5967	7 5 7 1 7	XBYBZ	ALEKE	10	10.A.V 10.L.C 10.E.V 10.K.C 10.E.V	1.5 1.75 1.3 1.75 0.8	aleke	0	122
+80598	fasu	1236_WHAT	yakapa	yakapa	j a k a p a		franklin1975	97	6 7 1 7 1 7	AXBYBZ	JAKAPA	7	7.J.C 7.A.V 7.K.C 7.A.V 7.P.C 7.A.V	2.0 1.5 1.75 1.3 1.75 0.8	jakapa	0	124
+80595	huli	1236_WHAT	agi	agi	a g i		franklin1975	5967	7 1 7	XBZ	AKI	8	8.A.V 8.K.C 8.I.V	1.5 1.75 0.8	agi	0	121
+80594	enga	1236_WHAT	àki	àki	à/a k i		franklin1975	5967	7 1 7	XBZ	AKI	5	5.A.V 5.K.C 5.I.V	1.5 1.75 0.8	à/aki	0	121
+80591	west-kewa	1236_WHAT	ake	ake	a k e		franklin1975	5967	7 1 7	XBZ	AKE	11	11.A.V 11.K.C 11.E.V	1.5 1.75 0.8	ake	0	121
+80590	east-kewa	1236_WHAT	ali	ali	a l i		franklin1975	5967	7 5 7	XBZ	ALI	4	4.A.V 4.L.C 4.I.V	1.5 1.75 0.8	ali	1	122
+80592	angal	1236_WHAT	aik	aik	a i k		franklin1975	5967	7 7 1	XYN	AIK	1	1.A.V 1.I.V 1.K.c	1.5 1.3 0.8	aik	0	121
+80596	ipili	1236_WHAT	aki	aki	a k i		franklin1975	5967	7 1 7	XBZ	AKI	9	9.A.V 9.K.C 9.I.V	1.5 1.75 0.8	aki	0	121
+#
+80607	wiru	1238_WHEN	manipeté	manipeté	m a n i p e t é/e		franklin1975	24	4 7 4 7 1 7 1 7	AXBYBYBZ	MANIPETE	12	12.M.C 12.A.V 12.N.C 12.I.V 12.P.C 12.E.V 12.T.C 12.E.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	manipeté/e	0	139
+80603	samberigi	1238_WHEN	handimæ	handimæ	h a n d i m æ		franklin1975	67	3 7 4 1 7 4 7	AXMBYBZ	HANTIME	10	10.H.C 10.A.V 10.N.c 10.T.C 10.I.V 10.M.C 10.E.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	handimæ	0	135
+80608	fasu	1238_WHEN	masinaka	masinaka	m a s i n a k a		franklin1975	98	4 7 3 7 4 7 1 7	AXBYBYBZ	MASINAKA	7	7.M.C 7.A.V 7.S.C 7.I.V 7.N.C 7.A.V 7.K.C 7.A.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	masinaka	0	134
+80605	huli	1238_WHEN	angi	angi	a n g i		franklin1975	141	7 4 1 7	XMBZ	ANKI	8	8.A.V 8.N.c 8.K.C 8.I.V	1.5 1.1 1.75 0.8	angi	0	135
+80604	enga	1238_WHEN	adokópá	adokópá	a d o k ó/o p á/a		franklin1975	164	7 1 7 1 7 1 7	XBYBYBZ	ATUKUPA	5	5.A.V 5.T.C 5.U.V 5.K.C 5.U.V 5.P.C 5.A.V	1.5 1.75 1.3 1.75 1.3 1.75 0.8	adokó/opá/a	0	132
+80599	west-kewa	1238_WHEN	a rabo	a_rabo	a + r a b o		franklin1975	5968	7 9 5 7 1 7	X_AXBZ	A_RAPU	11	11.A.V 11._._ 11.R.C 11.A.V 11.P.C 11.U.V	1.5 0.0 2.0 1.5 1.75 0.8	a+rabo	0	130
+80600	east-kewa	1238_WHEN	a rabo	a_rabo	a + r a b o		franklin1975	5968	7 9 5 7 1 7	X_AXBZ	A_RAPU	4	4.A.V 4._._ 4.R.C 4.A.V 4.P.C 4.U.V	1.5 0.0 2.0 1.5 1.75 0.8	a+rabo	0	130
+80601	erave	1238_WHEN	a rabo	a_rabo	a + r a b o		franklin1975	5968	7 9 5 7 1 7	X_AXBZ	A_RAPU	6	6.A.V 6._._ 6.R.C 6.A.V 6.P.C 6.U.V	1.5 0.0 2.0 1.5 1.75 0.8	a+rabo	0	130
+80602	angal	1238_WHEN	a rɔmbu	a_rɔmbu	a + r ɔ m b u		franklin1975	5968	7 9 5 7 4 1 7	X_AXMBZ	A_RUMPY	1	1.A.V 1._._ 1.R.C 1.U.V 1.M.c 1.P.C 1.Y.V	1.5 0.0 2.0 1.5 1.1 1.75 0.8	a+rɔmbu	0	130
+80606	ipili	1238_WHEN	a kidi	a_kidi	a + k i d i		franklin1975	185	7 9 1 7 1 7	X_AXBZ	A_KITI	9	9.A.V 9._._ 9.K.C 9.I.V 9.T.C 9.I.V	1.5 0.0 2.0 1.5 1.75 0.8	a+kidi	0	130
+#
+80334	wiru	123_FOREHEAD	pono	pono	p o n o	forehead	franklin1975	5940	1 7 4 7	AXBZ	PUNU	12	12.P.C 12.U.V 12.N.C 12.U.V	2.0 1.5 1.75 0.8	pono	0	149
+80330	samberigi	123_FOREHEAD	wenoko	wenoko	w e n o k o	forehead	franklin1975	5940	6 7 4 7 1 7	AXBYBZ	WENUKU	10	10.W.C 10.E.V 10.N.C 10.U.V 10.K.C 10.U.V	2.0 1.5 1.75 1.3 1.75 0.8	wenoko	0	140
+80335	fasu	123_FOREHEAD	wamu	wamu	w a m u	forehead	franklin1975	5940	6 7 4 7	AXBZ	WAMY	7	7.W.C 7.A.V 7.M.C 7.Y.V	2.0 1.5 1.75 0.8	wamu	0	144
+80332	huli	123_FOREHEAD	wane kui	wane_kui	w a n e + k u i	forehead	franklin1975	5940	6 7 4 7 9 1 7 7	AXBZ_AXZ	WANE_KYI	8	8.W.C 8.A.V 8.N.C 8.E.V 8._._ 8.K.C 8.Y.V 8.I.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5 0.8	wane+kui	0	140
+80331	enga	123_FOREHEAD	ragárú	ragárú	r a g á/a r ú/u	forehead	franklin1975	157	5 7 1 7 5 7	AXBYBZ	RAKARY	5	5.R.C 5.A.V 5.K.C 5.A.V 5.R.C 5.Y.V	2.0 1.5 1.75 1.3 1.75 0.8	ragá/arú/u	0	142
+80326	west-kewa	123_FOREHEAD	weno	weno	w e n o	forehead	franklin1975	5940	6 7 4 7	AXBZ	WENU	11	11.W.C 11.E.V 11.N.C 11.U.V	2.0 1.5 1.75 0.8	weno	0	140
+80327	east-kewa	123_FOREHEAD	weno	weno	w e n o	forehead	franklin1975	5940	6 7 4 7	AXBZ	WENU	4	4.W.C 4.E.V 4.N.C 4.U.V	2.0 1.5 1.75 0.8	weno	0	140
+80328	erave	123_FOREHEAD	weno	weno	w e n o	forehead	franklin1975	5940	6 7 4 7	AXBZ	WENU	6	6.W.C 6.E.V 6.N.C 6.U.V	2.0 1.5 1.75 0.8	weno	0	140
+80329	angal	123_FOREHEAD	wonɔ	wonɔ	w o n ɔ	forehead	franklin1975	5940	6 7 4 7	AXBZ	WUNU	1	1.W.C 1.U.V 1.N.C 1.U.V	2.0 1.5 1.75 0.8	wonɔ	0	140
+80333	ipili	123_FOREHEAD	weno(ne)	weno	w e n o	forehead	franklin1975	5940	6 7 4 7	AXBZ	WENU	9	9.W.C 9.E.V 9.N.C 9.U.V	2.0 1.5 1.75 0.8	weno	0	140
+#
+81097	wiru	1240_NOT	mená	mená	m e n á/a		franklin1975	61	4 7 4 7	AXBZ	MENA	12	12.M.C 12.E.V 12.N.C 12.A.V	2.0 1.5 1.75 0.8	mená/a	0	158
+81094	samberigi	1240_NOT	diæ	diæ	d i æ		franklin1975	6021	1 7 7	AXZ	TIE	10	10.T.C 10.I.V 10.E.V	2.0 1.5 0.8	diæ	0	151
+81098	fasu	1240_NOT	wai	wai	w a i		franklin1975	132	6 7 7	AXZ	WAI	7	7.W.C 7.A.V 7.I.V	2.0 1.5 0.8	wai	0	154
+81095	enga	1240_NOT	daá	daá	d a á/a		franklin1975	6021	1 7 7	AXZ	TAA	5	5.T.C 5.A.V 5.A.V	2.0 1.5 0.8	daá/a	0	151
+81090	west-kewa	1240_NOT	dia	dia	d i a		franklin1975	6021	1 7 7	AXZ	TIA	11	11.T.C 11.I.V 11.A.V	2.0 1.5 0.8	dia	0	151
+81091	east-kewa	1240_NOT	dia	dia	d i a		franklin1975	6021	1 7 7	AXZ	TIA	4	4.T.C 4.I.V 4.A.V	2.0 1.5 0.8	dia	0	151
+81092	erave	1240_NOT	dia	dia	d i a		franklin1975	6021	1 7 7	AXZ	TIA	6	6.T.C 6.I.V 6.A.V	2.0 1.5 0.8	dia	0	151
+81093	angal	1240_NOT	ind	ind	i n d		franklin1975	6021	7 4 1	XLN	INT	1	1.I.V 1.N.c 1.T.c	1.5 1.1 0.8	ind	0	150
+81096	ipili	1240_NOT	jia	jia	j i a		franklin1975	6021	6 7 7	AXZ	JIA	9	9.J.C 9.I.V 9.A.V	2.0 1.5 0.8	jia	1	155
+#
+80305	wiru	1247_EAR	kabidi	kabidi	k a b i d i		franklin1975	4	1 7 1 7 1 7	AXBYBZ	KAPITI	12	12.K.C 12.A.V 12.P.C 12.I.V 12.T.C 12.I.V	2.0 1.5 1.75 1.3 1.75 0.8	kabidi	0	167
+80302	samberigi	1247_EAR	kerake	kerake	k e r a k e		franklin1975	5937	1 7 5 7 1 7	AXBYBZ	KERAKE	10	10.K.C 10.E.V 10.R.C 10.A.V 10.K.C 10.E.V	2.0 1.5 1.75 1.3 1.75 0.8	kerake	0	161
+80306	fasu	1247_EAR	senaki	senaki	s e n a k i		franklin1975	81	3 7 4 7 1 7	AXBYBZ	SENAKI	7	7.S.C 7.E.V 7.N.C 7.A.V 7.K.C 7.I.V	2.0 1.5 1.75 1.3 1.75 0.8	senaki	0	163
+80303	enga	1247_EAR	karé	karé	k a r é/e		franklin1975	5937	1 7 5 7	AXBZ	KARE	5	5.K.C 5.A.V 5.R.C 5.E.V	2.0 1.5 1.75 0.8	karé/e	0	161
+80299	west-kewa	1247_EAR	aane	aane	aː n e		franklin1975	5937	7 4 7	XBZ	ANE	11	11.A.V 11.N.C 11.E.V	1.5 1.75 0.8	aːne	0	166
+80298	east-kewa	1247_EAR	kale	kale	k a l e		franklin1975	5937	1 7 5 7	AXBZ	KALE	4	4.K.C 4.A.V 4.L.C 4.E.V	2.0 1.5 1.75 0.8	kale	0	161
+80300	angal	1247_EAR	kan	kan	k a n		franklin1975	5937	1 7 4	AXN	KAN	1	1.K.C 1.A.V 1.N.c	2.0 1.5 0.8	kan	0	159
+80301	angal-heneng	1247_EAR	haɨ	haɨ	h a ɨ		franklin1975	5937	3 7 7	AXZ	HAI	3	3.H.C 3.A.V 3.I.V	2.0 1.5 0.8	haɨ	0	160
+80304	ipili	1247_EAR	ale	ale	a l e		franklin1975	5937	7 5 7	XBZ	ALE	9	9.A.V 9.L.C 9.E.V	1.5 1.75 0.8	ale	0	164
+#
+80314	wiru	1248_EYE	lene	lene	l e n e		franklin1975	5938	5 7 4 7	AXBZ	LENE	12	12.L.C 12.E.V 12.N.C 12.E.V	2.0 1.5 1.75 0.8	lene	0	173
+80310	samberigi	1248_EYE	leke	leke	l e k e		franklin1975	5938	5 7 1 7	AXBZ	LEKE	10	10.L.C 10.E.V 10.K.C 10.E.V	2.0 1.5 1.75 0.8	leke	0	170
+80315	fasu	1248_EYE	hi	hi	h i		franklin1975	5938	3 7	AX	HI	7	7.H.C 7.I.V	2.0 1.5	hi	0	171
+80312	huli	1248_EYE	re	re	r e		franklin1975	5938	5 7	AX	RE	8	8.R.C 8.E.V	2.0 1.5	re	0	169
+80311	enga	1248_EYE	rége	rége	r é/e g e		franklin1975	5938	5 7 1 7	AXBZ	REKE	5	5.R.C 5.E.V 5.K.C 5.E.V	2.0 1.5 1.75 0.8	ré/ege	0	170
+80308	west-kewa	1248_EYE	ini	ini	i n i		franklin1975	5938	7 4 7	XBZ	INI	11	11.I.V 11.N.C 11.I.V	1.5 1.75 0.8	ini	0	168
+80307	east-kewa	1248_EYE	le	le	l e		franklin1975	5938	5 7	AX	LE	4	4.L.C 4.E.V	2.0 1.5	le	0	169
+80309	angal	1248_EYE	in	in	i n		franklin1975	5938	7 4	XN	IN	1	1.I.V 1.N.c	1.5 0.8	in	0	168
+80313	ipili	1248_EYE	lene	lene	l e n e		franklin1975	5938	5 7 4 7	AXBZ	LENE	9	9.L.C 9.E.V 9.N.C 9.E.V	2.0 1.5 1.75 0.8	lene	0	173
+#
+80267	wiru	1251_BELLY	tepe	tepe	t e p e		franklin1975	5933	1 7 1 7	AXBZ	TEPE	12	12.T.C 12.E.V 12.P.C 12.E.V	2.0 1.5 1.75 0.8	tepe	0	176
+80263	samberigi	1251_BELLY	palo	palo	p a l o		franklin1975	65	1 7 5 7	AXBZ	PALU	10	10.P.C 10.A.V 10.L.C 10.U.V	2.0 1.5 1.75 0.8	palo	0	180
+80265	huli	1251_BELLY	tombe	tombe	t o m b e		franklin1975	5933	1 7 4 1 7	AXMBZ	TUMPE	8	8.T.C 8.U.V 8.M.c 8.P.C 8.E.V	2.0 1.5 1.1 1.75 0.8	tombe	0	174
+80264	enga	1251_BELLY	tóbá	tóbá	t ó/o b á/a		franklin1975	5933	1 7 1 7	AXBZ	TUPA	5	5.T.C 5.U.V 5.P.C 5.A.V	2.0 1.5 1.75 0.8	tó/obá/a	0	176
+80259	west-kewa	1251_BELLY	robaa	robaa	r o b aː		franklin1975	5933	5 7 1 7	AXBZ	RUPA	11	11.R.C 11.U.V 11.P.C 11.A.V	2.0 1.5 1.75 0.8	robaː	0	175
+80260	east-kewa	1251_BELLY	robaa	robaa	r o b aː		franklin1975	5933	5 7 1 7	AXBZ	RUPA	4	4.R.C 4.U.V 4.P.C 4.A.V	2.0 1.5 1.75 0.8	robaː	0	175
+80261	erave	1251_BELLY	robaa	robaa	r o b aː		franklin1975	5933	5 7 1 7	AXBZ	RUPA	6	6.R.C 6.U.V 6.P.C 6.A.V	2.0 1.5 1.75 0.8	robaː	0	175
+80262	angal	1251_BELLY	tomba	tomba	t o m b a		franklin1975	5933	1 7 4 1 7	AXMBZ	TUMPA	1	1.T.C 1.U.V 1.M.c 1.P.C 1.A.V	2.0 1.5 1.1 1.75 0.8	tomba	0	174
+80266	ipili	1251_BELLY	tobene	tobene	t o b e n e		franklin1975	5933	1 7 1 7 4 7	AXBYBZ	TUPENE	9	9.T.C 9.U.V 9.P.C 9.E.V 9.N.C 9.E.V	2.0 1.5 1.75 1.3 1.75 0.8	tobene	0	176
+#
+80668	wiru	1252_HOUSE	yapù	yapù	j a p ù/u		franklin1975	29	6 7 1 7	AXBZ	JAPY	12	12.J.C 12.A.V 12.P.C 12.Y.V	2.0 1.5 1.75 0.8	japù/u	0	190
+80664	samberigi	1252_HOUSE	nda	nda	n d a		franklin1975	5974	4 1 7	ACZ	NTA	10	10.N.C 10.T.C 10.A.V	2.0 1.5 0.8	nda	0	188
+80669	fasu	1252_HOUSE	ape	ape	a p e		franklin1975	5974	7 1 7	XBZ	APE	7	7.A.V 7.P.C 7.E.V	1.5 1.75 0.8	ape	0	185
+80666	huli	1252_HOUSE	anda	anda	a n d a		franklin1975	5974	7 4 1 7	XMBZ	ANTA	8	8.A.V 8.N.c 8.T.C 8.A.V	1.5 1.1 1.75 0.8	anda	0	181
+80665	enga	1252_HOUSE	ádá	ádá	á/a d á/a		franklin1975	5974	7 1 7	XBZ	ATA	5	5.A.V 5.T.C 5.A.V	1.5 1.75 0.8	á/adá/a	0	182
+80660	west-kewa	1252_HOUSE	ada	ada	a d a		franklin1975	5974	7 1 7	XBZ	ATA	11	11.A.V 11.T.C 11.A.V	1.5 1.75 0.8	ada	0	182
+80661	east-kewa	1252_HOUSE	ada	ada	a d a		franklin1975	5974	7 1 7	XBZ	ATA	4	4.A.V 4.T.C 4.A.V	1.5 1.75 0.8	ada	0	182
+80662	erave	1252_HOUSE	ada	ada	a d a		franklin1975	5974	7 1 7	XBZ	ATA	6	6.A.V 6.T.C 6.A.V	1.5 1.75 0.8	ada	0	182
+80663	angal	1252_HOUSE	and	and	a n d		franklin1975	5974	7 4 1	XLN	ANT	1	1.A.V 1.N.c 1.T.c	1.5 1.1 0.8	and	0	181
+80667	ipili	1252_HOUSE	ada	ada	a d a		franklin1975	5974	7 1 7	XBZ	ATA	9	9.A.V 9.T.C 9.A.V	1.5 1.75 0.8	ada	0	182
+#
+80439	wiru	1262_BROTHER	wamene	wamene	w a m e n e		franklin1975	5951	6 7 4 7 4 7	AXBYBZ	WAMENE	12	12.W.C 12.A.V 12.M.C 12.E.V 12.N.C 12.E.V	2.0 1.5 1.75 1.3 1.75 0.8	wamene	0	199
+80435	samberigi	1262_BROTHER	hameme	hameme	h a m e m e		franklin1975	5951	3 7 4 7 4 7	AXBYBZ	HAMEME	10	10.H.C 10.A.V 10.M.C 10.E.V 10.M.C 10.E.V	2.0 1.5 1.75 1.3 1.75 0.8	hameme	0	191
+80437	huli	1262_BROTHER	hameme	hameme	h a m e m e		franklin1975	5951	3 7 4 7 4 7	AXBYBZ	HAMEME	8	8.H.C 8.A.V 8.M.C 8.E.V 8.M.C 8.E.V	2.0 1.5 1.75 1.3 1.75 0.8	hameme	0	191
+80436	enga	1262_BROTHER	yagóge	yagóge	j a g ó/o g e		franklin1975	161	6 7 1 7 1 7	AXBYBZ	JAKUKE	5	5.J.C 5.A.V 5.K.C 5.U.V 5.K.C 5.E.V	2.0 1.5 1.75 1.3 1.75 0.8	jagó/oge	0	193
+80431	west-kewa	1262_BROTHER	ame	ame	a m e		franklin1975	5951	7 4 7	XBZ	AME	11	11.A.V 11.M.C 11.E.V	1.5 1.75 0.8	ame	0	191
+80432	east-kewa	1262_BROTHER	ame	ame	a m e		franklin1975	5951	7 4 7	XBZ	AME	4	4.A.V 4.M.C 4.E.V	1.5 1.75 0.8	ame	0	191
+80433	erave	1262_BROTHER	ame	ame	a m e		franklin1975	5951	7 4 7	XBZ	AME	6	6.A.V 6.M.C 6.E.V	1.5 1.75 0.8	ame	0	191
+80434	angal-heneng	1262_BROTHER	hame	hame	h a m e		franklin1975	5951	3 7 4 7	AXBZ	HAME	3	3.H.C 3.A.V 3.M.C 3.E.V	2.0 1.5 1.75 0.8	hame	0	191
+80438	ipili	1262_BROTHER	amene	amene	a m e n e		franklin1975	5951	7 4 7 4 7	XBYBZ	AMENE	9	9.A.V 9.M.C 9.E.V 9.N.C 9.E.V	1.5 1.75 1.3 1.75 0.8	amene	0	191
+#
+80694	samberigi	1274_SALT	epi	epi	e p i		franklin1975	5977	7 1 7	XBZ	EPI	10	10.E.V 10.P.C 10.I.V	1.5 1.75 0.8	epi	1	200
+80696	huli	1274_SALT	ibi	ibi	i b i		franklin1975	5977	7 1 7	XBZ	IPI	8	8.I.V 8.P.C 8.I.V	1.5 1.75 0.8	ibi	0	200
+80695	enga	1274_SALT	aípí	aípí	a í/i p í/i		franklin1975	5977	7 7 1 7	XYBZ	AIPI	5	5.A.V 5.I.V 5.P.C 5.I.V	1.5 1.3 1.75 0.8	aí/ipí/i	0	200
+80690	west-kewa	1274_SALT	aipa	aipa	a i p a		franklin1975	5977	7 7 1 7	XYBZ	AIPA	11	11.A.V 11.I.V 11.P.C 11.A.V	1.5 1.3 1.75 0.8	aipa	0	200
+80691	east-kewa	1274_SALT	aipa	aipa	a i p a		franklin1975	5977	7 7 1 7	XYBZ	AIPA	4	4.A.V 4.I.V 4.P.C 4.A.V	1.5 1.3 1.75 0.8	aipa	0	200
+80692	erave	1274_SALT	aipa	aipa	a i p a		franklin1975	5977	7 7 1 7	XYBZ	AIPA	6	6.A.V 6.I.V 6.P.C 6.A.V	1.5 1.3 1.75 0.8	aipa	0	200
+80693	angal	1274_SALT	æp	æp	æ p		franklin1975	5977	7 1	XN	EP	1	1.E.V 1.P.c	1.5 0.8	æp	0	200
+80697	ipili	1274_SALT	ipi	ipi	i p i		franklin1975	5977	7 1 7	XBZ	IPI	9	9.I.V 9.P.C 9.I.V	1.5 1.75 0.8	ipi	0	200
+#
+81171	huli	1278_VOMIT	magu tagu wia	magu_tagu_wia	m a g u + t a g u + w i a		franklin1975	6030	4 7 1 7 9 1 7 1 7 9 6 7 7	AXBZ_AXBZ_AXZ	MAKY_TAKY_WIA	8	8.M.C 8.A.V 8.K.C 8.Y.V 8._._ 8.T.C 8.A.V 8.K.C 8.Y.V 8._._ 8.W.C 8.I.V 8.A.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5 1.75 0.8 0.0 2.0 1.5 0.8	magu+tagu+wia	0	201
+81170	enga	1278_VOMIT	myúku talyígi	myúku_talyígi	m j ú/u k u + t a l j í/i g i		franklin1975	6030	4 6 7 1 7 9 1 7 5 6 7 1 7	ACXBZ_AXBCYBZ	MJYKY_TALJIKI	5	5.M.C 5.J.C 5.Y.V 5.K.C 5.Y.V 5._._ 5.T.C 5.A.V 5.L.C 5.J.C 5.I.V 5.K.C 5.I.V	2.0 1.5 1.5 1.75 0.8 0.0 2.0 1.5 1.75 1.5 1.3 1.75 0.8	mjú/uku+taljí/igi	0	202
+81168	west-kewa	1278_VOMIT	maaku ra	maaku_ra	m aː k u + r a		franklin1975	6030	4 7 1 7 9 5 7	AXBZ_AX	MAKY_RA	11	11.M.C 11.A.V 11.K.C 11.Y.V 11._._ 11.R.C 11.A.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5	maːku+ra	0	201
+81169	angal	1278_VOMIT	mak	mak	m a k		franklin1975	6030	4 7 1	AXN	MAK	1	1.M.C 1.A.V 1.K.c	2.0 1.5 0.8	mak	0	201
+81172	ipili	1278_VOMIT	miagu tagua	miagu_tagua	m i a g u + t a g u a		franklin1975	6030	4 7 7 1 7 9 1 7 1 7 7	AXYBZ_AXBYZ	MIAKY_TAKYA	9	9.M.C 9.I.V 9.A.V 9.K.C 9.Y.V 9._._ 9.T.C 9.A.V 9.K.C 9.Y.V 9.A.V	2.0 1.5 1.3 1.75 0.8 0.0 2.0 1.5 1.75 1.3 0.8	miagu+tagua	0	201
+#
+81022	wiru	1292_BAD	póko	póko	p ó/o k o		franklin1975	6013	1 7 1 7	AXBZ	PUKU	12	12.P.C 12.U.V 12.K.C 12.U.V	2.0 1.5 1.75 0.8	pó/oko	0	210
+81018	samberigi	1292_BAD	hoke	hoke	h o k e		franklin1975	6013	3 7 1 7	AXBZ	HUKE	10	10.H.C 10.U.V 10.K.C 10.E.V	2.0 1.5 1.75 0.8	hoke	0	209
+81023	fasu	1292_BAD	watikisa	watikisa	w a t i k i s a		franklin1975	125	6 7 1 7 1 7 3 7	AXBYBYBZ	WATIKISA	7	7.W.C 7.A.V 7.T.C 7.I.V 7.K.C 7.I.V 7.S.C 7.A.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	watikisa	0	206
+81020	huli	1292_BAD	ko	ko	k o		franklin1975	6013	1 7	AX	KU	8	8.K.C 8.U.V	2.0 1.5	ko	0	203
+81019	enga	1292_BAD	koó	koó	k o ó/o		franklin1975	6013	1 7 7	AXZ	KUU	5	5.K.C 5.U.V 5.U.V	2.0 1.5 0.8	koó/o	0	203
+81016	east-kewa	1292_BAD	kolea	kolea	k o l e a		franklin1975	6013	1 7 5 7 7	AXBYZ	KULEA	4	4.K.C 4.U.V 4.L.C 4.E.V 4.A.V	2.0 1.5 1.75 1.3 0.8	kolea	0	204
+81017	angal	1292_BAD	ko	ko	k o		franklin1975	6013	1 7	AX	KU	1	1.K.C 1.U.V	2.0 1.5	ko	0	203
+81021	ipili	1292_BAD	koo	koo	k oː		franklin1975	6013	1 7	AX	KU	9	9.K.C 9.U.V	2.0 1.5	koː	0	203
+#
+80724	wiru	1313_MOON	tokene	tokene	t o k e n e		franklin1975	5980	1 7 1 7 4 7	AXBYBZ	TUKENE	12	12.T.C 12.U.V 12.K.C 12.E.V 12.N.C 12.E.V	2.0 1.5 1.75 1.3 1.75 0.8	tokene	0	218
+80720	samberigi	1313_MOON	eke	eke	e k e		franklin1975	5980	7 1 7	XBZ	EKE	10	10.E.V 10.K.C 10.E.V	1.5 1.75 0.8	eke	0	211
+80725	fasu	1313_MOON	heke	heke	h e k e		franklin1975	5980	3 7 1 7	AXBZ	HEKE	7	7.H.C 7.E.V 7.K.C 7.E.V	2.0 1.5 1.75 0.8	heke	0	211
+80722	huli	1313_MOON	ege	ege	e g e		franklin1975	5980	7 1 7	XBZ	EKE	8	8.E.V 8.K.C 8.E.V	1.5 1.75 0.8	ege	0	211
+80721	enga	1313_MOON	kaná	kaná	k a n á/a		franklin1975	166	1 7 4 7	AXBZ	KANA	5	5.K.C 5.A.V 5.N.C 5.A.V	2.0 1.5 1.75 0.8	kaná/a	0	213
+80718	east-kewa	1313_MOON	eke	eke	e k e		franklin1975	5980	7 1 7	XBZ	EKE	4	4.E.V 4.K.C 4.E.V	1.5 1.75 0.8	eke	0	211
+80719	angal	1313_MOON	ek	ek	e k		franklin1975	5980	7 1	XN	EK	1	1.E.V 1.K.c	1.5 0.8	ek	0	211
+80723	ipili	1313_MOON	ana	ana	a n a		franklin1975	188	7 4 7	XBZ	ANA	9	9.A.V 9.N.C 9.A.V	1.5 1.75 0.8	ana	0	216
+#
+80391	wiru	1333_NECK	kabè	kabè	k a b è/e		franklin1975	10	1 7 1 7	AXBZ	KAPE	12	12.K.C 12.A.V 12.P.C 12.E.V	2.0 1.5 1.75 0.8	kabè/e	0	227
+80388	samberigi	1333_NECK	make	make	m a k e		franklin1975	5946	4 7 1 7	AXBZ	MAKE	10	10.M.C 10.A.V 10.K.C 10.E.V	2.0 1.5 1.75 0.8	make	0	221
+80392	fasu	1333_NECK	mawi	mawi	m a w i		franklin1975	5946	4 7 6 7	AXBZ	MAWI	7	7.M.C 7.A.V 7.W.C 7.I.V	2.0 1.5 1.75 0.8	mawi	0	223
+80389	enga	1333_NECK	magé	magé	m a g é/e		franklin1975	5946	4 7 1 7	AXBZ	MAKE	5	5.M.C 5.A.V 5.K.C 5.E.V	2.0 1.5 1.75 0.8	magé/e	0	221
+80384	west-kewa	1333_NECK	má	má	m á/a		franklin1975	5946	4 7	AX	MA	11	11.M.C 11.A.V	2.0 1.5	má/a	0	219
+80385	east-kewa	1333_NECK	má	má	m á/a		franklin1975	5946	4 7	AX	MA	4	4.M.C 4.A.V	2.0 1.5	má/a	0	219
+80386	erave	1333_NECK	má	má	m á/a		franklin1975	5946	4 7	AX	MA	6	6.M.C 6.A.V	2.0 1.5	má/a	0	219
+80387	angal	1333_NECK	ma	ma	m a		franklin1975	5946	4 7	AX	MA	1	1.M.C 1.A.V	2.0 1.5	ma	0	219
+80390	ipili	1333_NECK	mane	mane	m a n e		franklin1975	5946	4 7 4 7	AXBZ	MANE	9	9.M.C 9.A.V 9.N.C 9.E.V	2.0 1.5 1.75 0.8	mane	0	224
+#
+81140	wiru	1335_WHITE	áke tanea	áke_tanea	á/a k e + t a n e a		franklin1975	6026	7 1 7 9 1 7 4 7 7	XBZ_AXBYZ	AKE_TANEA	12	12.A.V 12.K.C 12.E.V 12._._ 12.T.C 12.A.V 12.N.C 12.E.V 12.A.V	1.5 1.75 0.8 0.0 2.0 1.5 1.75 1.3 0.8	á/ake+tanea	0	228
+81136	samberigi	1335_WHITE	hake pæ	hake_pæ	h a k e + p æ		franklin1975	6026	3 7 1 7 9 1 7	AXBZ_AX	HAKE_PE	10	10.H.C 10.A.V 10.K.C 10.E.V 10._._ 10.P.C 10.E.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5	hake+pæ	0	228
+81141	fasu	1335_WHITE	pakaesa	pakaesa	p a k a e s a		franklin1975	6026	1 7 1 7 7 3 7	AXBYYBZ	PAKAESA	7	7.P.C 7.A.V 7.K.C 7.A.V 7.E.V 7.S.C 7.A.V	2.0 1.5 1.75 1.3 1.3 1.75 0.8	pakaesa	0	232
+81138	huli	1335_WHITE	pagabua	pagabua	p a g a b u a		franklin1975	6026	1 7 1 7 1 7 7	AXBYBYZ	PAKAPYA	8	8.P.C 8.A.V 8.K.C 8.A.V 8.P.C 8.Y.V 8.A.V	2.0 1.5 1.75 1.3 1.75 1.3 0.8	pagabua	0	232
+81137	enga	1335_WHITE	ipaí	ipaí	i p a í/i		franklin1975	175	7 1 7 7	XBYZ	IPAI	5	5.I.V 5.P.C 5.A.V 5.I.V	1.5 1.75 1.3 0.8	ipaí/i	0	230
+81132	west-kewa	1335_WHITE	kaake (pia)	kaake_	k aː k e		franklin1975	6026	1 7 1 7	AXBZ	KAKE	11	11.K.C 11.A.V 11.K.C 11.E.V	2.0 1.5 1.75 0.8	kaːke	0	229
+81133	east-kewa	1335_WHITE	kaake (pia)	kaake_	k aː k e		franklin1975	6026	1 7 1 7	AXBZ	KAKE	4	4.K.C 4.A.V 4.K.C 4.E.V	2.0 1.5 1.75 0.8	kaːke	0	229
+81134	erave	1335_WHITE	kaake (pia)	kaake_	k aː k e		franklin1975	6026	1 7 1 7	AXBZ	KAKE	6	6.K.C 6.A.V 6.K.C 6.E.V	2.0 1.5 1.75 0.8	kaːke	0	229
+81135	angal	1335_WHITE	aiki pi	aiki_pi	a i k i + p i		franklin1975	6026	7 7 1 7 9 1 7	XYBZ_AX	AIKI_PI	1	1.A.V 1.I.V 1.K.C 1.I.V 1._._ 1.P.C 1.I.V	1.5 1.3 1.75 0.8 0.0 2.0 1.5	aiki+pi	0	228
+81139	ipili	1335_WHITE	ake pene	ake_pene	a k e + p e n e		franklin1975	6026	7 1 7 9 1 7 4 7	XBZ_AXBZ	AKE_PENE	9	9.A.V 9.K.C 9.E.V 9._._ 9.P.C 9.E.V 9.N.C 9.E.V	1.5 1.75 0.8 0.0 2.0 1.5 1.75 0.8	ake+pene	0	228
+#
+80885	wiru	1336_EAT	nakò	nakò	n a k ò/o		franklin1975	5998	4 7 1 7	AXBZ	NAKU	12	12.N.C 12.A.V 12.K.C 12.U.V	2.0 1.5 1.75 0.8	nakò/o	0	235
+80881	samberigi	1336_EAT	na	na	n a		franklin1975	5998	4 7	AX	NA	10	10.N.C 10.A.V	2.0 1.5	na	0	233
+80886	fasu	1336_EAT	anene	anene	a n e n e		franklin1975	5998	7 4 7 4 7	XBYBZ	ANENE	7	7.A.V 7.N.C 7.E.V 7.N.C 7.E.V	1.5 1.75 1.3 1.75 0.8	anene	0	237
+80883	huli	1336_EAT	ná	ná	n á/a		franklin1975	5998	4 7	AX	NA	8	8.N.C 8.A.V	2.0 1.5	ná/a	0	233
+80882	enga	1336_EAT	negé	negé	n e g é/e		franklin1975	5998	4 7 1 7	AXBZ	NEKE	5	5.N.C 5.E.V 5.K.C 5.E.V	2.0 1.5 1.75 0.8	negé/e	0	235
+80877	west-kewa	1336_EAT	na	na	n a		franklin1975	5998	4 7	AX	NA	11	11.N.C 11.A.V	2.0 1.5	na	0	233
+80878	east-kewa	1336_EAT	na	na	n a		franklin1975	5998	4 7	AX	NA	4	4.N.C 4.A.V	2.0 1.5	na	0	233
+80879	erave	1336_EAT	na	na	n a		franklin1975	5998	4 7	AX	NA	6	6.N.C 6.A.V	2.0 1.5	na	0	233
+80880	angal	1336_EAT	ne	ne	n e		franklin1975	5998	4 7	AX	NE	1	1.N.C 1.E.V	2.0 1.5	ne	0	233
+80884	ipili	1336_EAT	naa	naa	n aː		franklin1975	5998	4 7	AX	NA	9	9.N.C 9.A.V	2.0 1.5	naː	0	233
+#
+80688	wiru	1337_PIG	kaì	kaì	k a ì/i		franklin1975	31	1 7 7	AXZ	KAI	12	12.K.C 12.A.V 12.I.V	2.0 1.5 0.8	kaì/i	0	247
+80685	samberigi	1337_PIG	mænæ	mænæ	m æ n æ		franklin1975	68	4 7 4 7	AXBZ	MENE	10	10.M.C 10.E.V 10.N.C 10.E.V	2.0 1.5 1.75 0.8	mænæ	0	240
+80689	fasu	1337_PIG	saro	saro	s a r o		franklin1975	101	3 7 5 7	AXBZ	SARU	7	7.S.C 7.A.V 7.R.C 7.U.V	2.0 1.5 1.75 0.8	saro	0	242
+80686	huli	1337_PIG	nogo	nogo	n o g o		franklin1975	143	4 7 1 7	AXBZ	NUKU	8	8.N.C 8.U.V 8.K.C 8.U.V	2.0 1.5 1.75 0.8	nogo	0	243
+80680	west-kewa	1337_PIG	mena	mena	m e n a		franklin1975	5976	4 7 4 7	AXBZ	MENA	11	11.M.C 11.E.V 11.N.C 11.A.V	2.0 1.5 1.75 0.8	mena	0	240
+80681	east-kewa	1337_PIG	mena	mena	m e n a		franklin1975	5976	4 7 4 7	AXBZ	MENA	4	4.M.C 4.E.V 4.N.C 4.A.V	2.0 1.5 1.75 0.8	mena	0	240
+80682	erave	1337_PIG	mena	mena	m e n a		franklin1975	5976	4 7 4 7	AXBZ	MENA	6	6.M.C 6.E.V 6.N.C 6.A.V	2.0 1.5 1.75 0.8	mena	0	240
+80683	angal	1337_PIG	mok	mok	m o k		franklin1975	178	4 7 1	AXN	MUK	1	1.M.C 1.U.V 1.K.c	2.0 1.5 0.8	mok	0	238
+80684	angal-heneng	1337_PIG	jome	jome	j o m e		franklin1975	180	6 7 4 7	AXBZ	JUME	3	3.J.C 3.U.V 3.M.C 3.E.V	2.0 1.5 1.75 0.8	jome	0	239
+80687	ipili	1337_PIG	yia	yia	j i a		franklin1975	186	6 7 7	AXZ	JIA	9	9.J.C 9.I.V 9.A.V	2.0 1.5 0.8	jia	0	244
+#
+80762	wiru	1343_SUN	loú	loú	l o ú/u		franklin1975	37	5 7 7	AXZ	LUY	12	12.L.C 12.U.V 12.Y.V	2.0 1.5 0.8	loú/u	0	257
+80757	samberigi	1343_SUN	nate	nate	n a t e		franklin1975	5984	4 7 1 7	AXBZ	NATE	10	10.N.C 10.A.V 10.T.C 10.E.V	2.0 1.5 1.75 0.8	nate	0	250
+80763	fasu	1343_SUN	maiya	maiya	m a i j a		franklin1975	105	4 7 7 6 7	AXYBZ	MAIJA	7	7.M.C 7.A.V 7.I.V 7.J.C 7.A.V	2.0 1.5 1.3 1.75 0.8	maija	0	252
+80759	huli	1343_SUN	ni	ni	n i		franklin1975	5984	4 7	AX	NI	8	8.N.C 8.I.V	2.0 1.5	ni	0	253
+80758	enga	1343_SUN	nitá	nitá	n i t á/a		franklin1975	5984	4 7 1 7	AXBZ	NITA	5	5.N.C 5.I.V 5.T.C 5.A.V	2.0 1.5 1.75 0.8	nitá/a	0	250
+80753	west-kewa	1343_SUN	nare	nare	n a r e		franklin1975	5984	4 7 5 7	AXBZ	NARE	11	11.N.C 11.A.V 11.R.C 11.E.V	2.0 1.5 1.75 0.8	nare	0	248
+80754	east-kewa	1343_SUN	nare	nare	n a r e		franklin1975	5984	4 7 5 7	AXBZ	NARE	4	4.N.C 4.A.V 4.R.C 4.E.V	2.0 1.5 1.75 0.8	nare	0	248
+80755	erave	1343_SUN	nare	nare	n a r e		franklin1975	5984	4 7 5 7	AXBZ	NARE	6	6.N.C 6.A.V 6.R.C 6.E.V	2.0 1.5 1.75 0.8	nare	0	248
+80756	angal	1343_SUN	nar	nar	n a r		franklin1975	5984	4 7 5	AXN	NAR	1	1.N.C 1.A.V 1.R.c	2.0 1.5 0.8	nar	0	248
+80760	ipili	1343_SUN	nai	nai	n a i		franklin1975	5984	4 7 7	AXZ	NAI	9	9.N.C 9.A.V 9.I.V	2.0 1.5 0.8	nai	0	253
+80761	ipili	1343_SUN	nate	nate	n a t e		franklin1975	5984	4 7 1 7	AXBZ	NATE	9	9.N.C 9.A.V 9.T.C 9.E.V	2.0 1.5 1.75 0.8	nate	0	250
+#
+81080	wiru	1355_LAUGH	yáu toko	yáu_toko	j á/a u + t o k o		franklin1975	60	6 7 7 9 1 7 1 7	AXZ_AXBZ	JAY_TUKU	12	12.J.C 12.A.V 12.Y.V 12._._ 12.T.C 12.U.V 12.K.C 12.U.V	2.0 1.5 0.8 0.0 2.0 1.5 1.75 0.8	já/au+toko	0	267
+81076	samberigi	1355_LAUGH	ki talæ	ki_talæ	k i + t a l æ		franklin1975	6019	1 7 9 1 7 5 7	AX_AXBZ	KI_TALE	10	10.K.C 10.I.V 10._._ 10.T.C 10.A.V 10.L.C 10.E.V	2.0 1.5 0.0 2.0 1.5 1.75 0.8	ki+talæ	0	260
+81081	fasu	1355_LAUGH	takuane	takuane	t a k u a n e		franklin1975	130	1 7 1 7 7 4 7	AXBYYBZ	TAKYANE	7	7.T.C 7.A.V 7.K.C 7.Y.V 7.A.V 7.N.C 7.E.V	2.0 1.5 1.75 1.3 1.3 1.75 0.8	takuane	0	262
+81078	huli	1355_LAUGH	oba timbuni ha	oba_timbuni_ha	o b a + t i m b u n i + h a		franklin1975	154	7 1 7 9 1 7 4 1 7 4 7 9 3 7	XBZ_AXMBYBZ_AX	UPA_TIMPYNI_HA	8	8.U.V 8.P.C 8.A.V 8._._ 8.T.C 8.I.V 8.M.c 8.P.C 8.Y.V 8.N.C 8.I.V 8._._ 8.H.C 8.A.V	1.5 1.75 0.8 0.0 2.0 1.5 1.1 1.75 1.3 1.75 0.8 0.0 2.0 1.5	oba+timbuni+ha	0	263
+81077	enga	1355_LAUGH	gi irámo	gi_irámo	g i + i r á/a m o		franklin1975	6019	1 7 9 7 5 7 4 7	AX_XBYBZ	KI_IRAMU	5	5.K.C 5.I.V 5._._ 5.I.V 5.R.C 5.A.V 5.M.C 5.U.V	2.0 1.5 0.0 1.5 1.75 1.3 1.75 0.8	gi+irá/amo	0	260
+81072	west-kewa	1355_LAUGH	giri ta	giri_ta	g i r i + t a		franklin1975	6019	1 7 5 7 9 1 7	AXBZ_AX	KIRI_TA	11	11.K.C 11.I.V 11.R.C 11.I.V 11._._ 11.T.C 11.A.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5	giri+ta	0	259
+81073	east-kewa	1355_LAUGH	giri ta	giri_ta	g i r i + t a		franklin1975	6019	1 7 5 7 9 1 7	AXBZ_AX	KIRI_TA	4	4.K.C 4.I.V 4.R.C 4.I.V 4._._ 4.T.C 4.A.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5	giri+ta	0	259
+81074	erave	1355_LAUGH	giri ta	giri_ta	g i r i + t a		franklin1975	6019	1 7 5 7 9 1 7	AXBZ_AX	KIRI_TA	6	6.K.C 6.I.V 6.R.C 6.I.V 6._._ 6.T.C 6.A.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5	giri+ta	0	259
+81075	angal	1355_LAUGH	kit ƚe	kit_ƚe	k i t + lˠ e		franklin1975	6019	1 7 1 9 5 7	AXN_AX	KIT_LE	1	1.K.C 1.I.V 1.T.c 1._._ 1.L.C 1.E.V	2.0 1.5 0.8 0.0 2.0 1.5	kit+lˠe	0	258
+81079	ipili	1355_LAUGH	gitu	gitu	g i t u		franklin1975	6019	1 7 1 7	AXBZ	KITY	9	9.K.C 9.I.V 9.T.C 9.Y.V	2.0 1.5 1.75 0.8	gitu	0	258
+#
+80430	wiru	1366_BOY	ali mati	ali_mati	a l i + m a t i		franklin1975	13	7 5 7 9 4 7 1 7	XBZ_AXBZ	ALI_MATI	12	12.A.V 12.L.C 12.I.V 12._._ 12.M.C 12.A.V 12.T.C 12.I.V	1.5 1.75 0.8 0.0 2.0 1.5 1.75 0.8	ali+mati	0	276
+80426	samberigi	1366_BOY	weke	weke	w e k e		franklin1975	66	6 7 1 7	AXBZ	WEKE	10	10.W.C 10.E.V 10.K.C 10.E.V	2.0 1.5 1.75 0.8	weke	0	274
+80428	huli	1366_BOY	igiri	igiri	i g i r i		franklin1975	138	7 1 7 5 7	XBYBZ	IKIRI	8	8.I.V 8.K.C 8.I.V 8.R.C 8.I.V	1.5 1.75 1.3 1.75 0.8	igiri	0	272
+80427	enga	1366_BOY	wané	wané	w a n é/e		franklin1975	160	6 7 4 7	AXBZ	WANE	5	5.W.C 5.A.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	wané/e	0	270
+80422	west-kewa	1366_BOY	naaki	naaki	n aː k i		franklin1975	5950	4 7 1 7	AXBZ	NAKI	11	11.N.C 11.A.V 11.K.C 11.I.V	2.0 1.5 1.75 0.8	naːki	0	268
+80423	east-kewa	1366_BOY	naaki	naaki	n aː k i		franklin1975	5950	4 7 1 7	AXBZ	NAKI	4	4.N.C 4.A.V 4.K.C 4.I.V	2.0 1.5 1.75 0.8	naːki	0	268
+80424	erave	1366_BOY	naaki	naaki	n aː k i		franklin1975	5950	4 7 1 7	AXBZ	NAKI	6	6.N.C 6.A.V 6.K.C 6.I.V	2.0 1.5 1.75 0.8	naːki	0	268
+80425	angal	1366_BOY	naik	naik	n a i k		franklin1975	5950	4 7 7 1	AXYN	NAIK	1	1.N.C 1.A.V 1.I.V 1.K.c	2.0 1.5 1.3 0.8	naik	0	268
+80429	ipili	1366_BOY	ane	ane	a n e		franklin1975	184	7 4 7	XBZ	ANE	9	9.A.V 9.N.C 9.E.V	1.5 1.75 0.8	ane	0	273
+#
+80364	wiru	1371_KNEE	wadini	wadini	w a d i n i		franklin1975	8	6 7 1 7 4 7	AXBYBZ	WATINI	12	12.W.C 12.A.V 12.T.C 12.I.V 12.N.C 12.I.V	2.0 1.5 1.75 1.3 1.75 0.8	wadini	0	285
+80360	samberigi	1371_KNEE	tumiki	tumiki	t u m i k i		franklin1975	5943	1 7 4 7 1 7	AXBYBZ	TYMIKI	10	10.T.C 10.Y.V 10.M.C 10.I.V 10.K.C 10.I.V	2.0 1.5 1.75 1.3 1.75 0.8	tumiki	0	277
+80362	huli	1371_KNEE	ge	ge	g e		franklin1975	137	1 7	AX	KE	8	8.K.C 8.E.V	2.0 1.5	ge	1	281
+80361	enga	1371_KNEE	rúma	rúma	r ú/u m a		franklin1975	5943	5 7 4 7	AXBZ	RYMA	5	5.R.C 5.Y.V 5.M.C 5.A.V	2.0 1.5 1.75 0.8	rú/uma	0	278
+80356	west-kewa	1371_KNEE	rumu	rumu	r u m u		franklin1975	5943	5 7 4 7	AXBZ	RYMY	11	11.R.C 11.Y.V 11.M.C 11.Y.V	2.0 1.5 1.75 0.8	rumu	0	278
+80357	east-kewa	1371_KNEE	rumu	rumu	r u m u		franklin1975	5943	5 7 4 7	AXBZ	RYMY	4	4.R.C 4.Y.V 4.M.C 4.Y.V	2.0 1.5 1.75 0.8	rumu	0	278
+80358	erave	1371_KNEE	rumu	rumu	r u m u		franklin1975	5943	5 7 4 7	AXBZ	RYMY	6	6.R.C 6.Y.V 6.M.C 6.Y.V	2.0 1.5 1.75 0.8	rumu	0	278
+80359	angal	1371_KNEE	tum	tum	t u m		franklin1975	5943	1 7 4	AXN	TYM	1	1.T.C 1.Y.V 1.M.c	2.0 1.5 0.8	tum	0	277
+80363	ipili	1371_KNEE	aiki(ni)	aiki	a i k i		franklin1975	181	7 7 1 7	XYBZ	AIKI	9	9.A.V 9.I.V 9.K.C 9.I.V	1.5 1.3 1.75 0.8	aiki	0	282
+#
+80875	wiru	1392_LOUSE	nomò	nomò	n o m ò/o		franklin1975	5997	4 7 4 7	AXBZ	NUMU	12	12.N.C 12.U.V 12.M.C 12.U.V	2.0 1.5 1.75 0.8	nomò/o	0	293
+80871	samberigi	1392_LOUSE	læmæ	læmæ	l æ m æ		franklin1975	5997	5 7 4 7	AXBZ	LEME	10	10.L.C 10.E.V 10.M.C 10.E.V	2.0 1.5 1.75 0.8	læmæ	0	287
+80876	fasu	1392_LOUSE	yapani	yapani	j a p a n i		franklin1975	113	6 7 1 7 4 7	AXBYBZ	JAPANI	7	7.J.C 7.A.V 7.P.C 7.A.V 7.N.C 7.I.V	2.0 1.5 1.75 1.3 1.75 0.8	japani	0	289
+80873	huli	1392_LOUSE	emo	emo	e m o		franklin1975	5997	7 4 7	XBZ	EMU	8	8.E.V 8.M.C 8.U.V	1.5 1.75 0.8	emo	0	286
+80872	enga	1392_LOUSE	rema	rema	r e m a		franklin1975	5997	5 7 4 7	AXBZ	REMA	5	5.R.C 5.E.V 5.M.C 5.A.V	2.0 1.5 1.75 0.8	rema	0	287
+80869	east-kewa	1392_LOUSE	lema	lema	l e m a		franklin1975	5997	5 7 4 7	AXBZ	LEMA	4	4.L.C 4.E.V 4.M.C 4.A.V	2.0 1.5 1.75 0.8	lema	0	287
+80870	angal	1392_LOUSE	em	em	e m		franklin1975	5997	7 4	XN	EM	1	1.E.V 1.M.c	1.5 0.8	em	0	286
+80874	ipili	1392_LOUSE	lemo	lemo	l e m o		franklin1975	5997	5 7 4 7	AXBZ	LEMU	9	9.L.C 9.E.V 9.M.C 9.U.V	2.0 1.5 1.75 0.8	lemo	0	287
+#
+80276	wiru	1394_BONE	tono	tono	t o n o		franklin1975	2	1 7 4 7	AXBZ	TUNU	12	12.T.C 12.U.V 12.N.C 12.U.V	2.0 1.5 1.75 0.8	tono	0	302
+80272	samberigi	1394_BONE	holiki	holiki	h o l i k i		franklin1975	5934	3 7 5 7 1 7	AXBYBZ	HULIKI	10	10.H.C 10.U.V 10.L.C 10.I.V 10.K.C 10.I.V	2.0 1.5 1.75 1.3 1.75 0.8	holiki	0	300
+80277	fasu	1394_BONE	kiki	kiki	k i k i		franklin1975	5934	1 7 1 7	AXBZ	KIKI	7	7.K.C 7.I.V 7.K.C 7.I.V	2.0 1.5 1.75 0.8	kiki	0	297
+80274	huli	1394_BONE	kuni	kuni	k u n i		franklin1975	5934	1 7 4 7	AXBZ	KYNI	8	8.K.C 8.Y.V 8.N.C 8.I.V	2.0 1.5 1.75 0.8	kuni	0	298
+80273	enga	1394_BONE	korí	korí	k o r í/i		franklin1975	5934	1 7 5 7	AXBZ	KURI	5	5.K.C 5.U.V 5.R.C 5.I.V	2.0 1.5 1.75 0.8	korí/i	0	295
+80269	west-kewa	1394_BONE	uni	uni	u n i		franklin1975	5934	7 4 7	XBZ	YNI	11	11.Y.V 11.N.C 11.I.V	1.5 1.75 0.8	uni	0	301
+80268	east-kewa	1394_BONE	kuli	kuli	k u l i		franklin1975	5934	1 7 5 7	AXBZ	KYLI	4	4.K.C 4.Y.V 4.L.C 4.I.V	2.0 1.5 1.75 0.8	kuli	0	295
+80270	angal	1394_BONE	win	win	w i n		franklin1975	5934	6 7 4	AXN	WIN	1	1.W.C 1.I.V 1.N.c	2.0 1.5 0.8	win	0	294
+80271	angal	1394_BONE	kʷin	kʷin	kʷ i n		franklin1975	5934	1 7 4	AXN	KIN	1	1.K.C 1.I.V 1.N.c	2.0 1.5 0.8	kʷin	0	298
+80275	ipili	1394_BONE	kulini	kulini	k u l i n i		franklin1975	5934	1 7 5 7 4 7	AXBYBZ	KYLINI	9	9.K.C 9.Y.V 9.L.C 9.I.V 9.N.C 9.I.V	2.0 1.5 1.75 1.3 1.75 0.8	kulini	0	295
+#
+80286	wiru	1402_BREAST	adu	adu	a d u		franklin1975	5935	7 1 7	XBZ	ATY	12	12.A.V 12.T.C 12.Y.V	1.5 1.75 0.8	adu	0	304
+80282	samberigi	1402_BREAST	andu	andu	a n d u		franklin1975	5935	7 4 1 7	XMBZ	ANTY	10	10.A.V 10.N.c 10.T.C 10.Y.V	1.5 1.1 1.75 0.8	andu	0	303
+80287	fasu	1402_BREAST	hoko	hoko	h o k o		franklin1975	80	3 7 1 7	AXBZ	HUKU	7	7.H.C 7.U.V 7.K.C 7.U.V	2.0 1.5 1.75 0.8	hoko	0	307
+80284	huli	1402_BREAST	adu	adu	a d u		franklin1975	5935	7 1 7	XBZ	ATY	8	8.A.V 8.T.C 8.Y.V	1.5 1.75 0.8	adu	0	304
+80283	enga	1402_BREAST	ádu	ádu	á/a d u		franklin1975	5935	7 1 7	XBZ	ATY	5	5.A.V 5.T.C 5.Y.V	1.5 1.75 0.8	á/adu	0	304
+80278	west-kewa	1402_BREAST	adu	adu	a d u		franklin1975	5935	7 1 7	XBZ	ATY	11	11.A.V 11.T.C 11.Y.V	1.5 1.75 0.8	adu	0	304
+80279	east-kewa	1402_BREAST	adu	adu	a d u		franklin1975	5935	7 1 7	XBZ	ATY	4	4.A.V 4.T.C 4.Y.V	1.5 1.75 0.8	adu	0	304
+80280	erave	1402_BREAST	adu	adu	a d u		franklin1975	5935	7 1 7	XBZ	ATY	6	6.A.V 6.T.C 6.Y.V	1.5 1.75 0.8	adu	0	304
+80281	angal	1402_BREAST	ɔndu	ɔndu	ɔ n d u		franklin1975	5935	7 4 1 7	XMBZ	UNTY	1	1.U.V 1.N.c 1.T.C 1.Y.V	1.5 1.1 1.75 0.8	ɔndu	0	303
+80285	ipili	1402_BREAST	adu	adu	a d u		franklin1975	5935	7 1 7	XBZ	ATY	9	9.A.V 9.T.C 9.Y.V	1.5 1.75 0.8	adu	0	304
+#
+80382	wiru	1405_NAME	ibíni	ibíni	i b í/i n i		franklin1975	14135	7 1 7 4 7	XBYBZ	IPINI	12	12.I.V 12.P.C 12.I.V 12.N.C 12.I.V	1.5 1.75 1.3 1.75 0.8	ibí/ini	0	309
+80378	samberigi	1405_NAME	biki	biki	b i k i		franklin1975	14135	1 7 1 7	AXBZ	PIKI	10	10.P.C 10.I.V 10.K.C 10.I.V	2.0 1.5 1.75 0.8	biki	0	314
+80383	fasu	1405_NAME	yano	yano	j a n o		franklin1975	84	6 7 4 7	AXBZ	JANU	7	7.J.C 7.A.V 7.N.C 7.U.V	2.0 1.5 1.75 0.8	jano	0	311
+80380	huli	1405_NAME	mini	mini	m i n i		franklin1975	14135	4 7 4 7	AXBZ	MINI	8	8.M.C 8.I.V 8.N.C 8.I.V	2.0 1.5 1.75 0.8	mini	0	312
+80379	enga	1405_NAME	kége	kége	k é/e g e		franklin1975	158	1 7 1 7	AXBZ	KEKE	5	5.K.C 5.E.V 5.K.C 5.E.V	2.0 1.5 1.75 0.8	ké/ege	0	310
+80376	west-kewa	1405_NAME	bi	bi	b i		franklin1975	14135	1 7	AX	PI	11	11.P.C 11.I.V	2.0 1.5	bi	0	315
+80375	east-kewa	1405_NAME	ibi	ibi	i b i		franklin1975	14135	7 1 7	XBZ	IPI	4	4.I.V 4.P.C 4.I.V	1.5 1.75 0.8	ibi	0	309
+80377	angal	1405_NAME	mbi	mbi	m b i		franklin1975	14135	4 1 7	ACZ	MPI	1	1.M.C 1.P.C 1.I.V	2.0 1.5 0.8	mbi	0	308
+80381	ipili	1405_NAME	gene	gene	g e n e		franklin1975	183	1 7 4 7	AXBZ	KENE	9	9.K.C 9.E.V 9.N.C 9.E.V	2.0 1.5 1.75 0.8	gene	0	313
+#
+80948	wiru	1408_HEAR	yatekò	yatekò	j a t e k ò/o		franklin1975	50	6 7 1 7 1 7	AXBYBZ	JATEKU	12	12.J.C 12.A.V 12.T.C 12.E.V 12.K.C 12.U.V	2.0 1.5 1.75 1.3 1.75 0.8	jatekò/o	0	325
+80944	samberigi	1408_HEAR	opuæ	opuæ	o p u æ		franklin1975	6005	7 1 7 7	XBYZ	UPYE	10	10.U.V 10.P.C 10.Y.V 10.E.V	1.5 1.75 1.3 0.8	opuæ	0	323
+80949	fasu	1408_HEAR	kairaka	kairaka	k a i r a k a		franklin1975	118	1 7 7 5 7 1 7	AXYBYBZ	KAIRAKA	7	7.K.C 7.A.V 7.I.V 7.R.C 7.A.V 7.K.C 7.A.V	2.0 1.5 1.3 1.75 1.3 1.75 0.8	kairaka	0	320
+80946	huli	1408_HEAR	hale ha	hale_ha	h a l e + h a		franklin1975	148	3 7 5 7 9 3 7	AXBZ_AX	HALE_HA	8	8.H.C 8.A.V 8.L.C 8.E.V 8._._ 8.H.C 8.A.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5	hale+ha	0	321
+80945	enga	1408_HEAR	sirámo	sirámo	s i r á/a m o		franklin1975	172	3 7 5 7 4 7	AXBYBZ	SIRAMU	5	5.S.C 5.I.V 5.R.C 5.A.V 5.M.C 5.U.V	2.0 1.5 1.75 1.3 1.75 0.8	sirá/amo	0	318
+80940	west-kewa	1408_HEAR	paga	paga	p a g a		franklin1975	6005	1 7 1 7	AXBZ	PAKA	11	11.P.C 11.A.V 11.K.C 11.A.V	2.0 1.5 1.75 0.8	paga	0	317
+80941	east-kewa	1408_HEAR	paga	paga	p a g a		franklin1975	6005	1 7 1 7	AXBZ	PAKA	4	4.P.C 4.A.V 4.K.C 4.A.V	2.0 1.5 1.75 0.8	paga	0	317
+80942	erave	1408_HEAR	paga	paga	p a g a		franklin1975	6005	1 7 1 7	AXBZ	PAKA	6	6.P.C 6.A.V 6.K.C 6.A.V	2.0 1.5 1.75 0.8	paga	0	317
+80943	angal	1408_HEAR	pɔnge	pɔnge	p ɔ n g e		franklin1975	6005	1 7 4 1 7	AXMBZ	PUNKE	1	1.P.C 1.U.V 1.N.c 1.K.C 1.E.V	2.0 1.5 1.1 1.75 0.8	pɔnge	0	316
+80947	ipili	1408_HEAR	ale a	ale_a	a l e + a		franklin1975	191	7 5 7 9 7	XBZ_X	ALE_A	9	9.A.V 9.L.C 9.E.V 9._._ 9.A.V	1.5 1.75 0.8 0.0 1.5	ale+a	0	321
+#
+80984	wiru	1409_SEE	eneko	eneko	e n e k o		franklin1975	6009	7 4 7 1 7	XBYBZ	ENEKU	12	12.E.V 12.N.C 12.E.V 12.K.C 12.U.V	1.5 1.75 1.3 1.75 0.8	eneko	0	326
+80980	samberigi	1409_SEE	handæ	handæ	h a n d æ		franklin1975	6009	3 7 4 1 7	AXMBZ	HANTE	10	10.H.C 10.A.V 10.N.c 10.T.C 10.E.V	2.0 1.5 1.1 1.75 0.8	handæ	0	326
+80985	fasu	1409_SEE	asere	asere	a s e r e		franklin1975	122	7 3 7 5 7	XBYBZ	ASERE	7	7.A.V 7.S.C 7.E.V 7.R.C 7.E.V	1.5 1.75 1.3 1.75 0.8	asere	0	330
+80982	huli	1409_SEE	hàndá	hàndá	h à/a n d á/a		franklin1975	6009	3 7 4 1 7	AXMBZ	HANTA	8	8.H.C 8.A.V 8.N.c 8.T.C 8.A.V	2.0 1.5 1.1 1.75 0.8	hà/andá/a	0	326
+80981	enga	1409_SEE	kadege	kadege	k a d e g e		franklin1975	6009	1 7 1 7 1 7	AXBYBZ	KATEKE	5	5.K.C 5.A.V 5.T.C 5.E.V 5.K.C 5.E.V	2.0 1.5 1.75 1.3 1.75 0.8	kadege	0	328
+80976	west-kewa	1409_SEE	ada	ada	a d a		franklin1975	6009	7 1 7	XBZ	ATA	11	11.A.V 11.T.C 11.A.V	1.5 1.75 0.8	ada	1	327
+80977	east-kewa	1409_SEE	ada	ada	a d a		franklin1975	6009	7 1 7	XBZ	ATA	4	4.A.V 4.T.C 4.A.V	1.5 1.75 0.8	ada	1	327
+80978	erave	1409_SEE	ada	ada	a d a		franklin1975	6009	7 1 7	XBZ	ATA	6	6.A.V 6.T.C 6.A.V	1.5 1.75 0.8	ada	1	327
+80979	angal	1409_SEE	ɔnde	ɔnde	ɔ n d e		franklin1975	6009	7 4 1 7	XMBZ	UNTE	1	1.U.V 1.N.c 1.T.C 1.E.V	1.5 1.1 1.75 0.8	ɔnde	0	326
+80983	ipili	1409_SEE	ada	ada	a d a		franklin1975	6009	7 1 7	XBZ	ATA	9	9.A.V 9.T.C 9.A.V	1.5 1.75 0.8	ada	1	327
+#
+80994	wiru	1416_SIT	mekó	mekó	m e k ó/o		franklin1975	53	4 7 1 7	AXBZ	MEKU	12	12.M.C 12.E.V 12.K.C 12.U.V	2.0 1.5 1.75 0.8	mekó/o	0	340
+80990	samberigi	1416_SIT	pilæ	pilæ	p i l æ		franklin1975	6010	1 7 5 7	AXBZ	PILE	10	10.P.C 10.I.V 10.L.C 10.E.V	2.0 1.5 1.75 0.8	pilæ	0	332
+80995	fasu	1416_SIT	akaiye	akaiye	a k a i j e		franklin1975	6010	7 1 7 7 6 7	XBYYBZ	AKAIJE	7	7.A.V 7.K.C 7.A.V 7.I.V 7.J.C 7.E.V	1.5 1.75 1.3 1.3 1.75 0.8	akaije	0	335
+80992	huli	1416_SIT	birá	birá	b i r á/a		franklin1975	6010	1 7 5 7	AXBZ	PIRA	8	8.P.C 8.I.V 8.R.C 8.A.V	2.0 1.5 1.75 0.8	birá/a	0	332
+80991	enga	1416_SIT	petegé	petegé	p e t e g é/e		franklin1975	6010	1 7 1 7 1 7	AXBYBZ	PETEKE	5	5.P.C 5.E.V 5.T.C 5.E.V 5.K.C 5.E.V	2.0 1.5 1.75 1.3 1.75 0.8	petegé/e	0	331
+80986	west-kewa	1416_SIT	pira	pira	p i r a		franklin1975	6010	1 7 5 7	AXBZ	PIRA	11	11.P.C 11.I.V 11.R.C 11.A.V	2.0 1.5 1.75 0.8	pira	0	332
+80987	east-kewa	1416_SIT	pira	pira	p i r a		franklin1975	6010	1 7 5 7	AXBZ	PIRA	4	4.P.C 4.I.V 4.R.C 4.A.V	2.0 1.5 1.75 0.8	pira	0	332
+80988	erave	1416_SIT	pira	pira	p i r a		franklin1975	6010	1 7 5 7	AXBZ	PIRA	6	6.P.C 6.I.V 6.R.C 6.A.V	2.0 1.5 1.75 0.8	pira	0	332
+80989	angal	1416_SIT	pete	pete	p e t e		franklin1975	6010	1 7 1 7	AXBZ	PETE	1	1.P.C 1.E.V 1.T.C 1.E.V	2.0 1.5 1.75 0.8	pete	0	331
+80993	ipili	1416_SIT	piti	piti	p i t i		franklin1975	6010	1 7 1 7	AXBZ	PITI	9	9.P.C 9.I.V 9.T.C 9.I.V	2.0 1.5 1.75 0.8	piti	0	331
+#
+81150	wiru	1424_YELLOW	kakai pagènea	kakai_pagènea	k a k a i + p a g è/e n e a		franklin1975	62	1 7 1 7 7 9 1 7 1 7 4 7 7	AXBYZ_AXBYBYZ	KAKAI_PAKENEA	12	12.K.C 12.A.V 12.K.C 12.A.V 12.I.V 12._._ 12.P.C 12.A.V 12.K.C 12.E.V 12.N.C 12.E.V 12.A.V	2.0 1.5 1.75 1.3 0.8 0.0 2.0 1.5 1.75 1.3 1.75 1.3 0.8	kakai+pagè/enea	0	350
+81146	samberigi	1424_YELLOW	hami pae	hami_pae	h a m i + p a e		franklin1975	79	3 7 4 7 9 1 7 7	AXBZ_AXZ	HAMI_PAE	10	10.H.C 10.A.V 10.M.C 10.I.V 10._._ 10.P.C 10.A.V 10.E.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5 0.8	hami+pae	0	341
+81151	fasu	1424_YELLOW	kiamesa	kiamesa	k i a m e s a		franklin1975	134	1 7 7 4 7 3 7	AXYBYBZ	KIAMESA	7	7.K.C 7.I.V 7.A.V 7.M.C 7.E.V 7.S.C 7.A.V	2.0 1.5 1.3 1.75 1.3 1.75 0.8	kiamesa	0	345
+81148	huli	1424_YELLOW	ambuabi	ambuabi	a m b u a b i		franklin1975	6027	7 4 1 7 7 1 7	XMBYYBZ	AMPYAPI	8	8.A.V 8.M.c 8.P.C 8.Y.V 8.A.V 8.P.C 8.I.V	1.5 1.1 1.75 1.3 1.3 1.75 0.8	ambuabi	0	341
+81147	enga	1424_YELLOW	ábwa	ábwa	á/a b w a		franklin1975	6027	7 1 6 7	XBCZ	APWA	5	5.A.V 5.P.C 5.W.C 5.A.V	1.5 1.75 1.5 0.8	á/abwa	0	343
+81142	west-kewa	1424_YELLOW	ambu	ambu	a m b u		franklin1975	6027	7 4 1 7	XMBZ	AMPY	11	11.A.V 11.M.c 11.P.C 11.Y.V	1.5 1.1 1.75 0.8	ambu	0	341
+81143	east-kewa	1424_YELLOW	ambu	ambu	a m b u		franklin1975	6027	7 4 1 7	XMBZ	AMPY	4	4.A.V 4.M.c 4.P.C 4.Y.V	1.5 1.1 1.75 0.8	ambu	0	341
+81144	erave	1424_YELLOW	ambu	ambu	a m b u		franklin1975	6027	7 4 1 7	XMBZ	AMPY	6	6.A.V 6.M.c 6.P.C 6.Y.V	1.5 1.1 1.75 0.8	ambu	0	341
+81145	angal	1424_YELLOW	ɔmb	ɔmb	ɔ m b		franklin1975	6027	7 4 1	XLN	UMP	1	1.U.V 1.M.c 1.P.c	1.5 1.1 0.8	ɔmb	0	341
+81149	ipili	1424_YELLOW	abua	abua	a b u a		franklin1975	6027	7 1 7 7	XBYZ	APYA	9	9.A.V 9.P.C 9.Y.V 9.A.V	1.5 1.75 1.3 0.8	abua	0	343
+#
+80956	wiru	1433_HIT	witiko	witiko	w i t i k o		franklin1975	51	6 7 1 7 1 7	AXBYBZ	WITIKU	12	12.W.C 12.I.V 12.T.C 12.I.V 12.K.C 12.U.V	2.0 1.5 1.75 1.3 1.75 0.8	witiko	0	358
+80952	samberigi	1433_HIT	litæ	litæ	l i t æ		franklin1975	6006	5 7 1 7	AXBZ	LITE	10	10.L.C 10.I.V 10.T.C 10.E.V	2.0 1.5 1.75 0.8	litæ	0	357
+80957	fasu	1433_HIT	alure	alure	a l u r e		franklin1975	119	7 5 7 5 7	XBYBZ	ALYRE	7	7.A.V 7.L.C 7.Y.V 7.R.C 7.E.V	1.5 1.75 1.3 1.75 0.8	alure	0	354
+80954	huli	1433_HIT	ba	ba	b a		franklin1975	6006	1 7	AX	PA	8	8.P.C 8.A.V	2.0 1.5	ba	0	355
+80953	enga	1433_HIT	takígi	takígi	t a k í/i g i		franklin1975	6006	1 7 1 7 1 7	AXBYBZ	TAKIKI	5	5.T.C 5.A.V 5.K.C 5.I.V 5.K.C 5.I.V	2.0 1.5 1.75 1.3 1.75 0.8	takí/igi	0	353
+80950	east-kewa	1433_HIT	tya	tya	t j a		franklin1975	6006	1 6 7	ACX	TJA	4	4.T.C 4.J.C 4.A.V	2.0 1.5 1.5	tja	0	352
+80951	angal	1433_HIT	le	le	l e		franklin1975	6006	5 7	AX	LE	1	1.L.C 1.E.V	2.0 1.5	le	0	351
+80955	ipili	1433_HIT	laa	laa	l aː		franklin1975	6006	5 7	AX	LA	9	9.L.C 9.A.V	2.0 1.5	laː	0	351
+#
+81164	samberigi	1440_SPIT	dopi tæ	dopi_tæ	d o p i + t æ		franklin1975	6029	1 7 1 7 9 1 7	AXBZ_AX	TUPI_TE	10	10.T.C 10.U.V 10.P.C 10.I.V 10._._ 10.T.C 10.E.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5	dopi+tæ	0	363
+81166	huli	1440_SPIT	hamiaga	hamiaga	h a m i a g a		franklin1975	156	3 7 4 7 7 1 7	AXBYYBZ	HAMIAKA	8	8.H.C 8.A.V 8.M.C 8.I.V 8.A.V 8.K.C 8.A.V	2.0 1.5 1.75 1.3 1.3 1.75 0.8	hamiaga	0	361
+81165	enga	1440_SPIT	sopo kári	sopo_kári	s o p o + k á/a r i		franklin1975	6029	3 7 1 7 9 1 7 5 7	AXBZ_AXBZ	SUPU_KARI	5	5.S.C 5.U.V 5.P.C 5.U.V 5._._ 5.K.C 5.A.V 5.R.C 5.I.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5 1.75 0.8	sopo+ká/ari	0	360
+81162	west-kewa	1440_SPIT	sope raa	sope_raa	s o p e + r aː		franklin1975	6029	3 7 1 7 9 5 7	AXBZ_AX	SUPE_RA	11	11.S.C 11.U.V 11.P.C 11.E.V 11._._ 11.R.C 11.A.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5	sope+raː	0	360
+81163	angal	1440_SPIT	nemake	nemake	n e m a k e		franklin1975	179	4 7 4 7 1 7	AXBYBZ	NEMAKE	1	1.N.C 1.E.V 1.M.C 1.A.V 1.K.C 1.E.V	2.0 1.5 1.75 1.3 1.75 0.8	nemake	0	359
+81167	ipili	1440_SPIT	soo laa	soo_laa	s oː + l aː		franklin1975	6029	3 7 9 5 7	AX_AX	SU_LA	9	9.S.C 9.U.V 9._._ 9.L.C 9.A.V	2.0 1.5 0.0 2.0 1.5	soː+laː	0	362
+#
+81004	wiru	1442_STAND	kakò	kakò	k a k ò/o		franklin1975	54	1 7 1 7	AXBZ	KAKU	12	12.K.C 12.A.V 12.K.C 12.U.V	2.0 1.5 1.75 0.8	kakò/o	0	373
+81000	samberigi	1442_STAND	tiæsæ	tiæsæ	t i æ s æ		franklin1975	6011	1 7 7 3 7	AXYBZ	TIESE	10	10.T.C 10.I.V 10.E.V 10.S.C 10.E.V	2.0 1.5 1.3 1.75 0.8	tiæsæ	0	371
+81005	fasu	1442_STAND	ale	ale	a l e		franklin1975	123	7 5 7	XBZ	ALE	7	7.A.V 7.L.C 7.E.V	1.5 1.75 0.8	ale	0	368
+81002	huli	1442_STAND	heya	heya	h e j a		franklin1975	149	3 7 6 7	AXBZ	HEJA	8	8.H.C 8.E.V 8.J.C 8.A.V	2.0 1.5 1.75 0.8	heja	0	369
+81001	enga	1442_STAND	kategé	kategé	k a t e g é/e		franklin1975	6011	1 7 1 7 1 7	AXBYBZ	KATEKE	5	5.K.C 5.A.V 5.T.C 5.E.V 5.K.C 5.E.V	2.0 1.5 1.75 1.3 1.75 0.8	kategé/e	0	366
+80996	west-kewa	1442_STAND	reka	reka	r e k a		franklin1975	6011	5 7 1 7	AXBZ	REKA	11	11.R.C 11.E.V 11.K.C 11.A.V	2.0 1.5 1.75 0.8	reka	0	365
+80997	east-kewa	1442_STAND	reka	reka	r e k a		franklin1975	6011	5 7 1 7	AXBZ	REKA	4	4.R.C 4.E.V 4.K.C 4.A.V	2.0 1.5 1.75 0.8	reka	0	365
+80998	erave	1442_STAND	reka	reka	r e k a		franklin1975	6011	5 7 1 7	AXBZ	REKA	6	6.R.C 6.E.V 6.K.C 6.A.V	2.0 1.5 1.75 0.8	reka	0	365
+80999	angal	1442_STAND	tikɔ	tikɔ	t i k ɔ		franklin1975	6011	1 7 1 7	AXBZ	TIKU	1	1.T.C 1.I.V 1.K.C 1.U.V	2.0 1.5 1.75 0.8	tikɔ	0	364
+81003	ipili	1442_STAND	ata	ata	a t a		franklin1975	192	7 1 7	XBZ	ATA	9	9.A.V 9.T.C 9.A.V	1.5 1.75 0.8	ata	0	370
+#
+80915	wiru	1446_COME	nokò	nokò	n o k ò/o		franklin1975	47	4 7 1 7	AXBZ	NUKU	12	12.N.C 12.U.V 12.K.C 12.U.V	2.0 1.5 1.75 0.8	nokò/o	0	383
+80911	samberigi	1446_COME	ipu	ipu	i p u		franklin1975	6001	7 1 7	XBZ	IPY	10	10.I.V 10.P.C 10.Y.V	1.5 1.75 0.8	ipu	0	374
+80916	fasu	1446_COME	apere	apere	a p e r e		franklin1975	6001	7 1 7 5 7	XBYBZ	APERE	7	7.A.V 7.P.C 7.E.V 7.R.C 7.E.V	1.5 1.75 1.3 1.75 0.8	apere	0	374
+80913	huli	1446_COME	ibu	ibu	i b u		franklin1975	6001	7 1 7	XBZ	IPY	8	8.I.V 8.P.C 8.Y.V	1.5 1.75 0.8	ibu	1	374
+80912	enga	1446_COME	epegé	epegé	e p e g é/e		franklin1975	6001	7 1 7 1 7	XBYBZ	EPEKE	5	5.E.V 5.P.C 5.E.V 5.K.C 5.E.V	1.5 1.75 1.3 1.75 0.8	epegé/e	0	374
+80907	west-kewa	1446_COME	ipu	ipu	i p u		franklin1975	6001	7 1 7	XBZ	IPY	11	11.I.V 11.P.C 11.Y.V	1.5 1.75 0.8	ipu	1	374
+80908	east-kewa	1446_COME	ipu	ipu	i p u		franklin1975	6001	7 1 7	XBZ	IPY	4	4.I.V 4.P.C 4.Y.V	1.5 1.75 0.8	ipu	1	374
+80909	erave	1446_COME	ipu	ipu	i p u		franklin1975	6001	7 1 7	XBZ	IPY	6	6.I.V 6.P.C 6.Y.V	1.5 1.75 0.8	ipu	1	374
+80910	angal	1446_COME	epe	epe	e p e		franklin1975	6001	7 1 7	XBZ	EPE	1	1.E.V 1.P.C 1.E.V	1.5 1.75 0.8	epe	0	374
+80914	ipili	1446_COME	ípu	ípu	í/i p u		franklin1975	6001	7 1 7	XBZ	IPY	9	9.I.V 9.P.C 9.Y.V	1.5 1.75 0.8	í/ipu	0	374
+#
+80938	wiru	1447_GIVE	meteko	meteko	m e t e k o	to first person	franklin1975	49	4 7 1 7 1 7	AXBYBZ	METEKU	12	12.M.C 12.E.V 12.T.C 12.E.V 12.K.C 12.U.V	2.0 1.5 1.75 1.3 1.75 0.8	meteko	0	393
+80934	samberigi	1447_GIVE	kitæ	kitæ	k i t æ	to first person	franklin1975	6004	1 7 1 7	AXBZ	KITE	10	10.K.C 10.I.V 10.T.C 10.E.V	2.0 1.5 1.75 0.8	kitæ	0	391
+80939	fasu	1447_GIVE	akare	akare	a k a r e	to first person	franklin1975	117	7 1 7 5 7	XBYBZ	AKARE	7	7.A.V 7.K.C 7.A.V 7.R.C 7.E.V	1.5 1.75 1.3 1.75 0.8	akare	0	388
+80936	huli	1447_GIVE	ngí	ngí	n g í/i	to first person	franklin1975	6004	4 1 7	ACZ	NKI	8	8.N.C 8.K.C 8.I.V	2.0 1.5 0.8	ngí/i	0	384
+80935	enga	1447_GIVE	maligi	maligi	m a l i g i	to first person	franklin1975	6004	4 7 5 7 1 7	AXBYBZ	MALIKI	5	5.M.C 5.A.V 5.L.C 5.I.V 5.K.C 5.I.V	2.0 1.5 1.75 1.3 1.75 0.8	maligi	0	386
+80930	west-kewa	1447_GIVE	gi	gi	g i	to first person	franklin1975	6004	1 7	AX	KI	11	11.K.C 11.I.V	2.0 1.5	gi	0	385
+80931	east-kewa	1447_GIVE	gi	gi	g i	to first person	franklin1975	6004	1 7	AX	KI	4	4.K.C 4.I.V	2.0 1.5	gi	0	385
+80932	erave	1447_GIVE	gi	gi	g i	to first person	franklin1975	6004	1 7	AX	KI	6	6.K.C 6.I.V	2.0 1.5	gi	0	385
+80933	angal	1447_GIVE	nge	nge	n g e	to first person	franklin1975	6004	4 1 7	ACZ	NKE	1	1.N.C 1.K.C 1.E.V	2.0 1.5 0.8	nge	1	384
+80937	ipili	1447_GIVE	gii	gii	g iː	to first person	franklin1975	6004	1 7	AX	KI	9	9.K.C 9.I.V	2.0 1.5	giː	0	385
+#
+80905	wiru	1448_HOLD	motòko	motòko	m o t ò/o k o		franklin1975	46	4 7 1 7 1 7	AXBYBZ	MUTUKU	12	12.M.C 12.U.V 12.T.C 12.U.V 12.K.C 12.U.V	2.0 1.5 1.75 1.3 1.75 0.8	motò/oko	1	403
+80901	samberigi	1448_HOLD	minæ	minæ	m i n æ		franklin1975	6000	4 7 4 7	AXBZ	MINE	10	10.M.C 10.I.V 10.N.C 10.E.V	2.0 1.5 1.75 0.8	minæ	1	396
+80906	fasu	1448_HOLD	maka are	maka_are	m a k a + a r e		franklin1975	115	4 7 1 7 9 7 5 7	AXBZ_XBZ	MAKA_ARE	7	7.M.C 7.A.V 7.K.C 7.A.V 7._._ 7.A.V 7.R.C 7.E.V	2.0 1.5 1.75 0.8 0.0 1.5 1.75 0.8	maka+are	1	398
+80903	huli	1448_HOLD	yu bia	yu_bia	j u + b i a		franklin1975	6000	6 7 9 1 7 7	AX_AXZ	JY_PIA	8	8.J.C 8.Y.V 8._._ 8.P.C 8.I.V 8.A.V	2.0 1.5 0.0 2.0 1.5 0.8	ju+bia	1	399
+80902	enga	1448_HOLD	minyir	minyir	m i n j i r		franklin1975	6000	4 7 4 6 7 5	AXBCYN	MINJIR	5	5.M.C 5.I.V 5.N.C 5.J.C 5.I.V 5.R.c	2.0 1.5 1.75 1.5 1.3 0.8	minjir	1	396
+80897	west-kewa	1448_HOLD	ripinya	ripinya	r i p i n j a		franklin1975	6000	5 7 1 7 4 6 7	AXBYBCZ	RIPINJA	11	11.R.C 11.I.V 11.P.C 11.I.V 11.N.C 11.J.C 11.A.V	2.0 1.5 1.75 1.3 1.75 1.5 0.8	ripinja	0	395
+80898	east-kewa	1448_HOLD	ripinya	ripinya	r i p i n j a		franklin1975	6000	5 7 1 7 4 6 7	AXBYBCZ	RIPINJA	4	4.R.C 4.I.V 4.P.C 4.I.V 4.N.C 4.J.C 4.A.V	2.0 1.5 1.75 1.3 1.75 1.5 0.8	ripinja	0	395
+80899	erave	1448_HOLD	ripinya	ripinya	r i p i n j a		franklin1975	6000	5 7 1 7 4 6 7	AXBYBCZ	RIPINJA	6	6.R.C 6.I.V 6.P.C 6.I.V 6.N.C 6.J.C 6.A.V	2.0 1.5 1.75 1.3 1.75 1.5 0.8	ripinja	0	395
+80900	angal	1448_HOLD	wapiɔ	wapiɔ	w a p i ɔ		franklin1975	6000	6 7 1 7 7	AXBYZ	WAPIU	1	1.W.C 1.A.V 1.P.C 1.I.V 1.U.V	2.0 1.5 1.75 1.3 0.8	wapiɔ	1	394
+80904	ipili	1448_HOLD	mina	mina	m i n a		franklin1975	6000	4 7 4 7	AXBZ	MINA	9	9.M.C 9.I.V 9.N.C 9.A.V	2.0 1.5 1.75 0.8	mina	1	396
+#
+80821	wiru	146_SUGAR_CANE	tai	tai	t a i		franklin1975	41	1 7 7	AXZ	TAI	12	12.T.C 12.A.V 12.I.V	2.0 1.5 0.8	tai	0	408
+80817	samberigi	146_SUGAR_CANE	weli	weli	w e l i		franklin1975	5991	6 7 5 7	AXBZ	WELI	10	10.W.C 10.E.V 10.L.C 10.I.V	2.0 1.5 1.75 0.8	weli	0	404
+80822	fasu	146_SUGAR_CANE	sąǫ	sąǫ	s ą/a ǫ/o		franklin1975	110	3 7 7	AXZ	SAU	7	7.S.C 7.A.V 7.U.V	2.0 1.5 0.8	są/aǫ/o	0	407
+80819	huli	146_SUGAR_CANE	tu	tu	t u		franklin1975	146	1 7	AX	TY	8	8.T.C 8.Y.V	2.0 1.5	tu	0	408
+80818	enga	146_SUGAR_CANE	iyáa	iyáa	i j á/a a		franklin1975	170	7 6 7 7	XBYZ	IJAA	5	5.I.V 5.J.C 5.A.V 5.A.V	1.5 1.75 1.3 0.8	ijá/aa	0	406
+80815	east-kewa	146_SUGAR_CANE	wali	wali	w a l i		franklin1975	5991	6 7 5 7	AXBZ	WALI	4	4.W.C 4.A.V 4.L.C 4.I.V	2.0 1.5 1.75 0.8	wali	0	404
+80816	angal	146_SUGAR_CANE	wɔƚ	wɔƚ	w ɔ lˠ		franklin1975	5991	6 7 5	AXN	WUL	1	1.W.C 1.U.V 1.L.c	2.0 1.5 0.8	wɔlˠ	0	404
+80820	ipili	146_SUGAR_CANE	iya	iya	i j a		franklin1975	189	7 6 7	XBZ	IJA	9	9.I.V 9.J.C 9.A.V	1.5 1.75 0.8	ija	0	406
+#
+80410	wiru	1482_SHOULDER	wagène	wagène	w a g è/e n e		franklin1975	12	6 7 1 7 4 7	AXBYBZ	WAKENE	12	12.W.C 12.A.V 12.K.C 12.E.V 12.N.C 12.E.V	2.0 1.5 1.75 1.3 1.75 0.8	wagè/ene	0	417
+80407	samberigi	1482_SHOULDER	peyoko	peyoko	p e j o k o		franklin1975	5948	1 7 6 7 1 7	AXBYBZ	PEJUKU	10	10.P.C 10.E.V 10.J.C 10.U.V 10.K.C 10.U.V	2.0 1.5 1.75 1.3 1.75 0.8	pejoko	0	414
+80411	fasu	1482_SHOULDER	kinu	kinu	k i n u		franklin1975	85	1 7 4 7	AXBZ	KINY	7	7.K.C 7.I.V 7.N.C 7.Y.V	2.0 1.5 1.75 0.8	kinu	0	413
+80408	enga	1482_SHOULDER	rake	rake	r a k e		franklin1975	159	5 7 1 7	AXBZ	RAKE	5	5.R.C 5.A.V 5.K.C 5.E.V	2.0 1.5 1.75 0.8	rake	0	411
+80403	west-kewa	1482_SHOULDER	pasa	pasa	p a s a		franklin1975	5948	1 7 3 7	AXBZ	PASA	11	11.P.C 11.A.V 11.S.C 11.A.V	2.0 1.5 1.75 0.8	pasa	0	409
+80404	east-kewa	1482_SHOULDER	pasa	pasa	p a s a		franklin1975	5948	1 7 3 7	AXBZ	PASA	4	4.P.C 4.A.V 4.S.C 4.A.V	2.0 1.5 1.75 0.8	pasa	0	409
+80405	erave	1482_SHOULDER	pasa	pasa	p a s a		franklin1975	5948	1 7 3 7	AXBZ	PASA	6	6.P.C 6.A.V 6.S.C 6.A.V	2.0 1.5 1.75 0.8	pasa	0	409
+80406	angal	1482_SHOULDER	pesa	pesa	p e s a		franklin1975	5948	1 7 3 7	AXBZ	PESA	1	1.P.C 1.E.V 1.S.C 1.A.V	2.0 1.5 1.75 0.8	pesa	0	409
+80409	ipili	1482_SHOULDER	payia(ne)	payia	p a j i a		franklin1975	5948	1 7 6 7 7	AXBYZ	PAJIA	9	9.P.C 9.A.V 9.J.C 9.I.V 9.A.V	2.0 1.5 1.75 1.3 0.8	pajia	0	414
+#
+80658	wiru	1498_TWO	ta kutà	ta_kutà	t a + k u t à/a		franklin1975	28	1 7 9 1 7 1 7	AX_AXBZ	TA_KYTA	12	12.T.C 12.A.V 12._._ 12.K.C 12.Y.V 12.T.C 12.A.V	2.0 1.5 0.0 2.0 1.5 1.75 0.8	ta+kutà/a	0	427
+80654	samberigi	1498_TWO	yæpo	yæpo	j æ p o		franklin1975	5973	6 7 1 7	AXBZ	JEPU	10	10.J.C 10.E.V 10.P.C 10.U.V	2.0 1.5 1.75 0.8	jæpo	0	425
+80659	fasu	1498_TWO	teta	teta	t e t a		franklin1975	5973	1 7 1 7	AXBZ	TETA	7	7.T.C 7.E.V 7.T.C 7.A.V	2.0 1.5 1.75 0.8	teta	0	422
+80656	huli	1498_TWO	kira	kira	k i r a		franklin1975	142	1 7 5 7	AXBZ	KIRA	8	8.K.C 8.I.V 8.R.C 8.A.V	2.0 1.5 1.75 0.8	kira	0	423
+80655	enga	1498_TWO	ráma	ráma	r á/a m a		franklin1975	5973	5 7 4 7	AXBZ	RAMA	5	5.R.C 5.A.V 5.M.C 5.A.V	2.0 1.5 1.75 0.8	rá/ama	0	420
+80650	west-kewa	1498_TWO	laapo	laapo	l aː p o		franklin1975	5973	5 7 1 7	AXBZ	LAPU	11	11.L.C 11.A.V 11.P.C 11.U.V	2.0 1.5 1.75 0.8	laːpo	0	419
+80651	east-kewa	1498_TWO	laapo	laapo	l aː p o		franklin1975	5973	5 7 1 7	AXBZ	LAPU	4	4.L.C 4.A.V 4.P.C 4.U.V	2.0 1.5 1.75 0.8	laːpo	0	419
+80652	erave	1498_TWO	laapo	laapo	l aː p o		franklin1975	5973	5 7 1 7	AXBZ	LAPU	6	6.L.C 6.A.V 6.P.C 6.U.V	2.0 1.5 1.75 0.8	laːpo	0	419
+80653	angal	1498_TWO	kap	kap	k a p		franklin1975	5973	1 7 1	AXN	KAP	1	1.K.C 1.A.V 1.P.c	2.0 1.5 0.8	kap	0	418
+80657	ipili	1498_TWO	lapo	lapo	l a p o		franklin1975	5973	5 7 1 7	AXBZ	LAPU	9	9.L.C 9.A.V 9.P.C 9.U.V	2.0 1.5 1.75 0.8	lapo	0	419
+#
+80296	wiru	1510_CHIN	pakunu	pakunu	p a k u n u	chin	franklin1975	3	1 7 1 7 4 7	AXBYBZ	PAKYNY	12	12.P.C 12.A.V 12.K.C 12.Y.V 12.N.C 12.Y.V	2.0 1.5 1.75 1.3 1.75 0.8	pakunu	0	437
+80292	samberigi	1510_CHIN	yankake	yankake	j a n k a k e	chin	franklin1975	5936	6 7 4 1 7 1 7	AXMBYBZ	JANKAKE	10	10.J.C 10.A.V 10.N.c 10.K.C 10.A.V 10.K.C 10.E.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	jankake	0	433
+80297	fasu	1510_CHIN	akae	akae	a k a e	chin	franklin1975	5936	7 1 7 7	XBYZ	AKAE	7	7.A.V 7.K.C 7.A.V 7.E.V	1.5 1.75 1.3 0.8	akae	0	430
+80294	huli	1510_CHIN	yanga	yanga	j a n g a	chin	franklin1975	5936	6 7 4 1 7	AXMBZ	JANKA	8	8.J.C 8.A.V 8.N.c 8.K.C 8.A.V	2.0 1.5 1.1 1.75 0.8	janga	0	433
+80293	enga	1510_CHIN	agapú	agapú	a g a p ú/u	chin	franklin1975	5936	7 1 7 1 7	XBYBZ	AKAPY	5	5.A.V 5.K.C 5.A.V 5.P.C 5.Y.V	1.5 1.75 1.3 1.75 0.8	agapú/u	0	430
+80288	west-kewa	1510_CHIN	yagaa	yagaa	j a g aː	chin	franklin1975	5936	6 7 1 7	AXBZ	JAKA	11	11.J.C 11.A.V 11.K.C 11.A.V	2.0 1.5 1.75 0.8	jagaː	0	429
+80289	east-kewa	1510_CHIN	yagaa	yagaa	j a g aː	chin	franklin1975	5936	6 7 1 7	AXBZ	JAKA	4	4.J.C 4.A.V 4.K.C 4.A.V	2.0 1.5 1.75 0.8	jagaː	0	429
+80290	erave	1510_CHIN	yagaa	yagaa	j a g aː	chin	franklin1975	5936	6 7 1 7	AXBZ	JAKA	6	6.J.C 6.A.V 6.K.C 6.A.V	2.0 1.5 1.75 0.8	jagaː	0	429
+80291	angal	1510_CHIN	sɔngɔ	sɔngɔ	s ɔ n g ɔ	chin	franklin1975	5936	3 7 4 1 7	AXMBZ	SUNKU	1	1.S.C 1.U.V 1.N.c 1.K.C 1.U.V	2.0 1.5 1.1 1.75 0.8	sɔngɔ	0	428
+80295	ipili	1510_CHIN	agapu	agapu	a g a p u	chin	franklin1975	5936	7 1 7 1 7	XBYBZ	AKAPY	9	9.A.V 9.K.C 9.A.V 9.P.C 9.Y.V	1.5 1.75 1.3 1.75 0.8	agapu	0	430
+#
+81160	wiru	1519_RUN	teia pea pokò	teia_pea_pokò	t e i a + p e a + p o k ò/o	run away	franklin1975	63	1 7 7 7 9 1 7 7 9 1 7 1 7	AXYZ_AXZ_AXBZ	TEIA_PEA_PUKU	12	12.T.C 12.E.V 12.I.V 12.A.V 12._._ 12.P.C 12.E.V 12.A.V 12._._ 12.P.C 12.U.V 12.K.C 12.U.V	2.0 1.5 1.3 0.8 0.0 2.0 1.5 0.8 0.0 2.0 1.5 1.75 0.8	teia+pea+pokò/o	0	447
+81156	samberigi	1519_RUN	aí pulæ	aí_pulæ	a í/i + p u l æ	run away	franklin1975	6028	7 7 9 1 7 5 7	XZ_AXBZ	AI_PYLE	10	10.A.V 10.I.V 10._._ 10.P.C 10.Y.V 10.L.C 10.E.V	1.5 0.8 0.0 2.0 1.5 1.75 0.8	aí/i+pulæ	0	445
+81161	fasu	1519_RUN	foaka apure	foaka_apure	f o a k a + a p u r e	run away	franklin1975	135	3 7 7 1 7 9 7 1 7 5 7	AXYBZ_XBYBZ	BUAKA_APYRE	7	7.B.C 7.U.V 7.A.V 7.K.C 7.A.V 7._._ 7.A.V 7.P.C 7.Y.V 7.R.C 7.E.V	2.0 1.5 1.3 1.75 0.8 0.0 1.5 1.75 1.3 1.75 0.8	foaka+apure	0	442
+81158	huli	1519_RUN	ge raila	ge_raila	g e + r a i l a	run away	franklin1975	155	1 7 9 5 7 7 5 7	AX_AXYBZ	KE_RAILA	8	8.K.C 8.E.V 8._._ 8.R.C 8.A.V 8.I.V 8.L.C 8.A.V	2.0 1.5 0.0 2.0 1.5 1.3 1.75 0.8	ge+raila	0	443
+81157	enga	1519_RUN	ára pígi	ára_pígi	á/a r a + p í/i g i	run away	franklin1975	6028	7 5 7 9 1 7 1 7	XBZ_AXBZ	ARA_PIKI	5	5.A.V 5.R.C 5.A.V 5._._ 5.P.C 5.I.V 5.K.C 5.I.V	1.5 1.75 0.8 0.0 2.0 1.5 1.75 0.8	á/ara+pí/igi	0	438
+81152	west-kewa	1519_RUN	alo pu	alo_pu	a l o + p u	run away	franklin1975	6028	7 5 7 9 1 7	XBZ_AX	ALU_PY	11	11.A.V 11.L.C 11.U.V 11._._ 11.P.C 11.Y.V	1.5 1.75 0.8 0.0 2.0 1.5	alo+pu	0	438
+81153	east-kewa	1519_RUN	alo pu	alo_pu	a l o + p u	run away	franklin1975	6028	7 5 7 9 1 7	XBZ_AX	ALU_PY	4	4.A.V 4.L.C 4.U.V 4._._ 4.P.C 4.Y.V	1.5 1.75 0.8 0.0 2.0 1.5	alo+pu	0	438
+81154	erave	1519_RUN	alo pu	alo_pu	a l o + p u	run away	franklin1975	6028	7 5 7 9 1 7	XBZ_AX	ALU_PY	6	6.A.V 6.L.C 6.U.V 6._._ 6.P.C 6.Y.V	1.5 1.75 0.8 0.0 2.0 1.5	alo+pu	0	438
+81155	angal	1519_RUN	aƚama pepe	aƚama_pepe	a lˠ a m a + p e p e	run away	franklin1975	6028	7 5 7 4 7 9 1 7 1 7	XBYBZ_AXBZ	ALAMA_PEPE	1	1.A.V 1.L.C 1.A.V 1.M.C 1.A.V 1._._ 1.P.C 1.E.V 1.P.C 1.E.V	1.5 1.75 1.3 1.75 0.8 0.0 2.0 1.5 1.75 0.8	alˠama+pepe	0	438
+81159	ipili	1519_RUN	pekala puu	pekala_puu	p e k a l a + p uː	run away	franklin1975	6028	1 7 1 7 5 7 9 1 7	AXBYBZ_AX	PEKALA_PY	9	9.P.C 9.E.V 9.K.C 9.A.V 9.L.C 9.A.V 9._._ 9.P.C 9.Y.V	2.0 1.5 1.75 1.3 1.75 0.8 0.0 2.0 1.5	pekala+puː	0	442
+#
+80461	wiru	1554_MAN	ali	ali	a l i		franklin1975	5954	7 5 7	XBZ	ALI	12	12.A.V 12.L.C 12.I.V	1.5 1.75 0.8	ali	0	449
+80457	samberigi	1554_MAN	hali	hali	h a l i		franklin1975	5954	3 7 5 7	AXBZ	HALI	10	10.H.C 10.A.V 10.L.C 10.I.V	2.0 1.5 1.75 0.8	hali	0	449
+80462	fasu	1554_MAN	aporo	aporo	a p o r o		franklin1975	87	7 1 7 5 7	XBYBZ	APURU	7	7.A.V 7.P.C 7.U.V 7.R.C 7.U.V	1.5 1.75 1.3 1.75 0.8	aporo	0	451
+80459	huli	1554_MAN	agali	agali	a g a l i		franklin1975	5954	7 1 7 5 7	XBYBZ	AKALI	8	8.A.V 8.K.C 8.A.V 8.L.C 8.I.V	1.5 1.75 1.3 1.75 0.8	agali	0	450
+80458	enga	1554_MAN	akári	akári	a k á/a r i		franklin1975	5954	7 1 7 5 7	XBYBZ	AKARI	5	5.A.V 5.K.C 5.A.V 5.R.C 5.I.V	1.5 1.75 1.3 1.75 0.8	aká/ari	0	450
+80455	west-kewa	1554_MAN	àà	àà	à/a à/a		franklin1975	5954	7 7	XZ	AA	11	11.A.V 11.A.V	1.5 0.8	à/aà/a	1	448
+80454	east-kewa	1554_MAN	ali	ali	a l i		franklin1975	5954	7 5 7	XBZ	ALI	4	4.A.V 4.L.C 4.I.V	1.5 1.75 0.8	ali	0	449
+80456	angal	1554_MAN	ɔɨ	ɔɨ	ɔ ɨ		franklin1975	5954	7 7	XZ	UI	1	1.U.V 1.I.V	1.5 0.8	ɔɨ	0	448
+80460	ipili	1554_MAN	akali	akali	a k a l i		franklin1975	5954	7 1 7 5 7	XBYBZ	AKALI	9	9.A.V 9.K.C 9.A.V 9.L.C 9.I.V	1.5 1.75 1.3 1.75 0.8	akali	0	450
+#
+81129	samberigi	1587_SMELL_STINK	punku mi	punku_mi	p u n k u + m i		franklin1975	6025	1 7 4 1 7 9 4 7	AXMBZ_AX	PYNKY_MI	10	10.P.C 10.Y.V 10.N.c 10.K.C 10.Y.V 10._._ 10.M.C 10.I.V	2.0 1.5 1.1 1.75 0.8 0.0 2.0 1.5	punku+mi	0	452
+81131	huli	1587_SMELL_STINK	ngu ha	ngu_ha	n g u + h a		franklin1975	6025	4 1 7 9 3 7	ACZ_AX	NKY_HA	8	8.N.C 8.K.C 8.Y.V 8._._ 8.H.C 8.A.V	2.0 1.5 0.8 0.0 2.0 1.5	ngu+ha	0	456
+81130	enga	1587_SMELL_STINK	púgú pigí	púgú_pigí	p ú/u g ú/u + p i g í/i		franklin1975	6025	1 7 1 7 9 1 7 1 7	AXBZ_AXBZ	PYKY_PIKI	5	5.P.C 5.Y.V 5.K.C 5.Y.V 5._._ 5.P.C 5.I.V 5.K.C 5.I.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5 1.75 0.8	pú/ugú/u+pigí/i	0	453
+81125	west-kewa	1587_SMELL_STINK	pugu (pia)	pugu_	p u g u		franklin1975	6025	1 7 1 7	AXBZ	PYKY	11	11.P.C 11.Y.V 11.K.C 11.Y.V	2.0 1.5 1.75 0.8	pugu	0	453
+81126	east-kewa	1587_SMELL_STINK	pugu (pia)	pugu_	p u g u		franklin1975	6025	1 7 1 7	AXBZ	PYKY	4	4.P.C 4.Y.V 4.K.C 4.Y.V	2.0 1.5 1.75 0.8	pugu	0	453
+81127	erave	1587_SMELL_STINK	pugu (pia)	pugu_	p u g u		franklin1975	6025	1 7 1 7	AXBZ	PYKY	6	6.P.C 6.Y.V 6.K.C 6.Y.V	2.0 1.5 1.75 0.8	pugu	0	453
+81128	angal	1587_SMELL_STINK	punk	punk	p u n k		franklin1975	6025	1 7 4 1	AXLN	PYNK	1	1.P.C 1.Y.V 1.N.c 1.K.c	2.0 1.5 1.1 0.8	punk	0	452
+#
+80831	wiru	159_SWEET_POTATO	modó	modó	m o d ó/o		franklin1975	42	4 7 1 7	AXBZ	MUTU	12	12.M.C 12.U.V 12.T.C 12.U.V	2.0 1.5 1.75 0.8	modó/o	0	466
+80827	samberigi	159_SWEET_POTATO	tia	tia	t i a		franklin1975	74	1 7 7	AXZ	TIA	10	10.T.C 10.I.V 10.A.V	2.0 1.5 0.8	tia	0	464
+80832	fasu	159_SWEET_POTATO	supuru	supuru	s u p u r u		franklin1975	111	3 7 1 7 5 7	AXBYBZ	SYPYRY	7	7.S.C 7.Y.V 7.P.C 7.Y.V 7.R.C 7.Y.V	2.0 1.5 1.75 1.3 1.75 0.8	supuru	0	457
+80829	huli	159_SWEET_POTATO	hina	hina	h i n a		franklin1975	147	3 7 4 7	AXBZ	HINA	8	8.H.C 8.I.V 8.N.C 8.A.V	2.0 1.5 1.75 0.8	hina	0	459
+80828	enga	159_SWEET_POTATO	áina	áina	á/a i n a		franklin1975	171	7 7 4 7	XYBZ	AINA	5	5.A.V 5.I.V 5.N.C 5.A.V	1.5 1.3 1.75 0.8	á/aina	0	459
+80823	west-kewa	159_SWEET_POTATO	saapi	saapi	s aː p i		franklin1975	5992	3 7 1 7	AXBZ	SAPI	11	11.S.C 11.A.V 11.P.C 11.I.V	2.0 1.5 1.75 0.8	saːpi	0	457
+80824	east-kewa	159_SWEET_POTATO	saapi	saapi	s aː p i		franklin1975	5992	3 7 1 7	AXBZ	SAPI	4	4.S.C 4.A.V 4.P.C 4.I.V	2.0 1.5 1.75 0.8	saːpi	0	457
+80825	erave	159_SWEET_POTATO	saapi	saapi	s aː p i		franklin1975	5992	3 7 1 7	AXBZ	SAPI	6	6.S.C 6.A.V 6.P.C 6.I.V	2.0 1.5 1.75 0.8	saːpi	0	457
+80826	angal	159_SWEET_POTATO	sepi	sepi	s e p i		franklin1975	5992	3 7 1 7	AXBZ	SEPI	1	1.S.C 1.E.V 1.P.C 1.I.V	2.0 1.5 1.75 0.8	sepi	0	457
+80830	ipili	159_SWEET_POTATO	aina	aina	a i n a		franklin1975	190	7 7 4 7	XYBZ	AINA	9	9.A.V 9.I.V 9.N.C 9.A.V	1.5 1.3 1.75 0.8	aina	0	459
+#
+80486	wiru	1640_SIBLING	anaí	anaí	a n a í/i		franklin1975	15	7 4 7 7	XBYZ	ANAI	12	12.A.V 12.N.C 12.A.V 12.I.V	1.5 1.75 1.3 0.8	anaí/i	0	474
+80482	samberigi	1640_SIBLING	beliki	beliki	b e l i k i		franklin1975	5956	1 7 5 7 1 7	AXBYBZ	PELIKI	10	10.P.C 10.E.V 10.L.C 10.I.V 10.K.C 10.I.V	2.0 1.5 1.75 1.3 1.75 0.8	beliki	0	468
+80487	fasu	1640_SIBLING	apu	apu	a p u		franklin1975	89	7 1 7	XBZ	APY	7	7.A.V 7.P.C 7.Y.V	1.5 1.75 0.8	apu	0	470
+80484	huli	1640_SIBLING	mbalini	mbalini	m b a l i n i		franklin1975	5956	4 1 7 5 7 4 7	ACYBYBZ	MPALINI	8	8.M.C 8.P.C 8.A.V 8.L.C 8.I.V 8.N.C 8.I.V	2.0 1.5 1.3 1.75 1.3 1.75 0.8	mbalini	0	467
+80483	enga	1640_SIBLING	pimarége	pimarége	p i m a r é/e g e		franklin1975	163	1 7 4 7 5 7 1 7	AXBYBYBZ	PIMAREKE	5	5.P.C 5.I.V 5.M.C 5.A.V 5.R.C 5.E.V 5.K.C 5.E.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	pimaré/ege	0	469
+80480	east-kewa	1640_SIBLING	bali	bali	b a l i		franklin1975	5956	1 7 5 7	AXBZ	PALI	4	4.P.C 4.A.V 4.L.C 4.I.V	2.0 1.5 1.75 0.8	bali	0	468
+80481	angal	1640_SIBLING	mbɔli	mbɔli	m b ɔ l i		franklin1975	5956	4 1 7 5 7	ACYBZ	MPULI	1	1.M.C 1.P.C 1.U.V 1.L.C 1.I.V	2.0 1.5 1.3 1.75 0.8	mbɔli	0	467
+80485	ipili	1640_SIBLING	imalini	imalini	i m a l i n i		franklin1975	5956	7 4 7 5 7 4 7	XBYBYBZ	IMALINI	9	9.I.V 9.M.C 9.A.V 9.L.C 9.I.V 9.N.C 9.I.V	1.5 1.75 1.3 1.75 1.3 1.75 0.8	imalini	0	472
+#
+81060	wiru	1786_DRY_UP	kaù toko	kaù_toko	k a ù/u + t o k o		franklin1975	59	1 7 7 9 1 7 1 7	AXZ_AXBZ	KAY_TUKU	12	12.K.C 12.A.V 12.Y.V 12._._ 12.T.C 12.U.V 12.K.C 12.U.V	2.0 1.5 0.8 0.0 2.0 1.5 1.75 0.8	kaù/u+toko	0	484
+81056	samberigi	1786_DRY_UP	hapu lae	hapu_lae	h a p u + l a e		franklin1975	6017	3 7 1 7 9 5 7 7	AXBZ_AXZ	HAPY_LAE	10	10.H.C 10.A.V 10.P.C 10.Y.V 10._._ 10.L.C 10.A.V 10.E.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5 0.8	hapu+lae	0	482
+81061	fasu	1786_DRY_UP	parosa	parosa	p a r o s a		franklin1975	128	1 7 5 7 3 7	AXBYBZ	PARUSA	7	7.P.C 7.A.V 7.R.C 7.U.V 7.S.C 7.A.V	2.0 1.5 1.75 1.3 1.75 0.8	parosa	0	479
+81058	huli	1786_DRY_UP	yo bira	yo_bira	j o + b i r a		franklin1975	152	6 7 9 1 7 5 7	AX_AXBZ	JU_PIRA	8	8.J.C 8.U.V 8._._ 8.P.C 8.I.V 8.R.C 8.A.V	2.0 1.5 0.0 2.0 1.5 1.75 0.8	jo+bira	0	480
+81057	enga	1786_DRY_UP	kéké regé	kéké_regé	k é/e k é/e + r e g é/e		franklin1975	6017	1 7 1 7 9 5 7 1 7	AXBZ_AXBZ	KEKE_REKE	5	5.K.C 5.E.V 5.K.C 5.E.V 5._._ 5.R.C 5.E.V 5.K.C 5.E.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5 1.75 0.8	ké/eké/e+regé/e	0	477
+81052	west-kewa	1786_DRY_UP	kaapu ta	kaapu_ta	k aː p u + t a		franklin1975	6017	1 7 1 7 9 1 7	AXBZ_AX	KAPY_TA	11	11.K.C 11.A.V 11.P.C 11.Y.V 11._._ 11.T.C 11.A.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5	kaːpu+ta	0	475
+81053	east-kewa	1786_DRY_UP	kaapu ta	kaapu_ta	k aː p u + t a		franklin1975	6017	1 7 1 7 9 1 7	AXBZ_AX	KAPY_TA	4	4.K.C 4.A.V 4.P.C 4.Y.V 4._._ 4.T.C 4.A.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5	kaːpu+ta	0	475
+81054	erave	1786_DRY_UP	kaapu ta	kaapu_ta	k aː p u + t a		franklin1975	6017	1 7 1 7 9 1 7	AXBZ_AX	KAPY_TA	6	6.K.C 6.A.V 6.P.C 6.Y.V 6._._ 6.T.C 6.A.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5	kaːpu+ta	0	475
+81055	angal	1786_DRY_UP	kæpi	kæpi	k æ p i		franklin1975	6017	1 7 1 7	AXBZ	KEPI	1	1.K.C 1.E.V 1.P.C 1.I.V	2.0 1.5 1.75 0.8	kæpi	0	475
+81059	ipili	1786_DRY_UP	kapu	kapu	k a p u		franklin1975	6017	1 7 1 7	AXBZ	KAPY	9	9.K.C 9.A.V 9.P.C 9.Y.V	2.0 1.5 1.75 0.8	kapu	0	475
+#
+80344	wiru	189_HAIR_BODY	píne	píne	p í/i n e		franklin1975	6	1 7 4 7	AXBZ	PINE	12	12.P.C 12.I.V 12.N.C 12.E.V	2.0 1.5 1.75 0.8	pí/ine	0	494
+80340	samberigi	189_HAIR_BODY	iti(ki)	iti	i t i		franklin1975	5941	7 1 7	XBZ	ITI	10	10.I.V 10.T.C 10.I.V	1.5 1.75 0.8	iti	0	485
+80345	fasu	189_HAIR_BODY	iti	iti	i t i		franklin1975	5941	7 1 7	XBZ	ITI	7	7.I.V 7.T.C 7.I.V	1.5 1.75 0.8	iti	0	485
+80342	huli	189_HAIR_BODY	iri	iri	i r i		franklin1975	5941	7 5 7	XBZ	IRI	8	8.I.V 8.R.C 8.I.V	1.5 1.75 0.8	iri	0	486
+80341	enga	189_HAIR_BODY	ítí	ítí	í/i t í/i		franklin1975	5941	7 1 7	XBZ	ITI	5	5.I.V 5.T.C 5.I.V	1.5 1.75 0.8	í/ití/i	0	485
+80336	west-kewa	189_HAIR_BODY	iri	iri	i r i		franklin1975	5941	7 5 7	XBZ	IRI	11	11.I.V 11.R.C 11.I.V	1.5 1.75 0.8	iri	0	486
+80337	east-kewa	189_HAIR_BODY	iri	iri	i r i		franklin1975	5941	7 5 7	XBZ	IRI	4	4.I.V 4.R.C 4.I.V	1.5 1.75 0.8	iri	0	486
+80338	erave	189_HAIR_BODY	iri	iri	i r i		franklin1975	5941	7 5 7	XBZ	IRI	6	6.I.V 6.R.C 6.I.V	1.5 1.75 0.8	iri	0	486
+80339	angal	189_HAIR_BODY	iti	iti	i t i		franklin1975	5941	7 1 7	XBZ	ITI	1	1.I.V 1.T.C 1.I.V	1.5 1.75 0.8	iti	0	485
+80343	ipili	189_HAIR_BODY	iti(ni)	iti	i t i		franklin1975	5941	7 1 7	XBZ	ITI	9	9.I.V 9.T.C 9.I.V	1.5 1.75 0.8	iti	0	485
+#
+80637	wiru	2091_YOUR	kità	kità	k i t à/a		franklin1975	27	1 7 1 7	AXBZ	KITA	12	12.K.C 12.I.V 12.T.C 12.A.V	2.0 1.5 1.75 0.8	kità/a	1	504
+80633	samberigi	2091_YOUR	ipiliki	ipiliki	i p i l i k i		franklin1975	5971	7 1 7 5 7 1 7	XBYBYBZ	IPILIKI	10	10.I.V 10.P.C 10.I.V 10.L.C 10.I.V 10.K.C 10.I.V	1.5 1.75 1.3 1.75 1.3 1.75 0.8	ipiliki	1	495
+80638	fasu	2091_YOUR	titi	titi	t i t i		franklin1975	5971	1 7 1 7	AXBZ	TITI	7	7.T.C 7.I.V 7.T.C 7.I.V	2.0 1.5 1.75 0.8	titi	0	499
+80639	fasu	2091_YOUR	teto	teto	t e t o		franklin1975	5971	1 7 1 7	AXBZ	TETU	7	7.T.C 7.E.V 7.T.C 7.U.V	2.0 1.5 1.75 0.8	teto	0	499
+80635	huli	2091_YOUR	libu	libu	l i b u		franklin1975	5971	5 7 1 7	AXBZ	LIPY	8	8.L.C 8.I.V 8.P.C 8.Y.V	2.0 1.5 1.75 0.8	libu	1	500
+80634	enga	2091_YOUR	nyarabo	nyarabo	n j a r a b o		franklin1975	5971	4 6 7 5 7 1 7	ACXBYBZ	NJARAPU	5	5.N.C 5.J.C 5.A.V 5.R.C 5.A.V 5.P.C 5.U.V	2.0 1.5 1.5 1.75 1.3 1.75 0.8	njarabo	0	497
+80629	west-kewa	2091_YOUR	(n)ipi	ipi	i p i		franklin1975	5971	7 1 7	XBZ	IPI	11	11.I.V 11.P.C 11.I.V	1.5 1.75 0.8	ipi	0	495
+80630	east-kewa	2091_YOUR	(n)ipi	ipi	i p i		franklin1975	5971	7 1 7	XBZ	IPI	4	4.I.V 4.P.C 4.I.V	1.5 1.75 0.8	ipi	0	495
+80631	erave	2091_YOUR	(n)ipi	ipi	i p i		franklin1975	5971	7 1 7	XBZ	IPI	6	6.I.V 6.P.C 6.I.V	1.5 1.75 0.8	ipi	0	495
+80632	angal	2091_YOUR	ipi	ipi	i p i		franklin1975	5971	7 1 7	XBZ	IPI	1	1.I.V 1.P.C 1.I.V	1.5 1.75 0.8	ipi	1	495
+80636	ipili	2091_YOUR	liyaba	liyaba	l i j a b a		franklin1975	5971	5 7 6 7 1 7	AXBYBZ	LIJAPA	9	9.L.C 9.I.V 9.J.C 9.A.V 9.P.C 9.A.V	2.0 1.5 1.75 1.3 1.75 0.8	lijaba	1	501
+#
+80324	wiru	2098_FOOT_OR_LEG	kawà	kawà	k a w à/a	leg, foot	franklin1975	5	1 7 6 7	AXBZ	KAWA	12	12.K.C 12.A.V 12.W.C 12.A.V	2.0 1.5 1.75 0.8	kawà/a	0	514
+80320	samberigi	2098_FOOT_OR_LEG	anke	anke	a n k e	leg, foot	franklin1975	5939	7 4 1 7	XMBZ	ANKE	10	10.A.V 10.N.c 10.K.C 10.E.V	1.5 1.1 1.75 0.8	anke	0	505
+80325	fasu	2098_FOOT_OR_LEG	korake	korake	k o r a k e	leg, foot	franklin1975	5939	1 7 5 7 1 7	AXBYBZ	KURAKE	7	7.K.C 7.U.V 7.R.C 7.A.V 7.K.C 7.E.V	2.0 1.5 1.75 1.3 1.75 0.8	korake	0	509
+80322	huli	2098_FOOT_OR_LEG	ge	ge	g e	leg, foot	franklin1975	5939	1 7	AX	KE	8	8.K.C 8.E.V	2.0 1.5	ge	0	510
+80321	enga	2098_FOOT_OR_LEG	kápé	kápé	k á/a p é/e	leg, foot	franklin1975	5939	1 7 1 7	AXBZ	KAPE	5	5.K.C 5.A.V 5.P.C 5.E.V	2.0 1.5 1.75 0.8	ká/apé/e	0	507
+80316	west-kewa	2098_FOOT_OR_LEG	àà	àà	à/a à/a	leg, foot	franklin1975	5939	7 7	XZ	AA	11	11.A.V 11.A.V	1.5 0.8	à/aà/a	0	506
+80317	east-kewa	2098_FOOT_OR_LEG	àà	àà	à/a à/a	leg, foot	franklin1975	5939	7 7	XZ	AA	4	4.A.V 4.A.V	1.5 0.8	à/aà/a	0	506
+80318	erave	2098_FOOT_OR_LEG	ange	ange	a n g e	leg, foot	franklin1975	5939	7 4 1 7	XMBZ	ANKE	6	6.A.V 6.N.c 6.K.C 6.E.V	1.5 1.1 1.75 0.8	ange	0	505
+80319	angal	2098_FOOT_OR_LEG	ang	ang	a n g	leg, foot	franklin1975	5939	7 4 1	XLN	ANK	1	1.A.V 1.N.c 1.K.c	1.5 1.1 0.8	ang	0	505
+80323	ipili	2098_FOOT_OR_LEG	kene	kene	k e n e	leg, foot	franklin1975	5939	1 7 4 7	AXBZ	KENE	9	9.K.C 9.E.V 9.N.C 9.E.V	2.0 1.5 1.75 0.8	kene	0	511
+#
+80923	wiru	2101_BE_DEAD_OR_DIE	túko	túko	t ú/u k o		franklin1975	48	1 7 1 7	AXBZ	TYKU	12	12.T.C 12.Y.V 12.K.C 12.U.V	2.0 1.5 1.75 0.8	tú/uko	0	522
+80919	samberigi	2101_BE_DEAD_OR_DIE	homæ	homæ	h o m æ		franklin1975	6002	3 7 4 7	AXBZ	HUME	10	10.H.C 10.U.V 10.M.C 10.E.V	2.0 1.5 1.75 0.8	homæ	0	515
+80924	fasu	2101_BE_DEAD_OR_DIE	akure	akure	a k u r e		franklin1975	116	7 1 7 5 7	XBYBZ	AKYRE	7	7.A.V 7.K.C 7.Y.V 7.R.C 7.E.V	1.5 1.75 1.3 1.75 0.8	akure	0	518
+80921	huli	2101_BE_DEAD_OR_DIE	homa	homa	h o m a		franklin1975	6002	3 7 4 7	AXBZ	HUMA	8	8.H.C 8.U.V 8.M.C 8.A.V	2.0 1.5 1.75 0.8	homa	0	515
+80920	enga	2101_BE_DEAD_OR_DIE	kumi	kumi	k u m i		franklin1975	6002	1 7 4 7	AXBZ	KYMI	5	5.K.C 5.Y.V 5.M.C 5.I.V	2.0 1.5 1.75 0.8	kumi	0	516
+80917	east-kewa	2101_BE_DEAD_OR_DIE	koma	koma	k o m a		franklin1975	6002	1 7 4 7	AXBZ	KUMA	4	4.K.C 4.U.V 4.M.C 4.A.V	2.0 1.5 1.75 0.8	koma	0	516
+80918	angal	2101_BE_DEAD_OR_DIE	ome	ome	o m e		franklin1975	6002	7 4 7	XBZ	UME	1	1.U.V 1.M.C 1.E.V	1.5 1.75 0.8	ome	0	515
+80922	ipili	2101_BE_DEAD_OR_DIE	oma	oma	o m a		franklin1975	6002	7 4 7	XBZ	UMA	9	9.U.V 9.M.C 9.A.V	1.5 1.75 0.8	oma	0	515
+#
+81113	samberigi	2103_PAINFUL_OR_SICK	tanda	tanda	t a n d a	pain	franklin1975	6023	1 7 4 1 7	AXMBZ	TANTA	10	10.T.C 10.A.V 10.N.c 10.T.C 10.A.V	2.0 1.5 1.1 1.75 0.8	tanda	0	523
+81115	huli	2103_PAINFUL_OR_SICK	tandaga	tandaga	t a n d a g a	pain	franklin1975	6023	1 7 4 1 7 1 7	AXMBYBZ	TANTAKA	8	8.T.C 8.A.V 8.N.c 8.T.C 8.A.V 8.K.C 8.A.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	tandaga	0	523
+81114	enga	2103_PAINFUL_OR_SICK	tádá	tádá	t á/a d á/a	pain	franklin1975	6023	1 7 1 7	AXBZ	TATA	5	5.T.C 5.A.V 5.T.C 5.A.V	2.0 1.5 1.75 0.8	tá/adá/a	0	525
+81109	west-kewa	2103_PAINFUL_OR_SICK	radaa (pia)	radaa_	r a d aː	pain	franklin1975	6023	5 7 1 7	AXBZ	RATA	11	11.R.C 11.A.V 11.T.C 11.A.V	2.0 1.5 1.75 0.8	radaː	0	524
+81110	east-kewa	2103_PAINFUL_OR_SICK	radaa (pia)	radaa_	r a d aː	pain	franklin1975	6023	5 7 1 7	AXBZ	RATA	4	4.R.C 4.A.V 4.T.C 4.A.V	2.0 1.5 1.75 0.8	radaː	0	524
+81111	erave	2103_PAINFUL_OR_SICK	radaa (pia)	radaa_	r a d aː	pain	franklin1975	6023	5 7 1 7	AXBZ	RATA	6	6.R.C 6.A.V 6.T.C 6.A.V	2.0 1.5 1.75 0.8	radaː	0	524
+81112	angal	2103_PAINFUL_OR_SICK	tand	tand	t a n d	pain	franklin1975	6023	1 7 4 1	AXLN	TANT	1	1.T.C 1.A.V 1.N.c 1.T.c	2.0 1.5 1.1 0.8	tand	0	523
+81116	ipili	2103_PAINFUL_OR_SICK	tandaka	tandaka	t a n d a k a	pain	franklin1975	6023	1 7 4 1 7 1 7	AXMBYBZ	TANTAKA	9	9.T.C 9.A.V 9.N.c 9.T.C 9.A.V 9.K.C 9.A.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	tandaka	0	523
+#
+80354	wiru	2121_ARM_OR_HAND	yono	yono	j o n o	hand	franklin1975	7	6 7 4 7	AXBZ	JUNU	12	12.J.C 12.U.V 12.N.C 12.U.V	2.0 1.5 1.75 0.8	jono	0	535
+80350	samberigi	2121_ARM_OR_HAND	kiki	kiki	k i k i	hand	franklin1975	5942	1 7 1 7	AXBZ	KIKI	10	10.K.C 10.I.V 10.K.C 10.I.V	2.0 1.5 1.75 0.8	kiki	0	528
+80355	fasu	2121_ARM_OR_HAND	hokono	hokono	h o k o n o	hand	franklin1975	82	3 7 1 7 4 7	AXBYBZ	HUKUNU	7	7.H.C 7.U.V 7.K.C 7.U.V 7.N.C 7.U.V	2.0 1.5 1.75 1.3 1.75 0.8	hokono	0	530
+80352	huli	2121_ARM_OR_HAND	ki	ki	k i	hand	franklin1975	5942	1 7	AX	KI	8	8.K.C 8.I.V	2.0 1.5	ki	0	526
+80351	enga	2121_ARM_OR_HAND	kigi	kigi	k i g i	hand	franklin1975	5942	1 7 1 7	AXBZ	KIKI	5	5.K.C 5.I.V 5.K.C 5.I.V	2.0 1.5 1.75 0.8	kigi	0	528
+80346	west-kewa	2121_ARM_OR_HAND	ki	ki	k i	hand	franklin1975	5942	1 7	AX	KI	11	11.K.C 11.I.V	2.0 1.5	ki	0	526
+80347	east-kewa	2121_ARM_OR_HAND	ki	ki	k i	hand	franklin1975	5942	1 7	AX	KI	4	4.K.C 4.I.V	2.0 1.5	ki	0	526
+80348	erave	2121_ARM_OR_HAND	ki	ki	k i	hand	franklin1975	5942	1 7	AX	KI	6	6.K.C 6.I.V	2.0 1.5	ki	0	526
+80349	angal	2121_ARM_OR_HAND	ki	ki	k i	hand	franklin1975	5942	1 7	AX	KI	1	1.K.C 1.I.V	2.0 1.5	ki	0	526
+80353	ipili	2121_ARM_OR_HAND	kini	kini	k i n i	hand	franklin1975	5942	1 7 4 7	AXBZ	KINI	9	9.K.C 9.I.V 9.N.C 9.I.V	2.0 1.5 1.75 0.8	kini	0	532
+#
+80964	wiru	215_LIE_DOWN	pitíko	pitíko	p i t í/i k o		franklin1975	6007	1 7 1 7 1 7	AXBYBZ	PITIKU	12	12.P.C 12.I.V 12.T.C 12.I.V 12.K.C 12.U.V	2.0 1.5 1.75 1.3 1.75 0.8	pití/iko	0	537
+80960	samberigi	215_LIE_DOWN	peliæ	peliæ	p e l i æ		franklin1975	6007	1 7 5 7 7	AXBYZ	PELIE	10	10.P.C 10.E.V 10.L.C 10.I.V 10.E.V	2.0 1.5 1.75 1.3 0.8	peliæ	0	536
+80965	fasu	215_LIE_DOWN	aware	aware	a w a r e		franklin1975	120	7 6 7 5 7	XBYBZ	AWARE	7	7.A.V 7.W.C 7.A.V 7.R.C 7.E.V	1.5 1.75 1.3 1.75 0.8	aware	0	539
+80962	huli	215_LIE_DOWN	pàlia	pàlia	p à/a l i a		franklin1975	6007	1 7 5 7 7	AXBYZ	PALIA	8	8.P.C 8.A.V 8.L.C 8.I.V 8.A.V	2.0 1.5 1.75 1.3 0.8	pà/alia	0	536
+80961	enga	215_LIE_DOWN	paregé	paregé	p a r e g é/e		franklin1975	173	1 7 5 7 1 7	AXBYBZ	PAREKE	5	5.P.C 5.A.V 5.R.C 5.E.V 5.K.C 5.E.V	2.0 1.5 1.75 1.3 1.75 0.8	paregé/e	0	536
+80958	east-kewa	215_LIE_DOWN	patya	patya	p a t j a		franklin1975	6007	1 7 1 6 7	AXBCZ	PATJA	4	4.P.C 4.A.V 4.T.C 4.J.C 4.A.V	2.0 1.5 1.75 1.5 0.8	patja	0	537
+80959	angal	215_LIE_DOWN	pɔle	pɔle	p ɔ l e		franklin1975	6007	1 7 5 7	AXBZ	PULE	1	1.P.C 1.U.V 1.L.C 1.E.V	2.0 1.5 1.75 0.8	pɔle	0	536
+80963	ipili	215_LIE_DOWN	pali	pali	p a l i		franklin1975	6007	1 7 5 7	AXBZ	PALI	9	9.P.C 9.A.V 9.L.C 9.I.V	2.0 1.5 1.75 0.8	pali	0	536
+#
+80627	wiru	2312_YOU_OBLIQUE_CASE_OF_YOU	kíwi	kíwi	k í/i w i		franklin1975	26	1 7 6 7	AXBZ	KIWI	12	12.K.C 12.I.V 12.W.C 12.I.V	2.0 1.5 1.75 0.8	kí/iwi	0	549
+80623	samberigi	2312_YOU_OBLIQUE_CASE_OF_YOU	iki	iki	i k i		franklin1975	5970	7 1 7	XBZ	IKI	10	10.I.V 10.K.C 10.I.V	1.5 1.75 0.8	iki	1	547
+80628	fasu	2312_YOU_OBLIQUE_CASE_OF_YOU	nanima	nanima	n a n i m a		franklin1975	5970	4 7 4 7 4 7	AXBYBZ	NANIMA	7	7.N.C 7.A.V 7.N.C 7.I.V 7.M.C 7.A.V	2.0 1.5 1.75 1.3 1.75 0.8	nanima	0	544
+80625	huli	2312_YOU_OBLIQUE_CASE_OF_YOU	ti	ti	t i		franklin1975	5970	1 7	AX	TI	8	8.T.C 8.I.V	2.0 1.5	ti	1	545
+80624	enga	2312_YOU_OBLIQUE_CASE_OF_YOU	nyakáma	nyakáma	n j a k á/a m a		franklin1975	5970	4 6 7 1 7 4 7	ACXBYBZ	NJAKAMA	5	5.N.C 5.J.C 5.A.V 5.K.C 5.A.V 5.M.C 5.A.V	2.0 1.5 1.5 1.75 1.3 1.75 0.8	njaká/ama	0	542
+80619	west-kewa	2312_YOU_OBLIQUE_CASE_OF_YOU	(n)imi	imi	i m i		franklin1975	5970	7 4 7	XBZ	IMI	11	11.I.V 11.M.C 11.I.V	1.5 1.75 0.8	imi	0	540
+80620	east-kewa	2312_YOU_OBLIQUE_CASE_OF_YOU	(n)imi	imi	i m i		franklin1975	5970	7 4 7	XBZ	IMI	4	4.I.V 4.M.C 4.I.V	1.5 1.75 0.8	imi	0	540
+80621	erave	2312_YOU_OBLIQUE_CASE_OF_YOU	(n)imi	imi	i m i		franklin1975	5970	7 4 7	XBZ	IMI	6	6.I.V 6.M.C 6.I.V	1.5 1.75 0.8	imi	0	540
+80622	angal	2312_YOU_OBLIQUE_CASE_OF_YOU	imi	imi	i m i		franklin1975	5970	7 4 7	XBZ	IMI	1	1.I.V 1.M.C 1.I.V	1.5 1.75 0.8	imi	0	540
+80626	ipili	2312_YOU_OBLIQUE_CASE_OF_YOU	yakaba	yakaba	j a k a b a		franklin1975	5970	6 7 1 7 1 7	AXBYBZ	JAKAPA	9	9.J.C 9.A.V 9.K.C 9.A.V 9.P.C 9.A.V	2.0 1.5 1.75 1.3 1.75 0.8	jakaba	1	546
+#
+80867	wiru	235_FLYING_FOX	kaima	kaima	k a i m a		franklin1975	5996	1 7 7 4 7	AXYBZ	KAIMA	12	12.K.C 12.A.V 12.I.V 12.M.C 12.A.V	2.0 1.5 1.3 1.75 0.8	kaima	0	550
+80864	samberigi	235_FLYING_FOX	ætæna	ætæna	æ t æ n a		franklin1975	76	7 1 7 4 7	XBYBZ	ETENA	10	10.E.V 10.T.C 10.E.V 10.N.C 10.A.V	1.5 1.75 1.3 1.75 0.8	ætæna	0	555
+80868	fasu	235_FLYING_FOX	kaema	kaema	k a e m a		franklin1975	5996	1 7 7 4 7	AXYBZ	KAEMA	7	7.K.C 7.A.V 7.E.V 7.M.C 7.A.V	2.0 1.5 1.3 1.75 0.8	kaema	0	550
+80866	huli	235_FLYING_FOX	gamia	gamia	g a m i a		franklin1975	5996	1 7 4 7 7	AXBYZ	KAMIA	8	8.K.C 8.A.V 8.M.C 8.I.V 8.A.V	2.0 1.5 1.75 1.3 0.8	gamia	0	550
+80865	enga	235_FLYING_FOX	saima	saima	s a i m a		franklin1975	5996	3 7 7 4 7	AXYBZ	SAIMA	5	5.S.C 5.A.V 5.I.V 5.M.C 5.A.V	2.0 1.5 1.3 1.75 0.8	saima	0	552
+80862	east-kewa	235_FLYING_FOX	kaima	kaima	k a i m a		franklin1975	5996	1 7 7 4 7	AXYBZ	KAIMA	4	4.K.C 4.A.V 4.I.V 4.M.C 4.A.V	2.0 1.5 1.3 1.75 0.8	kaima	0	550
+80863	angal-enen	235_FLYING_FOX	keim	keim	k e i m		franklin1975	5996	1 7 7 4	AXYN	KEIM	2	2.K.C 2.E.V 2.I.V 2.M.c	2.0 1.5 1.3 0.8	keim	0	550
+#
+80814	samberigi	2500_pandanusedible	ankæ	ankæ	a n k æ		franklin1975	5990	7 4 1 7	XMBZ	ANKE	10	10.A.V 10.N.c 10.K.C 10.E.V	1.5 1.1 1.75 0.8	ankæ	0	556
+80810	west-kewa	2500_pandanusedible	aga	aga	a g a		franklin1975	5990	7 1 7	XBZ	AKA	11	11.A.V 11.K.C 11.A.V	1.5 1.75 0.8	aga	0	557
+80811	east-kewa	2500_pandanusedible	aga	aga	a g a		franklin1975	5990	7 1 7	XBZ	AKA	4	4.A.V 4.K.C 4.A.V	1.5 1.75 0.8	aga	0	557
+80812	erave	2500_pandanusedible	aga	aga	a g a		franklin1975	5990	7 1 7	XBZ	AKA	6	6.A.V 6.K.C 6.A.V	1.5 1.75 0.8	aga	0	557
+80813	angal	2500_pandanusedible	ank	ank	a n k		franklin1975	5990	7 4 1	XLN	ANK	1	1.A.V 1.N.c 1.K.c	1.5 1.1 0.8	ank	0	556
+#
+80515	wiru	262_HE_OR_SHE_OR_IT	onè	onè	o n è/e		franklin1975	17	7 4 7	XBZ	UNE	12	12.U.V 12.N.C 12.E.V	1.5 1.75 0.8	onè/e	0	567
+80511	samberigi	262_HE_OR_SHE_OR_IT	ipiki	ipiki	i p i k i		franklin1975	5959	7 1 7 1 7	XBYBZ	IPIKI	10	10.I.V 10.P.C 10.I.V 10.K.C 10.I.V	1.5 1.75 1.3 1.75 0.8	ipiki	0	558
+80516	fasu	262_HE_OR_SHE_OR_IT	epo	epo	e p o		franklin1975	5959	7 1 7	XBZ	EPU	7	7.E.V 7.P.C 7.U.V	1.5 1.75 0.8	epo	0	558
+80517	fasu	262_HE_OR_SHE_OR_IT	ipi	ipi	i p i		franklin1975	5959	7 1 7	XBZ	IPI	7	7.I.V 7.P.C 7.I.V	1.5 1.75 0.8	ipi	0	558
+80513	huli	262_HE_OR_SHE_OR_IT	ibu	ibu	i b u		franklin1975	5959	7 1 7	XBZ	IPY	8	8.I.V 8.P.C 8.Y.V	1.5 1.75 0.8	ibu	0	558
+80512	enga	262_HE_OR_SHE_OR_IT	báa	báa	b á/a a		franklin1975	5959	1 7 7	AXZ	PAA	5	5.P.C 5.A.V 5.A.V	2.0 1.5 0.8	bá/aa	0	560
+80507	west-kewa	262_HE_OR_SHE_OR_IT	(n)ipu	ipu	i p u		franklin1975	5959	7 1 7	XBZ	IPY	11	11.I.V 11.P.C 11.Y.V	1.5 1.75 0.8	ipu	0	558
+80508	east-kewa	262_HE_OR_SHE_OR_IT	(n)ipu	ipu	i p u		franklin1975	5959	7 1 7	XBZ	IPY	4	4.I.V 4.P.C 4.Y.V	1.5 1.75 0.8	ipu	0	558
+80509	erave	262_HE_OR_SHE_OR_IT	(n)ipu	ipu	i p u		franklin1975	5959	7 1 7	XBZ	IPY	6	6.I.V 6.P.C 6.Y.V	1.5 1.75 0.8	ipu	0	558
+80510	angal	262_HE_OR_SHE_OR_IT	ipu	ipu	i p u		franklin1975	5959	7 1 7	XBZ	IPY	1	1.I.V 1.P.C 1.Y.V	1.5 1.75 0.8	ipu	0	558
+80514	ipili	262_HE_OR_SHE_OR_IT	(e)baka	baka	b a k a		franklin1975	5959	1 7 1 7	AXBZ	PAKA	9	9.P.C 9.A.V 9.K.C 9.A.V	2.0 1.5 1.75 0.8	baka	0	564
+#
+80587	wiru	2634_WE_TWO	totà	totà	t o t à/a		franklin1975	23	1 7 1 7	AXBZ	TUTA	12	12.T.C 12.U.V 12.T.C 12.A.V	2.0 1.5 1.75 0.8	totà/a	0	577
+80583	samberigi	2634_WE_TWO	diki	diki	d i k i		franklin1975	5966	1 7 1 7	AXBZ	TIKI	10	10.T.C 10.I.V 10.K.C 10.I.V	2.0 1.5 1.75 0.8	diki	0	575
+80588	fasu	2634_WE_TWO	iti	iti	i t i		franklin1975	95	7 1 7	XBZ	ITI	7	7.I.V 7.T.C 7.I.V	1.5 1.75 0.8	iti	1	572
+80589	fasu	2634_WE_TWO	eto	eto	e t o		franklin1975	96	7 1 7	XBZ	ETU	7	7.E.V 7.T.C 7.U.V	1.5 1.75 0.8	eto	0	572
+80585	huli	2634_WE_TWO	iya	iya	i j a		franklin1975	5966	7 6 7	XBZ	IJA	8	8.I.V 8.J.C 8.A.V	1.5 1.75 0.8	ija	0	573
+80584	enga	2634_WE_TWO	naríba	naríba	n a r í/i b a		franklin1975	5966	4 7 5 7 1 7	AXBYBZ	NARIPA	5	5.N.C 5.A.V 5.R.C 5.I.V 5.P.C 5.A.V	2.0 1.5 1.75 1.3 1.75 0.8	narí/iba	0	570
+80579	west-kewa	2634_WE_TWO	saa	saa	s aː		franklin1975	5966	3 7	AX	SA	11	11.S.C 11.A.V	2.0 1.5	saː	0	569
+80580	east-kewa	2634_WE_TWO	saa	saa	s aː		franklin1975	5966	3 7	AX	SA	4	4.S.C 4.A.V	2.0 1.5	saː	0	569
+80581	erave	2634_WE_TWO	saa	saa	s aː		franklin1975	5966	3 7	AX	SA	6	6.S.C 6.A.V	2.0 1.5	saː	0	569
+80582	angal	2634_WE_TWO	yɔ	yɔ	j ɔ		franklin1975	5966	6 7	AX	JU	1	1.J.C 1.U.V	2.0 1.5	jɔ	0	568
+80586	ipili	2634_WE_TWO	nalipa	nalipa	n a l i p a		franklin1975	5966	4 7 5 7 1 7	AXBYBZ	NALIPA	9	9.N.C 9.A.V 9.L.C 9.I.V 9.P.C 9.A.V	2.0 1.5 1.75 1.3 1.75 0.8	nalipa	0	570
+#
+80974	wiru	2708_TALK	wa oko	wa_oko	w a + o k o		franklin1975	52	6 7 9 7 1 7	AX_XBZ	WA_UKU	12	12.W.C 12.A.V 12._._ 12.U.V 12.K.C 12.U.V	2.0 1.5 0.0 1.5 1.75 0.8	wa+oko	0	587
+80970	samberigi	2708_TALK	alæ	alæ	a l æ		franklin1975	6008	7 5 7	XBZ	ALE	10	10.A.V 10.L.C 10.E.V	1.5 1.75 0.8	alæ	0	585
+80975	fasu	2708_TALK	someraka	someraka	s o m e r a k a		franklin1975	121	3 7 4 7 5 7 1 7	AXBYBYBZ	SUMERAKA	7	7.S.C 7.U.V 7.M.C 7.E.V 7.R.C 7.A.V 7.K.C 7.A.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	someraka	0	582
+80972	huli	2708_TALK	la	la	l a		franklin1975	6008	5 7	AX	LA	8	8.L.C 8.A.V	2.0 1.5	la	0	578
+80971	enga	2708_TALK	re	re	r e		franklin1975	6008	5 7	AX	RE	5	5.R.C 5.E.V	2.0 1.5	re	0	578
+80966	west-kewa	2708_TALK	la	la	l a		franklin1975	6008	5 7	AX	LA	11	11.L.C 11.A.V	2.0 1.5	la	0	578
+80967	east-kewa	2708_TALK	la	la	l a		franklin1975	6008	5 7	AX	LA	4	4.L.C 4.A.V	2.0 1.5	la	0	578
+80968	erave	2708_TALK	la	la	l a		franklin1975	6008	5 7	AX	LA	6	6.L.C 6.A.V	2.0 1.5	la	0	578
+80969	angal	2708_TALK	ƚe	ƚe	lˠ e		franklin1975	6008	5 7	AX	LE	1	1.L.C 1.E.V	2.0 1.5	lˠe	0	578
+80973	ipili	2708_TALK	laa	laa	l aː		franklin1975	6008	5 7	AX	LA	9	9.L.C 9.A.V	2.0 1.5	laː	1	578
+#
+80678	wiru	293_NETBAG	kà	kà	k à/a		franklin1975	30	1 7	AX	KA	12	12.K.C 12.A.V	2.0 1.5	kà/a	0	597
+80674	samberigi	293_NETBAG	nu	nu	n u		franklin1975	5975	4 7	AX	NY	10	10.N.C 10.Y.V	2.0 1.5	nu	0	588
+80679	fasu	293_NETBAG	aku	aku	a k u		franklin1975	100	7 1 7	XBZ	AKY	7	7.A.V 7.K.C 7.Y.V	1.5 1.75 0.8	aku	0	592
+80676	huli	293_NETBAG	nu	nu	n u		franklin1975	5975	4 7	AX	NY	8	8.N.C 8.Y.V	2.0 1.5	nu	0	588
+80675	enga	293_NETBAG	nuú	nuú	n u ú/u		franklin1975	5975	4 7 7	AXZ	NYY	5	5.N.C 5.Y.V 5.Y.V	2.0 1.5 0.8	nuú/u	0	588
+80670	west-kewa	293_NETBAG	nu	nu	n u		franklin1975	5975	4 7	AX	NY	11	11.N.C 11.Y.V	2.0 1.5	nu	0	588
+80671	east-kewa	293_NETBAG	nu	nu	n u		franklin1975	5975	4 7	AX	NY	4	4.N.C 4.Y.V	2.0 1.5	nu	0	588
+80672	erave	293_NETBAG	nu	nu	n u		franklin1975	5975	4 7	AX	NY	6	6.N.C 6.Y.V	2.0 1.5	nu	0	588
+80673	angal	293_NETBAG	nu	nu	n u		franklin1975	5975	4 7	AX	NY	1	1.N.C 1.Y.V	2.0 1.5	nu	0	588
+80677	ipili	293_NETBAG	nuu	nuu	n uː		franklin1975	5975	4 7	AX	NY	9	9.N.C 9.Y.V	2.0 1.5	nuː	0	588
+#
+80443	samberigi	3162_CROSS-COUSIN	kąᶖ	kąᶖ	k ą/a ᶖ/i		franklin1975	5952	1 7 7	AXZ	KAI	10	10.K.C 10.A.V 10.I.V	2.0 1.5 0.8	ką/aᶖ/i	0	599
+80445	huli	3162_CROSS-COUSIN	hani(ni)	hani	h a n i		franklin1975	5952	3 7 4 7	AXBZ	HANI	8	8.H.C 8.A.V 8.N.C 8.I.V	2.0 1.5 1.75 0.8	hani	0	601
+80444	enga	3162_CROSS-COUSIN	kaiigí	kaiigí	k a iː g í/i		franklin1975	5952	1 7 7 1 7	AXYBZ	KAIKI	5	5.K.C 5.A.V 5.I.V 5.K.C 5.I.V	2.0 1.5 1.3 1.75 0.8	kaiːgí/i	0	600
+80440	west-kewa	3162_CROSS-COUSIN	aai	aai	aː i		franklin1975	5952	7 7	XZ	AI	11	11.A.V 11.I.V	1.5 0.8	aːi	0	598
+80441	east-kewa	3162_CROSS-COUSIN	kai	kai	k a i		franklin1975	5952	1 7 7	AXZ	KAI	4	4.K.C 4.A.V 4.I.V	2.0 1.5 0.8	kai	0	599
+80442	angal	3162_CROSS-COUSIN	he	he	h e		franklin1975	5952	3 7	AX	HE	1	1.H.C 1.E.V	2.0 1.5	he	0	598
+80446	ipili	3162_CROSS-COUSIN	aini	aini	a i n i		franklin1975	5952	7 7 4 7	XYBZ	AINI	9	9.A.V 9.I.V 9.N.C 9.I.V	1.5 1.3 1.75 0.8	aini	0	601
+#
+80842	wiru	351_TARO	mᶖ	mᶖ	m ᶖ/i		franklin1975	5993	4 7	AX	MI	12	12.M.C 12.I.V	2.0 1.5	mᶖ/i	0	602
+80837	samberigi	351_TARO	mæ	mæ	m æ		franklin1975	5993	4 7	AX	ME	10	10.M.C 10.E.V	2.0 1.5	mæ	0	602
+80843	fasu	351_TARO	me	me	m e		franklin1975	5993	4 7	AX	ME	7	7.M.C 7.E.V	2.0 1.5	me	0	602
+80839	huli	351_TARO	ma	ma	m a		franklin1975	5993	4 7	AX	MA	8	8.M.C 8.A.V	2.0 1.5	ma	0	602
+80838	enga	351_TARO	máa	máa	m á/a a		franklin1975	5993	4 7 7	AXZ	MAA	5	5.M.C 5.A.V 5.A.V	2.0 1.5 0.8	má/aa	0	602
+80833	west-kewa	351_TARO	maa	maa	m aː		franklin1975	5993	4 7	AX	MA	11	11.M.C 11.A.V	2.0 1.5	maː	0	602
+80834	east-kewa	351_TARO	maa	maa	m aː		franklin1975	5993	4 7	AX	MA	4	4.M.C 4.A.V	2.0 1.5	maː	0	602
+80835	erave	351_TARO	maa	maa	m aː		franklin1975	5993	4 7	AX	MA	6	6.M.C 6.A.V	2.0 1.5	maː	0	602
+80836	angal	351_TARO	mɔ	mɔ	m ɔ		franklin1975	5993	4 7	AX	MU	1	1.M.C 1.U.V	2.0 1.5	mɔ	0	602
+80840	ipili	351_TARO	anama	anama	a n a m a		franklin1975	5993	7 4 7 4 7	XBYBZ	ANAMA	9	9.A.V 9.N.C 9.A.V 9.M.C 9.A.V	1.5 1.75 1.3 1.75 0.8	anama	0	608
+80841	ipili	351_TARO	ma	ma	m a		franklin1975	5993	4 7	AX	MA	9	9.M.C 9.A.V	2.0 1.5	ma	0	602
+#
+80648	wiru	492_THREE	temboto	temboto	t e m b o t o		franklin1975	5972	1 7 4 1 7 1 7	AXMBYBZ	TEMPUTU	12	12.T.C 12.E.V 12.M.c 12.P.C 12.U.V 12.T.C 12.U.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	temboto	0	611
+80644	samberigi	492_THREE	tepo	tepo	t e p o		franklin1975	5972	1 7 1 7	AXBZ	TEPU	10	10.T.C 10.E.V 10.P.C 10.U.V	2.0 1.5 1.75 0.8	tepo	0	609
+80649	fasu	492_THREE	isia	isia	i s i a		franklin1975	99	7 3 7 7	XBYZ	ISIA	7	7.I.V 7.S.C 7.I.V 7.A.V	1.5 1.75 1.3 0.8	isia	0	613
+80646	huli	492_THREE	tebira	tebira	t e b i r a		franklin1975	5972	1 7 1 7 5 7	AXBYBZ	TEPIRA	8	8.T.C 8.E.V 8.P.C 8.I.V 8.R.C 8.A.V	2.0 1.5 1.75 1.3 1.75 0.8	tebira	0	609
+80645	enga	492_THREE	téma	téma	t é/e m a		franklin1975	5972	1 7 4 7	AXBZ	TEMA	5	5.T.C 5.E.V 5.M.C 5.A.V	2.0 1.5 1.75 0.8	té/ema	0	611
+80640	west-kewa	492_THREE	repo	repo	r e p o		franklin1975	5972	5 7 1 7	AXBZ	REPU	11	11.R.C 11.E.V 11.P.C 11.U.V	2.0 1.5 1.75 0.8	repo	0	610
+80641	east-kewa	492_THREE	repo	repo	r e p o		franklin1975	5972	5 7 1 7	AXBZ	REPU	4	4.R.C 4.E.V 4.P.C 4.U.V	2.0 1.5 1.75 0.8	repo	0	610
+80642	erave	492_THREE	repo	repo	r e p o		franklin1975	5972	5 7 1 7	AXBZ	REPU	6	6.R.C 6.E.V 6.P.C 6.U.V	2.0 1.5 1.75 0.8	repo	0	610
+80643	angal	492_THREE	tep	tep	t e p		franklin1975	5972	1 7 1	AXN	TEP	1	1.T.C 1.E.V 1.P.c	2.0 1.5 0.8	tep	0	609
+80647	ipili	492_THREE	tebo	tebo	t e b o		franklin1975	5972	1 7 1 7	AXBZ	TEPU	9	9.T.C 9.E.V 9.P.C 9.U.V	2.0 1.5 1.75 0.8	tebo	0	609
+#
+81121	samberigi	51_SORE	tete	tete	t e t e		franklin1975	6024	1 7 1 7	AXBZ	TETE	10	10.T.C 10.E.V 10.T.C 10.E.V	2.0 1.5 1.75 0.8	tete	0	616
+81123	huli	51_SORE	dere	dere	d e r e		franklin1975	6024	1 7 5 7	AXBZ	TERE	8	8.T.C 8.E.V 8.R.C 8.E.V	2.0 1.5 1.75 0.8	dere	0	614
+81122	enga	51_SORE	téte	téte	t é/e t e		franklin1975	6024	1 7 1 7	AXBZ	TETE	5	5.T.C 5.E.V 5.T.C 5.E.V	2.0 1.5 1.75 0.8	té/ete	0	616
+81117	west-kewa	51_SORE	rere (pia)	rere_	r e r e		franklin1975	6024	5 7 5 7	AXBZ	RERE	11	11.R.C 11.E.V 11.R.C 11.E.V	2.0 1.5 1.75 0.8	rere	0	615
+81118	east-kewa	51_SORE	rere (pia)	rere_	r e r e		franklin1975	6024	5 7 5 7	AXBZ	RERE	4	4.R.C 4.E.V 4.R.C 4.E.V	2.0 1.5 1.75 0.8	rere	0	615
+81119	erave	51_SORE	rere (pia)	rere_	r e r e		franklin1975	6024	5 7 5 7	AXBZ	RERE	6	6.R.C 6.E.V 6.R.C 6.E.V	2.0 1.5 1.75 0.8	rere	0	615
+81120	angal	51_SORE	ter	ter	t e r		franklin1975	6024	1 7 5	AXN	TER	1	1.T.C 1.E.V 1.R.c	2.0 1.5 0.8	ter	0	614
+81124	ipili	51_SORE	tete	tete	t e t e		franklin1975	6024	1 7 1 7	AXBZ	TETE	9	9.T.C 9.E.V 9.T.C 9.E.V	2.0 1.5 1.75 0.8	tete	0	616
+#
+80808	wiru	634_MEAT	melépu	melépu	m e l é/e p u		franklin1975	40	4 7 5 7 1 7	AXBYBZ	MELEPY	12	12.M.C 12.E.V 12.L.C 12.E.V 12.P.C 12.Y.V	2.0 1.5 1.75 1.3 1.75 0.8	melé/epu	0	626
+80804	samberigi	634_MEAT	mænæ	mænæ	m æ n æ		franklin1975	73	4 7 4 7	AXBZ	MENE	10	10.M.C 10.E.V 10.N.C 10.E.V	2.0 1.5 1.75 0.8	mænæ	1	617
+80809	fasu	634_MEAT	maiya	maiya	m a i j a		franklin1975	109	4 7 7 6 7	AXYBZ	MAIJA	7	7.M.C 7.A.V 7.I.V 7.J.C 7.A.V	2.0 1.5 1.3 1.75 0.8	maija	1	619
+80806	huli	634_MEAT	mbirini	mbirini	m b i r i n i		franklin1975	5989	4 1 7 5 7 4 7	ACYBYBZ	MPIRINI	8	8.M.C 8.P.C 8.I.V 8.R.C 8.I.V 8.N.C 8.I.V	2.0 1.5 1.3 1.75 1.3 1.75 0.8	mbirini	0	622
+80805	enga	634_MEAT	miju	miju	m i j u		franklin1975	5989	4 7 6 7	AXBZ	MIJY	5	5.M.C 5.I.V 5.J.C 5.Y.V	2.0 1.5 1.75 0.8	miju	0	619
+80800	west-kewa	634_MEAT	midi	midi	m i d i		franklin1975	5989	4 7 1 7	AXBZ	MITI	11	11.M.C 11.I.V 11.T.C 11.I.V	2.0 1.5 1.75 0.8	midi	0	618
+80801	east-kewa	634_MEAT	midi	midi	m i d i		franklin1975	5989	4 7 1 7	AXBZ	MITI	4	4.M.C 4.I.V 4.T.C 4.I.V	2.0 1.5 1.75 0.8	midi	0	618
+80802	erave	634_MEAT	midi	midi	m i d i		franklin1975	5989	4 7 1 7	AXBZ	MITI	6	6.M.C 6.I.V 6.T.C 6.I.V	2.0 1.5 1.75 0.8	midi	0	618
+80803	angal	634_MEAT	mindi	mindi	m i n d i		franklin1975	5989	4 7 4 1 7	AXMBZ	MINTI	1	1.M.C 1.I.V 1.N.c 1.T.C 1.I.V	2.0 1.5 1.1 1.75 0.8	mindi	0	617
+80807	ipili	634_MEAT	mijuni	mijuni	m i j u n i		franklin1975	5989	4 7 6 7 4 7	AXBYBZ	MIJYNI	9	9.M.C 9.I.V 9.J.C 9.Y.V 9.N.C 9.I.V	2.0 1.5 1.75 1.3 1.75 0.8	mijuni	0	619
+#
+80732	wiru	639_MOUNTAIN	tóno	tóno	t ó/o n o		franklin1975	34	1 7 4 7	AXBZ	TUNU	12	12.T.C 12.U.V 12.N.C 12.U.V	2.0 1.5 1.75 0.8	tó/ono	0	634
+80728	samberigi	639_MOUNTAIN	pote	pote	p o t e		franklin1975	69	1 7 1 7	AXBZ	PUTE	10	10.P.C 10.U.V 10.T.C 10.E.V	2.0 1.5 1.75 0.8	pote	0	633
+80733	fasu	639_MOUNTAIN	uli	uli	u l i		franklin1975	5981	7 5 7	XBZ	YLI	7	7.Y.V 7.L.C 7.I.V	1.5 1.75 0.8	uli	0	627
+80730	huli	639_MOUNTAIN	hari	hari	h a r i		franklin1975	5981	3 7 5 7	AXBZ	HARI	8	8.H.C 8.A.V 8.R.C 8.I.V	2.0 1.5 1.75 0.8	hari	0	627
+80729	enga	639_MOUNTAIN	mádá	mádá	m á/a d á/a		franklin1975	167	4 7 1 7	AXBZ	MATA	5	5.M.C 5.A.V 5.T.C 5.A.V	2.0 1.5 1.75 0.8	má/adá/a	0	629
+80726	east-kewa	639_MOUNTAIN	kari	kari	k a r i		franklin1975	5981	1 7 5 7	AXBZ	KARI	4	4.K.C 4.A.V 4.R.C 4.I.V	2.0 1.5 1.75 0.8	kari	0	628
+80727	angal-heneng	639_MOUNTAIN	har	har	h a r		franklin1975	5981	3 7 5	AXN	HAR	3	3.H.C 3.A.V 3.R.c	2.0 1.5 0.8	har	0	627
+80731	ipili	639_MOUNTAIN	ati	ati	a t i		franklin1975	5981	7 1 7	XBZ	ATI	9	9.A.V 9.T.C 9.I.V	1.5 1.75 0.8	ati	0	632
+#
+80706	wiru	646_ASH	kùku	kùku	k ù/u k u		franklin1975	32	1 7 1 7	AXBZ	KYKY	12	12.K.C 12.Y.V 12.K.C 12.Y.V	2.0 1.5 1.75 0.8	kù/uku	0	644
+80702	samberigi	646_ASH	lankæ	lankæ	l a n k æ		franklin1975	5978	5 7 4 1 7	AXMBZ	LANKE	10	10.L.C 10.A.V 10.N.c 10.K.C 10.E.V	2.0 1.5 1.1 1.75 0.8	lankæ	0	642
+80707	fasu	646_ASH	katema	katema	k a t e m a		franklin1975	102	1 7 1 7 4 7	AXBYBZ	KATEMA	7	7.K.C 7.A.V 7.T.C 7.E.V 7.M.C 7.A.V	2.0 1.5 1.75 1.3 1.75 0.8	katema	0	639
+80704	huli	646_ASH	danga	danga	d a n g a		franklin1975	5978	1 7 4 1 7	AXMBZ	TANKA	8	8.T.C 8.A.V 8.N.c 8.K.C 8.A.V	2.0 1.5 1.1 1.75 0.8	danga	0	635
+80703	enga	646_ASH	búsi	búsi	b ú/u s i		franklin1975	165	1 7 3 7	AXBZ	PYSI	5	5.P.C 5.Y.V 5.S.C 5.I.V	2.0 1.5 1.75 0.8	bú/usi	0	637
+80698	west-kewa	646_ASH	taga	taga	t a g a		franklin1975	5978	1 7 1 7	AXBZ	TAKA	11	11.T.C 11.A.V 11.K.C 11.A.V	2.0 1.5 1.75 0.8	taga	0	636
+80699	east-kewa	646_ASH	taga	taga	t a g a		franklin1975	5978	1 7 1 7	AXBZ	TAKA	4	4.T.C 4.A.V 4.K.C 4.A.V	2.0 1.5 1.75 0.8	taga	0	636
+80700	erave	646_ASH	taga	taga	t a g a		franklin1975	5978	1 7 1 7	AXBZ	TAKA	6	6.T.C 6.A.V 6.K.C 6.A.V	2.0 1.5 1.75 0.8	taga	0	636
+80701	angal	646_ASH	tɔng	tɔng	t ɔ n g		franklin1975	5978	1 7 4 1	AXLN	TUNK	1	1.T.C 1.U.V 1.N.c 1.K.c	2.0 1.5 1.1 0.8	tɔng	0	635
+80705	ipili	646_ASH	pete	pete	p e t e		franklin1975	187	1 7 1 7	AXBZ	PETE	9	9.P.C 9.E.V 9.T.C 9.E.V	2.0 1.5 1.75 0.8	pete	0	641
+#
+80401	wiru	670_ROOT	teke	teke	t e k e		franklin1975	11	1 7 1 7	AXBZ	TEKE	12	12.T.C 12.E.V 12.K.C 12.E.V	2.0 1.5 1.75 0.8	teke	0	654
+80397	samberigi	670_ROOT	piki	piki	p i k i		franklin1975	5947	1 7 1 7	AXBZ	PIKI	10	10.P.C 10.I.V 10.K.C 10.I.V	2.0 1.5 1.75 0.8	piki	0	647
+80402	fasu	670_ROOT	pikinu	pikinu	p i k i n u		franklin1975	5947	1 7 1 7 4 7	AXBYBZ	PIKINY	7	7.P.C 7.I.V 7.K.C 7.I.V 7.N.C 7.Y.V	2.0 1.5 1.75 1.3 1.75 0.8	pikinu	0	647
+80399	huli	670_ROOT	pini	pini	p i n i		franklin1975	5947	1 7 4 7	AXBZ	PINI	8	8.P.C 8.I.V 8.N.C 8.I.V	2.0 1.5 1.75 0.8	pini	0	650
+80398	enga	670_ROOT	pigi	pigi	p i g i		franklin1975	5947	1 7 1 7	AXBZ	PIKI	5	5.P.C 5.I.V 5.K.C 5.I.V	2.0 1.5 1.75 0.8	pigi	0	647
+80393	west-kewa	670_ROOT	pitya	pitya	p i t j a		franklin1975	5947	1 7 1 6 7	AXBCZ	PITJA	11	11.P.C 11.I.V 11.T.C 11.J.C 11.A.V	2.0 1.5 1.75 1.5 0.8	pitja	0	646
+80394	east-kewa	670_ROOT	pitya	pitya	p i t j a		franklin1975	5947	1 7 1 6 7	AXBCZ	PITJA	4	4.P.C 4.I.V 4.T.C 4.J.C 4.A.V	2.0 1.5 1.75 1.5 0.8	pitja	0	646
+80395	erave	670_ROOT	pitya	pitya	p i t j a		franklin1975	5947	1 7 1 6 7	AXBCZ	PITJA	6	6.P.C 6.I.V 6.T.C 6.J.C 6.A.V	2.0 1.5 1.75 1.5 0.8	pitja	0	646
+80396	angal	670_ROOT	piƚa	piƚa	p i lˠ a		franklin1975	5947	1 7 5 7	AXBZ	PILA	1	1.P.C 1.I.V 1.L.C 1.A.V	2.0 1.5 1.75 0.8	pilˠa	0	645
+80400	ipili	670_ROOT	pini	pini	p i n i		franklin1975	5947	1 7 4 7	AXBZ	PINI	9	9.P.C 9.I.V 9.N.C 9.I.V	2.0 1.5 1.75 0.8	pini	0	650
+#
+80743	wiru	671_SAND	kibi	kibi	k i b i		franklin1975	35	1 7 1 7	AXBZ	KIPI	12	12.K.C 12.I.V 12.P.C 12.I.V	2.0 1.5 1.75 0.8	kibi	0	664
+80738	samberigi	671_SAND	hou	hou	h o u		franklin1975	70	3 7 7	AXZ	HUY	10	10.H.C 10.U.V 10.Y.V	2.0 1.5 0.8	hou	0	662
+80744	fasu	671_SAND	tekima	tekima	t e k i m a		franklin1975	104	1 7 1 7 4 7	AXBYBZ	TEKIMA	7	7.T.C 7.E.V 7.K.C 7.I.V 7.M.C 7.A.V	2.0 1.5 1.75 1.3 1.75 0.8	tekima	0	659
+80741	huli	671_SAND	iba mų	iba_mų	i b a + m ų/u		franklin1975	5982	7 1 7 9 4 7	XBZ_AX	IPA_MY	8	8.I.V 8.P.C 8.A.V 8._._ 8.M.C 8.Y.V	1.5 1.75 0.8 0.0 2.0 1.5	iba+mų/u	0	655
+80739	enga	671_SAND	ipa	ipa	i p a		franklin1975	5982	7 1 7	XBZ	IPA	5	5.I.V 5.P.C 5.A.V	1.5 1.75 0.8	ipa	0	655
+80740	enga	671_SAND	kée	kée	k é/e e		franklin1975	168	1 7 7	AXZ	KEE	5	5.K.C 5.E.V 5.E.V	2.0 1.5 0.8	ké/ee	0	665
+80734	west-kewa	671_SAND	ipa mu	ipa_mu	i p a + m u		franklin1975	5982	7 1 7 9 4 7	XBZ_AX	IPA_MY	11	11.I.V 11.P.C 11.A.V 11._._ 11.M.C 11.Y.V	1.5 1.75 0.8 0.0 2.0 1.5	ipa+mu	0	655
+80735	east-kewa	671_SAND	ipa mu	ipa_mu	i p a + m u		franklin1975	5982	7 1 7 9 4 7	XBZ_AX	IPA_MY	4	4.I.V 4.P.C 4.A.V 4._._ 4.M.C 4.Y.V	1.5 1.75 0.8 0.0 2.0 1.5	ipa+mu	0	655
+80736	erave	671_SAND	ipa mu	ipa_mu	i p a + m u		franklin1975	5982	7 1 7 9 4 7	XBZ_AX	IPA_MY	6	6.I.V 6.P.C 6.A.V 6._._ 6.M.C 6.Y.V	1.5 1.75 0.8 0.0 2.0 1.5	ipa+mu	0	655
+80737	angal	671_SAND	ip mu	ip_mu	i p + m u		franklin1975	5982	7 1 9 4 7	XN_AX	IP_MY	1	1.I.V 1.P.c 1._._ 1.M.C 1.Y.V	1.5 0.8 0.0 2.0 1.5	ip+mu	0	655
+80742	ipili	671_SAND	ipa mau	ipa_mau	i p a + m a u		franklin1975	5982	7 1 7 9 4 7 7	XBZ_AXZ	IPA_MAY	9	9.I.V 9.P.C 9.A.V 9._._ 9.M.C 9.A.V 9.Y.V	1.5 1.75 0.8 0.0 2.0 1.5 0.8	ipa+mau	0	655
+#
+81014	wiru	695_GO	yakó	yakó	j a k ó/o		franklin1975	55	6 7 1 7	AXBZ	JAKU	12	12.J.C 12.A.V 12.K.C 12.U.V	2.0 1.5 1.75 0.8	jakó/o	0	675
+81010	samberigi	695_GO	pu	pu	p u		franklin1975	6012	1 7	AX	PY	10	10.P.C 10.Y.V	2.0 1.5	pu	0	666
+81015	fasu	695_GO	korakare	korakare	k o r a k a r e		franklin1975	124	1 7 5 7 1 7 5 7	AXBYBYBZ	KURAKARE	7	7.K.C 7.U.V 7.R.C 7.A.V 7.K.C 7.A.V 7.R.C 7.E.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	korakare	0	670
+81012	huli	695_GO	pú	pú	p ú/u		franklin1975	6012	1 7	AX	PY	8	8.P.C 8.Y.V	2.0 1.5	pú/u	0	666
+81011	enga	695_GO	paegé	paegé	p a e g é/e		franklin1975	6012	1 7 7 1 7	AXYBZ	PAEKE	5	5.P.C 5.A.V 5.E.V 5.K.C 5.E.V	2.0 1.5 1.3 1.75 0.8	paegé/e	0	668
+81006	west-kewa	695_GO	pu	pu	p u		franklin1975	6012	1 7	AX	PY	11	11.P.C 11.Y.V	2.0 1.5	pu	1	666
+81007	east-kewa	695_GO	pu	pu	p u		franklin1975	6012	1 7	AX	PY	4	4.P.C 4.Y.V	2.0 1.5	pu	1	666
+81008	erave	695_GO	pu	pu	p u		franklin1975	6012	1 7	AX	PY	6	6.P.C 6.Y.V	2.0 1.5	pu	1	666
+81009	angal	695_GO	pe	pe	p e		franklin1975	6012	1 7	AX	PE	1	1.P.C 1.E.V	2.0 1.5	pe	0	666
+81013	ipili	695_GO	puu	puu	p uː		franklin1975	6012	1 7	AX	PY	9	9.P.C 9.Y.V	2.0 1.5	puː	0	666
+#
+80895	wiru	702_CATCH	motòko	motòko	m o t ò/o k o		franklin1975	45	4 7 1 7 1 7	AXBYBZ	MUTUKU	12	12.M.C 12.U.V 12.T.C 12.U.V 12.K.C 12.U.V	2.0 1.5 1.75 1.3 1.75 0.8	motò/oko	0	685
+80891	samberigi	702_CATCH	minæ	minæ	m i n æ		franklin1975	5999	4 7 4 7	AXBZ	MINE	10	10.M.C 10.I.V 10.N.C 10.E.V	2.0 1.5 1.75 0.8	minæ	0	678
+80896	fasu	702_CATCH	maka are	maka_are	m a k a + a r e		franklin1975	114	4 7 1 7 9 7 5 7	AXBZ_XBZ	MAKA_ARE	7	7.M.C 7.A.V 7.K.C 7.A.V 7._._ 7.A.V 7.R.C 7.E.V	2.0 1.5 1.75 0.8 0.0 1.5 1.75 0.8	maka+are	0	680
+80893	huli	702_CATCH	yu bia	yu_bia	j u + b i a		franklin1975	5999	6 7 9 1 7 7	AX_AXZ	JY_PIA	8	8.J.C 8.Y.V 8._._ 8.P.C 8.I.V 8.A.V	2.0 1.5 0.0 2.0 1.5 0.8	ju+bia	0	681
+80892	enga	702_CATCH	minyir	minyir	m i n j i r		franklin1975	5999	4 7 4 6 7 5	AXBCYN	MINJIR	5	5.M.C 5.I.V 5.N.C 5.J.C 5.I.V 5.R.c	2.0 1.5 1.75 1.5 1.3 0.8	minjir	0	678
+80887	west-kewa	702_CATCH	sapira	sapira	s a p i r a		franklin1975	5999	3 7 1 7 5 7	AXBYBZ	SAPIRA	11	11.S.C 11.A.V 11.P.C 11.I.V 11.R.C 11.A.V	2.0 1.5 1.75 1.3 1.75 0.8	sapira	0	677
+80888	east-kewa	702_CATCH	sapira	sapira	s a p i r a		franklin1975	5999	3 7 1 7 5 7	AXBYBZ	SAPIRA	4	4.S.C 4.A.V 4.P.C 4.I.V 4.R.C 4.A.V	2.0 1.5 1.75 1.3 1.75 0.8	sapira	0	677
+80889	erave	702_CATCH	sapira	sapira	s a p i r a		franklin1975	5999	3 7 1 7 5 7	AXBYBZ	SAPIRA	6	6.S.C 6.A.V 6.P.C 6.I.V 6.R.C 6.A.V	2.0 1.5 1.75 1.3 1.75 0.8	sapira	0	677
+80890	angal	702_CATCH	wapiɔ	wapiɔ	w a p i ɔ		franklin1975	5999	6 7 1 7 7	AXBYZ	WAPIU	1	1.W.C 1.A.V 1.P.C 1.I.V 1.U.V	2.0 1.5 1.75 1.3 0.8	wapiɔ	0	676
+80894	ipili	702_CATCH	mina	mina	m i n a		franklin1975	5999	4 7 4 7	AXBZ	MINA	9	9.M.C 9.I.V 9.N.C 9.A.V	2.0 1.5 1.75 0.8	mina	0	678
+#
+81040	wiru	706_DARK	lieneá	lieneá	l i e n e á/a	colored	franklin1975	57	5 7 7 4 7 7	AXYBYZ	LIENEA	12	12.L.C 12.I.V 12.E.V 12.N.C 12.E.V 12.A.V	2.0 1.5 1.3 1.75 1.3 0.8	lieneá/a	0	693
+81036	samberigi	706_DARK	punu pæ	punu_pæ	p u n u + p æ	colored	franklin1975	78	1 7 4 7 9 1 7	AXBZ_AX	PYNY_PE	10	10.P.C 10.Y.V 10.N.C 10.Y.V 10._._ 10.P.C 10.E.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5	punu+pæ	0	691
+81041	fasu	706_DARK	pikirisa	pikirisa	p i k i r i s a	colored	franklin1975	126	1 7 1 7 5 7 3 7	AXBYBYBZ	PIKIRISA	7	7.P.C 7.I.V 7.K.C 7.I.V 7.R.C 7.I.V 7.S.C 7.A.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	pikirisa	0	688
+81038	huli	706_DARK	mindi bi	mindi_bi	m i n d i + b i	colored	franklin1975	151	4 7 4 1 7 9 1 7	AXMBZ_AX	MINTI_PI	8	8.M.C 8.I.V 8.N.c 8.T.C 8.I.V 8._._ 8.P.C 8.I.V	2.0 1.5 1.1 1.75 0.8 0.0 2.0 1.5	mindi+bi	0	689
+81037	enga	706_DARK	pupúti	pupúti	p u p ú/u t i	colored	franklin1975	174	1 7 1 7 1 7	AXBYBZ	PYPYTI	5	5.P.C 5.Y.V 5.P.C 5.Y.V 5.T.C 5.I.V	2.0 1.5 1.75 1.3 1.75 0.8	pupú/uti	0	687
+81034	west-kewa	706_DARK	pobore	pobore	p o b o r e	colored	franklin1975	6015	1 7 1 7 5 7	AXBYBZ	PUPURE	11	11.P.C 11.U.V 11.P.C 11.U.V 11.R.C 11.E.V	2.0 1.5 1.75 1.3 1.75 0.8	pobore	0	687
+81035	angal	706_DARK	pɔmbete	pɔmbete	p ɔ m b e t e	colored	franklin1975	6015	1 7 4 1 7 1 7	AXMBYBZ	PUMPETE	1	1.P.C 1.U.V 1.M.c 1.P.C 1.E.V 1.T.C 1.E.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	pɔmbete	0	686
+81039	ipili	706_DARK	pobotene	pobotene	p o b o t e n e	colored	franklin1975	6015	1 7 1 7 1 7 4 7	AXBYBYBZ	PUPUTENE	9	9.P.C 9.U.V 9.P.C 9.U.V 9.T.C 9.E.V 9.N.C 9.E.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	pobotene	0	687
+#
+80778	samberigi	762_OUTSIDE	hamæ	hamæ	h a m æ		franklin1975	5986	3 7 4 7	AXBZ	HAME	10	10.H.C 10.A.V 10.M.C 10.E.V	2.0 1.5 1.75 0.8	hamæ	0	694
+80779	enga	762_OUTSIDE	kamáda	kamáda	k a m á/a d a		franklin1975	5986	1 7 4 7 1 7	AXBYBZ	KAMATA	5	5.K.C 5.A.V 5.M.C 5.A.V 5.T.C 5.A.V	2.0 1.5 1.75 1.3 1.75 0.8	kamá/ada	0	696
+80774	west-kewa	762_OUTSIDE	(k)amaa	amaa	a m aː		franklin1975	5986	7 4 7	XBZ	AMA	11	11.A.V 11.M.C 11.A.V	1.5 1.75 0.8	amaː	0	694
+80775	east-kewa	762_OUTSIDE	(k)amaa	amaa	a m aː		franklin1975	5986	7 4 7	XBZ	AMA	4	4.A.V 4.M.C 4.A.V	1.5 1.75 0.8	amaː	0	694
+80776	erave	762_OUTSIDE	(k)amaa	amaa	a m aː		franklin1975	5986	7 4 7	XBZ	AMA	6	6.A.V 6.M.C 6.A.V	1.5 1.75 0.8	amaː	0	694
+80777	angal	762_OUTSIDE	homa	homa	h o m a		franklin1975	5986	3 7 4 7	AXBZ	HUMA	1	1.H.C 1.U.V 1.M.C 1.A.V	2.0 1.5 1.75 0.8	homa	0	694
+80780	ipili	762_OUTSIDE	kamaka	kamaka	k a m a k a		franklin1975	5986	1 7 4 7 1 7	AXBYBZ	KAMAKA	9	9.K.C 9.A.V 9.M.C 9.A.V 9.K.C 9.A.V	2.0 1.5 1.75 1.3 1.75 0.8	kamaka	0	696
+#
+80525	wiru	78_THAT	eni	eni	e n i		franklin1975	18	7 4 7	XBZ	ENI	12	12.E.V 12.N.C 12.I.V	1.5 1.75 0.8	eni	0	701
+80522	samberigi	78_THAT	mo	mo	m o		franklin1975	5960	4 7	AX	MU	10	10.M.C 10.U.V	2.0 1.5	mo	0	698
+80526	fasu	78_THAT	ane	ane	a n e		franklin1975	90	7 4 7	XBZ	ANE	7	7.A.V 7.N.C 7.E.V	1.5 1.75 0.8	ane	0	701
+80523	enga	78_THAT	dòko	dòko	d ò/o k o		franklin1975	5960	1 7 1 7	AXBZ	TUKU	5	5.T.C 5.U.V 5.K.C 5.U.V	2.0 1.5 1.75 0.8	dò/oko	0	699
+80518	west-kewa	78_THAT	mo	mo	m o		franklin1975	5960	4 7	AX	MU	11	11.M.C 11.U.V	2.0 1.5	mo	0	698
+80519	east-kewa	78_THAT	mo	mo	m o		franklin1975	5960	4 7	AX	MU	4	4.M.C 4.U.V	2.0 1.5	mo	0	698
+80520	erave	78_THAT	mo	mo	m o		franklin1975	5960	4 7	AX	MU	6	6.M.C 6.U.V	2.0 1.5	mo	0	698
+80521	angal	78_THAT	mongo	mongo	m o n g o		franklin1975	5960	4 7 4 1 7	AXMBZ	MUNKU	1	1.M.C 1.U.V 1.N.c 1.K.C 1.U.V	2.0 1.5 1.1 1.75 0.8	mongo	0	697
+80524	ipili	78_THAT	molo	molo	m o l o		franklin1975	5960	4 7 5 7	AXBZ	MULU	9	9.M.C 9.U.V 9.L.C 9.U.V	2.0 1.5 1.75 0.8	molo	0	702
+#
+80927	samberigi	813_DO	pæ	pæ	p æ		franklin1975	6003	1 7	AX	PE	10	10.P.C 10.E.V	2.0 1.5	pæ	0	703
+80929	huli	813_DO	bia	bia	b i a		franklin1975	6003	1 7 7	AXZ	PIA	8	8.P.C 8.I.V 8.A.V	2.0 1.5 0.8	bia	0	703
+80928	enga	813_DO	pigí	pigí	p i g í/i		franklin1975	6003	1 7 1 7	AXBZ	PIKI	5	5.P.C 5.I.V 5.K.C 5.I.V	2.0 1.5 1.75 0.8	pigí/i	0	704
+80925	west-kewa	813_DO	pa	pa	p a		franklin1975	6003	1 7	AX	PA	11	11.P.C 11.A.V	2.0 1.5	pa	0	703
+80926	angal	813_DO	pi	pi	p i		franklin1975	6003	1 7	AX	PI	1	1.P.C 1.I.V	2.0 1.5	pi	0	703
+#
+80535	wiru	817_THEY	kini	kini	k i n i		franklin1975	19	1 7 4 7	AXBZ	KINI	12	12.K.C 12.I.V 12.N.C 12.I.V	2.0 1.5 1.75 0.8	kini	0	714
+80546	wiru	817_THEY	kità	kità	k i t à/a		franklin1975	20	1 7 1 7	AXBZ	KITA	12	12.K.C 12.I.V 12.T.C 12.A.V	2.0 1.5 1.75 0.8	kità/a	0	724
+80531	samberigi	817_THEY	iki	iki	i k i		franklin1975	5961	7 1 7	XBZ	IKI	10	10.I.V 10.K.C 10.I.V	1.5 1.75 0.8	iki	0	712
+80542	samberigi	817_THEY	ipiliki	ipiliki	i p i l i k i		franklin1975	5962	7 1 7 5 7 1 7	XBYBYBZ	IPILIKI	10	10.I.V 10.P.C 10.I.V 10.L.C 10.I.V 10.K.C 10.I.V	1.5 1.75 1.3 1.75 1.3 1.75 0.8	ipiliki	0	715
+80536	fasu	817_THEY	yi	yi	j i		franklin1975	91	6 7	AX	JI	7	7.J.C 7.I.V	2.0 1.5	ji	0	709
+80537	fasu	817_THEY	ipu	ipu	i p u		franklin1975	92	7 1 7	XBZ	IPY	7	7.I.V 7.P.C 7.Y.V	1.5 1.75 0.8	ipu	0	715
+80547	fasu	817_THEY	tati	tati	t a t i		franklin1975	5962	1 7 1 7	AXBZ	TATI	7	7.T.C 7.A.V 7.T.C 7.I.V	2.0 1.5 1.75 0.8	tati	0	725
+80548	fasu	817_THEY	tetapo	tetapo	t e t a p o		franklin1975	5962	1 7 1 7 1 7	AXBYBZ	TETAPU	7	7.T.C 7.E.V 7.T.C 7.A.V 7.P.C 7.U.V	2.0 1.5 1.75 1.3 1.75 0.8	tetapo	0	725
+80533	huli	817_THEY	ti	ti	t i		franklin1975	5961	1 7	AX	TI	8	8.T.C 8.I.V	2.0 1.5	ti	0	710
+80544	huli	817_THEY	libu	libu	l i b u		franklin1975	5962	5 7 1 7	AXBZ	LIPY	8	8.L.C 8.I.V 8.P.C 8.Y.V	2.0 1.5 1.75 0.8	libu	0	720
+80532	enga	817_THEY	dúpa	dúpa	d ú/u p a		franklin1975	5961	1 7 1 7	AXBZ	TYPA	5	5.T.C 5.Y.V 5.P.C 5.A.V	2.0 1.5 1.75 0.8	dú/upa	0	707
+80543	enga	817_THEY	dorápo	dorápo	d o r á/a p o		franklin1975	5962	1 7 5 7 1 7	AXBYBZ	TURAPU	5	5.T.C 5.U.V 5.R.C 5.A.V 5.P.C 5.U.V	2.0 1.5 1.75 1.3 1.75 0.8	dorá/apo	0	717
+80527	west-kewa	817_THEY	(n)imu	imu	i m u		franklin1975	5961	7 4 7	XBZ	IMY	11	11.I.V 11.M.C 11.Y.V	1.5 1.75 0.8	imu	0	706
+80538	west-kewa	817_THEY	(n)ipu	ipu	i p u		franklin1975	5962	7 1 7	XBZ	IPY	11	11.I.V 11.P.C 11.Y.V	1.5 1.75 0.8	ipu	1	715
+80528	east-kewa	817_THEY	(n)imu	imu	i m u		franklin1975	5961	7 4 7	XBZ	IMY	4	4.I.V 4.M.C 4.Y.V	1.5 1.75 0.8	imu	0	706
+80539	east-kewa	817_THEY	(n)ipu	ipu	i p u		franklin1975	5962	7 1 7	XBZ	IPY	4	4.I.V 4.P.C 4.Y.V	1.5 1.75 0.8	ipu	1	715
+80529	erave	817_THEY	(n)imu	imu	i m u		franklin1975	5961	7 4 7	XBZ	IMY	6	6.I.V 6.M.C 6.Y.V	1.5 1.75 0.8	imu	0	706
+80540	erave	817_THEY	(n)ipu	ipu	i p u		franklin1975	5962	7 1 7	XBZ	IPY	6	6.I.V 6.P.C 6.Y.V	1.5 1.75 0.8	ipu	1	715
+80530	angal	817_THEY	nim	nim	n i m		franklin1975	5961	4 7 4	AXN	NIM	1	1.N.C 1.I.V 1.M.c	2.0 1.5 0.8	nim	0	705
+80541	angal	817_THEY	ipi	ipi	i p i		franklin1975	5962	7 1 7	XBZ	IPI	1	1.I.V 1.P.C 1.I.V	1.5 1.75 0.8	ipi	0	715
+80534	ipili	817_THEY	yakaba	yakaba	j a k a b a		franklin1975	5961	6 7 1 7 1 7	AXBYBZ	JAKAPA	9	9.J.C 9.A.V 9.K.C 9.A.V 9.P.C 9.A.V	2.0 1.5 1.75 1.3 1.75 0.8	jakaba	0	711
+80545	ipili	817_THEY	liyaba	liyaba	l i j a b a		franklin1975	5962	5 7 6 7 1 7	AXBYBZ	LIJAPA	9	9.L.C 9.I.V 9.J.C 9.A.V 9.P.C 9.A.V	2.0 1.5 1.75 1.3 1.75 0.8	lijaba	0	721
+#
+80751	wiru	857_STONE	kué	kué	k u é/e		franklin1975	36	1 7 7	AXZ	KYE	12	12.K.C 12.Y.V 12.E.V	2.0 1.5 0.8	kué/e	0	733
+80747	samberigi	857_STONE	topi	topi	t o p i		franklin1975	71	1 7 1 7	AXBZ	TUPI	10	10.T.C 10.U.V 10.P.C 10.I.V	2.0 1.5 1.75 0.8	topi	0	732
+80752	fasu	857_STONE	eke	eke	e k e		franklin1975	5983	7 1 7	XBZ	EKE	7	7.E.V 7.K.C 7.E.V	1.5 1.75 0.8	eke	0	729
+80749	huli	857_STONE	tǫle	tǫle	t ǫ/o l e		franklin1975	145	1 7 5 7	AXBZ	TULE	8	8.T.C 8.U.V 8.L.C 8.E.V	2.0 1.5 1.75 0.8	tǫ/ole	0	730
+80748	enga	857_STONE	kaná	kaná	k a n á/a		franklin1975	5983	1 7 4 7	AXBZ	KANA	5	5.K.C 5.A.V 5.N.C 5.A.V	2.0 1.5 1.75 0.8	kaná/a	1	727
+80745	east-kewa	857_STONE	kana	kana	k a n a		franklin1975	5983	1 7 4 7	AXBZ	KANA	4	4.K.C 4.A.V 4.N.C 4.A.V	2.0 1.5 1.75 0.8	kana	0	727
+80746	angal-heneng	857_STONE	han	han	h a n		franklin1975	5983	3 7 4	AXN	HAN	3	3.H.C 3.A.V 3.N.c	2.0 1.5 0.8	han	0	726
+80750	ipili	857_STONE	ana	ana	a n a		franklin1975	5983	7 4 7	XBZ	ANA	9	9.A.V 9.N.C 9.A.V	1.5 1.75 0.8	ana	1	726
+#
+80257	wiru	867_backofhand	mukiti	mukiti	m u k i t i		franklin1975	1	4 7 1 7 1 7	AXBYBZ	MYKITI	12	12.M.C 12.Y.V 12.K.C 12.I.V 12.T.C 12.I.V	2.0 1.5 1.75 1.3 1.75 0.8	mukiti	0	743
+80253	samberigi	867_backofhand	hoki	hoki	h o k i		franklin1975	64	3 7 1 7	AXBZ	HUKI	10	10.H.C 10.U.V 10.K.C 10.I.V	2.0 1.5 1.75 0.8	hoki	0	741
+80258	fasu	867_backofhand	mati	mati	m a t i		franklin1975	5932	4 7 1 7	AXBZ	MATI	7	7.M.C 7.A.V 7.T.C 7.I.V	2.0 1.5 1.75 0.8	mati	0	736
+80255	huli	867_backofhand	erebira	erebira	e r e b i r a		franklin1975	136	7 5 7 1 7 5 7	XBYBYBZ	EREPIRA	8	8.E.V 8.R.C 8.E.V 8.P.C 8.I.V 8.R.C 8.A.V	1.5 1.75 1.3 1.75 1.3 1.75 0.8	erebira	0	739
+80254	enga	867_backofhand	máitá	máitá	m á/a i t á/a		franklin1975	5932	4 7 7 1 7	AXYBZ	MAITA	5	5.M.C 5.A.V 5.I.V 5.T.C 5.A.V	2.0 1.5 1.3 1.75 0.8	má/aitá/a	0	736
+80249	west-kewa	867_backofhand	masa	masa	m a s a		franklin1975	5932	4 7 3 7	AXBZ	MASA	11	11.M.C 11.A.V 11.S.C 11.A.V	2.0 1.5 1.75 0.8	masa	0	734
+80250	east-kewa	867_backofhand	masa	masa	m a s a		franklin1975	5932	4 7 3 7	AXBZ	MASA	4	4.M.C 4.A.V 4.S.C 4.A.V	2.0 1.5 1.75 0.8	masa	0	734
+80251	erave	867_backofhand	masa	masa	m a s a		franklin1975	5932	4 7 3 7	AXBZ	MASA	6	6.M.C 6.A.V 6.S.C 6.A.V	2.0 1.5 1.75 0.8	masa	0	734
+80252	angal	867_backofhand	mesa	mesa	m e s a		franklin1975	5932	4 7 3 7	AXBZ	MESA	1	1.M.C 1.E.V 1.S.C 1.A.V	2.0 1.5 1.75 0.8	mesa	0	734
+80256	ipili	867_backofhand	masia	masia	m a s i a		franklin1975	5932	4 7 3 7 7	AXBYZ	MASIA	9	9.M.C 9.A.V 9.S.C 9.I.V 9.A.V	2.0 1.5 1.75 1.3 0.8	masia	0	734
+#
+80798	wiru	868_BANANA	kaká	kaká	k a k á/a		franklin1975	39	1 7 1 7	AXBZ	KAKA	12	12.K.C 12.A.V 12.K.C 12.A.V	2.0 1.5 1.75 0.8	kaká/a	0	753
+80794	samberigi	868_BANANA	dæ̨̨̨ᶖ	dæ̨̨̨ᶖ	d æ ᶖ/i		franklin1975	5988	1 7 7	AXZ	TEI	10	10.T.C 10.E.V 10.I.V	2.0 1.5 0.8	dæᶖ/i	0	751
+80799	fasu	868_BANANA	kaputa	kaputa	k a p u t a		franklin1975	108	1 7 1 7 1 7	AXBYBZ	KAPYTA	7	7.K.C 7.A.V 7.P.C 7.Y.V 7.T.C 7.A.V	2.0 1.5 1.75 1.3 1.75 0.8	kaputa	0	748
+80796	huli	868_BANANA	hai	hai	h a i		franklin1975	5988	3 7 7	AXZ	HAI	8	8.H.C 8.A.V 8.I.V	2.0 1.5 0.8	hai	0	744
+80795	enga	868_BANANA	saé	saé	s a é/e		franklin1975	5988	3 7 7	AXZ	SAE	5	5.S.C 5.A.V 5.E.V	2.0 1.5 0.8	saé/e	0	746
+80790	west-kewa	868_BANANA	(k)ai	ai	a i		franklin1975	5988	7 7	XZ	AI	11	11.A.V 11.I.V	1.5 0.8	ai	0	744
+80791	east-kewa	868_BANANA	(k)ai	ai	a i		franklin1975	5988	7 7	XZ	AI	4	4.A.V 4.I.V	1.5 0.8	ai	0	744
+80792	erave	868_BANANA	(k)ai	ai	a i		franklin1975	5988	7 7	XZ	AI	6	6.A.V 6.I.V	1.5 0.8	ai	0	744
+80793	angal-enen	868_BANANA	ai	ai	a i		franklin1975	5988	7 7	XZ	AI	2	2.A.V 2.I.V	1.5 0.8	ai	0	744
+80797	ipili	868_BANANA	ai	ai	a i		franklin1975	5988	7 7	XZ	AI	9	9.A.V 9.I.V	1.5 0.8	ai	0	744
+#
+81050	wiru	879_COUGH	totona óko	totona_óko	t o t o n a + ó/o k o		franklin1975	58	1 7 1 7 4 7 9 7 1 7	AXBYBZ_XBZ	TUTUNA_UKU	12	12.T.C 12.U.V 12.T.C 12.U.V 12.N.C 12.A.V 12._._ 12.U.V 12.K.C 12.U.V	2.0 1.5 1.75 1.3 1.75 0.8 0.0 1.5 1.75 0.8	totona+ó/oko	0	762
+81044	samberigi	879_COUGH	hoto alæ	hoto_alæ	h o t o + a l æ		franklin1975	6016	3 7 1 7 9 7 5 7	AXBZ_XBZ	HUTU_ALE	10	10.H.C 10.U.V 10.T.C 10.U.V 10._._ 10.A.V 10.L.C 10.E.V	2.0 1.5 1.75 0.8 0.0 1.5 1.75 0.8	hoto+alæ	0	754
+81051	fasu	879_COUGH	yiyoko ane	yiyoko_ane	j i j o k o + a n e		franklin1975	127	6 7 6 7 1 7 9 7 4 7	AXBYBZ_XBZ	JIJUKU_ANE	7	7.J.C 7.I.V 7.J.C 7.U.V 7.K.C 7.U.V 7._._ 7.A.V 7.N.C 7.E.V	2.0 1.5 1.75 1.3 1.75 0.8 0.0 1.5 1.75 0.8	jijoko+ane	0	757
+81048	huli	879_COUGH	ko al	ko_al	k o + a l		franklin1975	6016	1 7 9 7 5	AX_XN	KU_AL	8	8.K.C 8.U.V 8._._ 8.A.V 8.L.c	2.0 1.5 0.0 1.5 0.8	ko+al	0	758
+81045	west-kewa	879_COUGH	kóto re	kóto_re	k ó/o t o + r e		franklin1975	6016	1 7 1 7 9 5 7	AXBZ_AX	KUTU_RE	11	11.K.C 11.U.V 11.T.C 11.U.V 11._._ 11.R.C 11.E.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5	kó/oto+re	0	756
+81042	east-kewa	879_COUGH	koro ta	koro_ta	k o r o + t a		franklin1975	6016	1 7 5 7 9 1 7	AXBZ_AX	KURU_TA	4	4.K.C 4.U.V 4.R.C 4.U.V 4._._ 4.T.C 4.A.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5	koro+ta	0	755
+81046	east-kewa	879_COUGH	kóto re	kóto_re	k ó/o t o + r e		franklin1975	6016	1 7 1 7 9 5 7	AXBZ_AX	KUTU_RE	4	4.K.C 4.U.V 4.T.C 4.U.V 4._._ 4.R.C 4.E.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5	kó/oto+re	0	756
+81047	erave	879_COUGH	kóto re	kóto_re	k ó/o t o + r e		franklin1975	6016	1 7 1 7 9 5 7	AXBZ_AX	KUTU_RE	6	6.K.C 6.U.V 6.T.C 6.U.V 6._._ 6.R.C 6.E.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5	kó/oto+re	0	756
+81043	angal	879_COUGH	ot ƚe	ot_ƚe	o t + lˠ e		franklin1975	6016	7 1 9 5 7	XN_AX	UT_LE	1	1.U.V 1.T.c 1._._ 1.L.C 1.E.V	1.5 0.8 0.0 2.0 1.5	ot+lˠe	0	754
+81049	ipili	879_COUGH	koto laa	koto_laa	k o t o + l aː		franklin1975	6016	1 7 1 7 9 5 7	AXBZ_AX	KUTU_LA	9	9.K.C 9.U.V 9.T.C 9.U.V 9._._ 9.L.C 9.A.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5	koto+laː	0	756
+#
+80850	wiru	906_TREE	yomò	yomò	j o m ò/o		franklin1975	43	6 7 4 7	AXBZ	JUMU	12	12.J.C 12.U.V 12.M.C 12.U.V	2.0 1.5 1.75 0.8	jomò/o	0	770
+80846	samberigi	906_TREE	ti	ti	t i		franklin1975	5994	1 7	AX	TI	10	10.T.C 10.I.V	2.0 1.5	ti	0	763
+80851	fasu	906_TREE	ira	ira	i r a		franklin1975	5994	7 5 7	XBZ	IRA	7	7.I.V 7.R.C 7.A.V	1.5 1.75 0.8	ira	0	765
+80848	huli	906_TREE	ira	ira	i r a		franklin1975	5994	7 5 7	XBZ	IRA	8	8.I.V 8.R.C 8.A.V	1.5 1.75 0.8	ira	0	765
+80847	enga	906_TREE	ítá	ítá	í/i t á/a		franklin1975	5994	7 1 7	XBZ	ITA	5	5.I.V 5.T.C 5.A.V	1.5 1.75 0.8	í/itá/a	0	764
+80844	west-kewa	906_TREE	repona	repona	r e p o n a		franklin1975	176	5 7 1 7 4 7	AXBYBZ	REPUNA	11	11.R.C 11.E.V 11.P.C 11.U.V 11.N.C 11.A.V	2.0 1.5 1.75 1.3 1.75 0.8	repona	0	769
+80845	angal	906_TREE	ti	ti	t i		franklin1975	5994	1 7	AX	TI	1	1.T.C 1.I.V	2.0 1.5	ti	0	763
+80849	ipili	906_TREE	ita	ita	i t a		franklin1975	5994	7 1 7	XBZ	ITA	9	9.I.V 9.T.C 9.A.V	1.5 1.75 0.8	ita	0	764
+#
+80860	wiru	937_BIRD	inì	inì	i n ì/i		franklin1975	44	7 4 7	XBZ	INI	12	12.I.V 12.N.C 12.I.V	1.5 1.75 0.8	inì/i	0	780
+80856	samberigi	937_BIRD	ba	ba	b a		franklin1975	75	1 7	AX	PA	10	10.P.C 10.A.V	2.0 1.5	ba	0	778
+80861	fasu	937_BIRD	mena	mena	m e n a		franklin1975	112	4 7 4 7	AXBZ	MENA	7	7.M.C 7.E.V 7.N.C 7.A.V	2.0 1.5 1.75 0.8	mena	0	775
+80858	huli	937_BIRD	ega	ega	e g a		franklin1975	5995	7 1 7	XBZ	EKA	8	8.E.V 8.K.C 8.A.V	1.5 1.75 0.8	ega	0	776
+80857	enga	937_BIRD	yáka	yáka	j á/a k a		franklin1975	5995	6 7 1 7	AXBZ	JAKA	5	5.J.C 5.A.V 5.K.C 5.A.V	2.0 1.5 1.75 0.8	já/aka	0	773
+80852	west-kewa	937_BIRD	yáá	yáá	j á/a á/a		franklin1975	5995	6 7 7	AXZ	JAA	11	11.J.C 11.A.V 11.A.V	2.0 1.5 0.8	já/aá/a	0	772
+80853	east-kewa	937_BIRD	yáá	yáá	j á/a á/a		franklin1975	5995	6 7 7	AXZ	JAA	4	4.J.C 4.A.V 4.A.V	2.0 1.5 0.8	já/aá/a	0	772
+80854	erave	937_BIRD	yáá	yáá	j á/a á/a		franklin1975	5995	6 7 7	AXZ	JAA	6	6.J.C 6.A.V 6.A.V	2.0 1.5 0.8	já/aá/a	0	772
+80855	angal	937_BIRD	sɔ	sɔ	s ɔ		franklin1975	5995	3 7	AX	SU	1	1.S.C 1.U.V	2.0 1.5	sɔ	0	771
+80859	ipili	937_BIRD	eka	eka	e k a		franklin1975	5995	7 1 7	XBZ	EKA	9	9.E.V 9.K.C 9.A.V	1.5 1.75 0.8	eka	0	776
+#
+80772	wiru	948_WATER	uè	uè	u è/e		franklin1975	38	7 7	XZ	YE	12	12.Y.V 12.E.V	1.5 0.8	uè/e	0	785
+80768	samberigi	948_WATER	ikali	ikali	i k a l i		franklin1975	72	7 1 7 5 7	XBYBZ	IKALI	10	10.I.V 10.K.C 10.A.V 10.L.C 10.I.V	1.5 1.75 1.3 1.75 0.8	ikali	0	788
+80773	fasu	948_WATER	hę	hę	h ę/e		franklin1975	106	3 7	AX	HE	7	7.H.C 7.E.V	2.0 1.5	hę/e	0	785
+80770	huli	948_WATER	iba	iba	i b a		franklin1975	5985	7 1 7	XBZ	IPA	8	8.I.V 8.P.C 8.A.V	1.5 1.75 0.8	iba	0	781
+80769	enga	948_WATER	ípa	ípa	í/i p a		franklin1975	5985	7 1 7	XBZ	IPA	5	5.I.V 5.P.C 5.A.V	1.5 1.75 0.8	í/ipa	0	781
+80764	west-kewa	948_WATER	ipa	ipa	i p a		franklin1975	5985	7 1 7	XBZ	IPA	11	11.I.V 11.P.C 11.A.V	1.5 1.75 0.8	ipa	0	781
+80765	east-kewa	948_WATER	ipa	ipa	i p a		franklin1975	5985	7 1 7	XBZ	IPA	4	4.I.V 4.P.C 4.A.V	1.5 1.75 0.8	ipa	0	781
+80766	erave	948_WATER	ipa	ipa	i p a		franklin1975	5985	7 1 7	XBZ	IPA	6	6.I.V 6.P.C 6.A.V	1.5 1.75 0.8	ipa	0	781
+80767	angal	948_WATER	ip	ip	i p		franklin1975	5985	7 1	XN	IP	1	1.I.V 1.P.c	1.5 0.8	ip	0	781
+80771	ipili	948_WATER	ipa	ipa	i p a		franklin1975	5985	7 1 7	XBZ	IPA	9	9.I.V 9.P.C 9.A.V	1.5 1.75 0.8	ipa	0	781
+#
+80494	wiru	962_WOMAN	atòa	atòa	a t ò/o a		franklin1975	16	7 1 7 7	XBYZ	ATUA	12	12.A.V 12.T.C 12.U.V 12.A.V	1.5 1.75 1.3 0.8	atò/oa	0	791
+80495	fasu	962_WOMAN	hinamo	hinamo	h i n a m o		franklin1975	5957	3 7 4 7 4 7	AXBYBZ	HINAMU	7	7.H.C 7.I.V 7.N.C 7.A.V 7.M.C 7.U.V	2.0 1.5 1.75 1.3 1.75 0.8	hinamo	0	792
+80492	huli	962_WOMAN	wali	wali	w a l i		franklin1975	5957	6 7 5 7	AXBZ	WALI	8	8.W.C 8.A.V 8.L.C 8.I.V	2.0 1.5 1.75 0.8	wali	0	793
+80491	enga	962_WOMAN	éda	éda	é/e d a		franklin1975	5957	7 1 7	XBZ	ETA	5	5.E.V 5.T.C 5.A.V	1.5 1.75 0.8	é/eda	0	791
+80489	west-kewa	962_WOMAN	ona	ona	o n a		franklin1975	5957	7 4 7	XBZ	UNA	11	11.U.V 11.N.C 11.A.V	1.5 1.75 0.8	ona	0	792
+80488	east-kewa	962_WOMAN	winya	winya	w i n j a		franklin1975	5957	6 7 4 6 7	AXBCZ	WINJA	4	4.W.C 4.I.V 4.N.C 4.J.C 4.A.V	2.0 1.5 1.75 1.5 0.8	winja	0	790
+80490	angal	962_WOMAN	ten	ten	t e n		franklin1975	177	1 7 4	AXN	TEN	1	1.T.C 1.E.V 1.N.c	2.0 1.5 0.8	ten	0	789
+80493	ipili	962_WOMAN	wada	wada	w a d a		franklin1975	5957	6 7 1 7	AXBZ	WATA	9	9.W.C 9.A.V 9.T.C 9.A.V	2.0 1.5 1.75 0.8	wada	0	794
+# Created using the LexStat class of LingPy-2.6.9
+# Cluster: turchin_upgma_0.30

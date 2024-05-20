@@ -1,0 +1,1118 @@
+# Wordlist
+
+# DATA
+ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	SOURCE	COGID	SONARS	PROSTRINGS	CLASSES	LANGID	NUMBERS	WEIGHTS	IPA	DUPLICATES	AUTOCOGID
+#
+239216	tok-pisin	1035_GOOD	gutpela	gutpela	g u t p e l a	good	abbott1985	83	1 7 1 1 7 5 7	AXMBYBZ	KYTPELA	10	10.K.C 10.Y.V 10.T.c 10.P.C 10.E.V 10.L.C 10.A.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	gutpela	0	9
+240185	chambri-kilimbit	1035_GOOD	yabˈkʰar̃ən	yabˈkʰar̃ən	j a b kʰ a r̃ ə n		abbott1985	21604	6 7 1 1 7 5 7 4	AXMBYBYN	JAPKAREN	8	8.J.C 8.A.V 8.P.c 8.K.C 8.A.V 8.R.C 8.E.V 8.N.c	2.0 1.5 1.1 1.75 1.3 1.75 1.3 0.8	jabkʰar̃ən	0	7
+240505	kopar-singarin	1035_GOOD	ˈařatʰətʰ	ˈařatʰətʰ	a r̝ a tʰ ə tʰ		abbott1985	21607	7 5 7 1 7 1	XBYBYN	ARATET	9	9.A.V 9.R.C 9.A.V 9.T.C 9.E.V 9.T.c	1.5 1.75 1.3 1.75 1.3 0.8	ar̝atʰətʰ	0	2
+240610	angoram-karau	1035_GOOD	ˈařətʰogo	ˈařətʰogo	a r̝ ə tʰ o g o		abbott1985	21607	7 5 7 1 7 1 7	XBYBYBZ	ARETUKU	3	3.A.V 3.R.C 3.E.V 3.T.C 3.U.V 3.K.C 3.U.V	1.5 1.75 1.3 1.75 1.3 1.75 0.8	ar̝ətʰogo	0	2
+240707	angoram-wagamut	1035_GOOD	ˈařətʰo	ˈařətʰo	a r̝ ə tʰ o		abbott1985	21607	7 5 7 1 7	XBYBZ	ARETU	6	6.A.V 6.R.C 6.E.V 6.T.C 6.U.V	1.5 1.75 1.3 1.75 0.8	ar̝ətʰo	0	2
+240956	angoram-kanduanum	1035_GOOD	ˈařandəkʰən	ˈařandəkʰən	a r̝ a n d ə kʰ ə n		abbott1985	21608	7 5 7 4 1 7 1 7 4	XBYMBYBYN	ARANTEKEN	2	2.A.V 2.R.C 2.A.V 2.N.c 2.T.C 2.E.V 2.K.C 2.E.V 2.N.c	1.5 1.75 1.3 1.1 1.75 1.3 1.75 1.3 0.8	ar̝andəkʰən	0	2
+240798	angoram-marbuk	1035_GOOD	ˈnandəkʰ n	ˈnandəkʰ_n	n a n d ə kʰ + n		abbott1985	21608	4 7 4 1 7 1 9 4	AXMBYN_A	NANTEK_N	5	5.N.C 5.A.V 5.N.c 5.T.C 5.E.V 5.K.c 5._._ 5.N.C	2.0 1.5 1.1 1.75 1.3 0.8 0.0 2.0	nandəkʰ+n	0	4
+240290	angoram-kambrindo	1035_GOOD	ˈmandžikʊn	ˈmandžikʊn	m a n dʒ i k ʊ n		abbott1985	21605	4 7 4 1 7 1 7 4	AXMBYBYN	MANTIKYN	1	1.M.C 1.A.V 1.N.c 1.T.C 1.I.V 1.K.C 1.Y.V 1.N.c	2.0 1.5 1.1 1.75 1.3 1.75 1.3 0.8	mandʒikʊn	0	1
+240400	ap-ma-kambaramba	1035_GOOD	ˈyolaimɛn	ˈyolaimɛn	j o l a i m ɛ n		abbott1985	21606	6 7 5 7 7 4 7 4	AXBYYBYN	JULAIMEN	7	7.J.C 7.U.V 7.L.C 7.A.V 7.I.V 7.M.C 7.E.V 7.N.c	2.0 1.5 1.75 1.3 1.3 1.75 1.3 0.8	jolaimɛn	0	6
+#
+239259	tok-pisin	113_SHORE	nambis	nambis	n a m b i s	beach	abbott1985	126	4 7 4 1 7 3	AXMBYN	NAMPIS	10	10.N.C 10.A.V 10.M.c 10.P.C 10.I.V 10.S.c	2.0 1.5 1.1 1.75 1.3 0.8	nambis	0	13
+240640	angoram-karau	113_SHORE	ˈdž ŋain	ˈdž_ŋain	dʒ + ŋ a i n		abbott1985	204	1 9 4 7 7 4	A_AXYN	T_NAIN	3	3.T.C 3._._ 3.N.C 3.A.V 3.I.V 3.N.c	2.0 0.0 2.0 1.5 1.3 0.8	dʒ+ŋain	0	10
+240728	angoram-wagamut	113_SHORE	ˈdžəŋain	ˈdžəŋain	dʒ ə ŋ a i n		abbott1985	219	1 7 4 7 7 4	AXBYYN	TENAIN	6	6.T.C 6.E.V 6.N.C 6.A.V 6.I.V 6.N.c	2.0 1.5 1.75 1.3 1.3 0.8	dʒəŋain	0	12
+240814	angoram-marbuk	113_SHORE	ˈsəŋai	ˈsəŋai	s ə ŋ a i		abbott1985	277	3 7 4 7 7	AXBYZ	SENAI	5	5.S.C 5.E.V 5.N.C 5.A.V 5.I.V	2.0 1.5 1.75 1.3 0.8	səŋai	0	11
+#
+239214	tok-pisin	1174_YESTERDAY	asde	asde	a s d e	yesterday	abbott1985	81	7 3 1 7	XMBZ	ASTE	10	10.A.V 10.S.c 10.T.C 10.E.V	1.5 1.1 1.75 0.8	asde	0	23
+240183	chambri-kilimbit	1174_YESTERDAY	ˈnamanšinɨn	ˈnamanšinɨn	n a m a n ʂ i n ɨ n		abbott1985	21787	4 7 4 7 4 3 7 4 7 4	AXBYMBYBYN	NAMANSININ	8	8.N.C 8.A.V 8.M.C 8.A.V 8.N.c 8.S.C 8.I.V 8.N.C 8.I.V 8.N.c	2.0 1.5 1.75 1.3 1.1 1.75 1.3 1.75 1.3 0.8	namanʂinɨn	0	21
+240503	kopar-singarin	1174_YESTERDAY	ˈnařən	ˈnařən	n a r̝ ə n		abbott1985	21790	4 7 5 7 4	AXBYN	NAREN	9	9.N.C 9.A.V 9.R.C 9.E.V 9.N.c	2.0 1.5 1.75 1.3 0.8	nar̝ən	0	19
+240608	angoram-karau	1174_YESTERDAY	ˈařən	ˈařən	a r̝ ə n		abbott1985	21790	7 5 7 4	XBYN	AREN	3	3.A.V 3.R.C 3.E.V 3.N.c	1.5 1.75 1.3 0.8	ar̝ən	0	16
+240705	angoram-wagamut	1174_YESTERDAY	ˈnařʊn	ˈnařʊn	n a r̝ ʊ n		abbott1985	21790	4 7 5 7 4	AXBYN	NARYN	6	6.N.C 6.A.V 6.R.C 6.Y.V 6.N.c	2.0 1.5 1.75 1.3 0.8	nar̝ʊn	0	19
+240954	angoram-kanduanum	1174_YESTERDAY	ˈnagəmʊn	ˈnagəmʊn	n a g ə m ʊ n		abbott1985	21788	4 7 1 7 4 7 4	AXBYBYN	NAKEMYN	2	2.N.C 2.A.V 2.K.C 2.E.V 2.M.C 2.Y.V 2.N.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	nagəmʊn	0	14
+240879	angoram-magendo	1174_YESTERDAY	ˈnakʰəmʊn	ˈnakʰəmʊn	n a kʰ ə m ʊ n		abbott1985	21788	4 7 1 7 4 7 4	AXBYBYN	NAKEMYN	4	4.N.C 4.A.V 4.K.C 4.E.V 4.M.C 4.Y.V 4.N.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	nakʰəmʊn	0	14
+240796	angoram-marbuk	1174_YESTERDAY	ˈnakʰam	ˈnakʰam	n a kʰ a m		abbott1985	21788	4 7 1 7 4	AXBYN	NAKAM	5	5.N.C 5.A.V 5.K.C 5.A.V 5.M.c	2.0 1.5 1.75 1.3 0.8	nakʰam	0	14
+240288	angoram-kambrindo	1174_YESTERDAY	ˈnakʰəmʊn	ˈnakʰəmʊn	n a kʰ ə m ʊ n		abbott1985	21788	4 7 1 7 4 7 4	AXBYBYN	NAKEMYN	1	1.N.C 1.A.V 1.K.C 1.E.V 1.M.C 1.Y.V 1.N.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	nakʰəmʊn	0	14
+240398	ap-ma-kambaramba	1174_YESTERDAY	ˈnaiəndən	ˈnaiəndən	n a i ə n d ə n		abbott1985	21789	4 7 7 7 4 1 7 4	AXYYMBYN	NAIENTEN	7	7.N.C 7.A.V 7.I.V 7.E.V 7.N.c 7.T.C 7.E.V 7.N.c	2.0 1.5 1.3 1.3 1.1 1.75 1.3 0.8	naiəndən	0	20
+#
+239185	tok-pisin	1201_FEATHER	gras bilong pisin	gras_bilong_pisin	g r a s + b i l o n g + p i s i n	feather	abbott1985	52	1 5 7 3 9 1 7 5 7 4 1 9 1 7 3 7 4	ACXN_AXBYLN_AXBYN	KRAS_PILUNK_PISIN	10	10.K.C 10.R.C 10.A.V 10.S.c 10._._ 10.P.C 10.I.V 10.L.C 10.U.V 10.N.c 10.K.c 10._._ 10.P.C 10.I.V 10.S.C 10.I.V 10.N.c	2.0 1.5 1.5 0.8 0.0 2.0 1.5 1.75 1.3 1.1 0.8 0.0 2.0 1.5 1.75 1.3 0.8	gras+bilong+pisin	0	33
+240163	chambri-kilimbit	1201_FEATHER	iambəˈlʊnkʰ	iambəˈlʊnkʰ	i a m b ə l ʊ n kʰ		abbott1985	21672	7 7 4 1 7 5 7 4 1	XYMBYBYLN	IAMPELYNK	8	8.I.V 8.A.V 8.M.c 8.P.C 8.E.V 8.L.C 8.Y.V 8.N.c 8.K.c	1.5 1.3 1.1 1.75 1.3 1.75 1.3 1.1 0.8	iambəlʊnkʰ	0	31
+240476	kopar-singarin	1201_FEATHER	ˈtsɛtseiŋ	ˈtsɛtseiŋ	ts ɛ ts e i ŋ		abbott1985	21675	2 7 2 7 7 4	AXBYYN	CECEIN	9	9.C.C 9.E.V 9.C.C 9.E.V 9.I.V 9.N.c	2.0 1.5 1.75 1.3 1.3 0.8	tsɛtseiŋ	0	32
+240580	angoram-karau	1201_FEATHER	ˈuason	ˈuason	u a s o n		abbott1985	21676	7 7 3 7 4	XYBYN	YASUN	3	3.Y.V 3.A.V 3.S.C 3.U.V 3.N.c	1.5 1.3 1.75 1.3 0.8	uason	0	26
+240680	angoram-wagamut	1201_FEATHER	ˈuasən	ˈuasən	u a s ə n		abbott1985	21676	7 7 3 7 4	XYBYN	YASEN	6	6.Y.V 6.A.V 6.S.C 6.E.V 6.N.c	1.5 1.3 1.75 1.3 0.8	uasən	0	26
+240929	angoram-kanduanum	1201_FEATHER	ˈwanbluŋ	ˈwanbluŋ	w a n b l u ŋ		abbott1985	21673	6 7 4 1 5 7 4	AXMBCYN	WANPLYN	2	2.W.C 2.A.V 2.N.c 2.P.C 2.L.C 2.Y.V 2.N.c	2.0 1.5 1.1 1.75 1.5 1.3 0.8	wanbluŋ	0	25
+240854	angoram-magendo	1201_FEATHER	ˈwambwʊngři	ˈwambwʊngři	w a m b w ʊ n g r̝ i		abbott1985	21673	6 7 4 1 6 7 4 1 5 7	AXMBCYMBCZ	WAMPWYNKRI	4	4.W.C 4.A.V 4.M.c 4.P.C 4.W.C 4.Y.V 4.N.c 4.K.C 4.R.C 4.I.V	2.0 1.5 1.1 1.75 1.5 1.3 1.1 1.75 1.5 0.8	wambwʊngr̝i	0	24
+240769	angoram-marbuk	1201_FEATHER	ˈpakʰenəm	ˈpakʰenəm	p a kʰ e n ə m		abbott1985	21677	1 7 1 7 4 7 4	AXBYBYN	PAKENEM	5	5.P.C 5.A.V 5.K.C 5.E.V 5.N.C 5.E.V 5.M.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	pakʰenəm	0	28
+240260	angoram-kambrindo	1201_FEATHER	ˈwambwʊngři	ˈwambwʊngři	w a m b w ʊ n g r̝ i		abbott1985	21673	6 7 4 1 6 7 4 1 5 7	AXMBCYMBCZ	WAMPWYNKRI	1	1.W.C 1.A.V 1.M.c 1.P.C 1.W.C 1.Y.V 1.N.c 1.K.C 1.R.C 1.I.V	2.0 1.5 1.1 1.75 1.5 1.3 1.1 1.75 1.5 0.8	wambwʊngr̝i	0	24
+240373	ap-ma-kambaramba	1201_FEATHER	ˈangopʰ	ˈangopʰ	a n g o pʰ		abbott1985	21674	7 4 1 7 1	XMBYN	ANKUP	7	7.A.V 7.N.c 7.K.C 7.U.V 7.P.c	1.5 1.1 1.75 1.3 0.8	angopʰ	0	30
+#
+239151	tok-pisin	1202_BIG	bikpela	bikpela	b i k p e l a	big	abbott1985	18	1 7 1 1 7 5 7	AXMBYBZ	PIKPELA	10	10.P.C 10.I.V 10.K.c 10.P.C 10.E.V 10.L.C 10.A.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	bikpela	0	42
+240133	chambri-kilimbit	1202_BIG	ˈubo	ˈubo	u b o		abbott1985	131	7 1 7	XBZ	YPU	8	8.Y.V 8.P.C 8.U.V	1.5 1.75 0.8	ubo	0	36
+240445	kopar-singarin	1202_BIG	ˈkʰapʰam	ˈkʰapʰam	kʰ a pʰ a m		abbott1985	153	1 7 1 7 4	AXBYN	KAPAM	9	9.K.C 9.A.V 9.P.C 9.A.V 9.M.c	2.0 1.5 1.75 1.3 0.8	kʰapʰam	0	34
+240549	angoram-karau	1202_BIG	ˈapʰo	ˈapʰo	a pʰ o		abbott1985	180	7 1 7	XBZ	APU	3	3.A.V 3.P.C 3.U.V	1.5 1.75 0.8	apʰo	0	36
+240653	angoram-wagamut	1202_BIG	ˈapʰo	ˈapʰo	a pʰ o		abbott1985	207	7 1 7	XBZ	APU	6	6.A.V 6.P.C 6.U.V	1.5 1.75 0.8	apʰo	0	36
+240902	angoram-kanduanum	1202_BIG	ˈkʰəpan	ˈkʰəpan	kʰ ə p a n		abbott1985	222	1 7 1 7 4	AXBYN	KEPAN	2	2.K.C 2.E.V 2.P.C 2.A.V 2.N.c	2.0 1.5 1.75 1.3 0.8	kʰəpan	0	34
+240827	angoram-magendo	1202_BIG	ˈkʰəpan	ˈkʰəpan	kʰ ə p a n		abbott1985	245	1 7 1 7 4	AXBYN	KEPAN	4	4.K.C 4.E.V 4.P.C 4.A.V 4.N.c	2.0 1.5 1.75 1.3 0.8	kʰəpan	0	34
+240742	angoram-marbuk	1202_BIG	ˈkʰəpan	ˈkʰəpan	kʰ ə p a n		abbott1985	261	1 7 1 7 4	AXBYN	KEPAN	5	5.K.C 5.E.V 5.P.C 5.A.V 5.N.c	2.0 1.5 1.75 1.3 0.8	kʰəpan	0	34
+240229	angoram-kambrindo	1202_BIG	ˈkʰəpan	ˈkʰəpan	kʰ ə p a n		abbott1985	284	1 7 1 7 4	AXBYN	KEPAN	1	1.K.C 1.E.V 1.P.C 1.A.V 1.N.c	2.0 1.5 1.75 1.3 0.8	kʰəpan	0	34
+#
+239218	tok-pisin	1203_LONG	longpela	longpela	l o n g p e l a	long	abbott1985	85	5 7 4 1 1 7 5 7	AXLMBYBZ	LUNKPELA	10	10.L.C 10.U.V 10.N.c 10.K.c 10.P.C 10.E.V 10.L.C 10.A.V	2.0 1.5 1.1 1.1 1.75 1.3 1.75 0.8	longpela	0	51
+240187	chambri-kilimbit	1203_LONG	kʰʊlndˈr̃əŋ	kʰʊlndˈr̃əŋ	kʰ ʊ l n d r̃ ə ŋ		abbott1985	21752	1 7 5 4 1 5 7 4	AXLMBCYN	KYLNTREN	8	8.K.C 8.Y.V 8.L.c 8.N.c 8.T.C 8.R.C 8.E.V 8.N.c	2.0 1.5 1.1 1.1 1.75 1.5 1.3 0.8	kʰʊlndr̃əŋ	0	49
+240507	kopar-singarin	1203_LONG	ˈŋkʰoŋkʰopʰaři	ˈŋkʰoŋkʰopʰaři	ŋ kʰ o ŋ kʰ o pʰ a r̝ i		abbott1985	21755	4 1 7 4 1 7 1 7 5 7	ACYMBYBYBZ	NKUNKUPARI	9	9.N.C 9.K.C 9.U.V 9.N.c 9.K.C 9.U.V 9.P.C 9.A.V 9.R.C 9.I.V	2.0 1.5 1.3 1.1 1.75 1.3 1.75 1.3 1.75 0.8	ŋkʰoŋkʰopʰar̝i	0	50
+240612	angoram-karau	1203_LONG	ˈgogoŋgo	ˈgogoŋgo	g o g o ŋ g o		abbott1985	21755	1 7 1 7 4 1 7	AXBYMBZ	KUKUNKU	3	3.K.C 3.U.V 3.K.C 3.U.V 3.N.c 3.K.C 3.U.V	2.0 1.5 1.75 1.3 1.1 1.75 0.8	gogoŋgo	0	45
+240709	angoram-wagamut	1203_LONG	ˈgogoŋ	ˈgogoŋ	g o g o ŋ		abbott1985	21755	1 7 1 7 4	AXBYN	KUKUN	6	6.K.C 6.U.V 6.K.C 6.U.V 6.N.c	2.0 1.5 1.75 1.3 0.8	gogoŋ	0	45
+240958	angoram-kanduanum	1203_LONG	kʰongřantʰəkən	kʰongřantʰəkən	kʰ o n g r̝ a n tʰ ə k ə n		abbott1985	21755	1 7 4 1 5 7 4 1 7 1 7 4	AXMBCYMBYBYN	KUNKRANTEKEN	2	2.K.C 2.U.V 2.N.c 2.K.C 2.R.C 2.A.V 2.N.c 2.T.C 2.E.V 2.K.C 2.E.V 2.N.c	2.0 1.5 1.1 1.75 1.5 1.3 1.1 1.75 1.3 1.75 1.3 0.8	kʰongr̝antʰəkən	0	44
+240800	angoram-marbuk	1203_LONG	ˈkʰoŋkʰořonokʰən	ˈkʰoŋkʰořonokʰən	kʰ o ŋ kʰ o r̝ o n o kʰ ə n		abbott1985	21755	1 7 4 1 7 5 7 4 7 1 7 4	AXMBYBYBYBYN	KUNKURUNUKEN	5	5.K.C 5.U.V 5.N.c 5.K.C 5.U.V 5.R.C 5.U.V 5.N.C 5.U.V 5.K.C 5.E.V 5.N.c	2.0 1.5 1.1 1.75 1.3 1.75 1.3 1.75 1.3 1.75 1.3 0.8	kʰoŋkʰor̝onokʰən	0	44
+240292	angoram-kambrindo	1203_LONG	ˈkʰaisekʰakʰan	ˈkʰaisekʰakʰan	kʰ a i s e kʰ a kʰ a n		abbott1985	21753	1 7 7 3 7 1 7 1 7 4	AXYBYBYBYN	KAISEKAKAN	1	1.K.C 1.A.V 1.I.V 1.S.C 1.E.V 1.K.C 1.A.V 1.K.C 1.A.V 1.N.c	2.0 1.5 1.3 1.75 1.3 1.75 1.3 1.75 1.3 0.8	kʰaisekʰakʰan	0	43
+240402	ap-ma-kambaramba	1203_LONG	ˈlolkʰonətʰ	ˈlolkʰonətʰ	l o l kʰ o n ə tʰ		abbott1985	21754	5 7 5 1 7 4 7 1	AXMBYBYN	LULKUNET	7	7.L.C 7.U.V 7.L.c 7.K.C 7.U.V 7.N.C 7.E.V 7.T.c	2.0 1.5 1.1 1.75 1.3 1.75 1.3 0.8	lolkʰonətʰ	0	48
+#
+239212	tok-pisin	1204_BARK	skin diwai	skin_diwai	s k i n + d i w a i	bark	abbott1985	79	3 1 7 4 9 1 7 6 7 7	ACYN_AXBYZ	SKIN_TIWAI	10	10.S.C 10.K.C 10.I.V 10.N.c 10._._ 10.T.C 10.I.V 10.W.C 10.A.V 10.I.V	2.0 1.5 1.3 0.8 0.0 2.0 1.5 1.75 1.3 0.8	skin+diwai	0	56
+240501	kopar-singarin	1204_BARK	ˈɛřor̃ˈřokʰompʰ	ˈɛřor̃ˈřokʰompʰ	ɛ r̝ o r̃ r̝ o kʰ o m pʰ		abbott1985	21892	7 5 7 5 5 7 1 7 4 1	XBYMBYBYLN	ERURRUKUMP	9	9.E.V 9.R.C 9.U.V 9.R.c 9.R.C 9.U.V 9.K.C 9.U.V 9.M.c 9.P.c	1.5 1.75 1.3 1.1 1.75 1.3 1.75 1.3 1.1 0.8	ɛr̝or̃r̝okʰompʰ	0	55
+240606	angoram-karau	1204_BARK	ˈɩmbəřan	ˈɩmbəřan	ɪ m b ə r̝ a n		abbott1985	21893	7 4 1 7 5 7 4	XMBYBYN	IMPERAN	3	3.I.V 3.M.c 3.P.C 3.E.V 3.R.C 3.A.V 3.N.c	1.5 1.1 1.75 1.3 1.75 1.3 0.8	ɪmbər̝an	0	52
+240703	angoram-wagamut	1204_BARK	ˈɩmbařan	ˈɩmbařan	ɪ m b a r̝ a n		abbott1985	21893	7 4 1 7 5 7 4	XMBYBYN	IMPARAN	6	6.I.V 6.M.c 6.P.C 6.A.V 6.R.C 6.A.V 6.N.c	1.5 1.1 1.75 1.3 1.75 1.3 0.8	ɪmbar̝an	0	52
+240396	ap-ma-kambaramba	1204_BARK	ˈmoəŋ	ˈmoəŋ	m o ə ŋ		abbott1985	21891	4 7 7 4	AXYN	MUEN	7	7.M.C 7.U.V 7.E.V 7.N.c	2.0 1.5 1.3 0.8	moəŋ	0	54
+#
+239157	tok-pisin	1205_TONGUE	tang	tang	t a n g	tongue	abbott1985	24	1 7 4 1	AXLN	TANK	10	10.T.C 10.A.V 10.N.c 10.K.c	2.0 1.5 1.1 0.8	tang	0	66
+240139	chambri-kilimbit	1205_TONGUE	tʊbalaˈnʊŋkʰ	tʊbalaˈnʊŋkʰ	t ʊ b a l a n ʊ ŋ kʰ		abbott1985	21850	1 7 1 7 5 7 4 7 4 1	AXBYBYBYLN	TYPALANYNK	8	8.T.C 8.Y.V 8.P.C 8.A.V 8.L.C 8.A.V 8.N.C 8.Y.V 8.N.c 8.K.c	2.0 1.5 1.75 1.3 1.75 1.3 1.75 1.3 1.1 0.8	tʊbalanʊŋkʰ	0	64
+240450	kopar-singarin	1205_TONGUE	ˈmbəneŋ	ˈmbəneŋ	m b ə n e ŋ		abbott1985	21851	4 1 7 4 7 4	ACYBYN	MPENEN	9	9.M.C 9.P.C 9.E.V 9.N.C 9.E.V 9.N.c	2.0 1.5 1.3 1.75 1.3 0.8	mbəneŋ	0	59
+240554	angoram-karau	1205_TONGUE	ˈmbɛneŋ	ˈmbɛneŋ	m b ɛ n e ŋ		abbott1985	21851	4 1 7 4 7 4	ACYBYN	MPENEN	3	3.M.C 3.P.C 3.E.V 3.N.C 3.E.V 3.N.c	2.0 1.5 1.3 1.75 1.3 0.8	mbɛneŋ	0	59
+240658	angoram-wagamut	1205_TONGUE	ˈmbɩneŋ	ˈmbɩneŋ	m b ɪ n e ŋ		abbott1985	21851	4 1 7 4 7 4	ACYBYN	MPINEN	6	6.M.C 6.P.C 6.I.V 6.N.C 6.E.V 6.N.c	2.0 1.5 1.3 1.75 1.3 0.8	mbɪneŋ	0	59
+240908	angoram-kanduanum	1205_TONGUE	ˈmənəŋ	ˈmənəŋ	m ə n ə ŋ		abbott1985	21851	4 7 4 7 4	AXBYN	MENEN	2	2.M.C 2.E.V 2.N.C 2.E.V 2.N.c	2.0 1.5 1.75 1.3 0.8	mənəŋ	0	57
+240833	angoram-magendo	1205_TONGUE	ˈmənəŋ	ˈmənəŋ	m ə n ə ŋ		abbott1985	21851	4 7 4 7 4	AXBYN	MENEN	4	4.M.C 4.E.V 4.N.C 4.E.V 4.N.c	2.0 1.5 1.75 1.3 0.8	mənəŋ	0	57
+240748	angoram-marbuk	1205_TONGUE	ˈmənəŋ	ˈmənəŋ	m ə n ə ŋ		abbott1985	21851	4 7 4 7 4	AXBYN	MENEN	5	5.M.C 5.E.V 5.N.C 5.E.V 5.N.c	2.0 1.5 1.75 1.3 0.8	mənəŋ	0	57
+240234	angoram-kambrindo	1205_TONGUE	ˈmənəŋ	ˈmənəŋ	m ə n ə ŋ		abbott1985	21851	4 7 4 7 4	AXBYN	MENEN	1	1.M.C 1.E.V 1.N.C 1.E.V 1.N.c	2.0 1.5 1.75 1.3 0.8	mənəŋ	0	57
+240346	ap-ma-kambaramba	1205_TONGUE	ˈmɛnyo	ˈmɛnyo	m ɛ n j o		abbott1985	21852	4 7 4 6 7	AXBCZ	MENJU	7	7.M.C 7.E.V 7.N.C 7.J.C 7.U.V	2.0 1.5 1.75 1.5 0.8	mɛnjo	0	57
+#
+239242	tok-pisin	1209_I	mi	mi	m i	I	abbott1985	109	4 7	AX	MI	10	10.M.C 10.I.V	2.0 1.5	mi	0	68
+240197	chambri-kilimbit	1209_I	ˈami	ˈami	a m i		abbott1985	21853	7 4 7	XBZ	AMI	8	8.A.V 8.M.C 8.I.V	1.5 1.75 0.8	ami	0	71
+240521	kopar-singarin	1209_I	ˈma	ˈma	m a		abbott1985	21853	4 7	AX	MA	9	9.M.C 9.A.V	2.0 1.5	ma	0	68
+240628	angoram-karau	1209_I	ˈma	ˈma	m a		abbott1985	21853	4 7	AX	MA	3	3.M.C 3.A.V	2.0 1.5	ma	0	68
+240716	angoram-wagamut	1209_I	ˈma	ˈma	m a		abbott1985	21853	4 7	AX	MA	6	6.M.C 6.A.V	2.0 1.5	ma	0	68
+240312	angoram-kambrindo	1209_I	ˈmitʰɛpʰe	ˈmitʰɛpʰe	m i tʰ ɛ pʰ e		abbott1985	21854	4 7 1 7 1 7	AXBYBZ	MITEPE	1	1.M.C 1.I.V 1.T.C 1.E.V 1.P.C 1.E.V	2.0 1.5 1.75 1.3 1.75 0.8	mitʰɛpʰe	0	67
+240415	ap-ma-kambaramba	1209_I	ˈape	ˈape	a p e		abbott1985	21854	7 1 7	XBZ	APE	7	7.A.V 7.P.C 7.E.V	1.5 1.75 0.8	ape	1	70
+#
+239220	tok-pisin	1210_HEAVY	hevi	hevi	h e v i	heavy	abbott1985	87	3 7 3 7	AXBZ	HEBI	10	10.H.C 10.E.V 10.B.C 10.I.V	2.0 1.5 1.75 0.8	hevi	0	73
+240189	chambri-kilimbit	1210_HEAVY	wopiˈtarəŋ	wopiˈtarəŋ	w o p i t a r ə ŋ		abbott1985	21925	6 7 1 7 1 7 5 7 4	AXBYBYBYN	WUPITAREN	8	8.W.C 8.U.V 8.P.C 8.I.V 8.T.C 8.A.V 8.R.C 8.E.V 8.N.c	2.0 1.5 1.75 1.3 1.75 1.3 1.75 1.3 0.8	wopitarəŋ	0	78
+240509	kopar-singarin	1210_HEAVY	ˈpatəntʰükʰ	ˈpatəntʰükʰ	p a t ə n tʰ ü/u kʰ		abbott1985	21928	1 7 1 7 4 1 7 1	AXBYMBYN	PATENTYK	9	9.P.C 9.A.V 9.T.C 9.E.V 9.N.c 9.T.C 9.Y.V 9.K.c	2.0 1.5 1.75 1.3 1.1 1.75 1.3 0.8	patəntʰü/ukʰ	0	79
+240614	angoram-karau	1210_HEAVY	ˈdipʰatʰo	ˈdipʰatʰo	d i pʰ a tʰ o		abbott1985	21929	1 7 1 7 1 7	AXBYBZ	TIPATU	3	3.T.C 3.I.V 3.P.C 3.A.V 3.T.C 3.U.V	2.0 1.5 1.75 1.3 1.75 0.8	dipʰatʰo	0	74
+240711	angoram-wagamut	1210_HEAVY	ˈdipʰatʰo	ˈdipʰatʰo	d i pʰ a tʰ o		abbott1985	21929	1 7 1 7 1 7	AXBYBZ	TIPATU	6	6.T.C 6.I.V 6.P.C 6.A.V 6.T.C 6.U.V	2.0 1.5 1.75 1.3 1.75 0.8	dipʰatʰo	0	74
+240960	angoram-kanduanum	1210_HEAVY	"ivikʰarakən	'ivikʰarakən	i v i kʰ a r a k ə n		abbott1985	21930	7 3 7 1 7 5 7 1 7 4	XBYBYBYBYN	IBIKARAKEN	2	2.I.V 2.B.C 2.I.V 2.K.C 2.A.V 2.R.C 2.A.V 2.K.C 2.E.V 2.N.c	1.5 1.75 1.3 1.75 1.3 1.75 1.3 1.75 1.3 0.8	ivikʰarakən	0	73
+240802	angoram-marbuk	1210_HEAVY	ibinatʰakʰən	ibinatʰakʰən	i b i n a tʰ a kʰ ə n		abbott1985	21930	7 1 7 4 7 1 7 1 7 4	XBYBYBYBYN	IPINATAKEN	5	5.I.V 5.P.C 5.I.V 5.N.C 5.A.V 5.T.C 5.A.V 5.K.C 5.E.V 5.N.c	1.5 1.75 1.3 1.75 1.3 1.75 1.3 1.75 1.3 0.8	ibinatʰakʰən	0	72
+240294	angoram-kambrindo	1210_HEAVY	ˈiəbɩnkʰand kʰře	ˈiəbɩnkʰand_kʰře	i ə b ɪ n kʰ a n d + kʰ r̝ e		abbott1985	21926	7 7 1 7 4 1 7 4 1 9 1 5 7	XYBYMBYLN_ACX	IEPINKANT_KRE	1	1.I.V 1.E.V 1.P.C 1.I.V 1.N.c 1.K.C 1.A.V 1.N.c 1.T.c 1._._ 1.K.C 1.R.C 1.E.V	1.5 1.3 1.75 1.3 1.1 1.75 1.3 1.1 0.8 0.0 2.0 1.5 1.5	iəbɪnkʰand+kʰr̝e	0	72
+240404	ap-ma-kambaramba	1210_HEAVY	ˈdənatʰ	ˈdənatʰ	d ə n a tʰ		abbott1985	21927	1 7 4 7 1	AXBYN	TENAT	7	7.T.C 7.E.V 7.N.C 7.A.V 7.T.c	2.0 1.5 1.75 1.3 0.8	dənatʰ	0	77
+#
+239227	tok-pisin	1214_THIS	dispela	dispela	d i s p e l a	this	abbott1985	94	1 7 3 1 7 5 7	AXMBYBZ	TISPELA	10	10.T.C 10.I.V 10.S.c 10.P.C 10.E.V 10.L.C 10.A.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	dispela	0	81
+240194	chambri-kilimbit	1214_THIS	makᵃˈle	makᵃˈle	m a k a l e		abbott1985	141	4 7 1 7 5 7	AXBYBZ	MAKALE	8	8.M.C 8.A.V 8.K.C 8.A.V 8.L.C 8.E.V	2.0 1.5 1.75 1.3 1.75 0.8	makale	0	80
+#
+239243	tok-pisin	1215_THOU	yu	yu	j u	thou	abbott1985	110	6 7	AX	JY	10	10.J.C 10.Y.V	2.0 1.5	ju	0	88
+240198	chambri-kilimbit	1215_THOU	nɨmi	nɨmi	n ɨ m i		abbott1985	21662	4 7 4 7	AXBZ	NIMI	8	8.N.C 8.I.V 8.M.C 8.I.V	2.0 1.5 1.75 0.8	nɨmi	0	86
+240522	kopar-singarin	1215_THOU	ˈmomi	ˈmomi	m o m i		abbott1985	21662	4 7 4 7	AXBZ	MUMI	9	9.M.C 9.U.V 9.M.C 9.I.V	2.0 1.5 1.75 0.8	momi	0	87
+240629	angoram-karau	1215_THOU	ˈmi	ˈmi	m i		abbott1985	21662	4 7	AX	MI	3	3.M.C 3.I.V	2.0 1.5	mi	0	83
+240717	angoram-wagamut	1215_THOU	ˈmi	ˈmi	m i		abbott1985	21662	4 7	AX	MI	6	6.M.C 6.I.V	2.0 1.5	mi	0	83
+240313	angoram-kambrindo	1215_THOU	ˈɛmetʰakʰəpe	ˈɛmetʰakʰəpe	ɛ m e tʰ a kʰ ə p e		abbott1985	21663	7 4 7 1 7 1 7 1 7	XBYBYBYBZ	EMETAKEPE	1	1.E.V 1.M.C 1.E.V 1.T.C 1.A.V 1.K.C 1.E.V 1.P.C 1.E.V	1.5 1.75 1.3 1.75 1.3 1.75 1.3 1.75 0.8	ɛmetʰakʰəpe	0	82
+240416	ap-ma-kambaramba	1215_THOU	ˈyoləŋga	ˈyoləŋga	j o l ə ŋ g a		abbott1985	21664	6 7 5 7 4 1 7	AXBYMBZ	JULENKA	7	7.J.C 7.U.V 7.L.C 7.E.V 7.N.c 7.K.C 7.A.V	2.0 1.5 1.75 1.3 1.1 1.75 0.8	joləŋga	0	85
+#
+239193	tok-pisin	1216_MOTHER	mama	mama	m a m a	mother	abbott1985	60	4 7 4 7	AXBZ	MAMA	10	10.M.C 10.A.V 10.M.C 10.A.V	2.0 1.5 1.75 0.8	mama	0	97
+240484	kopar-singarin	1216_MOTHER	ˈaia	ˈaia	a i a		abbott1985	21821	7 7 7	XYZ	AIA	9	9.A.V 9.I.V 9.A.V	1.5 1.3 0.8	aia	0	96
+240588	angoram-karau	1216_MOTHER	ˈŋain	ˈŋain	ŋ a i n		abbott1985	21822	4 7 7 4	AXYN	NAIN	3	3.N.C 3.A.V 3.I.V 3.N.c	2.0 1.5 1.3 0.8	ŋain	0	89
+240686	angoram-wagamut	1216_MOTHER	ˈŋiən	ˈŋiən	ŋ i ə n		abbott1985	21822	4 7 7 4	AXYN	NIEN	6	6.N.C 6.I.V 6.E.V 6.N.c	2.0 1.5 1.3 0.8	ŋiən	0	89
+240938	angoram-kanduanum	1216_MOTHER	ˈmaři	ˈmaři	m a r̝ i		abbott1985	21824	4 7 5 7	AXBZ	MARI	2	2.M.C 2.A.V 2.R.C 2.I.V	2.0 1.5 1.75 0.8	mar̝i	0	90
+240862	angoram-magendo	1216_MOTHER	ˈnəŋe	ˈnəŋe	n ə ŋ e		abbott1985	21819	4 7 4 7	AXBZ	NENE	4	4.N.C 4.E.V 4.N.C 4.E.V	2.0 1.5 1.75 0.8	nəŋe	0	89
+240778	angoram-marbuk	1216_MOTHER	ˈnama	ˈnama	n a m a		abbott1985	21823	4 7 4 7	AXBZ	NAMA	5	5.N.C 5.A.V 5.M.C 5.A.V	2.0 1.5 1.75 0.8	nama	0	93
+240269	angoram-kambrindo	1216_MOTHER	ˈnɩŋe	ˈnɩŋe	n ɪ ŋ e		abbott1985	21819	4 7 4 7	AXBZ	NINE	1	1.N.C 1.I.V 1.N.C 1.E.V	2.0 1.5 1.75 0.8	nɪŋe	0	89
+240381	ap-ma-kambaramba	1216_MOTHER	ˈniam	ˈniam	n i a m		abbott1985	21820	4 7 7 4	AXYN	NIAM	7	7.N.C 7.I.V 7.A.V 7.M.c	2.0 1.5 1.3 0.8	niam	0	93
+#
+239192	tok-pisin	1217_FATHER	papa	papa	p a p a	father	abbott1985	59	1 7 1 7	AXBZ	PAPA	10	10.P.C 10.A.V 10.P.C 10.A.V	2.0 1.5 1.75 0.8	papa	0	106
+240483	kopar-singarin	1217_FATHER	ˈatše	ˈatše	a ʈʂ e		abbott1985	21922	7 2 7	XBZ	ACE	9	9.A.V 9.C.C 9.E.V	1.5 1.75 0.8	aʈʂe	0	105
+240587	angoram-karau	1217_FATHER	ˈian	ˈian	i a n		abbott1985	21923	7 7 4	XYN	IAN	3	3.I.V 3.A.V 3.N.c	1.5 1.3 0.8	ian	0	98
+240685	angoram-wagamut	1217_FATHER	ˈian	ˈian	i a n		abbott1985	21923	7 7 4	XYN	IAN	6	6.I.V 6.A.V 6.N.c	1.5 1.3 0.8	ian	0	98
+240937	angoram-kanduanum	1217_FATHER	ˈano	ˈano	a n o		abbott1985	21920	7 4 7	XBZ	ANU	2	2.A.V 2.N.C 2.U.V	1.5 1.75 0.8	ano	0	98
+240861	angoram-magendo	1217_FATHER	ˈmam	ˈmam	m a m		abbott1985	21924	4 7 4	AXN	MAM	4	4.M.C 4.A.V 4.M.c	2.0 1.5 0.8	mam	0	101
+240777	angoram-marbuk	1217_FATHER	ˈmam	ˈmam	m a m		abbott1985	21924	4 7 4	AXN	MAM	5	5.M.C 5.A.V 5.M.c	2.0 1.5 0.8	mam	0	101
+240268	angoram-kambrindo	1217_FATHER	ˈano	ˈano	a n o		abbott1985	21920	7 4 7	XBZ	ANU	1	1.A.V 1.N.C 1.U.V	1.5 1.75 0.8	ano	0	98
+240380	ap-ma-kambaramba	1217_FATHER	ˈape	ˈape	a p e		abbott1985	21921	7 1 7	XBZ	APE	7	7.A.V 7.P.C 7.E.V	1.5 1.75 0.8	ape	0	104
+#
+239137	tok-pisin	1221_NOSE	nus	nus	n u s	nose	abbott1985	4	4 7 3	AXN	NYS	10	10.N.C 10.Y.V 10.S.c	2.0 1.5 0.8	nus	0	116
+240122	chambri-kilimbit	1221_NOSE	ˈwambʊšʊ	ˈwambʊšʊ	w a m b ʊ ʂ ʊ		abbott1985	21699	6 7 4 1 7 3 7	AXMBYBZ	WAMPYSY	8	8.W.C 8.A.V 8.M.c 8.P.C 8.Y.V 8.S.C 8.Y.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	wambʊʂʊ	0	114
+240428	kopar-singarin	1221_NOSE	ˈɩmpotʰ	ˈɩmpotʰ	ɪ m p o tʰ		abbott1985	21702	7 4 1 7 1	XMBYN	IMPUT	9	9.I.V 9.M.c 9.P.C 9.U.V 9.T.c	1.5 1.1 1.75 1.3 0.8	ɪmpotʰ	0	115
+240537	angoram-karau	1221_NOSE	ˈdaul(ř)	ˈdaul	d a u l		abbott1985	21703	1 7 7 5	AXYN	TAYL	3	3.T.C 3.A.V 3.Y.V 3.L.c	2.0 1.5 1.3 0.8	daul	0	109
+240644	angoram-wagamut	1221_NOSE	ˈdaul(ř)	ˈdaul	d a u l		abbott1985	21703	1 7 7 5	AXYN	TAYL	6	6.T.C 6.A.V 6.Y.V 6.L.c	2.0 1.5 1.3 0.8	daul	0	109
+240894	angoram-kanduanum	1221_NOSE	ˈnaŋim	ˈnaŋim	n a ŋ i m		abbott1985	21705	4 7 4 7 4	AXBYN	NANIM	2	2.N.C 2.A.V 2.N.C 2.I.V 2.M.c	2.0 1.5 1.75 1.3 0.8	naŋim	0	108
+240818	angoram-magendo	1221_NOSE	ˈmaisitʰ	ˈmaisitʰ	m a i s i tʰ		abbott1985	21700	4 7 7 3 7 1	AXYBYN	MAISIT	4	4.M.C 4.A.V 4.I.V 4.S.C 4.I.V 4.T.c	2.0 1.5 1.3 1.75 1.3 0.8	maisitʰ	0	107
+240732	angoram-marbuk	1221_NOSE	ˈmʊsʊkʰ	ˈmʊsʊkʰ	m ʊ s ʊ kʰ		abbott1985	21704	4 7 3 7 1	AXBYN	MYSYK	5	5.M.C 5.Y.V 5.S.C 5.Y.V 5.K.c	2.0 1.5 1.75 1.3 0.8	mʊsʊkʰ	0	107
+240213	angoram-kambrindo	1221_NOSE	ˈmaisitʰ	ˈmaisitʰ	m a i s i tʰ		abbott1985	21700	4 7 7 3 7 1	AXYBYN	MAISIT	1	1.M.C 1.A.V 1.I.V 1.S.C 1.I.V 1.T.c	2.0 1.5 1.3 1.75 1.3 0.8	maisitʰ	0	107
+240329	ap-ma-kambaramba	1221_NOSE	ˈpʰam	ˈpʰam	pʰ a m		abbott1985	21701	1 7 4	AXN	PAM	7	7.P.C 7.A.V 7.M.c	2.0 1.5 0.8	pʰam	0	113
+#
+239225	tok-pisin	1231_NEW	nupela	nupela	n u p e l a	new	abbott1985	92	4 7 1 7 5 7	AXBYBZ	NYPELA	10	10.N.C 10.Y.V 10.P.C 10.E.V 10.L.C 10.A.V	2.0 1.5 1.75 1.3 1.75 0.8	nupela	0	120
+240513	kopar-singarin	1231_NEW	ˈnənkʰümükʰ	ˈnənkʰümükʰ	n ə n kʰ ü/u m ü/u kʰ		abbott1985	169	4 7 4 1 7 4 7 1	AXMBYBYN	NENKYMYK	9	9.N.C 9.E.V 9.N.c 9.K.C 9.Y.V 9.M.C 9.Y.V 9.K.c	2.0 1.5 1.1 1.75 1.3 1.75 1.3 0.8	nənkʰü/umü/ukʰ	0	118
+240619	angoram-karau	1231_NEW	ˈnəŋgəmoŋgo	ˈnəŋgəmoŋgo	n ə ŋ g ə m o ŋ g o		abbott1985	198	4 7 4 1 7 4 7 4 1 7	AXMBYBYMBZ	NENKEMUNKU	3	3.N.C 3.E.V 3.N.c 3.K.C 3.E.V 3.M.C 3.U.V 3.N.c 3.K.C 3.U.V	2.0 1.5 1.1 1.75 1.3 1.75 1.3 1.1 1.75 0.8	nəŋgəmoŋgo	0	118
+240965	angoram-kanduanum	1231_NEW	ˈtʰəkʰasipařənə	ˈtʰəkʰasipařənə	tʰ ə kʰ a s i p a r̝ ə n ə		abbott1985	240	1 7 1 7 3 7 1 7 5 7 4 7	AXBYBYBYBYBZ	TEKASIPARENE	2	2.T.C 2.E.V 2.K.C 2.A.V 2.S.C 2.I.V 2.P.C 2.A.V 2.R.C 2.E.V 2.N.C 2.E.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 1.3 1.75 1.3 1.75 0.8	tʰəkʰasipar̝ənə	0	117
+#
+239213	tok-pisin	1233_NIGHT	nait	nait	n a i t	night	abbott1985	80	4 7 7 1	AXYN	NAIT	10	10.N.C 10.A.V 10.I.V 10.T.c	2.0 1.5 1.3 0.8	nait	0	130
+240182	chambri-kilimbit	1233_NIGHT	tʰaˈpʰampʰ	tʰaˈpʰampʰ	tʰ a pʰ a m pʰ		abbott1985	21689	1 7 1 7 4 1	AXBYLN	TAPAMP	8	8.T.C 8.A.V 8.P.C 8.A.V 8.M.c 8.P.c	2.0 1.5 1.75 1.3 1.1 0.8	tʰapʰampʰ	0	128
+240502	kopar-singarin	1233_NIGHT	ˈřakʰaməntʰa	ˈřakʰaməntʰa	r̝ a kʰ a m ə n tʰ a		abbott1985	21692	5 7 1 7 4 7 4 1 7	AXBYBYMBZ	RAKAMENTA	9	9.R.C 9.A.V 9.K.C 9.A.V 9.M.C 9.E.V 9.N.c 9.T.C 9.A.V	2.0 1.5 1.75 1.3 1.75 1.3 1.1 1.75 0.8	r̝akʰaməntʰa	0	129
+240607	angoram-karau	1233_NIGHT	ˈaganən	ˈaganən	a g a n ə n		abbott1985	21693	7 1 7 4 7 4	XBYBYN	AKANEN	3	3.A.V 3.K.C 3.A.V 3.N.C 3.E.V 3.N.c	1.5 1.75 1.3 1.75 1.3 0.8	aganən	0	122
+240704	angoram-wagamut	1233_NIGHT	ˈaganʊn	ˈaganʊn	a g a n ʊ n		abbott1985	21693	7 1 7 4 7 4	XBYBYN	AKANYN	6	6.A.V 6.K.C 6.A.V 6.N.C 6.Y.V 6.N.c	1.5 1.75 1.3 1.75 1.3 0.8	aganʊn	0	122
+240953	angoram-kanduanum	1233_NIGHT	ˈigomʊn	ˈigomʊn	i g o m ʊ n		abbott1985	21690	7 1 7 4 7 4	XBYBYN	IKUMYN	2	2.I.V 2.K.C 2.U.V 2.M.C 2.Y.V 2.N.c	1.5 1.75 1.3 1.75 1.3 0.8	igomʊn	0	122
+240878	angoram-magendo	1233_NIGHT	ˈiʊkʰəmun	ˈiʊkʰəmun	i ʊ kʰ ə m u n		abbott1985	21690	7 7 1 7 4 7 4	XYBYBYN	IYKEMYN	4	4.I.V 4.Y.V 4.K.C 4.E.V 4.M.C 4.Y.V 4.N.c	1.5 1.3 1.75 1.3 1.75 1.3 0.8	iʊkʰəmun	0	122
+240795	angoram-marbuk	1233_NIGHT	ˈiukʰəmun	ˈiukʰəmun	i u kʰ ə m u n		abbott1985	21690	7 7 1 7 4 7 4	XYBYBYN	IYKEMYN	5	5.I.V 5.Y.V 5.K.C 5.E.V 5.M.C 5.Y.V 5.N.c	1.5 1.3 1.75 1.3 1.75 1.3 0.8	iukʰəmun	0	122
+240287	angoram-kambrindo	1233_NIGHT	ˈi kʰəmʊn	ˈi_kʰəmʊn	i + kʰ ə m ʊ n		abbott1985	21690	7 9 1 7 4 7 4	X_AXBYN	I_KEMYN	1	1.I.V 1._._ 1.K.C 1.E.V 1.M.C 1.Y.V 1.N.c	1.5 0.0 2.0 1.5 1.75 1.3 0.8	i+kʰəmʊn	0	121
+240397	ap-ma-kambaramba	1233_NIGHT	ˈbandan	ˈbandan	b a n d a n		abbott1985	21691	1 7 4 1 7 4	AXMBYN	PANTAN	7	7.P.C 7.A.V 7.N.c 7.T.C 7.A.V 7.N.c	2.0 1.5 1.1 1.75 1.3 0.8	bandan	0	127
+#
+239152	tok-pisin	1246_SMALL	liklik	liklik	l i k l i k	little	abbott1985	19	5 7 1 5 7 1	AXBCYN	LIKLIK	10	10.L.C 10.I.V 10.K.C 10.L.C 10.I.V 10.K.c	2.0 1.5 1.75 1.5 1.3 0.8	liklik	0	140
+240134	chambri-kilimbit	1246_SMALL	baˈpokʰo	baˈpokʰo	b a p o kʰ o		abbott1985	132	1 7 1 7 1 7	AXBYBZ	PAPUKU	8	8.P.C 8.A.V 8.P.C 8.U.V 8.K.C 8.U.V	2.0 1.5 1.75 1.3 1.75 0.8	bapokʰo	0	138
+240446	kopar-singarin	1246_SMALL	ˈmɛndɛkʰ	ˈmɛndɛkʰ	m ɛ n d ɛ kʰ		abbott1985	154	4 7 4 1 7 1	AXMBYN	MENTEK	9	9.M.C 9.E.V 9.N.c 9.T.C 9.E.V 9.K.c	2.0 1.5 1.1 1.75 1.3 0.8	mɛndɛkʰ	0	139
+240550	angoram-karau	1246_SMALL	ˈŋgaŋgan	ˈŋgaŋgan	ŋ g a ŋ g a n		abbott1985	181	4 1 7 4 1 7 4	ACYMBYN	NKANKAN	3	3.N.C 3.K.C 3.A.V 3.N.c 3.K.C 3.A.V 3.N.c	2.0 1.5 1.3 1.1 1.75 1.3 0.8	ŋgaŋgan	0	133
+240654	angoram-wagamut	1246_SMALL	ˈŋgaŋgan	ˈŋgaŋgan	ŋ g a ŋ g a n		abbott1985	208	4 1 7 4 1 7 4	ACYMBYN	NKANKAN	6	6.N.C 6.K.C 6.A.V 6.N.c 6.K.C 6.A.V 6.N.c	2.0 1.5 1.3 1.1 1.75 1.3 0.8	ŋgaŋgan	0	133
+240903	angoram-kanduanum	1246_SMALL	ˈkʰɩndžəmbagəm	ˈkʰɩndžəmbagəm	kʰ ɪ n dʒ ə m b a g ə m		abbott1985	223	1 7 4 1 7 4 1 7 1 7 4	AXMBYMBYBYN	KINTEMPAKEM	2	2.K.C 2.I.V 2.N.c 2.T.C 2.E.V 2.M.c 2.P.C 2.A.V 2.K.C 2.E.V 2.M.c	2.0 1.5 1.1 1.75 1.3 1.1 1.75 1.3 1.75 1.3 0.8	kʰɪndʒəmbagəm	0	132
+240828	angoram-magendo	1246_SMALL	ˈs+ematʰəkʰantʰəkʰən	ˈsematʰəkʰantʰəkʰən	s e m a tʰ ə kʰ a n tʰ ə kʰ ə n		abbott1985	246	3 7 4 7 1 7 1 7 4 1 7 1 7 4	AXBYBYBYMBYBYN	SEMATEKANTEKEN	4	4.S.C 4.E.V 4.M.C 4.A.V 4.T.C 4.E.V 4.K.C 4.A.V 4.N.c 4.T.C 4.E.V 4.K.C 4.E.V 4.N.c	2.0 1.5 1.75 1.3 1.75 1.3 1.75 1.3 1.1 1.75 1.3 1.75 1.3 0.8	sematʰəkʰantʰəkʰən	0	134
+240743	angoram-marbuk	1246_SMALL	ˈtʰamaratʰəkʰən	ˈtʰamaratʰəkʰən	tʰ a m a r a tʰ ə kʰ ə n		abbott1985	262	1 7 4 7 5 7 1 7 1 7 4	AXBYBYBYBYN	TAMARATEKEN	5	5.T.C 5.A.V 5.M.C 5.A.V 5.R.C 5.A.V 5.T.C 5.E.V 5.K.C 5.E.V 5.N.c	2.0 1.5 1.75 1.3 1.75 1.3 1.75 1.3 1.75 1.3 0.8	tʰamaratʰəkʰən	0	131
+240230	angoram-kambrindo	1246_SMALL	ˈtʰamatʰkʰandigre	ˈtʰamatʰkʰandigre	tʰ a m a tʰ kʰ a n d i g r e		abbott1985	285	1 7 4 7 1 1 7 4 1 7 1 5 7	AXBYMBYMBYBCZ	TAMATKANTIKRE	1	1.T.C 1.A.V 1.M.C 1.A.V 1.T.c 1.K.C 1.A.V 1.N.c 1.T.C 1.I.V 1.K.C 1.R.C 1.E.V	2.0 1.5 1.75 1.3 1.1 1.75 1.3 1.1 1.75 1.3 1.75 1.5 0.8	tʰamatʰkʰandigre	0	131
+240341	ap-ma-kambaramba	1246_SMALL	ˈkʰəřənəs	ˈkʰəřənəs	kʰ ə r̝ ə n ə s		abbott1985	323	1 7 5 7 4 7 3	AXBYBYN	KERENES	7	7.K.C 7.E.V 7.R.C 7.E.V 7.N.C 7.E.V 7.S.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	kʰər̝ənəs	0	137
+#
+239156	tok-pisin	1247_EAR	yau	yau	j a u	ear	abbott1985	23	6 7 7	AXZ	JAY	10	10.J.C 10.A.V 10.Y.V	2.0 1.5 0.8	jau	0	150
+240138	chambri-kilimbit	1247_EAR	Kʰeˈli	Kʰeˈli	kʰ e l i		abbott1985	21799	1 7 5 7	AXBZ	KELI	8	8.K.C 8.E.V 8.L.C 8.I.V	2.0 1.5 1.75 0.8	kʰeli	0	143
+240449	kopar-singarin	1247_EAR	ˈkʰotakʰɛř	ˈkʰotakʰɛř	kʰ o t a kʰ ɛ r̝		abbott1985	21802	1 7 1 7 1 7 5	AXBYBYN	KUTAKER	9	9.K.C 9.U.V 9.T.C 9.A.V 9.K.C 9.E.V 9.R.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	kʰotakʰɛr̝	0	149
+240553	angoram-karau	1247_EAR	ˈkʰarəkʰɛpʰ	ˈkʰarəkʰɛpʰ	kʰ a r ə kʰ ɛ pʰ		abbott1985	21802	1 7 5 7 1 7 1	AXBYBYN	KAREKEP	3	3.K.C 3.A.V 3.R.C 3.E.V 3.K.C 3.E.V 3.P.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	kʰarəkʰɛpʰ	0	143
+240657	angoram-wagamut	1247_EAR	ˈkʰalakʰɛpʰ	ˈkʰalakʰɛpʰ	kʰ a l a kʰ ɛ pʰ		abbott1985	21802	1 7 5 7 1 7 1	AXBYBYN	KALAKEP	6	6.K.C 6.A.V 6.L.C 6.A.V 6.K.C 6.E.V 6.P.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	kʰalakʰɛpʰ	0	143
+240907	angoram-kanduanum	1247_EAR	ˈkʰʊndʊm	ˈkʰʊndʊm	kʰ ʊ n d ʊ m		abbott1985	21804	1 7 4 1 7 4	AXMBYN	KYNTYM	2	2.K.C 2.Y.V 2.N.c 2.T.C 2.Y.V 2.M.c	2.0 1.5 1.1 1.75 1.3 0.8	kʰʊndʊm	0	142
+240832	angoram-magendo	1247_EAR	ˈkʰʊndʊm	ˈkʰʊndʊm	kʰ ʊ n d ʊ m		abbott1985	21803	1 7 4 1 7 4	AXMBYN	KYNTYM	4	4.K.C 4.Y.V 4.N.c 4.T.C 4.Y.V 4.M.c	2.0 1.5 1.1 1.75 1.3 0.8	kʰʊndʊm	0	142
+240747	angoram-marbuk	1247_EAR	ˈkʰʊndʊm	ˈkʰʊndʊm	kʰ ʊ n d ʊ m		abbott1985	21803	1 7 4 1 7 4	AXMBYN	KYNTYM	5	5.K.C 5.Y.V 5.N.c 5.T.C 5.Y.V 5.M.c	2.0 1.5 1.1 1.75 1.3 0.8	kʰʊndʊm	0	142
+240233	angoram-kambrindo	1247_EAR	ˈbɛm	ˈbɛm	b ɛ m		abbott1985	21800	1 7 4	AXN	PEM	1	1.P.C 1.E.V 1.M.c	2.0 1.5 0.8	bɛm	0	141
+240345	ap-ma-kambaramba	1247_EAR	ˈkʰombe	ˈkʰombe	kʰ o m b e		abbott1985	21801	1 7 4 1 7	AXMBZ	KUMPE	7	7.K.C 7.U.V 7.M.c 7.P.C 7.E.V	2.0 1.5 1.1 1.75 0.8	kʰombe	0	147
+#
+239138	tok-pisin	1248_EYE	ai	ai	a i	eye	abbott1985	5	7 7	XZ	AI	10	10.A.V 10.I.V	1.5 0.8	ai	0	160
+240123	chambri-kilimbit	1248_EYE	ˈbiaŋkʰ	ˈbiaŋkʰ	b i a ŋ kʰ		abbott1985	21872	1 7 7 4 1	AXYLN	PIANK	8	8.P.C 8.I.V 8.A.V 8.N.c 8.K.c	2.0 1.5 1.3 1.1 0.8	biaŋkʰ	0	158
+240124	chambri-kilimbit	1248_EYE	ˈtsɩtsɩŋkʰ	ˈtsɩtsɩŋkʰ	ts ɪ ts ɪ ŋ kʰ		abbott1985	21872	2 7 2 7 4 1	AXBYLN	CICINK	8	8.C.C 8.I.V 8.C.C 8.I.V 8.N.c 8.K.c	2.0 1.5 1.75 1.3 1.1 0.8	tsɪtsɪŋkʰ	0	161
+240429	kopar-singarin	1248_EYE	ˈnambrɩn	ˈnambrɩn	n a m b r ɪ n		abbott1985	21873	4 7 4 1 5 7 4	AXMBCYN	NAMPRIN	9	9.N.C 9.A.V 9.M.c 9.P.C 9.R.C 9.I.V 9.N.c	2.0 1.5 1.1 1.75 1.5 1.3 0.8	nambrɪn	0	159
+240538	angoram-karau	1248_EYE	ˈnabin	ˈnabin	n a b i n		abbott1985	21873	4 7 1 7 4	AXBYN	NAPIN	3	3.N.C 3.A.V 3.P.C 3.I.V 3.N.c	2.0 1.5 1.75 1.3 0.8	nabin	0	153
+240645	angoram-wagamut	1248_EYE	ˈnabin	ˈnabin	n a b i n		abbott1985	21873	4 7 1 7 4	AXBYN	NAPIN	6	6.N.C 6.A.V 6.P.C 6.I.V 6.N.c	2.0 1.5 1.75 1.3 0.8	nabin	0	153
+240895	angoram-kanduanum	1248_EYE	tʰambli	tʰambli	tʰ a m b l i		abbott1985	21873	1 7 4 1 5 7	AXMBCZ	TAMPLI	2	2.T.C 2.A.V 2.M.c 2.P.C 2.L.C 2.I.V	2.0 1.5 1.1 1.75 1.5 0.8	tʰambli	0	151
+240819	angoram-magendo	1248_EYE	tʰambři	tʰambři	tʰ a m b r̝ i		abbott1985	21873	1 7 4 1 5 7	AXMBCZ	TAMPRI	4	4.T.C 4.A.V 4.M.c 4.P.C 4.R.C 4.I.V	2.0 1.5 1.1 1.75 1.5 0.8	tʰambr̝i	0	151
+240733	angoram-marbuk	1248_EYE	ˈtʰamb̌ri	ˈtʰamb̌ri	tʰ a m b r i		abbott1985	21873	1 7 4 1 5 7	AXMBCZ	TAMPRI	5	5.T.C 5.A.V 5.M.c 5.P.C 5.R.C 5.I.V	2.0 1.5 1.1 1.75 1.5 0.8	tʰambri	0	151
+240214	angoram-kambrindo	1248_EYE	ˈtʰambli	ˈtʰambli	tʰ a m b l i		abbott1985	21873	1 7 4 1 5 7	AXMBCZ	TAMPLI	1	1.T.C 1.A.V 1.M.c 1.P.C 1.L.C 1.I.V	2.0 1.5 1.1 1.75 1.5 0.8	tʰambli	0	151
+240330	ap-ma-kambaramba	1248_EYE	ˈlambən	ˈlambən	l a m b ə n		abbott1985	21874	5 7 4 1 7 4	AXMBYN	LAMPEN	7	7.L.C 7.A.V 7.M.c 7.P.C 7.E.V 7.N.c	2.0 1.5 1.1 1.75 1.3 0.8	lambən	0	157
+#
+239207	tok-pisin	1252_HOUSE	haus	haus	h a u s	house	abbott1985	74	3 7 7 3	AXYN	HAYS	10	10.H.C 10.A.V 10.Y.V 10.S.c	2.0 1.5 1.3 0.8	haus	0	171
+240176	chambri-kilimbit	1252_HOUSE	ˈkʰʊřil	ˈkʰʊřil	kʰ ʊ r̝ i l		abbott1985	21647	1 7 5 7 5	AXBYN	KYRIL	8	8.K.C 8.Y.V 8.R.C 8.I.V 8.L.c	2.0 1.5 1.75 1.3 0.8	kʰʊr̝il	0	169
+240177	chambri-kilimbit	1252_HOUSE	ˈkʰʊlil	ˈkʰʊlil	kʰ ʊ l i l		abbott1985	21647	1 7 5 7 5	AXBYN	KYLIL	8	8.K.C 8.Y.V 8.L.C 8.I.V 8.L.c	2.0 1.5 1.75 1.3 0.8	kʰʊlil	0	169
+240497	kopar-singarin	1252_HOUSE	ˈyin	ˈyin	j i n		abbott1985	21650	6 7 4	AXN	JIN	9	9.J.C 9.I.V 9.N.c	2.0 1.5 0.8	jin	0	170
+240602	angoram-karau	1252_HOUSE	ˈiřan	ˈiřan	i r̝ a n		abbott1985	21651	7 5 7 4	XBYN	IRAN	3	3.I.V 3.R.C 3.A.V 3.N.c	1.5 1.75 1.3 0.8	ir̝an	0	164
+240699	angoram-wagamut	1252_HOUSE	ˈiřan	ˈiřan	i r̝ a n		abbott1985	21651	7 5 7 4	XBYN	IRAN	6	6.I.V 6.R.C 6.A.V 6.N.c	1.5 1.75 1.3 0.8	ir̝an	0	164
+240949	angoram-kanduanum	1252_HOUSE	ˈnam	ˈnam	n a m		abbott1985	21648	4 7 4	AXN	NAM	2	2.N.C 2.A.V 2.M.c	2.0 1.5 0.8	nam	0	162
+240874	angoram-magendo	1252_HOUSE	ˈnam	ˈnam	n a m		abbott1985	21648	4 7 4	AXN	NAM	4	4.N.C 4.A.V 4.M.c	2.0 1.5 0.8	nam	0	162
+240790	angoram-marbuk	1252_HOUSE	ˈnam	ˈnam	n a m		abbott1985	21648	4 7 4	AXN	NAM	5	5.N.C 5.A.V 5.M.c	2.0 1.5 0.8	nam	0	162
+240283	angoram-kambrindo	1252_HOUSE	ˈnam	ˈnam	n a m		abbott1985	21648	4 7 4	AXN	NAM	1	1.N.C 1.A.V 1.M.c	2.0 1.5 0.8	nam	0	162
+240392	ap-ma-kambaramba	1252_HOUSE	ˈpandama	ˈpandama	p a n d a m a		abbott1985	21649	1 7 4 1 7 4 7	AXMBYBZ	PANTAMA	7	7.P.C 7.A.V 7.N.c 7.T.C 7.A.V 7.M.C 7.A.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	pandama	0	168
+#
+239135	tok-pisin	1256_HEAD	het	het	h e t	head	abbott1985	2	3 7 1	AXN	HET	10	10.H.C 10.E.V 10.T.c	2.0 1.5 0.8	het	0	181
+240120	chambri-kilimbit	1256_HEAD	kʰaˈr̃i	kʰaˈr̃i	kʰ a r̃ i		abbott1985	21791	1 7 5 7	AXBZ	KARI	8	8.K.C 8.A.V 8.R.C 8.I.V	2.0 1.5 1.75 0.8	kʰar̃i	0	172
+240426	kopar-singarin	1256_HEAD	ˈkʰǎřan	ˈkʰǎřan	kʰ ǎ/a r̝ a n		abbott1985	21791	1 7 5 7 4	AXBYN	KARAN	9	9.K.C 9.A.V 9.R.C 9.A.V 9.N.c	2.0 1.5 1.75 1.3 0.8	kʰǎ/ar̝an	0	172
+240535	angoram-karau	1256_HEAD	ˈkʰambətʰ atʰ	ˈkʰambətʰ_atʰ	kʰ a m b ə tʰ + a tʰ		abbott1985	21793	1 7 4 1 7 1 9 7 1	AXMBYN_XN	KAMPET_AT	3	3.K.C 3.A.V 3.M.c 3.P.C 3.E.V 3.T.c 3._._ 3.A.V 3.T.c	2.0 1.5 1.1 1.75 1.3 0.8 0.0 1.5 0.8	kʰambətʰ+atʰ	0	174
+240642	angoram-wagamut	1256_HEAD	ˈkʰambətʰatʰ	ˈkʰambətʰatʰ	kʰ a m b ə tʰ a tʰ		abbott1985	21793	1 7 4 1 7 1 7 1	AXMBYBYN	KAMPETAT	6	6.K.C 6.A.V 6.M.c 6.P.C 6.E.V 6.T.C 6.A.V 6.T.c	2.0 1.5 1.1 1.75 1.3 1.75 1.3 0.8	kʰambətʰatʰ	0	174
+240892	angoram-kanduanum	1256_HEAD	ˈkʰařauaŋ	ˈkʰařauaŋ	kʰ a r̝ a u a ŋ		abbott1985	21791	1 7 5 7 7 7 4	AXBYYYN	KARAYAN	2	2.K.C 2.A.V 2.R.C 2.A.V 2.Y.V 2.A.V 2.N.c	2.0 1.5 1.75 1.3 1.3 1.3 0.8	kʰar̝auaŋ	0	172
+240816	angoram-magendo	1256_HEAD	ˈkʰařauaŋ	ˈkʰařauaŋ	kʰ a r̝ a u a ŋ		abbott1985	21791	1 7 5 7 7 7 4	AXBYYYN	KARAYAN	4	4.K.C 4.A.V 4.R.C 4.A.V 4.Y.V 4.A.V 4.N.c	2.0 1.5 1.75 1.3 1.3 1.3 0.8	kʰar̝auaŋ	0	172
+240730	angoram-marbuk	1256_HEAD	ˈkʰařauaŋ	ˈkʰařauaŋ	kʰ a r̝ a u a ŋ		abbott1985	21791	1 7 5 7 7 7 4	AXBYYYN	KARAYAN	5	5.K.C 5.A.V 5.R.C 5.A.V 5.Y.V 5.A.V 5.N.c	2.0 1.5 1.75 1.3 1.3 1.3 0.8	kʰar̝auaŋ	0	172
+240211	angoram-kambrindo	1256_HEAD	ˈkʰar̃auaŋ	ˈkʰar̃auaŋ	kʰ a r̃ a u a ŋ		abbott1985	21791	1 7 5 7 7 7 4	AXBYYYN	KARAYAN	1	1.K.C 1.A.V 1.R.C 1.A.V 1.Y.V 1.A.V 1.N.c	2.0 1.5 1.75 1.3 1.3 1.3 0.8	kʰar̃auaŋ	0	172
+240327	ap-ma-kambaramba	1256_HEAD	tʰongam	tʰongam	tʰ o n g a m		abbott1985	21792	1 7 4 1 7 4	AXMBYN	TUNKAM	7	7.T.C 7.U.V 7.N.c 7.K.C 7.A.V 7.M.c	2.0 1.5 1.1 1.75 1.3 0.8	tʰongam	0	178
+#
+239186	tok-pisin	1257_WING	wing bilong pisin	wing_bilong_pisin	w i n g + b i l o n g + p i s i n	wing	abbott1985	53	6 7 4 1 9 1 7 5 7 4 1 9 1 7 3 7 4	AXLN_AXBYLN_AXBYN	WINK_PILUNK_PISIN	10	10.W.C 10.I.V 10.N.c 10.K.c 10._._ 10.P.C 10.I.V 10.L.C 10.U.V 10.N.c 10.K.c 10._._ 10.P.C 10.I.V 10.S.C 10.I.V 10.N.c	2.0 1.5 1.1 0.8 0.0 2.0 1.5 1.75 1.3 1.1 0.8 0.0 2.0 1.5 1.75 1.3 0.8	wing+bilong+pisin	0	186
+240164	chambri-kilimbit	1257_WING	ˈnɨmpu	ˈnɨmpu	n ɨ m p u		abbott1985	21941	4 7 4 1 7	AXMBZ	NIMPY	8	8.N.C 8.I.V 8.M.c 8.P.C 8.Y.V	2.0 1.5 1.1 1.75 0.8	nɨmpu	0	189
+240477	kopar-singarin	1257_WING	ˈlakʰon	ˈlakʰon	l a kʰ o n		abbott1985	21944	5 7 1 7 4	AXBYN	LAKUN	9	9.L.C 9.A.V 9.K.C 9.U.V 9.N.c	2.0 1.5 1.75 1.3 0.8	lakʰon	0	190
+240581	angoram-karau	1257_WING	ˈkʰokʰotʰapʰ	ˈkʰokʰotʰapʰ	kʰ o kʰ o tʰ a pʰ		abbott1985	21945	1 7 1 7 1 7 1	AXBYBYN	KUKUTAP	3	3.K.C 3.U.V 3.K.C 3.U.V 3.T.C 3.A.V 3.P.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	kʰokʰotʰapʰ	0	184
+240681	angoram-wagamut	1257_WING	ˈkʰokʰotʰapʰ	ˈkʰokʰotʰapʰ	kʰ o kʰ o tʰ a pʰ		abbott1985	21945	1 7 1 7 1 7 1	AXBYBYN	KUKUTAP	6	6.K.C 6.U.V 6.K.C 6.U.V 6.T.C 6.A.V 6.P.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	kʰokʰotʰapʰ	0	184
+240930	angoram-kanduanum	1257_WING	šʊsaˈk nue	šʊsaˈk_nue	ʂ ʊ s a k + n u e		abbott1985	21947	3 7 3 7 1 9 4 7 7	AXBYN_AXZ	SYSAK_NYE	2	2.S.C 2.Y.V 2.S.C 2.A.V 2.K.c 2._._ 2.N.C 2.Y.V 2.E.V	2.0 1.5 1.75 1.3 0.8 0.0 2.0 1.5 0.8	ʂʊsak+nue	0	183
+240855	angoram-magendo	1257_WING	ˈtʰənəmbřəgwe	ˈtʰənəmbřəgwe	tʰ ə n ə m b r̝ ə g w e		abbott1985	21942	1 7 4 7 4 1 5 7 1 6 7	AXBYMBCYBCZ	TENEMPREKWE	4	4.T.C 4.E.V 4.N.C 4.E.V 4.M.c 4.P.C 4.R.C 4.E.V 4.K.C 4.W.C 4.E.V	2.0 1.5 1.75 1.3 1.1 1.75 1.5 1.3 1.75 1.5 0.8	tʰənəmbr̝əgwe	0	185
+240770	angoram-marbuk	1257_WING	ˈwantʰəmboi	ˈwantʰəmboi	w a n tʰ ə m b o i		abbott1985	21946	6 7 4 1 7 4 1 7 7	AXMBYMBYZ	WANTEMPUI	5	5.W.C 5.A.V 5.N.c 5.T.C 5.E.V 5.M.c 5.P.C 5.U.V 5.I.V	2.0 1.5 1.1 1.75 1.3 1.1 1.75 1.3 0.8	wantʰəmboi	0	186
+240261	angoram-kambrindo	1257_WING	ˈtʰʊmbřakʰəno	ˈtʰʊmbřakʰəno	tʰ ʊ m b r̝ a kʰ ə n o		abbott1985	21942	1 7 4 1 5 7 1 7 4 7	AXMBCYBYBZ	TYMPRAKENU	1	1.T.C 1.Y.V 1.M.c 1.P.C 1.R.C 1.A.V 1.K.C 1.E.V 1.N.C 1.U.V	2.0 1.5 1.1 1.75 1.5 1.3 1.75 1.3 1.75 0.8	tʰʊmbr̝akʰəno	0	182
+240374	ap-ma-kambaramba	1257_WING	ˈpʰa	ˈpʰa	pʰ a		abbott1985	21943	1 7	AX	PA	7	7.P.C 7.A.V	2.0 1.5	pʰa	0	188
+#
+239228	tok-pisin	1268_YES	yes	yes	j e s	yes	abbott1985	95	6 7 3	AXN	JES	10	10.J.C 10.E.V 10.S.c	2.0 1.5 0.8	jes	0	197
+240195	chambri-kilimbit	1268_YES	ˈai	ˈai	a i		abbott1985	21615	7 7	XZ	AI	8	8.A.V 8.I.V	1.5 0.8	ai	0	192
+240514	kopar-singarin	1268_YES	ˈao	ˈao	a o		abbott1985	21618	7 7	XZ	AU	9	9.A.V 9.U.V	1.5 0.8	ao	0	192
+240621	angoram-karau	1268_YES	ˈao	ˈao	a o		abbott1985	21618	7 7	XZ	AU	3	3.A.V 3.U.V	1.5 0.8	ao	0	192
+240714	angoram-wagamut	1268_YES	ˈao	ˈao	a o		abbott1985	21618	7 7	XZ	AU	6	6.A.V 6.U.V	1.5 0.8	ao	0	192
+240299	angoram-kambrindo	1268_YES	ˈtʰakʰəpʰe	ˈtʰakʰəpʰe	tʰ a kʰ ə pʰ e		abbott1985	21616	1 7 1 7 1 7	AXBYBZ	TAKEPE	1	1.T.C 1.A.V 1.K.C 1.E.V 1.P.C 1.E.V	2.0 1.5 1.75 1.3 1.75 0.8	tʰakʰəpʰe	0	191
+240409	ap-ma-kambaramba	1268_YES	ˈna	ˈna	n a		abbott1985	21617	4 7	AX	NA	7	7.N.C 7.A.V	2.0 1.5	na	0	194
+#
+239229	tok-pisin	1269_NO	nogat	nogat	n o g a t	no	abbott1985	96	4 7 1 7 1	AXBYN	NUKAT	10	10.N.C 10.U.V 10.K.C 10.A.V 10.T.c	2.0 1.5 1.75 1.3 0.8	nogat	0	199
+240196	chambri-kilimbit	1269_NO	ˈtsɩkʰampʊŋ	ˈtsɩkʰampʊŋ	ts ɪ kʰ a m p ʊ ŋ		abbott1985	21710	2 7 1 7 4 1 7 4	AXBYMBYN	CIKAMPYN	8	8.C.C 8.I.V 8.K.C 8.A.V 8.M.c 8.P.C 8.Y.V 8.N.c	2.0 1.5 1.75 1.3 1.1 1.75 1.3 0.8	tsɪkʰampʊŋ	0	202
+240515	kopar-singarin	1269_NO	ˈakˈaiyə	ˈakˈaiyə	a k a i j ə		abbott1985	21713	7 1 7 7 6 7	XBYYBZ	AKAIJE	9	9.A.V 9.K.C 9.A.V 9.I.V 9.J.C 9.E.V	1.5 1.75 1.3 1.3 1.75 0.8	akaijə	0	203
+240622	angoram-karau	1269_NO	ˈŋgwɛnde	ˈŋgwɛnde	ŋ g w ɛ n d e		abbott1985	21714	4 1 6 7 4 1 7	ACCYMBZ	NKWENTE	3	3.N.C 3.K.C 3.W.C 3.E.V 3.N.c 3.T.C 3.E.V	2.0 1.5 1.5 1.3 1.1 1.75 0.8	ŋgwɛnde	0	199
+240715	angoram-wagamut	1269_NO	ˈŋgwɛnde	ˈŋgwɛnde	ŋ g w ɛ n d e		abbott1985	21714	4 1 6 7 4 1 7	ACCYMBZ	NKWENTE	6	6.N.C 6.K.C 6.W.C 6.E.V 6.N.c 6.T.C 6.E.V	2.0 1.5 1.5 1.3 1.1 1.75 0.8	ŋgwɛnde	0	199
+240300	angoram-kambrindo	1269_NO	ˈantʰakʰie	ˈantʰakʰie	a n tʰ a kʰ i e		abbott1985	21711	7 4 1 7 1 7 7	XMBYBYZ	ANTAKIE	1	1.A.V 1.N.c 1.T.C 1.A.V 1.K.C 1.I.V 1.E.V	1.5 1.1 1.75 1.3 1.75 1.3 0.8	antʰakʰie	0	198
+240410	ap-ma-kambaramba	1269_NO	ˈap	ˈap	a p		abbott1985	21712	7 1	XN	AP	7	7.A.V 7.P.c	1.5 0.8	ap	0	201
+#
+239238	tok-pisin	1280_FALL	em i pundaun	em_i_pundaun	e m + i + p u n d a u n	he falls down	abbott1985	105	7 4 9 7 9 1 7 4 1 7 7 4	XN_X_AXMBYYN	EM_I_PYNTAYN	10	10.E.V 10.M.c 10._._ 10.I.V 10._._ 10.P.C 10.Y.V 10.N.c 10.T.C 10.A.V 10.Y.V 10.N.c	1.5 0.8 0.0 1.5 0.0 2.0 1.5 1.1 1.75 1.3 1.3 0.8	em+i+pundaun	0	205
+240307	angoram-kambrindo	1280_FALL	namˈkʰolatʰřɩkʰa	namˈkʰolatʰřɩkʰa	n a m kʰ o l a tʰ r̝ ɪ kʰ a		abbott1985	309	4 7 4 1 7 5 7 1 5 7 1 7	AXMBYBYBCYBZ	NAMKULATRIKA	1	1.N.C 1.A.V 1.M.c 1.K.C 1.U.V 1.L.C 1.A.V 1.T.C 1.R.C 1.I.V 1.K.C 1.A.V	2.0 1.5 1.1 1.75 1.3 1.75 1.3 1.75 1.5 1.3 1.75 0.8	namkʰolatʰr̝ɪkʰa	0	204
+#
+239222	tok-pisin	1287_COLD	kol	kol	k o l	cold	abbott1985	89	1 7 5	AXN	KUL	10	10.K.C 10.U.V 10.L.c	2.0 1.5 0.8	kol	0	211
+240190	chambri-kilimbit	1287_COLD	saˈlʊkʰ	saˈlʊkʰ	s a l ʊ kʰ		abbott1985	138	3 7 5 7 1	AXBYN	SALYK	8	8.S.C 8.A.V 8.L.C 8.Y.V 8.K.c	2.0 1.5 1.75 1.3 0.8	salʊkʰ	0	210
+240511	kopar-singarin	1287_COLD	ˈtsɛřəpʰatʰin	ˈtsɛřəpʰatʰin	ts ɛ r̝ ə pʰ a tʰ i n		abbott1985	167	2 7 5 7 1 7 1 7 4	AXBYBYBYN	CEREPATIN	9	9.C.C 9.E.V 9.R.C 9.E.V 9.P.C 9.A.V 9.T.C 9.I.V 9.N.c	2.0 1.5 1.75 1.3 1.75 1.3 1.75 1.3 0.8	tsɛr̝əpʰatʰin	0	211
+240616	angoram-karau	1287_COLD	ˈnagunmwagowangasirn	ˈnagunmwagowangasirn	n a g u n m w a g o w a n g a s i r n		abbott1985	195	4 7 1 7 4 4 6 7 1 7 6 7 4 1 7 3 7 5 4	AXBYMBCYBYBYMBYBYLN	NAKYNMWAKUWANKASIRN	3	3.N.C 3.A.V 3.K.C 3.Y.V 3.N.c 3.M.C 3.W.C 3.A.V 3.K.C 3.U.V 3.W.C 3.A.V 3.N.c 3.K.C 3.A.V 3.S.C 3.I.V 3.R.c 3.N.c	2.0 1.5 1.75 1.3 1.1 1.75 1.5 1.3 1.75 1.3 1.75 1.3 1.1 1.75 1.3 1.75 1.3 1.1 0.8	nagunmwagowangasirn	0	208
+240962	angoram-kanduanum	1287_COLD	ˈpʰʊbontʰʊkʰ	ˈpʰʊbontʰʊkʰ	pʰ ʊ b o n tʰ ʊ kʰ		abbott1985	237	1 7 1 7 4 1 7 1	AXBYMBYN	PYPUNTYK	2	2.P.C 2.Y.V 2.P.C 2.U.V 2.N.c 2.T.C 2.Y.V 2.K.c	2.0 1.5 1.75 1.3 1.1 1.75 1.3 0.8	pʰʊbontʰʊkʰ	0	207
+240296	angoram-kambrindo	1287_COLD	ˈwakʰarkʰa	ˈwakʰarkʰa	w a kʰ a r kʰ a		abbott1985	301	6 7 1 7 5 1 7	AXBYMBZ	WAKARKA	1	1.W.C 1.A.V 1.K.C 1.A.V 1.R.c 1.K.C 1.A.V	2.0 1.5 1.75 1.3 1.1 1.75 0.8	wakʰarkʰa	0	206
+240406	ap-ma-kambaramba	1287_COLD	ˈkʰobo	ˈkʰobo	kʰ o b o		abbott1985	338	1 7 1 7	AXBZ	KUPU	7	7.K.C 7.U.V 7.P.C 7.U.V	2.0 1.5 1.75 0.8	kʰobo	0	209
+#
+239189	tok-pisin	1289_BABY	liklik pikinini	liklik_pikinini	l i k l i k + p i k i n i n i	baby	abbott1985	56	5 7 1 5 7 1 9 1 7 1 7 4 7 4 7	AXBCYN_AXBYBYBZ	LIKLIK_PIKININI	10	10.L.C 10.I.V 10.K.C 10.L.C 10.I.V 10.K.c 10._._ 10.P.C 10.I.V 10.K.C 10.I.V 10.N.C 10.I.V 10.N.C 10.I.V	2.0 1.5 1.75 1.5 1.3 0.8 0.0 2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	liklik+pikinini	0	221
+240167	chambri-kilimbit	1289_BABY	ˈlɩmenənkʰor̃əkʰonan	ˈlɩmenənkʰor̃əkʰonan	l ɪ m e n ə n kʰ o r̃ ə kʰ o n a n		abbott1985	21646	5 7 4 7 4 7 4 1 7 5 7 1 7 4 7 4	AXBYBYMBYBYBYBYN	LIMENENKUREKUNAN	8	8.L.C 8.I.V 8.M.C 8.E.V 8.N.C 8.E.V 8.N.c 8.K.C 8.U.V 8.R.C 8.E.V 8.K.C 8.U.V 8.N.C 8.A.V 8.N.c	2.0 1.5 1.75 1.3 1.75 1.3 1.1 1.75 1.3 1.75 1.3 1.75 1.3 1.75 1.3 0.8	lɪmenənkʰor̃əkʰonan	0	219
+240480	kopar-singarin	1289_BABY	ˈtsɛmentʰiŋkʰ	ˈtsɛmentʰiŋkʰ	ts ɛ m e n tʰ i ŋ kʰ		abbott1985	162	2 7 4 7 4 1 7 4 1	AXBYMBYLN	CEMENTINK	9	9.C.C 9.E.V 9.M.C 9.E.V 9.N.c 9.T.C 9.I.V 9.N.c 9.K.c	2.0 1.5 1.75 1.3 1.1 1.75 1.3 1.1 0.8	tsɛmentʰiŋkʰ	1	220
+240584	angoram-karau	1289_BABY	ˈgwan	ˈgwan	g w a n		abbott1985	189	1 6 7 4	ACXN	KWAN	3	3.K.C 3.W.C 3.A.V 3.N.c	2.0 1.5 1.5 0.8	gwan	0	214
+240682	angoram-wagamut	1289_BABY	ˈgwan	ˈgwan	g w a n		abbott1985	213	1 6 7 4	ACXN	KWAN	6	6.K.C 6.W.C 6.A.V 6.N.c	2.0 1.5 1.5 0.8	gwan	0	214
+240933	angoram-kanduanum	1289_BABY	ˈmamse	ˈmamse	m a m s e		abbott1985	231	4 7 4 3 7	AXMBZ	MAMSE	2	2.M.C 2.A.V 2.M.c 2.S.C 2.E.V	2.0 1.5 1.1 1.75 0.8	mamse	1	213
+240934	angoram-kanduanum	1289_BABY	ˈpʰise	ˈpʰise	pʰ i s e		abbott1985	232	1 7 3 7	AXBZ	PISE	2	2.P.C 2.I.V 2.S.C 2.E.V	2.0 1.5 1.75 0.8	pʰise	1	222
+240858	angoram-magendo	1289_BABY	ˈmantʰəkʰən	ˈmantʰəkʰən	m a n tʰ ə kʰ ə n		abbott1985	254	4 7 4 1 7 1 7 4	AXMBYBYN	MANTEKEN	4	4.M.C 4.A.V 4.N.c 4.T.C 4.E.V 4.K.C 4.E.V 4.N.c	2.0 1.5 1.1 1.75 1.3 1.75 1.3 0.8	mantʰəkʰən	1	215
+240773	angoram-marbuk	1289_BABY	ˈmantakʰən	ˈmantakʰən	m a n t a kʰ ə n		abbott1985	270	4 7 4 1 7 1 7 4	AXMBYBYN	MANTAKEN	5	5.M.C 5.A.V 5.N.c 5.T.C 5.A.V 5.K.C 5.E.V 5.N.c	2.0 1.5 1.1 1.75 1.3 1.75 1.3 0.8	mantakʰən	0	215
+240774	angoram-marbuk	1289_BABY	ˈtʰomatʰəkʰən	ˈtʰomatʰəkʰən	tʰ o m a tʰ ə kʰ ə n		abbott1985	271	1 7 4 7 1 7 1 7 4	AXBYBYBYN	TUMATEKEN	5	5.T.C 5.U.V 5.M.C 5.A.V 5.T.C 5.E.V 5.K.C 5.E.V 5.N.c	2.0 1.5 1.75 1.3 1.75 1.3 1.75 1.3 0.8	tʰomatʰəkʰən	0	212
+240264	angoram-kambrindo	1289_BABY	ˈtʰomatʰəkʰən	ˈtʰomatʰəkʰən	tʰ o m a tʰ ə kʰ ə n		abbott1985	293	1 7 4 7 1 7 1 7 4	AXBYBYBYN	TUMATEKEN	1	1.T.C 1.U.V 1.M.C 1.A.V 1.T.C 1.E.V 1.K.C 1.E.V 1.N.c	2.0 1.5 1.75 1.3 1.75 1.3 1.75 1.3 0.8	tʰomatʰəkʰən	0	212
+240377	ap-ma-kambaramba	1289_BABY	ˈbebuam	ˈbebuam	b e b u a m		abbott1985	332	1 7 1 7 7 4	AXBYYN	PEPYAM	7	7.P.C 7.E.V 7.P.C 7.Y.V 7.A.V 7.M.c	2.0 1.5 1.75 1.3 1.3 0.8	bebuam	0	218
+#
+239217	tok-pisin	1292_BAD	nogut	nogut	n o g u t	bad	abbott1985	84	4 7 1 7 1	AXBYN	NUKYT	10	10.N.C 10.U.V 10.K.C 10.Y.V 10.T.c	2.0 1.5 1.75 1.3 0.8	nogut	0	231
+240186	chambri-kilimbit	1292_BAD	ˈmədr̃əŋ	ˈmədr̃əŋ	m ə d r̃ ə ŋ		abbott1985	21811	4 7 1 5 7 4	AXBCYN	METREN	8	8.M.C 8.E.V 8.T.C 8.R.C 8.E.V 8.N.c	2.0 1.5 1.75 1.5 1.3 0.8	mədr̃əŋ	0	229
+240506	kopar-singarin	1292_BAD	ˈmakʰ	ˈmakʰ	m a kʰ		abbott1985	21812	4 7 1	AXN	MAK	9	9.M.C 9.A.V 9.K.c	2.0 1.5 0.8	makʰ	0	223
+240611	angoram-karau	1292_BAD	ˈmwao	ˈmwao	m w a o		abbott1985	21814	4 6 7 7	ACXZ	MWAU	3	3.M.C 3.W.C 3.A.V 3.U.V	2.0 1.5 1.5 0.8	mwao	0	224
+240708	angoram-wagamut	1292_BAD	ˈmwao	ˈmwao	m w a o		abbott1985	21814	4 6 7 7	ACXZ	MWAU	6	6.M.C 6.W.C 6.A.V 6.U.V	2.0 1.5 1.5 0.8	mwao	0	224
+240957	angoram-kanduanum	1292_BAD	ˈmwakʰən	ˈmwakʰən	m w a kʰ ə n		abbott1985	21815	4 6 7 1 7 4	ACXBYN	MWAKEN	2	2.M.C 2.W.C 2.A.V 2.K.C 2.E.V 2.N.c	2.0 1.5 1.5 1.75 1.3 0.8	mwakʰən	0	224
+240799	angoram-marbuk	1292_BAD	ˈmwakʰən	ˈmwakʰən	m w a kʰ ə n		abbott1985	21815	4 6 7 1 7 4	ACXBYN	MWAKEN	5	5.M.C 5.W.C 5.A.V 5.K.C 5.E.V 5.N.c	2.0 1.5 1.5 1.75 1.3 0.8	mwakʰən	0	224
+240291	angoram-kambrindo	1292_BAD	ˈmagře	ˈmagře	m a g r̝ e		abbott1985	21812	4 7 1 5 7	AXBCZ	MAKRE	1	1.M.C 1.A.V 1.K.C 1.R.C 1.E.V	2.0 1.5 1.75 1.5 0.8	magr̝e	0	223
+240401	ap-ma-kambaramba	1292_BAD	ˈdžʊe	ˈdžʊe	dʒ ʊ e		abbott1985	21813	1 7 7	AXZ	TYE	7	7.T.C 7.Y.V 7.E.V	2.0 1.5 0.8	dʒʊe	0	228
+#
+239215	tok-pisin	1329_TOMORROW	tumora	tumora	t u m o r a	tomorrow	abbott1985	82	1 7 4 7 5 7	AXBYBZ	TYMURA	10	10.T.C 10.Y.V 10.M.C 10.U.V 10.R.C 10.A.V	2.0 1.5 1.75 1.3 1.75 0.8	tumora	0	232
+240184	chambri-kilimbit	1329_TOMORROW	ˈkʰasɩpʰ	ˈkʰasɩpʰ	kʰ a s ɪ pʰ		abbott1985	21678	1 7 3 7 1	AXBYN	KASIP	8	8.K.C 8.A.V 8.S.C 8.I.V 8.P.c	2.0 1.5 1.75 1.3 0.8	kʰasɪpʰ	0	239
+240504	kopar-singarin	1329_TOMORROW	ˈnařən	ˈnařən	n a r̝ ə n		abbott1985	21680	4 7 5 7 4	AXBYN	NAREN	9	9.N.C 9.A.V 9.R.C 9.E.V 9.N.c	2.0 1.5 1.75 1.3 0.8	nar̝ən	1	237
+240609	angoram-karau	1329_TOMORROW	ˈařən	ˈařən	a r̝ ə n		abbott1985	21680	7 5 7 4	XBYN	AREN	3	3.A.V 3.R.C 3.E.V 3.N.c	1.5 1.75 1.3 0.8	ar̝ən	1	234
+240706	angoram-wagamut	1329_TOMORROW	ˈnařʊn	ˈnařʊn	n a r̝ ʊ n		abbott1985	21680	4 7 5 7 4	AXBYN	NARYN	6	6.N.C 6.A.V 6.R.C 6.Y.V 6.N.c	2.0 1.5 1.75 1.3 0.8	nar̝ʊn	1	237
+240955	angoram-kanduanum	1329_TOMORROW	tʰʊmbʊn	tʰʊmbʊn	tʰ ʊ m b ʊ n		abbott1985	21679	1 7 4 1 7 4	AXMBYN	TYMPYN	2	2.T.C 2.Y.V 2.M.c 2.P.C 2.Y.V 2.N.c	2.0 1.5 1.1 1.75 1.3 0.8	tʰʊmbʊn	0	232
+240880	angoram-magendo	1329_TOMORROW	tʰʊmbʊn	tʰʊmbʊn	tʰ ʊ m b ʊ n		abbott1985	21679	1 7 4 1 7 4	AXMBYN	TYMPYN	4	4.T.C 4.Y.V 4.M.c 4.P.C 4.Y.V 4.N.c	2.0 1.5 1.1 1.75 1.3 0.8	tʰʊmbʊn	0	232
+240797	angoram-marbuk	1329_TOMORROW	ˈtʰʊmbʊn	ˈtʰʊmbʊn	tʰ ʊ m b ʊ n		abbott1985	21679	1 7 4 1 7 4	AXMBYN	TYMPYN	5	5.T.C 5.Y.V 5.M.c 5.P.C 5.Y.V 5.N.c	2.0 1.5 1.1 1.75 1.3 0.8	tʰʊmbʊn	0	232
+240289	angoram-kambrindo	1329_TOMORROW	ˈtʰʊmbʊn	ˈtʰʊmbʊn	tʰ ʊ m b ʊ n		abbott1985	21679	1 7 4 1 7 4	AXMBYN	TYMPYN	1	1.T.C 1.Y.V 1.M.c 1.P.C 1.Y.V 1.N.c	2.0 1.5 1.1 1.75 1.3 0.8	tʰʊmbʊn	0	232
+240399	ap-ma-kambaramba	1329_TOMORROW	ˈbʊn	ˈbʊn	b ʊ n		abbott1985	21679	1 7 4	AXN	PYN	7	7.P.C 7.Y.V 7.N.c	2.0 1.5 0.8	bʊn	0	238
+#
+239172	tok-pisin	1336_EAT	em i kaikai saksak	em_i_kaikai_saksak	e m + i + k a i k a i + s a k s a k	he eats	abbott1985	39	7 4 9 7 9 1 7 7 1 7 7 9 3 7 1 3 7 1	XN_X_AXYBYZ_AXBCYN	EM_I_KAIKAI_SAKSAK	10	10.E.V 10.M.c 10._._ 10.I.V 10._._ 10.K.C 10.A.V 10.I.V 10.K.C 10.A.V 10.I.V 10._._ 10.S.C 10.A.V 10.K.C 10.S.C 10.A.V 10.K.c	1.5 0.8 0.0 1.5 0.0 2.0 1.5 1.3 1.75 1.3 0.8 0.0 2.0 1.5 1.75 1.5 1.3 0.8	em+i+kaikai+saksak	0	244
+240465	kopar-singarin	1336_EAT	bonˈmʊmbʊkoia	bonˈmʊmbʊkoia	b o n m ʊ m b ʊ k o i a		abbott1985	157	1 7 4 4 7 4 1 7 1 7 7 7	AXMBYMBYBYYZ	PUNMYMPYKUIA	9	9.P.C 9.U.V 9.N.c 9.M.C 9.Y.V 9.M.c 9.P.C 9.Y.V 9.K.C 9.U.V 9.I.V 9.A.V	2.0 1.5 1.1 1.75 1.3 1.1 1.75 1.3 1.75 1.3 1.3 0.8	bonmʊmbʊkoia	0	243
+240569	angoram-karau	1336_EAT	ˈməndřimaro	ˈməndřimaro	m ə n d r̝ i m a r o		abbott1985	184	4 7 4 1 5 7 4 7 5 7	AXMBCYBYBZ	MENTRIMARU	3	3.M.C 3.E.V 3.N.c 3.T.C 3.R.C 3.I.V 3.M.C 3.A.V 3.R.C 3.U.V	2.0 1.5 1.1 1.75 1.5 1.3 1.75 1.3 1.75 0.8	məndr̝imaro	0	241
+240249	angoram-kambrindo	1336_EAT	ˈmbwəwamga	ˈmbwəwamga	m b w ə w a m g a		abbott1985	288	4 1 6 7 6 7 4 1 7	ACCYBYMBZ	MPWEWAMKA	1	1.M.C 1.P.C 1.W.C 1.E.V 1.W.C 1.A.V 1.M.c 1.K.C 1.A.V	2.0 1.5 1.5 1.3 1.75 1.3 1.1 1.75 0.8	mbwəwamga	0	240
+240361	ap-ma-kambaramba	1336_EAT	ˈʊsɩndəma	ˈʊsɩndəma	ʊ s ɪ n d ə m a		abbott1985	326	7 3 7 4 1 7 4 7	XBYMBYBZ	YSINTEMA	7	7.Y.V 7.S.C 7.I.V 7.N.c 7.T.C 7.E.V 7.M.C 7.A.V	1.5 1.75 1.3 1.1 1.75 1.3 1.75 0.8	ʊsɪndəma	0	242
+240362	ap-ma-kambaramba	1336_EAT	vaŋdəma	vaŋdəma	v a ŋ d ə m a		abbott1985	327	3 7 4 1 7 4 7	AXMBYBZ	BANTEMA	7	7.B.C 7.A.V 7.N.c 7.T.C 7.E.V 7.M.C 7.A.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	vaŋdəma	0	245
+#
+239161	tok-pisin	1343_SUN	san	san	s a n	sun	abbott1985	28	3 7 4	AXN	SAN	10	10.S.C 10.A.V 10.N.c	2.0 1.5 0.8	san	0	253
+240143	chambri-kilimbit	1343_SUN	sɩnmaˈli	sɩnmaˈli	s ɪ n m a l i		abbott1985	21868	3 7 4 4 7 5 7	AXMBYBZ	SINMALI	8	8.S.C 8.I.V 8.N.c 8.M.C 8.A.V 8.L.C 8.I.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	sɪnmali	0	253
+240454	kopar-singarin	1343_SUN	ˈakʰʊn	ˈakʰʊn	a kʰ ʊ n		abbott1985	21871	7 1 7 4	XBYN	AKYN	9	9.A.V 9.K.C 9.Y.V 9.N.c	1.5 1.75 1.3 0.8	akʰʊn	0	248
+240558	angoram-karau	1343_SUN	ˈakʰʊn	ˈakʰʊn	a kʰ ʊ n		abbott1985	21871	7 1 7 4	XBYN	AKYN	3	3.A.V 3.K.C 3.Y.V 3.N.c	1.5 1.75 1.3 0.8	akʰʊn	0	248
+240662	angoram-wagamut	1343_SUN	ˈakʰʊn	ˈakʰʊn	a kʰ ʊ n		abbott1985	21871	7 1 7 4	XBYN	AKYN	6	6.A.V 6.K.C 6.Y.V 6.N.c	1.5 1.75 1.3 0.8	akʰʊn	0	248
+240912	angoram-kanduanum	1343_SUN	ˈmbwino	ˈmbwino	m b w i n o		abbott1985	21869	4 1 6 7 4 7	ACCYBZ	MPWINU	2	2.M.C 2.P.C 2.W.C 2.I.V 2.N.C 2.U.V	2.0 1.5 1.5 1.3 1.75 0.8	mbwino	0	246
+240837	angoram-magendo	1343_SUN	ˈmbwino	ˈmbwino	m b w i n o		abbott1985	21869	4 1 6 7 4 7	ACCYBZ	MPWINU	4	4.M.C 4.P.C 4.W.C 4.I.V 4.N.C 4.U.V	2.0 1.5 1.5 1.3 1.75 0.8	mbwino	0	246
+240752	angoram-marbuk	1343_SUN	ˈnʊmbi.o	ˈnʊmbi.o	n ʊ m b i + o		abbott1985	21869	4 7 4 1 7 9 7	AXMBZ_X	NYMPI_U	5	5.N.C 5.Y.V 5.M.c 5.P.C 5.I.V 5._._ 5.U.V	2.0 1.5 1.1 1.75 0.8 0.0 1.5	nʊmbi+o	0	250
+240238	angoram-kambrindo	1343_SUN	ˈmbwino	ˈmbwino	m b w i n o		abbott1985	21869	4 1 6 7 4 7	ACCYBZ	MPWINU	1	1.M.C 1.P.C 1.W.C 1.I.V 1.N.C 1.U.V	2.0 1.5 1.5 1.3 1.75 0.8	mbwino	0	246
+240350	ap-ma-kambaramba	1343_SUN	ˈaim	ˈaim	a i m		abbott1985	21870	7 7 4	XYN	AIM	7	7.A.V 7.I.V 7.M.c	1.5 1.3 0.8	aim	0	252
+#
+239205	tok-pisin	1352_KNIFE	naip	naip	n a i p	knife	abbott1985	72	4 7 7 1	AXYN	NAIP	10	10.N.C 10.A.V 10.I.V 10.P.c	2.0 1.5 1.3 0.8	naip	0	263
+240174	chambri-kilimbit	1352_KNIFE	ˈinampʰ	ˈinampʰ	i n a m pʰ		abbott1985	21694	7 4 7 4 1	XBYLN	INAMP	8	8.I.V 8.N.C 8.A.V 8.M.c 8.P.c	1.5 1.75 1.3 1.1 0.8	inampʰ	0	261
+240495	kopar-singarin	1352_KNIFE	ˈnankʰɛn	ˈnankʰɛn	n a n kʰ ɛ n		abbott1985	21696	4 7 4 1 7 4	AXMBYN	NANKEN	9	9.N.C 9.A.V 9.N.c 9.K.C 9.E.V 9.N.c	2.0 1.5 1.1 1.75 1.3 0.8	nankʰɛn	0	262
+240600	angoram-karau	1352_KNIFE	ˈbořin	ˈbořin	b o r̝ i n		abbott1985	21697	1 7 5 7 4	AXBYN	PURIN	3	3.P.C 3.U.V 3.R.C 3.I.V 3.N.c	2.0 1.5 1.75 1.3 0.8	bor̝in	1	256
+240697	angoram-wagamut	1352_KNIFE	ˈsəgitʰ	ˈsəgitʰ	s ə g i tʰ		abbott1985	21698	3 7 1 7 1	AXBYN	SEKIT	6	6.S.C 6.E.V 6.K.C 6.I.V 6.T.c	2.0 1.5 1.75 1.3 0.8	səgitʰ	0	259
+240947	angoram-kanduanum	1352_KNIFE	ˈsangɛřə	ˈsangɛřə	s a n g ɛ r̝ ə		abbott1985	21695	3 7 4 1 7 5 7	AXMBYBZ	SANKERE	2	2.S.C 2.A.V 2.N.c 2.K.C 2.E.V 2.R.C 2.E.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	sangɛr̝ə	0	255
+240872	angoram-magendo	1352_KNIFE	ˈtʰangɛřə	ˈtʰangɛřə	tʰ a n g ɛ r̝ ə		abbott1985	21695	1 7 4 1 7 5 7	AXMBYBZ	TANKERE	4	4.T.C 4.A.V 4.N.c 4.K.C 4.E.V 4.R.C 4.E.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	tʰangɛr̝ə	0	254
+240788	angoram-marbuk	1352_KNIFE	ˈtʰangɛřə	ˈtʰangɛřə	tʰ a n g ɛ r̝ ə		abbott1985	21695	1 7 4 1 7 5 7	AXMBYBZ	TANKERE	5	5.T.C 5.A.V 5.N.c 5.K.C 5.E.V 5.R.C 5.E.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	tʰangɛr̝ə	0	254
+240281	angoram-kambrindo	1352_KNIFE	tʰangɛřə	tʰangɛřə	tʰ a n g ɛ r̝ ə		abbott1985	21695	1 7 4 1 7 5 7	AXMBYBZ	TANKERE	1	1.T.C 1.A.V 1.N.c 1.K.C 1.E.V 1.R.C 1.E.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	tʰangɛr̝ə	0	254
+240389	ap-ma-kambaramba	1352_KNIFE	ˈtʰangɛřə	ˈtʰangɛřə	tʰ a n g ɛ r̝ ə		abbott1985	21695	1 7 4 1 7 5 7	AXMBYBZ	TANKERE	7	7.T.C 7.A.V 7.N.c 7.K.C 7.E.V 7.R.C 7.E.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	tʰangɛr̝ə	0	254
+#
+239241	tok-pisin	1355_LAUGH	em i lap	em_i_lap	e m + i + l a p	he laughs	abbott1985	108	7 4 9 7 9 5 7 1	XN_X_AXN	EM_I_LAP	10	10.E.V 10.M.c 10._._ 10.I.V 10._._ 10.L.C 10.A.V 10.P.c	1.5 0.8 0.0 1.5 0.0 2.0 1.5 0.8	em+i+lap	0	266
+240311	angoram-kambrindo	1355_LAUGH	ˈnanpitʰakʰa	ˈnanpitʰakʰa	n a n p i tʰ a kʰ a		abbott1985	313	4 7 4 1 7 1 7 1 7	AXMBYBYBZ	NANPITAKA	1	1.N.C 1.A.V 1.N.c 1.P.C 1.I.V 1.T.C 1.A.V 1.K.C 1.A.V	2.0 1.5 1.1 1.75 1.3 1.75 1.3 1.75 0.8	nanpitʰakʰa	0	264
+240414	ap-ma-kambaramba	1355_LAUGH	ˈaialtʰa	ˈaialtʰa	a i a l tʰ a		abbott1985	343	7 7 7 5 1 7	XYYMBZ	AIALTA	7	7.A.V 7.I.V 7.A.V 7.L.c 7.T.C 7.A.V	1.5 1.3 1.3 1.1 1.75 0.8	aialtʰa	0	265
+#
+239187	tok-pisin	1366_BOY	pikinini man	pikinini_man	p i k i n i n i + m a n	boy	abbott1985	54	1 7 1 7 4 7 4 7 9 4 7 4	AXBYBYBZ_AXN	PIKININI_MAN	10	10.P.C 10.I.V 10.K.C 10.I.V 10.N.C 10.I.V 10.N.C 10.I.V 10._._ 10.M.C 10.A.V 10.N.c	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8 0.0 2.0 1.5 0.8	pikinini+man	0	275
+240165	chambri-kilimbit	1366_BOY	ˈnor̃anankʰor̃əkʰan	ˈnor̃anankʰor̃əkʰan	n o r̃ a n a n kʰ o r̃ ə kʰ a n		abbott1985	21614	4 7 5 7 4 7 4 1 7 5 7 1 7 4	AXBYBYMBYBYBYN	NURANANKUREKAN	8	8.N.C 8.U.V 8.R.C 8.A.V 8.N.C 8.A.V 8.N.c 8.K.C 8.U.V 8.R.C 8.E.V 8.K.C 8.A.V 8.N.c	2.0 1.5 1.75 1.3 1.75 1.3 1.1 1.75 1.3 1.75 1.3 1.75 1.3 0.8	nor̃anankʰor̃əkʰan	0	273
+240478	kopar-singarin	1366_BOY	ˈtsɛmentʰiŋkʰ	ˈtsɛmentʰiŋkʰ	ts ɛ m e n tʰ i ŋ kʰ		abbott1985	160	2 7 4 7 4 1 7 4 1	AXBYMBYLN	CEMENTINK	9	9.C.C 9.E.V 9.M.C 9.E.V 9.N.c 9.T.C 9.I.V 9.N.c 9.K.c	2.0 1.5 1.75 1.3 1.1 1.75 1.3 1.1 0.8	tsɛmentʰiŋkʰ	0	274
+240582	angoram-karau	1366_BOY	ˈgwaŋgaŋgan	ˈgwaŋgaŋgan	g w a ŋ g a ŋ g a n		abbott1985	187	1 6 7 4 1 7 4 1 7 4	ACXMBYMBYN	KWANKANKAN	3	3.K.C 3.W.C 3.A.V 3.N.c 3.K.C 3.A.V 3.N.c 3.K.C 3.A.V 3.N.c	2.0 1.5 1.5 1.1 1.75 1.3 1.1 1.75 1.3 0.8	gwaŋgaŋgan	0	269
+240931	angoram-kanduanum	1366_BOY	ˈpʰise	ˈpʰise	pʰ i s e		abbott1985	229	1 7 3 7	AXBZ	PISE	2	2.P.C 2.I.V 2.S.C 2.E.V	2.0 1.5 1.75 0.8	pʰise	0	267
+240856	angoram-magendo	1366_BOY	ˈmantʰəkʰən	ˈmantʰəkʰən	m a n tʰ ə kʰ ə n		abbott1985	252	4 7 4 1 7 1 7 4	AXMBYBYN	MANTEKEN	4	4.M.C 4.A.V 4.N.c 4.T.C 4.E.V 4.K.C 4.E.V 4.N.c	2.0 1.5 1.1 1.75 1.3 1.75 1.3 0.8	mantʰəkʰən	0	270
+240771	angoram-marbuk	1366_BOY	ˈpʰořimantʰəkʰ	ˈpʰořimantʰəkʰ	pʰ o r̝ i m a n tʰ ə kʰ		abbott1985	268	1 7 5 7 4 7 4 1 7 1	AXBYBYMBYN	PURIMANTEK	5	5.P.C 5.U.V 5.R.C 5.I.V 5.M.C 5.A.V 5.N.c 5.T.C 5.E.V 5.K.c	2.0 1.5 1.75 1.3 1.75 1.3 1.1 1.75 1.3 0.8	pʰor̝imantʰəkʰ	0	271
+240262	angoram-kambrindo	1366_BOY	ˈpise	ˈpise	p i s e		abbott1985	291	1 7 3 7	AXBZ	PISE	1	1.P.C 1.I.V 1.S.C 1.E.V	2.0 1.5 1.75 0.8	pise	0	267
+240375	ap-ma-kambaramba	1366_BOY	ˈbembogo	ˈbembogo	b e m b o g o		abbott1985	330	1 7 4 1 7 1 7	AXMBYBZ	PEMPUKU	7	7.P.C 7.E.V 7.M.c 7.P.C 7.U.V 7.K.C 7.U.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	bembogo	0	272
+#
+239162	tok-pisin	1370_MONTH	mun	mun	m u n	month	abbott1985	29	4 7 4	AXN	MYN	10	10.M.C 10.Y.V 10.N.c	2.0 1.5 0.8	mun	0	285
+240144	chambri-kilimbit	1370_MONTH	ˈmwil	ˈmwil	m w i l		abbott1985	21726	4 6 7 5	ACXN	MWIL	8	8.M.C 8.W.C 8.I.V 8.L.c	2.0 1.5 1.5 0.8	mwil	0	283
+240455	kopar-singarin	1370_MONTH	ˈkʰarɛpʰ	ˈkʰarɛpʰ	kʰ a r ɛ pʰ		abbott1985	21729	1 7 5 7 1	AXBYN	KAREP	9	9.K.C 9.A.V 9.R.C 9.E.V 9.P.c	2.0 1.5 1.75 1.3 0.8	kʰarɛpʰ	0	278
+240559	angoram-karau	1370_MONTH	ˈkʰar̃ewan	ˈkʰar̃ewan	kʰ a r̃ e w a n		abbott1985	21729	1 7 5 7 6 7 4	AXBYBYN	KAREWAN	3	3.K.C 3.A.V 3.R.C 3.E.V 3.W.C 3.A.V 3.N.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	kʰar̃ewan	0	278
+240663	angoram-wagamut	1370_MONTH	ˈkʰalewan	ˈkʰalewan	kʰ a l e w a n		abbott1985	21729	1 7 5 7 6 7 4	AXBYBYN	KALEWAN	6	6.K.C 6.A.V 6.L.C 6.E.V 6.W.C 6.A.V 6.N.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	kʰalewan	0	278
+240913	angoram-kanduanum	1370_MONTH	ˈməle	ˈməle	m ə l e		abbott1985	21730	4 7 5 7	AXBZ	MELE	2	2.M.C 2.E.V 2.L.C 2.E.V	2.0 1.5 1.75 0.8	məle	0	277
+240838	angoram-magendo	1370_MONTH	ˈamʊgʊr̃	ˈamʊgʊr̃	a m ʊ g ʊ r̃		abbott1985	21727	7 4 7 1 7 5	XBYBYN	AMYKYR	4	4.A.V 4.M.C 4.Y.V 4.K.C 4.Y.V 4.R.c	1.5 1.75 1.3 1.75 1.3 0.8	amʊgʊr̃	0	276
+240753	angoram-marbuk	1370_MONTH	ˈkʰar̃ɛpʰ	ˈkʰar̃ɛpʰ	kʰ a r̃ ɛ pʰ		abbott1985	21729	1 7 5 7 1	AXBYN	KAREP	5	5.K.C 5.A.V 5.R.C 5.E.V 5.P.c	2.0 1.5 1.75 1.3 0.8	kʰar̃ɛpʰ	0	278
+240239	angoram-kambrindo	1370_MONTH	ˈambʊr̃	ˈambʊr̃	a m b ʊ r̃		abbott1985	21727	7 4 1 7 5	XMBYN	AMPYR	1	1.A.V 1.M.c 1.P.C 1.Y.V 1.R.c	1.5 1.1 1.75 1.3 0.8	ambʊr̃	0	276
+240351	ap-ma-kambaramba	1370_MONTH	ˈmambo	ˈmambo	m a m b o		abbott1985	21728	4 7 4 1 7	AXMBZ	MAMPU	7	7.M.C 7.A.V 7.M.c 7.P.C 7.U.V	2.0 1.5 1.1 1.75 0.8	mambo	0	282
+#
+239140	tok-pisin	1371_KNEE	skru bilong lek	skru_bilong_lek	s k r u + b i l o n g + l e k	knee	abbott1985	7	3 1 5 7 9 1 7 5 7 4 1 9 5 7 1	ACCZ_AXBYLN_AXN	SKRY_PILUNK_LEK	10	10.S.C 10.K.C 10.R.C 10.Y.V 10._._ 10.P.C 10.I.V 10.L.C 10.U.V 10.N.c 10.K.c 10._._ 10.L.C 10.E.V 10.K.c	2.0 1.5 1.5 0.8 0.0 2.0 1.5 1.75 1.3 1.1 0.8 0.0 2.0 1.5 0.8	skru+bilong+lek	0	295
+240126	chambri-kilimbit	1371_KNEE	ˈpr̃ampʰ	ˈpr̃ampʰ	p r̃ a m pʰ		abbott1985	129	1 5 7 4 1	ACXLN	PRAMP	8	8.P.C 8.R.C 8.A.V 8.M.c 8.P.c	2.0 1.5 1.5 1.1 0.8	pr̃ampʰ	0	293
+240431	kopar-singarin	1371_KNEE	ˈpəntɩkipʰ	ˈpəntɩkipʰ	p ə n t ɪ k i pʰ		abbott1985	145	1 7 4 1 7 1 7 1	AXMBYBYN	PENTIKIP	9	9.P.C 9.E.V 9.N.c 9.T.C 9.I.V 9.K.C 9.I.V 9.P.c	2.0 1.5 1.1 1.75 1.3 1.75 1.3 0.8	pəntɪkipʰ	0	294
+240540	angoram-karau	1371_KNEE	ˈnəmbig	ˈnəmbig	n ə m b i g		abbott1985	177	4 7 4 1 7 1	AXMBYN	NEMPIK	3	3.N.C 3.E.V 3.M.c 3.P.C 3.I.V 3.K.c	2.0 1.5 1.1 1.75 1.3 0.8	nəmbig	0	288
+240647	angoram-wagamut	1371_KNEE	ˈpatʰʊr̃	ˈpatʰʊr̃	p a tʰ ʊ r̃		abbott1985	205	1 7 1 7 5	AXBYN	PATYR	6	6.P.C 6.A.V 6.T.C 6.Y.V 6.R.c	2.0 1.5 1.75 1.3 0.8	patʰʊr̃	0	291
+240897	angoram-kanduanum	1371_KNEE	ˈlugue	ˈlugue	l u g u e		abbott1985	220	5 7 1 7 7	AXBYZ	LYKYE	2	2.L.C 2.Y.V 2.K.C 2.Y.V 2.E.V	2.0 1.5 1.75 1.3 0.8	lugue	0	287
+240821	angoram-magendo	1371_KNEE	ˈur̃ʊkʰe	ˈur̃ʊkʰe	u r̃ ʊ kʰ e		abbott1985	243	7 5 7 1 7	XBYBZ	YRYKE	4	4.Y.V 4.R.C 4.Y.V 4.K.C 4.E.V	1.5 1.75 1.3 1.75 0.8	ur̃ʊkʰe	0	286
+240735	angoram-marbuk	1371_KNEE	ˈr̃okʰai	ˈr̃okʰai	r̃ o kʰ a i		abbott1985	259	5 7 1 7 7	AXBYZ	RUKAI	5	5.R.C 5.U.V 5.K.C 5.A.V 5.I.V	2.0 1.5 1.75 1.3 0.8	r̃okʰai	0	287
+240216	angoram-kambrindo	1371_KNEE	ˈʊrʊkʰe	ˈʊrʊkʰe	ʊ r ʊ kʰ e		abbott1985	278	7 5 7 1 7	XBYBZ	YRYKE	1	1.Y.V 1.R.C 1.Y.V 1.K.C 1.E.V	1.5 1.75 1.3 1.75 0.8	ʊrʊkʰe	0	286
+240332	ap-ma-kambaramba	1371_KNEE	ˈambwənpwəndama	ˈambwənpwəndama	a m b w ə n p w ə n d a m a		abbott1985	318	7 4 1 6 7 4 1 6 7 4 1 7 4 7	XMBCYMBCYMBYBZ	AMPWENPWENTAMA	7	7.A.V 7.M.c 7.P.C 7.W.C 7.E.V 7.N.c 7.P.C 7.W.C 7.E.V 7.N.c 7.T.C 7.A.V 7.M.C 7.A.V	1.5 1.1 1.75 1.5 1.3 1.1 1.75 1.5 1.3 1.1 1.75 1.3 1.75 0.8	ambwənpwəndama	0	292
+#
+239158	tok-pisin	1380_TOOTH	tit	tit	t i t	tooth	abbott1985	25	1 7 1	AXN	TIT	10	10.T.C 10.I.V 10.T.c	2.0 1.5 0.8	tit	0	305
+240140	chambri-kilimbit	1380_TOOTH	ˈsəlankʰ	ˈsəlankʰ	s ə l a n kʰ		abbott1985	21887	3 7 5 7 4 1	AXBYLN	SELANK	8	8.S.C 8.E.V 8.L.C 8.A.V 8.N.c 8.K.c	2.0 1.5 1.75 1.3 1.1 0.8	səlankʰ	0	303
+240451	kopar-singarin	1380_TOOTH	ˈiasɩr̃apʰ	ˈiasɩr̃apʰ	i a s ɪ r̃ a pʰ		abbott1985	21890	7 7 3 7 5 7 1	XYBYBYN	IASIRAP	9	9.I.V 9.A.V 9.S.C 9.I.V 9.R.C 9.A.V 9.P.c	1.5 1.3 1.75 1.3 1.75 1.3 0.8	iasɪr̃apʰ	0	298
+240555	angoram-karau	1380_TOOTH	ˈiasɩr̃apʰ	ˈiasɩr̃apʰ	i a s ɪ r̃ a pʰ		abbott1985	21890	7 7 3 7 5 7 1	XYBYBYN	IASIRAP	3	3.I.V 3.A.V 3.S.C 3.I.V 3.R.C 3.A.V 3.P.c	1.5 1.3 1.75 1.3 1.75 1.3 0.8	iasɪr̃apʰ	0	298
+240659	angoram-wagamut	1380_TOOTH	ˈiasər̃apʰ	ˈiasər̃apʰ	i a s ə r̃ a pʰ		abbott1985	21890	7 7 3 7 5 7 1	XYBYBYN	IASERAP	6	6.I.V 6.A.V 6.S.C 6.E.V 6.R.C 6.A.V 6.P.c	1.5 1.3 1.75 1.3 1.75 1.3 0.8	iasər̃apʰ	0	298
+240909	angoram-kanduanum	1380_TOOTH	ˈsɩsiŋgr̃i	ˈsɩsiŋgr̃i	s ɪ s i ŋ g r̃ i		abbott1985	21888	3 7 3 7 4 1 5 7	AXBYMBCZ	SISINKRI	2	2.S.C 2.I.V 2.S.C 2.I.V 2.N.c 2.K.C 2.R.C 2.I.V	2.0 1.5 1.75 1.3 1.1 1.75 1.5 0.8	sɪsiŋgr̃i	0	296
+240834	angoram-magendo	1380_TOOTH	ˈsɩsiŋgr̃i	ˈsɩsiŋgr̃i	s ɪ s i ŋ g r̃ i		abbott1985	21888	3 7 3 7 4 1 5 7	AXBYMBCZ	SISINKRI	4	4.S.C 4.I.V 4.S.C 4.I.V 4.N.c 4.K.C 4.R.C 4.I.V	2.0 1.5 1.75 1.3 1.1 1.75 1.5 0.8	sɪsiŋgr̃i	0	296
+240749	angoram-marbuk	1380_TOOTH	ˈsʊsʊŋ	ˈsʊsʊŋ	s ʊ s ʊ ŋ		abbott1985	21888	3 7 3 7 4	AXBYN	SYSYN	5	5.S.C 5.Y.V 5.S.C 5.Y.V 5.N.c	2.0 1.5 1.75 1.3 0.8	sʊsʊŋ	0	296
+240235	angoram-kambrindo	1380_TOOTH	ˈsɩsiŋgli	ˈsɩsiŋgli	s ɪ s i ŋ g l i		abbott1985	21888	3 7 3 7 4 1 5 7	AXBYMBCZ	SISINKLI	1	1.S.C 1.I.V 1.S.C 1.I.V 1.N.c 1.K.C 1.L.C 1.I.V	2.0 1.5 1.75 1.3 1.1 1.75 1.5 0.8	sɪsiŋgli	0	296
+240347	ap-ma-kambaramba	1380_TOOTH	ˈvaiwa	ˈvaiwa	v a i w a		abbott1985	21889	3 7 7 6 7	AXYBZ	BAIWA	7	7.B.C 7.A.V 7.I.V 7.W.C 7.A.V	2.0 1.5 1.3 1.75 0.8	vaiwa	0	302
+#
+239175	tok-pisin	1392_LOUSE	laus	laus	l a u s	louse	abbott1985	42	5 7 7 3	AXYN	LAYS	10	10.L.C 10.A.V 10.Y.V 10.S.c	2.0 1.5 1.3 0.8	laus	0	310
+240468	kopar-singarin	1392_LOUSE	ˈmakʰəntʰə	ˈmakʰəntʰə	m a kʰ ə n tʰ ə		abbott1985	21683	4 7 1 7 4 1 7	AXBYMBZ	MAKENTE	9	9.M.C 9.A.V 9.K.C 9.E.V 9.N.c 9.T.C 9.E.V	2.0 1.5 1.75 1.3 1.1 1.75 0.8	makʰəntʰə	0	309
+240572	angoram-karau	1392_LOUSE	ˈnʊmbʊr̃	ˈnʊmbʊr̃	n ʊ m b ʊ r̃		abbott1985	21684	4 7 4 1 7 5	AXMBYN	NYMPYR	3	3.N.C 3.Y.V 3.M.c 3.P.C 3.Y.V 3.R.c	2.0 1.5 1.1 1.75 1.3 0.8	nʊmbʊr̃	0	307
+240252	angoram-kambrindo	1392_LOUSE	ˈwakʰarakʰa	ˈwakʰarakʰa	w a kʰ a r a kʰ a		abbott1985	21681	6 7 1 7 5 7 1 7	AXBYBYBZ	WAKARAKA	1	1.W.C 1.A.V 1.K.C 1.A.V 1.R.C 1.A.V 1.K.C 1.A.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	wakʰarakʰa	0	306
+240365	ap-ma-kambaramba	1392_LOUSE	ˈmabawaya	ˈmabawaya	m a b a w a j a		abbott1985	21682	4 7 1 7 6 7 6 7	AXBYBYBZ	MAPAWAJA	7	7.M.C 7.A.V 7.P.C 7.A.V 7.W.C 7.A.V 7.J.C 7.A.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	mabawaja	0	308
+#
+239183	tok-pisin	1394_BONE	bun	bun	b u n	bone	abbott1985	50	1 7 4	AXN	PYN	10	10.P.C 10.Y.V 10.N.c	2.0 1.5 0.8	bun	0	320
+240161	chambri-kilimbit	1394_BONE	ˈanampʰ	ˈanampʰ	a n a m pʰ		abbott1985	21831	7 4 7 4 1	XBYLN	ANAMP	8	8.A.V 8.N.C 8.A.V 8.M.c 8.P.c	1.5 1.75 1.3 1.1 0.8	anampʰ	0	318
+240475	kopar-singarin	1394_BONE	ˈtšařiŋkʰipʰ	ˈtšařiŋkʰipʰ	ʈʂ a r̝ i ŋ kʰ i pʰ		abbott1985	21833	2 7 5 7 4 1 7 1	AXBYMBYN	CARINKIP	9	9.C.C 9.A.V 9.R.C 9.I.V 9.N.c 9.K.C 9.I.V 9.P.c	2.0 1.5 1.75 1.3 1.1 1.75 1.3 0.8	ʈʂar̝iŋkʰipʰ	0	312
+240579	angoram-karau	1394_BONE	ˈsařigib	ˈsařigib	s a r̝ i g i b		abbott1985	21833	3 7 5 7 1 7 1	AXBYBYN	SARIKIP	3	3.S.C 3.A.V 3.R.C 3.I.V 3.K.C 3.I.V 3.P.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	sar̝igib	0	311
+240679	angoram-wagamut	1394_BONE	ˈsořigib	ˈsořigib	s o r̝ i g i b		abbott1985	21833	3 7 5 7 1 7 1	AXBYBYN	SURIKIP	6	6.S.C 6.U.V 6.R.C 6.I.V 6.K.C 6.I.V 6.P.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	sor̝igib	0	311
+240928	angoram-kanduanum	1394_BONE	ˈtšařiŋ	ˈtšařiŋ	ʈʂ a r̝ i ŋ		abbott1985	21831	2 7 5 7 4	AXBYN	CARIN	2	2.C.C 2.A.V 2.R.C 2.I.V 2.N.c	2.0 1.5 1.75 1.3 0.8	ʈʂar̝iŋ	0	312
+240853	angoram-magendo	1394_BONE	ˈtšařɩŋ	ˈtšařɩŋ	ʈʂ a r̝ ɪ ŋ		abbott1985	21831	2 7 5 7 4	AXBYN	CARIN	4	4.C.C 4.A.V 4.R.C 4.I.V 4.N.c	2.0 1.5 1.75 1.3 0.8	ʈʂar̝ɪŋ	0	312
+240768	angoram-marbuk	1394_BONE	ˈsařin	ˈsařin	s a r̝ i n		abbott1985	21831	3 7 5 7 4	AXBYN	SARIN	5	5.S.C 5.A.V 5.R.C 5.I.V 5.N.c	2.0 1.5 1.75 1.3 0.8	sar̝in	0	311
+240259	angoram-kambrindo	1394_BONE	ˈsařin	ˈsařin	s a r̝ i n		abbott1985	21831	3 7 5 7 4	AXBYN	SARIN	1	1.S.C 1.A.V 1.R.C 1.I.V 1.N.c	2.0 1.5 1.75 1.3 0.8	sar̝in	0	311
+240372	ap-ma-kambaramba	1394_BONE	ˈwamo	ˈwamo	w a m o		abbott1985	21832	6 7 4 7	AXBZ	WAMU	7	7.W.C 7.A.V 7.M.C 7.U.V	2.0 1.5 1.75 0.8	wamo	0	317
+#
+239233	tok-pisin	1401_DRINK	em i dring wara	em_i_dring_wara	e m + i + d r i n g + w a r a	he drinks	abbott1985	100	7 4 9 7 9 1 5 7 4 1 9 6 7 5 7	XN_X_ACXLN_AXBZ	EM_I_TRINK_WARA	10	10.E.V 10.M.c 10._._ 10.I.V 10._._ 10.T.C 10.R.C 10.I.V 10.N.c 10.K.c 10._._ 10.W.C 10.A.V 10.R.C 10.A.V	1.5 0.8 0.0 1.5 0.0 2.0 1.5 1.5 1.1 0.8 0.0 2.0 1.5 1.75 0.8	em+i+dring+wara	0	323
+240518	kopar-singarin	1401_DRINK	ˈařamʊmbükʰoyə	ˈařamʊmbükʰoyə	a r̝ a m ʊ m b ü/u kʰ o j ə		abbott1985	172	7 5 7 4 7 4 1 7 1 7 6 7	XBYBYMBYBYBZ	ARAMYMPYKUJE	9	9.A.V 9.R.C 9.A.V 9.M.C 9.Y.V 9.M.c 9.P.C 9.Y.V 9.K.C 9.U.V 9.J.C 9.E.V	1.5 1.75 1.3 1.75 1.3 1.1 1.75 1.3 1.75 1.3 1.75 0.8	ar̝amʊmbü/ukʰojə	0	321
+240302	angoram-kambrindo	1401_DRINK	ˈařəmwamkʰa	ˈařəmwamkʰa	a r̝ ə m w a m kʰ a		abbott1985	304	7 5 7 4 6 7 4 1 7	XBYBCYMBZ	AREMWAMKA	1	1.A.V 1.R.C 1.E.V 1.M.C 1.W.C 1.A.V 1.M.c 1.K.C 1.A.V	1.5 1.75 1.3 1.75 1.5 1.3 1.1 1.75 0.8	ar̝əmwamkʰa	0	321
+#
+239145	tok-pisin	1403_BITE	dok i kaikaim man	dok_i_kaikaim_man	d o k + i + k a i k a i m + m a n	he bites	abbott1985	12	1 7 1 9 7 9 1 7 7 1 7 7 4 9 4 7 4	AXN_X_AXYBYYN_AXN	TUK_I_KAIKAIM_MAN	10	10.T.C 10.U.V 10.K.c 10._._ 10.I.V 10._._ 10.K.C 10.A.V 10.I.V 10.K.C 10.A.V 10.I.V 10.M.c 10._._ 10.M.C 10.A.V 10.N.c	2.0 1.5 0.8 0.0 1.5 0.0 2.0 1.5 1.3 1.75 1.3 1.3 0.8 0.0 2.0 1.5 0.8	dok+i+kaikaim+man	0	327
+240435	kopar-singarin	1403_BITE	ˈorɛn	ˈorɛn	o r ɛ n		abbott1985	147	7 5 7 4	XBYN	UREN	9	9.U.V 9.R.C 9.E.V 9.N.c	1.5 1.75 1.3 0.8	orɛn	0	326
+240436	kopar-singarin	1403_BITE	ˈnor	ˈnor	n o r		abbott1985	148	4 7 5	AXN	NUR	9	9.N.C 9.U.V 9.R.c	2.0 1.5 0.8	nor	0	330
+240437	kopar-singarin	1403_BITE	ˈmbʊkʰaim	ˈmbʊkʰaim	m b ʊ kʰ a i m		abbott1985	149	4 1 7 1 7 7 4	ACYBYYN	MPYKAIM	9	9.M.C 9.P.C 9.Y.V 9.K.C 9.A.V 9.I.V 9.M.c	2.0 1.5 1.3 1.75 1.3 1.3 0.8	mbʊkʰaim	0	333
+240438	kopar-singarin	1403_BITE	ˈmatʰa	ˈmatʰa	m a tʰ a		abbott1985	150	4 7 1 7	AXBZ	MATA	9	9.M.C 9.A.V 9.T.C 9.A.V	2.0 1.5 1.75 0.8	matʰa	0	334
+240439	kopar-singarin	1403_BITE	ˈkʰoia	ˈkʰoia	kʰ o i a		abbott1985	151	1 7 7 7	AXYZ	KUIA	9	9.K.C 9.U.V 9.I.V 9.A.V	2.0 1.5 1.3 0.8	kʰoia	0	335
+240221	angoram-kambrindo	1403_BITE	ˈndanda	ˈndanda	n d a n d a		abbott1985	280	4 1 7 4 1 7	ACYMBZ	NTANTA	1	1.N.C 1.T.C 1.A.V 1.N.c 1.T.C 1.A.V	2.0 1.5 1.3 1.1 1.75 0.8	ndanda	1	324
+240222	angoram-kambrindo	1403_BITE	ˈpʰondo	ˈpʰondo	pʰ o n d o		abbott1985	281	1 7 4 1 7	AXMBZ	PUNTU	1	1.P.C 1.U.V 1.N.c 1.T.C 1.U.V	2.0 1.5 1.1 1.75 0.8	pʰondo	1	328
+240223	angoram-kambrindo	1403_BITE	ˈnandikʰa	ˈnandikʰa	n a n d i kʰ a		abbott1985	282	4 7 4 1 7 1 7	AXMBYBZ	NANTIKA	1	1.N.C 1.A.V 1.N.c 1.T.C 1.I.V 1.K.C 1.A.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	nandikʰa	0	331
+240337	ap-ma-kambaramba	1403_BITE	ˈvřəndəma	ˈvřəndəma	v r̝ ə n d ə m a		abbott1985	320	3 5 7 4 1 7 4 7	ACXMBYBZ	BRENTEMA	7	7.B.C 7.R.C 7.E.V 7.N.c 7.T.C 7.E.V 7.M.C 7.A.V	2.0 1.5 1.5 1.1 1.75 1.3 1.75 0.8	vr̝əndəma	0	325
+240338	ap-ma-kambaramba	1403_BITE	ˈwa	ˈwa	w a		abbott1985	321	6 7	AX	WA	7	7.W.C 7.A.V	2.0 1.5	wa	0	329
+240339	ap-ma-kambaramba	1403_BITE	ˈaiənyat	ˈaiənyat	a i ə n j a t		abbott1985	322	7 7 7 4 6 7 1	XYYBCYN	AIENJAT	7	7.A.V 7.I.V 7.E.V 7.N.C 7.J.C 7.A.V 7.T.c	1.5 1.3 1.3 1.75 1.5 1.3 0.8	aiənjat	0	332
+#
+239196	tok-pisin	1405_NAME	nem	nem	n e m	name	abbott1985	63	4 7 4	AXN	NEM	10	10.N.C 10.E.V 10.M.c	2.0 1.5 0.8	nem	0	339
+240591	angoram-karau	1405_NAME	ˈyautʰ	ˈyautʰ	j a u tʰ		abbott1985	193	6 7 7 1	AXYN	JAYT	3	3.J.C 3.A.V 3.Y.V 3.T.c	2.0 1.5 1.3 0.8	jautʰ	0	337
+240272	angoram-kambrindo	1405_NAME	ˈʊli	ˈʊli	ʊ l i		abbott1985	298	7 5 7	XBZ	YLI	1	1.Y.V 1.L.C 1.I.V	1.5 1.75 0.8	ʊli	0	336
+240273	angoram-kambrindo	1405_NAME	ˈʊři	ˈʊři	ʊ r̝ i		abbott1985	299	7 5 7	XBZ	YRI	1	1.Y.V 1.R.C 1.I.V	1.5 1.75 0.8	ʊr̝i	0	336
+240382	ap-ma-kambaramba	1405_NAME	ˈɩnduma	ˈɩnduma	ɪ n d u m a		abbott1985	335	7 4 1 7 4 7	XMBYBZ	INTYMA	7	7.I.V 7.N.c 7.T.C 7.Y.V 7.M.C 7.A.V	1.5 1.1 1.75 1.3 1.75 0.8	ɪnduma	0	338
+#
+239231	tok-pisin	1408_HEAR	em i harim	em_i_harim	e m + i + h a r i m	he hears	abbott1985	98	7 4 9 7 9 3 7 5 7 4	XN_X_AXBYN	EM_I_HARIM	10	10.E.V 10.M.c 10._._ 10.I.V 10._._ 10.H.C 10.A.V 10.R.C 10.I.V 10.M.c	1.5 0.8 0.0 1.5 0.0 2.0 1.5 1.75 1.3 0.8	em+i+harim	0	342
+240516	kopar-singarin	1408_HEAR	ˈmanantʰakʰoyə	ˈmanantʰakʰoyə	m a n a n tʰ a kʰ o j ə		abbott1985	170	4 7 4 7 4 1 7 1 7 6 7	AXBYMBYBYBZ	MANANTAKUJE	9	9.M.C 9.A.V 9.N.C 9.A.V 9.N.c 9.T.C 9.A.V 9.K.C 9.U.V 9.J.C 9.E.V	2.0 1.5 1.75 1.3 1.1 1.75 1.3 1.75 1.3 1.75 0.8	manantʰakʰojə	0	340
+240623	angoram-karau	1408_HEAR	ˈmanenuřawɩn	ˈmanenuřawɩn	m a n e n u r̝ a w ɪ n		abbott1985	199	4 7 4 7 4 7 5 7 6 7 4	AXBYBYBYBYN	MANENYRAWIN	3	3.M.C 3.A.V 3.N.C 3.E.V 3.N.C 3.Y.V 3.R.C 3.A.V 3.W.C 3.I.V 3.N.c	2.0 1.5 1.75 1.3 1.75 1.3 1.75 1.3 1.75 1.3 0.8	manenur̝awɪn	0	340
+#
+239173	tok-pisin	1409_SEE	em i lukim	em_i_lukim	e m + i + l u k i m	he sees	abbott1985	40	7 4 9 7 9 5 7 1 7 4	XN_X_AXBYN	EM_I_LYKIM	10	10.E.V 10.M.c 10._._ 10.I.V 10._._ 10.L.C 10.Y.V 10.K.C 10.I.V 10.M.c	1.5 0.8 0.0 1.5 0.0 2.0 1.5 1.75 1.3 0.8	em+i+lukim	0	347
+240466	kopar-singarin	1409_SEE	ˈmanasatakoia	ˈmanasatakoia	m a n a s a t a k o i a		abbott1985	21723	4 7 4 7 3 7 1 7 1 7 7 7	AXBYBYBYBYYZ	MANASATAKUIA	9	9.M.C 9.A.V 9.N.C 9.A.V 9.S.C 9.A.V 9.T.C 9.A.V 9.K.C 9.U.V 9.I.V 9.A.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 1.3 1.75 1.3 1.3 0.8	manasatakoia	0	346
+240570	angoram-karau	1409_SEE	ˈəntʰəsobřə	ˈəntʰəsobřə	ə n tʰ ə s o b r̝ ə		abbott1985	21724	7 4 1 7 3 7 1 5 7	XMBYBYBCZ	ENTESUPRE	3	3.E.V 3.N.c 3.T.C 3.E.V 3.S.C 3.U.V 3.P.C 3.R.C 3.E.V	1.5 1.1 1.75 1.3 1.75 1.3 1.75 1.5 0.8	əntʰəsobr̝ə	0	344
+240250	angoram-kambrindo	1409_SEE	ˈwasařikʰa	ˈwasařikʰa	w a s a r̝ i kʰ a		abbott1985	21721	6 7 3 7 5 7 1 7	AXBYBYBZ	WASARIKA	1	1.W.C 1.A.V 1.S.C 1.A.V 1.R.C 1.I.V 1.K.C 1.A.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	wasar̝ikʰa	0	343
+240363	ap-ma-kambaramba	1409_SEE	ˈyamantʰa	ˈyamantʰa	j a m a n tʰ a		abbott1985	21722	6 7 4 7 4 1 7	AXBYMBZ	JAMANTA	7	7.J.C 7.A.V 7.M.C 7.A.V 7.N.c 7.T.C 7.A.V	2.0 1.5 1.75 1.3 1.1 1.75 0.8	jamantʰa	0	345
+#
+239232	tok-pisin	1410_KNOW_SOMETHING	em i save	em_i_save	e m + i + s a v e	he knows	abbott1985	99	7 4 9 7 9 3 7 3 7	XN_X_AXBZ	EM_I_SABE	10	10.E.V 10.M.c 10._._ 10.I.V 10._._ 10.S.C 10.A.V 10.B.C 10.E.V	1.5 0.8 0.0 1.5 0.0 2.0 1.5 1.75 0.8	em+i+save	0	350
+240517	kopar-singarin	1410_KNOW_SOMETHING	ˈmanantʰundatʰakʰoyə	ˈmanantʰundatʰakʰoyə	m a n a n tʰ u n d a tʰ a kʰ o j ə		abbott1985	171	4 7 4 7 4 1 7 4 1 7 1 7 1 7 6 7	AXBYMBYMBYBYBYBZ	MANANTYNTATAKUJE	9	9.M.C 9.A.V 9.N.C 9.A.V 9.N.c 9.T.C 9.Y.V 9.N.c 9.T.C 9.A.V 9.T.C 9.A.V 9.K.C 9.U.V 9.J.C 9.E.V	2.0 1.5 1.75 1.3 1.1 1.75 1.3 1.1 1.75 1.3 1.75 1.3 1.75 1.3 1.75 0.8	manantʰundatʰakʰojə	0	349
+240624	angoram-karau	1410_KNOW_SOMETHING	ˈmɛtʰořatʰ	ˈmɛtʰořatʰ	m ɛ tʰ o r̝ a tʰ		abbott1985	200	4 7 1 7 5 7 1	AXBYBYN	METURAT	3	3.M.C 3.E.V 3.T.C 3.U.V 3.R.C 3.A.V 3.T.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	mɛtʰor̝atʰ	0	348
+#
+239146	tok-pisin	1416_SIT	em i sindaun	em_i_sindaun	e m + i + s i n d a u n	he sits down	abbott1985	13	7 4 9 7 9 3 7 4 1 7 7 4	XN_X_AXMBYYN	EM_I_SINTAYN	10	10.E.V 10.M.c 10._._ 10.I.V 10._._ 10.S.C 10.I.V 10.N.c 10.T.C 10.A.V 10.Y.V 10.N.c	1.5 0.8 0.0 1.5 0.0 2.0 1.5 1.1 1.75 1.3 1.3 0.8	em+i+sindaun	0	354
+240440	kopar-singarin	1416_SIT	ˈmantʰasa	ˈmantʰasa	m a n tʰ a s a		abbott1985	21756	4 7 4 1 7 3 7	AXMBYBZ	MANTASA	9	9.M.C 9.A.V 9.N.c 9.T.C 9.A.V 9.S.C 9.A.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	mantʰasa	0	353
+240544	angoram-karau	1416_SIT	ˈtʰosasa	ˈtʰosasa	tʰ o s a s a		abbott1985	21757	1 7 3 7 3 7	AXBYBZ	TUSASA	3	3.T.C 3.U.V 3.S.C 3.A.V 3.S.C 3.A.V	2.0 1.5 1.75 1.3 1.75 0.8	tʰosasa	0	352
+240224	angoram-kambrindo	1416_SIT	ˈnandakʰa	ˈnandakʰa	n a n d a kʰ a		abbott1985	21756	4 7 4 1 7 1 7	AXMBYBZ	NANTAKA	1	1.N.C 1.A.V 1.N.c 1.T.C 1.A.V 1.K.C 1.A.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	nandakʰa	0	351
+#
+239235	tok-pisin	1417_KILL	em i kilim i dai	em_i_kilim_i_dai	e m + i + k i l i m + i + d a i	he kills	abbott1985	102	7 4 9 7 9 1 7 5 7 4 9 7 9 1 7 7	XN_X_AXBYN_X_AXZ	EM_I_KILIM_I_TAI	10	10.E.V 10.M.c 10._._ 10.I.V 10._._ 10.K.C 10.I.V 10.L.C 10.I.V 10.M.c 10._._ 10.I.V 10._._ 10.T.C 10.A.V 10.I.V	1.5 0.8 0.0 1.5 0.0 2.0 1.5 1.75 1.3 0.8 0.0 1.5 0.0 2.0 1.5 0.8	em+i+kilim+i+dai	0	358
+240520	kopar-singarin	1417_KILL	ˈtʰəmbüpaŋkʰamantʰə	ˈtʰəmbüpaŋkʰamantʰə	tʰ ə m b ü/u p a ŋ kʰ a m a n tʰ ə		abbott1985	174	1 7 4 1 7 1 7 4 1 7 4 7 4 1 7	AXMBYBYMBYBYMBZ	TEMPYPANKAMANTE	9	9.T.C 9.E.V 9.M.c 9.P.C 9.Y.V 9.P.C 9.A.V 9.N.c 9.K.C 9.A.V 9.M.C 9.A.V 9.N.c 9.T.C 9.E.V	2.0 1.5 1.1 1.75 1.3 1.75 1.3 1.1 1.75 1.3 1.75 1.3 1.1 1.75 0.8	tʰəmbü/upaŋkʰamantʰə	0	357
+240626	angoram-karau	1417_KILL	ˈtʰodiřə	ˈtʰodiřə	tʰ o d i r̝ ə		abbott1985	202	1 7 1 7 5 7	AXBYBZ	TUTIRE	3	3.T.C 3.U.V 3.T.C 3.I.V 3.R.C 3.E.V	2.0 1.5 1.75 1.3 1.75 0.8	tʰodir̝ə	0	356
+240304	angoram-kambrindo	1417_KILL	ˈnankʰəřařenantʰikʰa	ˈnankʰəřařenantʰikʰa	n a n kʰ ə r̝ a r̝ e n a n tʰ i kʰ a		abbott1985	306	4 7 4 1 7 5 7 5 7 4 7 4 1 7 1 7	AXMBYBYBYBYMBYBZ	NANKERARENANTIKA	1	1.N.C 1.A.V 1.N.c 1.K.C 1.E.V 1.R.C 1.A.V 1.R.C 1.E.V 1.N.C 1.A.V 1.N.c 1.T.C 1.I.V 1.K.C 1.A.V	2.0 1.5 1.1 1.75 1.3 1.75 1.3 1.75 1.3 1.75 1.3 1.1 1.75 1.3 1.75 0.8	nankʰər̝ar̝enantʰikʰa	0	355
+#
+239163	tok-pisin	1430_STAR	sta	sta	s t a	star	abbott1985	30	3 1 7	ACZ	STA	10	10.S.C 10.T.C 10.A.V	2.0 1.5 0.8	sta	0	368
+240145	chambri-kilimbit	1430_STAR	ˈtʊŋˈgwi	ˈtʊŋˈgwi	t ʊ ŋ g w i		abbott1985	21844	1 7 4 1 6 7	AXMBCZ	TYNKWI	8	8.T.C 8.Y.V 8.N.c 8.K.C 8.W.C 8.I.V	2.0 1.5 1.1 1.75 1.5 0.8	tʊŋgwi	0	366
+240456	kopar-singarin	1430_STAR	ˈmoain	ˈmoain	m o a i n		abbott1985	21847	4 7 7 7 4	AXYYN	MUAIN	9	9.M.C 9.U.V 9.A.V 9.I.V 9.N.c	2.0 1.5 1.3 1.3 0.8	moain	0	361
+240560	angoram-karau	1430_STAR	ˈmoain	ˈmoain	m o a i n		abbott1985	21847	4 7 7 7 4	AXYYN	MUAIN	3	3.M.C 3.U.V 3.A.V 3.I.V 3.N.c	2.0 1.5 1.3 1.3 0.8	moain	0	361
+240664	angoram-wagamut	1430_STAR	ˈmoain	ˈmoain	m o a i n		abbott1985	21847	4 7 7 7 4	AXYYN	MUAIN	6	6.M.C 6.U.V 6.A.V 6.I.V 6.N.c	2.0 1.5 1.3 1.3 0.8	moain	0	361
+240914	angoram-kanduanum	1430_STAR	ˈřəændžo	ˈřəændžo	r̝ ə æ n dʒ o		abbott1985	21849	5 7 7 4 1 7	AXYMBZ	REENTU	2	2.R.C 2.E.V 2.E.V 2.N.c 2.T.C 2.U.V	2.0 1.5 1.3 1.1 1.75 0.8	r̝əændʒo	0	360
+240839	angoram-magendo	1430_STAR	ˈinantšo	ˈinantšo	i n a n ʈʂ o		abbott1985	21845	7 4 7 4 2 7	XBYMBZ	INANCU	4	4.I.V 4.N.C 4.A.V 4.N.c 4.C.C 4.U.V	1.5 1.75 1.3 1.1 1.75 0.8	inanʈʂo	0	359
+240754	angoram-marbuk	1430_STAR	ˈařum	ˈařum	a r̝ u m		abbott1985	21848	7 5 7 4	XBYN	ARYM	5	5.A.V 5.R.C 5.Y.V 5.M.c	1.5 1.75 1.3 0.8	ar̝um	0	363
+240240	angoram-kambrindo	1430_STAR	ˈinantšo	ˈinantšo	i n a n ʈʂ o		abbott1985	21845	7 4 7 4 2 7	XBYMBZ	INANCU	1	1.I.V 1.N.C 1.A.V 1.N.c 1.C.C 1.U.V	1.5 1.75 1.3 1.1 1.75 0.8	inanʈʂo	0	359
+240352	ap-ma-kambaramba	1430_STAR	ˈyaŋgəndəma	ˈyaŋgəndəma	j a ŋ g ə n d ə m a		abbott1985	21846	6 7 4 1 7 4 1 7 4 7	AXMBYMBYBZ	JANKENTEMA	7	7.J.C 7.A.V 7.N.c 7.K.C 7.E.V 7.N.c 7.T.C 7.E.V 7.M.C 7.A.V	2.0 1.5 1.1 1.75 1.3 1.1 1.75 1.3 1.75 0.8	jaŋgəndəma	0	365
+#
+239239	tok-pisin	1433_HIT	em i paitim dok	em_i_paitim_dok	e m + i + p a i t i m + d o k	he hits	abbott1985	106	7 4 9 7 9 1 7 7 1 7 4 9 1 7 1	XN_X_AXYBYN_AXN	EM_I_PAITIM_TUK	10	10.E.V 10.M.c 10._._ 10.I.V 10._._ 10.P.C 10.A.V 10.I.V 10.T.C 10.I.V 10.M.c 10._._ 10.T.C 10.U.V 10.K.c	1.5 0.8 0.0 1.5 0.0 2.0 1.5 1.3 1.75 1.3 0.8 0.0 2.0 1.5 0.8	em+i+paitim+dok	0	371
+240308	angoram-kambrindo	1433_HIT	ˈndanda	ˈndanda	n d a n d a		abbott1985	310	4 1 7 4 1 7	ACYMBZ	NTANTA	1	1.N.C 1.T.C 1.A.V 1.N.c 1.T.C 1.A.V	2.0 1.5 1.3 1.1 1.75 0.8	ndanda	1	369
+240309	angoram-kambrindo	1433_HIT	ˈnantʰikʰa	ˈnantʰikʰa	n a n tʰ i kʰ a		abbott1985	311	4 7 4 1 7 1 7	AXMBYBZ	NANTIKA	1	1.N.C 1.A.V 1.N.c 1.T.C 1.I.V 1.K.C 1.A.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	nantʰikʰa	0	372
+240411	ap-ma-kambaramba	1433_HIT	ˈʊřʊntai	ˈʊřʊntai	ʊ r̝ ʊ n t a i		abbott1985	340	7 5 7 4 1 7 7	XBYMBYZ	YRYNTAI	7	7.Y.V 7.R.C 7.Y.V 7.N.c 7.T.C 7.A.V 7.I.V	1.5 1.75 1.3 1.1 1.75 1.3 0.8	ʊr̝ʊntai	0	370
+240412	ap-ma-kambaramba	1433_HIT	ˈmaip	ˈmaip	m a i p		abbott1985	341	4 7 7 1	AXYN	MAIP	7	7.M.C 7.A.V 7.I.V 7.P.c	2.0 1.5 1.3 0.8	maip	0	373
+#
+239147	tok-pisin	1442_STAND	em i sanap	em_i_sanap	e m + i + s a n a p	he stands up	abbott1985	14	7 4 9 7 9 3 7 4 7 1	XN_X_AXBYN	EM_I_SANAP	10	10.E.V 10.M.c 10._._ 10.I.V 10._._ 10.S.C 10.A.V 10.N.C 10.A.V 10.P.c	1.5 0.8 0.0 1.5 0.0 2.0 1.5 1.75 1.3 0.8	em+i+sanap	0	377
+240441	kopar-singarin	1442_STAND	ˈmařikʰɛtʰə	ˈmařikʰɛtʰə	m a r̝ i kʰ ɛ tʰ ə		abbott1985	21762	4 7 5 7 1 7 1 7	AXBYBYBZ	MARIKETE	9	9.M.C 9.A.V 9.R.C 9.I.V 9.K.C 9.E.V 9.T.C 9.E.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	mar̝ikʰɛtʰə	0	376
+240545	angoram-karau	1442_STAND	ˈtʰoyařasə	ˈtʰoyařasə	tʰ o j a r̝ a s ə		abbott1985	21763	1 7 6 7 5 7 3 7	AXBYBYBZ	TUJARASE	3	3.T.C 3.U.V 3.J.C 3.A.V 3.R.C 3.A.V 3.S.C 3.E.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	tʰojar̝asə	0	375
+240225	angoram-kambrindo	1442_STAND	ˈnanɩmkʰa	ˈnanɩmkʰa	n a n ɪ m kʰ a		abbott1985	21761	4 7 4 7 4 1 7	AXBYMBZ	NANIMKA	1	1.N.C 1.A.V 1.N.C 1.I.V 1.M.c 1.K.C 1.A.V	2.0 1.5 1.75 1.3 1.1 1.75 0.8	nanɪmkʰa	0	374
+#
+239260	tok-pisin	1443_WALK	em i wokabaut	em_i_wokabaut	e m + i + w o k a b a u t	he walks	abbott1985	127	7 4 9 7 9 6 7 1 7 1 7 7 1	XN_X_AXBYBYYN	EM_I_WUKAPAYT	10	10.E.V 10.M.c 10._._ 10.I.V 10._._ 10.W.C 10.U.V 10.K.C 10.A.V 10.P.C 10.A.V 10.Y.V 10.T.c	1.5 0.8 0.0 1.5 0.0 2.0 1.5 1.75 1.3 1.75 1.3 1.3 0.8	em+i+wokabaut	0	378
+#
+239174	tok-pisin	1446_COME	em i kam	em_i_kam	e m + i + k a m	he comes	abbott1985	41	7 4 9 7 9 1 7 4	XN_X_AXN	EM_I_KAM	10	10.E.V 10.M.c 10._._ 10.I.V 10._._ 10.K.C 10.A.V 10.M.c	1.5 0.8 0.0 1.5 0.0 2.0 1.5 0.8	em+i+kam	0	383
+240467	kopar-singarin	1446_COME	ˈmaiəkʰə	ˈmaiəkʰə	m a i ə kʰ ə		abbott1985	21953	4 7 7 7 1 7	AXYYBZ	MAIEKE	9	9.M.C 9.A.V 9.I.V 9.E.V 9.K.C 9.E.V	2.0 1.5 1.3 1.3 1.75 0.8	maiəkʰə	0	382
+240571	angoram-karau	1446_COME	ˈmənwoiařa	ˈmənwoiařa	m ə n w o i a r̝ a		abbott1985	21955	4 7 4 6 7 7 7 5 7	AXBCYYYBZ	MENWUIARA	3	3.M.C 3.E.V 3.N.C 3.W.C 3.U.V 3.I.V 3.A.V 3.R.C 3.A.V	2.0 1.5 1.75 1.5 1.3 1.3 1.3 1.75 0.8	mənwoiar̝a	0	380
+240251	angoram-kambrindo	1446_COME	ˈnaniakʰa	ˈnaniakʰa	n a n i a kʰ a		abbott1985	21953	4 7 4 7 7 1 7	AXBYYBZ	NANIAKA	1	1.N.C 1.A.V 1.N.C 1.I.V 1.A.V 1.K.C 1.A.V	2.0 1.5 1.75 1.3 1.3 1.75 0.8	naniakʰa	0	379
+240364	ap-ma-kambaramba	1446_COME	ˈmise	ˈmise	m i s e		abbott1985	21954	4 7 3 7	AXBZ	MISE	7	7.M.C 7.I.V 7.S.C 7.E.V	2.0 1.5 1.75 0.8	mise	0	381
+#
+239261	tok-pisin	1447_GIVE	em i givim mi	em_i_givim_mi	e m + i + g i v i m + m i	he gives	abbott1985	128	7 4 9 7 9 1 7 3 7 4 9 4 7	XN_X_AXBYN_AX	EM_I_KIBIM_MI	10	10.E.V 10.M.c 10._._ 10.I.V 10._._ 10.K.C 10.I.V 10.B.C 10.I.V 10.M.c 10._._ 10.M.C 10.I.V	1.5 0.8 0.0 1.5 0.0 2.0 1.5 1.75 1.3 0.8 0.0 2.0 1.5	em+i+givim+mi	0	384
+#
+239230	tok-pisin	1458_SAY	em i tok	em_i_tok	e m + i + t o k	he says	abbott1985	97	7 4 9 7 9 1 7 1	XN_X_AXN	EM_I_TUK	10	10.E.V 10.M.c 10._._ 10.I.V 10._._ 10.T.C 10.U.V 10.K.c	1.5 0.8 0.0 1.5 0.0 2.0 1.5 0.8	em+i+tok	0	386
+240301	angoram-kambrindo	1458_SAY	ˈsʊařə	ˈsʊařə	s ʊ a r̝ ə		abbott1985	303	3 7 7 5 7	AXYBZ	SYARE	1	1.S.C 1.Y.V 1.A.V 1.R.C 1.E.V	2.0 1.5 1.3 1.75 0.8	sʊar̝ə	0	385
+#
+239258	tok-pisin	1474_SEA	solwara	solwara	s o l w a r a	sea	abbott1985	125	3 7 5 6 7 5 7	AXBCYBZ	SULWARA	10	10.S.C 10.U.V 10.L.C 10.W.C 10.A.V 10.R.C 10.A.V	2.0 1.5 1.75 1.5 1.3 1.75 0.8	solwara	0	392
+240639	angoram-karau	1474_SEA	ˈgʊgʊn	ˈgʊgʊn	g ʊ g ʊ n		abbott1985	21609	1 7 1 7 4	AXBYN	KYKYN	3	3.K.C 3.Y.V 3.K.C 3.Y.V 3.N.c	2.0 1.5 1.75 1.3 0.8	gʊgʊn	0	388
+240727	angoram-wagamut	1474_SEA	ˈgʊgʊn	ˈgʊgʊn	g ʊ g ʊ n		abbott1985	21609	1 7 1 7 4	AXBYN	KYKYN	6	6.K.C 6.Y.V 6.K.C 6.Y.V 6.N.c	2.0 1.5 1.75 1.3 0.8	gʊgʊn	0	388
+240975	angoram-kanduanum	1474_SEA	ˈkʰʊŋgun	ˈkʰʊŋgun	kʰ ʊ ŋ g u n		abbott1985	21609	1 7 4 1 7 4	AXMBYN	KYNKYN	2	2.K.C 2.Y.V 2.N.c 2.K.C 2.Y.V 2.N.c	2.0 1.5 1.1 1.75 1.3 0.8	kʰʊŋgun	0	387
+240890	angoram-magendo	1474_SEA	ˈmasak	ˈmasak	m a s a k		abbott1985	21610	4 7 3 7 1	AXBYN	MASAK	4	4.M.C 4.A.V 4.S.C 4.A.V 4.K.c	2.0 1.5 1.75 1.3 0.8	masak	0	389
+240813	angoram-marbuk	1474_SEA	ˈmasak	ˈmasak	m a s a k		abbott1985	21610	4 7 3 7 1	AXBYN	MASAK	5	5.M.C 5.A.V 5.S.C 5.A.V 5.K.c	2.0 1.5 1.75 1.3 0.8	masak	0	389
+#
+239178	tok-pisin	1482_SHOULDER	sol	sol	s o l	shoulder	abbott1985	45	3 7 5	AXN	SUL	10	10.S.C 10.U.V 10.L.c	2.0 1.5 0.8	sol	0	401
+240471	kopar-singarin	1482_SHOULDER	ˈřahon	ˈřahon	r̝ a h o n		abbott1985	21770	5 7 3 7 4	AXBYN	RAHUN	9	9.R.C 9.A.V 9.H.C 9.U.V 9.N.c	2.0 1.5 1.75 1.3 0.8	r̝ahon	0	400
+240575	angoram-karau	1482_SHOULDER	ˈpʰinagemb	ˈpʰinagemb	pʰ i n a g e m b		abbott1985	21771	1 7 4 7 1 7 4 1	AXBYBYLN	PINAKEMP	3	3.P.C 3.I.V 3.N.C 3.A.V 3.K.C 3.E.V 3.M.c 3.P.c	2.0 1.5 1.75 1.3 1.75 1.3 1.1 0.8	pʰinagemb	0	395
+240676	angoram-wagamut	1482_SHOULDER	ˈpʰɩnagemb	ˈpʰɩnagemb	pʰ ɪ n a g e m b		abbott1985	21771	1 7 4 7 1 7 4 1	AXBYBYLN	PINAKEMP	6	6.P.C 6.I.V 6.N.C 6.A.V 6.K.C 6.E.V 6.M.c 6.P.c	2.0 1.5 1.75 1.3 1.75 1.3 1.1 0.8	pʰɪnagemb	0	395
+240923	angoram-kanduanum	1482_SHOULDER	kʰabʊˈkʰenəm	kʰabʊˈkʰenəm	kʰ a b ʊ kʰ e n ə m		abbott1985	21768	1 7 1 7 1 7 4 7 4	AXBYBYBYN	KAPYKENEM	2	2.K.C 2.A.V 2.P.C 2.Y.V 2.K.C 2.E.V 2.N.C 2.E.V 2.M.c	2.0 1.5 1.75 1.3 1.75 1.3 1.75 1.3 0.8	kʰabʊkʰenəm	0	393
+240848	angoram-magendo	1482_SHOULDER	ˈkʰabʊkʰenəm	ˈkʰabʊkʰenəm	kʰ a b ʊ kʰ e n ə m		abbott1985	21768	1 7 1 7 1 7 4 7 4	AXBYBYBYN	KAPYKENEM	4	4.K.C 4.A.V 4.P.C 4.Y.V 4.K.C 4.E.V 4.N.C 4.E.V 4.M.c	2.0 1.5 1.75 1.3 1.75 1.3 1.75 1.3 0.8	kʰabʊkʰenəm	0	393
+240763	angoram-marbuk	1482_SHOULDER	ˈkʰabʊkʰinʊm	ˈkʰabʊkʰinʊm	kʰ a b ʊ kʰ i n ʊ m		abbott1985	21768	1 7 1 7 1 7 4 7 4	AXBYBYBYN	KAPYKINYM	5	5.K.C 5.A.V 5.P.C 5.Y.V 5.K.C 5.I.V 5.N.C 5.Y.V 5.M.c	2.0 1.5 1.75 1.3 1.75 1.3 1.75 1.3 0.8	kʰabʊkʰinʊm	0	393
+240255	angoram-kambrindo	1482_SHOULDER	ˈkʰab kʰenəm	ˈkʰab_kʰenəm	kʰ a b + kʰ e n ə m		abbott1985	21768	1 7 1 9 1 7 4 7 4	AXN_AXBYN	KAP_KENEM	1	1.K.C 1.A.V 1.P.c 1._._ 1.K.C 1.E.V 1.N.C 1.E.V 1.M.c	2.0 1.5 0.8 0.0 2.0 1.5 1.75 1.3 0.8	kʰab+kʰenəm	0	393
+240368	ap-ma-kambaramba	1482_SHOULDER	ˈnamboŋ	ˈnamboŋ	n a m b o ŋ		abbott1985	21769	4 7 4 1 7 4	AXMBYN	NAMPUN	7	7.N.C 7.A.V 7.M.c 7.P.C 7.U.V 7.N.c	2.0 1.5 1.1 1.75 1.3 0.8	namboŋ	0	399
+#
+239164	tok-pisin	1489_CLOUD	klaut	klaut	k l a u t	cloud	abbott1985	31	1 5 7 7 1	ACXYN	KLAYT	10	10.K.C 10.L.C 10.A.V 10.Y.V 10.T.c	2.0 1.5 1.5 1.3 0.8	klaut	0	411
+240146	chambri-kilimbit	1489_CLOUD	kamˈplentše	kamˈplentše	k a m p l e n ʈʂ e		abbott1985	21836	1 7 4 1 5 7 4 2 7	AXMBCYMBZ	KAMPLENCE	8	8.K.C 8.A.V 8.M.c 8.P.C 8.L.C 8.E.V 8.N.c 8.C.C 8.E.V	2.0 1.5 1.1 1.75 1.5 1.3 1.1 1.75 0.8	kamplenʈʂe	0	409
+240457	kopar-singarin	1489_CLOUD	ˈpantʰam	ˈpantʰam	p a n tʰ a m		abbott1985	21839	1 7 4 1 7 4	AXMBYN	PANTAM	9	9.P.C 9.A.V 9.N.c 9.T.C 9.A.V 9.M.c	2.0 1.5 1.1 1.75 1.3 0.8	pantʰam	0	407
+240561	angoram-karau	1489_CLOUD	ˈpʰasakʰ	ˈpʰasakʰ	pʰ a s a kʰ		abbott1985	21840	1 7 3 7 1	AXBYN	PASAK	3	3.P.C 3.A.V 3.S.C 3.A.V 3.K.c	2.0 1.5 1.75 1.3 0.8	pʰasakʰ	0	402
+240665	angoram-wagamut	1489_CLOUD	ˈbʊn	ˈbʊn	b ʊ n		abbott1985	21841	1 7 4	AXN	PYN	6	6.P.C 6.Y.V 6.N.c	2.0 1.5 0.8	bʊn	0	407
+240915	angoram-kanduanum	1489_CLOUD	ˈmaŋgenən	ˈmaŋgenən	m a ŋ g e n ə n		abbott1985	21843	4 7 4 1 7 4 7 4	AXMBYBYN	MANKENEN	2	2.M.C 2.A.V 2.N.c 2.K.C 2.E.V 2.N.C 2.E.V 2.N.c	2.0 1.5 1.1 1.75 1.3 1.75 1.3 0.8	maŋgenən	0	403
+240840	angoram-magendo	1489_CLOUD	ˈmaŋgenən	ˈmaŋgenən	m a ŋ g e n ə n		abbott1985	21843	4 7 4 1 7 4 7 4	AXMBYBYN	MANKENEN	4	4.M.C 4.A.V 4.N.c 4.K.C 4.E.V 4.N.C 4.E.V 4.N.c	2.0 1.5 1.1 1.75 1.3 1.75 1.3 0.8	maŋgenən	0	403
+240755	angoram-marbuk	1489_CLOUD	ˈnəmbisəne	ˈnəmbisəne	n ə m b i s ə n e		abbott1985	21842	4 7 4 1 7 3 7 4 7	AXMBYBYBZ	NEMPISENE	5	5.N.C 5.E.V 5.M.c 5.P.C 5.I.V 5.S.C 5.E.V 5.N.C 5.E.V	2.0 1.5 1.1 1.75 1.3 1.75 1.3 1.75 0.8	nəmbisəne	0	406
+240241	angoram-kambrindo	1489_CLOUD	ˈbʊsʊřu	ˈbʊsʊřu	b ʊ s ʊ r̝ u		abbott1985	21837	1 7 3 7 5 7	AXBYBZ	PYSYRY	1	1.P.C 1.Y.V 1.S.C 1.Y.V 1.R.C 1.Y.V	2.0 1.5 1.75 1.3 1.75 0.8	bʊsʊr̝u	0	402
+240353	ap-ma-kambaramba	1489_CLOUD	ˈbanəban	ˈbanəban	b a n ə b a n		abbott1985	21838	1 7 4 7 1 7 4	AXBYBYN	PANEPAN	7	7.P.C 7.A.V 7.N.C 7.E.V 7.P.C 7.A.V 7.N.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	banəban	0	407
+#
+239197	tok-pisin	1490_RAT	rat	rat	r a t	rat	abbott1985	64	5 7 1	AXN	RAT	10	10.R.C 10.A.V 10.T.c	2.0 1.5 0.8	rat	0	421
+240169	chambri-kilimbit	1490_RAT	manˈtol	manˈtol	m a n t o l		abbott1985	21875	4 7 4 1 7 5	AXMBYN	MANTUL	8	8.M.C 8.A.V 8.N.c 8.T.C 8.U.V 8.L.c	2.0 1.5 1.1 1.75 1.3 0.8	mantol	0	419
+240487	kopar-singarin	1490_RAT	ˈnanankʰař	ˈnanankʰař	n a n a n kʰ a r̝		abbott1985	21877	4 7 4 7 4 1 7 5	AXBYMBYN	NANANKAR	9	9.N.C 9.A.V 9.N.C 9.A.V 9.N.c 9.K.C 9.A.V 9.R.c	2.0 1.5 1.75 1.3 1.1 1.75 1.3 0.8	nanankʰar̝	0	416
+240592	angoram-karau	1490_RAT	ˈkʰimbař	ˈkʰimbař	kʰ i m b a r̝		abbott1985	21878	1 7 4 1 7 5	AXMBYN	KIMPAR	3	3.K.C 3.I.V 3.M.c 3.P.C 3.A.V 3.R.c	2.0 1.5 1.1 1.75 1.3 0.8	kʰimbar̝	0	414
+240689	angoram-wagamut	1490_RAT	ˈkʰimbaul	ˈkʰimbaul	kʰ i m b a u l		abbott1985	21878	1 7 4 1 7 7 5	AXMBYYN	KIMPAYL	6	6.K.C 6.I.V 6.M.c 6.P.C 6.A.V 6.Y.V 6.L.c	2.0 1.5 1.1 1.75 1.3 1.3 0.8	kʰimbaul	0	414
+240941	angoram-kanduanum	1490_RAT	ˈkʰasəkʰamař	ˈkʰasəkʰamař	kʰ a s ə kʰ a m a r̝		abbott1985	21878	1 7 3 7 1 7 4 7 5	AXBYBYBYN	KASEKAMAR	2	2.K.C 2.A.V 2.S.C 2.E.V 2.K.C 2.A.V 2.M.C 2.A.V 2.R.c	2.0 1.5 1.75 1.3 1.75 1.3 1.75 1.3 0.8	kʰasəkʰamar̝	0	413
+240865	angoram-magendo	1490_RAT	ˈiakřani	ˈiakřani	i a k r̝ a n i		abbott1985	21876	7 7 1 5 7 4 7	XYBCYBZ	IAKRANI	4	4.I.V 4.A.V 4.K.C 4.R.C 4.A.V 4.N.C 4.I.V	1.5 1.3 1.75 1.5 1.3 1.75 0.8	iakr̝ani	0	415
+240781	angoram-marbuk	1490_RAT	ˈnʊnangař	ˈnʊnangař	n ʊ n a n g a r̝		abbott1985	21877	4 7 4 7 4 1 7 5	AXBYMBYN	NYNANKAR	5	5.N.C 5.Y.V 5.N.C 5.A.V 5.N.c 5.K.C 5.A.V 5.R.c	2.0 1.5 1.75 1.3 1.1 1.75 1.3 0.8	nʊnangar̝	0	416
+240274	angoram-kambrindo	1490_RAT	ˈyakʰrauwi	ˈyakʰrauwi	j a kʰ r a u w i		abbott1985	21876	6 7 1 5 7 7 6 7	AXBCYYBZ	JAKRAYWI	1	1.J.C 1.A.V 1.K.C 1.R.C 1.A.V 1.Y.V 1.W.C 1.I.V	2.0 1.5 1.75 1.5 1.3 1.3 1.75 0.8	jakʰrauwi	0	412
+240383	ap-ma-kambaramba	1490_RAT	ˈyakʰa	ˈyakʰa	j a kʰ a		abbott1985	21876	6 7 1 7	AXBZ	JAKA	7	7.J.C 7.A.V 7.K.C 7.A.V	2.0 1.5 1.75 0.8	jakʰa	0	412
+#
+239176	tok-pisin	1493_ONE	wan	wan	w a n	one	abbott1985	43	6 7 4	AXN	WAN	10	10.W.C 10.A.V 10.N.c	2.0 1.5 0.8	wan	0	428
+240155	chambri-kilimbit	1493_ONE	ˈbiankʰ	ˈbiankʰ	b i a n kʰ		abbott1985	21794	1 7 7 4 1	AXYLN	PIANK	8	8.P.C 8.I.V 8.A.V 8.N.c 8.K.c	2.0 1.5 1.3 1.1 0.8	biankʰ	0	422
+240469	kopar-singarin	1493_ONE	ˈbatʰɛpʰ	ˈbatʰɛpʰ	b a tʰ ɛ pʰ		abbott1985	21797	1 7 1 7 1	AXBYN	PATEP	9	9.P.C 9.A.V 9.T.C 9.E.V 9.P.c	2.0 1.5 1.75 1.3 0.8	batʰɛpʰ	0	427
+240573	angoram-karau	1493_ONE	ˈabeba	ˈabeba	a b e b a		abbott1985	21798	7 1 7 1 7	XBYBZ	APEPA	3	3.A.V 3.P.C 3.E.V 3.P.C 3.A.V	1.5 1.75 1.3 1.75 0.8	abeba	0	423
+240674	angoram-wagamut	1493_ONE	ˈabeba	ˈabeba	a b e b a		abbott1985	21798	7 1 7 1 7	XBYBZ	APEPA	6	6.A.V 6.P.C 6.E.V 6.P.C 6.A.V	1.5 1.75 1.3 1.75 0.8	abeba	0	423
+240253	angoram-kambrindo	1493_ONE	ˈbeŋ	ˈbeŋ	b e ŋ		abbott1985	21795	1 7 4	AXN	PEN	1	1.P.C 1.E.V 1.N.c	2.0 1.5 0.8	beŋ	0	422
+240366	ap-ma-kambaramba	1493_ONE	ˈbwa	ˈbwa	b w a		abbott1985	21796	1 6 7	ACX	PWA	7	7.P.C 7.W.C 7.A.V	2.0 1.5 1.5	bwa	0	425
+#
+239177	tok-pisin	1498_TWO	tu	tu	t u	two	abbott1985	44	1 7	AX	TY	10	10.T.C 10.Y.V	2.0 1.5	tu	0	435
+240156	chambri-kilimbit	1498_TWO	ˈʊsɩm	ˈʊsɩm	ʊ s ɪ m		abbott1985	21631	7 3 7 4	XBYN	YSIM	8	8.Y.V 8.S.C 8.I.V 8.M.c	1.5 1.75 1.3 0.8	ʊsɪm	0	433
+240470	kopar-singarin	1498_TWO	ˈkʰompaři	ˈkʰompaři	kʰ o m p a r̝ i		abbott1985	21634	1 7 4 1 7 5 7	AXMBYBZ	KUMPARI	9	9.K.C 9.U.V 9.M.c 9.P.C 9.A.V 9.R.C 9.I.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	kʰompar̝i	0	434
+240574	angoram-karau	1498_TWO	ˈkʰobo	ˈkʰobo	kʰ o b o		abbott1985	21635	1 7 1 7	AXBZ	KUPU	3	3.K.C 3.U.V 3.P.C 3.U.V	2.0 1.5 1.75 0.8	kʰobo	0	430
+240675	angoram-wagamut	1498_TWO	ˈkʰobo	ˈkʰobo	kʰ o b o		abbott1985	21635	1 7 1 7	AXBZ	KUPU	6	6.K.C 6.U.V 6.P.C 6.U.V	2.0 1.5 1.75 0.8	kʰobo	0	430
+240254	angoram-kambrindo	1498_TWO	ˈkʰřupřar̃	ˈkʰřupřar̃	kʰ r̝ u p r̝ a r̃		abbott1985	21632	1 5 7 1 5 7 5	ACXBCYN	KRYPRAR	1	1.K.C 1.R.C 1.Y.V 1.P.C 1.R.C 1.A.V 1.R.c	2.0 1.5 1.5 1.75 1.5 1.3 0.8	kʰr̝upr̝ar̃	0	429
+240367	ap-ma-kambaramba	1498_TWO	ˈnʊngʊə	ˈnʊngʊə	n ʊ n g ʊ ə		abbott1985	21633	4 7 4 1 7 7	AXMBYZ	NYNKYE	7	7.N.C 7.Y.V 7.N.c 7.K.C 7.Y.V 7.E.V	2.0 1.5 1.1 1.75 1.3 0.8	nʊngʊə	0	432
+#
+239257	tok-pisin	1509_MOSQUITO	natnat	natnat	n a t n a t	mosquito	abbott1985	124	4 7 1 4 7 1	AXBCYN	NATNAT	10	10.N.C 10.A.V 10.T.C 10.N.C 10.A.V 10.T.c	2.0 1.5 1.75 1.5 1.3 0.8	natnat	0	443
+240209	chambri-kilimbit	1509_MOSQUITO	nanˈkw n	nanˈkw_n	n a n k w + n		abbott1985	21748	4 7 4 1 6 9 4	AXMBC_A	NANKW_N	8	8.N.C 8.A.V 8.N.c 8.K.C 8.W.C 8._._ 8.N.C	2.0 1.5 1.1 1.75 1.5 0.0 2.0	nankw+n	0	441
+240533	kopar-singarin	1509_MOSQUITO	ˈnaŋgitʰ	ˈnaŋgitʰ	n a ŋ g i tʰ		abbott1985	21749	4 7 4 1 7 1	AXMBYN	NANKIT	9	9.N.C 9.A.V 9.N.c 9.K.C 9.I.V 9.T.c	2.0 1.5 1.1 1.75 1.3 0.8	naŋgitʰ	0	441
+240638	angoram-karau	1509_MOSQUITO	ˈnaukʰ	ˈnaukʰ	n a u kʰ		abbott1985	21750	4 7 7 1	AXYN	NAYK	3	3.N.C 3.A.V 3.Y.V 3.K.c	2.0 1.5 1.3 0.8	naukʰ	0	437
+240726	angoram-wagamut	1509_MOSQUITO	ˈnaukʰ	ˈnaukʰ	n a u kʰ		abbott1985	21750	4 7 7 1	AXYN	NAYK	6	6.N.C 6.A.V 6.Y.V 6.K.c	2.0 1.5 1.3 0.8	naukʰ	0	437
+240974	angoram-kanduanum	1509_MOSQUITO	ˈualuale	ˈualuale	u a l u a l e		abbott1985	21751	7 7 5 7 7 5 7	XYBYYBZ	YALYALE	2	2.Y.V 2.A.V 2.L.C 2.Y.V 2.A.V 2.L.C 2.E.V	1.5 1.3 1.75 1.3 1.3 1.75 0.8	ualuale	0	436
+240889	angoram-magendo	1509_MOSQUITO	ˈuařəřařəm	ˈuařəřařəm	u a r̝ ə r̝ a r̝ ə m		abbott1985	21751	7 7 5 7 5 7 5 7 4	XYBYBYBYN	YARERAREM	4	4.Y.V 4.A.V 4.R.C 4.E.V 4.R.C 4.A.V 4.R.C 4.E.V 4.M.c	1.5 1.3 1.75 1.3 1.75 1.3 1.75 1.3 0.8	uar̝ər̝ar̝əm	0	436
+240812	angoram-marbuk	1509_MOSQUITO	ˈořařa	ˈořařa	o r̝ a r̝ a		abbott1985	21751	7 5 7 5 7	XBYBZ	URARA	5	5.U.V 5.R.C 5.A.V 5.R.C 5.A.V	1.5 1.75 1.3 1.75 0.8	or̝ar̝a	0	436
+#
+239179	tok-pisin	1510_CHIN	wasket	wasket	w a s k e t	chin	abbott1985	46	6 7 3 1 7 1	AXMBYN	WASKET	10	10.W.C 10.A.V 10.S.c 10.K.C 10.E.V 10.T.c	2.0 1.5 1.1 1.75 1.3 0.8	wasket	0	453
+240157	chambri-kilimbit	1510_CHIN	kʰasəˈpi.ampʰ	kʰasəˈpi.ampʰ	kʰ a s ə p i + a m pʰ		abbott1985	21909	1 7 3 7 1 7 9 7 4 1	AXBYBZ_XLN	KASEPI_AMP	8	8.K.C 8.A.V 8.S.C 8.E.V 8.P.C 8.I.V 8._._ 8.A.V 8.M.c 8.P.c	2.0 1.5 1.75 1.3 1.75 0.8 0.0 1.5 1.1 0.8	kʰasəpi+ampʰ	0	444
+240472	kopar-singarin	1510_CHIN	ˈhʊsinaŋ	ˈhʊsinaŋ	h ʊ s i n a ŋ		abbott1985	21912	3 7 3 7 4 7 4	AXBYBYN	HYSINAN	9	9.H.C 9.Y.V 9.S.C 9.I.V 9.N.C 9.A.V 9.N.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	hʊsinaŋ	0	452
+240576	angoram-karau	1510_CHIN	ˈkʰʊšʊnakʰ	ˈkʰʊšʊnakʰ	kʰ ʊ ʂ ʊ n a kʰ		abbott1985	21913	1 7 3 7 4 7 1	AXBYBYN	KYSYNAK	3	3.K.C 3.Y.V 3.S.C 3.Y.V 3.N.C 3.A.V 3.K.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	kʰʊʂʊnakʰ	0	444
+240677	angoram-wagamut	1510_CHIN	ˈkʰʊsʊnakʰ	ˈkʰʊsʊnakʰ	kʰ ʊ s ʊ n a kʰ		abbott1985	21913	1 7 3 7 4 7 1	AXBYBYN	KYSYNAK	6	6.K.C 6.Y.V 6.S.C 6.Y.V 6.N.C 6.A.V 6.K.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	kʰʊsʊnakʰ	0	444
+240924	angoram-kanduanum	1510_CHIN	ˈuaŋgəndəm	ˈuaŋgəndəm	u a ŋ g ə n d ə m		abbott1985	21914	7 7 4 1 7 4 1 7 4	XYMBYMBYN	YANKENTEM	2	2.Y.V 2.A.V 2.N.c 2.K.C 2.E.V 2.N.c 2.T.C 2.E.V 2.M.c	1.5 1.3 1.1 1.75 1.3 1.1 1.75 1.3 0.8	uaŋgəndəm	0	445
+240849	angoram-magendo	1510_CHIN	ˈkʰasimuanəŋ	ˈkʰasimuanəŋ	kʰ a s i m u a n ə ŋ		abbott1985	21910	1 7 3 7 4 7 7 4 7 4	AXBYBYYBYN	KASIMYANEN	4	4.K.C 4.A.V 4.S.C 4.I.V 4.M.C 4.Y.V 4.A.V 4.N.C 4.E.V 4.N.c	2.0 1.5 1.75 1.3 1.75 1.3 1.3 1.75 1.3 0.8	kʰasimuanəŋ	0	444
+240764	angoram-marbuk	1510_CHIN	ˈkʰasəmʊanən	ˈkʰasəmʊanən	kʰ a s ə m ʊ a n ə n		abbott1985	21910	1 7 3 7 4 7 7 4 7 4	AXBYBYYBYN	KASEMYANEN	5	5.K.C 5.A.V 5.S.C 5.E.V 5.M.C 5.Y.V 5.A.V 5.N.C 5.E.V 5.N.c	2.0 1.5 1.75 1.3 1.75 1.3 1.3 1.75 1.3 0.8	kʰasəmʊanən	0	444
+240256	angoram-kambrindo	1510_CHIN	ˈkʰasimuanɩm	ˈkʰasimuanɩm	kʰ a s i m u a n ɪ m		abbott1985	21910	1 7 3 7 4 7 7 4 7 4	AXBYBYYBYN	KASIMYANIM	1	1.K.C 1.A.V 1.S.C 1.I.V 1.M.C 1.Y.V 1.A.V 1.N.C 1.I.V 1.M.c	2.0 1.5 1.75 1.3 1.75 1.3 1.3 1.75 1.3 0.8	kʰasimuanɪm	0	444
+240369	ap-ma-kambaramba	1510_CHIN	ˈmakaŋ	ˈmakaŋ	m a k a ŋ		abbott1985	21911	4 7 1 7 4	AXBYN	MAKAN	7	7.M.C 7.A.V 7.K.C 7.A.V 7.N.c	2.0 1.5 1.75 1.3 0.8	makaŋ	0	450
+#
+239255	tok-pisin	1539_BASKET	basket	basket	b a s k e t	basket	abbott1985	122	1 7 3 1 7 1	AXMBYN	PASKET	10	10.P.C 10.A.V 10.S.c 10.K.C 10.E.V 10.T.c	2.0 1.5 1.1 1.75 1.3 0.8	basket	0	460
+240207	chambri-kilimbit	1539_BASKET	ˈtši	ˈtši	ʈʂ i		abbott1985	21951	2 7	AX	CI	8	8.C.C 8.I.V	2.0 1.5	ʈʂi	0	458
+240972	angoram-kanduanum	1539_BASKET	ˈisi	ˈisi	i s i		abbott1985	21952	7 3 7	XBZ	ISI	2	2.I.V 2.S.C 2.I.V	1.5 1.75 0.8	isi	0	454
+240887	angoram-magendo	1539_BASKET	ˈisi	ˈisi	i s i		abbott1985	21952	7 3 7	XBZ	ISI	4	4.I.V 4.S.C 4.I.V	1.5 1.75 0.8	isi	0	454
+240810	angoram-marbuk	1539_BASKET	ˈisi	ˈisi	i s i		abbott1985	21952	7 3 7	XBZ	ISI	5	5.I.V 5.S.C 5.I.V	1.5 1.75 0.8	isi	0	454
+240325	angoram-kambrindo	1539_BASKET	ˈisi	ˈisi	i s i		abbott1985	317	7 3 7	XBZ	ISI	1	1.I.V 1.S.C 1.I.V	1.5 1.75 0.8	isi	0	454
+240424	ap-ma-kambaramba	1539_BASKET	ˈtsa	ˈtsa	ts a		abbott1985	344	2 7	AX	CA	7	7.C.C 7.A.V	2.0 1.5	tsa	0	458
+#
+239141	tok-pisin	1554_MAN	man	man	m a n	man	abbott1985	8	4 7 4	AXN	MAN	10	10.M.C 10.A.V 10.N.c	2.0 1.5 0.8	man	0	470
+240127	chambri-kilimbit	1554_MAN	nanmaˈslan	nanmaˈslan	n a n m a s l a n		abbott1985	21936	4 7 4 4 7 3 5 7 4	AXMBYBCYN	NANMASLAN	8	8.N.C 8.A.V 8.N.c 8.M.C 8.A.V 8.S.C 8.L.C 8.A.V 8.N.c	2.0 1.5 1.1 1.75 1.3 1.75 1.5 1.3 0.8	nanmaslan	0	468
+240432	kopar-singarin	1554_MAN	ˈnor̃	ˈnor̃	n o r̃		abbott1985	21939	4 7 5	AXN	NUR	9	9.N.C 9.U.V 9.R.c	2.0 1.5 0.8	nor̃	0	463
+240541	angoram-karau	1554_MAN	ˈnor̃	ˈnor̃	n o r̃		abbott1985	21939	4 7 5	AXN	NUR	3	3.N.C 3.U.V 3.R.c	2.0 1.5 0.8	nor̃	0	463
+240648	angoram-wagamut	1554_MAN	ˈnor̃	ˈnor̃	n o r̃		abbott1985	21939	4 7 5	AXN	NUR	6	6.N.C 6.U.V 6.R.c	2.0 1.5 0.8	nor̃	0	463
+240898	angoram-kanduanum	1554_MAN	ˈpʰondo	ˈpʰondo	pʰ o n d o		abbott1985	21937	1 7 4 1 7	AXMBZ	PUNTU	2	2.P.C 2.U.V 2.N.c 2.T.C 2.U.V	2.0 1.5 1.1 1.75 0.8	pʰondo	0	461
+240822	angoram-magendo	1554_MAN	ˈpʰondo	ˈpʰondo	pʰ o n d o		abbott1985	21937	1 7 4 1 7	AXMBZ	PUNTU	4	4.P.C 4.U.V 4.N.c 4.T.C 4.U.V	2.0 1.5 1.1 1.75 0.8	pʰondo	0	461
+240736	angoram-marbuk	1554_MAN	ˈpʰondo	ˈpʰondo	pʰ o n d o		abbott1985	21937	1 7 4 1 7	AXMBZ	PUNTU	5	5.P.C 5.U.V 5.N.c 5.T.C 5.U.V	2.0 1.5 1.1 1.75 0.8	pʰondo	0	461
+240217	angoram-kambrindo	1554_MAN	ˈpʰondo	ˈpʰondo	pʰ o n d o		abbott1985	21937	1 7 4 1 7	AXMBZ	PUNTU	1	1.P.C 1.U.V 1.N.c 1.T.C 1.U.V	2.0 1.5 1.1 1.75 0.8	pʰondo	0	461
+240333	ap-ma-kambaramba	1554_MAN	ˈyol	ˈyol	j o l		abbott1985	21938	6 7 5	AXN	JUL	7	7.J.C 7.U.V 7.L.c	2.0 1.5 0.8	jol	0	467
+#
+239234	tok-pisin	1585_SLEEP	em i slip	em_i_slip	e m + i + s l i p	he sleeps	abbott1985	101	7 4 9 7 9 3 5 7 1	XN_X_ACXN	EM_I_SLIP	10	10.E.V 10.M.c 10._._ 10.I.V 10._._ 10.S.C 10.L.C 10.I.V 10.P.c	1.5 0.8 0.0 1.5 0.0 2.0 1.5 1.5 0.8	em+i+slip	1	474
+240442	kopar-singarin	1585_SLEEP	ˈmakʰantʰəkʰambaiyə	ˈmakʰantʰəkʰambaiyə	m a kʰ a n tʰ ə kʰ a m b a i j ə		abbott1985	152	4 7 1 7 4 1 7 1 7 4 1 7 7 6 7	AXBYMBYBYMBYYBZ	MAKANTEKAMPAIJE	9	9.M.C 9.A.V 9.K.C 9.A.V 9.N.c 9.T.C 9.E.V 9.K.C 9.A.V 9.M.c 9.P.C 9.A.V 9.I.V 9.J.C 9.E.V	2.0 1.5 1.75 1.3 1.1 1.75 1.3 1.75 1.3 1.1 1.75 1.3 1.3 1.75 0.8	makʰantʰəkʰambaijə	0	473
+240519	kopar-singarin	1585_SLEEP	ˈmakʰantakʰümboyə	ˈmakʰantakʰümboyə	m a kʰ a n t a kʰ ü/u m b o j ə		abbott1985	173	4 7 1 7 4 1 7 1 7 4 1 7 6 7	AXBYMBYBYMBYBZ	MAKANTAKYMPUJE	9	9.M.C 9.A.V 9.K.C 9.A.V 9.N.c 9.T.C 9.A.V 9.K.C 9.Y.V 9.M.c 9.P.C 9.U.V 9.J.C 9.E.V	2.0 1.5 1.75 1.3 1.1 1.75 1.3 1.75 1.3 1.1 1.75 1.3 1.75 0.8	makʰantakʰü/umbojə	0	473
+240546	angoram-karau	1585_SLEEP	ˈtʰoařə	ˈtʰoařə	tʰ o a r̝ ə		abbott1985	179	1 7 7 5 7	AXYBZ	TUARE	3	3.T.C 3.U.V 3.A.V 3.R.C 3.E.V	2.0 1.5 1.3 1.75 0.8	tʰoar̝ə	0	472
+240625	angoram-karau	1585_SLEEP	ˈmanwařagařa	ˈmanwařagařa	m a n w a r̝ a g a r̝ a		abbott1985	201	4 7 4 6 7 5 7 1 7 5 7	AXBCYBYBYBZ	MANWARAKARA	3	3.M.C 3.A.V 3.N.C 3.W.C 3.A.V 3.R.C 3.A.V 3.K.C 3.A.V 3.R.C 3.A.V	2.0 1.5 1.75 1.5 1.3 1.75 1.3 1.75 1.3 1.75 0.8	manwar̝agar̝a	0	476
+240226	angoram-kambrindo	1585_SLEEP	nanˈkʰontšikʰa	nanˈkʰontšikʰa	n a n kʰ o n ʈʂ i kʰ a		abbott1985	283	4 7 4 1 7 4 2 7 1 7	AXMBYMBYBZ	NANKUNCIKA	1	1.N.C 1.A.V 1.N.c 1.K.C 1.U.V 1.N.c 1.C.C 1.I.V 1.K.C 1.A.V	2.0 1.5 1.1 1.75 1.3 1.1 1.75 1.3 1.75 0.8	nankʰonʈʂikʰa	0	471
+240303	angoram-kambrindo	1585_SLEEP	ˈnankʰondžikʰa	ˈnankʰondžikʰa	n a n kʰ o n dʒ i kʰ a		abbott1985	305	4 7 4 1 7 4 1 7 1 7	AXMBYMBYBZ	NANKUNTIKA	1	1.N.C 1.A.V 1.N.c 1.K.C 1.U.V 1.N.c 1.T.C 1.I.V 1.K.C 1.A.V	2.0 1.5 1.1 1.75 1.3 1.1 1.75 1.3 1.75 0.8	nankʰondʒikʰa	0	471
+#
+239203	tok-pisin	159_SWEET_POTATO	kaukau	kaukau	k a u k a u	sweet potato	abbott1985	70	1 7 7 1 7 7	AXYBYZ	KAYKAY	10	10.K.C 10.A.V 10.Y.V 10.K.C 10.A.V 10.Y.V	2.0 1.5 1.3 1.75 1.3 0.8	kaukau	0	481
+240493	kopar-singarin	159_SWEET_POTATO	angʊmařəpapakil	angʊmařəpapakil	a n g ʊ m a r̝ ə p a p a k i l		abbott1985	21829	7 4 1 7 4 7 5 7 1 7 1 7 1 7 5	XMBYBYBYBYBYBYN	ANKYMAREPAPAKIL	9	9.A.V 9.N.c 9.K.C 9.Y.V 9.M.C 9.A.V 9.R.C 9.E.V 9.P.C 9.A.V 9.P.C 9.A.V 9.K.C 9.I.V 9.L.c	1.5 1.1 1.75 1.3 1.75 1.3 1.75 1.3 1.75 1.3 1.75 1.3 1.75 1.3 0.8	angʊmar̝əpapakil	0	480
+240598	angoram-karau	159_SWEET_POTATO	ˈambandəkʰin	ˈambandəkʰin	a m b a n d ə kʰ i n		abbott1985	21830	7 4 1 7 4 1 7 1 7 4	XMBYMBYBYN	AMPANTEKIN	3	3.A.V 3.M.c 3.P.C 3.A.V 3.N.c 3.T.C 3.E.V 3.K.C 3.I.V 3.N.c	1.5 1.1 1.75 1.3 1.1 1.75 1.3 1.75 1.3 0.8	ambandəkʰin	0	477
+240695	angoram-wagamut	159_SWEET_POTATO	ˈnəmbantʰəkʰi	ˈnəmbantʰəkʰi	n ə m b a n tʰ ə kʰ i		abbott1985	21830	4 7 4 1 7 4 1 7 1 7	AXMBYMBYBZ	NEMPANTEKI	6	6.N.C 6.E.V 6.M.c 6.P.C 6.A.V 6.N.c 6.T.C 6.E.V 6.K.C 6.I.V	2.0 1.5 1.1 1.75 1.3 1.1 1.75 1.3 1.75 0.8	nəmbantʰəkʰi	0	479
+240786	angoram-marbuk	159_SWEET_POTATO	ˈgawepapakʰil	ˈgawepapakʰil	g a w e p a p a kʰ i l		abbott1985	21829	1 7 6 7 1 7 1 7 1 7 5	AXBYBYBYBYN	KAWEPAPAKIL	5	5.K.C 5.A.V 5.W.C 5.E.V 5.P.C 5.A.V 5.P.C 5.A.V 5.K.C 5.I.V 5.L.c	2.0 1.5 1.75 1.3 1.75 1.3 1.75 1.3 1.75 1.3 0.8	gawepapakʰil	0	478
+#
+239219	tok-pisin	1645_SHORT	sotpela	sotpela	s o t p e l a	short	abbott1985	86	3 7 1 1 7 5 7	AXMBYBZ	SUTPELA	10	10.S.C 10.U.V 10.T.c 10.P.C 10.E.V 10.L.C 10.A.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	sotpela	0	490
+240188	chambri-kilimbit	1645_SHORT	ˈapr̃əampʰ	ˈapr̃əampʰ	a p r̃ ə a m pʰ		abbott1985	21862	7 1 5 7 7 4 1	XBCYYLN	APREAMP	8	8.A.V 8.P.C 8.R.C 8.E.V 8.A.V 8.M.c 8.P.c	1.5 1.75 1.5 1.3 1.3 1.1 0.8	apr̃əampʰ	0	488
+240508	kopar-singarin	1645_SHORT	ˈkʰatarükʰükʰ	ˈkʰatarükʰükʰ	kʰ a t a r ü/u kʰ ü/u kʰ		abbott1985	21865	1 7 1 7 5 7 1 7 1	AXBYBYBYN	KATARYKYK	9	9.K.C 9.A.V 9.T.C 9.A.V 9.R.C 9.Y.V 9.K.C 9.Y.V 9.K.c	2.0 1.5 1.75 1.3 1.75 1.3 1.75 1.3 0.8	kʰatarü/ukʰü/ukʰ	0	489
+240613	angoram-karau	1645_SHORT	ˈpʰokʰopʰo	ˈpʰokʰopʰo	pʰ o kʰ o pʰ o		abbott1985	21866	1 7 1 7 1 7	AXBYBZ	PUKUPU	3	3.P.C 3.U.V 3.K.C 3.U.V 3.P.C 3.U.V	2.0 1.5 1.75 1.3 1.75 0.8	pʰokʰopʰo	0	484
+240710	angoram-wagamut	1645_SHORT	ˈpʰokʰopʰo	ˈpʰokʰopʰo	pʰ o kʰ o pʰ o		abbott1985	21866	1 7 1 7 1 7	AXBYBZ	PUKUPU	6	6.P.C 6.U.V 6.K.C 6.U.V 6.P.C 6.U.V	2.0 1.5 1.75 1.3 1.75 0.8	pʰokʰopʰo	0	484
+240959	angoram-kanduanum	1645_SHORT	kʰar̃agəmˈpʰənagəm	kʰar̃agəmˈpʰənagəm	kʰ a r̃ a g ə m pʰ ə n a g ə m		abbott1985	21867	1 7 5 7 1 7 4 1 7 4 7 1 7 4	AXBYBYMBYBYBYN	KARAKEMPENAKEM	2	2.K.C 2.A.V 2.R.C 2.A.V 2.K.C 2.E.V 2.M.c 2.P.C 2.E.V 2.N.C 2.A.V 2.K.C 2.E.V 2.M.c	2.0 1.5 1.75 1.3 1.75 1.3 1.1 1.75 1.3 1.75 1.3 1.75 1.3 0.8	kʰar̃agəmpʰənagəm	0	483
+240801	angoram-marbuk	1645_SHORT	ˈkʰasakʰən	ˈkʰasakʰən	kʰ a s a kʰ ə n		abbott1985	21863	1 7 3 7 1 7 4	AXBYBYN	KASAKEN	5	5.K.C 5.A.V 5.S.C 5.A.V 5.K.C 5.E.V 5.N.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	kʰasakʰən	0	482
+240293	angoram-kambrindo	1645_SHORT	ˈkʰaisekʰan	ˈkʰaisekʰan	kʰ a i s e kʰ a n		abbott1985	21863	1 7 7 3 7 1 7 4	AXYBYBYN	KAISEKAN	1	1.K.C 1.A.V 1.I.V 1.S.C 1.E.V 1.K.C 1.A.V 1.N.c	2.0 1.5 1.3 1.75 1.3 1.75 1.3 0.8	kʰaisekʰan	0	482
+240403	ap-ma-kambaramba	1645_SHORT	ˈtʰe	ˈtʰe	tʰ e		abbott1985	21864	1 7	AX	TE	7	7.T.C 7.E.V	2.0 1.5	tʰe	0	487
+#
+239188	tok-pisin	1646_GIRL	yangpela meri	yangpela_meri	j a n g p e l a + m e r i	girl	abbott1985	55	6 7 4 1 1 7 5 7 9 4 7 5 7	AXLMBYBZ_AXBZ	JANKPELA_MERI	10	10.J.C 10.A.V 10.N.c 10.K.c 10.P.C 10.E.V 10.L.C 10.A.V 10._._ 10.M.C 10.E.V 10.R.C 10.I.V	2.0 1.5 1.1 1.1 1.75 1.3 1.75 0.8 0.0 2.0 1.5 1.75 0.8	jangpela+meri	0	499
+240166	chambri-kilimbit	1646_GIRL	ˈnəmˈpar̃əkwenən	ˈnəmˈpar̃əkwenən	n ə m p a r̃ ə k w e n ə n		abbott1985	21940	4 7 4 1 7 5 7 1 6 7 4 7 4	AXMBYBYBCYBYN	NEMPAREKWENEN	8	8.N.C 8.E.V 8.M.c 8.P.C 8.A.V 8.R.C 8.E.V 8.K.C 8.W.C 8.E.V 8.N.C 8.E.V 8.N.c	2.0 1.5 1.1 1.75 1.3 1.75 1.3 1.75 1.5 1.3 1.75 1.3 0.8	nəmpar̃əkwenən	0	495
+240479	kopar-singarin	1646_GIRL	ˈpisietamantʰakʰ	ˈpisietamantʰakʰ	p i s i e t a m a n tʰ a kʰ		abbott1985	161	1 7 3 7 7 1 7 4 7 4 1 7 1	AXBYYBYBYMBYN	PISIETAMANTAK	9	9.P.C 9.I.V 9.S.C 9.I.V 9.E.V 9.T.C 9.A.V 9.M.C 9.A.V 9.N.c 9.T.C 9.A.V 9.K.c	2.0 1.5 1.75 1.3 1.3 1.75 1.3 1.75 1.3 1.1 1.75 1.3 0.8	pisietamantʰakʰ	0	498
+240583	angoram-karau	1646_GIRL	nasegaŋgan	nasegaŋgan	n a s e g a ŋ g a n		abbott1985	188	4 7 3 7 1 7 4 1 7 4	AXBYBYMBYN	NASEKANKAN	3	3.N.C 3.A.V 3.S.C 3.E.V 3.K.C 3.A.V 3.N.c 3.K.C 3.A.V 3.N.c	2.0 1.5 1.75 1.3 1.75 1.3 1.1 1.75 1.3 0.8	nasegaŋgan	0	493
+240932	angoram-kanduanum	1646_GIRL	ˈmamse	ˈmamse	m a m s e		abbott1985	230	4 7 4 3 7	AXMBZ	MAMSE	2	2.M.C 2.A.V 2.M.c 2.S.C 2.E.V	2.0 1.5 1.1 1.75 0.8	mamse	0	492
+240857	angoram-magendo	1646_GIRL	ˈtʰomandže	ˈtʰomandže	tʰ o m a n dʒ e		abbott1985	253	1 7 4 7 4 1 7	AXBYMBZ	TUMANTE	4	4.T.C 4.U.V 4.M.C 4.A.V 4.N.c 4.T.C 4.E.V	2.0 1.5 1.75 1.3 1.1 1.75 0.8	tʰomandʒe	0	491
+240772	angoram-marbuk	1646_GIRL	ˈŋamantʰəkʰ	ˈŋamantʰəkʰ	ŋ a m a n tʰ ə kʰ		abbott1985	269	4 7 4 7 4 1 7 1	AXBYMBYN	NAMANTEK	5	5.N.C 5.A.V 5.M.C 5.A.V 5.N.c 5.T.C 5.E.V 5.K.c	2.0 1.5 1.75 1.3 1.1 1.75 1.3 0.8	ŋamantʰəkʰ	0	495
+240263	angoram-kambrindo	1646_GIRL	ˈtʰomanse	ˈtʰomanse	tʰ o m a n s e		abbott1985	292	1 7 4 7 4 3 7	AXBYMBZ	TUMANSE	1	1.T.C 1.U.V 1.M.C 1.A.V 1.N.c 1.S.C 1.E.V	2.0 1.5 1.75 1.3 1.1 1.75 0.8	tʰomanse	0	491
+240376	ap-ma-kambaramba	1646_GIRL	ˈleŋkʰan	ˈleŋkʰan	l e ŋ kʰ a n		abbott1985	331	5 7 4 1 7 4	AXMBYN	LENKAN	7	7.L.C 7.E.V 7.N.c 7.K.C 7.A.V 7.N.c	2.0 1.5 1.1 1.75 1.3 0.8	leŋkʰan	0	496
+#
+239195	tok-pisin	1758_OLDER_SISTER	bikpela susa bilong man	bikpela_susa_bilong_man	b i k p e l a + s u s a + b i l o n g + m a n	older sister	abbott1985	62	1 7 1 1 7 5 7 9 3 7 3 7 9 1 7 5 7 4 1 9 4 7 4	AXMBYBZ_AXBZ_AXBYLN_AXN	PIKPELA_SYSA_PILUNK_MAN	10	10.P.C 10.I.V 10.K.c 10.P.C 10.E.V 10.L.C 10.A.V 10._._ 10.S.C 10.Y.V 10.S.C 10.A.V 10._._ 10.P.C 10.I.V 10.L.C 10.U.V 10.N.c 10.K.c 10._._ 10.M.C 10.A.V 10.N.c	2.0 1.5 1.1 1.75 1.3 1.75 0.8 0.0 2.0 1.5 1.75 0.8 0.0 2.0 1.5 1.75 1.3 1.1 0.8 0.0 2.0 1.5 0.8	bikpela+susa+bilong+man	0	507
+240486	kopar-singarin	1758_OLDER_SISTER	ˈmamakʰapan	ˈmamakʰapan	m a m a kʰ a p a n		abbott1985	165	4 7 4 7 1 7 1 7 4	AXBYBYBYN	MAMAKAPAN	9	9.M.C 9.A.V 9.M.C 9.A.V 9.K.C 9.A.V 9.P.C 9.A.V 9.N.c	2.0 1.5 1.75 1.3 1.75 1.3 1.75 1.3 0.8	mamakʰapan	0	506
+240590	angoram-karau	1758_OLDER_SISTER	ˈtʰatʰən	ˈtʰatʰən	tʰ a tʰ ə n		abbott1985	192	1 7 1 7 4	AXBYN	TATEN	3	3.T.C 3.A.V 3.T.C 3.E.V 3.N.c	2.0 1.5 1.75 1.3 0.8	tʰatʰən	0	502
+240688	angoram-wagamut	1758_OLDER_SISTER	ˈtʰatən	ˈtʰatən	tʰ a t ə n		abbott1985	216	1 7 1 7 4	AXBYN	TATEN	6	6.T.C 6.A.V 6.T.C 6.E.V 6.N.c	2.0 1.5 1.75 1.3 0.8	tʰatən	0	502
+240940	angoram-kanduanum	1758_OLDER_SISTER	ˈman	ˈman	m a n		abbott1985	235	4 7 4	AXN	MAN	2	2.M.C 2.A.V 2.N.c	2.0 1.5 0.8	man	0	501
+240864	angoram-magendo	1758_OLDER_SISTER	ˈuɛřəme	ˈuɛřəme	u ɛ r̝ ə m e		abbott1985	257	7 7 5 7 4 7	XYBYBZ	YEREME	4	4.Y.V 4.E.V 4.R.C 4.E.V 4.M.C 4.E.V	1.5 1.3 1.75 1.3 1.75 0.8	uɛr̝əme	0	503
+240780	angoram-marbuk	1758_OLDER_SISTER	ˈmanənˈkʰopʰan	ˈmanənˈkʰopʰan	m a n ə n kʰ o pʰ a n		abbott1985	274	4 7 4 7 4 1 7 1 7 4	AXBYMBYBYN	MANENKUPAN	5	5.M.C 5.A.V 5.N.C 5.E.V 5.N.c 5.K.C 5.U.V 5.P.C 5.A.V 5.N.c	2.0 1.5 1.75 1.3 1.1 1.75 1.3 1.75 1.3 0.8	manənkʰopʰan	0	501
+240271	angoram-kambrindo	1758_OLDER_SISTER	ˈweɛřmə	ˈweɛřmə	w e ɛ r̝ m ə		abbott1985	297	6 7 7 5 4 7	AXYMBZ	WEERME	1	1.W.C 1.E.V 1.E.V 1.R.c 1.M.C 1.E.V	2.0 1.5 1.3 1.1 1.75 0.8	weɛr̝mə	0	500
+#
+239194	tok-pisin	1759_OLDER_BROTHER	bikpela brata bilong man	bikpela_brata_bilong_man	b i k p e l a + b r a t a + b i l o n g + m a n	older brother	abbott1985	61	1 7 1 1 7 5 7 9 1 5 7 1 7 9 1 7 5 7 4 1 9 4 7 4	AXMBYBZ_ACXBZ_AXBYLN_AXN	PIKPELA_PRATA_PILUNK_MAN	10	10.P.C 10.I.V 10.K.c 10.P.C 10.E.V 10.L.C 10.A.V 10._._ 10.P.C 10.R.C 10.A.V 10.T.C 10.A.V 10._._ 10.P.C 10.I.V 10.L.C 10.U.V 10.N.c 10.K.c 10._._ 10.M.C 10.A.V 10.N.c	2.0 1.5 1.1 1.75 1.3 1.75 0.8 0.0 2.0 1.5 1.5 1.75 0.8 0.0 2.0 1.5 1.75 1.3 1.1 0.8 0.0 2.0 1.5 0.8	bikpela+brata+bilong+man	0	515
+240485	kopar-singarin	1759_OLDER_BROTHER	ˈkʰakʰan	ˈkʰakʰan	kʰ a kʰ a n		abbott1985	21957	1 7 1 7 4	AXBYN	KAKAN	9	9.K.C 9.A.V 9.K.C 9.A.V 9.N.c	2.0 1.5 1.75 1.3 0.8	kʰakʰan	0	514
+240589	angoram-karau	1759_OLDER_BROTHER	ˈtʰatʰan	ˈtʰatʰan	tʰ a tʰ a n		abbott1985	21958	1 7 1 7 4	AXBYN	TATAN	3	3.T.C 3.A.V 3.T.C 3.A.V 3.N.c	2.0 1.5 1.75 1.3 0.8	tʰatʰan	0	510
+240687	angoram-wagamut	1759_OLDER_BROTHER	ˈtʰatʰan	ˈtʰatʰan	tʰ a tʰ a n		abbott1985	21958	1 7 1 7 4	AXBYN	TATAN	6	6.T.C 6.A.V 6.T.C 6.A.V 6.N.c	2.0 1.5 1.75 1.3 0.8	tʰatʰan	0	510
+240939	angoram-kanduanum	1759_OLDER_BROTHER	ˈatʰukʰ	ˈatʰukʰ	a tʰ u kʰ		abbott1985	21956	7 1 7 1	XBYN	ATYK	2	2.A.V 2.T.C 2.Y.V 2.K.c	1.5 1.75 1.3 0.8	atʰukʰ	0	508
+240863	angoram-magendo	1759_OLDER_BROTHER	ˈatʰukʰ	ˈatʰukʰ	a tʰ u kʰ		abbott1985	21956	7 1 7 1	XBYN	ATYK	4	4.A.V 4.T.C 4.Y.V 4.K.c	1.5 1.75 1.3 0.8	atʰukʰ	0	508
+240779	angoram-marbuk	1759_OLDER_BROTHER	ˈatʰukʰ	ˈatʰukʰ	a tʰ u kʰ		abbott1985	21956	7 1 7 1	XBYN	ATYK	5	5.A.V 5.T.C 5.Y.V 5.K.c	1.5 1.75 1.3 0.8	atʰukʰ	0	508
+240270	angoram-kambrindo	1759_OLDER_BROTHER	ˈatʰukʰ	ˈatʰukʰ	a tʰ u kʰ		abbott1985	21956	7 1 7 1	XBYN	ATYK	1	1.A.V 1.T.C 1.Y.V 1.K.c	1.5 1.75 1.3 0.8	atʰukʰ	0	508
+#
+239181	tok-pisin	1781_THUMB	nambawan pinga	nambawan_pinga	n a m b a w a n + p i n g a	thumb	abbott1985	48	4 7 4 1 7 6 7 4 9 1 7 4 1 7	AXMBYBYN_AXMBZ	NAMPAWAN_PINKA	10	10.N.C 10.A.V 10.M.c 10.P.C 10.A.V 10.W.C 10.A.V 10.N.c 10._._ 10.P.C 10.I.V 10.N.c 10.K.C 10.A.V	2.0 1.5 1.1 1.75 1.3 1.75 1.3 0.8 0.0 2.0 1.5 1.1 1.75 0.8	nambawan+pinga	0	524
+240160	chambri-kilimbit	1781_THUMB	ˈbwiəmpʰ	ˈbwiəmpʰ	b w i ə m pʰ		abbott1985	21720	1 6 7 7 4 1	ACXYLN	PWIEMP	8	8.P.C 8.W.C 8.I.V 8.E.V 8.M.c 8.P.c	2.0 1.5 1.5 1.3 1.1 0.8	bwiəmpʰ	0	522
+240474	kopar-singarin	1781_THUMB	ˈkʰapam	ˈkʰapam	kʰ a p a m		abbott1985	159	1 7 1 7 4	AXBYN	KAPAM	9	9.K.C 9.A.V 9.P.C 9.A.V 9.M.c	2.0 1.5 1.75 1.3 0.8	kʰapam	0	523
+240578	angoram-karau	1781_THUMB	ˈdařipʰinən	ˈdařipʰinən	d a r̝ i pʰ i n ə n		abbott1985	186	1 7 5 7 1 7 4 7 4	AXBYBYBYN	TARIPINEN	3	3.T.C 3.A.V 3.R.C 3.I.V 3.P.C 3.I.V 3.N.C 3.E.V 3.N.c	2.0 1.5 1.75 1.3 1.75 1.3 1.75 1.3 0.8	dar̝ipʰinən	0	518
+240926	angoram-kanduanum	1781_THUMB	ˈnʊŋonʊŋoa	ˈnʊŋonʊŋoa	n ʊ ŋ o n ʊ ŋ o a		abbott1985	227	4 7 4 7 4 7 4 7 7	AXBYBYBYZ	NYNUNYNUA	2	2.N.C 2.Y.V 2.N.C 2.U.V 2.N.C 2.Y.V 2.N.C 2.U.V 2.A.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 1.3 0.8	nʊŋonʊŋoa	0	516
+240851	angoram-magendo	1781_THUMB	ˈmbeŋ	ˈmbeŋ	m b e ŋ		abbott1985	250	4 1 7 4	ACYN	MPEN	4	4.M.C 4.P.C 4.E.V 4.N.c	2.0 1.5 1.3 0.8	mbeŋ	0	519
+240766	angoram-marbuk	1781_THUMB	ˈpiŋɩm	ˈpiŋɩm	p i ŋ ɪ m		abbott1985	266	1 7 4 7 4	AXBYN	PINIM	5	5.P.C 5.I.V 5.N.C 5.I.V 5.M.c	2.0 1.5 1.75 1.3 0.8	piŋɪm	0	520
+240258	angoram-kambrindo	1781_THUMB	ˈnʊŋonaŋkʰam	ˈnʊŋonaŋkʰam	n ʊ ŋ o n a ŋ kʰ a m		abbott1985	290	4 7 4 7 4 7 4 1 7 4	AXBYBYMBYN	NYNUNANKAM	1	1.N.C 1.Y.V 1.N.C 1.U.V 1.N.C 1.A.V 1.N.c 1.K.C 1.A.V 1.M.c	2.0 1.5 1.75 1.3 1.75 1.3 1.1 1.75 1.3 0.8	nʊŋonaŋkʰam	0	516
+240371	ap-ma-kambaramba	1781_THUMB	ˈiokʰotonam	ˈiokʰotonam	i o kʰ o t o n a m		abbott1985	329	7 7 1 7 1 7 4 7 4	XYBYBYBYN	IUKUTUNAM	7	7.I.V 7.U.V 7.K.C 7.U.V 7.T.C 7.U.V 7.N.C 7.A.V 7.M.c	1.5 1.3 1.75 1.3 1.75 1.3 1.75 1.3 0.8	iokʰotonam	0	521
+#
+239256	tok-pisin	1857_CROCODILE	pukpuk	pukpuk	p u k p u k	crocodile	abbott1985	123	1 7 1 1 7 1	AXMBYN	PYKPYK	10	10.P.C 10.Y.V 10.K.c 10.P.C 10.Y.V 10.K.c	2.0 1.5 1.1 1.75 1.3 0.8	pukpuk	0	532
+240208	chambri-kilimbit	1857_CROCODILE	ˈayi	ˈayi	a j i		abbott1985	21758	7 6 7	XBZ	AJI	8	8.A.V 8.J.C 8.I.V	1.5 1.75 0.8	aji	0	530
+240532	kopar-singarin	1857_CROCODILE	ˈoramen	ˈoramen	o r a m e n		abbott1985	21759	7 5 7 4 7 4	XBYBYN	URAMEN	9	9.U.V 9.R.C 9.A.V 9.M.C 9.E.V 9.N.c	1.5 1.75 1.3 1.75 1.3 0.8	oramen	0	527
+240637	angoram-karau	1857_CROCODILE	ˈdwamin	ˈdwamin	d w a m i n		abbott1985	21759	1 6 7 4 7 4	ACXBYN	TWAMIN	3	3.T.C 3.W.C 3.A.V 3.M.C 3.I.V 3.N.c	2.0 1.5 1.5 1.75 1.3 0.8	dwamin	0	526
+240725	angoram-wagamut	1857_CROCODILE	ˈdwamin	ˈdwamin	d w a m i n		abbott1985	21759	1 6 7 4 7 4	ACXBYN	TWAMIN	6	6.T.C 6.W.C 6.A.V 6.M.C 6.I.V 6.N.c	2.0 1.5 1.5 1.75 1.3 0.8	dwamin	0	526
+240973	angoram-kanduanum	1857_CROCODILE	ˈuaiami	ˈuaiami	u a i a m i		abbott1985	21759	7 7 7 7 4 7	XYYYBZ	YAIAMI	2	2.Y.V 2.A.V 2.I.V 2.A.V 2.M.C 2.I.V	1.5 1.3 1.3 1.3 1.75 0.8	uaiami	0	525
+240888	angoram-magendo	1857_CROCODILE	ˈuařami	ˈuařami	u a r̝ a m i		abbott1985	21759	7 7 5 7 4 7	XYBYBZ	YARAMI	4	4.Y.V 4.A.V 4.R.C 4.A.V 4.M.C 4.I.V	1.5 1.3 1.75 1.3 1.75 0.8	uar̝ami	0	527
+240811	angoram-marbuk	1857_CROCODILE	ˈuařami	ˈuařami	u a r̝ a m i		abbott1985	21759	7 7 5 7 4 7	XYBYBZ	YARAMI	5	5.Y.V 5.A.V 5.R.C 5.A.V 5.M.C 5.I.V	1.5 1.3 1.75 1.3 1.75 0.8	uar̝ami	0	527
+#
+239134	tok-pisin	189_HAIR_BODY	grass bilong het	grass_bilong_het	g r a s s + b i l o n g + h e t	head hair	abbott1985	1	1 5 7 3 3 9 1 7 5 7 4 1 9 3 7 1	ACXLN_AXBYLN_AXN	KRASS_PILUNK_HET	10	10.K.C 10.R.C 10.A.V 10.S.c 10.S.c 10._._ 10.P.C 10.I.V 10.L.C 10.U.V 10.N.c 10.K.c 10._._ 10.H.C 10.E.V 10.T.c	2.0 1.5 1.5 1.1 0.8 0.0 2.0 1.5 1.75 1.3 1.1 0.8 0.0 2.0 1.5 0.8	grass+bilong+het	0	542
+240119	chambri-kilimbit	189_HAIR_BODY	wɔˈbr̃i	wɔˈbr̃i	w ɔ b r̃ i		abbott1985	21599	6 7 1 5 7	AXBCZ	WUPRI	8	8.W.C 8.U.V 8.P.C 8.R.C 8.I.V	2.0 1.5 1.75 1.5 0.8	wɔbr̃i	0	533
+240425	kopar-singarin	189_HAIR_BODY	ˈdwar	ˈdwar	d w a r		abbott1985	21601	1 6 7 5	ACXN	TWAR	9	9.T.C 9.W.C 9.A.V 9.R.c	2.0 1.5 1.5 0.8	dwar	0	535
+240534	angoram-karau	189_HAIR_BODY	ˈdwar	ˈdwar	d w a r		abbott1985	21601	1 6 7 5	ACXN	TWAR	3	3.T.C 3.W.C 3.A.V 3.R.c	2.0 1.5 1.5 0.8	dwar	0	535
+240641	angoram-wagamut	189_HAIR_BODY	ˈmošụr̃	ˈmošụr̃	m o ʂ ụ/u r̃		abbott1985	21602	4 7 3 7 5	AXBYN	MUSYR	6	6.M.C 6.U.V 6.S.C 6.Y.V 6.R.c	2.0 1.5 1.75 1.3 0.8	moʂụ/ur̃	0	538
+240891	angoram-kanduanum	189_HAIR_BODY	bʊgəmaře	bʊgəmaře	b ʊ g ə m a r̝ e		abbott1985	21603	1 7 1 7 4 7 5 7	AXBYBYBZ	PYKEMARE	2	2.P.C 2.Y.V 2.K.C 2.E.V 2.M.C 2.A.V 2.R.C 2.E.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	bʊgəmar̝e	0	534
+240815	angoram-magendo	189_HAIR_BODY	ˈwabɩr̃	ˈwabɩr̃	w a b ɪ r̃		abbott1985	21599	6 7 1 7 5	AXBYN	WAPIR	4	4.W.C 4.A.V 4.P.C 4.I.V 4.R.c	2.0 1.5 1.75 1.3 0.8	wabɪr̃	0	533
+240729	angoram-marbuk	189_HAIR_BODY	ˈwobɩr̃	ˈwobɩr̃	w o b ɪ r̃		abbott1985	21599	6 7 1 7 5	AXBYN	WUPIR	5	5.W.C 5.U.V 5.P.C 5.I.V 5.R.c	2.0 1.5 1.75 1.3 0.8	wobɪr̃	0	533
+240210	angoram-kambrindo	189_HAIR_BODY	ˈwaˈbɩr̃	ˈwaˈbɩr̃	w a b ɪ r̃		abbott1985	21599	6 7 1 7 5	AXBYN	WAPIR	1	1.W.C 1.A.V 1.P.C 1.I.V 1.R.c	2.0 1.5 1.75 1.3 0.8	wabɪr̃	0	533
+240326	ap-ma-kambaramba	189_HAIR_BODY	ˈwai	ˈwai	w a i		abbott1985	21600	6 7 7	AXZ	WAI	7	7.W.C 7.A.V 7.I.V	2.0 1.5 0.8	wai	0	539
+#
+239252	tok-pisin	1970_CANOE	kanu	kanu	k a n u	canoe	abbott1985	119	1 7 4 7	AXBZ	KANY	10	10.K.C 10.A.V 10.N.C 10.Y.V	2.0 1.5 1.75 0.8	kanu	0	545
+240205	chambri-kilimbit	1970_CANOE	ˈkʰe	ˈkʰe	kʰ e		abbott1985	21706	1 7	AX	KE	8	8.K.C 8.E.V	2.0 1.5	kʰe	0	543
+240529	kopar-singarin	1970_CANOE	ˈkʰain	ˈkʰain	kʰ a i n		abbott1985	21708	1 7 7 4	AXYN	KAIN	9	9.K.C 9.A.V 9.I.V 9.N.c	2.0 1.5 1.3 0.8	kʰain	0	545
+240635	angoram-karau	1970_CANOE	ˈgain	ˈgain	g a i n		abbott1985	21708	1 7 7 4	AXYN	KAIN	3	3.K.C 3.A.V 3.I.V 3.N.c	2.0 1.5 1.3 0.8	gain	0	545
+240723	angoram-wagamut	1970_CANOE	ˈgain	ˈgain	g a i n		abbott1985	21708	1 7 7 4	AXYN	KAIN	6	6.K.C 6.A.V 6.I.V 6.N.c	2.0 1.5 1.3 0.8	gain	0	545
+240970	angoram-kanduanum	1970_CANOE	ˈkʰe	ˈkʰe	kʰ e		abbott1985	242	1 7	AX	KE	2	2.K.C 2.E.V	2.0 1.5	kʰe	0	543
+240885	angoram-magendo	1970_CANOE	ˈkʰe	ˈkʰe	kʰ e		abbott1985	21709	1 7	AX	KE	4	4.K.C 4.E.V	2.0 1.5	kʰe	0	543
+240808	angoram-marbuk	1970_CANOE	ˈkʰaiř	ˈkʰaiř	kʰ a i r̝		abbott1985	21708	1 7 7 5	AXYN	KAIR	5	5.K.C 5.A.V 5.I.V 5.R.c	2.0 1.5 1.3 0.8	kʰair̝	0	547
+240322	angoram-kambrindo	1970_CANOE	ˈkʰe	ˈkʰe	kʰ e		abbott1985	21706	1 7	AX	KE	1	1.K.C 1.E.V	2.0 1.5	kʰe	0	543
+240421	ap-ma-kambaramba	1970_CANOE	ˈməndʊma	ˈməndʊma	m ə n d ʊ m a		abbott1985	21707	4 7 4 1 7 4 7	AXMBYBZ	MENTYMA	7	7.M.C 7.E.V 7.N.c 7.T.C 7.Y.V 7.M.C 7.A.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	məndʊma	0	549
+#
+239144	tok-pisin	2009_DOG	dok	dok	d o k	dog	abbott1985	11	1 7 1	AXN	TUK	10	10.T.C 10.U.V 10.K.c	2.0 1.5 0.8	dok	0	559
+240130	chambri-kilimbit	2009_DOG	yuˈri	yuˈri	j u r i		abbott1985	130	6 7 5 7	AXBZ	JYRI	8	8.J.C 8.Y.V 8.R.C 8.I.V	2.0 1.5 1.75 0.8	juri	0	557
+240434	kopar-singarin	2009_DOG	ˈor n	ˈor_n	o r + n		abbott1985	146	7 5 9 4	XN_A	UR_N	9	9.U.V 9.R.c 9._._ 9.N.C	1.5 0.8 0.0 2.0	or+n	0	558
+240543	angoram-karau	2009_DOG	ˈdw n	ˈdw_n	d w + n		abbott1985	178	1 6 9 4	AC_A	TW_N	3	3.T.C 3.W.C 3._._ 3.N.C	2.0 1.5 0.0 2.0	dw+n	0	552
+240650	angoram-wagamut	2009_DOG	ˈdw n	ˈdw_n	d w + n		abbott1985	206	1 6 9 4	AC_A	TW_N	6	6.T.C 6.W.C 6._._ 6.N.C	2.0 1.5 0.0 2.0	dw+n	0	552
+240900	angoram-kanduanum	2009_DOG	ˈm ndanda	ˈm_ndanda	m + n d a n d a		abbott1985	221	4 9 4 1 7 4 1 7	A_ACYMBZ	M_NTANTA	2	2.M.C 2._._ 2.N.C 2.T.C 2.A.V 2.N.c 2.T.C 2.A.V	2.0 0.0 2.0 1.5 1.3 1.1 1.75 0.8	m+ndanda	0	551
+240825	angoram-magendo	2009_DOG	ˈndanda	ˈndanda	n d a n d a		abbott1985	244	4 1 7 4 1 7	ACYMBZ	NTANTA	4	4.N.C 4.T.C 4.A.V 4.N.c 4.T.C 4.A.V	2.0 1.5 1.3 1.1 1.75 0.8	ndanda	0	550
+240739	angoram-marbuk	2009_DOG	ˈkʰaukʰ	ˈkʰaukʰ	kʰ a u kʰ		abbott1985	260	1 7 7 1	AXYN	KAYK	5	5.K.C 5.A.V 5.Y.V 5.K.c	2.0 1.5 1.3 0.8	kʰaukʰ	0	554
+240220	angoram-kambrindo	2009_DOG	ˈndanda	ˈndanda	n d a n d a		abbott1985	279	4 1 7 4 1 7	ACYMBZ	NTANTA	1	1.N.C 1.T.C 1.A.V 1.N.c 1.T.C 1.A.V	2.0 1.5 1.3 1.1 1.75 0.8	ndanda	0	550
+240336	ap-ma-kambaramba	2009_DOG	ˈwor ntʰ m tʰ	ˈwor_ntʰ_m_tʰ	w o r + n tʰ + m + tʰ		abbott1985	319	6 7 5 9 4 1 9 4 9 1	AXN_AN_A_A	WUR_NT_M_T	7	7.W.C 7.U.V 7.R.c 7._._ 7.N.C 7.T.c 7._._ 7.M.C 7._._ 7.T.C	2.0 1.5 0.8 0.0 2.0 0.8 0.0 2.0 0.0 2.0	wor+ntʰ+m+tʰ	0	556
+#
+239160	tok-pisin	2098_FOOT_OR_LEG	lek (foot)	lek_	l e k	foot	abbott1985	27	5 7 1	AXN	LEK	10	10.L.C 10.E.V 10.K.c	2.0 1.5 0.8	lek	0	569
+239182	tok-pisin	2098_FOOT_OR_LEG	lek (leg)	lek_	l e k	leg	abbott1985	49	5 7 1	AXN	LEK	10	10.L.C 10.E.V 10.K.c	2.0 1.5 0.8	lek	1	569
+240142	chambri-kilimbit	2098_FOOT_OR_LEG	ˈnamaŋkʰ	ˈnamaŋkʰ	n a m a ŋ kʰ		abbott1985	21948	4 7 4 7 4 1	AXBYLN	NAMANK	8	8.N.C 8.A.V 8.M.C 8.A.V 8.N.c 8.K.c	2.0 1.5 1.75 1.3 1.1 0.8	namaŋkʰ	0	560
+240453	kopar-singarin	2098_FOOT_OR_LEG	ˈnamoŋ	ˈnamoŋ	n a m o ŋ		abbott1985	21948	4 7 4 7 4	AXBYN	NAMUN	9	9.N.C 9.A.V 9.M.C 9.U.V 9.N.c	2.0 1.5 1.75 1.3 0.8	namoŋ	0	560
+240557	angoram-karau	2098_FOOT_OR_LEG	ˈdaŋkʰ	ˈdaŋkʰ	d a ŋ kʰ		abbott1985	21950	1 7 4 1	AXLN	TANK	3	3.T.C 3.A.V 3.N.c 3.K.c	2.0 1.5 1.1 0.8	daŋkʰ	0	562
+240661	angoram-wagamut	2098_FOOT_OR_LEG	ˈdaŋkʰ	ˈdaŋkʰ	d a ŋ kʰ		abbott1985	21950	1 7 4 1	AXLN	TANK	6	6.T.C 6.A.V 6.N.c 6.K.c	2.0 1.5 1.1 0.8	daŋkʰ	0	562
+240911	angoram-kanduanum	2098_FOOT_OR_LEG	ˈnamʊŋkʰ	ˈnamʊŋkʰ	n a m ʊ ŋ kʰ		abbott1985	21948	4 7 4 7 4 1	AXBYLN	NAMYNK	2	2.N.C 2.A.V 2.M.C 2.Y.V 2.N.c 2.K.c	2.0 1.5 1.75 1.3 1.1 0.8	namʊŋkʰ	0	560
+240927	angoram-kanduanum	2098_FOOT_OR_LEG	ˈnamʊŋ	ˈnamʊŋ	n a m ʊ ŋ		abbott1985	228	4 7 4 7 4	AXBYN	NAMYN	2	2.N.C 2.A.V 2.M.C 2.Y.V 2.N.c	2.0 1.5 1.75 1.3 0.8	namʊŋ	0	560
+240836	angoram-magendo	2098_FOOT_OR_LEG	ˈnamʊŋ	ˈnamʊŋ	n a m ʊ ŋ		abbott1985	21948	4 7 4 7 4	AXBYN	NAMYN	4	4.N.C 4.A.V 4.M.C 4.Y.V 4.N.c	2.0 1.5 1.75 1.3 0.8	namʊŋ	0	560
+240852	angoram-magendo	2098_FOOT_OR_LEG	ˈam	ˈam	a m		abbott1985	251	7 4	XN	AM	4	4.A.V 4.M.c	1.5 0.8	am	0	571
+240751	angoram-marbuk	2098_FOOT_OR_LEG	ˈnamʊŋ	ˈnamʊŋ	n a m ʊ ŋ		abbott1985	21948	4 7 4 7 4	AXBYN	NAMYN	5	5.N.C 5.A.V 5.M.C 5.Y.V 5.N.c	2.0 1.5 1.75 1.3 0.8	namʊŋ	0	560
+240767	angoram-marbuk	2098_FOOT_OR_LEG	ˈnʊmbʊnaŋ	ˈnʊmbʊnaŋ	n ʊ m b ʊ n a ŋ		abbott1985	267	4 7 4 1 7 4 7 4	AXMBYBYN	NYMPYNAN	5	5.N.C 5.Y.V 5.M.c 5.P.C 5.Y.V 5.N.C 5.A.V 5.N.c	2.0 1.5 1.1 1.75 1.3 1.75 1.3 0.8	nʊmbʊnaŋ	0	560
+240237	angoram-kambrindo	2098_FOOT_OR_LEG	ˈnamuŋ	ˈnamuŋ	n a m u ŋ		abbott1985	21948	4 7 4 7 4	AXBYN	NAMYN	1	1.N.C 1.A.V 1.M.C 1.Y.V 1.N.c	2.0 1.5 1.75 1.3 0.8	namuŋ	0	560
+240349	ap-ma-kambaramba	2098_FOOT_OR_LEG	ˈspəŋ	ˈspəŋ	s p ə ŋ		abbott1985	21949	3 1 7 4	ACYN	SPEN	7	7.S.C 7.P.C 7.E.V 7.N.c	2.0 1.5 1.3 0.8	spəŋ	0	566
+#
+239236	tok-pisin	2101_BE_DEAD_OR_DIE	em i dai pinis	em_i_dai_pinis	e m + i + d a i + p i n i s	he dies	abbott1985	103	7 4 9 7 9 1 7 7 9 1 7 4 7 3	XN_X_AXZ_AXBYN	EM_I_TAI_PINIS	10	10.E.V 10.M.c 10._._ 10.I.V 10._._ 10.T.C 10.A.V 10.I.V 10._._ 10.P.C 10.I.V 10.N.C 10.I.V 10.S.c	1.5 0.8 0.0 1.5 0.0 2.0 1.5 0.8 0.0 2.0 1.5 1.75 1.3 0.8	em+i+dai+pinis	0	574
+240627	angoram-karau	2101_BE_DEAD_OR_DIE	ˈtʰopəřɩn	ˈtʰopəřɩn	tʰ o p ə r̝ ɪ n		abbott1985	203	1 7 1 7 5 7 4	AXBYBYN	TUPERIN	3	3.T.C 3.U.V 3.P.C 3.E.V 3.R.C 3.I.V 3.N.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	tʰopər̝ɪn	0	573
+240305	angoram-kambrindo	2101_BE_DEAD_OR_DIE	ˈpatipřakʰəna	ˈpatipřakʰəna	p a t i p r̝ a kʰ ə n a		abbott1985	307	1 7 1 7 1 5 7 1 7 4 7	AXBYBCYBYBZ	PATIPRAKENA	1	1.P.C 1.A.V 1.T.C 1.I.V 1.P.C 1.R.C 1.A.V 1.K.C 1.E.V 1.N.C 1.A.V	2.0 1.5 1.75 1.3 1.75 1.5 1.3 1.75 1.3 1.75 0.8	patipr̝akʰəna	0	572
+#
+239237	tok-pisin	2102_BURN	paia i lait	paia_i_lait	p a i a + i + l a i t	it burns	abbott1985	104	1 7 7 7 9 7 9 5 7 7 1	AXYZ_X_AXYN	PAIA_I_LAIT	10	10.P.C 10.A.V 10.I.V 10.A.V 10._._ 10.I.V 10._._ 10.L.C 10.A.V 10.I.V 10.T.c	2.0 1.5 1.3 0.8 0.0 1.5 0.0 2.0 1.5 1.3 0.8	paia+i+lait	0	576
+240306	angoram-kambrindo	2102_BURN	ˈwanaiařiki takʰa	ˈwanaiařiki_takʰa	w a n a i a r̝ i k i + t a kʰ a		abbott1985	308	6 7 4 7 7 7 5 7 1 7 9 1 7 1 7	AXBYYYBYBZ_AXBZ	WANAIARIKI_TAKA	1	1.W.C 1.A.V 1.N.C 1.A.V 1.I.V 1.A.V 1.R.C 1.I.V 1.K.C 1.I.V 1._._ 1.T.C 1.A.V 1.K.C 1.A.V	2.0 1.5 1.75 1.3 1.3 1.3 1.75 1.3 1.75 0.8 0.0 2.0 1.5 1.75 0.8	wanaiar̝iki+takʰa	0	575
+#
+239165	tok-pisin	2108_RAINING_OR_RAIN	ren	ren	r e n	rain	abbott1985	32	5 7 4	AXN	REN	10	10.R.C 10.E.V 10.N.c	2.0 1.5 0.8	ren	0	586
+240147	chambri-kilimbit	2108_RAINING_OR_RAIN	ˈmainʊ	ˈmainʊ	m a i n ʊ		abbott1985	134	4 7 7 4 7	AXYBZ	MAINY	8	8.M.C 8.A.V 8.I.V 8.N.C 8.Y.V	2.0 1.5 1.3 1.75 0.8	mainʊ	0	581
+240458	kopar-singarin	2108_RAINING_OR_RAIN	ˈtʰʊkʰakʰən	ˈtʰʊkʰakʰən	tʰ ʊ kʰ a kʰ ə n		abbott1985	156	1 7 1 7 1 7 4	AXBYBYN	TYKAKEN	9	9.T.C 9.Y.V 9.K.C 9.A.V 9.K.C 9.E.V 9.N.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	tʰʊkʰakʰən	0	585
+240562	angoram-karau	2108_RAINING_OR_RAIN	ˈařʊm	ˈařʊm	a r̝ ʊ m		abbott1985	183	7 5 7 4	XBYN	ARYM	3	3.A.V 3.R.C 3.Y.V 3.M.c	1.5 1.75 1.3 0.8	ar̝ʊm	0	579
+240666	angoram-wagamut	2108_RAINING_OR_RAIN	ˈalʊm	ˈalʊm	a l ʊ m		abbott1985	210	7 5 7 4	XBYN	ALYM	6	6.A.V 6.L.C 6.Y.V 6.M.c	1.5 1.75 1.3 0.8	alʊm	0	579
+240667	angoram-wagamut	2108_RAINING_OR_RAIN	ařum	ařum	a r̝ u m		abbott1985	211	7 5 7 4	XBYN	ARYM	6	6.A.V 6.R.C 6.Y.V 6.M.c	1.5 1.75 1.3 0.8	ar̝um	0	579
+240916	angoram-kanduanum	2108_RAINING_OR_RAIN	ˈšʊenəŋ	ˈšʊenəŋ	ʂ ʊ e n ə ŋ		abbott1985	225	3 7 7 4 7 4	AXYBYN	SYENEN	2	2.S.C 2.Y.V 2.E.V 2.N.C 2.E.V 2.N.c	2.0 1.5 1.3 1.75 1.3 0.8	ʂʊenəŋ	0	578
+240841	angoram-magendo	2108_RAINING_OR_RAIN	ˈbʊtšine	ˈbʊtšine	b ʊ ʈʂ i n e		abbott1985	248	1 7 2 7 4 7	AXBYBZ	PYCINE	4	4.P.C 4.Y.V 4.C.C 4.I.V 4.N.C 4.E.V	2.0 1.5 1.75 1.3 1.75 0.8	bʊʈʂine	0	577
+240756	angoram-marbuk	2108_RAINING_OR_RAIN	ˈmʊnʊm	ˈmʊnʊm	m ʊ n ʊ m		abbott1985	264	4 7 4 7 4	AXBYN	MYNYM	5	5.M.C 5.Y.V 5.N.C 5.Y.V 5.M.c	2.0 1.5 1.75 1.3 0.8	mʊnʊm	0	581
+240242	angoram-kambrindo	2108_RAINING_OR_RAIN	ˈbutšine	ˈbutšine	b u ʈʂ i n e		abbott1985	287	1 7 2 7 4 7	AXBYBZ	PYCINE	1	1.P.C 1.Y.V 1.C.C 1.I.V 1.N.C 1.E.V	2.0 1.5 1.75 1.3 1.75 0.8	buʈʂine	0	577
+240354	ap-ma-kambaramba	2108_RAINING_OR_RAIN	ˈyandama	ˈyandama	j a n d a m a		abbott1985	325	6 7 4 1 7 4 7	AXMBYBZ	JANTAMA	7	7.J.C 7.A.V 7.N.c 7.T.C 7.A.V 7.M.C 7.A.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	jandama	0	583
+#
+239159	tok-pisin	2121_ARM_OR_HAND	han	han	h a n	hand	abbott1985	26	3 7 4	AXN	HAN	10	10.H.C 10.A.V 10.N.c	2.0 1.5 0.8	han	0	596
+240141	chambri-kilimbit	2121_ARM_OR_HAND	ˈnunkʰalo	ˈnunkʰalo	n u n kʰ a l o		abbott1985	21625	4 7 4 1 7 5 7	AXMBYBZ	NYNKALU	8	8.N.C 8.Y.V 8.N.c 8.K.C 8.A.V 8.L.C 8.U.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	nunkʰalo	0	591
+240452	kopar-singarin	2121_ARM_OR_HAND	ˈnapaŋ	ˈnapaŋ	n a p a ŋ		abbott1985	21628	4 7 1 7 4	AXBYN	NAPAN	9	9.N.C 9.A.V 9.P.C 9.A.V 9.N.c	2.0 1.5 1.75 1.3 0.8	napaŋ	0	595
+240556	angoram-karau	2121_ARM_OR_HAND	ˈdər̃ɩn	ˈdər̃ɩn	d ə r̃ ɪ n		abbott1985	21629	1 7 5 7 4	AXBYN	TERIN	3	3.T.C 3.E.V 3.R.C 3.I.V 3.N.c	2.0 1.5 1.75 1.3 0.8	dər̃ɪn	0	589
+240660	angoram-wagamut	2121_ARM_OR_HAND	ˈdər̃ɩn	ˈdər̃ɩn	d ə r̃ ɪ n		abbott1985	21629	1 7 5 7 4	AXBYN	TERIN	6	6.T.C 6.E.V 6.R.C 6.I.V 6.N.c	2.0 1.5 1.75 1.3 0.8	dər̃ɪn	0	589
+240910	angoram-kanduanum	2121_ARM_OR_HAND	ˈyangr̃i	ˈyangr̃i	j a n g r̃ i		abbott1985	21626	6 7 4 1 5 7	AXMBCZ	JANKRI	2	2.J.C 2.A.V 2.N.c 2.K.C 2.R.C 2.I.V	2.0 1.5 1.1 1.75 1.5 0.8	jangr̃i	0	588
+240835	angoram-magendo	2121_ARM_OR_HAND	ˈpʰonom	ˈpʰonom	pʰ o n o m		abbott1985	21630	1 7 4 7 4	AXBYN	PUNUM	4	4.P.C 4.U.V 4.N.C 4.U.V 4.M.c	2.0 1.5 1.75 1.3 0.8	pʰonom	0	590
+240750	angoram-marbuk	2121_ARM_OR_HAND	ˈnangr̃i	ˈnangr̃i	n a n g r̃ i		abbott1985	21626	4 7 4 1 5 7	AXMBCZ	NANKRI	5	5.N.C 5.A.V 5.N.c 5.K.C 5.R.C 5.I.V	2.0 1.5 1.1 1.75 1.5 0.8	nangr̃i	0	591
+240236	angoram-kambrindo	2121_ARM_OR_HAND	ˈiagr̃i	ˈiagr̃i	i a g r̃ i		abbott1985	21626	7 7 1 5 7	XYBCZ	IAKRI	1	1.I.V 1.A.V 1.K.C 1.R.C 1.I.V	1.5 1.3 1.75 1.5 0.8	iagr̃i	0	587
+240348	ap-ma-kambaramba	2121_ARM_OR_HAND	ˈyabau	ˈyabau	j a b a u		abbott1985	21627	6 7 1 7 7	AXBYZ	JAPAY	7	7.J.C 7.A.V 7.P.C 7.A.V 7.Y.V	2.0 1.5 1.75 1.3 0.8	jabau	0	593
+#
+239208	tok-pisin	2159_GROUND	graun	graun	g r a u n	ground	abbott1985	75	1 5 7 7 4	ACXYN	KRAYN	10	10.K.C 10.R.C 10.A.V 10.Y.V 10.N.c	2.0 1.5 1.5 1.3 0.8	graun	0	606
+240178	chambri-kilimbit	2159_GROUND	ˈnənkʰər̃ʊmpʰ	ˈnənkʰər̃ʊmpʰ	n ə n kʰ ə r̃ ʊ m pʰ		abbott1985	21772	4 7 4 1 7 5 7 4 1	AXMBYBYLN	NENKERYMP	8	8.N.C 8.E.V 8.N.c 8.K.C 8.E.V 8.R.C 8.Y.V 8.M.c 8.P.c	2.0 1.5 1.1 1.75 1.3 1.75 1.3 1.1 0.8	nənkʰər̃ʊmpʰ	0	604
+240498	kopar-singarin	2159_GROUND	ˈdin	ˈdin	d i n		abbott1985	21775	1 7 4	AXN	TIN	9	9.T.C 9.I.V 9.N.c	2.0 1.5 0.8	din	0	605
+240603	angoram-karau	2159_GROUND	ˈagin	ˈagin	a g i n		abbott1985	21776	7 1 7 4	XBYN	AKIN	3	3.A.V 3.K.C 3.I.V 3.N.c	1.5 1.75 1.3 0.8	agin	0	599
+240700	angoram-wagamut	2159_GROUND	ˈagin	ˈagin	a g i n		abbott1985	21776	7 1 7 4	XBYN	AKIN	6	6.A.V 6.K.C 6.I.V 6.N.c	1.5 1.75 1.3 0.8	agin	0	599
+240950	angoram-kanduanum	2159_GROUND	ˈandi	ˈandi	a n d i		abbott1985	21773	7 4 1 7	XMBZ	ANTI	2	2.A.V 2.N.c 2.T.C 2.I.V	1.5 1.1 1.75 0.8	andi	0	597
+240875	angoram-magendo	2159_GROUND	ˈandi	ˈandi	a n d i		abbott1985	21773	7 4 1 7	XMBZ	ANTI	4	4.A.V 4.N.c 4.T.C 4.I.V	1.5 1.1 1.75 0.8	andi	0	597
+240791	angoram-marbuk	2159_GROUND	ˈandi	ˈandi	a n d i		abbott1985	21773	7 4 1 7	XMBZ	ANTI	5	5.A.V 5.N.c 5.T.C 5.I.V	1.5 1.1 1.75 0.8	andi	0	597
+240284	angoram-kambrindo	2159_GROUND	ˈandi	ˈandi	a n d i		abbott1985	21773	7 4 1 7	XMBZ	ANTI	1	1.A.V 1.N.c 1.T.C 1.I.V	1.5 1.1 1.75 0.8	andi	0	597
+240393	ap-ma-kambaramba	2159_GROUND	ˈbɩn	ˈbɩn	b ɪ n		abbott1985	21774	1 7 4	AXN	PIN	7	7.P.C 7.I.V 7.N.c	2.0 1.5 0.8	bɪn	0	603
+#
+239148	tok-pisin	215_LIE_DOWN	em i slip	em_i_slip	e m + i + s l i p	he lies down	abbott1985	15	7 4 9 7 9 3 5 7 1	XN_X_ACXN	EM_I_SLIP	10	10.E.V 10.M.c 10._._ 10.I.V 10._._ 10.S.C 10.L.C 10.I.V 10.P.c	1.5 0.8 0.0 1.5 0.0 2.0 1.5 1.5 0.8	em+i+slip	0	607
+#
+239249	tok-pisin	217_BETELNUT	buai	buai	b u a i	betelnut	abbott1985	116	1 7 7 7	AXYZ	PYAI	10	10.P.C 10.Y.V 10.A.V 10.I.V	2.0 1.5 1.3 0.8	buai	0	616
+240526	kopar-singarin	217_BETELNUT	ˈpor̃oŋ	ˈpor̃oŋ	p o r̃ o ŋ		abbott1985	21670	1 7 5 7 4	AXBYN	PURUN	9	9.P.C 9.U.V 9.R.C 9.U.V 9.N.c	2.0 1.5 1.75 1.3 0.8	por̃oŋ	0	610
+240632	angoram-karau	217_BETELNUT	ˈpʰəřog	ˈpʰəřog	pʰ ə r̝ o g		abbott1985	21670	1 7 5 7 1	AXBYN	PERUK	3	3.P.C 3.E.V 3.R.C 3.U.V 3.K.c	2.0 1.5 1.75 1.3 0.8	pʰər̝og	0	610
+240720	angoram-wagamut	217_BETELNUT	ˈpʰořogə	ˈpʰořogə	pʰ o r̝ o g ə		abbott1985	21670	1 7 5 7 1 7	AXBYBZ	PURUKE	6	6.P.C 6.U.V 6.R.C 6.U.V 6.K.C 6.E.V	2.0 1.5 1.75 1.3 1.75 0.8	pʰor̝ogə	0	610
+240967	angoram-kanduanum	217_BETELNUT	ˈpwařəŋ	ˈpwařəŋ	p w a r̝ ə ŋ		abbott1985	21670	1 6 7 5 7 4	ACXBYN	PWAREN	2	2.P.C 2.W.C 2.A.V 2.R.C 2.E.V 2.N.c	2.0 1.5 1.5 1.75 1.3 0.8	pwar̝əŋ	0	608
+240882	angoram-magendo	217_BETELNUT	ˈpwařəŋ	ˈpwařəŋ	p w a r̝ ə ŋ		abbott1985	21670	1 6 7 5 7 4	ACXBYN	PWAREN	4	4.P.C 4.W.C 4.A.V 4.R.C 4.E.V 4.N.c	2.0 1.5 1.5 1.75 1.3 0.8	pwar̝əŋ	0	608
+240805	angoram-marbuk	217_BETELNUT	ˈpwařəŋ	ˈpwařəŋ	p w a r̝ ə ŋ		abbott1985	21670	1 6 7 5 7 4	ACXBYN	PWAREN	5	5.P.C 5.W.C 5.A.V 5.R.C 5.E.V 5.N.c	2.0 1.5 1.5 1.75 1.3 0.8	pwar̝əŋ	0	608
+240319	angoram-kambrindo	217_BETELNUT	ˈpwařəŋ	ˈpwařəŋ	p w a r̝ ə ŋ		abbott1985	21670	1 6 7 5 7 4	ACXBYN	PWAREN	1	1.P.C 1.W.C 1.A.V 1.R.C 1.E.V 1.N.c	2.0 1.5 1.5 1.75 1.3 0.8	pwar̝əŋ	0	608
+240418	ap-ma-kambaramba	217_BETELNUT	ˈau	ˈau	a u		abbott1985	21671	7 7	XZ	AY	7	7.A.V 7.Y.V	1.5 0.8	au	0	614
+#
+239153	tok-pisin	221_FIRE	paia	paia	p a i a	fire	abbott1985	20	1 7 7 7	AXYZ	PAIA	10	10.P.C 10.A.V 10.I.V 10.A.V	2.0 1.5 1.3 0.8	paia	0	626
+240135	chambri-kilimbit	221_FIRE	haiˈil	haiˈil	h a i i l		abbott1985	21915	3 7 7 7 5	AXYYN	HAIIL	8	8.H.C 8.A.V 8.I.V 8.I.V 8.L.c	2.0 1.5 1.3 1.3 0.8	haiil	0	617
+240447	kopar-singarin	221_FIRE	ˈauř	ˈauř	a u r̝		abbott1985	21916	7 7 5	XYN	AYR	9	9.A.V 9.Y.V 9.R.c	1.5 1.3 0.8	aur̝	0	617
+240551	angoram-karau	221_FIRE	ˈauř	ˈauř	a u r̝		abbott1985	21916	7 7 5	XYN	AYR	3	3.A.V 3.Y.V 3.R.c	1.5 1.3 0.8	aur̝	0	617
+240655	angoram-wagamut	221_FIRE	ˈaul	ˈaul	a u l		abbott1985	21916	7 7 5	XYN	AYL	6	6.A.V 6.Y.V 6.L.c	1.5 1.3 0.8	aul	0	617
+240904	angoram-kanduanum	221_FIRE	ˈařʊnkʰ	ˈařʊnkʰ	a r̝ ʊ n kʰ		abbott1985	21919	7 5 7 4 1	XBYLN	ARYNK	2	2.A.V 2.R.C 2.Y.V 2.N.c 2.K.c	1.5 1.75 1.3 1.1 0.8	ar̝ʊnkʰ	0	617
+240829	angoram-magendo	221_FIRE	ˈuoř	ˈuoř	u o r̝		abbott1985	21916	7 7 5	XYN	YUR	4	4.Y.V 4.U.V 4.R.c	1.5 1.3 0.8	uor̝	0	617
+240744	angoram-marbuk	221_FIRE	ˈŋař	ˈŋař	ŋ a r̝		abbott1985	21918	4 7 5	AXN	NAR	5	5.N.C 5.A.V 5.R.c	2.0 1.5 0.8	ŋar̝	0	621
+240231	angoram-kambrindo	221_FIRE	ˈuoř	ˈuoř	u o r̝		abbott1985	21916	7 7 5	XYN	YUR	1	1.Y.V 1.U.V 1.R.c	1.5 1.3 0.8	uor̝	0	617
+240342	ap-ma-kambaramba	221_FIRE	ˈpʰəndəma	ˈpʰəndəma	pʰ ə n d ə m a		abbott1985	21917	1 7 4 1 7 4 7	AXMBYBZ	PENTEMA	7	7.P.C 7.E.V 7.N.c 7.T.C 7.E.V 7.M.C 7.A.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	pʰəndəma	0	623
+#
+239251	tok-pisin	2270_SAGO	sasak	sasak	s a s a k	sago	abbott1985	118	3 7 3 7 1	AXBYN	SASAK	10	10.S.C 10.A.V 10.S.C 10.A.V 10.K.c	2.0 1.5 1.75 1.3 0.8	sasak	0	636
+240204	chambri-kilimbit	2270_SAGO	tʰiˈnəm	tʰiˈnəm	tʰ i n ə m		abbott1985	21903	1 7 4 7 4	AXBYN	TINEM	8	8.T.C 8.I.V 8.N.C 8.E.V 8.M.c	2.0 1.5 1.75 1.3 0.8	tʰinəm	0	634
+240528	kopar-singarin	2270_SAGO	ˈmařinün	ˈmařinün	m a r̝ i n ü/u n		abbott1985	21906	4 7 5 7 4 7 4	AXBYBYN	MARINYN	9	9.M.C 9.A.V 9.R.C 9.I.V 9.N.C 9.Y.V 9.N.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	mar̝inü/un	0	635
+240634	angoram-karau	2270_SAGO	ˈdʊřɩn	ˈdʊřɩn	d ʊ r̝ ɪ n		abbott1985	21907	1 7 5 7 4	AXBYN	TYRIN	3	3.T.C 3.Y.V 3.R.C 3.I.V 3.N.c	2.0 1.5 1.75 1.3 0.8	dʊr̝ɪn	0	628
+240722	angoram-wagamut	2270_SAGO	ˈdʊřɩn	ˈdʊřɩn	d ʊ r̝ ɪ n		abbott1985	21907	1 7 5 7 4	AXBYN	TYRIN	6	6.T.C 6.Y.V 6.R.C 6.I.V 6.N.c	2.0 1.5 1.75 1.3 0.8	dʊr̝ɪn	0	628
+240969	angoram-kanduanum	2270_SAGO	ˈtʰoli	ˈtʰoli	tʰ o l i		abbott1985	241	1 7 5 7	AXBZ	TULI	2	2.T.C 2.U.V 2.L.C 2.I.V	2.0 1.5 1.75 0.8	tʰoli	0	628
+240884	angoram-magendo	2270_SAGO	ˈuři	ˈuři	u r̝ i		abbott1985	21903	7 5 7	XBZ	YRI	4	4.Y.V 4.R.C 4.I.V	1.5 1.75 0.8	ur̝i	0	630
+240807	angoram-marbuk	2270_SAGO	ˈřino	ˈřino	r̝ i n o		abbott1985	21907	5 7 4 7	AXBZ	RINU	5	5.R.C 5.I.V 5.N.C 5.U.V	2.0 1.5 1.75 0.8	r̝ino	0	631
+240321	angoram-kambrindo	2270_SAGO	ˈmbwe	ˈmbwe	m b w e		abbott1985	21904	4 1 6 7	ACCZ	MPWE	1	1.M.C 1.P.C 1.W.C 1.E.V	2.0 1.5 1.5 0.8	mbwe	0	627
+240420	ap-ma-kambaramba	2270_SAGO	ˈyapaŋ	ˈyapaŋ	j a p a ŋ		abbott1985	21905	6 7 1 7 4	AXBYN	JAPAN	7	7.J.C 7.A.V 7.P.C 7.A.V 7.N.c	2.0 1.5 1.75 1.3 0.8	japaŋ	0	633
+#
+239223	tok-pisin	2272_HOT_OR_WARM	hat	hat	h a t	hot	abbott1985	90	3 7 1	AXN	HAT	10	10.H.C 10.A.V 10.T.c	2.0 1.5 0.8	hat	0	639
+240191	chambri-kilimbit	2272_HOT_OR_WARM	aleyaˈkʰɨn	aleyaˈkʰɨn	a l e j a kʰ ɨ n		abbott1985	139	7 5 7 6 7 1 7 4	XBYBYBYN	ALEJAKIN	8	8.A.V 8.L.C 8.E.V 8.J.C 8.A.V 8.K.C 8.I.V 8.N.c	1.5 1.75 1.3 1.75 1.3 1.75 1.3 0.8	alejakʰɨn	0	642
+240617	angoram-karau	2272_HOT_OR_WARM	ˈudun	ˈudun	u d u n		abbott1985	196	7 1 7 4	XBYN	YTYN	3	3.Y.V 3.T.C 3.Y.V 3.N.c	1.5 1.75 1.3 0.8	udun	0	639
+240713	angoram-wagamut	2272_HOT_OR_WARM	ˈakʊŋgəpʰarəpʰo	ˈakʊŋgəpʰarəpʰo	a k ʊ ŋ g ə pʰ a r ə pʰ o		abbott1985	218	7 1 7 4 1 7 1 7 5 7 1 7	XBYMBYBYBYBZ	AKYNKEPAREPU	6	6.A.V 6.K.C 6.Y.V 6.N.c 6.K.C 6.E.V 6.P.C 6.A.V 6.R.C 6.E.V 6.P.C 6.U.V	1.5 1.75 1.3 1.1 1.75 1.3 1.75 1.3 1.75 1.3 1.75 0.8	akʊŋgəpʰarəpʰo	0	637
+240963	angoram-kanduanum	2272_HOT_OR_WARM	ˈaiakʰarəkʰən	ˈaiakʰarəkʰən	a i a kʰ a r ə kʰ ə n		abbott1985	238	7 7 7 1 7 5 7 1 7 4	XYYBYBYBYN	AIAKAREKEN	2	2.A.V 2.I.V 2.A.V 2.K.C 2.A.V 2.R.C 2.E.V 2.K.C 2.E.V 2.N.c	1.5 1.3 1.3 1.75 1.3 1.75 1.3 1.75 1.3 0.8	aiakʰarəkʰən	0	637
+240297	angoram-kambrindo	2272_HOT_OR_WARM	ˈaiəkʰarkʰe	ˈaiəkʰarkʰe	a i ə kʰ a r kʰ e		abbott1985	302	7 7 7 1 7 5 1 7	XYYBYMBZ	AIEKARKE	1	1.A.V 1.I.V 1.E.V 1.K.C 1.A.V 1.R.c 1.K.C 1.E.V	1.5 1.3 1.3 1.75 1.3 1.1 1.75 0.8	aiəkʰarkʰe	0	637
+240407	ap-ma-kambaramba	2272_HOT_OR_WARM	ˈʊisanařakʰop	ˈʊisanařakʰop	ʊ i s a n a r̝ a kʰ o p		abbott1985	339	7 7 3 7 4 7 5 7 1 7 1	XYBYBYBYBYN	YISANARAKUP	7	7.Y.V 7.I.V 7.S.C 7.A.V 7.N.C 7.A.V 7.R.C 7.A.V 7.K.C 7.U.V 7.P.c	1.5 1.3 1.75 1.3 1.75 1.3 1.75 1.3 1.75 1.3 0.8	ʊisanar̝akʰop	0	641
+#
+239246	tok-pisin	2312_YOU_OBLIQUE_CASE_OF_YOU	yupela	yupela	j u p e l a	you pl excl	abbott1985	113	6 7 1 7 5 7	AXBYBZ	JYPELA	10	10.J.C 10.Y.V 10.P.C 10.E.V 10.L.C 10.A.V	2.0 1.5 1.75 1.3 1.75 0.8	jupela	0	644
+240201	chambri-kilimbit	2312_YOU_OBLIQUE_CASE_OF_YOU	yiˈbi	yiˈbi	j i b i		abbott1985	143	6 7 1 7	AXBZ	JIPI	8	8.J.C 8.I.V 8.P.C 8.I.V	2.0 1.5 1.75 0.8	jibi	0	644
+240316	angoram-kambrindo	2312_YOU_OBLIQUE_CASE_OF_YOU	ˈtʰakʰnte	ˈtʰakʰnte	tʰ a kʰ n t e		abbott1985	315	1 7 1 4 1 7	AXBYBZ	TAKNTE	1	1.T.C 1.A.V 1.K.C 1.N.V 1.T.C 1.E.V	2.0 1.5 1.75 1.3 1.75 0.8	tʰakʰnte	0	643
+#
+239253	tok-pisin	234_PADDLE	pul	pul	p u l	paddle	abbott1985	120	1 7 5	AXN	PYL	10	10.P.C 10.Y.V 10.L.c	2.0 1.5 0.8	pul	0	654
+240206	chambri-kilimbit	234_PADDLE	ˈnaŋkʰ	ˈnaŋkʰ	n a ŋ kʰ		abbott1985	21731	4 7 4 1	AXLN	NANK	8	8.N.C 8.A.V 8.N.c 8.K.c	2.0 1.5 1.1 0.8	naŋkʰ	0	652
+240530	kopar-singarin	234_PADDLE	ˈnaŋ	ˈnaŋ	n a ŋ		abbott1985	21731	4 7 4	AXN	NAN	9	9.N.C 9.A.V 9.N.c	2.0 1.5 0.8	naŋ	0	652
+240636	angoram-karau	234_PADDLE	ˈinaŋ	ˈinaŋ	i n a ŋ		abbott1985	21731	7 4 7 4	XBYN	INAN	3	3.I.V 3.N.C 3.A.V 3.N.c	1.5 1.75 1.3 0.8	inaŋ	0	645
+240724	angoram-wagamut	234_PADDLE	ˈinaŋ	ˈinaŋ	i n a ŋ		abbott1985	21731	7 4 7 4	XBYN	INAN	6	6.I.V 6.N.C 6.A.V 6.N.c	1.5 1.75 1.3 0.8	inaŋ	0	645
+240971	angoram-kanduanum	234_PADDLE	ˈinapʰ	ˈinapʰ	i n a pʰ		abbott1985	21731	7 4 7 1	XBYN	INAP	2	2.I.V 2.N.C 2.A.V 2.P.c	1.5 1.75 1.3 0.8	inapʰ	0	645
+240886	angoram-magendo	234_PADDLE	ˈinapʰ	ˈinapʰ	i n a pʰ		abbott1985	21731	7 4 7 1	XBYN	INAP	4	4.I.V 4.N.C 4.A.V 4.P.c	1.5 1.75 1.3 0.8	inapʰ	0	645
+240809	angoram-marbuk	234_PADDLE	ˈinapʰ	ˈinapʰ	i n a pʰ		abbott1985	21731	7 4 7 1	XBYN	INAP	5	5.I.V 5.N.C 5.A.V 5.P.c	1.5 1.75 1.3 0.8	inapʰ	0	645
+240323	angoram-kambrindo	234_PADDLE	ˈinapʰ	ˈinapʰ	i n a pʰ		abbott1985	21731	7 4 7 1	XBYN	INAP	1	1.I.V 1.N.C 1.A.V 1.P.c	1.5 1.75 1.3 0.8	inapʰ	0	645
+240422	ap-ma-kambaramba	234_PADDLE	ˈnapʊŋ	ˈnapʊŋ	n a p ʊ ŋ		abbott1985	21732	4 7 1 7 4	AXBYN	NAPYN	7	7.N.C 7.A.V 7.P.C 7.Y.V 7.N.c	2.0 1.5 1.75 1.3 0.8	napʊŋ	0	651
+#
+239149	tok-pisin	2457_PATH_OR_ROAD	rot	rot	r o t	road	abbott1985	16	5 7 1	AXN	RUT	10	10.R.C 10.U.V 10.T.c	2.0 1.5 0.8	rot	0	662
+240131	chambri-kilimbit	2457_PATH_OR_ROAD	ˈhau	ˈhau	h a u		abbott1985	21619	3 7 7	AXZ	HAY	8	8.H.C 8.A.V 8.Y.V	2.0 1.5 0.8	hau	0	660
+240443	kopar-singarin	2457_PATH_OR_ROAD	ˈpʰořəkʰain	ˈpʰořəkʰain	pʰ o r̝ ə kʰ a i n		abbott1985	21622	1 7 5 7 1 7 7 4	AXBYBYYN	PUREKAIN	9	9.P.C 9.U.V 9.R.C 9.E.V 9.K.C 9.A.V 9.I.V 9.N.c	2.0 1.5 1.75 1.3 1.75 1.3 1.3 0.8	pʰor̝əkʰain	0	661
+240547	angoram-karau	2457_PATH_OR_ROAD	ˈiagabol	ˈiagabol	i a g a b o l		abbott1985	21623	7 7 1 7 1 7 5	XYBYBYN	IAKAPUL	3	3.I.V 3.A.V 3.K.C 3.A.V 3.P.C 3.U.V 3.L.c	1.5 1.3 1.75 1.3 1.75 1.3 0.8	iagabol	0	656
+240651	angoram-wagamut	2457_PATH_OR_ROAD	ˈiagabor̃	ˈiagabor̃	i a g a b o r̃		abbott1985	21623	7 7 1 7 1 7 5	XYBYBYN	IAKAPUR	6	6.I.V 6.A.V 6.K.C 6.A.V 6.P.C 6.U.V 6.R.c	1.5 1.3 1.75 1.3 1.75 1.3 0.8	iagabor̃	0	656
+240740	angoram-marbuk	2457_PATH_OR_ROAD	ˈkʰaukʰinaməŋ	ˈkʰaukʰinaməŋ	kʰ a u kʰ i n a m ə ŋ		abbott1985	21624	1 7 7 1 7 4 7 4 7 4	AXYBYBYBYN	KAYKINAMEN	5	5.K.C 5.A.V 5.Y.V 5.K.C 5.I.V 5.N.C 5.A.V 5.M.C 5.E.V 5.N.c	2.0 1.5 1.3 1.75 1.3 1.75 1.3 1.75 1.3 0.8	kʰaukʰinaməŋ	0	657
+240227	angoram-kambrindo	2457_PATH_OR_ROAD	ˈyoge	ˈyoge	j o g e		abbott1985	21620	6 7 1 7	AXBZ	JUKE	1	1.J.C 1.U.V 1.K.C 1.E.V	2.0 1.5 1.75 0.8	joge	0	655
+240340	ap-ma-kambaramba	2457_PATH_OR_ROAD	ˈda	ˈda	d a		abbott1985	21621	1 7	AX	TA	7	7.T.C 7.A.V	2.0 1.5	da	0	659
+#
+239244	tok-pisin	262_HE_OR_SHE_OR_IT	em	em	e m	he	abbott1985	111	7 4	XN	EM	10	10.E.V 10.M.c	1.5 0.8	em	0	668
+240199	chambri-kilimbit	262_HE_OR_SHE_OR_IT	səkʰaˈne	səkʰaˈne	s ə kʰ a n e		abbott1985	21685	3 7 1 7 4 7	AXBYBZ	SEKANE	8	8.S.C 8.E.V 8.K.C 8.A.V 8.N.C 8.E.V	2.0 1.5 1.75 1.3 1.75 0.8	səkʰane	0	666
+240523	kopar-singarin	262_HE_OR_SHE_OR_IT	ˈmo	ˈmo	m o		abbott1985	21687	4 7	AX	MU	9	9.M.C 9.U.V	2.0 1.5	mo	0	667
+240630	angoram-karau	262_HE_OR_SHE_OR_IT	ˈmɛn	ˈmɛn	m ɛ n		abbott1985	21688	4 7 4	AXN	MEN	3	3.M.C 3.E.V 3.N.c	2.0 1.5 0.8	mɛn	0	664
+240718	angoram-wagamut	262_HE_OR_SHE_OR_IT	ˈmɛn	ˈmɛn	m ɛ n		abbott1985	21688	4 7 4	AXN	MEN	6	6.M.C 6.E.V 6.N.c	2.0 1.5 0.8	mɛn	0	664
+240314	angoram-kambrindo	262_HE_OR_SHE_OR_IT	ˈnəmbe	ˈnəmbe	n ə m b e		abbott1985	21686	4 7 4 1 7	AXMBZ	NEMPE	1	1.N.C 1.E.V 1.M.c 1.P.C 1.E.V	2.0 1.5 1.1 1.75 0.8	nəmbe	0	663
+#
+239245	tok-pisin	2636_WE_TWO_EXCLUSIVE	mipela	mipela	m i p e l a	we pl excl	abbott1985	112	4 7 1 7 5 7	AXBYBZ	MIPELA	10	10.M.C 10.I.V 10.P.C 10.E.V 10.L.C 10.A.V	2.0 1.5 1.75 1.3 1.75 0.8	mipela	0	672
+240200	chambri-kilimbit	2636_WE_TWO_EXCLUSIVE	yiˈpʰi	yiˈpʰi	j i pʰ i		abbott1985	142	6 7 1 7	AXBZ	JIPI	8	8.J.C 8.I.V 8.P.C 8.I.V	2.0 1.5 1.75 0.8	jipʰi	0	670
+240524	kopar-singarin	2636_WE_TWO_EXCLUSIVE	ˈpaŋgü	ˈpaŋgü	p a ŋ g ü/u		abbott1985	175	1 7 4 1 7	AXMBZ	PANKY	9	9.P.C 9.A.V 9.N.c 9.K.C 9.Y.V	2.0 1.5 1.1 1.75 0.8	paŋgü/u	0	669
+240315	angoram-kambrindo	2636_WE_TWO_EXCLUSIVE	ˈpaŋgeyambramnda	ˈpaŋgeyambramnda	p a ŋ g e j a m b r a m n d a		abbott1985	314	1 7 4 1 7 6 7 4 1 5 7 4 4 1 7	AXMBYBYMBCYLMBZ	PANKEJAMPRAMNTA	1	1.P.C 1.A.V 1.N.c 1.K.C 1.E.V 1.J.C 1.A.V 1.M.c 1.P.C 1.R.C 1.A.V 1.M.c 1.N.c 1.T.C 1.A.V	2.0 1.5 1.1 1.75 1.3 1.75 1.3 1.1 1.75 1.5 1.3 1.1 1.1 1.75 0.8	paŋgejambramnda	0	669
+#
+239200	tok-pisin	2638_FISHING	pis	pis	p i s	fish	abbott1985	67	1 7 3	AXN	PIS	10	10.P.C 10.I.V 10.S.c	2.0 1.5 0.8	pis	0	682
+240171	chambri-kilimbit	2638_FISHING	kʰonˈtsal	kʰonˈtsal	kʰ o n ts a l		abbott1985	21879	1 7 4 2 7 5	AXMBYN	KUNCAL	8	8.K.C 8.U.V 8.N.c 8.C.C 8.A.V 8.L.c	2.0 1.5 1.1 1.75 1.3 0.8	kʰontsal	0	680
+240490	kopar-singarin	2638_FISHING	ˈtʰamʊuntʰo	ˈtʰamʊuntʰo	tʰ a m ʊ u n tʰ o		abbott1985	21881	1 7 4 7 7 4 1 7	AXBYYMBZ	TAMYYNTU	9	9.T.C 9.A.V 9.M.C 9.Y.V 9.Y.V 9.N.c 9.T.C 9.U.V	2.0 1.5 1.75 1.3 1.3 1.1 1.75 0.8	tʰamʊuntʰo	0	681
+240595	angoram-karau	2638_FISHING	ˈtʰantʰ	ˈtʰantʰ	tʰ a n tʰ		abbott1985	21882	1 7 4 1	AXLN	TANT	3	3.T.C 3.A.V 3.N.c 3.T.c	2.0 1.5 1.1 0.8	tʰantʰ	0	675
+240692	angoram-wagamut	2638_FISHING	ˈtʰantʰ	ˈtʰantʰ	tʰ a n tʰ		abbott1985	21882	1 7 4 1	AXLN	TANT	6	6.T.C 6.A.V 6.N.c 6.T.c	2.0 1.5 1.1 0.8	tʰantʰ	0	675
+240944	angoram-kanduanum	2638_FISHING	ˈaməngře	ˈaməngře	a m ə n g r̝ e		abbott1985	21880	7 4 7 4 1 5 7	XBYMBCZ	AMENKRE	2	2.A.V 2.M.C 2.E.V 2.N.c 2.K.C 2.R.C 2.E.V	1.5 1.75 1.3 1.1 1.75 1.5 0.8	aməngr̝e	0	673
+240868	angoram-magendo	2638_FISHING	ˈaməngře	ˈaməngře	a m ə n g r̝ e		abbott1985	21880	7 4 7 4 1 5 7	XBYMBCZ	AMENKRE	4	4.A.V 4.M.C 4.E.V 4.N.c 4.K.C 4.R.C 4.E.V	1.5 1.75 1.3 1.1 1.75 1.5 0.8	aməngr̝e	0	673
+240784	angoram-marbuk	2638_FISHING	ˈamʊtʰaře	ˈamʊtʰaře	a m ʊ tʰ a r̝ e		abbott1985	21880	7 4 7 1 7 5 7	XBYBYBZ	AMYTARE	5	5.A.V 5.M.C 5.Y.V 5.T.C 5.A.V 5.R.C 5.E.V	1.5 1.75 1.3 1.75 1.3 1.75 0.8	amʊtʰar̝e	0	673
+240277	angoram-kambrindo	2638_FISHING	ˈaməngře	ˈaməngře	a m ə n g r̝ e		abbott1985	21880	7 4 7 4 1 5 7	XBYMBCZ	AMENKRE	1	1.A.V 1.M.C 1.E.V 1.N.c 1.K.C 1.R.C 1.E.V	1.5 1.75 1.3 1.1 1.75 1.5 0.8	aməngr̝e	0	673
+240386	ap-ma-kambaramba	2638_FISHING	ˈməgəře	ˈməgəře	m ə g ə r̝ e		abbott1985	21880	4 7 1 7 5 7	AXBYBZ	MEKERE	7	7.M.C 7.E.V 7.K.C 7.E.V 7.R.C 7.E.V	2.0 1.5 1.75 1.3 1.75 0.8	məgər̝e	0	679
+#
+239180	tok-pisin	2824_KNUCKLE	skru bilong pinga	skru_bilong_pinga	s k r u + b i l o n g + p i n g a	knuckle	abbott1985	47	3 1 5 7 9 1 7 5 7 4 1 9 1 7 4 1 7	ACCZ_AXBYLN_AXMBZ	SKRY_PILUNK_PINKA	10	10.S.C 10.K.C 10.R.C 10.Y.V 10._._ 10.P.C 10.I.V 10.L.C 10.U.V 10.N.c 10.K.c 10._._ 10.P.C 10.I.V 10.N.c 10.K.C 10.A.V	2.0 1.5 1.5 0.8 0.0 2.0 1.5 1.75 1.3 1.1 0.8 0.0 2.0 1.5 1.1 1.75 0.8	skru+bilong+pinga	0	692
+240158	chambri-kilimbit	2824_KNUCKLE	ˈtʊlʊk	ˈtʊlʊk	t ʊ l ʊ k		abbott1985	21908	1 7 5 7 1	AXBYN	TYLYK	8	8.T.C 8.Y.V 8.L.C 8.Y.V 8.K.c	2.0 1.5 1.75 1.3 0.8	tʊlʊk	0	690
+240159	chambri-kilimbit	2824_KNUCKLE	ˈtʊřʊk	ˈtʊřʊk	t ʊ r̝ ʊ k		abbott1985	21908	1 7 5 7 1	AXBYN	TYRYK	8	8.T.C 8.Y.V 8.R.C 8.Y.V 8.K.c	2.0 1.5 1.75 1.3 0.8	tʊr̝ʊk	0	690
+240473	kopar-singarin	2824_KNUCKLE	ˈnampapʰətəŋ	ˈnampapʰətəŋ	n a m p a pʰ ə t ə ŋ		abbott1985	158	4 7 4 1 7 1 7 1 7 4	AXMBYBYBYN	NAMPAPETEN	9	9.N.C 9.A.V 9.M.c 9.P.C 9.A.V 9.P.C 9.E.V 9.T.C 9.E.V 9.N.c	2.0 1.5 1.1 1.75 1.3 1.75 1.3 1.75 1.3 0.8	nampapʰətəŋ	0	691
+240577	angoram-karau	2824_KNUCKLE	ˈpʰədəkʰ	ˈpʰədəkʰ	pʰ ə d ə kʰ		abbott1985	185	1 7 1 7 1	AXBYN	PETEK	3	3.P.C 3.E.V 3.T.C 3.E.V 3.K.c	2.0 1.5 1.75 1.3 0.8	pʰədəkʰ	0	685
+240678	angoram-wagamut	2824_KNUCKLE	ˈpʰədakʰ	ˈpʰədakʰ	pʰ ə d a kʰ		abbott1985	212	1 7 1 7 1	AXBYN	PETAK	6	6.P.C 6.E.V 6.T.C 6.A.V 6.K.c	2.0 1.5 1.75 1.3 0.8	pʰədakʰ	0	685
+240925	angoram-kanduanum	2824_KNUCKLE	ˈkwoŋbinəm	ˈkwoŋbinəm	k w o ŋ b i n ə m		abbott1985	226	1 6 7 4 1 7 4 7 4	ACXMBYBYN	KWUNPINEM	2	2.K.C 2.W.C 2.U.V 2.N.c 2.P.C 2.I.V 2.N.C 2.E.V 2.M.c	2.0 1.5 1.5 1.1 1.75 1.3 1.75 1.3 0.8	kwoŋbinəm	0	684
+240850	angoram-magendo	2824_KNUCKLE	ˈtʰəŋ	ˈtʰəŋ	tʰ ə ŋ		abbott1985	249	1 7 4	AXN	TEN	4	4.T.C 4.E.V 4.N.c	2.0 1.5 0.8	tʰəŋ	0	683
+240765	angoram-marbuk	2824_KNUCKLE	ˈsʊŋgədʊŋ	ˈsʊŋgədʊŋ	s ʊ ŋ g ə d ʊ ŋ		abbott1985	265	3 7 4 1 7 1 7 4	AXMBYBYN	SYNKETYN	5	5.S.C 5.Y.V 5.N.c 5.K.C 5.E.V 5.T.C 5.Y.V 5.N.c	2.0 1.5 1.1 1.75 1.3 1.75 1.3 0.8	sʊŋgədʊŋ	0	687
+240257	angoram-kambrindo	2824_KNUCKLE	ˈtiŋ	ˈtiŋ	t i ŋ		abbott1985	289	1 7 4	AXN	TIN	1	1.T.C 1.I.V 1.N.c	2.0 1.5 0.8	tiŋ	0	683
+240370	ap-ma-kambaramba	2824_KNUCKLE	ˈiandən	ˈiandən	i a n d ə n		abbott1985	328	7 7 4 1 7 4	XYMBYN	IANTEN	7	7.I.V 7.A.V 7.N.c 7.T.C 7.E.V 7.N.c	1.5 1.3 1.1 1.75 1.3 0.8	iandən	0	689
+#
+239254	tok-pisin	2963_NET	basket bilong pis	basket_bilong_pis	b a s k e t + b i l o n g + p i s	net	abbott1985	121	1 7 3 1 7 1 9 1 7 5 7 4 1 9 1 7 3	AXMBYN_AXBYLN_AXN	PASKET_PILUNK_PIS	10	10.P.C 10.A.V 10.S.c 10.K.C 10.E.V 10.T.c 10._._ 10.P.C 10.I.V 10.L.C 10.U.V 10.N.c 10.K.c 10._._ 10.P.C 10.I.V 10.S.c	2.0 1.5 1.1 1.75 1.3 0.8 0.0 2.0 1.5 1.75 1.3 1.1 0.8 0.0 2.0 1.5 0.8	basket+bilong+pis	0	696
+240531	kopar-singarin	2963_NET	ˈawɛř	ˈawɛř	a w ɛ r̝		abbott1985	176	7 6 7 5	XBYN	AWER	9	9.A.V 9.W.C 9.E.V 9.R.c	1.5 1.75 1.3 0.8	awɛr̝	0	695
+240324	angoram-kambrindo	2963_NET	ˈikʰaise	ˈikʰaise	i kʰ a i s e		abbott1985	21855	7 1 7 7 3 7	XBYYBZ	IKAISE	1	1.I.V 1.K.C 1.A.V 1.I.V 1.S.C 1.E.V	1.5 1.75 1.3 1.3 1.75 0.8	ikʰaise	0	693
+240423	ap-ma-kambaramba	2963_NET	ˈwantʰama	ˈwantʰama	w a n tʰ a m a		abbott1985	21856	6 7 4 1 7 4 7	AXMBYBZ	WANTAMA	7	7.W.C 7.A.V 7.N.c 7.T.C 7.A.V 7.M.C 7.A.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	wantʰama	0	694
+#
+239170	tok-pisin	323_FAT_ORGANIC_SUBSTANCE	gris	gris	g r i s	fat	abbott1985	37	1 5 7 3	ACXN	KRIS	10	10.K.C 10.R.C 10.I.V 10.S.c	2.0 1.5 1.5 0.8	gris	0	705
+240153	chambri-kilimbit	323_FAT_ORGANIC_SUBSTANCE	ˈandiæl	ˈandiæl	a n d i æ l		abbott1985	21636	7 4 1 7 7 5	XMBYYN	ANTIEL	8	8.A.V 8.N.c 8.T.C 8.I.V 8.E.V 8.L.c	1.5 1.1 1.75 1.3 1.3 0.8	andiæl	0	703
+240463	kopar-singarin	323_FAT_ORGANIC_SUBSTANCE	ˈnonon	ˈnonon	n o n o n		abbott1985	21639	4 7 4 7 4	AXBYN	NUNUN	9	9.N.C 9.U.V 9.N.C 9.U.V 9.N.c	2.0 1.5 1.75 1.3 0.8	nonon	0	697
+240567	angoram-karau	323_FAT_ORGANIC_SUBSTANCE	ˈtabwan	ˈtabwan	t a b w a n		abbott1985	21640	1 7 1 6 7 4	AXBCYN	TAPWAN	3	3.T.C 3.A.V 3.P.C 3.W.C 3.A.V 3.N.c	2.0 1.5 1.75 1.5 1.3 0.8	tabwan	0	699
+240921	angoram-kanduanum	323_FAT_ORGANIC_SUBSTANCE	ˈnambər̃	ˈnambər̃	n a m b ə r̃		abbott1985	21637	4 7 4 1 7 5	AXMBYN	NAMPER	2	2.N.C 2.A.V 2.M.c 2.P.C 2.E.V 2.R.c	2.0 1.5 1.1 1.75 1.3 0.8	nambər̃	0	698
+240846	angoram-magendo	323_FAT_ORGANIC_SUBSTANCE	ˈnambər̃	ˈnambər̃	n a m b ə r̃		abbott1985	21637	4 7 4 1 7 5	AXMBYN	NAMPER	4	4.N.C 4.A.V 4.M.c 4.P.C 4.E.V 4.R.c	2.0 1.5 1.1 1.75 1.3 0.8	nambər̃	0	698
+240761	angoram-marbuk	323_FAT_ORGANIC_SUBSTANCE	ˈnambər̃	ˈnambər̃	n a m b ə r̃		abbott1985	21637	4 7 4 1 7 5	AXMBYN	NAMPER	5	5.N.C 5.A.V 5.M.c 5.P.C 5.E.V 5.R.c	2.0 1.5 1.1 1.75 1.3 0.8	nambər̃	0	698
+240247	angoram-kambrindo	323_FAT_ORGANIC_SUBSTANCE	ˈnanbər̃	ˈnanbər̃	n a n b ə r̃		abbott1985	21637	4 7 4 1 7 5	AXMBYN	NANPER	1	1.N.C 1.A.V 1.N.c 1.P.C 1.E.V 1.R.c	2.0 1.5 1.1 1.75 1.3 0.8	nanbər̃	0	697
+240359	ap-ma-kambaramba	323_FAT_ORGANIC_SUBSTANCE	ˈambaiyo	ˈambaiyo	a m b a i j o		abbott1985	21638	7 4 1 7 7 6 7	XMBYYBZ	AMPAIJU	7	7.A.V 7.M.c 7.P.C 7.A.V 7.I.V 7.J.C 7.U.V	1.5 1.1 1.75 1.3 1.3 1.75 0.8	ambaijo	0	702
+#
+239201	tok-pisin	351_TARO	taro	taro	t a r o	taro	abbott1985	68	1 7 5 7	AXBZ	TARU	10	10.T.C 10.A.V 10.R.C 10.U.V	2.0 1.5 1.75 0.8	taro	0	711
+240491	kopar-singarin	351_TARO	ˈmandʊřan	ˈmandʊřan	m a n d ʊ r̝ a n		abbott1985	21884	4 7 4 1 7 5 7 4	AXMBYBYN	MANTYRAN	9	9.M.C 9.A.V 9.N.c 9.T.C 9.Y.V 9.R.C 9.A.V 9.N.c	2.0 1.5 1.1 1.75 1.3 1.75 1.3 0.8	mandʊr̝an	0	710
+240596	angoram-karau	351_TARO	ˈwařəpʰʊn	ˈwařəpʰʊn	w a r̝ ə pʰ ʊ n		abbott1985	21885	6 7 5 7 1 7 4	AXBYBYN	WAREPYN	3	3.W.C 3.A.V 3.R.C 3.E.V 3.P.C 3.Y.V 3.N.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	war̝əpʰʊn	0	707
+240693	angoram-wagamut	351_TARO	ˈtšořapʰ	ˈtšořapʰ	ʈʂ o r̝ a pʰ		abbott1985	21886	2 7 5 7 1	AXBYN	CURAP	6	6.C.C 6.U.V 6.R.C 6.A.V 6.P.c	2.0 1.5 1.75 1.3 0.8	ʈʂor̝apʰ	0	709
+240869	angoram-magendo	351_TARO	ˈkʰangařaəm	ˈkʰangařaəm	kʰ a n g a r̝ a ə m		abbott1985	21883	1 7 4 1 7 5 7 7 4	AXMBYBYYN	KANKARAEM	4	4.K.C 4.A.V 4.N.c 4.K.C 4.A.V 4.R.C 4.A.V 4.E.V 4.M.c	2.0 1.5 1.1 1.75 1.3 1.75 1.3 1.3 0.8	kʰangar̝aəm	0	706
+240278	angoram-kambrindo	351_TARO	ˈkʰangaraəm	ˈkʰangaraəm	kʰ a n g a r a ə m		abbott1985	21883	1 7 4 1 7 5 7 7 4	AXMBYBYYN	KANKARAEM	1	1.K.C 1.A.V 1.N.c 1.K.C 1.A.V 1.R.C 1.A.V 1.E.V 1.M.c	2.0 1.5 1.1 1.75 1.3 1.75 1.3 1.3 0.8	kʰangaraəm	0	706
+#
+239190	tok-pisin	406_OLD_MAN	lapun man	lapun_man	l a p u n + m a n	old man	abbott1985	57	5 7 1 7 4 9 4 7 4	AXBYN_AXN	LAPYN_MAN	10	10.L.C 10.A.V 10.P.C 10.Y.V 10.N.c 10._._ 10.M.C 10.A.V 10.N.c	2.0 1.5 1.75 1.3 0.8 0.0 2.0 1.5 0.8	lapun+man	0	721
+240168	chambri-kilimbit	406_OLD_MAN	ˈnor̃ənən	ˈnor̃ənən	n o r̃ ə n ə n		abbott1985	135	4 7 5 7 4 7 4	AXBYBYN	NURENEN	8	8.N.C 8.U.V 8.R.C 8.E.V 8.N.C 8.E.V 8.N.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	nor̃ənən	0	714
+240481	kopar-singarin	406_OLD_MAN	ˈkʰapanořo	ˈkʰapanořo	kʰ a p a n o r̝ o		abbott1985	163	1 7 1 7 4 7 5 7	AXBYBYBZ	KAPANURU	9	9.K.C 9.A.V 9.P.C 9.A.V 9.N.C 9.U.V 9.R.C 9.U.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	kʰapanor̝o	0	720
+240585	angoram-karau	406_OLD_MAN	ˈnorapʰo	ˈnorapʰo	n o r a pʰ o		abbott1985	190	4 7 5 7 1 7	AXBYBZ	NURAPU	3	3.N.C 3.U.V 3.R.C 3.A.V 3.P.C 3.U.V	2.0 1.5 1.75 1.3 1.75 0.8	norapʰo	0	714
+240683	angoram-wagamut	406_OLD_MAN	ˈapʰanor̃	ˈapʰanor̃	a pʰ a n o r̃		abbott1985	214	7 1 7 4 7 5	XBYBYN	APANUR	6	6.A.V 6.P.C 6.A.V 6.N.C 6.U.V 6.R.c	1.5 1.75 1.3 1.75 1.3 0.8	apʰanor̃	0	712
+240935	angoram-kanduanum	406_OLD_MAN	ˈabapʰ	ˈabapʰ	a b a pʰ		abbott1985	233	7 1 7 1	XBYN	APAP	2	2.A.V 2.P.C 2.A.V 2.P.c	1.5 1.75 1.3 0.8	abapʰ	0	712
+240859	angoram-magendo	406_OLD_MAN	ˈpʰondokʰopʰan	ˈpʰondokʰopʰan	pʰ o n d o kʰ o pʰ a n		abbott1985	255	1 7 4 1 7 1 7 1 7 4	AXMBYBYBYN	PUNTUKUPAN	4	4.P.C 4.U.V 4.N.c 4.T.C 4.U.V 4.K.C 4.U.V 4.P.C 4.A.V 4.N.c	2.0 1.5 1.1 1.75 1.3 1.75 1.3 1.75 1.3 0.8	pʰondokʰopʰan	0	715
+240775	angoram-marbuk	406_OLD_MAN	ˈpʰondokʰopʰan	ˈpʰondokʰopʰan	pʰ o n d o kʰ o pʰ a n		abbott1985	272	1 7 4 1 7 1 7 1 7 4	AXMBYBYBYN	PUNTUKUPAN	5	5.P.C 5.U.V 5.N.c 5.T.C 5.U.V 5.K.C 5.U.V 5.P.C 5.A.V 5.N.c	2.0 1.5 1.1 1.75 1.3 1.75 1.3 1.75 1.3 0.8	pʰondokʰopʰan	0	715
+240265	angoram-kambrindo	406_OLD_MAN	ˈapapʰ	ˈapapʰ	a p a pʰ		abbott1985	294	7 1 7 1	XBYN	APAP	1	1.A.V 1.P.C 1.A.V 1.P.c	1.5 1.75 1.3 0.8	apapʰ	0	712
+240378	ap-ma-kambaramba	406_OLD_MAN	ˈuau	ˈuau	u a u		abbott1985	333	7 7 7	XYZ	YAY	7	7.Y.V 7.A.V 7.Y.V	1.5 1.3 0.8	uau	0	718
+#
+239136	tok-pisin	478_LIP	lip	lip	l i p	lip	abbott1985	3	5 7 1	AXN	LIP	10	10.L.C 10.I.V 10.P.c	2.0 1.5 0.8	lip	0	731
+240121	chambri-kilimbit	478_LIP	anˈtan.o	anˈtan.o	a n t a n + o		abbott1985	21894	7 4 1 7 4 9 7	XMBYN_X	ANTAN_U	8	8.A.V 8.N.c 8.T.C 8.A.V 8.N.c 8._._ 8.U.V	1.5 1.1 1.75 1.3 0.8 0.0 1.5	antan+o	0	729
+240427	kopar-singarin	478_LIP	ˈasupʰ	ˈasupʰ	a s u pʰ		abbott1985	21897	7 3 7 1	XBYN	ASYP	9	9.A.V 9.S.C 9.Y.V 9.P.c	1.5 1.75 1.3 0.8	asupʰ	0	730
+240536	angoram-karau	478_LIP	ˈtsəkʰin	ˈtsəkʰin	ts ə kʰ i n		abbott1985	21898	2 7 1 7 4	AXBYN	CEKIN	3	3.C.C 3.E.V 3.K.C 3.I.V 3.N.c	2.0 1.5 1.75 1.3 0.8	tsəkʰin	0	724
+240643	angoram-wagamut	478_LIP	ˈtsəkʰin	ˈtsəkʰin	ts ə kʰ i n		abbott1985	21898	2 7 1 7 4	AXBYN	CEKIN	6	6.C.C 6.E.V 6.K.C 6.I.V 6.N.c	2.0 1.5 1.75 1.3 0.8	tsəkʰin	0	724
+240893	angoram-kanduanum	478_LIP	ˈšušumbarə	ˈšušumbarə	ʂ u ʂ u m b a r ə		abbott1985	21895	3 7 3 7 4 1 7 5 7	AXBYMBYBZ	SYSYMPARE	2	2.S.C 2.Y.V 2.S.C 2.Y.V 2.M.c 2.P.C 2.A.V 2.R.C 2.E.V	2.0 1.5 1.75 1.3 1.1 1.75 1.3 1.75 0.8	ʂuʂumbarə	0	722
+240817	angoram-magendo	478_LIP	ˈsusum	ˈsusum	s u s u m		abbott1985	21895	3 7 3 7 4	AXBYN	SYSYM	4	4.S.C 4.Y.V 4.S.C 4.Y.V 4.M.c	2.0 1.5 1.75 1.3 0.8	susum	0	722
+240731	angoram-marbuk	478_LIP	ˈsusum	ˈsusum	s u s u m		abbott1985	21895	3 7 3 7 4	AXBYN	SYSYM	5	5.S.C 5.Y.V 5.S.C 5.Y.V 5.M.c	2.0 1.5 1.75 1.3 0.8	susum	0	722
+240212	angoram-kambrindo	478_LIP	ˈsusum	ˈsusum	s u s u m		abbott1985	21895	3 7 3 7 4	AXBYN	SYSYM	1	1.S.C 1.Y.V 1.S.C 1.Y.V 1.M.c	2.0 1.5 1.75 1.3 0.8	susum	0	722
+240328	ap-ma-kambaramba	478_LIP	ˈpʰʊnəmpʰ	ˈpʰʊnəmpʰ	pʰ ʊ n ə m pʰ		abbott1985	21896	1 7 4 7 4 1	AXBYLN	PYNEMP	7	7.P.C 7.Y.V 7.N.C 7.E.V 7.M.c 7.P.c	2.0 1.5 1.75 1.3 1.1 0.8	pʰʊnəmpʰ	0	728
+#
+239198	tok-pisin	503_FROG	krokrok	krokrok	k r o k r o k	frog	abbott1985	65	1 5 7 1 5 7 1	ACXBCYN	KRUKRUK	10	10.K.C 10.R.C 10.U.V 10.K.C 10.R.C 10.U.V 10.K.c	2.0 1.5 1.5 1.75 1.5 1.3 0.8	krokrok	0	732
+240488	kopar-singarin	503_FROG	ˈgřongřokʰ	ˈgřongřokʰ	g r̝ o n g r̝ o kʰ		abbott1985	21667	1 5 7 4 1 5 7 1	ACXMBCYN	KRUNKRUK	9	9.K.C 9.R.C 9.U.V 9.N.c 9.K.C 9.R.C 9.U.V 9.K.c	2.0 1.5 1.5 1.1 1.75 1.5 1.3 0.8	gr̝ongr̝okʰ	0	732
+240593	angoram-karau	503_FROG	ˈkʰokʰřaikʰ	ˈkʰokʰřaikʰ	kʰ o kʰ r̝ a i kʰ		abbott1985	21668	1 7 1 5 7 7 1	AXBCYYN	KUKRAIK	3	3.K.C 3.U.V 3.K.C 3.R.C 3.A.V 3.I.V 3.K.c	2.0 1.5 1.75 1.5 1.3 1.3 0.8	kʰokʰr̝aikʰ	0	734
+240690	angoram-wagamut	503_FROG	ˈpʰopʰřakʰ	ˈpʰopʰřakʰ	pʰ o pʰ r̝ a kʰ		abbott1985	21669	1 7 1 5 7 1	AXBCYN	PUPRAK	6	6.P.C 6.U.V 6.P.C 6.R.C 6.A.V 6.K.c	2.0 1.5 1.75 1.5 1.3 0.8	pʰopʰr̝akʰ	0	737
+240942	angoram-kanduanum	503_FROG	kʰəřɛm	kʰəřɛm	kʰ ə r̝ ɛ m		abbott1985	21665	1 7 5 7 4	AXBYN	KEREM	2	2.K.C 2.E.V 2.R.C 2.E.V 2.M.c	2.0 1.5 1.75 1.3 0.8	kʰər̝ɛm	0	732
+240866	angoram-magendo	503_FROG	ˈkʰəřɛm	ˈkʰəřɛm	kʰ ə r̝ ɛ m		abbott1985	21665	1 7 5 7 4	AXBYN	KEREM	4	4.K.C 4.E.V 4.R.C 4.E.V 4.M.c	2.0 1.5 1.75 1.3 0.8	kʰər̝ɛm	0	732
+240782	angoram-marbuk	503_FROG	ˈkʰəřem	ˈkʰəřem	kʰ ə r̝ e m		abbott1985	21665	1 7 5 7 4	AXBYN	KEREM	5	5.K.C 5.E.V 5.R.C 5.E.V 5.M.c	2.0 1.5 1.75 1.3 0.8	kʰər̝em	0	732
+240275	angoram-kambrindo	503_FROG	ˈkʰəřem	ˈkʰəřem	kʰ ə r̝ e m		abbott1985	21665	1 7 5 7 4	AXBYN	KEREM	1	1.K.C 1.E.V 1.R.C 1.E.V 1.M.c	2.0 1.5 1.75 1.3 0.8	kʰər̝em	0	732
+240384	ap-ma-kambaramba	503_FROG	ˈukʰəřəmpʰə	ˈukʰəřəmpʰə	u kʰ ə r̝ ə m pʰ ə		abbott1985	21666	7 1 7 5 7 4 1 7	XBYBYMBZ	YKEREMPE	7	7.Y.V 7.K.C 7.E.V 7.R.C 7.E.V 7.M.c 7.P.C 7.E.V	1.5 1.75 1.3 1.75 1.3 1.1 1.75 0.8	ukʰər̝əmpʰə	0	738
+#
+239168	tok-pisin	628_LEAF	lip (leaf)	lip_	l i p	leaf	abbott1985	35	5 7 1	AXN	LIP	10	10.L.C 10.I.V 10.P.c	2.0 1.5 0.8	lip	1	748
+240151	chambri-kilimbit	628_LEAF	ˈnɨmbəˈlampʰ	ˈnɨmbəˈlampʰ	n ɨ m b ə l a m pʰ		abbott1985	21657	4 7 4 1 7 5 7 4 1	AXMBYBYLN	NIMPELAMP	8	8.N.C 8.I.V 8.M.c 8.P.C 8.E.V 8.L.C 8.A.V 8.M.c 8.P.c	2.0 1.5 1.1 1.75 1.3 1.75 1.3 1.1 0.8	nɨmbəlampʰ	0	743
+240461	kopar-singarin	628_LEAF	ˈbřiŋdan	ˈbřiŋdan	b r̝ i ŋ d a n		abbott1985	21659	1 5 7 4 1 7 4	ACXMBYN	PRINTAN	9	9.P.C 9.R.C 9.I.V 9.N.c 9.T.C 9.A.V 9.N.c	2.0 1.5 1.5 1.1 1.75 1.3 0.8	br̝iŋdan	0	739
+240565	angoram-karau	628_LEAF	ˈnabiřəkʰ	ˈnabiřəkʰ	n a b i r̝ ə kʰ		abbott1985	21660	4 7 1 7 5 7 1	AXBYBYN	NAPIREK	3	3.N.C 3.A.V 3.P.C 3.I.V 3.R.C 3.E.V 3.K.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	nabir̝əkʰ	0	741
+240671	angoram-wagamut	628_LEAF	ˈnabiřukʰ	ˈnabiřukʰ	n a b i r̝ u kʰ		abbott1985	21660	4 7 1 7 5 7 1	AXBYBYN	NAPIRYK	6	6.N.C 6.A.V 6.P.C 6.I.V 6.R.C 6.Y.V 6.K.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	nabir̝ukʰ	0	741
+240919	angoram-kanduanum	628_LEAF	ˈmbr̃i	ˈmbr̃i	m b r̃ i		abbott1985	21661	4 1 5 7	ACCZ	MPRI	2	2.M.C 2.P.C 2.R.C 2.I.V	2.0 1.5 1.5 0.8	mbr̃i	0	740
+240844	angoram-magendo	628_LEAF	ˈbə̌řʊm	ˈbə̌řʊm	b ə̌/ə r̝ ʊ m		abbott1985	21657	1 7 5 7 4	AXBYN	PERYM	4	4.P.C 4.E.V 4.R.C 4.Y.V 4.M.c	2.0 1.5 1.75 1.3 0.8	bə̌/ər̝ʊm	0	739
+240759	angoram-marbuk	628_LEAF	nambəřʊm	nambəřʊm	n a m b ə r̝ ʊ m		abbott1985	21657	4 7 4 1 7 5 7 4	AXMBYBYN	NAMPERYM	5	5.N.C 5.A.V 5.M.c 5.P.C 5.E.V 5.R.C 5.Y.V 5.M.c	2.0 1.5 1.1 1.75 1.3 1.75 1.3 0.8	nambər̝ʊm	0	743
+240245	angoram-kambrindo	628_LEAF	ˈbəřʊm	ˈbəřʊm	b ə r̝ ʊ m		abbott1985	21657	1 7 5 7 4	AXBYN	PERYM	1	1.P.C 1.E.V 1.R.C 1.Y.V 1.M.c	2.0 1.5 1.75 1.3 0.8	bər̝ʊm	0	739
+240357	ap-ma-kambaramba	628_LEAF	ˈbaiəbɛn	ˈbaiəbɛn	b a i ə b ɛ n		abbott1985	21658	1 7 7 7 1 7 4	AXYYBYN	PAIEPEN	7	7.P.C 7.A.V 7.I.V 7.E.V 7.P.C 7.E.V 7.N.c	2.0 1.5 1.3 1.3 1.75 1.3 0.8	baiəbɛn	0	745
+#
+239221	tok-pisin	630_LIGHT_RADIATION	in no hevi	in_no_hevi	i n + n o + h e v i	light	abbott1985	88	7 4 9 4 7 9 3 7 3 7	XN_AX_AXBZ	IN_NU_HEBI	10	10.I.V 10.N.c 10._._ 10.N.C 10.U.V 10._._ 10.H.C 10.E.V 10.B.C 10.I.V	1.5 0.8 0.0 2.0 1.5 0.0 2.0 1.5 1.75 0.8	in+no+hevi	0	756
+240510	kopar-singarin	630_LIGHT_RADIATION	ˈtsanənpřau	ˈtsanənpřau	ts a n ə n p r̝ a u		abbott1985	21784	2 7 4 7 4 1 5 7 7	AXBYMBCYZ	CANENPRAY	9	9.C.C 9.A.V 9.N.C 9.E.V 9.N.c 9.P.C 9.R.C 9.A.V 9.Y.V	2.0 1.5 1.75 1.3 1.1 1.75 1.5 1.3 0.8	tsanənpr̝au	0	755
+240615	angoram-karau	630_LIGHT_RADIATION	ˈsanabao	ˈsanabao	s a n a b a o		abbott1985	21785	3 7 4 7 1 7 7	AXBYBYZ	SANAPAU	3	3.S.C 3.A.V 3.N.C 3.A.V 3.P.C 3.A.V 3.U.V	2.0 1.5 1.75 1.3 1.75 1.3 0.8	sanabao	0	751
+240712	angoram-wagamut	630_LIGHT_RADIATION	ˈsonabao	ˈsonabao	s o n a b a o		abbott1985	21785	3 7 4 7 1 7 7	AXBYBYZ	SUNAPAU	6	6.S.C 6.U.V 6.N.C 6.A.V 6.P.C 6.A.V 6.U.V	2.0 1.5 1.75 1.3 1.75 1.3 0.8	sonabao	0	751
+240961	angoram-kanduanum	630_LIGHT_RADIATION	samˈblakalakʰən	samˈblakalakʰən	s a m b l a k a l a kʰ ə n		abbott1985	21786	3 7 4 1 5 7 1 7 5 7 1 7 4	AXMBCYBYBYBYN	SAMPLAKALAKEN	2	2.S.C 2.A.V 2.M.c 2.P.C 2.L.C 2.A.V 2.K.C 2.A.V 2.L.C 2.A.V 2.K.C 2.E.V 2.N.c	2.0 1.5 1.1 1.75 1.5 1.3 1.75 1.3 1.75 1.3 1.75 1.3 0.8	samblakalakʰən	0	750
+240803	angoram-marbuk	630_LIGHT_RADIATION	ˈsnamkʰantʰakʰən	ˈsnamkʰantʰakʰən	s n a m kʰ a n tʰ a kʰ ə n		abbott1985	21786	3 4 7 4 1 7 4 1 7 1 7 4	ACXMBYMBYBYN	SNAMKANTAKEN	5	5.S.C 5.N.C 5.A.V 5.M.c 5.K.C 5.A.V 5.N.c 5.T.C 5.A.V 5.K.C 5.E.V 5.N.c	2.0 1.5 1.5 1.1 1.75 1.3 1.1 1.75 1.3 1.75 1.3 0.8	snamkʰantʰakʰən	0	751
+240295	angoram-kambrindo	630_LIGHT_RADIATION	ˈpřɩndəmʊsɩkʰre	ˈpřɩndəmʊsɩkʰre	p r̝ ɪ n d ə m ʊ s ɪ kʰ r e		abbott1985	21782	1 5 7 4 1 7 4 7 3 7 1 5 7	ACXMBYBYBYBCZ	PRINTEMYSIKRE	1	1.P.C 1.R.C 1.I.V 1.N.c 1.T.C 1.E.V 1.M.C 1.Y.V 1.S.C 1.I.V 1.K.C 1.R.C 1.E.V	2.0 1.5 1.5 1.1 1.75 1.3 1.75 1.3 1.75 1.3 1.75 1.5 0.8	pr̝ɪndəmʊsɪkʰre	0	749
+240405	ap-ma-kambaramba	630_LIGHT_RADIATION	ˈpansəmbaři	ˈpansəmbaři	p a n s ə m b a r̝ i		abbott1985	21783	1 7 4 3 7 4 1 7 5 7	AXMBYMBYBZ	PANSEMPARI	7	7.P.C 7.A.V 7.N.c 7.S.C 7.E.V 7.M.c 7.P.C 7.A.V 7.R.C 7.I.V	2.0 1.5 1.1 1.75 1.3 1.1 1.75 1.3 1.75 0.8	pansəmbar̝i	0	754
+#
+239169	tok-pisin	634_MEAT	abus	abus	a b u s	meat	abbott1985	36	7 1 7 3	XBYN	APYS	10	10.A.V 10.P.C 10.Y.V 10.S.c	1.5 1.75 1.3 0.8	abus	0	766
+240152	chambri-kilimbit	634_MEAT	amˈdal	amˈdal	a m d a l		abbott1985	21931	7 4 1 7 5	XMBYN	AMTAL	8	8.A.V 8.M.c 8.T.C 8.A.V 8.L.c	1.5 1.1 1.75 1.3 0.8	amdal	0	757
+240462	kopar-singarin	634_MEAT	ˈmʊmʊřan	ˈmʊmʊřan	m ʊ m ʊ r̝ a n		abbott1985	21933	4 7 4 7 5 7 4	AXBYBYN	MYMYRAN	9	9.M.C 9.Y.V 9.M.C 9.Y.V 9.R.C 9.A.V 9.N.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	mʊmʊr̝an	0	765
+240566	angoram-karau	634_MEAT	ˈnagʊn	ˈnagʊn	n a g ʊ n		abbott1985	21934	4 7 1 7 4	AXBYN	NAKYN	3	3.N.C 3.A.V 3.K.C 3.Y.V 3.N.c	2.0 1.5 1.75 1.3 0.8	nagʊn	0	759
+240672	angoram-wagamut	634_MEAT	ˈtʰaŋkʰ	ˈtʰaŋkʰ	tʰ a ŋ kʰ		abbott1985	21935	1 7 4 1	AXLN	TANK	6	6.T.C 6.A.V 6.N.c 6.K.c	2.0 1.5 1.1 0.8	tʰaŋkʰ	0	762
+240920	angoram-kanduanum	634_MEAT	ˈaməgře	ˈaməgře	a m ə g r̝ e		abbott1985	21932	7 4 7 1 5 7	XBYBCZ	AMEKRE	2	2.A.V 2.M.C 2.E.V 2.K.C 2.R.C 2.E.V	1.5 1.75 1.3 1.75 1.5 0.8	aməgr̝e	0	757
+240845	angoram-magendo	634_MEAT	ˈaməgře	ˈaməgře	a m ə g r̝ e		abbott1985	21932	7 4 7 1 5 7	XBYBCZ	AMEKRE	4	4.A.V 4.M.C 4.E.V 4.K.C 4.R.C 4.E.V	1.5 1.75 1.3 1.75 1.5 0.8	aməgr̝e	0	757
+240760	angoram-marbuk	634_MEAT	ˈaməgře	ˈaməgře	a m ə g r̝ e		abbott1985	21932	7 4 7 1 5 7	XBYBCZ	AMEKRE	5	5.A.V 5.M.C 5.E.V 5.K.C 5.R.C 5.E.V	1.5 1.75 1.3 1.75 1.5 0.8	aməgr̝e	0	757
+240246	angoram-kambrindo	634_MEAT	ˈaməgře	ˈaməgře	a m ə g r̝ e		abbott1985	21932	7 4 7 1 5 7	XBYBCZ	AMEKRE	1	1.A.V 1.M.C 1.E.V 1.K.C 1.R.C 1.E.V	1.5 1.75 1.3 1.75 1.5 0.8	aməgr̝e	0	757
+240358	ap-ma-kambaramba	634_MEAT	ˈməkʰəre	ˈməkʰəre	m ə kʰ ə r e		abbott1985	21932	4 7 1 7 5 7	AXBYBZ	MEKERE	7	7.M.C 7.E.V 7.K.C 7.E.V 7.R.C 7.E.V	2.0 1.5 1.75 1.3 1.75 0.8	məkʰəre	0	763
+#
+239210	tok-pisin	639_MOUNTAIN	maunten	maunten	m a u n t e n	mountain	abbott1985	77	4 7 7 4 1 7 4	AXYMBYN	MAYNTEN	10	10.M.C 10.A.V 10.Y.V 10.N.c 10.T.C 10.E.V 10.N.c	2.0 1.5 1.3 1.1 1.75 1.3 0.8	maunten	0	776
+240180	chambri-kilimbit	639_MOUNTAIN	ˈbawi	ˈbawi	b a w i		abbott1985	21738	1 7 6 7	AXBZ	PAWI	8	8.P.C 8.A.V 8.W.C 8.I.V	2.0 1.5 1.75 0.8	bawi	0	774
+240500	kopar-singarin	639_MOUNTAIN	ˈpʰantʰam	ˈpʰantʰam	pʰ a n tʰ a m		abbott1985	21741	1 7 4 1 7 4	AXMBYN	PANTAM	9	9.P.C 9.A.V 9.N.c 9.T.C 9.A.V 9.M.c	2.0 1.5 1.1 1.75 1.3 0.8	pʰantʰam	0	775
+240605	angoram-karau	639_MOUNTAIN	ˈpʰařam	ˈpʰařam	pʰ a r̝ a m		abbott1985	21741	1 7 5 7 4	AXBYN	PARAM	3	3.P.C 3.A.V 3.R.C 3.A.V 3.M.c	2.0 1.5 1.75 1.3 0.8	pʰar̝am	0	769
+240702	angoram-wagamut	639_MOUNTAIN	ˈpʰəřam	ˈpʰəřam	pʰ ə r̝ a m		abbott1985	21741	1 7 5 7 4	AXBYN	PERAM	6	6.P.C 6.E.V 6.R.C 6.A.V 6.M.c	2.0 1.5 1.75 1.3 0.8	pʰər̝am	0	769
+240952	angoram-kanduanum	639_MOUNTAIN	ˈwɩngři	ˈwɩngři	w ɪ n g r̝ i		abbott1985	21739	6 7 4 1 5 7	AXMBCZ	WINKRI	2	2.W.C 2.I.V 2.N.c 2.K.C 2.R.C 2.I.V	2.0 1.5 1.1 1.75 1.5 0.8	wɪngr̝i	0	768
+240877	angoram-magendo	639_MOUNTAIN	ˈuiŋ	ˈuiŋ	u i ŋ		abbott1985	21739	7 7 4	XYN	YIN	4	4.Y.V 4.I.V 4.N.c	1.5 1.3 0.8	uiŋ	0	767
+240793	angoram-marbuk	639_MOUNTAIN	ˈimbwaŋ	ˈimbwaŋ	i m b w a ŋ		abbott1985	21740	7 4 1 6 7 4	XMBCYN	IMPWAN	5	5.I.V 5.M.c 5.P.C 5.W.C 5.A.V 5.N.c	1.5 1.1 1.75 1.5 1.3 0.8	imbwaŋ	0	771
+240286	angoram-kambrindo	639_MOUNTAIN	ˈuiŋ	ˈuiŋ	u i ŋ		abbott1985	21739	7 7 4	XYN	YIN	1	1.Y.V 1.I.V 1.N.c	1.5 1.3 0.8	uiŋ	0	767
+240395	ap-ma-kambaramba	639_MOUNTAIN	ˈiəmbwan	ˈiəmbwan	i ə m b w a n		abbott1985	21740	7 7 4 1 6 7 4	XYMBCYN	IEMPWAN	7	7.I.V 7.E.V 7.M.c 7.P.C 7.W.C 7.A.V 7.N.c	1.5 1.3 1.1 1.75 1.5 1.3 0.8	iəmbwan	0	771
+#
+239155	tok-pisin	646_ASH	sit bilong paia	sit_bilong_paia	s i t + b i l o n g + p a i a	ashes	abbott1985	22	3 7 1 9 1 7 5 7 4 1 9 1 7 7 7	AXN_AXBYLN_AXYZ	SIT_PILUNK_PAIA	10	10.S.C 10.I.V 10.T.c 10._._ 10.P.C 10.I.V 10.L.C 10.U.V 10.N.c 10.K.c 10._._ 10.P.C 10.A.V 10.I.V 10.A.V	2.0 1.5 0.8 0.0 2.0 1.5 1.75 1.3 1.1 0.8 0.0 2.0 1.5 1.3 0.8	sit+bilong+paia	0	782
+240137	chambri-kilimbit	646_ASH	ɛsaˈlo	ɛsaˈlo	ɛ s a l o		abbott1985	21715	7 3 7 5 7	XBYBZ	ESALU	8	8.E.V 8.S.C 8.A.V 8.L.C 8.U.V	1.5 1.75 1.3 1.75 0.8	ɛsalo	0	781
+240906	angoram-kanduanum	646_ASH	ˈařəwo	ˈařəwo	a r̝ ə w o		abbott1985	21719	7 5 7 6 7	XBYBZ	AREWU	2	2.A.V 2.R.C 2.E.V 2.W.C 2.U.V	1.5 1.75 1.3 1.75 0.8	ar̝əwo	0	777
+240831	angoram-magendo	646_ASH	ˈutʰəkʰaře	ˈutʰəkʰaře	u tʰ ə kʰ a r̝ e		abbott1985	21718	7 1 7 1 7 5 7	XBYBYBZ	YTEKARE	4	4.Y.V 4.T.C 4.E.V 4.K.C 4.A.V 4.R.C 4.E.V	1.5 1.75 1.3 1.75 1.3 1.75 0.8	utʰəkʰar̝e	0	778
+240746	angoram-marbuk	646_ASH	ˈařʊŋ	ˈařʊŋ	a r̝ ʊ ŋ		abbott1985	21717	7 5 7 4	XBYN	ARYN	5	5.A.V 5.R.C 5.Y.V 5.N.c	1.5 1.75 1.3 0.8	ar̝ʊŋ	0	777
+240344	ap-ma-kambaramba	646_ASH	ˈwaukʰayantʰama	ˈwaukʰayantʰama	w a u kʰ a j a n tʰ a m a		abbott1985	21716	6 7 7 1 7 6 7 4 1 7 4 7	AXYBYBYMBYBZ	WAYKAJANTAMA	7	7.W.C 7.A.V 7.Y.V 7.K.C 7.A.V 7.J.C 7.A.V 7.N.c 7.T.C 7.A.V 7.M.C 7.A.V	2.0 1.5 1.3 1.75 1.3 1.75 1.3 1.1 1.75 1.3 1.75 0.8	waukʰajantʰama	0	780
+#
+239166	tok-pisin	666_RIVER	wara	wara	w a r a	river	abbott1985	33	6 7 5 7	AXBZ	WARA	10	10.W.C 10.A.V 10.R.C 10.A.V	2.0 1.5 1.75 0.8	wara	0	792
+240148	chambri-kilimbit	666_RIVER	ˈalum	ˈalum	a l u m		abbott1985	21834	7 5 7 4	XBYN	ALYM	8	8.A.V 8.L.C 8.Y.V 8.M.c	1.5 1.75 1.3 0.8	alum	0	783
+240149	chambri-kilimbit	666_RIVER	arum	arum	a r u m		abbott1985	21834	7 5 7 4	XBYN	ARYM	8	8.A.V 8.R.C 8.Y.V 8.M.c	1.5 1.75 1.3 0.8	arum	0	783
+240459	kopar-singarin	666_RIVER	ˈařʊm	ˈařʊm	a r̝ ʊ m		abbott1985	21834	7 5 7 4	XBYN	ARYM	9	9.A.V 9.R.C 9.Y.V 9.M.c	1.5 1.75 1.3 0.8	ar̝ʊm	0	783
+240563	angoram-karau	666_RIVER	ˈařʊm	ˈařʊm	a r̝ ʊ m		abbott1985	21834	7 5 7 4	XBYN	ARYM	3	3.A.V 3.R.C 3.Y.V 3.M.c	1.5 1.75 1.3 0.8	ar̝ʊm	1	783
+240668	angoram-wagamut	666_RIVER	ˈalʊm	ˈalʊm	a l ʊ m		abbott1985	21834	7 5 7 4	XBYN	ALYM	6	6.A.V 6.L.C 6.Y.V 6.M.c	1.5 1.75 1.3 0.8	alʊm	1	783
+240669	angoram-wagamut	666_RIVER	ařʊm	ařʊm	a r̝ ʊ m		abbott1985	21834	7 5 7 4	XBYN	ARYM	6	6.A.V 6.R.C 6.Y.V 6.M.c	1.5 1.75 1.3 0.8	ar̝ʊm	0	783
+240917	angoram-kanduanum	666_RIVER	ˈařʊm	ˈařʊm	a r̝ ʊ m		abbott1985	21834	7 5 7 4	XBYN	ARYM	2	2.A.V 2.R.C 2.Y.V 2.M.c	1.5 1.75 1.3 0.8	ar̝ʊm	0	783
+240842	angoram-magendo	666_RIVER	ˈařʊm	ˈařʊm	a r̝ ʊ m		abbott1985	21834	7 5 7 4	XBYN	ARYM	4	4.A.V 4.R.C 4.Y.V 4.M.c	1.5 1.75 1.3 0.8	ar̝ʊm	0	783
+240757	angoram-marbuk	666_RIVER	ˈařʊm	ˈařʊm	a r̝ ʊ m		abbott1985	21834	7 5 7 4	XBYN	ARYM	5	5.A.V 5.R.C 5.Y.V 5.M.c	1.5 1.75 1.3 0.8	ar̝ʊm	0	783
+240243	angoram-kambrindo	666_RIVER	ˈařʊm	ˈařʊm	a r̝ ʊ m		abbott1985	21834	7 5 7 4	XBYN	ARYM	1	1.A.V 1.R.C 1.Y.V 1.M.c	1.5 1.75 1.3 0.8	ar̝ʊm	0	783
+240355	ap-ma-kambaramba	666_RIVER	yaˈməndama	yaˈməndama	j a m ə n d a m a		abbott1985	21835	6 7 4 7 4 1 7 4 7	AXBYMBYBZ	JAMENTAMA	7	7.J.C 7.A.V 7.M.C 7.E.V 7.N.c 7.T.C 7.A.V 7.M.C 7.A.V	2.0 1.5 1.75 1.3 1.1 1.75 1.3 1.75 0.8	jaməndama	0	789
+#
+239209	tok-pisin	671_SAND	waisan	waisan	w a i s a n	sand	abbott1985	76	6 7 7 3 7 4	AXYBYN	WAISAN	10	10.W.C 10.A.V 10.I.V 10.S.C 10.A.V 10.N.c	2.0 1.5 1.3 1.75 1.3 0.8	waisan	0	802
+240179	chambri-kilimbit	671_SAND	ořantiˈkʰas	ořantiˈkʰas	o r̝ a n t i kʰ a s		abbott1985	21857	7 5 7 4 1 7 1 7 3	XBYMBYBYN	URANTIKAS	8	8.U.V 8.R.C 8.A.V 8.N.c 8.T.C 8.I.V 8.K.C 8.A.V 8.S.c	1.5 1.75 1.3 1.1 1.75 1.3 1.75 1.3 0.8	or̝antikʰas	0	800
+240499	kopar-singarin	671_SAND	ˈkʰəkʰəřən	ˈkʰəkʰəřən	kʰ ə kʰ ə r̝ ə n		abbott1985	21860	1 7 1 7 5 7 4	AXBYBYN	KEKEREN	9	9.K.C 9.E.V 9.K.C 9.E.V 9.R.C 9.E.V 9.N.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	kʰəkʰər̝ən	0	795
+240604	angoram-karau	671_SAND	ˈgʊgʊdžəřakʰ	ˈgʊgʊdžəřakʰ	g ʊ g ʊ dʒ ə r̝ a kʰ		abbott1985	21861	1 7 1 7 1 7 5 7 1	AXBYBYBYN	KYKYTERAK	3	3.K.C 3.Y.V 3.K.C 3.Y.V 3.T.C 3.E.V 3.R.C 3.A.V 3.K.c	2.0 1.5 1.75 1.3 1.75 1.3 1.75 1.3 0.8	gʊgʊdʒər̝akʰ	0	795
+240701	angoram-wagamut	671_SAND	ˈdžəŋai	ˈdžəŋai	dʒ ə ŋ a i		abbott1985	21858	1 7 4 7 7	AXBYZ	TENAI	6	6.T.C 6.E.V 6.N.C 6.A.V 6.I.V	2.0 1.5 1.75 1.3 0.8	dʒəŋai	0	798
+240951	angoram-kanduanum	671_SAND	ˈkʰəřařən	ˈkʰəřařən	kʰ ə r̝ a r̝ ə n		abbott1985	21860	1 7 5 7 5 7 4	AXBYBYN	KERAREN	2	2.K.C 2.E.V 2.R.C 2.A.V 2.R.C 2.E.V 2.N.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	kʰər̝ar̝ən	0	794
+240876	angoram-magendo	671_SAND	ˈtsingaiə	ˈtsingaiə	ts i n g a i ə		abbott1985	21858	2 7 4 1 7 7 7	AXMBYYZ	CINKAIE	4	4.C.C 4.I.V 4.N.c 4.K.C 4.A.V 4.I.V 4.E.V	2.0 1.5 1.1 1.75 1.3 1.3 0.8	tsingaiə	0	796
+240792	angoram-marbuk	671_SAND	ˈs ŋai	ˈs_ŋai	s + ŋ a i		abbott1985	21858	3 9 4 7 7	A_AXZ	S_NAI	5	5.S.C 5._._ 5.N.C 5.A.V 5.I.V	2.0 0.0 2.0 1.5 0.8	s+ŋai	0	797
+240285	angoram-kambrindo	671_SAND	ˈsʊŋwaia	ˈsʊŋwaia	s ʊ ŋ w a i a		abbott1985	21858	3 7 4 6 7 7 7	AXBCYYZ	SYNWAIA	1	1.S.C 1.Y.V 1.N.C 1.W.C 1.A.V 1.I.V 1.A.V	2.0 1.5 1.75 1.5 1.3 1.3 0.8	sʊŋwaia	0	793
+240394	ap-ma-kambaramba	671_SAND	ˈmʊiŋ	ˈmʊiŋ	m ʊ i ŋ		abbott1985	21859	4 7 7 4	AXYN	MYIN	7	7.M.C 7.Y.V 7.I.V 7.N.c	2.0 1.5 1.3 0.8	mʊiŋ	0	799
+#
+239204	tok-pisin	677_AXE	tamiok	tamiok	t a m i o k	axe	abbott1985	71	1 7 4 7 7 1	AXBYYN	TAMIUK	10	10.T.C 10.A.V 10.M.C 10.I.V 10.U.V 10.K.c	2.0 1.5 1.75 1.3 1.3 0.8	tamiok	0	812
+240173	chambri-kilimbit	677_AXE	ˈyiampʰar̃ʊ	ˈyiampʰar̃ʊ	j i a m pʰ a r̃ ʊ		abbott1985	21742	6 7 7 4 1 7 5 7	AXYMBYBZ	JIAMPARY	8	8.J.C 8.I.V 8.A.V 8.M.c 8.P.C 8.A.V 8.R.C 8.Y.V	2.0 1.5 1.3 1.1 1.75 1.3 1.75 0.8	jiampʰar̃ʊ	0	810
+240494	kopar-singarin	677_AXE	ˈpʰantʰɛn	ˈpʰantʰɛn	pʰ a n tʰ ɛ n		abbott1985	21745	1 7 4 1 7 4	AXMBYN	PANTEN	9	9.P.C 9.A.V 9.N.c 9.T.C 9.E.V 9.N.c	2.0 1.5 1.1 1.75 1.3 0.8	pʰantʰɛn	0	811
+240599	angoram-karau	677_AXE	ˈbořin	ˈbořin	b o r̝ i n		abbott1985	21746	1 7 5 7 4	AXBYN	PURIN	3	3.P.C 3.U.V 3.R.C 3.I.V 3.N.c	2.0 1.5 1.75 1.3 0.8	bor̝in	0	805
+240696	angoram-wagamut	677_AXE	ˈiamborinəŋgə	ˈiamborinəŋgə	i a m b o r i n ə ŋ g ə		abbott1985	21746	7 7 4 1 7 5 7 4 7 4 1 7	XYMBYBYBYMBZ	IAMPURINENKE	6	6.I.V 6.A.V 6.M.c 6.P.C 6.U.V 6.R.C 6.I.V 6.N.C 6.E.V 6.N.c 6.K.C 6.E.V	1.5 1.3 1.1 1.75 1.3 1.75 1.3 1.75 1.3 1.1 1.75 0.8	iamborinəŋgə	0	808
+240946	angoram-kanduanum	677_AXE	tšaˈkʰařəma	tšaˈkʰařəma	ʈʂ a kʰ a r̝ ə m a		abbott1985	21743	2 7 1 7 5 7 4 7	AXBYBYBZ	CAKAREMA	2	2.C.C 2.A.V 2.K.C 2.A.V 2.R.C 2.E.V 2.M.C 2.A.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	ʈʂakʰar̝əma	0	804
+240871	angoram-magendo	677_AXE	ˈuakʰəmpiše	ˈuakʰəmpiše	u a kʰ ə m p i ʂ e		abbott1985	21747	7 7 1 7 4 1 7 3 7	XYBYMBYBZ	YAKEMPISE	4	4.Y.V 4.A.V 4.K.C 4.E.V 4.M.c 4.P.C 4.I.V 4.S.C 4.E.V	1.5 1.3 1.75 1.3 1.1 1.75 1.3 1.75 0.8	uakʰəmpiʂe	0	806
+240787	angoram-marbuk	677_AXE	ˈsakʰařəma	ˈsakʰařəma	s a kʰ a r̝ ə m a		abbott1985	21743	3 7 1 7 5 7 4 7	AXBYBYBZ	SAKAREMA	5	5.S.C 5.A.V 5.K.C 5.A.V 5.R.C 5.E.V 5.M.C 5.A.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	sakʰar̝əma	0	803
+240280	angoram-kambrindo	677_AXE	saˈkʰařəma	saˈkʰařəma	s a kʰ a r̝ ə m a		abbott1985	21743	3 7 1 7 5 7 4 7	AXBYBYBZ	SAKAREMA	1	1.S.C 1.A.V 1.K.C 1.A.V 1.R.C 1.E.V 1.M.C 1.A.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	sakʰar̝əma	0	803
+240388	ap-ma-kambaramba	677_AXE	ˈnkʰai	ˈnkʰai	n kʰ a i		abbott1985	21744	4 1 7 7	ACYZ	NKAI	7	7.N.C 7.K.C 7.A.V 7.I.V	2.0 1.5 1.3 0.8	nkʰai	0	809
+#
+239224	tok-pisin	725_OLD_PERSON	olpela	olpela	o l p e l a	old	abbott1985	91	7 5 1 7 5 7	XMBYBZ	ULPELA	10	10.U.V 10.L.c 10.P.C 10.E.V 10.L.C 10.A.V	1.5 1.1 1.75 1.3 1.75 0.8	olpela	0	817
+240192	chambri-kilimbit	725_OLD_PERSON	mařiˈlal	mařiˈlal	m a r̝ i l a l		abbott1985	140	4 7 5 7 5 7 5	AXBYBYN	MARILAL	8	8.M.C 8.A.V 8.R.C 8.I.V 8.L.C 8.A.V 8.L.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	mar̝ilal	0	815
+240512	kopar-singarin	725_OLD_PERSON	ˈpatʰɛntʰɛk	ˈpatʰɛntʰɛk	p a tʰ ɛ n tʰ ɛ k		abbott1985	168	1 7 1 7 4 1 7 1	AXBYMBYN	PATENTEK	9	9.P.C 9.A.V 9.T.C 9.E.V 9.N.c 9.T.C 9.E.V 9.K.c	2.0 1.5 1.75 1.3 1.1 1.75 1.3 0.8	patʰɛntʰɛk	0	814
+240618	angoram-karau	725_OLD_PERSON	ˈpatʰɛřo	ˈpatʰɛřo	p a tʰ ɛ r̝ o		abbott1985	197	1 7 1 7 5 7	AXBYBZ	PATERU	3	3.P.C 3.A.V 3.T.C 3.E.V 3.R.C 3.U.V	2.0 1.5 1.75 1.3 1.75 0.8	patʰɛr̝o	0	814
+240964	angoram-kanduanum	725_OLD_PERSON	ˈpʰombosikʰře	ˈpʰombosikʰře	pʰ o m b o s i kʰ r̝ e		abbott1985	239	1 7 4 1 7 3 7 1 5 7	AXMBYBYBCZ	PUMPUSIKRE	2	2.P.C 2.U.V 2.M.c 2.P.C 2.U.V 2.S.C 2.I.V 2.K.C 2.R.C 2.E.V	2.0 1.5 1.1 1.75 1.3 1.75 1.3 1.75 1.5 0.8	pʰombosikʰr̝e	0	813
+#
+239199	tok-pisin	730_SNAKE	snek	snek	s n e k	snake	abbott1985	66	3 4 7 1	ACXN	SNEK	10	10.S.C 10.N.C 10.E.V 10.K.c	2.0 1.5 1.5 0.8	snek	0	827
+240170	chambri-kilimbit	730_SNAKE	ˈuan	ˈuan	u a n		abbott1985	21805	7 7 4	XYN	YAN	8	8.Y.V 8.A.V 8.N.c	1.5 1.3 0.8	uan	0	825
+240489	kopar-singarin	730_SNAKE	ˈikʰʊn	ˈikʰʊn	i kʰ ʊ n		abbott1985	21808	7 1 7 4	XBYN	IKYN	9	9.I.V 9.K.C 9.Y.V 9.N.c	1.5 1.75 1.3 0.8	ikʰʊn	0	826
+240594	angoram-karau	730_SNAKE	ˈwaukʰün	ˈwaukʰün	w a u kʰ ü/u n		abbott1985	21808	6 7 7 1 7 4	AXYBYN	WAYKYN	3	3.W.C 3.A.V 3.Y.V 3.K.C 3.Y.V 3.N.c	2.0 1.5 1.3 1.75 1.3 0.8	waukʰü/un	0	820
+240691	angoram-wagamut	730_SNAKE	ˈwaukʰʊn	ˈwaukʰʊn	w a u kʰ ʊ n		abbott1985	21808	6 7 7 1 7 4	AXYBYN	WAYKYN	6	6.W.C 6.A.V 6.Y.V 6.K.C 6.Y.V 6.N.c	2.0 1.5 1.3 1.75 1.3 0.8	waukʰʊn	0	820
+240943	angoram-kanduanum	730_SNAKE	ˈpʰařum	ˈpʰařum	pʰ a r̝ u m		abbott1985	21810	1 7 5 7 4	AXBYN	PARYM	2	2.P.C 2.A.V 2.R.C 2.Y.V 2.M.c	2.0 1.5 1.75 1.3 0.8	pʰar̝um	0	819
+240867	angoram-magendo	730_SNAKE	ˈpwatʰʊnuŋ	ˈpwatʰʊnuŋ	p w a tʰ ʊ n u ŋ		abbott1985	21806	1 6 7 1 7 4 7 4	ACXBYBYN	PWATYNYN	4	4.P.C 4.W.C 4.A.V 4.T.C 4.Y.V 4.N.C 4.Y.V 4.N.c	2.0 1.5 1.5 1.75 1.3 1.75 1.3 0.8	pwatʰʊnuŋ	0	818
+240783	angoram-marbuk	730_SNAKE	ˈkʰoŋgondəkʰai	ˈkʰoŋgondəkʰai	kʰ o ŋ g o n d ə kʰ a i		abbott1985	21809	1 7 4 1 7 4 1 7 1 7 7	AXMBYMBYBYZ	KUNKUNTEKAI	5	5.K.C 5.U.V 5.N.c 5.K.C 5.U.V 5.N.c 5.T.C 5.E.V 5.K.C 5.A.V 5.I.V	2.0 1.5 1.1 1.75 1.3 1.1 1.75 1.3 1.75 1.3 0.8	kʰoŋgondəkʰai	0	822
+240276	angoram-kambrindo	730_SNAKE	ˈpwatʰənʊŋ	ˈpwatʰənʊŋ	p w a tʰ ə n ʊ ŋ		abbott1985	21806	1 6 7 1 7 4 7 4	ACXBYBYN	PWATENYN	1	1.P.C 1.W.C 1.A.V 1.T.C 1.E.V 1.N.C 1.Y.V 1.N.c	2.0 1.5 1.5 1.75 1.3 1.75 1.3 0.8	pwatʰənʊŋ	0	818
+240385	ap-ma-kambaramba	730_SNAKE	ˈkʰəndɩndama	ˈkʰəndɩndama	kʰ ə n d ɪ n d a m a		abbott1985	21807	1 7 4 1 7 4 1 7 4 7	AXMBYMBYBZ	KENTINTAMA	7	7.K.C 7.E.V 7.N.c 7.T.C 7.I.V 7.N.c 7.T.C 7.A.V 7.M.C 7.A.V	2.0 1.5 1.1 1.75 1.3 1.1 1.75 1.3 1.75 0.8	kʰəndɪndama	0	822
+#
+239171	tok-pisin	744_EGG	kiau	kiau	k i a u	egg	abbott1985	38	1 7 7 7	AXYZ	KIAY	10	10.K.C 10.I.V 10.A.V 10.Y.V	2.0 1.5 1.3 0.8	kiau	0	837
+240154	chambri-kilimbit	744_EGG	ˈawaŋkʰ	ˈawaŋkʰ	a w a ŋ kʰ		abbott1985	21899	7 6 7 4 1	XBYLN	AWANK	8	8.A.V 8.W.C 8.A.V 8.N.c 8.K.c	1.5 1.75 1.3 1.1 0.8	awaŋkʰ	0	835
+240464	kopar-singarin	744_EGG	ˈaol	ˈaol	a o l		abbott1985	21901	7 7 5	XYN	AUL	9	9.A.V 9.U.V 9.L.c	1.5 1.3 0.8	aol	0	836
+240568	angoram-karau	744_EGG	ˈngaug	ˈngaug	n g a u g		abbott1985	21902	4 1 7 7 1	ACYYN	NKAYK	3	3.N.C 3.K.C 3.A.V 3.Y.V 3.K.c	2.0 1.5 1.3 1.3 0.8	ngaug	0	830
+240673	angoram-wagamut	744_EGG	ˈngaug	ˈngaug	n g a u g		abbott1985	21902	4 1 7 7 1	ACYYN	NKAYK	6	6.N.C 6.K.C 6.A.V 6.Y.V 6.K.c	2.0 1.5 1.3 1.3 0.8	ngaug	0	830
+240922	angoram-kanduanum	744_EGG	ˈaunkʰ	ˈaunkʰ	a u n kʰ		abbott1985	21899	7 7 4 1	XYLN	AYNK	2	2.A.V 2.Y.V 2.N.c 2.K.c	1.5 1.3 1.1 0.8	aunkʰ	0	828
+240847	angoram-magendo	744_EGG	ˈuoŋ	ˈuoŋ	u o ŋ		abbott1985	21899	7 7 4	XYN	YUN	4	4.Y.V 4.U.V 4.N.c	1.5 1.3 0.8	uoŋ	0	828
+240762	angoram-marbuk	744_EGG	ˈŋaŋ	ˈŋaŋ	ŋ a ŋ		abbott1985	21899	4 7 4	AXN	NAN	5	5.N.C 5.A.V 5.N.c	2.0 1.5 0.8	ŋaŋ	0	832
+240248	angoram-kambrindo	744_EGG	ˈʊoŋ	ˈʊoŋ	ʊ o ŋ		abbott1985	21899	7 7 4	XYN	YUN	1	1.Y.V 1.U.V 1.N.c	1.5 1.3 0.8	ʊoŋ	0	828
+240360	ap-ma-kambaramba	744_EGG	ˈmbwi	ˈmbwi	m b w i		abbott1985	21900	4 1 6 7	ACCZ	MPWI	7	7.M.C 7.P.C 7.W.C 7.I.V	2.0 1.5 1.5 0.8	mbwi	0	834
+#
+239139	tok-pisin	763_SKIN	skin	skin	s k i n	skin	abbott1985	6	3 1 7 4	ACYN	SKIN	10	10.S.C 10.K.C 10.I.V 10.N.c	2.0 1.5 1.3 0.8	skin	0	847
+240125	chambri-kilimbit	763_SKIN	maŋˈgekʰ	maŋˈgekʰ	m a ŋ g e kʰ		abbott1985	21611	4 7 4 1 7 1	AXMBYN	MANKEK	8	8.M.C 8.A.V 8.N.c 8.K.C 8.E.V 8.K.c	2.0 1.5 1.1 1.75 1.3 0.8	maŋgekʰ	0	845
+240430	kopar-singarin	763_SKIN	ˈnangun	ˈnangun	n a n g u n		abbott1985	21612	4 7 4 1 7 4	AXMBYN	NANKYN	9	9.N.C 9.A.V 9.N.c 9.K.C 9.Y.V 9.N.c	2.0 1.5 1.1 1.75 1.3 0.8	nangun	0	838
+240539	angoram-karau	763_SKIN	ˈnagun	ˈnagun	n a g u n		abbott1985	21612	4 7 1 7 4	AXBYN	NAKYN	3	3.N.C 3.A.V 3.K.C 3.Y.V 3.N.c	2.0 1.5 1.75 1.3 0.8	nagun	0	840
+240646	angoram-wagamut	763_SKIN	ˈnagun	ˈnagun	n a g u n		abbott1985	21612	4 7 1 7 4	AXBYN	NAKYN	6	6.N.C 6.A.V 6.K.C 6.Y.V 6.N.c	2.0 1.5 1.75 1.3 0.8	nagun	0	840
+240896	angoram-kanduanum	763_SKIN	naŋgəˈbər̃	naŋgəˈbər̃	n a ŋ g ə b ə r̃		abbott1985	21612	4 7 4 1 7 1 7 5	AXMBYBYN	NANKEPER	2	2.N.C 2.A.V 2.N.c 2.K.C 2.E.V 2.P.C 2.E.V 2.R.c	2.0 1.5 1.1 1.75 1.3 1.75 1.3 0.8	naŋgəbər̃	0	838
+240820	angoram-magendo	763_SKIN	ˈnanguni	ˈnanguni	n a n g u n i		abbott1985	21612	4 7 4 1 7 4 7	AXMBYBZ	NANKYNI	4	4.N.C 4.A.V 4.N.c 4.K.C 4.Y.V 4.N.C 4.I.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	nanguni	0	838
+240734	angoram-marbuk	763_SKIN	ˈŋaŋi	ˈŋaŋi	ŋ a ŋ i		abbott1985	21612	4 7 4 7	AXBZ	NANI	5	5.N.C 5.A.V 5.N.C 5.I.V	2.0 1.5 1.75 0.8	ŋaŋi	0	838
+240215	angoram-kambrindo	763_SKIN	ˈnanguni	ˈnanguni	n a n g u n i		abbott1985	21612	4 7 4 1 7 4 7	AXMBYBZ	NANKYNI	1	1.N.C 1.A.V 1.N.c 1.K.C 1.Y.V 1.N.C 1.I.V	2.0 1.5 1.1 1.75 1.3 1.75 0.8	nanguni	0	838
+240331	ap-ma-kambaramba	763_SKIN	ˈʊntʰ	ˈʊntʰ	ʊ n tʰ		abbott1985	21613	7 4 1	XLN	YNT	7	7.Y.V 7.N.c 7.T.c	1.5 1.1 0.8	ʊntʰ	0	844
+#
+239154	tok-pisin	778_SMOKE_EXHAUST	smok bilong paia	smok_bilong_paia	s m o k + b i l o n g + p a i a	smoke	abbott1985	21	3 4 7 1 9 1 7 5 7 4 1 9 1 7 7 7	ACXN_AXBYLN_AXYZ	SMUK_PILUNK_PAIA	10	10.S.C 10.M.C 10.U.V 10.K.c 10._._ 10.P.C 10.I.V 10.L.C 10.U.V 10.N.c 10.K.c 10._._ 10.P.C 10.A.V 10.I.V 10.A.V	2.0 1.5 1.5 0.8 0.0 2.0 1.5 1.75 1.3 1.1 0.8 0.0 2.0 1.5 1.3 0.8	smok+bilong+paia	0	857
+240136	chambri-kilimbit	778_SMOKE_EXHAUST	elaˈpan	elaˈpan	e l a p a n		abbott1985	133	7 5 7 1 7 4	XBYBYN	ELAPAN	8	8.E.V 8.L.C 8.A.V 8.P.C 8.A.V 8.N.c	1.5 1.75 1.3 1.75 1.3 0.8	elapan	0	855
+240448	kopar-singarin	778_SMOKE_EXHAUST	atʰikʰ	atʰikʰ	a tʰ i kʰ		abbott1985	155	7 1 7 1	XBYN	ATIK	9	9.A.V 9.T.C 9.I.V 9.K.c	1.5 1.75 1.3 0.8	atʰikʰ	0	856
+240552	angoram-karau	778_SMOKE_EXHAUST	ˈsakʰɛn	ˈsakʰɛn	s a kʰ ɛ n		abbott1985	182	3 7 1 7 4	AXBYN	SAKEN	3	3.S.C 3.A.V 3.K.C 3.E.V 3.N.c	2.0 1.5 1.75 1.3 0.8	sakʰɛn	0	850
+240656	angoram-wagamut	778_SMOKE_EXHAUST	ˈsakʰərəkʰatiʰ	ˈsakʰərəkʰatiʰ	s a kʰ ə r ə kʰ a t i h		abbott1985	209	3 7 1 7 5 7 1 7 1 7 3	AXBYBYBYBYN	SAKEREKATIH	6	6.S.C 6.A.V 6.K.C 6.E.V 6.R.C 6.E.V 6.K.C 6.A.V 6.T.C 6.I.V 6.H.c	2.0 1.5 1.75 1.3 1.75 1.3 1.75 1.3 1.75 1.3 0.8	sakʰərəkʰatih	0	850
+240905	angoram-kanduanum	778_SMOKE_EXHAUST	ˈkʰɩntʰiŋ	ˈkʰɩntʰiŋ	kʰ ɪ n tʰ i ŋ		abbott1985	224	1 7 4 1 7 4	AXMBYN	KINTIN	2	2.K.C 2.I.V 2.N.c 2.T.C 2.I.V 2.N.c	2.0 1.5 1.1 1.75 1.3 0.8	kʰɪntʰiŋ	0	848
+240830	angoram-magendo	778_SMOKE_EXHAUST	ˈnkʰɩntʰən	ˈnkʰɩntʰən	n kʰ ɪ n tʰ ə n		abbott1985	247	4 1 7 4 1 7 4	ACYMBYN	NKINTEN	4	4.N.C 4.K.C 4.I.V 4.N.c 4.T.C 4.E.V 4.N.c	2.0 1.5 1.3 1.1 1.75 1.3 0.8	nkʰɪntʰən	0	851
+240745	angoram-marbuk	778_SMOKE_EXHAUST	ˈsokʰai	ˈsokʰai	s o kʰ a i		abbott1985	263	3 7 1 7 7	AXBYZ	SUKAI	5	5.S.C 5.U.V 5.K.C 5.A.V 5.I.V	2.0 1.5 1.75 1.3 0.8	sokʰai	0	850
+240232	angoram-kambrindo	778_SMOKE_EXHAUST	ˈgɩndingři	ˈgɩndingři	g ɪ n d i n g r̝ i		abbott1985	286	1 7 4 1 7 4 1 5 7	AXMBYMBCZ	KINTINKRI	1	1.K.C 1.I.V 1.N.c 1.T.C 1.I.V 1.N.c 1.K.C 1.R.C 1.I.V	2.0 1.5 1.1 1.75 1.3 1.1 1.75 1.5 0.8	gɪndingr̝i	0	848
+240343	ap-ma-kambaramba	778_SMOKE_EXHAUST	pus	pus	p u s		abbott1985	324	1 7 3	AXN	PYS	7	7.P.C 7.Y.V 7.S.c	2.0 1.5 0.8	pus	0	854
+#
+239247	tok-pisin	817_THEY	ol	ol	o l	they	abbott1985	114	7 5	XN	UL	10	10.U.V 10.L.c	1.5 0.8	ol	0	860
+240202	chambri-kilimbit	817_THEY	yiˈbi	yiˈbi	j i b i		abbott1985	144	6 7 1 7	AXBZ	JIPI	8	8.J.C 8.I.V 8.P.C 8.I.V	2.0 1.5 1.75 0.8	jibi	1	859
+240317	angoram-kambrindo	817_THEY	ˈpupwe	ˈpupwe	p u p w e		abbott1985	316	1 7 1 6 7	AXBCZ	PYPWE	1	1.P.C 1.Y.V 1.P.C 1.W.C 1.E.V	2.0 1.5 1.75 1.5 0.8	pupwe	0	858
+#
+239150	tok-pisin	857_STONE	ston	ston	s t o n	stone	abbott1985	17	3 1 7 4	ACYN	STUN	10	10.S.C 10.T.C 10.U.V 10.N.c	2.0 1.5 1.3 0.8	ston	0	869
+240132	chambri-kilimbit	857_STONE	ˈořo	ˈořo	o r̝ o		abbott1985	21652	7 5 7	XBZ	URU	8	8.U.V 8.R.C 8.U.V	1.5 1.75 0.8	or̝o	0	867
+240444	kopar-singarin	857_STONE	ˈpʰatʰ	ˈpʰatʰ	pʰ a tʰ		abbott1985	21654	1 7 1	AXN	PAT	9	9.P.C 9.A.V 9.T.c	2.0 1.5 0.8	pʰatʰ	0	868
+240548	angoram-karau	857_STONE	ˈdug	ˈdug	d u g		abbott1985	21655	1 7 1	AXN	TYK	3	3.T.C 3.Y.V 3.K.c	2.0 1.5 0.8	dug	0	863
+240652	angoram-wagamut	857_STONE	ˈdug	ˈdug	d u g		abbott1985	21655	1 7 1	AXN	TYK	6	6.T.C 6.Y.V 6.K.c	2.0 1.5 0.8	dug	0	863
+240901	angoram-kanduanum	857_STONE	ˈkʰamwakʰ	ˈkʰamwakʰ	kʰ a m w a kʰ		abbott1985	21653	1 7 4 6 7 1	AXBCYN	KAMWAK	2	2.K.C 2.A.V 2.M.C 2.W.C 2.A.V 2.K.c	2.0 1.5 1.75 1.5 1.3 0.8	kʰamwakʰ	0	861
+240826	angoram-magendo	857_STONE	ˈle	ˈle	l e		abbott1985	21656	5 7	AX	LE	4	4.L.C 4.E.V	2.0 1.5	le	0	864
+240741	angoram-marbuk	857_STONE	ˈlal	ˈlal	l a l		abbott1985	21656	5 7 5	AXN	LAL	5	5.L.C 5.A.V 5.L.c	2.0 1.5 0.8	lal	0	865
+240228	angoram-kambrindo	857_STONE	ˈkʰambwakʰ	ˈkʰambwakʰ	kʰ a m b w a kʰ		abbott1985	21653	1 7 4 1 6 7 1	AXMBCYN	KAMPWAK	1	1.K.C 1.A.V 1.M.c 1.P.C 1.W.C 1.A.V 1.K.c	2.0 1.5 1.1 1.75 1.5 1.3 0.8	kʰambwakʰ	0	861
+#
+239202	tok-pisin	868_BANANA	banana	banana	b a n a n a	banana	abbott1985	69	1 7 4 7 4 7	AXBYBZ	PANANA	10	10.P.C 10.A.V 10.N.C 10.A.V 10.N.C 10.A.V	2.0 1.5 1.75 1.3 1.75 0.8	banana	0	875
+240172	chambri-kilimbit	868_BANANA	ˈpənæŋkʰ	ˈpənæŋkʰ	p ə n æ ŋ kʰ		abbott1985	21825	1 7 4 7 4 1	AXBYLN	PENENK	8	8.P.C 8.E.V 8.N.C 8.E.V 8.N.c 8.K.c	2.0 1.5 1.75 1.3 1.1 0.8	pənæŋkʰ	0	875
+240492	kopar-singarin	868_BANANA	ˈpʰɛřiman	ˈpʰɛřiman	pʰ ɛ r̝ i m a n		abbott1985	21828	1 7 5 7 4 7 4	AXBYBYN	PERIMAN	9	9.P.C 9.E.V 9.R.C 9.I.V 9.M.C 9.A.V 9.N.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	pʰɛr̝iman	0	872
+240597	angoram-karau	868_BANANA	ˈpʰřeman	ˈpʰřeman	pʰ r̝ e m a n		abbott1985	21828	1 5 7 4 7 4	ACXBYN	PREMAN	3	3.P.C 3.R.C 3.E.V 3.M.C 3.A.V 3.N.c	2.0 1.5 1.5 1.75 1.3 0.8	pʰr̝eman	0	872
+240694	angoram-wagamut	868_BANANA	ˈpʰɩniman	ˈpʰɩniman	pʰ ɪ n i m a n		abbott1985	21828	1 7 4 7 4 7 4	AXBYBYN	PINIMAN	6	6.P.C 6.I.V 6.N.C 6.I.V 6.M.C 6.A.V 6.N.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	pʰɪniman	0	875
+240945	angoram-kanduanum	868_BANANA	ˈalambəŋ	ˈalambəŋ	a l a m b ə ŋ		abbott1985	21826	7 5 7 4 1 7 4	XBYMBYN	ALAMPEN	2	2.A.V 2.L.C 2.A.V 2.M.c 2.P.C 2.E.V 2.N.c	1.5 1.75 1.3 1.1 1.75 1.3 0.8	alambəŋ	0	870
+240870	angoram-magendo	868_BANANA	ˈalambəŋ	ˈalambəŋ	a l a m b ə ŋ		abbott1985	21826	7 5 7 4 1 7 4	XBYMBYN	ALAMPEN	4	4.A.V 4.L.C 4.A.V 4.M.c 4.P.C 4.E.V 4.N.c	1.5 1.75 1.3 1.1 1.75 1.3 0.8	alambəŋ	0	870
+240785	angoram-marbuk	868_BANANA	ˈařambəŋ	ˈařambəŋ	a r̝ a m b ə ŋ		abbott1985	21826	7 5 7 4 1 7 4	XBYMBYN	ARAMPEN	5	5.A.V 5.R.C 5.A.V 5.M.c 5.P.C 5.E.V 5.N.c	1.5 1.75 1.3 1.1 1.75 1.3 0.8	ar̝ambəŋ	0	870
+240279	angoram-kambrindo	868_BANANA	ˈařambəŋ	ˈařambəŋ	a r̝ a m b ə ŋ		abbott1985	21826	7 5 7 4 1 7 4	XBYMBYN	ARAMPEN	1	1.A.V 1.R.C 1.A.V 1.M.c 1.P.C 1.E.V 1.N.c	1.5 1.75 1.3 1.1 1.75 1.3 0.8	ar̝ambəŋ	0	870
+240387	ap-ma-kambaramba	868_BANANA	ˈnaŋge	ˈnaŋge	n a ŋ g e		abbott1985	21827	4 7 4 1 7	AXMBZ	NANKE	7	7.N.C 7.A.V 7.N.c 7.K.C 7.E.V	2.0 1.5 1.1 1.75 0.8	naŋge	0	876
+#
+239240	tok-pisin	879_COUGH	em i kus	em_i_kus	e m + i + k u s	he coughs	abbott1985	107	7 4 9 7 9 1 7 3	XN_X_AXN	EM_I_KYS	10	10.E.V 10.M.c 10._._ 10.I.V 10._._ 10.K.C 10.Y.V 10.S.c	1.5 0.8 0.0 1.5 0.0 2.0 1.5 0.8	em+i+kus	0	879
+240310	angoram-kambrindo	879_COUGH	ˈnanikowkʰa	ˈnanikowkʰa	n a n i k o w kʰ a		abbott1985	312	4 7 4 7 1 7 6 1 7	AXBYBYMBZ	NANIKUWKA	1	1.N.C 1.A.V 1.N.C 1.I.V 1.K.C 1.U.V 1.W.c 1.K.C 1.A.V	2.0 1.5 1.75 1.3 1.75 1.3 1.1 1.75 0.8	nanikowkʰa	0	877
+240413	ap-ma-kambaramba	879_COUGH	ˈutʰatʰap	ˈutʰatʰap	u tʰ a tʰ a p		abbott1985	342	7 1 7 1 7 1	XBYBYN	YTATAP	7	7.Y.V 7.T.C 7.A.V 7.T.C 7.A.V 7.P.c	1.5 1.75 1.3 1.75 1.3 0.8	utʰatʰap	0	878
+#
+239167	tok-pisin	906_TREE	diwai	diwai	d i w a i	tree	abbott1985	34	1 7 6 7 7	AXBYZ	TIWAI	10	10.T.C 10.I.V 10.W.C 10.A.V 10.I.V	2.0 1.5 1.75 1.3 0.8	diwai	0	889
+240150	chambri-kilimbit	906_TREE	ˈiuan	ˈiuan	i u a n		abbott1985	21816	7 7 7 4	XYYN	IYAN	8	8.I.V 8.Y.V 8.A.V 8.N.c	1.5 1.3 1.3 0.8	iuan	0	887
+240460	kopar-singarin	906_TREE	ˈɛřař	ˈɛřař	ɛ r̝ a r̝		abbott1985	21817	7 5 7 5	XBYN	ERAR	9	9.E.V 9.R.C 9.A.V 9.R.c	1.5 1.75 1.3 0.8	ɛr̝ar̝	0	880
+240564	angoram-karau	906_TREE	ˈiařař	ˈiařař	i a r̝ a r̝		abbott1985	21817	7 7 5 7 5	XYBYN	IARAR	3	3.I.V 3.A.V 3.R.C 3.A.V 3.R.c	1.5 1.3 1.75 1.3 0.8	iar̝ar̝	0	880
+240670	angoram-wagamut	906_TREE	ˈialal	ˈialal	i a l a l		abbott1985	21817	7 7 5 7 5	XYBYN	IALAL	6	6.I.V 6.A.V 6.L.C 6.A.V 6.L.c	1.5 1.3 1.75 1.3 0.8	ialal	0	880
+240918	angoram-kanduanum	906_TREE	ˈior̃or̃	ˈior̃or̃	i o r̃ o r̃		abbott1985	21817	7 7 5 7 5	XYBYN	IURUR	2	2.I.V 2.U.V 2.R.C 2.U.V 2.R.c	1.5 1.3 1.75 1.3 0.8	ior̃or̃	0	880
+240843	angoram-magendo	906_TREE	ˈior̃or̃	ˈior̃or̃	i o r̃ o r̃		abbott1985	21817	7 7 5 7 5	XYBYN	IURUR	4	4.I.V 4.U.V 4.R.C 4.U.V 4.R.c	1.5 1.3 1.75 1.3 0.8	ior̃or̃	0	880
+240758	angoram-marbuk	906_TREE	ˈior̃or̃	ˈior̃or̃	i o r̃ o r̃		abbott1985	21817	7 7 5 7 5	XYBYN	IURUR	5	5.I.V 5.U.V 5.R.C 5.U.V 5.R.c	1.5 1.3 1.75 1.3 0.8	ior̃or̃	0	880
+240244	angoram-kambrindo	906_TREE	ˈior̃or̃	ˈior̃or̃	i o r̃ o r̃		abbott1985	21817	7 7 5 7 5	XYBYN	IURUR	1	1.I.V 1.U.V 1.R.C 1.U.V 1.R.c	1.5 1.3 1.75 1.3 0.8	ior̃or̃	0	880
+240356	ap-ma-kambaramba	906_TREE	ˈwɩntyɛtʰ	ˈwɩntyɛtʰ	w ɪ n t j ɛ tʰ		abbott1985	21818	6 7 4 1 6 7 1	AXMBCYN	WINTJET	7	7.W.C 7.I.V 7.N.c 7.T.C 7.J.C 7.E.V 7.T.c	2.0 1.5 1.1 1.75 1.5 1.3 0.8	wɪntjɛtʰ	0	886
+#
+239191	tok-pisin	907_OLD_WOMAN	lapun meri	lapun_meri	l a p u n + m e r i	old woman	abbott1985	58	5 7 1 7 4 9 4 7 5 7	AXBYN_AXBZ	LAPYN_MERI	10	10.L.C 10.A.V 10.P.C 10.Y.V 10.N.c 10._._ 10.M.C 10.E.V 10.R.C 10.I.V	2.0 1.5 1.75 1.3 0.8 0.0 2.0 1.5 1.75 0.8	lapun+meri	0	892
+240482	kopar-singarin	907_OLD_WOMAN	ˈkʰapamantʰakʰ	ˈkʰapamantʰakʰ	kʰ a p a m a n tʰ a kʰ		abbott1985	164	1 7 1 7 4 7 4 1 7 1	AXBYBYMBYN	KAPAMANTAK	9	9.K.C 9.A.V 9.P.C 9.A.V 9.M.C 9.A.V 9.N.c 9.T.C 9.A.V 9.K.c	2.0 1.5 1.75 1.3 1.75 1.3 1.1 1.75 1.3 0.8	kʰapamantʰakʰ	0	897
+240586	angoram-karau	907_OLD_WOMAN	ˈlapʰʊmařo	ˈlapʰʊmařo	l a pʰ ʊ m a r̝ o		abbott1985	191	5 7 1 7 4 7 5 7	AXBYBYBZ	LAPYMARU	3	3.L.C 3.A.V 3.P.C 3.Y.V 3.M.C 3.A.V 3.R.C 3.U.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	lapʰʊmar̝o	0	892
+240684	angoram-wagamut	907_OLD_WOMAN	ˈlapʰʊmařo	ˈlapʰʊmařo	l a pʰ ʊ m a r̝ o		abbott1985	215	5 7 1 7 4 7 5 7	AXBYBYBZ	LAPYMARU	6	6.L.C 6.A.V 6.P.C 6.Y.V 6.M.C 6.A.V 6.R.C 6.U.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	lapʰʊmar̝o	0	892
+240936	angoram-kanduanum	907_OLD_WOMAN	ˈařəmbwo	ˈařəmbwo	a r̝ ə m b w o		abbott1985	234	7 5 7 4 1 6 7	XBYMBCZ	AREMPWU	2	2.A.V 2.R.C 2.E.V 2.M.c 2.P.C 2.W.C 2.U.V	1.5 1.75 1.3 1.1 1.75 1.5 0.8	ar̝əmbwo	0	891
+240860	angoram-magendo	907_OLD_WOMAN	ˈpʰondokʰopʰan	ˈpʰondokʰopʰan	pʰ o n d o kʰ o pʰ a n		abbott1985	256	1 7 4 1 7 1 7 1 7 4	AXMBYBYBYN	PUNTUKUPAN	4	4.P.C 4.U.V 4.N.c 4.T.C 4.U.V 4.K.C 4.U.V 4.P.C 4.A.V 4.N.c	2.0 1.5 1.1 1.75 1.3 1.75 1.3 1.75 1.3 0.8	pʰondokʰopʰan	1	893
+240776	angoram-marbuk	907_OLD_WOMAN	ˈŋaŋkʰopʰan	ˈŋaŋkʰopʰan	ŋ a ŋ kʰ o pʰ a n		abbott1985	273	4 7 4 1 7 1 7 4	AXMBYBYN	NANKUPAN	5	5.N.C 5.A.V 5.N.c 5.K.C 5.U.V 5.P.C 5.A.V 5.N.c	2.0 1.5 1.1 1.75 1.3 1.75 1.3 0.8	ŋaŋkʰopʰan	0	894
+240266	angoram-kambrindo	907_OLD_WOMAN	ˈapapʰ	ˈapapʰ	a p a pʰ		abbott1985	295	7 1 7 1	XBYN	APAP	1	1.A.V 1.P.C 1.A.V 1.P.c	1.5 1.75 1.3 0.8	apapʰ	1	890
+240267	angoram-kambrindo	907_OLD_WOMAN	ˈate	ˈate	a t e		abbott1985	296	7 1 7	XBZ	ATE	1	1.A.V 1.T.C 1.E.V	1.5 1.75 0.8	ate	0	899
+240379	ap-ma-kambaramba	907_OLD_WOMAN	ˈmɔm	ˈmɔm	m ɔ m		abbott1985	334	4 7 4	AXN	MUM	7	7.M.C 7.U.V 7.M.c	2.0 1.5 0.8	mɔm	0	896
+#
+239143	tok-pisin	937_BIRD	pisin	pisin	p i s i n	bird	abbott1985	10	1 7 3 7 4	AXBYN	PISIN	10	10.P.C 10.I.V 10.S.C 10.I.V 10.N.c	2.0 1.5 1.75 1.3 0.8	pisin	0	905
+240129	chambri-kilimbit	937_BIRD	iamˈbwi	iamˈbwi	i a m b w i		abbott1985	21641	7 7 4 1 6 7	XYMBCZ	IAMPWI	8	8.I.V 8.A.V 8.M.c 8.P.C 8.W.C 8.I.V	1.5 1.3 1.1 1.75 1.5 0.8	iambwi	0	904
+240824	angoram-magendo	937_BIRD	ˈanəmbaře	ˈanəmbaře	a n ə m b a r̝ e		abbott1985	21645	7 4 7 4 1 7 5 7	XBYMBYBZ	ANEMPARE	4	4.A.V 4.N.C 4.E.V 4.M.c 4.P.C 4.A.V 4.R.C 4.E.V	1.5 1.75 1.3 1.1 1.75 1.3 1.75 0.8	anəmbar̝e	0	900
+240738	angoram-marbuk	937_BIRD	ˈtšenəŋ	ˈtšenəŋ	ʈʂ e n ə ŋ		abbott1985	21644	2 7 4 7 4	AXBYN	CENEN	5	5.C.C 5.E.V 5.N.C 5.E.V 5.N.c	2.0 1.5 1.75 1.3 0.8	ʈʂenəŋ	0	902
+240219	angoram-kambrindo	937_BIRD	andʊmˈbwəlino	andʊmˈbwəlino	a n d ʊ m b w ə l i n o		abbott1985	21642	7 4 1 7 4 1 6 7 5 7 4 7	XMBYMBCYBYBZ	ANTYMPWELINU	1	1.A.V 1.N.c 1.T.C 1.Y.V 1.M.c 1.P.C 1.W.C 1.E.V 1.L.C 1.I.V 1.N.C 1.U.V	1.5 1.1 1.75 1.3 1.1 1.75 1.5 1.3 1.75 1.3 1.75 0.8	andʊmbwəlino	0	900
+240335	ap-ma-kambaramba	937_BIRD	ˈauən	ˈauən	a u ə n		abbott1985	21643	7 7 7 4	XYYN	AYEN	7	7.A.V 7.Y.V 7.E.V 7.N.c	1.5 1.3 1.3 0.8	auən	0	900
+#
+239184	tok-pisin	946_BLOOD	blut	blut	b l u t	blood	abbott1985	51	1 5 7 1	ACXN	PLYT	10	10.P.C 10.L.C 10.Y.V 10.T.c	2.0 1.5 1.5 0.8	blut	0	907
+240162	chambri-kilimbit	946_BLOOD	ˈiar̃i	ˈiar̃i	i a r̃ i		abbott1985	21725	7 7 5 7	XYBZ	IARI	8	8.I.V 8.A.V 8.R.C 8.I.V	1.5 1.3 1.75 0.8	iar̃i	0	906
+#
+239211	tok-pisin	960_WIND	win	win	w i n	wind	abbott1985	78	6 7 4	AXN	WIN	10	10.W.C 10.I.V 10.N.c	2.0 1.5 0.8	win	0	910
+240181	chambri-kilimbit	960_WIND	ˈpari	ˈpari	p a r i		abbott1985	137	1 7 5 7	AXBZ	PARI	8	8.P.C 8.A.V 8.R.C 8.I.V	2.0 1.5 1.75 0.8	pari	0	909
+240794	angoram-marbuk	960_WIND	ˈpʰʊpʰuan	ˈpʰʊpʰuan	pʰ ʊ pʰ u a n		abbott1985	276	1 7 1 7 7 4	AXBYYN	PYPYAN	5	5.P.C 5.Y.V 5.P.C 5.Y.V 5.A.V 5.N.c	2.0 1.5 1.75 1.3 1.3 0.8	pʰʊpʰuan	0	908
+#
+239142	tok-pisin	962_WOMAN	meri	meri	m e r i	woman	abbott1985	9	4 7 5 7	AXBZ	MERI	10	10.M.C 10.E.V 10.R.C 10.I.V	2.0 1.5 1.75 0.8	meri	0	920
+240128	chambri-kilimbit	962_WOMAN	nʊˈmænən	nʊˈmænən	n ʊ m æ n ə n		abbott1985	21777	4 7 4 7 4 7 4	AXBYBYN	NYMENEN	8	8.N.C 8.Y.V 8.M.C 8.E.V 8.N.C 8.E.V 8.N.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	nʊmænən	0	913
+240433	kopar-singarin	962_WOMAN	ˈnamantakʰ	ˈnamantakʰ	n a m a n t a kʰ		abbott1985	21777	4 7 4 7 4 1 7 1	AXBYMBYN	NAMANTAK	9	9.N.C 9.A.V 9.M.C 9.A.V 9.N.c 9.T.C 9.A.V 9.K.c	2.0 1.5 1.75 1.3 1.1 1.75 1.3 0.8	namantakʰ	0	913
+240542	angoram-karau	962_WOMAN	ˈnumařo	ˈnumařo	n u m a r̝ o		abbott1985	21780	4 7 4 7 5 7	AXBYBZ	NYMARU	3	3.N.C 3.Y.V 3.M.C 3.A.V 3.R.C 3.U.V	2.0 1.5 1.75 1.3 1.75 0.8	numar̝o	0	913
+240649	angoram-wagamut	962_WOMAN	ˈnumařo	ˈnumařo	n u m a r̝ o		abbott1985	21780	4 7 4 7 5 7	AXBYBZ	NYMARU	6	6.N.C 6.Y.V 6.M.C 6.A.V 6.R.C 6.U.V	2.0 1.5 1.75 1.3 1.75 0.8	numar̝o	0	913
+240899	angoram-kanduanum	962_WOMAN	ˈaŋuno	ˈaŋuno	a ŋ u n o		abbott1985	21781	7 4 7 4 7	XBYBZ	ANYNU	2	2.A.V 2.N.C 2.Y.V 2.N.C 2.U.V	1.5 1.75 1.3 1.75 0.8	aŋuno	0	911
+240823	angoram-magendo	962_WOMAN	ˈanmandəkʰan	ˈanmandəkʰan	a n m a n d ə kʰ a n		abbott1985	21778	7 4 4 7 4 1 7 1 7 4	XMBYMBYBYN	ANMANTEKAN	4	4.A.V 4.N.c 4.M.C 4.A.V 4.N.c 4.T.C 4.E.V 4.K.C 4.A.V 4.N.c	1.5 1.1 1.75 1.3 1.1 1.75 1.3 1.75 1.3 0.8	anmandəkʰan	0	911
+240737	angoram-marbuk	962_WOMAN	ˈŋan	ˈŋan	ŋ a n		abbott1985	21779	4 7 4	AXN	NAN	5	5.N.C 5.A.V 5.N.c	2.0 1.5 0.8	ŋan	0	915
+240218	angoram-kambrindo	962_WOMAN	ˈanmandəkʰən	ˈanmandəkʰən	a n m a n d ə kʰ ə n		abbott1985	21778	7 4 4 7 4 1 7 1 7 4	XMBYMBYBYN	ANMANTEKEN	1	1.A.V 1.N.c 1.M.C 1.A.V 1.N.c 1.T.C 1.E.V 1.K.C 1.E.V 1.N.c	1.5 1.1 1.75 1.3 1.1 1.75 1.3 1.75 1.3 0.8	anmandəkʰən	0	911
+240334	ap-ma-kambaramba	962_WOMAN	ˈnaiŋ	ˈnaiŋ	n a i ŋ		abbott1985	21779	4 7 7 4	AXYN	NAIN	7	7.N.C 7.A.V 7.I.V 7.N.c	2.0 1.5 1.3 0.8	naiŋ	0	915
+#
+239248	tok-pisin	970_COCONUT	kokonas	kokonas	k o k o n a s	coconut	abbott1985	115	1 7 1 7 4 7 3	AXBYBYN	KUKUNAS	10	10.K.C 10.U.V 10.K.C 10.U.V 10.N.C 10.A.V 10.S.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	kokonas	0	930
+240203	chambri-kilimbit	970_COCONUT	yiˈbam	yiˈbam	j i b a m		abbott1985	21733	6 7 1 7 4	AXBYN	JIPAM	8	8.J.C 8.I.V 8.P.C 8.A.V 8.M.c	2.0 1.5 1.75 1.3 0.8	jibam	0	928
+240525	kopar-singarin	970_COCONUT	ˈr̃uaŋ	ˈr̃uaŋ	r̃ u a ŋ		abbott1985	21736	5 7 7 4	AXYN	RYAN	9	9.R.C 9.Y.V 9.A.V 9.N.c	2.0 1.5 1.3 0.8	r̃uaŋ	0	929
+240631	angoram-karau	970_COCONUT	ˈdapʰag	ˈdapʰag	d a pʰ a g		abbott1985	21737	1 7 1 7 1	AXBYN	TAPAK	3	3.T.C 3.A.V 3.P.C 3.A.V 3.K.c	2.0 1.5 1.75 1.3 0.8	dapʰag	0	923
+240719	angoram-wagamut	970_COCONUT	ˈtʰəpakʰ	ˈtʰəpakʰ	tʰ ə p a kʰ		abbott1985	21737	1 7 1 7 1	AXBYN	TEPAK	6	6.T.C 6.E.V 6.P.C 6.A.V 6.K.c	2.0 1.5 1.75 1.3 0.8	tʰəpakʰ	0	923
+240966	angoram-kanduanum	970_COCONUT	ˈuaŋ	ˈuaŋ	u a ŋ		abbott1985	21736	7 7 4	XYN	YAN	2	2.Y.V 2.A.V 2.N.c	1.5 1.3 0.8	uaŋ	0	922
+240881	angoram-magendo	970_COCONUT	ˈuaŋ	ˈuaŋ	u a ŋ		abbott1985	21736	7 7 4	XYN	YAN	4	4.Y.V 4.A.V 4.N.c	1.5 1.3 0.8	uaŋ	0	922
+240804	angoram-marbuk	970_COCONUT	ˈuaŋ	ˈuaŋ	u a ŋ		abbott1985	21736	7 7 4	XYN	YAN	5	5.Y.V 5.A.V 5.N.c	1.5 1.3 0.8	uaŋ	0	922
+240318	angoram-kambrindo	970_COCONUT	ˈwankɛřʊm	ˈwankɛřʊm	w a n k ɛ r̝ ʊ m		abbott1985	21734	6 7 4 1 7 5 7 4	AXMBYBYN	WANKERYM	1	1.W.C 1.A.V 1.N.c 1.K.C 1.E.V 1.R.C 1.Y.V 1.M.c	2.0 1.5 1.1 1.75 1.3 1.75 1.3 0.8	wankɛr̝ʊm	0	921
+240417	ap-ma-kambaramba	970_COCONUT	ˈtsombřa	ˈtsombřa	ts o m b r̝ a		abbott1985	21735	2 7 4 1 5 7	AXMBCZ	CUMPRA	7	7.C.C 7.U.V 7.M.c 7.P.C 7.R.C 7.A.V	2.0 1.5 1.1 1.75 1.5 0.8	tsombr̝a	0	927
+#
+239206	tok-pisin	977_ARROW	spia	spia	s p i a	arrow	abbott1985	73	3 1 7 7	ACYZ	SPIA	10	10.S.C 10.P.C 10.I.V 10.A.V	2.0 1.5 1.3 0.8	spia	0	940
+240175	chambri-kilimbit	977_ARROW	ˈwantʰampʰ	ˈwantʰampʰ	w a n tʰ a m pʰ		abbott1985	136	6 7 4 1 7 4 1	AXMBYLN	WANTAMP	8	8.W.C 8.A.V 8.N.c 8.T.C 8.A.V 8.M.c 8.P.c	2.0 1.5 1.1 1.75 1.3 1.1 0.8	wantʰampʰ	0	938
+240496	kopar-singarin	977_ARROW	ˈmbɛmpʰ	ˈmbɛmpʰ	m b ɛ m pʰ		abbott1985	166	4 1 7 4 1	ACYLN	MPEMP	9	9.M.C 9.P.C 9.E.V 9.M.c 9.P.c	2.0 1.5 1.3 1.1 0.8	mbɛmpʰ	0	939
+240601	angoram-karau	977_ARROW	ˈaiəmpʰɛpʰ	ˈaiəmpʰɛpʰ	a i ə m pʰ ɛ pʰ		abbott1985	194	7 7 7 4 1 7 1	XYYMBYN	AIEMPEP	3	3.A.V 3.I.V 3.E.V 3.M.c 3.P.C 3.E.V 3.P.c	1.5 1.3 1.3 1.1 1.75 1.3 0.8	aiəmpʰɛpʰ	0	933
+240698	angoram-wagamut	977_ARROW	ˈnigekʰ	ˈnigekʰ	n i g e kʰ		abbott1985	217	4 7 1 7 1	AXBYN	NIKEK	6	6.N.C 6.I.V 6.K.C 6.E.V 6.K.c	2.0 1.5 1.75 1.3 0.8	nigekʰ	0	932
+240948	angoram-kanduanum	977_ARROW	ˈŋgaři	ˈŋgaři	ŋ g a r̝ i		abbott1985	236	4 1 7 5 7	ACYBZ	NKARI	2	2.N.C 2.K.C 2.A.V 2.R.C 2.I.V	2.0 1.5 1.3 1.75 0.8	ŋgar̝i	0	932
+240873	angoram-magendo	977_ARROW	ˈŋgaři	ˈŋgaři	ŋ g a r̝ i		abbott1985	258	4 1 7 5 7	ACYBZ	NKARI	4	4.N.C 4.K.C 4.A.V 4.R.C 4.I.V	2.0 1.5 1.3 1.75 0.8	ŋgar̝i	0	932
+240789	angoram-marbuk	977_ARROW	ˈinon	ˈinon	i n o n		abbott1985	275	7 4 7 4	XBYN	INUN	5	5.I.V 5.N.C 5.U.V 5.N.c	1.5 1.75 1.3 0.8	inon	0	931
+240282	angoram-kambrindo	977_ARROW	ˈandžimangən	ˈandžimangən	a n dʒ i m a n g ə n		abbott1985	300	7 4 1 7 4 7 4 1 7 4	XMBYBYMBYN	ANTIMANKEN	1	1.A.V 1.N.c 1.T.C 1.I.V 1.M.C 1.A.V 1.N.c 1.K.C 1.E.V 1.N.c	1.5 1.1 1.75 1.3 1.75 1.3 1.1 1.75 1.3 0.8	andʒimangən	0	931
+240390	ap-ma-kambaramba	977_ARROW	ˈpʊři	ˈpʊři	p ʊ r̝ i		abbott1985	336	1 7 5 7	AXBZ	PYRI	7	7.P.C 7.Y.V 7.R.C 7.I.V	2.0 1.5 1.75 0.8	pʊr̝i	0	937
+240391	ap-ma-kambaramba	977_ARROW	ˈpʊli	ˈpʊli	p ʊ l i		abbott1985	337	1 7 5 7	AXBZ	PYLI	7	7.P.C 7.Y.V 7.L.C 7.I.V	2.0 1.5 1.75 0.8	pʊli	0	937
+#
+239250	tok-pisin	982_LIME_FRUIT	kəmbang	kəmbang	k ə m b a n g	lime	abbott1985	117	1 7 4 1 7 4 1	AXMBYLN	KEMPANK	10	10.K.C 10.E.V 10.M.c 10.P.C 10.A.V 10.N.c 10.K.c	2.0 1.5 1.1 1.75 1.3 1.1 0.8	kəmbang	0	949
+240527	kopar-singarin	982_LIME_FRUIT	ˈair̃	ˈair̃	a i r̃		abbott1985	21760	7 7 5	XYN	AIR	9	9.A.V 9.I.V 9.R.c	1.5 1.3 0.8	air̃	0	941
+240633	angoram-karau	982_LIME_FRUIT	ˈair̃	ˈair̃	a i r̃		abbott1985	21760	7 7 5	XYN	AIR	3	3.A.V 3.I.V 3.R.c	1.5 1.3 0.8	air̃	0	941
+240721	angoram-wagamut	982_LIME_FRUIT	ˈair̃	ˈair̃	a i r̃		abbott1985	21760	7 7 5	XYN	AIR	6	6.A.V 6.I.V 6.R.c	1.5 1.3 0.8	air̃	0	941
+240968	angoram-kanduanum	982_LIME_FRUIT	ˈauir̃	ˈauir̃	a u i r̃		abbott1985	21760	7 7 7 5	XYYN	AYIR	2	2.A.V 2.Y.V 2.I.V 2.R.c	1.5 1.3 1.3 0.8	auir̃	0	941
+240883	angoram-magendo	982_LIME_FRUIT	ˈauir̃	ˈauir̃	a u i r̃		abbott1985	21760	7 7 7 5	XYYN	AYIR	4	4.A.V 4.Y.V 4.I.V 4.R.c	1.5 1.3 1.3 0.8	auir̃	0	941
+240806	angoram-marbuk	982_LIME_FRUIT	ˈauir̃	ˈauir̃	a u i r̃		abbott1985	21760	7 7 7 5	XYYN	AYIR	5	5.A.V 5.Y.V 5.I.V 5.R.c	1.5 1.3 1.3 0.8	auir̃	0	941
+240320	angoram-kambrindo	982_LIME_FRUIT	ˈauɩr̃	ˈauɩr̃	a u ɪ r̃		abbott1985	21760	7 7 7 5	XYYN	AYIR	1	1.A.V 1.Y.V 1.I.V 1.R.c	1.5 1.3 1.3 0.8	auɪr̃	0	941
+240419	ap-ma-kambaramba	982_LIME_FRUIT	ˈai	ˈai	a i		abbott1985	21760	7 7	XZ	AI	7	7.A.V 7.I.V	1.5 0.8	ai	0	947
+#
+239226	tok-pisin	98_ALL	olgeta	olgeta	o l g e t a	all	abbott1985	93	7 5 1 7 1 7	XMBYBZ	ULKETA	10	10.U.V 10.L.c 10.K.C 10.E.V 10.T.C 10.A.V	1.5 1.1 1.75 1.3 1.75 0.8	olgeta	0	952
+240193	chambri-kilimbit	98_ALL	mamaˈlɨŋ	mamaˈlɨŋ	m a m a l ɨ ŋ		abbott1985	21764	4 7 4 7 5 7 4	AXBYBYN	MAMALIN	8	8.M.C 8.A.V 8.M.C 8.A.V 8.L.C 8.I.V 8.N.c	2.0 1.5 1.75 1.3 1.75 1.3 0.8	mamalɨŋ	0	953
+240620	angoram-karau	98_ALL	ˈabetʰabetʰa	ˈabetʰabetʰa	a b e tʰ a b e tʰ a		abbott1985	21767	7 1 7 1 7 1 7 1 7	XBYBYBYBZ	APETAPETA	3	3.A.V 3.P.C 3.E.V 3.T.C 3.A.V 3.P.C 3.E.V 3.T.C 3.A.V	1.5 1.75 1.3 1.75 1.3 1.75 1.3 1.75 0.8	abetʰabetʰa	0	951
+240298	angoram-kambrindo	98_ALL	ˈmdakʰabo	ˈmdakʰabo	m d a kʰ a b o		abbott1985	21765	4 1 7 1 7 1 7	ACYBYBZ	MTAKAPU	1	1.M.C 1.T.C 1.A.V 1.K.C 1.A.V 1.P.C 1.U.V	2.0 1.5 1.3 1.75 1.3 1.75 0.8	mdakʰabo	0	950
+240408	ap-ma-kambaramba	98_ALL	ˈařʊp	ˈařʊp	a r̝ ʊ p		abbott1985	21766	7 5 7 1	XBYN	ARYP	7	7.A.V 7.R.C 7.Y.V 7.P.c	1.5 1.75 1.3 0.8	ar̝ʊp	0	952
+# Created using the LexStat class of LingPy-2.6.9
+# Cluster: turchin_upgma_0.30

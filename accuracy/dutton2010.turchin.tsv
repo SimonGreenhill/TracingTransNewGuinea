@@ -1,0 +1,1441 @@
+# Wordlist
+
+# DATA
+ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	SOURCE	COGID	SONARS	PROSTRINGS	CLASSES	LANGID	NUMBERS	WEIGHTS	IPA	DUPLICATES	AUTOCOGID
+#
+15486	koitabu	1013_FRESHWATER_EEL	mina	mina	m i n a	eel	dutton2010	1557	4 7 4 7	AXBZ	MINA	4	4.M.C 4.I.V 4.N.C 4.A.V	2.0 1.5 1.75 0.8	mina	0	1
+15487	grass-koiari	1013_FRESHWATER_EEL	mina	mina	m i n a	eel	dutton2010	1557	4 7 4 7	AXBZ	MINA	2	2.M.C 2.I.V 2.N.C 2.A.V	2.0 1.5 1.75 0.8	mina	0	1
+15488	mountain-koiari	1013_FRESHWATER_EEL	minama	minama	m i n a m a	eel	dutton2010	1557	4 7 4 7 4 7	AXBYBZ	MINAMA	5	5.M.C 5.I.V 5.N.C 5.A.V 5.M.C 5.A.V	2.0 1.5 1.75 1.3 1.75 0.8	minama	0	1
+#
+15187	grass-koiari	1014_OR	o (ibe)	o_	o	or (not)	dutton2010	1498	7	X	U	2	2.U.V	1.5	o	0	2
+15192	ese	1014_OR	ho	ho	h o	or	dutton2010	1498	3 7	AX	HU	1	1.H.C 1.U.V	2.0 1.5	ho	1	2
+15193	ese	1014_OR	aho	aho	a h o	or	dutton2010	1498	7 3 7	XBZ	AHU	1	1.A.V 1.H.C 1.U.V	1.5 1.75 0.8	aho	0	7
+15190	north-barai	1014_OR	o	o	o	or	dutton2010	1498	7	X	U	6	6.U.V	1.5	o	0	2
+15191	south-barai	1014_OR	o	o	o	or	dutton2010	1498	7	X	U	8	8.U.V	1.5	o	1	2
+15188	omie	1014_OR	o	o	o	or	dutton2010	1498	7	X	U	7	7.U.V	1.5	o	1	2
+15189	omie	1014_OR	ô	ô	ô/o	and, but, or	dutton2010	1498	7	X	U	7	7.U.V	1.5	ô/o	0	2
+#
+15076	koitabu	1035_GOOD	maɣe	maɣe	m a ɣ e	good	dutton2010	1480	4 7 3 7	AXBZ	MAGE	4	4.M.C 4.A.V 4.G.C 4.E.V	2.0 1.5 1.75 0.8	maɣe	0	10
+15086	grass-koiari	1035_GOOD	mai|teka	teka	t e k a	good	dutton2010	1482	1 7 1 7	AXBZ	TEKA	2	2.T.C 2.E.V 2.K.C 2.A.V	2.0 1.5 1.75 0.8	teka	0	9
+15089	ese	1035_GOOD	maa	maa	m aː	good	dutton2010	1482	4 7	AX	MA	1	1.M.C 1.A.V	2.0 1.5	maː	0	8
+15078	north-barai	1035_GOOD	ma	ma	m a	good, true	dutton2010	1480	4 7	AX	MA	6	6.M.C 6.A.V	2.0 1.5	ma	0	8
+15087	north-barai	1035_GOOD	maj|e	e	e	real	dutton2010	1482	7	X	E	6	6.E.V	1.5	e	1	14
+15088	south-barai	1035_GOOD	maʔi|na	na	n a	good	dutton2010	1482	4 7	AX	NA	8	8.N.C 8.A.V	2.0 1.5	na	0	13
+15077	omie	1035_GOOD	mae	mae	m a e	good, true	dutton2010	1480	4 7 7	AXZ	MAE	7	7.M.C 7.A.V 7.E.V	2.0 1.5 0.8	mae	0	8
+#
+15040	koitabu	1075_TRAP_PITFALL	ivi	ivi	i v i	noose, trap	dutton2010	1474	7 3 7	XBZ	IBI	4	4.I.V 4.B.C 4.I.V	1.5 1.75 0.8	ivi	0	15
+15041	grass-koiari	1075_TRAP_PITFALL	ivi	ivi	i v i	noose, trap	dutton2010	1474	7 3 7	XBZ	IBI	2	2.I.V 2.B.C 2.I.V	1.5 1.75 0.8	ivi	0	15
+15043	north-barai	1075_TRAP_PITFALL	iv-a	iv-a	i v + a	pull string on trap	dutton2010	1474	7 3 9 7	XN_X	IB_A	6	6.I.V 6.B.c 6._._ 6.A.V	1.5 0.8 0.0 1.5	iv+a	0	15
+15042	omie	1075_TRAP_PITFALL	iv-e	iv-e	i v + e	trap, net	dutton2010	1474	7 3 9 7	XN_X	IB_E	7	7.I.V 7.B.c 7._._ 7.E.V	1.5 0.8 0.0 1.5	iv+e	0	15
+#
+14419	ese	1084_CALL	ʔume|j-o	j-o	j + o	call out	dutton2010	1353	6 9 7	A_X	J_U	1	1.J.C 1._._ 1.U.V	2.0 0.0 1.5	j+o	1	16
+14417	north-barai	1084_CALL	kume	kume	k u m e	call out	dutton2010	1353	1 7 4 7	AXBZ	KYME	6	6.K.C 6.Y.V 6.M.C 6.E.V	2.0 1.5 1.75 0.8	kume	0	17
+14418	south-barai	1084_CALL	ume	ume	u m e	call out	dutton2010	1353	7 4 7	XBZ	YME	8	8.Y.V 8.M.C 8.E.V	1.5 1.75 0.8	ume	0	19
+14416	omie	1084_CALL	ʔuv-	ʔuv-	ʔ u v	call out	dutton2010	1353	1 7 3	AXN	HYB	7	7.H.C 7.Y.V 7.B.c	2.0 1.5 0.8	ʔuv	1	18
+#
+15430	koitabu	1100_COOK_SOMETHING	amuha-	amuha-	a m u h a	cook in ground, mumu	dutton2010	1543	7 4 7 3 7	XBYBZ	AMYHA	4	4.A.V 4.M.C 4.Y.V 4.H.C 4.A.V	1.5 1.75 1.3 1.75 0.8	amuha	0	21
+15431	grass-koiari	1100_COOK_SOMETHING	amuha-	amuha-	a m u h a	cook in ground, mumu	dutton2010	1543	7 4 7 3 7	XBYBZ	AMYHA	2	2.A.V 2.M.C 2.Y.V 2.H.C 2.A.V	1.5 1.75 1.3 1.75 0.8	amuha	0	21
+15432	mountain-koiari	1100_COOK_SOMETHING	amuva-	amuva-	a m u v a	make a mumu	dutton2010	1543	7 4 7 3 7	XBYBZ	AMYBA	5	5.A.V 5.M.C 5.Y.V 5.B.C 5.A.V	1.5 1.75 1.3 1.75 0.8	amuva	0	21
+14439	ese	1100_COOK_SOMETHING	muru-o	muru-o	m u r u + o	cook on hot stones	dutton2010	1359	4 7 5 7 9 7	AXBZ_X	MYRY_U	1	1.M.C 1.Y.V 1.R.C 1.Y.V 1._._ 1.U.V	2.0 1.5 1.75 0.8 0.0 1.5	muru+o	0	20
+14440	ese	1100_COOK_SOMETHING	muru-vo	muru-vo	m u r u + v o	cook on hot stones	dutton2010	1359	4 7 5 7 9 3 7	AXBZ_AX	MYRY_BU	1	1.M.C 1.Y.V 1.R.C 1.Y.V 1._._ 1.B.C 1.U.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5	muru+vo	0	20
+14438	omie	1100_COOK_SOMETHING	muru|oh-e	oh-e	o h + e	cook on hot stones	dutton2010	1359	7 3 9 7	XN_X	UH_E	7	7.U.V 7.H.c 7._._ 7.E.V	1.5 0.8 0.0 1.5	oh+e	1	24
+#
+15426	koitabu	1102_CLIMB	ɣadi-va-	ɣadi-va-	ɣ a d i + v a	ascend, go up	dutton2010	1542	3 7 1 7 9 3 7	AXBZ_AX	GATI_BA	4	4.G.C 4.A.V 4.T.C 4.I.V 4._._ 4.B.C 4.A.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5	ɣadi+va	0	27
+15427	grass-koiari	1102_CLIMB	vadi-ma	vadi-ma	v a d i + m a	ascend, go up	dutton2010	1542	3 7 1 7 9 4 7	AXBZ_AX	BATI_MA	2	2.B.C 2.A.V 2.T.C 2.I.V 2._._ 2.M.C 2.A.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5	vadi+ma	0	26
+15428	mountain-koiari	1102_CLIMB	vati-	vati-	v a t i	ascend, go up	dutton2010	1542	3 7 1 7	AXBZ	BATI	5	5.B.C 5.A.V 5.T.C 5.I.V	2.0 1.5 1.75 0.8	vati	0	26
+14397	ese	1102_CLIMB	aji|m-a	m-a	m + a	go up, ascend	dutton2010	1349	4 9 7	A_X	M_A	1	1.M.C 1._._ 1.A.V	2.0 0.0 1.5	m+a	0	25
+14395	north-barai	1102_CLIMB	aji-a	aji-a	a j i + a	go up	dutton2010	1349	7 6 7 9 7	XBZ_X	AJI_A	6	6.A.V 6.J.C 6.I.V 6._._ 6.A.V	1.5 1.75 0.8 0.0 1.5	aji+a	0	29
+14396	south-barai	1102_CLIMB	aje-	aje-	a j e	go up, ascend	dutton2010	1349	7 6 7	XBZ	AJE	8	8.A.V 8.J.C 8.E.V	1.5 1.75 0.8	aje	0	29
+14394	omie	1102_CLIMB	aji|om-e	om-e	o m + e	go up	dutton2010	1349	7 4 9 7	XN_X	UM_E	7	7.U.V 7.M.c 7._._ 7.E.V	1.5 0.8 0.0 1.5	om+e	0	30
+#
+15181	mountain-koiari	1130_WE_EXCLUSIVE	no	no	n o	we (exclusive)	dutton2010	1497	4 7	AX	NU	5	5.N.C 5.U.V	2.0 1.5	no	0	31
+#
+15475	koitabu	1156_OPEN	araha-	araha-	a r a h a	open (stg)	dutton2010	1554	7 5 7 3 7	XBYBZ	ARAHA	4	4.A.V 4.R.C 4.A.V 4.H.C 4.A.V	1.5 1.75 1.3 1.75 0.8	araha	0	32
+15476	grass-koiari	1156_OPEN	araha-	araha-	a r a h a	open (stg)	dutton2010	1554	7 5 7 3 7	XBYBZ	ARAHA	2	2.A.V 2.R.C 2.A.V 2.H.C 2.A.V	1.5 1.75 1.3 1.75 0.8	araha	0	32
+15477	mountain-koiari	1156_OPEN	alavo	alavo	a l a v o	open (door, window)	dutton2010	1554	7 5 7 3 7	XBYBZ	ALABU	5	5.A.V 5.L.C 5.A.V 5.B.C 5.U.V	1.5 1.75 1.3 1.75 0.8	alavo	0	32
+#
+15536	grass-koiari	1157_BECAUSE	V-are-ru	V-are-ru	V/ə + a r e + r u	because V	dutton2010	1569	7 9 7 5 7 9 5 7	X_XBZ_AX	E_ARE_RY	2	2.E.V 2._._ 2.A.V 2.R.C 2.E.V 2._._ 2.R.C 2.Y.V	1.5 0.0 1.5 1.75 0.8 0.0 2.0 1.5	V/ə+are+ru	0	33
+15537	mountain-koiari	1157_BECAUSE	V-ale-rua	V-ale-rua	V/ə + a l e + r u a	because V	dutton2010	1569	7 9 7 5 7 9 5 7 7	X_XBZ_AXZ	E_ALE_RYA	5	5.E.V 5._._ 5.A.V 5.L.C 5.E.V 5._._ 5.R.C 5.Y.V 5.A.V	1.5 0.0 1.5 1.75 0.8 0.0 2.0 1.5 0.8	V/ə+ale+rua	0	33
+#
+14460	ese	1174_YESTERDAY	niari	niari	n i a r i	yesterday, tomorrow	dutton2010	1364	4 7 7 5 7	AXYBZ	NIARI	1	1.N.C 1.I.V 1.A.V 1.R.C 1.I.V	2.0 1.5 1.3 1.75 0.8	niari	0	34
+14459	south-barai	1174_YESTERDAY	neru	neru	n e r u	yesterday, tomorrow	dutton2010	1364	4 7 5 7	AXBZ	NERY	8	8.N.C 8.E.V 8.R.C 8.Y.V	2.0 1.5 1.75 0.8	neru	0	34
+14458	omie	1174_YESTERDAY	nëri	nëri	n ë/e r i	yesterday, tomorrow	dutton2010	1364	4 7 5 7	AXBZ	NERI	7	7.N.C 7.E.V 7.R.C 7.I.V	2.0 1.5 1.75 0.8	në/eri	0	34
+#
+97524	ese	1179_DAY_AFTER_TOMORROW	nitu|i	i	i	day before yesterday, day after tomorrow	dutton2010	13	7	X	I	1	1.I.V	1.5	i	1	35
+14467	north-barai	1179_DAY_AFTER_TOMORROW	nitu|a	a	a	day before yesterday, day after tomorrow	dutton2010	1366	7	X	A	6	6.A.V	1.5	a	1	35
+14468	south-barai	1179_DAY_AFTER_TOMORROW	nito|he	he	h e	day before yesterday, day after tomorrow	dutton2010	1366	3 7	AX	HE	8	8.H.C 8.E.V	2.0 1.5	he	1	35
+97523	south-barai	1179_DAY_AFTER_TOMORROW	nitu|ve	ve	v e	day before yesterday, day after tomorrow	dutton2010	22	3 7	AX	BE	8	8.B.C 8.E.V	2.0 1.5	ve	1	38
+#
+14470	ese	1180_DAY_BEFORE_YESTERDAY	nitu|i	i	i	day before yesterday, day after tomorrow	dutton2010	1366	7	X	I	1	1.I.V	1.5	i	1	39
+260771	north-barai	1180_DAY_BEFORE_YESTERDAY	nitu|a	a	a	day before yesterday, day after tomorrow	dutton2010	17	7	X	A	6	6.A.V	1.5	a	1	39
+14469	south-barai	1180_DAY_BEFORE_YESTERDAY	nitu|ve	ve	v e	day before yesterday, day after tomorrow	dutton2010	1366	3 7	AX	BE	8	8.B.C 8.E.V	2.0 1.5	ve	1	41
+260769	south-barai	1180_DAY_BEFORE_YESTERDAY	nito|he	he	h e	day before yesterday, day after tomorrow	dutton2010	24	3 7	AX	HE	8	8.H.C 8.E.V	2.0 1.5	he	1	39
+#
+15068	koitabu	1199_WIFE	mabara	mabara	m a b a r a	wife	dutton2010	1479	4 7 1 7 5 7	AXBYBZ	MAPARA	4	4.M.C 4.A.V 4.P.C 4.A.V 4.R.C 4.A.V	2.0 1.5 1.75 1.3 1.75 0.8	mabara	0	43
+15069	grass-koiari	1199_WIFE	mabara	mabara	m a b a r a	wife	dutton2010	1479	4 7 1 7 5 7	AXBYBZ	MAPARA	2	2.M.C 2.A.V 2.P.C 2.A.V 2.R.C 2.A.V	2.0 1.5 1.75 1.3 1.75 0.8	mabara	0	43
+15073	ese	1199_WIFE	na|par-a	par-a	p a r + a	wife	dutton2010	1479	1 7 5 9 7	AXN_X	PAR_A	1	1.P.C 1.A.V 1.R.c 1._._ 1.A.V	2.0 1.5 0.8 0.0 1.5	par+a	0	42
+15074	ese	1199_WIFE	para|nah-a	nah-a	n a h + a	married woman	dutton2010	1479	4 7 3 9 7	AXN_X	NAH_A	1	1.N.C 1.A.V 1.H.c 1._._ 1.A.V	2.0 1.5 0.8 0.0 1.5	nah+a	0	48
+15071	north-barai	1199_WIFE	bara (abe)	bara_	b a r a	marry, (take) wife' (form suspicious; expected bar-e)	dutton2010	1479	1 7 5 7	AXBZ	PARA	6	6.P.C 6.A.V 6.R.C 6.A.V	2.0 1.5 1.75 0.8	bara	0	42
+15072	south-barai	1199_WIFE	bara	bara	b a r a	wife	dutton2010	1479	1 7 5 7	AXBZ	PARA	8	8.P.C 8.A.V 8.R.C 8.A.V	2.0 1.5 1.75 0.8	bara	0	42
+15070	omie	1199_WIFE	vabor-e	vabor-e	v a b o r + e	wife	dutton2010	1479	3 7 1 7 5 9 7	AXBYN_X	BAPUR_E	7	7.B.C 7.A.V 7.P.C 7.U.V 7.R.c 7._._ 7.E.V	2.0 1.5 1.75 1.3 0.8 0.0 1.5	vabor+e	0	46
+#
+79319	ese	1200_HUSBAND	paru-a	paru-a	p a r u + a	man, male, husband	dutton2010	9	1 7 5 7 9 7	AXBZ_X	PARY_A	1	1.P.C 1.A.V 1.R.C 1.Y.V 1._._ 1.A.V	2.0 1.5 1.75 0.8 0.0 1.5	paru+a	1	49
+14222	north-barai	1200_HUSBAND	baru	baru	b a r u	husband	dutton2010	1307	1 7 5 7	AXBZ	PARY	6	6.P.C 6.A.V 6.R.C 6.Y.V	2.0 1.5 1.75 0.8	baru	0	49
+14223	south-barai	1200_HUSBAND	baru	baru	b a r u	husband	dutton2010	1307	1 7 5 7	AXBZ	PARY	8	8.P.C 8.A.V 8.R.C 8.Y.V	2.0 1.5 1.75 0.8	baru	0	49
+14221	omie	1200_HUSBAND	baru-e	baru-e	b a r u + e	husband	dutton2010	1307	1 7 5 7 9 7	AXBZ_X	PARY_E	7	7.P.C 7.A.V 7.R.C 7.Y.V 7._._ 7.E.V	2.0 1.5 1.75 0.8 0.0 1.5	baru+e	0	49
+#
+15342	koitabu	1202_BIG	bauge	bauge	b a u g e	big	dutton2010	1522	1 7 7 1 7	AXYBZ	PAYKE	4	4.P.C 4.A.V 4.Y.V 4.K.C 4.E.V	2.0 1.5 1.3 1.75 0.8	bauge	0	50
+15343	mountain-koiari	1202_BIG	baluga	baluga	b a l u g a	big	dutton2010	1522	1 7 5 7 1 7	AXBYBZ	PALYKA	5	5.P.C 5.A.V 5.L.C 5.Y.V 5.K.C 5.A.V	2.0 1.5 1.75 1.3 1.75 0.8	baluga	0	51
+#
+14855	koitabu	1203_LONG	ege	ege	e g e	long	dutton2010	1443	7 1 7	XBZ	EKE	4	4.E.V 4.K.C 4.E.V	1.5 1.75 0.8	ege	0	52
+14856	grass-koiari	1203_LONG	ege	ege	e g e	long	dutton2010	1443	7 1 7	XBZ	EKE	2	2.E.V 2.K.C 2.E.V	1.5 1.75 0.8	ege	0	52
+14857	mountain-koiari	1203_LONG	ege|tana	tana	t a n a	long	dutton2010	1443	1 7 4 7	AXBZ	TANA	5	5.T.C 5.A.V 5.N.C 5.A.V	2.0 1.5 1.75 0.8	tana	0	54
+14858	mountain-koiari	1203_LONG	ege|a	a	a	to be long	dutton2010	1443	7	X	A	5	5.A.V	1.5	a	1	56
+14859	omie	1203_LONG	ëge	ëge	ë/e g e	long	dutton2010	1443	7 1 7	XBZ	EKE	7	7.E.V 7.K.C 7.E.V	1.5 1.75 0.8	ë/ege	0	52
+#
+15669	koitabu	1205_TONGUE	neme	neme	n e m e	middle, centre	dutton2010	1604	4 7 4 7	AXBZ	NEME	4	4.N.C 4.E.V 4.M.C 4.E.V	2.0 1.5 1.75 0.8	neme	0	58
+15668	grass-koiari	1205_TONGUE	neme-ka	neme-ka	n e m e + k a	tongue	dutton2010	1604	4 7 4 7 9 1 7	AXBZ_AX	NEME_KA	2	2.N.C 2.E.V 2.M.C 2.E.V 2._._ 2.K.C 2.A.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5	neme+ka	0	58
+15667	mountain-koiari	1205_TONGUE	neme	neme	n e m e	tongue	dutton2010	1604	4 7 4 7	AXBZ	NEME	5	5.N.C 5.E.V 5.M.C 5.E.V	2.0 1.5 1.75 0.8	neme	0	58
+14232	ese	1205_TONGUE	mitar-a	mitar-a	m i t a r + a	tongue	dutton2010	1309	4 7 1 7 5 9 7	AXBYN_X	MITAR_A	1	1.M.C 1.I.V 1.T.C 1.A.V 1.R.c 1._._ 1.A.V	2.0 1.5 1.75 1.3 0.8 0.0 1.5	mitar+a	0	57
+14230	north-barai	1205_TONGUE	mitar-e	mitar-e	m i t a r + e	tongue	dutton2010	1309	4 7 1 7 5 9 7	AXBYN_X	MITAR_E	6	6.M.C 6.I.V 6.T.C 6.A.V 6.R.c 6._._ 6.E.V	2.0 1.5 1.75 1.3 0.8 0.0 1.5	mitar+e	0	57
+14231	south-barai	1205_TONGUE	bitaru	bitaru	b i t a r u	tongue	dutton2010	1309	1 7 1 7 5 7	AXBYBZ	PITARY	8	8.P.C 8.I.V 8.T.C 8.A.V 8.R.C 8.Y.V	2.0 1.5 1.75 1.3 1.75 0.8	bitaru	0	62
+14229	omie	1205_TONGUE	bitar-e	bitar-e	b i t a r + e	tongue	dutton2010	1309	1 7 1 7 5 9 7	AXBYN_X	PITAR_E	7	7.P.C 7.I.V 7.T.C 7.A.V 7.R.c 7._._ 7.E.V	2.0 1.5 1.75 1.3 0.8 0.0 1.5	bitar+e	0	62
+#
+15360	koitabu	1209_I	da	da	d a	I	dutton2010	9969	1 7	AX	TA	4	4.T.C 4.A.V	2.0 1.5	da	0	64
+15361	grass-koiari	1209_I	da	da	d a	I	dutton2010	9969	1 7	AX	TA	2	2.T.C 2.A.V	2.0 1.5	da	0	64
+15362	mountain-koiari	1209_I	da	da	d a	I	dutton2010	9969	1 7	AX	TA	5	5.T.C 5.A.V	2.0 1.5	da	0	64
+15363	mountain-koiari	1209_I	di	di	d i	I	dutton2010	9969	1 7	AX	TI	5	5.T.C 5.I.V	2.0 1.5	di	0	64
+14453	ese	1209_I	na	na	n a	I	dutton2010	1968	4 7	AX	NA	1	1.N.C 1.A.V	2.0 1.5	na	1	63
+14451	north-barai	1209_I	na	na	n a	I	dutton2010	1968	4 7	AX	NA	6	6.N.C 6.A.V	2.0 1.5	na	0	63
+14452	south-barai	1209_I	na	na	n a	I	dutton2010	1968	4 7	AX	NA	8	8.N.C 8.A.V	2.0 1.5	na	1	63
+14449	omie	1209_I	na	na	n a	I	dutton2010	1968	4 7	AX	NA	7	7.N.C 7.A.V	2.0 1.5	na	1	63
+14450	omie	1209_I	na|ehu	ehu	e h u	I	dutton2010	1968	7 3 7	XBZ	EHY	7	7.E.V 7.H.C 7.Y.V	1.5 1.75 0.8	ehu	0	71
+#
+15034	koitabu	1210_HEAVY	isu|ke	ke	k e	heavy	dutton2010	1473	1 7	AX	KE	4	4.K.C 4.E.V	2.0 1.5	ke	0	72
+15035	grass-koiari	1210_HEAVY	ehu|ka	ka	k a	heavy	dutton2010	1473	1 7	AX	KA	2	2.K.C 2.A.V	2.0 1.5	ka	1	72
+15036	mountain-koiari	1210_HEAVY	isu|a	a	a	heavy	dutton2010	1473	7	X	A	5	5.A.V	1.5	a	1	74
+15037	omie	1210_HEAVY	iʔu|he	he	h e	heavy	dutton2010	1473	3 7	AX	HE	7	7.H.C 7.E.V	2.0 1.5	he	1	74
+15038	omie	1210_HEAVY	iʔu|e	e	e	heavy	dutton2010	1473	7	X	E	7	7.E.V	1.5	e	0	74
+#
+15179	koitabu	1212_WE	no	no	n o	we	dutton2010	1497	4 7	AX	NU	4	4.N.C 4.U.V	2.0 1.5	no	0	75
+15180	grass-koiari	1212_WE	no	no	n o	we	dutton2010	1497	4 7	AX	NU	2	2.N.C 2.U.V	2.0 1.5	no	0	75
+15185	ese	1212_WE	nu	nu	n u	we	dutton2010	1497	4 7	AX	NY	1	1.N.C 1.Y.V	2.0 1.5	nu	0	75
+15183	north-barai	1212_WE	no	no	n o	we	dutton2010	1497	4 7	AX	NU	6	6.N.C 6.U.V	2.0 1.5	no	0	75
+15184	south-barai	1212_WE	no	no	n o	we	dutton2010	1497	4 7	AX	NU	8	8.N.C 8.U.V	2.0 1.5	no	0	75
+15182	omie	1212_WE	no	no	n o	we	dutton2010	1497	4 7	AX	NU	7	7.N.C 7.U.V	2.0 1.5	no	0	75
+#
+15525	koitabu	1214_THIS	o	o	o	this	dutton2010	1566	7	X	U	4	4.U.V	1.5	o	0	77
+15526	grass-koiari	1214_THIS	oko	oko	o k o	this	dutton2010	1566	7 1 7	XBZ	UKU	2	2.U.V 2.K.C 2.U.V	1.5 1.75 0.8	oko	0	76
+15527	mountain-koiari	1214_THIS	ko	ko	k o	this	dutton2010	1566	1 7	AX	KU	5	5.K.C 5.U.V	2.0 1.5	ko	0	78
+#
+15504	koitabu	1216_MOTHER	neina	neina	n e i n a	mother	dutton2010	1561	4 7 7 4 7	AXYBZ	NEINA	4	4.N.C 4.E.V 4.I.V 4.N.C 4.A.V	2.0 1.5 1.3 1.75 0.8	neina	0	79
+15505	grass-koiari	1216_MOTHER	(da) neine	_neine	n e i n e	(my) mother	dutton2010	1561	4 7 7 4 7	AXYBZ	NEINE	2	2.N.C 2.E.V 2.I.V 2.N.C 2.E.V	2.0 1.5 1.3 1.75 0.8	neine	0	79
+15506	grass-koiari	1216_MOTHER	neina-ka	neina-ka	n e i n a + k a	mother	dutton2010	1561	4 7 7 4 7 9 1 7	AXYBZ_AX	NEINA_KA	2	2.N.C 2.E.V 2.I.V 2.N.C 2.A.V 2._._ 2.K.C 2.A.V	2.0 1.5 1.3 1.75 0.8 0.0 2.0 1.5	neina+ka	0	79
+15507	mountain-koiari	1216_MOTHER	neina	neina	n e i n a	mother	dutton2010	1561	4 7 7 4 7	AXYBZ	NEINA	5	5.N.C 5.E.V 5.I.V 5.N.C 5.A.V	2.0 1.5 1.3 1.75 0.8	neina	0	79
+#
+14743	koitabu	1217_FATHER	baba	baba	b a b a	father (address), dad	dutton2010	10523	1 7 1 7	AXBZ	PAPA	4	4.P.C 4.A.V 4.P.C 4.A.V	2.0 1.5 1.75 0.8	baba	0	81
+15091	koitabu	1217_FATHER	mama	mama	m a m a	father (reference)	dutton2010	1192	4 7 4 7	AXBZ	MAMA	4	4.M.C 4.A.V 4.M.C 4.A.V	2.0 1.5 1.75 0.8	mama	0	83
+14744	grass-koiari	1217_FATHER	baba	baba	b a b a	father (address), dad	dutton2010	10523	1 7 1 7	AXBZ	PAPA	2	2.P.C 2.A.V 2.P.C 2.A.V	2.0 1.5 1.75 0.8	baba	0	81
+15092	grass-koiari	1217_FATHER	mama	mama	m a m a	father (reference)	dutton2010	1192	4 7 4 7	AXBZ	MAMA	2	2.M.C 2.A.V 2.M.C 2.A.V	2.0 1.5 1.75 0.8	mama	0	83
+15093	mountain-koiari	1217_FATHER	mama	mama	m a m a	father	dutton2010	1192	4 7 4 7	AXBZ	MAMA	5	5.M.C 5.A.V 5.M.C 5.A.V	2.0 1.5 1.75 0.8	mama	0	83
+15094	ese	1217_FATHER	amo	amo	a m o	father	dutton2010	1192	7 4 7	XBZ	AMU	1	1.A.V 1.M.C 1.U.V	1.5 1.75 0.8	amo	0	80
+14747	south-barai	1217_FATHER	baba	baba	b a b a	father, uncle (father's brother)	dutton2010	10523	1 7 1 7	AXBZ	PAPA	8	8.P.C 8.A.V 8.P.C 8.A.V	2.0 1.5 1.75 0.8	baba	0	81
+14745	omie	1217_FATHER	apo	apo	a p o	father (address)	dutton2010	10523	7 1 7	XBZ	APU	7	7.A.V 7.P.C 7.U.V	1.5 1.75 0.8	apo	0	84
+14746	omie	1217_FATHER	aho	aho	a h o	father (address)	dutton2010	10523	7 3 7	XBZ	AHU	7	7.A.V 7.H.C 7.U.V	1.5 1.75 0.8	aho	0	88
+#
+15446	koitabu	1218_ROPE	ɣote	ɣote	ɣ o t e	string, rope	dutton2010	1547	3 7 1 7	AXBZ	GUTE	4	4.G.C 4.U.V 4.T.C 4.E.V	2.0 1.5 1.75 0.8	ɣote	0	91
+15447	grass-koiari	1218_ROPE	vote	vote	v o t e	vine, string, rope	dutton2010	1547	3 7 1 7	AXBZ	BUTE	2	2.B.C 2.U.V 2.T.C 2.E.V	2.0 1.5 1.75 0.8	vote	0	90
+15448	mountain-koiari	1218_ROPE	hote	hote	h o t e	vine, rope	dutton2010	1547	3 7 1 7	AXBZ	HUTE	5	5.H.C 5.U.V 5.T.C 5.E.V	2.0 1.5 1.75 0.8	hote	0	92
+14377	ese	1218_ROPE	aj-a	aj-a	a j + a	string, rope	dutton2010	1344	7 6 9 7	XN_X	AJ_A	1	1.A.V 1.J.c 1._._ 1.A.V	1.5 0.8 0.0 1.5	aj+a	0	89
+14375	north-barai	1218_ROPE	ka-e	ka-e	k a + e	string	dutton2010	1344	1 7 9 7	AX_X	KA_E	6	6.K.C 6.A.V 6._._ 6.E.V	2.0 1.5 0.0 1.5	ka+e	0	93
+14376	south-barai	1218_ROPE	ai	ai	a i	string, rope	dutton2010	1344	7 7	XZ	AI	8	8.A.V 8.I.V	1.5 0.8	ai	0	94
+#
+15648	grass-koiari	121_SPIN	to|viri|viri	viri	v i r i	car, truck	dutton2010	1599	3 7 5 7	AXBZ	BIRI	2	2.B.C 2.I.V 2.R.C 2.I.V	2.0 1.5 1.75 0.8	viri	0	95
+15649	mountain-koiari	121_SPIN	vili|vili-a	vili-a	v i l i + a	spin, twirl, go around in circles	dutton2010	1599	3 7 5 7 9 7	AXBZ_X	BILI_A	5	5.B.C 5.I.V 5.L.C 5.I.V 5._._ 5.A.V	2.0 1.5 1.75 0.8 0.0 1.5	vili+a	0	95
+#
+15546	koitabu	1220_TAIL	(to) tete-ka	_tete-ka	t e t e + k a	(dog's) tail	dutton2010	1572	1 7 1 7 9 1 7	AXBZ_AX	TETE_KA	4	4.T.C 4.E.V 4.T.C 4.E.V 4._._ 4.K.C 4.A.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5	tete+ka	0	97
+15547	grass-koiari	1220_TAIL	(to) tete-ka	_tete-ka	t e t e + k a	(dog's) tail	dutton2010	1572	1 7 1 7 9 1 7	AXBZ_AX	TETE_KA	2	2.T.C 2.E.V 2.T.C 2.E.V 2._._ 2.K.C 2.A.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5	tete+ka	0	97
+15548	mountain-koiari	1220_TAIL	dete	dete	d e t e	tail	dutton2010	1572	1 7 1 7	AXBZ	TETE	5	5.T.C 5.E.V 5.T.C 5.E.V	2.0 1.5 1.75 0.8	dete	0	97
+14333	ese	1220_TAIL	vin-a	vin-a	v i n + a	tail (of animal, bird, fish)	dutton2010	1333	3 7 4 9 7	AXN_X	BIN_A	1	1.B.C 1.I.V 1.N.c 1._._ 1.A.V	2.0 1.5 0.8 0.0 1.5	vin+a	0	96
+14331	north-barai	1220_TAIL	ivien-e	ivien-e	i v i e n + e	tail	dutton2010	1333	7 3 7 7 4 9 7	XBYYN_X	IBIEN_E	6	6.I.V 6.B.C 6.I.V 6.E.V 6.N.c 6._._ 6.E.V	1.5 1.75 1.3 1.3 0.8 0.0 1.5	ivien+e	0	100
+14332	south-barai	1220_TAIL	ivenu	ivenu	i v e n u	tail (of dog)	dutton2010	1333	7 3 7 4 7	XBYBZ	IBENY	8	8.I.V 8.B.C 8.E.V 8.N.C 8.Y.V	1.5 1.75 1.3 1.75 0.8	ivenu	0	100
+#
+14633	koitabu	1221_NOSE	uri	uri	u r i	nose	dutton2010	1406	7 5 7	XBZ	YRI	4	4.Y.V 4.R.C 4.I.V	1.5 1.75 0.8	uri	0	101
+14634	grass-koiari	1221_NOSE	uri	uri	u r i	nose	dutton2010	1406	7 5 7	XBZ	YRI	2	2.Y.V 2.R.C 2.I.V	1.5 1.75 0.8	uri	0	101
+14635	mountain-koiari	1221_NOSE	uli	uli	u l i	nose	dutton2010	1406	7 5 7	XBZ	YLI	5	5.Y.V 5.L.C 5.I.V	1.5 1.75 0.8	uli	0	101
+14636	ese	1221_NOSE	ur-a	ur-a	u r + a	nose	dutton2010	1406	7 5 9 7	XN_X	YR_A	1	1.Y.V 1.R.c 1._._ 1.A.V	1.5 0.8 0.0 1.5	ur+a	0	101
+#
+14695	koitabu	1222_PENIS	veɣu	veɣu	v e ɣ u	penis	dutton2010	1417	3 7 3 7	AXBZ	BEGY	4	4.B.C 4.E.V 4.G.C 4.Y.V	2.0 1.5 1.75 0.8	veɣu	0	104
+14696	grass-koiari	1222_PENIS	veu	veu	v e u	penis	dutton2010	1417	3 7 7	AXZ	BEY	2	2.B.C 2.E.V 2.Y.V	2.0 1.5 0.8	veu	0	103
+14697	mountain-koiari	1222_PENIS	vevu	vevu	v e v u	penis	dutton2010	1417	3 7 3 7	AXBZ	BEBY	5	5.B.C 5.E.V 5.B.C 5.Y.V	2.0 1.5 1.75 0.8	vevu	0	105
+14373	ese	1222_PENIS	júr-a	júr-a	j ú/u r + a	penis	dutton2010	1343	6 7 5 9 7	AXN_X	JYR_A	1	1.J.C 1.Y.V 1.R.c 1._._ 1.A.V	2.0 1.5 0.8 0.0 1.5	jú/ur+a	0	102
+14371	north-barai	1222_PENIS	juor-e	juor-e	j u o r + e	penis	dutton2010	1343	6 7 7 5 9 7	AXYN_X	JYUR_E	6	6.J.C 6.Y.V 6.U.V 6.R.c 6._._ 6.E.V	2.0 1.5 1.3 0.8 0.0 1.5	juor+e	0	102
+14372	south-barai	1222_PENIS	joru	joru	j o r u	penis	dutton2010	1343	6 7 5 7	AXBZ	JURY	8	8.J.C 8.U.V 8.R.C 8.Y.V	2.0 1.5 1.75 0.8	joru	0	102
+14698	omie	1222_PENIS	veru-e	veru-e	v e r u + e	penis	dutton2010	1417	3 7 5 7 9 7	AXBZ_X	BERY_E	7	7.B.C 7.E.V 7.R.C 7.Y.V 7._._ 7.E.V	2.0 1.5 1.75 0.8 0.0 1.5	veru+e	0	107
+#
+14597	ese	1223_HEART	ʔoj-a	ʔoj-a	ʔ o j + a	heart	dutton2010	1399	1 7 6 9 7	AXN_X	HUJ_A	1	1.H.C 1.U.V 1.J.c 1._._ 1.A.V	2.0 1.5 0.8 0.0 1.5	ʔoj+a	0	108
+14596	south-barai	1223_HEART	oiʔo	oiʔo	o i ʔ o	heart' (unexpected form; initial glottal stop expected)	dutton2010	1399	7 7 1 7	XYBZ	UIHU	8	8.U.V 8.I.V 8.H.C 8.U.V	1.5 1.3 1.75 0.8	oiʔo	0	109
+#
+14542	north-barai	1224_LIVER	vak-a	vak-a	v a k + a	liver	dutton2010	1385	3 7 1 9 7	AXN_X	BAK_A	6	6.B.C 6.A.V 6.K.c 6._._ 6.A.V	2.0 1.5 0.8 0.0 1.5	vak+a	0	110
+14543	south-barai	1224_LIVER	va	va	v a	liver	dutton2010	1385	3 7	AX	BA	8	8.B.C 8.A.V	2.0 1.5	va	0	112
+14541	omie	1224_LIVER	va-e	va-e	v a + e	liver	dutton2010	1385	3 7 9 7	AX_X	BA_E	7	7.B.C 7.A.V 7._._ 7.E.V	2.0 1.5 0.0 1.5	va+e	0	111
+#
+15458	koitabu	1231_NEW	isage	isage	i s a g e	new	dutton2010	1550	7 3 7 1 7	XBYBZ	ISAKE	4	4.I.V 4.S.C 4.A.V 4.K.C 4.E.V	1.5 1.75 1.3 1.75 0.8	isage	0	113
+15462	mountain-koiari	1231_NEW	isahete	isahete	i s a h e t e	green wood, young person	dutton2010	1550	7 3 7 3 7 1 7	XBYBYBZ	ISAHETE	5	5.I.V 5.S.C 5.A.V 5.H.C 5.E.V 5.T.C 5.E.V	1.5 1.75 1.3 1.75 1.3 1.75 0.8	isahete	0	113
+#
+14660	koitabu	1233_NIGHT	vahi	vahi	v a h i	night	dutton2010	1411	3 7 3 7	AXBZ	BAHI	4	4.B.C 4.A.V 4.H.C 4.I.V	2.0 1.5 1.75 0.8	vahi	0	115
+14661	grass-koiari	1233_NIGHT	vahi	vahi	v a h i	night	dutton2010	1411	3 7 3 7	AXBZ	BAHI	2	2.B.C 2.A.V 2.H.C 2.I.V	2.0 1.5 1.75 0.8	vahi	0	115
+14662	mountain-koiari	1233_NIGHT	vavi	vavi	v a v i	night	dutton2010	1411	3 7 3 7	AXBZ	BABI	5	5.B.C 5.A.V 5.B.C 5.I.V	2.0 1.5 1.75 0.8	vavi	0	117
+14456	ese	1233_NIGHT	naʔi-a	naʔi-a	n a ʔ i + a	night	dutton2010	1363	4 7 1 7 9 7	AXBZ_X	NAHI_A	1	1.N.C 1.A.V 1.H.C 1.I.V 1._._ 1.A.V	2.0 1.5 1.75 0.8 0.0 1.5	naʔi+a	0	114
+14455	south-barai	1233_NIGHT	naʔi|re	re	r e	night	dutton2010	1363	5 7	AX	RE	8	8.R.C 8.E.V	2.0 1.5	re	0	119
+14663	omie	1233_NIGHT	vahi-e	vahi-e	v a h i + e	night	dutton2010	1411	3 7 3 7 9 7	AXBZ_X	BAHI_E	7	7.B.C 7.A.V 7.H.C 7.I.V 7._._ 7.E.V	2.0 1.5 1.75 0.8 0.0 1.5	vahi+e	0	115
+#
+15517	koitabu	1235_WHO	-are	-are	a r e	who, which	dutton2010	1564	7 5 7	XBZ	ARE	4	4.A.V 4.R.C 4.E.V	1.5 1.75 0.8	are	0	120
+15518	grass-koiari	1235_WHO	-are	-are	a r e	who, which	dutton2010	1564	7 5 7	XBZ	ARE	2	2.A.V 2.R.C 2.E.V	1.5 1.75 0.8	are	0	120
+15519	mountain-koiari	1235_WHO	-ale	-ale	a l e	who	dutton2010	1564	7 5 7	XBZ	ALE	5	5.A.V 5.L.C 5.E.V	1.5 1.75 0.8	ale	0	120
+14319	ese	1235_WHO	irara	irara	i r a r a	who?	dutton2010	1329	7 5 7 5 7	XBYBZ	IRARA	1	1.I.V 1.R.C 1.A.V 1.R.C 1.A.V	1.5 1.75 1.3 1.75 0.8	irara	0	120
+14316	north-barai	1235_WHO	era	era	e r a	who?	dutton2010	1329	7 5 7	XBZ	ERA	6	6.E.V 6.R.C 6.A.V	1.5 1.75 0.8	era	0	120
+14317	south-barai	1235_WHO	irara	irara	i r a r a	who?	dutton2010	1329	7 5 7 5 7	XBYBZ	IRARA	8	8.I.V 8.R.C 8.A.V 8.R.C 8.A.V	1.5 1.75 1.3 1.75 0.8	irara	0	120
+14318	south-barai	1235_WHO	ira	ira	i r a	who?	dutton2010	1329	7 5 7	XBZ	IRA	8	8.I.V 8.R.C 8.A.V	1.5 1.75 0.8	ira	0	120
+14315	omie	1235_WHO	raro	raro	r a r o	who?	dutton2010	1329	5 7 5 7	AXBZ	RARU	7	7.R.C 7.A.V 7.R.C 7.U.V	2.0 1.5 1.75 0.8	raro	0	125
+#
+14643	koitabu	1236_WHAT	ota|vado	vado	v a d o	what?	dutton2010	1408	3 7 1 7	AXBZ	BATU	4	4.B.C 4.A.V 4.T.C 4.U.V	2.0 1.5 1.75 0.8	vado	0	128
+14644	grass-koiari	1236_WHAT	vadu|be	be	b e	what?	dutton2010	1408	1 7	AX	PE	2	2.P.C 2.E.V	2.0 1.5	be	0	127
+15529	grass-koiari	1236_WHAT	ono	ono	o n o	what (is it)? (self questioning)	dutton2010	1567	7 4 7	XBZ	UNU	2	2.U.V 2.N.C 2.U.V	1.5 1.75 0.8	ono	0	129
+15530	mountain-koiari	1236_WHAT	ono	ono	o n o	what	dutton2010	1567	7 4 7	XBZ	UNU	5	5.U.V 5.N.C 5.U.V	1.5 1.75 0.8	ono	0	129
+14306	ese	1236_WHAT	irak-a	irak-a	i r a k + a	what?	dutton2010	1326	7 5 7 1 9 7	XBYN_X	IRAK_A	1	1.I.V 1.R.C 1.A.V 1.K.c 1._._ 1.A.V	1.5 1.75 1.3 0.8 0.0 1.5	irak+a	0	126
+14305	north-barai	1236_WHAT	irer-e	irer-e	i r e r + e	what?	dutton2010	1326	7 5 7 5 9 7	XBYN_X	IRER_E	6	6.I.V 6.R.C 6.E.V 6.R.c 6._._ 6.E.V	1.5 1.75 1.3 0.8 0.0 1.5	irer+e	0	126
+14278	south-barai	1236_WHAT	ida|ga	ga	g a	what?	dutton2010	1320	1 7	AX	KA	8	8.K.C 8.A.V	2.0 1.5	ga	0	132
+14277	omie	1236_WHAT	dië|hi	hi	h i	what?	dutton2010	1320	3 7	AX	HI	7	7.H.C 7.I.V	2.0 1.5	hi	0	131
+14304	omie	1236_WHAT	rab-e:	rab-e:	r a b + eː	what?	dutton2010	1326	5 7 1 9 7	AXN_X	RAP_E	7	7.R.C 7.A.V 7.P.c 7._._ 7.E.V	2.0 1.5 0.8 0.0 1.5	rab+eː	0	134
+14645	omie	1236_WHAT	vadu	vadu	v a d u	who?, what?	dutton2010	1408	3 7 1 7	AXBZ	BATY	7	7.B.C 7.A.V 7.T.C 7.Y.V	2.0 1.5 1.75 0.8	vadu	0	128
+#
+14555	ese	1238_WHEN	vecha	vecha	v e c h a	when?	dutton2010	1388	3 7 1 3 7	AXBCZ	BECHA	1	1.B.C 1.E.V 1.C.C 1.H.C 1.A.V	2.0 1.5 1.75 1.5 0.8	vecha	0	135
+14556	ese	1238_WHEN	vea	vea	v e a	when?	dutton2010	1388	3 7 7	AXZ	BEA	1	1.B.C 1.E.V 1.A.V	2.0 1.5 0.8	vea	0	137
+14554	south-barai	1238_WHEN	veda|ha	ha	h a	when?	dutton2010	1388	3 7	AX	HA	8	8.H.C 8.A.V	2.0 1.5	ha	0	136
+#
+14782	koitabu	1240_NOT	be|ta	ta	t a	not, no	dutton2010	1430	1 7	AX	TA	4	4.T.C 4.A.V	2.0 1.5	ta	1	140
+14783	grass-koiari	1240_NOT	be|be	be	b e	not, no	dutton2010	1430	1 7	AX	PE	2	2.P.C 2.E.V	2.0 1.5	be	1	138
+14784	grass-koiari	1240_NOT	i|be	be	b e	or not	dutton2010	1430	1 7	AX	PE	2	2.P.C 2.E.V	2.0 1.5	be	1	138
+14785	mountain-koiari	1240_NOT	be	be	b e	strong negative	dutton2010	1430	1 7	AX	PE	5	5.P.C 5.E.V	2.0 1.5	be	1	138
+14789	ese	1240_NOT	pa	pa	p a	not	dutton2010	1430	1 7	AX	PA	1	1.P.C 1.A.V	2.0 1.5	pa	0	138
+14790	ese	1240_NOT	pana	pana	p a n a	not	dutton2010	1430	1 7 4 7	AXBZ	PANA	1	1.P.C 1.A.V 1.N.C 1.A.V	2.0 1.5 1.75 0.8	pana	0	145
+14787	north-barai	1240_NOT	ba	ba	b a	not	dutton2010	1430	1 7	AX	PA	6	6.P.C 6.A.V	2.0 1.5	ba	0	138
+14788	south-barai	1240_NOT	ba	ba	b a	not	dutton2010	1430	1 7	AX	PA	8	8.P.C 8.A.V	2.0 1.5	ba	0	138
+14786	omie	1240_NOT	bô|gô	gô	g ô/o	not	dutton2010	1430	1 7	AX	KU	7	7.K.C 7.U.V	2.0 1.5	gô/o	0	143
+#
+14932	koitabu	1244_THICK	adune	adune	a d u n e	thick	dutton2010	1456	7 1 7 4 7	XBYBZ	ATYNE	4	4.A.V 4.T.C 4.Y.V 4.N.C 4.E.V	1.5 1.75 1.3 1.75 0.8	adune	0	146
+14933	south-barai	1244_THICK	adunu	adunu	a d u n u	thick	dutton2010	1456	7 1 7 4 7	XBYBZ	ATYNY	8	8.A.V 8.T.C 8.Y.V 8.N.C 8.Y.V	1.5 1.75 1.3 1.75 0.8	adunu	0	146
+#
+14861	mountain-koiari	1246_SMALL	ese-ve	ese-ve	e s e + v e	small	dutton2010	1444	7 3 7 9 3 7	XBZ_AX	ESE_BE	5	5.E.V 5.S.C 5.E.V 5._._ 5.B.C 5.E.V	1.5 1.75 0.8 0.0 2.0 1.5	ese+ve	0	147
+14862	mountain-koiari	1246_SMALL	ese	ese	e s e	child	dutton2010	1444	7 3 7	XBZ	ESE	5	5.E.V 5.S.C 5.E.V	1.5 1.75 0.8	ese	0	147
+14863	north-barai	1246_SMALL	ise|kub-e	kub-e	k u b + e	small	dutton2010	1444	1 7 1 9 7	AXN_X	KYP_E	6	6.K.C 6.Y.V 6.P.c 6._._ 6.E.V	2.0 1.5 0.8 0.0 1.5	kub+e	0	148
+14864	north-barai	1246_SMALL	ise|sina	sina	s i n a	small ones	dutton2010	1444	3 7 4 7	AXBZ	SINA	6	6.S.C 6.I.V 6.N.C 6.A.V	2.0 1.5 1.75 0.8	sina	0	150
+#
+14271	ese	1247_EAR	ata-a	ata-a	a t a + a	ear	dutton2010	1318	7 1 7 9 7	XBZ_X	ATA_A	1	1.A.V 1.T.C 1.A.V 1._._ 1.A.V	1.5 1.75 0.8 0.0 1.5	ata+a	0	151
+14269	north-barai	1247_EAR	ad-a	ad-a	a d + a	ear	dutton2010	1318	7 1 9 7	XN_X	AT_A	6	6.A.V 6.T.c 6._._ 6.A.V	1.5 0.8 0.0 1.5	ad+a	0	151
+14270	south-barai	1247_EAR	gada	gada	g a d a	ear	dutton2010	1318	1 7 1 7	AXBZ	KATA	8	8.K.C 8.A.V 8.T.C 8.A.V	2.0 1.5 1.75 0.8	gada	0	153
+#
+15162	koitabu	1248_EYE	ni	ni	n i	eye	dutton2010	1495	4 7	AX	NI	4	4.N.C 4.I.V	2.0 1.5	ni	1	155
+15163	grass-koiari	1248_EYE	ni	ni	n i	eye	dutton2010	1495	4 7	AX	NI	2	2.N.C 2.I.V	2.0 1.5	ni	1	155
+15164	mountain-koiari	1248_EYE	ni	ni	n i	eye, face	dutton2010	1495	4 7	AX	NI	5	5.N.C 5.I.V	2.0 1.5	ni	0	155
+15168	ese	1248_EYE	ni-a	ni-a	n i + a	eye	dutton2010	1495	4 7 9 7	AX_X	NI_A	1	1.N.C 1.I.V 1._._ 1.A.V	2.0 1.5 0.0 1.5	ni+a	0	154
+15166	north-barai	1248_EYE	ni	ni	n i	eye	dutton2010	1495	4 7	AX	NI	6	6.N.C 6.I.V	2.0 1.5	ni	0	155
+15167	south-barai	1248_EYE	ni|o	o	o	eye	dutton2010	1495	7	X	U	8	8.U.V	1.5	o	0	160
+15165	omie	1248_EYE	nu|n-e	n-e	n + e	eye	dutton2010	1495	4 9 7	A_X	N_E	7	7.N.C 7._._ 7.E.V	2.0 0.0 1.5	n+e	0	154
+#
+14830	south-barai	1251_BELLY	de	de	d e	belly	dutton2010	1437	1 7	AX	TE	8	8.T.C 8.E.V	2.0 1.5	de	0	161
+14828	omie	1251_BELLY	dë	dë	d ë/e	stomach, excrement, womb, insides	dutton2010	1437	1 7	AX	TE	7	7.T.C 7.E.V	2.0 1.5	dë/e	1	161
+#
+14490	ese	1252_HOUSE	ar-a	ar-a	a r + a	house	dutton2010	1371	7 5 9 7	XN_X	AR_A	1	1.A.V 1.R.c 1._._ 1.A.V	1.5 0.8 0.0 1.5	ar+a	1	162
+14488	north-barai	1252_HOUSE	ar-e	ar-e	a r + e	house, place	dutton2010	1371	7 5 9 7	XN_X	AR_E	6	6.A.V 6.R.c 6._._ 6.E.V	1.5 0.8 0.0 1.5	ar+e	1	162
+14489	south-barai	1252_HOUSE	aru	aru	a r u	house	dutton2010	1371	7 5 7	XBZ	ARY	8	8.A.V 8.R.C 8.Y.V	1.5 1.75 0.8	aru	0	162
+14487	omie	1252_HOUSE	ar-i	ar-i	a r + i	ground	dutton2010	1371	7 5 9 7	XN_X	AR_I	7	7.A.V 7.R.c 7._._ 7.I.V	1.5 0.8 0.0 1.5	ar+i	0	162
+#
+15464	grass-koiari	1256_HEAD	kina	kina	k i n a	head	dutton2010	1551	1 7 4 7	AXBZ	KINA	2	2.K.C 2.I.V 2.N.C 2.A.V	2.0 1.5 1.75 0.8	kina	0	163
+15465	mountain-koiari	1256_HEAD	kina	kina	k i n a	head, hair	dutton2010	1551	1 7 4 7	AXBZ	KINA	5	5.K.C 5.I.V 5.N.C 5.A.V	2.0 1.5 1.75 0.8	kina	0	163
+#
+15637	koitabu	1269_NO	(maɣe) veite|ra	ra	r a	not (good)	dutton2010	1596	5 7	AX	RA	4	4.R.C 4.A.V	2.0 1.5	ra	0	165
+15638	grass-koiari	1269_NO	vehite	vehite	v e h i t e	not, none	dutton2010	1596	3 7 3 7 1 7	AXBYBZ	BEHITE	2	2.B.C 2.E.V 2.H.C 2.I.V 2.T.C 2.E.V	2.0 1.5 1.75 1.3 1.75 0.8	vehite	0	164
+15639	mountain-koiari	1269_NO	(moaga) vesite	_vesite	v e s i t e	not (much)	dutton2010	1596	3 7 3 7 1 7	AXBYBZ	BESITE	5	5.B.C 5.E.V 5.S.C 5.I.V 5.T.C 5.E.V	2.0 1.5 1.75 1.3 1.75 0.8	vesite	0	166
+#
+15623	koitabu	126_SWEAT_PERSPIRE	vaɣoto-ɣoi-	vaɣoto-ɣoi-	v a ɣ o t o + ɣ o i	perspire, sweat	dutton2010	1592	3 7 3 7 1 7 9 3 7 7	AXBYBZ_AXZ	BAGUTU_GUI	4	4.B.C 4.A.V 4.G.C 4.U.V 4.T.C 4.U.V 4._._ 4.G.C 4.U.V 4.I.V	2.0 1.5 1.75 1.3 1.75 0.8 0.0 2.0 1.5 0.8	vaɣoto+ɣoi	0	167
+15624	mountain-koiari	126_SWEAT_PERSPIRE	vahoto-a	vahoto-a	v a h o t o + a	perspire	dutton2010	1592	3 7 3 7 1 7 9 7	AXBYBZ_X	BAHUTU_A	5	5.B.C 5.A.V 5.H.C 5.U.V 5.T.C 5.U.V 5._._ 5.A.V	2.0 1.5 1.75 1.3 1.75 0.8 0.0 1.5	vahoto+a	0	168
+#
+14436	ese	1274_SALT	mis-a	mis-a	m i s + a	salt	dutton2010	1358	4 7 3 9 7	AXN_X	MIS_A	1	1.M.C 1.I.V 1.S.c 1._._ 1.A.V	2.0 1.5 0.8 0.0 1.5	mis+a	0	169
+14435	south-barai	1274_SALT	misu	misu	m i s u	salt	dutton2010	1358	4 7 3 7	AXBZ	MISY	8	8.M.C 8.I.V 8.S.C 8.Y.V	2.0 1.5 1.75 0.8	misu	0	169
+#
+15384	koitabu	1278_VOMIT	edoɣo-ho-	edoɣo-ho-	e d o ɣ o + h o	vomit	dutton2010	1533	7 1 7 3 7 9 3 7	XBYBZ_AX	ETUGU_HU	4	4.E.V 4.T.C 4.U.V 4.G.C 4.U.V 4._._ 4.H.C 4.U.V	1.5 1.75 1.3 1.75 0.8 0.0 2.0 1.5	edoɣo+ho	0	170
+15385	grass-koiari	1278_VOMIT	edo-va-	edo-va-	e d o + v a	vomit	dutton2010	1533	7 1 7 9 3 7	XBZ_AX	ETU_BA	2	2.E.V 2.T.C 2.U.V 2._._ 2.B.C 2.A.V	1.5 1.75 0.8 0.0 2.0 1.5	edo+va	0	170
+15386	mountain-koiari	1278_VOMIT	edo-a	edo-a	e d o + a	vomit	dutton2010	1533	7 1 7 9 7	XBZ_X	ETU_A	5	5.E.V 5.T.C 5.U.V 5._._ 5.A.V	1.5 1.75 0.8 0.0 1.5	edo+a	0	170
+#
+15373	grass-koiari	1280_FALL	dobi-va-	dobi-va-	d o b i + v a	fall down	dutton2010	1530	1 7 1 7 9 3 7	AXBZ_AX	TUPI_BA	2	2.T.C 2.U.V 2.P.C 2.I.V 2._._ 2.B.C 2.A.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5	dobi+va	0	171
+15374	mountain-koiari	1280_FALL	doba-	doba-	d o b a	fall down (people or things)	dutton2010	1530	1 7 1 7	AXBZ	TUPA	5	5.T.C 5.U.V 5.P.C 5.A.V	2.0 1.5 1.75 0.8	doba	0	171
+#
+14349	north-barai	1283_TODAY	jaru|ma'e	ma'e	m a e	today	dutton2010	1337	4 7 7	AXZ	MAE	6	6.M.C 6.A.V 6.E.V	2.0 1.5 0.8	mae	0	172
+14348	omie	1283_TODAY	jaru|v-o:	v-o:	v + oː	today	dutton2010	1337	3 9 7	A_X	B_U	7	7.B.C 7._._ 7.U.V	2.0 0.0 1.5	v+oː	0	173
+#
+15673	north-barai	1289_BABY	(ume) am-e	_am-e	a m + e	baby (bird)	dutton2010	1605	7 4 9 7	XN_X	AM_E	6	6.A.V 6.M.c 6._._ 6.E.V	1.5 0.8 0.0 1.5	am+e	1	174
+#
+14505	ese	1292_BAD	sise-a	sise-a	s i s e + a	bad	dutton2010	1375	3 7 3 7 9 7	AXBZ_X	SISE_A	1	1.S.C 1.I.V 1.S.C 1.E.V 1._._ 1.A.V	2.0 1.5 1.75 0.8 0.0 1.5	sise+a	0	175
+14504	north-barai	1292_BAD	is-e	is-e	i s + e	bad' (initial s expected)	dutton2010	1375	7 3 9 7	XN_X	IS_E	6	6.I.V 6.S.c 6._._ 6.E.V	1.5 0.8 0.0 1.5	is+e	0	176
+14503	omie	1292_BAD	sis-ë	sis-ë	s i s + ë/e	bad	dutton2010	1375	3 7 3 9 7	AXN_X	SIS_E	7	7.S.C 7.I.V 7.S.c 7._._ 7.E.V	2.0 1.5 0.8 0.0 1.5	sis+ë/e	0	175
+#
+15345	koitabu	1313_MOON	bata	bata	b a t a	moon	dutton2010	1523	1 7 1 7	AXBZ	PATA	4	4.P.C 4.A.V 4.T.C 4.A.V	2.0 1.5 1.75 0.8	bata	0	177
+15346	grass-koiari	1313_MOON	bata	bata	b a t a	moon	dutton2010	1523	1 7 1 7	AXBZ	PATA	2	2.P.C 2.A.V 2.T.C 2.A.V	2.0 1.5 1.75 0.8	bata	0	177
+15347	mountain-koiari	1313_MOON	bata	bata	b a t a	moon	dutton2010	1523	1 7 1 7	AXBZ	PATA	5	5.P.C 5.A.V 5.T.C 5.A.V	2.0 1.5 1.75 0.8	bata	0	177
+#
+79324	ese	1329_TOMORROW	niari	niari	n i a r i	yesterday, tomorrow	dutton2010	10	4 7 7 5 7	AXYBZ	NIARI	1	1.N.C 1.I.V 1.A.V 1.R.C 1.I.V	2.0 1.5 1.3 1.75 0.8	niari	1	178
+79323	south-barai	1329_TOMORROW	neru	neru	n e r u	yesterday, tomorrow	dutton2010	19	4 7 5 7	AXBZ	NERY	8	8.N.C 8.E.V 8.R.C 8.Y.V	2.0 1.5 1.75 0.8	neru	1	178
+79322	omie	1329_TOMORROW	nëri	nëri	n ë/e r i	yesterday, tomorrow	dutton2010	27	4 7 5 7	AXBZ	NERI	7	7.N.C 7.E.V 7.R.C 7.I.V	2.0 1.5 1.75 0.8	në/eri	1	178
+#
+15267	koitabu	1333_NECK	eno-ka	eno-ka	e n o + k a	throat	dutton2010	1509	7 4 7 9 1 7	XBZ_AX	ENU_KA	4	4.E.V 4.N.C 4.U.V 4._._ 4.K.C 4.A.V	1.5 1.75 0.8 0.0 2.0 1.5	eno+ka	0	179
+15268	koitabu	1333_NECK	eno ita	eno_ita	e n o + i t a	nape of neck	dutton2010	1509	7 4 7 9 7 1 7	XBZ_XBZ	ENU_ITA	4	4.E.V 4.N.C 4.U.V 4._._ 4.I.V 4.T.C 4.A.V	1.5 1.75 0.8 0.0 1.5 1.75 0.8	eno+ita	0	179
+15582	koitabu	1333_NECK	tuɣuka	tuɣuka	t u ɣ u k a	nape of neck	dutton2010	1581	1 7 3 7 1 7	AXBYBZ	TYGYKA	4	4.T.C 4.Y.V 4.G.C 4.Y.V 4.K.C 4.A.V	2.0 1.5 1.75 1.3 1.75 0.8	tuɣuka	0	188
+15269	grass-koiari	1333_NECK	eno	eno	e n o	nape of neck	dutton2010	1509	7 4 7	XBZ	ENU	2	2.E.V 2.N.C 2.U.V	1.5 1.75 0.8	eno	0	179
+15270	mountain-koiari	1333_NECK	eno	eno	e n o	neck (front)	dutton2010	1509	7 4 7	XBZ	ENU	5	5.E.V 5.N.C 5.U.V	1.5 1.75 0.8	eno	0	179
+15583	mountain-koiari	1333_NECK	tu	tu	t u	nape of neck	dutton2010	1581	1 7	AX	TY	5	5.T.C 5.Y.V	2.0 1.5	tu	0	186
+15274	ese	1333_NECK	nu|an-a	an-a	a n + a	back of neck	dutton2010	1509	7 4 9 7	XN_X	AN_A	1	1.A.V 1.N.c 1._._ 1.A.V	1.5 0.8 0.0 1.5	an+a	0	179
+15273	north-barai	1333_NECK	no-i	no-i	n o + i	nape	dutton2010	1509	4 7 9 7	AX_X	NU_I	6	6.N.C 6.U.V 6._._ 6.I.V	2.0 1.5 0.0 1.5	no+i	0	183
+15271	omie	1333_NECK	sönö	sönö	s ö n ö	neck	dutton2010	1509	3 7 4 7	AXBZ	SUNU	7	7.S.C 7.U.V 7.N.C 7.U.V	2.0 1.5 1.75 0.8	sönö	0	184
+15272	omie	1333_NECK	sönö ah	sönö_ah	s ö n ö + a h	nape	dutton2010	1509	3 7 4 7 9 7 3	AXBZ_XN	SUNU_AH	7	7.S.C 7.U.V 7.N.C 7.U.V 7._._ 7.A.V 7.H.c	2.0 1.5 1.75 0.8 0.0 1.5 0.8	sönö+ah	0	184
+#
+15454	koitabu	1335_WHITE	kae	kae	k a e	white	dutton2010	1549	1 7 7	AXZ	KAE	4	4.K.C 4.A.V 4.E.V	2.0 1.5 0.8	kae	0	189
+15455	grass-koiari	1335_WHITE	kae|kae	kae	k a e	white	dutton2010	1549	1 7 7	AXZ	KAE	2	2.K.C 2.A.V 2.E.V	2.0 1.5 0.8	kae	0	189
+15456	mountain-koiari	1335_WHITE	tae|te	te	t e	white	dutton2010	1549	1 7	AX	TE	5	5.T.C 5.E.V	2.0 1.5	te	0	191
+#
+14988	koitabu	1336_EAT	i-	i-	i	eat, drink, smoke (tobacco)	dutton2010	1467	7	X	I	4	4.I.V	1.5	i	0	193
+92429	koitabu	1336_EAT	i-	i-	i	eat, drink, smoke (tobacco)	dutton2010	2	7	X	I	4	4.I.V	1.5	i	1	193
+14989	grass-koiari	1336_EAT	i-	i-	i	eat, drink, smoke (tobacco)	dutton2010	1467	7	X	I	2	2.I.V	1.5	i	0	193
+92430	grass-koiari	1336_EAT	i-	i-	i	eat, drink, smoke (tobacco)	dutton2010	4	7	X	I	2	2.I.V	1.5	i	1	193
+14990	mountain-koiari	1336_EAT	i-	i-	i	eat, drink	dutton2010	1467	7	X	I	5	5.I.V	1.5	i	0	193
+92431	mountain-koiari	1336_EAT	i-	i-	i	eat, drink	dutton2010	6	7	X	I	5	5.I.V	1.5	i	1	193
+14995	ese	1336_EAT	ij-o	ij-o	i j + o	eat, drink	dutton2010	1467	7 6 9 7	XN_X	IJ_U	1	1.I.V 1.J.c 1._._ 1.U.V	1.5 0.8 0.0 1.5	ij+o	0	192
+92436	ese	1336_EAT	ij-o	ij-o	i j + o	eat, drink	dutton2010	11	7 6 9 7	XN_X	IJ_U	1	1.I.V 1.J.c 1._._ 1.U.V	1.5 0.8 0.0 1.5	ij+o	1	192
+14993	north-barai	1336_EAT	i	i	i	eat	dutton2010	1467	7	X	I	6	6.I.V	1.5	i	0	193
+92434	north-barai	1336_EAT	i	i	i	eat	dutton2010	15	7	X	I	6	6.I.V	1.5	i	1	193
+14994	south-barai	1336_EAT	i-	i-	i	eat, drink	dutton2010	1467	7	X	I	8	8.I.V	1.5	i	1	193
+92435	south-barai	1336_EAT	i-	i-	i	eat, drink	dutton2010	20	7	X	I	8	8.I.V	1.5	i	1	193
+14991	omie	1336_EAT	ij-e	ij-e	i j + e	eat, drink, smoke (tobacco)	dutton2010	1467	7 6 9 7	XN_X	IJ_E	7	7.I.V 7.J.c 7._._ 7.E.V	1.5 0.8 0.0 1.5	ij+e	1	192
+14992	omie	1336_EAT	i	i	i	eat, drink	dutton2010	1467	7	X	I	7	7.I.V	1.5	i	0	193
+92432	omie	1336_EAT	ij-e	ij-e	i j + e	eat, drink, smoke (tobacco)	dutton2010	28	7 6 9 7	XN_X	IJ_E	7	7.I.V 7.J.c 7._._ 7.E.V	1.5 0.8 0.0 1.5	ij+e	1	192
+92433	omie	1336_EAT	i	i	i	eat, drink	dutton2010	29	7	X	I	7	7.I.V	1.5	i	1	193
+#
+15521	koitabu	1337_PIG	oho	oho	o h o	pig	dutton2010	1565	7 3 7	XBZ	UHU	4	4.U.V 4.H.C 4.U.V	1.5 1.75 0.8	oho	0	195
+15522	grass-koiari	1337_PIG	oho	oho	o h o	pig	dutton2010	1565	7 3 7	XBZ	UHU	2	2.U.V 2.H.C 2.U.V	1.5 1.75 0.8	oho	0	195
+15523	mountain-koiari	1337_PIG	ovo	ovo	o v o	pig	dutton2010	1565	7 3 7	XBZ	UBU	5	5.U.V 5.B.C 5.U.V	1.5 1.75 0.8	ovo	0	197
+14423	ese	1337_PIG	mah-a	mah-a	m a h + a	pig	dutton2010	1354	4 7 3 9 7	AXN_X	MAH_A	1	1.M.C 1.A.V 1.H.c 1._._ 1.A.V	2.0 1.5 0.8 0.0 1.5	mah+a	0	194
+14422	south-barai	1337_PIG	mahu	mahu	m a h u	pig	dutton2010	1354	4 7 3 7	AXBZ	MAHY	8	8.M.C 8.A.V 8.H.C 8.Y.V	2.0 1.5 1.75 0.8	mahu	0	194
+14421	omie	1337_PIG	mah-e	mah-e	m a h + e	pig	dutton2010	1354	4 7 3 9 7	AXN_X	MAH_E	7	7.M.C 7.A.V 7.H.c 7._._ 7.E.V	2.0 1.5 0.8 0.0 1.5	mah+e	0	194
+#
+15626	koitabu	1343_SUN	vani	vani	v a n i	sun	dutton2010	1593	3 7 4 7	AXBZ	BANI	4	4.B.C 4.A.V 4.N.C 4.I.V	2.0 1.5 1.75 0.8	vani	0	199
+15627	grass-koiari	1343_SUN	vani	vani	v a n i	sun, day, time	dutton2010	1593	3 7 4 7	AXBZ	BANI	2	2.B.C 2.A.V 2.N.C 2.I.V	2.0 1.5 1.75 0.8	vani	0	199
+15628	mountain-koiari	1343_SUN	vani	vani	v a n i	sun, day	dutton2010	1593	3 7 4 7	AXBZ	BANI	5	5.B.C 5.A.V 5.N.C 5.I.V	2.0 1.5 1.75 0.8	vani	0	199
+14427	ese	1343_SUN	masa|p-a	p-a	p + a	moon	dutton2010	1355	1 9 7	A_X	P_A	1	1.P.C 1._._ 1.A.V	2.0 0.0 1.5	p+a	0	198
+14552	ese	1343_SUN	ve-a	ve-a	v e + a	sun	dutton2010	1387	3 7 9 7	AX_X	BE_A	1	1.B.C 1.E.V 1._._ 1.A.V	2.0 1.5 0.0 1.5	ve+a	0	205
+14426	north-barai	1343_SUN	maza|n-e	n-e	n + e	sun, day	dutton2010	1355	4 9 7	A_X	N_E	6	6.N.C 6._._ 6.E.V	2.0 0.0 1.5	n+e	0	202
+14550	north-barai	1343_SUN	ve	ve	v e	day and night, rain	dutton2010	1387	3 7	AX	BE	6	6.B.C 6.E.V	2.0 1.5	ve	1	204
+14551	south-barai	1343_SUN	ve	ve	v e	sun	dutton2010	1387	3 7	AX	BE	8	8.B.C 8.E.V	2.0 1.5	ve	1	204
+14425	omie	1343_SUN	madza|'-e	madza	m a d z a	sun	dutton2010	1355	4 7 1 3 7	AXBCZ	MATSA	7	7.M.C 7.A.V 7.T.C 7.S.C 7.A.V	2.0 1.5 1.75 1.5 0.8	madza	0	203
+#
+14403	ese	1355_LAUGH	ʔi|v-o	v-o	v + o	laugh	dutton2010	1350	3 9 7	A_X	B_U	1	1.B.C 1._._ 1.U.V	2.0 0.0 1.5	v+o	1	206
+14401	north-barai	1355_LAUGH	ki	ki	k i	laugh	dutton2010	1350	1 7	AX	KI	6	6.K.C 6.I.V	2.0 1.5	ki	1	207
+14402	south-barai	1355_LAUGH	ʔi-	ʔi-	ʔ i	laugh	dutton2010	1350	1 7	AX	HI	8	8.H.C 8.I.V	2.0 1.5	ʔi	0	209
+14399	omie	1355_LAUGH	ijo|ij-e	ij-e	i j + e	laugh	dutton2010	1350	7 6 9 7	XN_X	IJ_E	7	7.I.V 7.J.c 7._._ 7.E.V	1.5 0.8 0.0 1.5	ij+e	1	208
+14400	omie	1355_LAUGH	ijo|v-	v-	v	laugh	dutton2010	1350	3	A	B	7	7.B.C	2.0	v	1	210
+#
+15490	koitabu	1366_BOY	moe	moe	m o e	male child, son	dutton2010	1558	4 7 7	AXZ	MUE	4	4.M.C 4.U.V 4.E.V	2.0 1.5 0.8	moe	0	211
+15491	koitabu	1366_BOY	moika	moika	m o i k a	baby boy	dutton2010	1558	4 7 7 1 7	AXYBZ	MUIKA	4	4.M.C 4.U.V 4.I.V 4.K.C 4.A.V	2.0 1.5 1.3 1.75 0.8	moika	0	215
+15671	koitabu	1366_BOY	ɣami|ka	ka	k a	young boy, child	dutton2010	1605	1 7	AX	KA	4	4.K.C 4.A.V	2.0 1.5	ka	1	218
+15492	grass-koiari	1366_BOY	moe	moe	m o e	male child, son	dutton2010	1558	4 7 7	AXZ	MUE	2	2.M.C 2.U.V 2.E.V	2.0 1.5 0.8	moe	0	211
+15493	grass-koiari	1366_BOY	mo	mo	m o	male, boy	dutton2010	1558	4 7	AX	MU	2	2.M.C 2.U.V	2.0 1.5	mo	1	211
+15672	grass-koiari	1366_BOY	vami	vami	v a m i		dutton2010	1605	3 7 4 7	AXBZ	BAMI	2	2.B.C 2.A.V 2.M.C 2.I.V	2.0 1.5 1.75 0.8	vami	0	217
+15494	mountain-koiari	1366_BOY	mo	mo	m o	male child, boy, male	dutton2010	1558	4 7	AX	MU	5	5.M.C 5.U.V	2.0 1.5	mo	0	211
+15495	mountain-koiari	1366_BOY	moia	moia	m o i a	young boy	dutton2010	1558	4 7 7 7	AXYZ	MUIA	5	5.M.C 5.U.V 5.I.V 5.A.V	2.0 1.5 1.3 0.8	moia	0	211
+#
+14219	ese	1371_KNEE	atok-a	atok-a	a t o k + a	knee	dutton2010	1306	7 1 7 1 9 7	XBYN_X	ATUK_A	1	1.A.V 1.T.C 1.U.V 1.K.c 1._._ 1.A.V	1.5 1.75 1.3 0.8 0.0 1.5	atok+a	0	219
+14218	south-barai	1371_KNEE	atei	atei	a t e i	knee' (e unexpected; o expected)	dutton2010	1306	7 1 7 7	XBYZ	ATEI	8	8.A.V 8.T.C 8.E.V 8.I.V	1.5 1.75 1.3 0.8	atei	0	219
+#
+14329	ese	1376_NOW	iviamai	iviamai	i v i a m a i	now	dutton2010	1332	7 3 7 7 4 7 7	XBYYBYZ	IBIAMAI	1	1.I.V 1.B.C 1.I.V 1.A.V 1.M.C 1.A.V 1.I.V	1.5 1.75 1.3 1.3 1.75 1.3 0.8	iviamai	0	220
+14328	north-barai	1376_NOW	iviama	iviama	i v i a m a	now	dutton2010	1332	7 3 7 7 4 7	XBYYBZ	IBIAMA	6	6.I.V 6.B.C 6.I.V 6.A.V 6.M.C 6.A.V	1.5 1.75 1.3 1.3 1.75 0.8	iviama	0	220
+#
+14275	ese	1380_TOOTH	upaj-a	upaj-a	u p a j + a	tooth	dutton2010	1319	7 1 7 6 9 7	XBYN_X	YPAJ_A	1	1.Y.V 1.P.C 1.A.V 1.J.c 1._._ 1.A.V	1.5 1.75 1.3 0.8 0.0 1.5	upaj+a	0	221
+14273	north-barai	1380_TOOTH	uba-e (saki)	uba-e_	u b a + e	tooth (ache)	dutton2010	1319	7 1 7 9 7	XBZ_X	YPA_E	6	6.Y.V 6.P.C 6.A.V 6._._ 6.E.V	1.5 1.75 0.8 0.0 1.5	uba+e	0	221
+14274	south-barai	1380_TOOTH	gobai	gobai	g o b a i	tooth	dutton2010	1319	1 7 1 7 7	AXBYZ	KUPAI	8	8.K.C 8.U.V 8.P.C 8.A.V 8.I.V	2.0 1.5 1.75 1.3 0.8	gobai	0	223
+#
+14749	koitabu	1392_LOUSE	umu	umu	u m u	louse	dutton2010	1425	7 4 7	XBZ	YMY	4	4.Y.V 4.M.C 4.Y.V	1.5 1.75 0.8	umu	0	224
+14750	grass-koiari	1392_LOUSE	umu	umu	u m u	louse	dutton2010	1425	7 4 7	XBZ	YMY	2	2.Y.V 2.M.C 2.Y.V	1.5 1.75 0.8	umu	0	224
+14751	mountain-koiari	1392_LOUSE	umu	umu	u m u	louse	dutton2010	1425	7 4 7	XBZ	YMY	5	5.Y.V 5.M.C 5.Y.V	1.5 1.75 0.8	umu	0	224
+14754	ese	1392_LOUSE	ʔum-a	ʔum-a	ʔ u m + a	lice (on humans)	dutton2010	1425	1 7 4 9 7	AXN_X	HYM_A	1	1.H.C 1.Y.V 1.M.c 1._._ 1.A.V	2.0 1.5 0.8 0.0 1.5	ʔum+a	0	224
+14753	south-barai	1392_LOUSE	umu	umu	u m u	louse	dutton2010	1425	7 4 7	XBZ	YMY	8	8.Y.V 8.M.C 8.Y.V	1.5 1.75 0.8	umu	0	224
+14752	omie	1392_LOUSE	um-e	um-e	u m + e	louse	dutton2010	1425	7 4 9 7	XN_X	YM_E	7	7.Y.V 7.M.c 7._._ 7.E.V	1.5 0.8 0.0 1.5	um+e	0	224
+#
+14570	ese	1394_BONE	ʔat-a	ʔat-a	ʔ a t + a	bone	dutton2010	1392	1 7 1 9 7	AXN_X	HAT_A	1	1.H.C 1.A.V 1.T.c 1._._ 1.A.V	2.0 1.5 0.8 0.0 1.5	ʔat+a	0	225
+14569	south-barai	1394_BONE	adu	adu	a d u	bone	dutton2010	1392	7 1 7	XBZ	ATY	8	8.A.V 8.T.C 8.Y.V	1.5 1.75 0.8	adu	0	225
+#
+260775	koitabu	1401_DRINK	i-	i-	i	eat, drink, smoke (tobacco)	dutton2010	3	7	X	I	4	4.I.V	1.5	i	1	227
+260776	grass-koiari	1401_DRINK	i-	i-	i	eat, drink, smoke (tobacco)	dutton2010	5	7	X	I	2	2.I.V	1.5	i	1	227
+260777	mountain-koiari	1401_DRINK	i-	i-	i	eat, drink	dutton2010	7	7	X	I	5	5.I.V	1.5	i	1	227
+260780	ese	1401_DRINK	ij-o	ij-o	i j + o	eat, drink	dutton2010	14	7 6 9 7	XN_X	IJ_U	1	1.I.V 1.J.c 1._._ 1.U.V	1.5 0.8 0.0 1.5	ij+o	1	226
+260773	north-barai	1401_DRINK	i	i	i	eat	dutton2010	18	7	X	I	6	6.I.V	1.5	i	1	227
+260778	south-barai	1401_DRINK	i-	i-	i	eat, drink	dutton2010	25	7	X	I	8	8.I.V	1.5	i	1	227
+260772	omie	1401_DRINK	i	i	i	eat, drink	dutton2010	30	7	X	I	7	7.I.V	1.5	i	1	227
+260779	omie	1401_DRINK	ij-e	ij-e	i j + e	eat, drink, smoke (tobacco)	dutton2010	31	7 6 9 7	XN_X	IJ_E	7	7.I.V 7.J.c 7._._ 7.E.V	1.5 0.8 0.0 1.5	ij+e	1	226
+#
+14611	koitabu	1402_BREAST	amu	amu	a m u	breast (of woman), milk	dutton2010	1402	7 4 7	XBZ	AMY	4	4.A.V 4.M.C 4.Y.V	1.5 1.75 0.8	amu	0	229
+14612	grass-koiari	1402_BREAST	amu	amu	a m u	breast (of woman), milk	dutton2010	1402	7 4 7	XBZ	AMY	2	2.A.V 2.M.C 2.Y.V	1.5 1.75 0.8	amu	0	229
+14613	mountain-koiari	1402_BREAST	amu	amu	a m u	breast (of woman)	dutton2010	1402	7 4 7	XBZ	AMY	5	5.A.V 5.M.C 5.Y.V	1.5 1.75 0.8	amu	0	229
+14447	ese	1402_BREAST	mus-a	mus-a	m u s + a	breast	dutton2010	1361	4 7 3 9 7	AXN_X	MYS_A	1	1.M.C 1.Y.V 1.S.c 1._._ 1.A.V	2.0 1.5 0.8 0.0 1.5	mus+a	0	228
+14445	north-barai	1402_BREAST	mui	mui	m u i	breast' (unexplained form; mus-e expected)	dutton2010	1361	4 7 7	AXZ	MYI	6	6.M.C 6.Y.V 6.I.V	2.0 1.5 0.8	mui	0	232
+14615	north-barai	1402_BREAST	mo|su	su	s u	breast	dutton2010	1402	3 7	AX	SY	6	6.S.C 6.Y.V	2.0 1.5	su	0	235
+14446	south-barai	1402_BREAST	mosu	mosu	m o s u	breast	dutton2010	1361	4 7 3 7	AXBZ	MUSY	8	8.M.C 8.U.V 8.S.C 8.Y.V	2.0 1.5 1.75 0.8	mosu	0	228
+14616	south-barai	1402_BREAST	mu|i	i	i	breast	dutton2010	1402	7	X	I	8	8.I.V	1.5	i	0	236
+14614	omie	1402_BREAST	am-e	am-e	a m + e	breast	dutton2010	1402	7 4 9 7	XN_X	AM_E	7	7.A.V 7.M.c 7._._ 7.E.V	1.5 0.8 0.0 1.5	am+e	0	229
+#
+15594	grass-koiari	1403_BITE	ua-va-	ua-va-	u a + v a	bite	dutton2010	1584	7 7 9 3 7	XZ_AX	YA_BA	2	2.Y.V 2.A.V 2._._ 2.B.C 2.A.V	1.5 0.8 0.0 2.0 1.5	ua+va	0	238
+15595	mountain-koiari	1403_BITE	ua-ha-	ua-ha-	u a + h a	bite, gnaw	dutton2010	1584	7 7 9 3 7	XZ_AX	YA_HA	5	5.Y.V 5.A.V 5._._ 5.H.C 5.A.V	1.5 0.8 0.0 2.0 1.5	ua+ha	1	238
+14339	ese	1403_BITE	jaʔeho	jaʔeho	j a ʔ e h o	bite	dutton2010	1334	6 7 1 7 3 7	AXBYBZ	JAHEHU	1	1.J.C 1.A.V 1.H.C 1.E.V 1.H.C 1.U.V	2.0 1.5 1.75 1.3 1.75 0.8	jaʔeho	0	237
+14336	north-barai	1403_BITE	sak-	sak-	s a k	bite, sting	dutton2010	1334	3 7 1	AXN	SAK	6	6.S.C 6.A.V 6.K.c	2.0 1.5 0.8	sak	0	240
+14337	north-barai	1403_BITE	sak-ie	sak-ie	s a k + i e	bite me	dutton2010	1334	3 7 1 9 7 7	AXN_XZ	SAK_IE	6	6.S.C 6.A.V 6.K.c 6._._ 6.I.V 6.E.V	2.0 1.5 0.8 0.0 1.5 0.8	sak+ie	0	240
+14338	south-barai	1403_BITE	za-	za-	z a	bite	dutton2010	1334	3 7	AX	SA	8	8.S.C 8.A.V	2.0 1.5	za	0	242
+14335	omie	1403_BITE	jaʔih-e	jaʔih-e	j a ʔ i h + e	bite	dutton2010	1334	6 7 1 7 3 9 7	AXBYN_X	JAHIH_E	7	7.J.C 7.A.V 7.H.C 7.I.V 7.H.c 7._._ 7.E.V	2.0 1.5 1.75 1.3 0.8 0.0 1.5	jaʔih+e	0	237
+#
+15236	koitabu	1404_STRAIGHT	ye|riri-yeriri	riri-yeriri	r i r i + j e r i r i	straight	dutton2010	1505	5 7 5 7 9 6 7 5 7 5 7	AXBZ_AXBYBZ	RIRI_JERIRI	4	4.R.C 4.I.V 4.R.C 4.I.V 4._._ 4.J.C 4.E.V 4.R.C 4.I.V 4.R.C 4.I.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5 1.75 1.3 1.75 0.8	riri+jeriri	0	245
+15237	grass-koiari	1404_STRAIGHT	riri|taka	taka	t a k a	straight	dutton2010	1505	1 7 1 7	AXBZ	TAKA	2	2.T.C 2.A.V 2.K.C 2.A.V	2.0 1.5 1.75 0.8	taka	0	244
+15241	ese	1404_STRAIGHT	a|ri|ra	ra	r a	straight	dutton2010	1505	5 7	AX	RA	1	1.R.C 1.A.V	2.0 1.5	ra	0	243
+15242	ese	1404_STRAIGHT	ari|ni	ni	n i	straight	dutton2010	1505	4 7	AX	NI	1	1.N.C 1.I.V	2.0 1.5	ni	1	249
+15239	north-barai	1404_STRAIGHT	a|ri|ari	ari	a r i	straight	dutton2010	1505	7 5 7	XBZ	ARI	6	6.A.V 6.R.C 6.I.V	1.5 1.75 0.8	ari	0	246
+15240	south-barai	1404_STRAIGHT	a|ri|ari	ari	a r i	straight	dutton2010	1505	7 5 7	XBZ	ARI	8	8.A.V 8.R.C 8.I.V	1.5 1.75 0.8	ari	0	246
+15238	omie	1404_STRAIGHT	rëri	rëri	r ë/e r i	straight	dutton2010	1505	5 7 5 7	AXBZ	RERI	7	7.R.C 7.E.V 7.R.C 7.I.V	2.0 1.5 1.75 0.8	rë/eri	0	245
+#
+15013	koitabu	1405_NAME	ihi	ihi	i h i	name	dutton2010	1470	7 3 7	XBZ	IHI	4	4.I.V 4.H.C 4.I.V	1.5 1.75 0.8	ihi	0	250
+15014	grass-koiari	1405_NAME	ihi	ihi	i h i	name	dutton2010	1470	7 3 7	XBZ	IHI	2	2.I.V 2.H.C 2.I.V	1.5 1.75 0.8	ihi	0	250
+15015	mountain-koiari	1405_NAME	ivi	ivi	i v i	name	dutton2010	1470	7 3 7	XBZ	IBI	5	5.I.V 5.B.C 5.I.V	1.5 1.75 0.8	ivi	0	253
+15019	ese	1405_NAME	ih-a	ih-a	i h + a	name	dutton2010	1470	7 3 9 7	XN_X	IH_A	1	1.I.V 1.H.c 1._._ 1.A.V	1.5 0.8 0.0 1.5	ih+a	0	250
+15017	north-barai	1405_NAME	iv-e	iv-e	i v + e	name	dutton2010	1470	7 3 9 7	XN_X	IB_E	6	6.I.V 6.B.c 6._._ 6.E.V	1.5 0.8 0.0 1.5	iv+e	0	253
+15018	south-barai	1405_NAME	ihu	ihu	i h u	name	dutton2010	1470	7 3 7	XBZ	IHY	8	8.I.V 8.H.C 8.Y.V	1.5 1.75 0.8	ihu	0	250
+15016	omie	1405_NAME	ih-e	ih-e	i h + e	name	dutton2010	1470	7 3 9 7	XN_X	IH_E	7	7.I.V 7.H.c 7._._ 7.E.V	1.5 0.8 0.0 1.5	ih+e	0	250
+#
+15021	koitabu	1408_HEAR	ihi-	ihi-	i h i	hear (sg obj)	dutton2010	1471	7 3 7	XBZ	IHI	4	4.I.V 4.H.C 4.I.V	1.5 1.75 0.8	ihi	1	255
+15022	grass-koiari	1408_HEAR	ihi-	ihi-	i h i	hear	dutton2010	1471	7 3 7	XBZ	IHI	2	2.I.V 2.H.C 2.I.V	1.5 1.75 0.8	ihi	1	255
+15023	mountain-koiari	1408_HEAR	evi-	evi-	e v i	hear	dutton2010	1471	7 3 7	XBZ	EBI	5	5.E.V 5.B.C 5.I.V	1.5 1.75 0.8	evi	0	257
+15027	ese	1408_HEAR	hej-o	hej-o	h e j + o	hear, listen, know, feel	dutton2010	1471	3 7 6 9 7	AXN_X	HEJ_U	1	1.H.C 1.E.V 1.J.c 1._._ 1.U.V	2.0 1.5 0.8 0.0 1.5	hej+o	0	254
+15025	north-barai	1408_HEAR	fi-e	fi-e	f i + e	hear, understand	dutton2010	1471	3 7 9 7	AX_X	BI_E	6	6.B.C 6.I.V 6._._ 6.E.V	2.0 1.5 0.0 1.5	fi+e	0	258
+15026	south-barai	1408_HEAR	ihe-	ihe-	i h e	hear	dutton2010	1471	7 3 7	XBZ	IHE	8	8.I.V 8.H.C 8.E.V	1.5 1.75 0.8	ihe	0	255
+15024	omie	1408_HEAR	hej-e	hej-e	h e j + e	hear, listen, feel	dutton2010	1471	3 7 6 9 7	AXN_X	HEJ_E	7	7.H.C 7.E.V 7.J.c 7._._ 7.E.V	2.0 1.5 0.8 0.0 1.5	hej+e	0	254
+#
+15397	koitabu	1409_SEE	era-ɣa-	era-ɣa-	e r a + ɣ a	see	dutton2010	1536	7 5 7 9 3 7	XBZ_AX	ERA_GA	4	4.E.V 4.R.C 4.A.V 4._._ 4.G.C 4.A.V	1.5 1.75 0.8 0.0 2.0 1.5	era+ɣa	0	260
+15398	grass-koiari	1409_SEE	ere-va-	ere-va-	e r e + v a	see	dutton2010	1536	7 5 7 9 3 7	XBZ_AX	ERE_BA	2	2.E.V 2.R.C 2.E.V 2._._ 2.B.C 2.A.V	1.5 1.75 0.8 0.0 2.0 1.5	ere+va	0	260
+15399	mountain-koiari	1409_SEE	ele-ha-	ele-ha-	e l e + h a	see, look	dutton2010	1536	7 5 7 9 3 7	XBZ_AX	ELE_HA	5	5.E.V 5.L.C 5.E.V 5._._ 5.H.C 5.A.V	1.5 1.75 0.8 0.0 2.0 1.5	ele+ha	0	260
+14262	ese	1409_SEE	kav-o	kav-o	k a v + o	see	dutton2010	1316	1 7 3 9 7	AXN_X	KAB_U	1	1.K.C 1.A.V 1.B.c 1._._ 1.U.V	2.0 1.5 0.8 0.0 1.5	kav+o	0	259
+14260	north-barai	1409_SEE	aga-e	aga-e	a g a + e	see	dutton2010	1316	7 1 7 9 7	XBZ_X	AKA_E	6	6.A.V 6.K.C 6.A.V 6._._ 6.E.V	1.5 1.75 0.8 0.0 1.5	aga+e	0	263
+14261	south-barai	1409_SEE	aga-	aga-	a g a	see	dutton2010	1316	7 1 7	XBZ	AKA	8	8.A.V 8.K.C 8.A.V	1.5 1.75 0.8	aga	0	263
+14259	omie	1409_SEE	gav-e	gav-e	g a v + e	see	dutton2010	1316	1 7 3 9 7	AXN_X	KAB_E	7	7.K.C 7.A.V 7.B.c 7._._ 7.E.V	2.0 1.5 0.8 0.0 1.5	gav+e	0	259
+#
+14978	grass-koiari	1415_THINK_REFLECT	vuvu-	vuvu-	v u v u	think	dutton2010	1465	3 7 3 7	AXBZ	BYBY	2	2.B.C 2.Y.V 2.B.C 2.Y.V	2.0 1.5 1.75 0.8	vuvu	0	265
+14979	mountain-koiari	1415_THINK_REFLECT	huhu-a	huhu-a	h u h u + a	think, remember	dutton2010	1465	3 7 3 7 9 7	AXBZ_X	HYHY_A	5	5.H.C 5.Y.V 5.H.C 5.Y.V 5._._ 5.A.V	2.0 1.5 1.75 0.8 0.0 1.5	huhu+a	0	266
+14980	ese	1415_THINK_REFLECT	vui	vui	v u i	think	dutton2010	1465	3 7 7	AXZ	BYI	1	1.B.C 1.Y.V 1.I.V	2.0 1.5 0.8	vui	0	264
+#
+15589	koitabu	1416_SIT	gura-ma-	gura-ma-	g u r a + m a	sit down	dutton2010	1583	1 7 5 7 9 4 7	AXBZ_AX	KYRA_MA	4	4.K.C 4.Y.V 4.R.C 4.A.V 4._._ 4.M.C 4.A.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5	gura+ma	0	268
+15590	grass-koiari	1416_SIT	gura-ma-	gura-ma-	g u r a + m a	sit down	dutton2010	1583	1 7 5 7 9 4 7	AXBZ_AX	KYRA_MA	2	2.K.C 2.Y.V 2.R.C 2.A.V 2._._ 2.M.C 2.A.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5	gura+ma	0	268
+15591	mountain-koiari	1416_SIT	ugu-ma-	ugu-ma-	u g u + m a	sit down	dutton2010	1583	7 1 7 9 4 7	XBZ_AX	YKY_MA	5	5.Y.V 5.K.C 5.Y.V 5._._ 5.M.C 5.A.V	1.5 1.75 0.8 0.0 2.0 1.5	ugu+ma	0	270
+15592	mountain-koiari	1416_SIT	ugula-mo	ugula-mo	u g u l a + m o	sit down	dutton2010	1583	7 1 7 5 7 9 4 7	XBYBZ_AX	YKYLA_MU	5	5.Y.V 5.K.C 5.Y.V 5.L.C 5.A.V 5._._ 5.M.C 5.U.V	1.5 1.75 1.3 1.75 0.8 0.0 2.0 1.5	ugula+mo	0	270
+14252	ese	1416_SIT	hi|jo	jo	j o	sit down	dutton2010	1314	6 7	AX	JU	1	1.J.C 1.U.V	2.0 1.5	jo	0	267
+14253	ese	1416_SIT	hi|jasavo	jasavo	j a s a v o	sit in a group	dutton2010	1314	6 7 3 7 3 7	AXBYBZ	JASABU	1	1.J.C 1.A.V 1.S.C 1.A.V 1.B.C 1.U.V	2.0 1.5 1.75 1.3 1.75 0.8	jasavo	0	273
+14251	north-barai	1416_SIT	fi	fi	f i	sit	dutton2010	1314	3 7	AX	BI	6	6.B.C 6.I.V	2.0 1.5	fi	0	271
+14385	north-barai	1416_SIT	kari	kari	k a r i	sit (pl.)	dutton2010	1346	1 7 5 7	AXBZ	KARI	6	6.K.C 6.A.V 6.R.C 6.I.V	2.0 1.5 1.75 0.8	kari	0	268
+14384	omie	1416_SIT	ari|j-e	j-e	j + e	sit, rest (two)	dutton2010	1346	6 9 7	A_X	J_E	7	7.J.C 7._._ 7.E.V	2.0 0.0 1.5	j+e	1	272
+#
+15045	koitabu	1418_DIG	oro-hanu	oro-hanu	o r o + h a n u	dig up' (expected form karovanu)	dutton2010	1475	7 5 7 9 3 7 4 7	XBZ_AXBZ	URU_HANY	4	4.U.V 4.R.C 4.U.V 4._._ 4.H.C 4.A.V 4.N.C 4.Y.V	1.5 1.75 0.8 0.0 2.0 1.5 1.75 0.8	oro+hanu	0	275
+15532	koitabu	1418_DIG	roho-	roho-	r o h o	dig (hole)	dutton2010	1568	5 7 3 7	AXBZ	RUHU	4	4.R.C 4.U.V 4.H.C 4.U.V	2.0 1.5 1.75 0.8	roho	0	278
+15046	grass-koiari	1418_DIG	karo-vahanu	karo-vahanu	k a r o + v a h a n u	dig out, harvest (yams)	dutton2010	1475	1 7 5 7 9 3 7 3 7 4 7	AXBZ_AXBYBZ	KARU_BAHANY	2	2.K.C 2.A.V 2.R.C 2.U.V 2._._ 2.B.C 2.A.V 2.H.C 2.A.V 2.N.C 2.Y.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5 1.75 1.3 1.75 0.8	karo+vahanu	0	274
+15533	grass-koiari	1418_DIG	roho-	roho-	r o h o	dig (hole)	dutton2010	1568	5 7 3 7	AXBZ	RUHU	2	2.R.C 2.U.V 2.H.C 2.U.V	2.0 1.5 1.75 0.8	roho	0	278
+15047	mountain-koiari	1418_DIG	kalo-va	kalo-va	k a l o + v a	castrate	dutton2010	1475	1 7 5 7 9 3 7	AXBZ_AX	KALU_BA	5	5.K.C 5.A.V 5.L.C 5.U.V 5._._ 5.B.C 5.A.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5	kalo+va	0	274
+15534	mountain-koiari	1418_DIG	lovo-	lovo-	l o v o	dig	dutton2010	1568	5 7 3 7	AXBZ	LUBU	5	5.L.C 5.U.V 5.B.C 5.U.V	2.0 1.5 1.75 0.8	lovo	0	280
+15048	north-barai	1418_DIG	karo	karo	k a r o	dig out	dutton2010	1475	1 7 5 7	AXBZ	KARU	6	6.K.C 6.A.V 6.R.C 6.U.V	2.0 1.5 1.75 0.8	karo	0	274
+#
+14369	ese	1419_FEAR_BE_AFRAID	uha|vo	vo	v o	be afraid	dutton2010	1342	3 7	AX	BU	1	1.B.C 1.U.V	2.0 1.5	vo	1	281
+14367	north-barai	1419_FEAR_BE_AFRAID	jud-ie	jud-ie	j u d + i e	be afraid	dutton2010	1342	6 7 1 9 7 7	AXN_XZ	JYT_IE	6	6.J.C 6.Y.V 6.T.c 6._._ 6.I.V 6.E.V	2.0 1.5 0.8 0.0 1.5 0.8	jud+ie	0	282
+14368	south-barai	1419_FEAR_BE_AFRAID	zuhu-	zuhu-	z u h u	be afraid	dutton2010	1342	3 7 3 7	AXBZ	SYHY	8	8.S.C 8.Y.V 8.H.C 8.Y.V	2.0 1.5 1.75 0.8	zuhu	0	284
+14366	omie	1419_FEAR_BE_AFRAID	uho|niv-	niv-	n i v	be afraid	dutton2010	1342	4 7 3	AXN	NIB	7	7.N.C 7.I.V 7.B.c	2.0 1.5 0.8	niv	0	283
+#
+14950	koitabu	1423_FIGHT	ɣaraha-	ɣaraha-	ɣ a r a h a	fight	dutton2010	1460	3 7 5 7 3 7	AXBYBZ	GARAHA	4	4.G.C 4.A.V 4.R.C 4.A.V 4.H.C 4.A.V	2.0 1.5 1.75 1.3 1.75 0.8	ɣaraha	0	287
+14951	grass-koiari	1423_FIGHT	varaha-	varaha-	v a r a h a	fight	dutton2010	1460	3 7 5 7 3 7	AXBYBZ	BARAHA	2	2.B.C 2.A.V 2.R.C 2.A.V 2.H.C 2.A.V	2.0 1.5 1.75 1.3 1.75 0.8	varaha	0	286
+14953	ese	1423_FIGHT	ʔarah-o	ʔarah-o	ʔ a r a h + o	fight	dutton2010	1460	1 7 5 7 3 9 7	AXBYN_X	HARAH_U	1	1.H.C 1.A.V 1.R.C 1.A.V 1.H.c 1._._ 1.U.V	2.0 1.5 1.75 1.3 0.8 0.0 1.5	ʔarah+o	0	285
+14952	south-barai	1423_FIGHT	ara-	ara-	a r a	fight	dutton2010	1460	7 5 7	XBZ	ARA	8	8.A.V 8.R.C 8.A.V	1.5 1.75 0.8	ara	0	285
+#
+15578	koitabu	1429_FULL	tobo|ke	ke	k e	full (of water)	dutton2010	1580	1 7	AX	KE	4	4.K.C 4.E.V	2.0 1.5	ke	1	289
+15579	grass-koiari	1429_FULL	tobo|ka	ka	k a	full (of water)	dutton2010	1580	1 7	AX	KA	2	2.K.C 2.A.V	2.0 1.5	ka	1	289
+15580	mountain-koiari	1429_FULL	toba|loho	loho	l o h o	to be full (of water)	dutton2010	1580	5 7 3 7	AXBZ	LUHU	5	5.L.C 5.U.V 5.H.C 5.U.V	2.0 1.5 1.75 0.8	loho	1	291
+14326	ese	1429_FULL	itu|ʔono	ʔono	ʔ o n o	full	dutton2010	1331	1 7 4 7	AXBZ	HUNU	1	1.H.C 1.U.V 1.N.C 1.U.V	2.0 1.5 1.75 0.8	ʔono	0	288
+14324	north-barai	1429_FULL	ito|eje	eje	e j e	full	dutton2010	1331	7 6 7	XBZ	EJE	6	6.E.V 6.J.C 6.E.V	1.5 1.75 0.8	eje	0	292
+14325	south-barai	1429_FULL	ito|tia	tia	t i a	full	dutton2010	1331	1 7 7	AXZ	TIA	8	8.T.C 8.I.V 8.A.V	2.0 1.5 0.8	tia	0	293
+#
+14841	mountain-koiari	1430_STAR	didi	didi	d i d i	star	dutton2010	1440	1 7 1 7	AXBZ	TITI	5	5.T.C 5.I.V 5.T.C 5.I.V	2.0 1.5 1.75 0.8	didi	0	295
+14844	ese	1430_STAR	chi|n-a	n-a	n + a	star	dutton2010	1440	4 9 7	A_X	N_A	1	1.N.C 1._._ 1.A.V	2.0 0.0 1.5	n+a	0	294
+14843	south-barai	1430_STAR	amu|didi	didi	d i d i	star	dutton2010	1440	1 7 1 7	AXBZ	TITI	8	8.T.C 8.I.V 8.T.C 8.I.V	2.0 1.5 1.75 0.8	didi	0	295
+14842	omie	1430_STAR	jij-e	jij-e	j i j + e	star	dutton2010	1440	6 7 6 9 7	AXN_X	JIJ_E	7	7.J.C 7.I.V 7.J.c 7._._ 7.E.V	2.0 1.5 0.8 0.0 1.5	jij+e	0	296
+#
+14982	koitabu	1432_CUT	aha-	aha-	a h a	cut, chop	dutton2010	1466	7 3 7	XBZ	AHA	4	4.A.V 4.H.C 4.A.V	1.5 1.75 0.8	aha	0	297
+14983	grass-koiari	1432_CUT	aha-	aha-	a h a	cut (wood), chop	dutton2010	1466	7 3 7	XBZ	AHA	2	2.A.V 2.H.C 2.A.V	1.5 1.75 0.8	aha	0	297
+14984	mountain-koiari	1432_CUT	hei	hei	h e i	to cut	dutton2010	1466	3 7 7	AXZ	HEI	5	5.H.C 5.E.V 5.I.V	2.0 1.5 0.8	hei	0	300
+14527	ese	1432_CUT	uhu-o	uhu-o	u h u + o	cut, cut off	dutton2010	1381	7 3 7 9 7	XBZ_X	YHY_U	1	1.Y.V 1.H.C 1.Y.V 1._._ 1.U.V	1.5 1.75 0.8 0.0 1.5	uhu+o	0	297
+14986	ese	1432_CUT	aha|tuv-o	tuv-o	t u v + o	cut logs or bamboo	dutton2010	1466	1 7 3 9 7	AXN_X	TYB_U	1	1.T.C 1.Y.V 1.B.c 1._._ 1.U.V	2.0 1.5 0.8 0.0 1.5	tuv+o	0	303
+14526	north-barai	1432_CUT	ufu	ufu	u f u	cut (grass), slice	dutton2010	1381	7 3 7	XBZ	YBY	6	6.Y.V 6.B.C 6.Y.V	1.5 1.75 0.8	ufu	0	301
+14985	omie	1432_CUT	ah-e	ah-e	a h + e	cut, break (stick)	dutton2010	1466	7 3 9 7	XN_X	AH_E	7	7.A.V 7.H.c 7._._ 7.E.V	1.5 0.8 0.0 1.5	ah+e	0	297
+#
+14945	koitabu	1433_HIT	ɣa-ma-	ɣa-ma-	ɣ a + m a	hit	dutton2010	1459	3 7 9 4 7	AX_AX	GA_MA	4	4.G.C 4.A.V 4._._ 4.M.C 4.A.V	2.0 1.5 0.0 2.0 1.5	ɣa+ma	0	306
+15438	koitabu	1433_HIT	ɣama-	ɣama-	ɣ a m a	hit	dutton2010	1545	3 7 4 7	AXBZ	GAMA	4	4.G.C 4.A.V 4.M.C 4.A.V	2.0 1.5 1.75 0.8	ɣama	0	312
+14946	grass-koiari	1433_HIT	va-ma-	va-ma-	v a + m a	hit	dutton2010	1459	3 7 9 4 7	AX_AX	BA_MA	2	2.B.C 2.A.V 2._._ 2.M.C 2.A.V	2.0 1.5 0.0 2.0 1.5	va+ma	0	305
+15439	grass-koiari	1433_HIT	vama-	vama-	v a m a	hit	dutton2010	1545	3 7 4 7	AXBZ	BAMA	2	2.B.C 2.A.V 2.M.C 2.A.V	2.0 1.5 1.75 0.8	vama	0	311
+14947	mountain-koiari	1433_HIT	ha-ma-	ha-ma-	h a + m a	hit	dutton2010	1459	3 7 9 4 7	AX_AX	HA_MA	5	5.H.C 5.A.V 5._._ 5.M.C 5.A.V	2.0 1.5 0.0 2.0 1.5	ha+ma	0	304
+15440	mountain-koiari	1433_HIT	hama-	hama-	h a m a	hit	dutton2010	1545	3 7 4 7	AXBZ	HAMA	5	5.H.C 5.A.V 5.M.C 5.A.V	2.0 1.5 1.75 0.8	hama	0	313
+14382	ese	1433_HIT	ʔan|a-o	a-o	a + o	hit	dutton2010	1345	7 9 7	X_X	A_U	1	1.A.V 1._._ 1.U.V	1.5 0.0 1.5	a+o	0	304
+14380	north-barai	1433_HIT	kan-ie	kan-ie	k a n + i e	hit, help, shoot	dutton2010	1345	1 7 4 9 7 7	AXN_XZ	KAN_IE	6	6.K.C 6.A.V 6.N.c 6._._ 6.I.V 6.E.V	2.0 1.5 0.8 0.0 1.5 0.8	kan+ie	0	308
+14948	north-barai	1433_HIT	am-e	am-e	a m + e	hit, kill	dutton2010	1459	7 4 9 7	XN_X	AM_E	6	6.A.V 6.M.c 6._._ 6.E.V	1.5 0.8 0.0 1.5	am+e	0	313
+14381	south-barai	1433_HIT	ʔana	ʔana	ʔ a n a	hit (with stick or hand)	dutton2010	1345	1 7 4 7	AXBZ	HANA	8	8.H.C 8.A.V 8.N.C 8.A.V	2.0 1.5 1.75 0.8	ʔana	0	309
+14379	omie	1433_HIT	an-e	an-e	a n + e	hit	dutton2010	1345	7 4 9 7	XN_X	AN_E	7	7.A.V 7.N.c 7._._ 7.E.V	1.5 0.8 0.0 1.5	an+e	0	309
+#
+15302	koitabu	1436_SCRATCH	tuma-	tuma-	t u m a	scratch (skin)	dutton2010	1515	1 7 4 7	AXBZ	TYMA	4	4.T.C 4.Y.V 4.M.C 4.A.V	2.0 1.5 1.75 0.8	tuma	0	315
+15303	grass-koiari	1436_SCRATCH	tuma-	tuma-	t u m a	scratch (skin)	dutton2010	1515	1 7 4 7	AXBZ	TYMA	2	2.T.C 2.Y.V 2.M.C 2.A.V	2.0 1.5 1.75 0.8	tuma	0	315
+15304	mountain-koiari	1436_SCRATCH	tuma-	tuma-	t u m a	scratch (an itch)	dutton2010	1515	1 7 4 7	AXBZ	TYMA	5	5.T.C 5.Y.V 5.M.C 5.A.V	2.0 1.5 1.75 0.8	tuma	0	315
+15306	ese	1436_SCRATCH	ʔumur-o	ʔumur-o	ʔ u m u r + o	scratch	dutton2010	1515	1 7 4 7 5 9 7	AXBYN_X	HYMYR_U	1	1.H.C 1.Y.V 1.M.C 1.Y.V 1.R.c 1._._ 1.U.V	2.0 1.5 1.75 1.3 0.8 0.0 1.5	ʔumur+o	0	314
+15305	south-barai	1436_SCRATCH	ʔumu	ʔumu	ʔ u m u	scratch (skin)	dutton2010	1515	1 7 4 7	AXBZ	HYMY	8	8.H.C 8.Y.V 8.M.C 8.Y.V	2.0 1.5 1.75 0.8	ʔumu	0	314
+#
+14574	ese	1437_SPLIT	at-a	at-a	a t + a	break wood	dutton2010	1393	7 1 9 7	XN_X	AT_A	1	1.A.V 1.T.c 1._._ 1.A.V	1.5 0.8 0.0 1.5	at+a	0	316
+14572	north-barai	1437_SPLIT	at-ae	at-ae	a t + a e	break off a piece	dutton2010	1393	7 1 9 7 7	XN_XZ	AT_AE	6	6.A.V 6.T.c 6._._ 6.A.V 6.E.V	1.5 0.8 0.0 1.5 0.8	at+ae	0	316
+14573	south-barai	1437_SPLIT	ata-	ata-	a t a	break wood	dutton2010	1393	7 1 7	XBZ	ATA	8	8.A.V 8.T.C 8.A.V	1.5 1.75 0.8	ata	0	316
+#
+14872	grass-koiari	1439_SWIM	etova-	etova-	e t o v a	swim	dutton2010	1446	7 1 7 3 7	XBYBZ	ETUBA	2	2.E.V 2.T.C 2.U.V 2.B.C 2.A.V	1.5 1.75 1.3 1.75 0.8	etova	0	318
+14873	mountain-koiari	1439_SWIM	etova-	etova-	e t o v a	swim	dutton2010	1446	7 1 7 3 7	XBYBZ	ETUBA	5	5.E.V 5.T.C 5.U.V 5.B.C 5.A.V	1.5 1.75 1.3 1.75 0.8	etova	0	318
+14875	ese	1439_SWIM	isuav-o	isuav-o	i s u a v + o	swim	dutton2010	1446	7 3 7 7 3 9 7	XBYYN_X	ISYAB_U	1	1.I.V 1.S.C 1.Y.V 1.A.V 1.B.c 1._._ 1.U.V	1.5 1.75 1.3 1.3 0.8 0.0 1.5	isuav+o	0	317
+14874	south-barai	1439_SWIM	ido su-	ido_su-	i d o + s u	swim	dutton2010	1446	7 1 7 9 3 7	XBZ_AX	ITU_SY	8	8.I.V 8.T.C 8.U.V 8._._ 8.S.C 8.Y.V	1.5 1.75 0.8 0.0 2.0 1.5	ido+su	0	318
+#
+14756	koitabu	1442_STAND	uri-ha-	uri-ha-	u r i + h a	get up, stand up, arise	dutton2010	1426	7 5 7 9 3 7	XBZ_AX	YRI_HA	4	4.Y.V 4.R.C 4.I.V 4._._ 4.H.C 4.A.V	1.5 1.75 0.8 0.0 2.0 1.5	uri+ha	0	320
+15222	koitabu	1442_STAND	ra-ma-	ra-ma-	r a + m a	stand (sg subj)	dutton2010	1503	5 7 9 4 7	AX_AX	RA_MA	4	4.R.C 4.A.V 4._._ 4.M.C 4.A.V	2.0 1.5 0.0 2.0 1.5	ra+ma	0	322
+14757	grass-koiari	1442_STAND	uri-va-	uri-va-	u r i + v a	get up, stand up, arise	dutton2010	1426	7 5 7 9 3 7	XBZ_AX	YRI_BA	2	2.Y.V 2.R.C 2.I.V 2._._ 2.B.C 2.A.V	1.5 1.75 0.8 0.0 2.0 1.5	uri+va	0	320
+15223	grass-koiari	1442_STAND	ra-mi-	ra-mi-	r a + m i	stand (sg subj)	dutton2010	1503	5 7 9 4 7	AX_AX	RA_MI	2	2.R.C 2.A.V 2._._ 2.M.C 2.I.V	2.0 1.5 0.0 2.0 1.5	ra+mi	0	322
+15224	mountain-koiari	1442_STAND	la-mi-	la-mi-	l a + m i	stand (sg subj)	dutton2010	1503	5 7 9 4 7	AX_AX	LA_MI	5	5.L.C 5.A.V 5._._ 5.M.C 5.I.V	2.0 1.5 0.0 2.0 1.5	la+mi	0	322
+14761	ese	1442_STAND	ʔuri|dz-o	dz-o	d z + o	get up, stand up, wake up	dutton2010	1426	1 3 9 7	AC_X	TS_U	1	1.T.C 1.S.C 1._._ 1.U.V	2.0 1.5 0.0 1.5	dz+o	0	319
+14762	ese	1442_STAND	ʔuri-marav-o	ʔuri-marav-o	ʔ u r i + m a r a v + o	get up, stand up, wake up (PL Subj.)	dutton2010	1426	1 7 5 7 9 4 7 5 7 3 9 7	AXBZ_AXBYN_X	HYRI_MARAB_U	1	1.H.C 1.Y.V 1.R.C 1.I.V 1._._ 1.M.C 1.A.V 1.R.C 1.A.V 1.B.c 1._._ 1.U.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5 1.75 1.3 0.8 0.0 1.5	ʔuri+marav+o	0	320
+15228	ese	1442_STAND	nami|dz-o	dz-o	d z + o	stand	dutton2010	1503	1 3 9 7	AC_X	TS_U	1	1.T.C 1.S.C 1._._ 1.U.V	2.0 1.5 0.0 1.5	dz+o	1	319
+14759	north-barai	1442_STAND	uri	uri	u r i	rise, get up	dutton2010	1426	7 5 7	XBZ	YRI	6	6.Y.V 6.R.C 6.I.V	1.5 1.75 0.8	uri	0	320
+15226	north-barai	1442_STAND	mani|a	a	a	stand	dutton2010	1503	7	X	A	6	6.A.V	1.5	a	1	329
+14760	south-barai	1442_STAND	uri	uri	u r i	arise, stand up	dutton2010	1426	7 5 7	XBZ	YRI	8	8.Y.V 8.R.C 8.I.V	1.5 1.75 0.8	uri	0	320
+15227	south-barai	1442_STAND	rami-	rami-	r a m i	stand	dutton2010	1503	5 7 4 7	AXBZ	RAMI	8	8.R.C 8.A.V 8.M.C 8.I.V	2.0 1.5 1.75 0.8	rami	0	331
+14758	omie	1442_STAND	ri|ʔöj-e	ʔöj-e	ʔ ö j + e	get up	dutton2010	1426	1 7 6 9 7	AXN_X	HUJ_E	7	7.H.C 7.U.V 7.J.c 7._._ 7.E.V	2.0 1.5 0.8 0.0 1.5	ʔöj+e	0	324
+15225	omie	1442_STAND	nami|j-e	j-e	j + e	stand (one person)	dutton2010	1503	6 9 7	A_X	J_E	7	7.J.C 7._._ 7.E.V	2.0 0.0 1.5	j+e	1	330
+#
+15251	koitabu	1446_COME	(o)roɣo-	roɣo-	r o ɣ o	come	dutton2010	1507	5 7 3 7	AXBZ	RUGU	4	4.R.C 4.U.V 4.G.C 4.U.V	2.0 1.5 1.75 0.8	roɣo	0	334
+15252	grass-koiari	1446_COME	(o)rovo-	rovo-	r o v o	come	dutton2010	1507	5 7 3 7	AXBZ	RUBU	2	2.R.C 2.U.V 2.B.C 2.U.V	2.0 1.5 1.75 0.8	rovo	0	333
+15253	mountain-koiari	1446_COME	loho-	loho-	l o h o	come	dutton2010	1507	5 7 3 7	AXBZ	LUHU	5	5.L.C 5.U.V 5.H.C 5.U.V	2.0 1.5 1.75 0.8	loho	0	335
+15259	ese	1446_COME	roo-	roo-	r oː	come	dutton2010	1507	5 7	AX	RU	1	1.R.C 1.U.V	2.0 1.5	roː	0	332
+15260	ese	1446_COME	ro-a!	ro-a!	r o + a	come!	dutton2010	1507	5 7 9 7	AX_X	RU_A	1	1.R.C 1.U.V 1._._ 1.A.V	2.0 1.5 0.0 1.5	ro+a	0	339
+15255	north-barai	1446_COME	ruo	ruo	r u o	come	dutton2010	1507	5 7 7	AXZ	RYU	6	6.R.C 6.Y.V 6.U.V	2.0 1.5 0.8	ruo	0	332
+15256	north-barai	1446_COME	rue	rue	r u e	come	dutton2010	1507	5 7 7	AXZ	RYE	6	6.R.C 6.Y.V 6.E.V	2.0 1.5 0.8	rue	0	332
+15257	north-barai	1446_COME	iro	iro	i r o	come	dutton2010	1507	7 5 7	XBZ	IRU	6	6.I.V 6.R.C 6.U.V	1.5 1.75 0.8	iro	0	338
+15258	south-barai	1446_COME	iro-	iro-	i r o	come	dutton2010	1507	7 5 7	XBZ	IRU	8	8.I.V 8.R.C 8.U.V	1.5 1.75 0.8	iro	0	338
+15254	omie	1446_COME	rôv-e	rôv-e	r ô/o v + e	come	dutton2010	1507	5 7 3 9 7	AXN_X	RUB_E	7	7.R.C 7.U.V 7.B.c 7._._ 7.E.V	2.0 1.5 0.8 0.0 1.5	rô/ov+e	0	333
+#
+15125	koitabu	1447_GIVE	mo-	mo-	m o	give	dutton2010	1489	4 7	AX	MU	4	4.M.C 4.U.V	2.0 1.5	mo	0	341
+15126	grass-koiari	1447_GIVE	mo-	mo-	m o	give	dutton2010	1489	4 7	AX	MU	2	2.M.C 2.U.V	2.0 1.5	mo	0	341
+15127	mountain-koiari	1447_GIVE	o-	o-	o	give	dutton2010	1489	7	X	U	5	5.U.V	1.5	o	0	343
+15132	ese	1447_GIVE	m|aha	aha	a h a	give (him)	dutton2010	1489	7 3 7	XBZ	AHA	1	1.A.V 1.H.C 1.A.V	1.5 1.75 0.8	aha	0	340
+15133	ese	1447_GIVE	(ape) m|iha	iha	i h a	give (me)	dutton2010	1489	7 3 7	XBZ	IHA	1	1.I.V 1.H.C 1.A.V	1.5 1.75 0.8	iha	0	340
+15129	north-barai	1447_GIVE	m-ie	m-ie	m + i e	give me	dutton2010	1489	4 9 7 7	A_XZ	M_IE	6	6.M.C 6._._ 6.I.V 6.E.V	2.0 0.0 1.5 0.8	m+ie	0	344
+15130	south-barai	1447_GIVE	ma	ma	m a	give	dutton2010	1489	4 7	AX	MA	8	8.M.C 8.A.V	2.0 1.5	ma	0	341
+15131	south-barai	1447_GIVE	(abe na) mi!	_mi!	m i	give me!	dutton2010	1489	4 7	AX	MI	8	8.M.C 8.I.V	2.0 1.5	mi	0	341
+15128	omie	1447_GIVE	ma|mij-e	mij-e	m i j + e	give	dutton2010	1489	4 7 6 9 7	AXN_X	MIJ_E	7	7.M.C 7.I.V 7.J.c 7._._ 7.E.V	2.0 1.5 0.8 0.0 1.5	mij+e	0	345
+#
+14227	ese	1452_PUSH	pij'|aho	aho	a h o	push	dutton2010	1308	7 3 7	XBZ	AHU	1	1.A.V 1.H.C 1.U.V	1.5 1.75 0.8	aho	1	346
+14226	omie	1452_PUSH	bij|im-e	im-e	i m + e	push	dutton2010	1308	7 4 9 7	XN_X	IM_E	7	7.I.V 7.M.c 7._._ 7.E.V	1.5 0.8 0.0 1.5	im+e	1	347
+#
+14846	koitabu	1453_WASH	eago-	eago-	e a g o	wash.sg.obj	dutton2010	1441	7 7 1 7	XYBZ	EAKU	4	4.E.V 4.A.V 4.K.C 4.U.V	1.5 1.3 1.75 0.8	eago	0	349
+14850	koitabu	1453_WASH	eagu-	eagu-	e a g u	bathe	dutton2010	1442	7 7 1 7	XYBZ	EAKY	4	4.E.V 4.A.V 4.K.C 4.Y.V	1.5 1.3 1.75 0.8	eagu	0	349
+14847	grass-koiari	1453_WASH	iago-	iago-	i a g o	wash.sg.obj	dutton2010	1441	7 7 1 7	XYBZ	IAKU	2	2.I.V 2.A.V 2.K.C 2.U.V	1.5 1.3 1.75 0.8	iago	0	349
+14851	grass-koiari	1453_WASH	iagu-	iagu-	i a g u	wash (oneself), bathe	dutton2010	1442	7 7 1 7	XYBZ	IAKY	2	2.I.V 2.A.V 2.K.C 2.Y.V	1.5 1.3 1.75 0.8	iagu	0	349
+15285	mountain-koiari	1453_WASH	to|to-	to-	t o	wash (stg)	dutton2010	1512	1 7	AX	TU	5	5.T.C 5.U.V	2.0 1.5	to	1	351
+15289	ese	1453_WASH	so|v-o	v-o	v + o	wash (stg)	dutton2010	1512	3 9 7	A_X	B_U	1	1.B.C 1._._ 1.U.V	2.0 0.0 1.5	v+o	1	348
+15286	north-barai	1453_WASH	so	so	s o	wash	dutton2010	1512	3 7	AX	SU	6	6.S.C 6.U.V	2.0 1.5	so	0	352
+15287	north-barai	1453_WASH	do|ru-e	ru-e	r u + e	swim, wash	dutton2010	1512	5 7 9 7	AX_X	RY_E	6	6.R.C 6.Y.V 6._._ 6.E.V	2.0 1.5 0.0 1.5	ru+e	0	357
+15288	south-barai	1453_WASH	su	su	s u	wash	dutton2010	1512	3 7	AX	SY	8	8.S.C 8.Y.V	2.0 1.5	su	0	352
+14848	omie	1453_WASH	ego-e	ego-e	e g o + e	wash (oneself)	dutton2010	1441	7 1 7 9 7	XBZ_X	EKU_E	7	7.E.V 7.K.C 7.U.V 7._._ 7.E.V	1.5 1.75 0.8 0.0 1.5	ego+e	0	349
+14852	omie	1453_WASH	egu|o-	o-	o	wash (sg obj)	dutton2010	1442	7	X	U	7	7.U.V	1.5	o	0	358
+#
+15356	koitabu	1455_PULL	butu-ɣa-	butu-ɣa-	b u t u + ɣ a	pull	dutton2010	1526	1 7 1 7 9 3 7	AXBZ_AX	PYTY_GA	4	4.P.C 4.Y.V 4.T.C 4.Y.V 4._._ 4.G.C 4.A.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5	butu+ɣa	0	359
+15357	grass-koiari	1455_PULL	but-va-	but-va-	b u t + v a	pull	dutton2010	1526	1 7 1 9 3 7	AXN_AX	PYT_BA	2	2.P.C 2.Y.V 2.T.c 2._._ 2.B.C 2.A.V	2.0 1.5 0.8 0.0 2.0 1.5	but+va	0	359
+15358	mountain-koiari	1455_PULL	butu-ha-	butu-ha-	b u t u + h a	pull	dutton2010	1526	1 7 1 7 9 3 7	AXBZ_AX	PYTY_HA	5	5.P.C 5.Y.V 5.T.C 5.Y.V 5._._ 5.H.C 5.A.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5	butu+ha	0	359
+#
+15280	koitabu	1457_SEW	tigu|hu-	hu-	h u	sew up	dutton2010	1511	3 7	AX	HY	4	4.H.C 4.Y.V	2.0 1.5	hu	0	360
+15282	north-barai	1457_SEW	sag-u	sag-u	s a g + u	sew	dutton2010	1511	3 7 1 9 7	AXN_X	SAK_Y	6	6.S.C 6.A.V 6.K.c 6._._ 6.Y.V	2.0 1.5 0.8 0.0 1.5	sag+u	0	361
+15283	south-barai	1457_SEW	sigu-	sigu-	s i g u	sew up	dutton2010	1511	3 7 1 7	AXBZ	SIKY	8	8.S.C 8.I.V 8.K.C 8.Y.V	2.0 1.5 1.75 0.8	sigu	0	361
+15281	omie	1457_SEW	sigē|hidz-	hidz-	h i d z	sew up	dutton2010	1511	3 7 1 3	AXBC	HITS	7	7.H.C 7.I.V 7.T.C 7.S.C	2.0 1.5 1.75 1.5	hidz	0	362
+#
+15244	koitabu	1458_SAY	ro-	ro-	r o	say, tell, call (name)	dutton2010	1506	5 7	AX	RU	4	4.R.C 4.U.V	2.0 1.5	ro	0	363
+15245	grass-koiari	1458_SAY	roi-	roi-	r o i	speak	dutton2010	1506	5 7 7	AXZ	RUI	2	2.R.C 2.U.V 2.I.V	2.0 1.5 0.8	roi	0	363
+15246	mountain-koiari	1458_SAY	lou-	lou-	l o u	say, speak	dutton2010	1506	5 7 7	AXZ	LUY	5	5.L.C 5.U.V 5.Y.V	2.0 1.5 0.8	lou	0	363
+15248	north-barai	1458_SAY	ro-	ro-	r o	speak	dutton2010	1506	5 7	AX	RU	6	6.R.C 6.U.V	2.0 1.5	ro	1	363
+15249	south-barai	1458_SAY	ro-	ro-	r o	speak	dutton2010	1506	5 7	AX	RU	8	8.R.C 8.U.V	2.0 1.5	ro	0	363
+15247	omie	1458_SAY	u|v	v	v	say	dutton2010	1506	3	A	B	7	7.B.C	2.0	v	0	367
+#
+15154	koitabu	1459_IF	-nei	-nei	n e i	when, if (past tense), after, then	dutton2010	1493	4 7 7	AXZ	NEI	4	4.N.C 4.E.V 4.I.V	2.0 1.5 0.8	nei	0	368
+15155	north-barai	1459_IF	-ne	-ne	n e	conditional verb suffix, past and future tenses	dutton2010	1493	4 7	AX	NE	6	6.N.C 6.E.V	2.0 1.5	ne	1	368
+#
+15029	koitabu	146_SUGAR_CANE	imi	imi	i m i	sugar cane	dutton2010	1472	7 4 7	XBZ	IMI	4	4.I.V 4.M.C 4.I.V	1.5 1.75 0.8	imi	0	369
+15030	grass-koiari	146_SUGAR_CANE	imi	imi	i m i	sugar cane	dutton2010	1472	7 4 7	XBZ	IMI	2	2.I.V 2.M.C 2.I.V	1.5 1.75 0.8	imi	0	369
+15031	mountain-koiari	146_SUGAR_CANE	imi	imi	i m i	sugar cane	dutton2010	1472	7 4 7	XBZ	IMI	5	5.I.V 5.M.C 5.I.V	1.5 1.75 0.8	imi	0	369
+15032	omie	146_SUGAR_CANE	im-e	im-e	i m + e	sugar cane	dutton2010	1472	7 4 9 7	XN_X	IM_E	7	7.I.V 7.M.c 7._._ 7.E.V	1.5 0.8 0.0 1.5	im+e	0	369
+#
+14654	koitabu	1480_BODY	aha|ta	ta	t a	body	dutton2010	1410	1 7	AX	TA	4	4.T.C 4.A.V	2.0 1.5	ta	0	371
+14655	grass-koiari	1480_BODY	aha|ta	ta	t a	body	dutton2010	1410	1 7	AX	TA	2	2.T.C 2.A.V	2.0 1.5	ta	0	371
+14656	mountain-koiari	1480_BODY	vava	vava	v a v a	body	dutton2010	1410	3 7 3 7	AXBZ	BABA	5	5.B.C 5.A.V 5.B.C 5.A.V	2.0 1.5 1.75 0.8	vava	0	373
+14658	ese	1480_BODY	hah-a	hah-a	h a h + a	body	dutton2010	1410	3 7 3 9 7	AXN_X	HAH_A	1	1.H.C 1.A.V 1.H.c 1._._ 1.A.V	2.0 1.5 0.8 0.0 1.5	hah+a	0	370
+14657	north-barai	1480_BODY	vaja-e	vaja-e	v a j a + e	body	dutton2010	1410	3 7 6 7 9 7	AXBZ_X	BAJA_E	6	6.B.C 6.A.V 6.J.C 6.A.V 6._._ 6.E.V	2.0 1.5 1.75 0.8 0.0 1.5	vaja+e	0	374
+#
+15663	koitabu	1482_SHOULDER	bagu|ni	ni	n i	shoulder	dutton2010	1603	4 7	AX	NI	4	4.N.C 4.I.V	2.0 1.5	ni	1	376
+15664	grass-koiari	1482_SHOULDER	bagi|na	na	n a	shoulder	dutton2010	1603	4 7	AX	NA	2	2.N.C 2.A.V	2.0 1.5	na	0	376
+15665	mountain-koiari	1482_SHOULDER	bego	bego	b e g o	shoulder	dutton2010	1603	1 7 1 7	AXBZ	PEKU	5	5.P.C 5.E.V 5.K.C 5.U.V	2.0 1.5 1.75 0.8	bego	0	378
+14501	ese	1482_SHOULDER	sireh-a	sireh-a	s i r e h + a	shoulder	dutton2010	1374	3 7 5 7 3 9 7	AXBYN_X	SIREH_A	1	1.S.C 1.I.V 1.R.C 1.E.V 1.H.c 1._._ 1.A.V	2.0 1.5 1.75 1.3 0.8 0.0 1.5	sireh+a	0	375
+14500	south-barai	1482_SHOULDER	siroi	siroi	s i r o i	shoulder	dutton2010	1374	3 7 5 7 7	AXBYZ	SIRUI	8	8.S.C 8.I.V 8.R.C 8.U.V 8.I.V	2.0 1.5 1.75 1.3 0.8	siroi	0	375
+14499	omie	1482_SHOULDER	sireh-a	sireh-a	s i r e h + a	shoulder	dutton2010	1374	3 7 5 7 3 9 7	AXBYN_X	SIREH_A	7	7.S.C 7.I.V 7.R.C 7.E.V 7.H.c 7._._ 7.A.V	2.0 1.5 1.75 1.3 0.8 0.0 1.5	sireh+a	0	375
+#
+14638	grass-koiari	1486_PLANT_SOMETHING	va-	va-	v a	plant	dutton2010	1407	3 7	AX	BA	2	2.B.C 2.A.V	2.0 1.5	va	1	380
+14639	mountain-koiari	1486_PLANT_SOMETHING	ha-	ha-	h a	plant	dutton2010	1407	3 7	AX	HA	5	5.H.C 5.A.V	2.0 1.5	ha	1	381
+14641	ese	1486_PLANT_SOMETHING	(soa) sa|v-o	v-o	v + o	plant (new garden)	dutton2010	1407	3 9 7	A_X	B_U	1	1.B.C 1._._ 1.U.V	2.0 0.0 1.5	v+o	1	379
+14640	north-barai	1486_PLANT_SOMETHING	sa	sa	s a	plant	dutton2010	1407	3 7	AX	SA	6	6.S.C 6.A.V	2.0 1.5	sa	0	382
+#
+14910	mountain-koiari	1487_POUR	(e) hosi|va	va	v a	pour out (water)	dutton2010	1452	3 7	AX	BA	5	5.B.C 5.A.V	2.0 1.5	va	0	384
+14913	ese	1487_POUR	use-o	use-o	u s e + o	pour out	dutton2010	1452	7 3 7 9 7	XBZ_X	YSE_U	1	1.Y.V 1.S.C 1.E.V 1._._ 1.U.V	1.5 1.75 0.8 0.0 1.5	use+o	0	383
+14912	north-barai	1487_POUR	usi-a	usi-a	u s i + a	pour out	dutton2010	1452	7 3 7 9 7	XBZ_X	YSI_A	6	6.Y.V 6.S.C 6.I.V 6._._ 6.A.V	1.5 1.75 0.8 0.0 1.5	usi+a	0	383
+14911	omie	1487_POUR	'ote|hë'oj-e	hë'oj-e	h ë/e o j + e	pour out	dutton2010	1452	3 7 7 6 9 7	AXYN_X	HEUJ_E	7	7.H.C 7.E.V 7.U.V 7.J.c 7._._ 7.E.V	2.0 1.5 1.3 0.8 0.0 1.5	hë/eoj+e	0	386
+#
+14590	ese	1489_CLOUD	'imiti-a	'imiti-a	i m i t i + a	clouds	dutton2010	1397	7 4 7 1 7 9 7	XBYBZ_X	IMITI_A	1	1.I.V 1.M.C 1.I.V 1.T.C 1.I.V 1._._ 1.A.V	1.5 1.75 1.3 1.75 0.8 0.0 1.5	imiti+a	0	387
+14589	north-barai	1489_CLOUD	amit-e	amit-e	a m i t + e	cloud	dutton2010	1397	7 4 7 1 9 7	XBYN_X	AMIT_E	6	6.A.V 6.M.C 6.I.V 6.T.c 6._._ 6.E.V	1.5 1.75 1.3 0.8 0.0 1.5	amit+e	0	387
+14322	south-barai	1489_CLOUD	iso	iso	i s o	cloud	dutton2010	1330	7 3 7	XBZ	ISU	8	8.I.V 8.S.C 8.U.V	1.5 1.75 0.8	iso	0	390
+14321	omie	1489_CLOUD	su-e	su-e	s u + e	cloud	dutton2010	1330	3 7 9 7	AX_X	SY_E	7	7.S.C 7.Y.V 7._._ 7.E.V	2.0 1.5 0.0 1.5	su+e	0	389
+#
+15005	grass-koiari	1493_ONE	igau	igau	i g a u	one	dutton2010	1469	7 1 7 7	XBYZ	IKAY	2	2.I.V 2.K.C 2.A.V 2.Y.V	1.5 1.75 1.3 0.8	igau	0	392
+15006	mountain-koiari	1493_ONE	igae	igae	i g a e	one	dutton2010	1469	7 1 7 7	XBYZ	IKAE	5	5.I.V 5.K.C 5.A.V 5.E.V	1.5 1.75 1.3 0.8	igae	0	392
+15011	ese	1493_ONE	kui|nu	nu	n u	one	dutton2010	1469	4 7	AX	NY	1	1.N.C 1.Y.V	2.0 1.5	nu	1	391
+15009	north-barai	1493_ONE	ogo|nu	nu	n u	one	dutton2010	1469	4 7	AX	NY	6	6.N.C 6.Y.V	2.0 1.5	nu	0	391
+15010	south-barai	1493_ONE	ogo|nu	nu	n u	one	dutton2010	1469	4 7	AX	NY	8	8.N.C 8.Y.V	2.0 1.5	nu	0	391
+15007	omie	1493_ONE	ge|mu	mu	m u	one	dutton2010	1469	4 7	AX	MY	7	7.M.C 7.Y.V	2.0 1.5	mu	0	395
+15008	omie	1493_ONE	gö	gö	g ö	one	dutton2010	1469	1 7	AX	KU	7	7.K.C 7.U.V	2.0 1.5	gö	0	397
+#
+15380	koitabu	1498_TWO	ab	ab	a b	two	dutton2010	1532	7 1	XN	AP	4	4.A.V 4.P.c	1.5 0.8	ab	0	399
+15381	grass-koiari	1498_TWO	abuti	abuti	a b u t i	two	dutton2010	1532	7 1 7 1 7	XBYBZ	APYTI	2	2.A.V 2.P.C 2.Y.V 2.T.C 2.I.V	1.5 1.75 1.3 1.75 0.8	abuti	0	399
+15382	mountain-koiari	1498_TWO	abui	abui	a b u i	two	dutton2010	1532	7 1 7 7	XBYZ	APYI	5	5.A.V 5.P.C 5.Y.V 5.I.V	1.5 1.75 1.3 0.8	abui	0	399
+14302	ese	1498_TWO	noʔo	noʔo	n o ʔ o	two	dutton2010	1325	4 7 1 7	AXBZ	NUHU	1	1.N.C 1.U.V 1.H.C 1.U.V	2.0 1.5 1.75 0.8	noʔo	0	398
+14300	north-barai	1498_TWO	inoko|ro	ro	r o	two	dutton2010	1325	5 7	AX	RU	6	6.R.C 6.U.V	2.0 1.5	ro	1	402
+14301	south-barai	1498_TWO	inoʔi	inoʔi	i n o ʔ i	two	dutton2010	1325	7 4 7 1 7	XBYBZ	INUHI	8	8.I.V 8.N.C 8.U.V 8.H.C 8.I.V	1.5 1.75 1.3 1.75 0.8	inoʔi	0	404
+14299	omie	1498_TWO	nioʔi	nioʔi	n i o ʔ i	two	dutton2010	1325	4 7 7 1 7	AXYBZ	NIUHI	7	7.N.C 7.I.V 7.U.V 7.H.C 7.I.V	2.0 1.5 1.3 1.75 0.8	nioʔi	0	398
+#
+14519	ese	1501_BORE	titi|-o	-o	o	drill	dutton2010	1379	7	X	U	1	1.U.V	1.5	o	0	405
+14518	north-barai	1501_BORE	titu-a	titu-a	t i t u + a	make a small hole in	dutton2010	1379	1 7 1 7 9 7	AXBZ_X	TITY_A	6	6.T.C 6.I.V 6.T.C 6.Y.V 6._._ 6.A.V	2.0 1.5 1.75 0.8 0.0 1.5	titu+a	0	406
+#
+14769	mountain-koiari	1507_FRUIT	bai-fe	bai-fe	b a i + f e	fruit	dutton2010	1428	1 7 7 9 3 7	AXZ_AX	PAI_BE	5	5.P.C 5.A.V 5.I.V 5._._ 5.B.C 5.E.V	2.0 1.5 0.8 0.0 2.0 1.5	bai+fe	0	407
+14770	omie	1507_FRUIT	baj-e	baj-e	b a j + e	fruit	dutton2010	1428	1 7 6 9 7	AXN_X	PAJ_E	7	7.P.C 7.A.V 7.J.c 7._._ 7.E.V	2.0 1.5 0.8 0.0 1.5	baj+e	0	408
+#
+15605	koitabu	1509_MOSQUITO	una	una	u n a	mosquito	dutton2010	1587	7 4 7	XBZ	YNA	4	4.Y.V 4.N.C 4.A.V	1.5 1.75 0.8	una	0	409
+15606	mountain-koiari	1509_MOSQUITO	unu|ku	ku	k u	gnat	dutton2010	1587	1 7	AX	KY	5	5.K.C 5.Y.V	2.0 1.5	ku	0	410
+#
+14838	mountain-koiari	1519_RUN	dibu-	dibu-	d i b u	run	dutton2010	1439	1 7 1 7	AXBZ	TIPY	5	5.T.C 5.I.V 5.P.C 5.Y.V	2.0 1.5 1.75 0.8	dibu	0	411
+14839	north-barai	1519_RUN	difu|ri	ri	r i	run	dutton2010	1439	5 7	AX	RI	6	6.R.C 6.I.V	2.0 1.5	ri	0	412
+#
+79318	ese	1553_MALE	paru-a	paru-a	p a r u + a	man, male, husband	dutton2010	8	1 7 5 7 9 7	AXBZ_X	PARY_A	1	1.P.C 1.A.V 1.R.C 1.Y.V 1._._ 1.A.V	2.0 1.5 1.75 0.8 0.0 1.5	paru+a	1	413
+#
+15557	koitabu	1554_MAN	ata	ata	a t a	man	dutton2010	1575	7 1 7	XBZ	ATA	4	4.A.V 4.T.C 4.A.V	1.5 1.75 0.8	ata	0	415
+15558	grass-koiari	1554_MAN	ata	ata	a t a	man	dutton2010	1575	7 1 7	XBZ	ATA	2	2.A.V 2.T.C 2.A.V	1.5 1.75 0.8	ata	0	415
+15559	mountain-koiari	1554_MAN	ata	ata	a t a	person, people	dutton2010	1575	7 1 7	XBZ	ATA	5	5.A.V 5.T.C 5.A.V	1.5 1.75 0.8	ata	0	415
+14224	ese	1554_MAN	paru-a	paru-a	p a r u + a	man, male, husband	dutton2010	1307	1 7 5 7 9 7	AXBZ_X	PARY_A	1	1.P.C 1.A.V 1.R.C 1.Y.V 1._._ 1.A.V	2.0 1.5 1.75 0.8 0.0 1.5	paru+a	0	414
+#
+15500	koitabu	1558_SIMILAR	naɣate	naɣate	n a ɣ a t e	be like, resemble	dutton2010	1560	4 7 3 7 1 7	AXBYBZ	NAGATE	4	4.N.C 4.A.V 4.G.C 4.A.V 4.T.C 4.E.V	2.0 1.5 1.75 1.3 1.75 0.8	naɣate	0	417
+15501	grass-koiari	1558_SIMILAR	navate	navate	n a v a t e	like, resemble, similar	dutton2010	1560	4 7 3 7 1 7	AXBYBZ	NABATE	2	2.N.C 2.A.V 2.B.C 2.A.V 2.T.C 2.E.V	2.0 1.5 1.75 1.3 1.75 0.8	navate	0	416
+15502	mountain-koiari	1558_SIMILAR	nahate	nahate	n a h a t e	like, similar	dutton2010	1560	4 7 3 7 1 7	AXBYBZ	NAHATE	5	5.N.C 5.A.V 5.H.C 5.A.V 5.T.C 5.E.V	2.0 1.5 1.75 1.3 1.75 0.8	nahate	0	418
+#
+14567	ese	155_CHOP	vuijo	vuijo	v u i j o	cut down with axe	dutton2010	1391	3 7 7 6 7	AXYBZ	BYIJU	1	1.B.C 1.Y.V 1.I.V 1.J.C 1.U.V	2.0 1.5 1.3 1.75 0.8	vuijo	0	419
+14566	south-barai	155_CHOP	veda	veda	v e d a	chop wood	dutton2010	1391	3 7 1 7	AXBZ	BETA	8	8.B.C 8.E.V 8.T.C 8.A.V	2.0 1.5 1.75 0.8	veda	0	421
+14565	omie	155_CHOP	(idze) uedz-	_uedz-	u e d z	chop (wood)	dutton2010	1391	7 7 1 3	XYBC	YETS	7	7.Y.V 7.E.V 7.T.C 7.S.C	1.5 1.3 1.75 1.5	uedz	0	420
+#
+14391	north-barai	156_RED	kavu|ame	ame	a m e	red, blood	dutton2010	1348	7 4 7	XBZ	AME	6	6.A.V 6.M.C 6.E.V	1.5 1.75 0.8	ame	0	422
+14392	south-barai	156_RED	ʔabo	ʔabo	ʔ a b o	red	dutton2010	1348	1 7 1 7	AXBZ	HAPU	8	8.H.C 8.A.V 8.P.C 8.U.V	2.0 1.5 1.75 0.8	ʔabo	0	424
+14390	omie	156_RED	kavu|ëʔe	ëʔe	ë/e ʔ e	red	dutton2010	1348	7 1 7	XBZ	EHE	7	7.E.V 7.H.C 7.E.V	1.5 1.75 0.8	ë/eʔe	0	423
+#
+15550	grass-koiari	1577_AND	NP-ta...NP-ta	NP-ta...NP-ta	t a + t a	NP and NP	dutton2010	1573	1 7 9 1 7	AX_AX	TA_TA	2	2.T.C 2.A.V 2._._ 2.T.C 2.A.V	2.0 1.5 0.0 2.0 1.5	ta+ta	0	426
+15551	mountain-koiari	1577_AND	NP-ta...NP-ta	NP-ta...NP-ta	t a + t a	NP and NP	dutton2010	1573	1 7 9 1 7	AX_AX	TA_TA	5	5.T.C 5.A.V 5._._ 5.T.C 5.A.V	2.0 1.5 0.0 2.0 1.5	ta+ta	0	426
+14594	ese	1577_AND	-o...-o	-o...-o	o + o	and, with, also	dutton2010	1398	7 9 7	X_X	U_U	1	1.U.V 1._._ 1.U.V	1.5 0.0 1.5	o+o	0	425
+14593	south-barai	1577_AND	-ʔo...-ʔo	-ʔo...-ʔo	ʔ o + ʔ o	and (joining nouns)	dutton2010	1398	1 7 9 1 7	AX_AX	HU_HU	8	8.H.C 8.U.V 8._._ 8.H.C 8.U.V	2.0 1.5 0.0 2.0 1.5	ʔo+ʔo	0	425
+14592	omie	1577_AND	-ʔo...-ʔo	-ʔo...-ʔo	ʔ o + ʔ o	and, with, also	dutton2010	1398	1 7 9 1 7	AX_AX	HU_HU	7	7.H.C 7.U.V 7._._ 7.H.C 7.U.V	2.0 1.5 0.0 2.0 1.5	ʔo+ʔo	0	425
+#
+15608	koitabu	1580_ONLY	unaɣe	unaɣe	u n a ɣ e	only	dutton2010	1588	7 4 7 3 7	XBYBZ	YNAGE	4	4.Y.V 4.N.C 4.A.V 4.G.C 4.E.V	1.5 1.75 1.3 1.75 0.8	unaɣe	0	427
+15609	grass-koiari	1580_ONLY	unae	unae	u n a e	only	dutton2010	1588	7 4 7 7	XBYZ	YNAE	2	2.Y.V 2.N.C 2.A.V 2.E.V	1.5 1.75 1.3 0.8	unae	0	427
+15610	mountain-koiari	1580_ONLY	unaha	unaha	u n a h a	only	dutton2010	1588	7 4 7 3 7	XBYBZ	YNAHA	5	5.Y.V 5.N.C 5.A.V 5.H.C 5.A.V	1.5 1.75 1.3 1.75 0.8	unaha	0	427
+#
+14465	ese	1585_SLEEP	nej-o	nej-o	n e j + o	sleep	dutton2010	1365	4 7 6 9 7	AXN_X	NEJ_U	1	1.N.C 1.E.V 1.J.c 1._._ 1.U.V	2.0 1.5 0.8 0.0 1.5	nej+o	0	428
+14463	north-barai	1585_SLEEP	nina-e	nina-e	n i n a + e	sleep	dutton2010	1365	4 7 4 7 9 7	AXBZ_X	NINA_E	6	6.N.C 6.I.V 6.N.C 6.A.V 6._._ 6.E.V	2.0 1.5 1.75 0.8 0.0 1.5	nina+e	0	429
+14464	south-barai	1585_SLEEP	nai-	nai-	n a i	sleep	dutton2010	1365	4 7 7	AXZ	NAI	8	8.N.C 8.A.V 8.I.V	2.0 1.5 0.8	nai	0	431
+14462	omie	1585_SLEEP	nia|v-e	v-e	v + e	sleep	dutton2010	1365	3 9 7	A_X	B_E	7	7.B.C 7._._ 7.E.V	2.0 0.0 1.5	v+e	1	430
+#
+14941	mountain-koiari	159_SWEET_POTATO	gobeu	gobeu	g o b e u	sweet potato	dutton2010	1458	1 7 1 7 7	AXBYZ	KUPEY	5	5.K.C 5.U.V 5.P.C 5.E.V 5.Y.V	2.0 1.5 1.75 1.3 0.8	gobeu	0	432
+14943	south-barai	159_SWEET_POTATO	gobeʔu	gobeʔu	g o b e ʔ u	sweet potato	dutton2010	1458	1 7 1 7 1 7	AXBYBZ	KUPEHY	8	8.K.C 8.U.V 8.P.C 8.E.V 8.H.C 8.Y.V	2.0 1.5 1.75 1.3 1.75 0.8	gobeʔu	0	432
+14942	omie	159_SWEET_POTATO	göbi-e:	göbi-e:	g ö b i + eː	sweet potato	dutton2010	1458	1 7 1 7 9 7	AXBZ_X	KUPI_E	7	7.K.C 7.U.V 7.P.C 7.I.V 7._._ 7.E.V	2.0 1.5 1.75 0.8 0.0 1.5	göbi+eː	0	432
+#
+14249	ese	1620_SON	hari|h-a	h-a	h + a	son, nephew	dutton2010	1313	3 9 7	A_X	H_A	1	1.H.C 1._._ 1.A.V	2.0 0.0 1.5	h+a	1	433
+14247	north-barai	1620_SON	fari	fari	f a r i	son	dutton2010	1313	3 7 5 7	AXBZ	BARI	6	6.B.C 6.A.V 6.R.C 6.I.V	2.0 1.5 1.75 0.8	fari	0	434
+14248	south-barai	1620_SON	vari	vari	v a r i	son	dutton2010	1313	3 7 5 7	AXBZ	BARI	8	8.B.C 8.A.V 8.R.C 8.I.V	2.0 1.5 1.75 0.8	vari	0	436
+14246	omie	1620_SON	hari|h-e	h-e	h + e	son	dutton2010	1313	3 9 7	A_X	H_E	7	7.H.C 7._._ 7.E.V	2.0 0.0 1.5	h+e	1	433
+#
+15119	koitabu	1621_SNEEZE	asi|mana-va-nu	mana-va-nu	m a n a + v a + n u	sneeze	dutton2010	1488	4 7 4 7 9 3 7 9 4 7	AXBZ_AX_AX	MANA_BA_NY	4	4.M.C 4.A.V 4.N.C 4.A.V 4._._ 4.B.C 4.A.V 4._._ 4.N.C 4.Y.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5 0.0 2.0 1.5	mana+va+nu	0	439
+15120	grass-koiari	1621_SNEEZE	akisi-va-nu	akisi-va-nu	a k i s i + v a + n u	sneeze	dutton2010	1488	7 1 7 3 7 9 3 7 9 4 7	XBYBZ_AX_AX	AKISI_BA_NY	2	2.A.V 2.K.C 2.I.V 2.S.C 2.I.V 2._._ 2.B.C 2.A.V 2._._ 2.N.C 2.Y.V	1.5 1.75 1.3 1.75 0.8 0.0 2.0 1.5 0.0 2.0 1.5	akisi+va+nu	0	438
+15121	mountain-koiari	1621_SNEEZE	akisi-a	akisi-a	a k i s i + a	sneeze	dutton2010	1488	7 1 7 3 7 9 7	XBYBZ_X	AKISI_A	5	5.A.V 5.K.C 5.I.V 5.S.C 5.I.V 5._._ 5.A.V	1.5 1.75 1.3 1.75 0.8 0.0 1.5	akisi+a	0	438
+15123	ese	1621_SNEEZE	asi|puej-o	puej-o	p u e j + o	sneeze	dutton2010	1488	1 7 7 6 9 7	AXYN_X	PYEJ_U	1	1.P.C 1.Y.V 1.E.V 1.J.c 1._._ 1.U.V	2.0 1.5 1.3 0.8 0.0 1.5	puej+o	0	437
+15122	north-barai	1621_SNEEZE	asi|nuf-ie	nuf-ie	n u f + i e	sneeze	dutton2010	1488	4 7 3 9 7 7	AXN_XZ	NYB_IE	6	6.N.C 6.Y.V 6.B.c 6._._ 6.I.V 6.E.V	2.0 1.5 0.8 0.0 1.5 0.8	nuf+ie	0	441
+#
+14677	koitabu	1629_faceforehead	vari	vari	v a r i	forehead	dutton2010	1414	3 7 5 7	AXBZ	BARI	4	4.B.C 4.A.V 4.R.C 4.I.V	2.0 1.5 1.75 0.8	vari	0	443
+14678	grass-koiari	1629_faceforehead	vari-ka	vari-ka	v a r i + k a	face, front of	dutton2010	1414	3 7 5 7 9 1 7	AXBZ_AX	BARI_KA	2	2.B.C 2.A.V 2.R.C 2.I.V 2._._ 2.K.C 2.A.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5	vari+ka	0	443
+14679	mountain-koiari	1629_faceforehead	vali	vali	v a l i	forehead	dutton2010	1414	3 7 5 7	AXBZ	BALI	5	5.B.C 5.A.V 5.L.C 5.I.V	2.0 1.5 1.75 0.8	vali	0	443
+14682	ese	1629_faceforehead	vari|ar-a	ar-a	a r + a	face	dutton2010	1414	7 5 9 7	XN_X	AR_A	1	1.A.V 1.R.c 1._._ 1.A.V	1.5 0.8 0.0 1.5	ar+a	0	442
+14683	ese	1629_faceforehead	vari|naʔi	naʔi	n a ʔ i	in front of	dutton2010	1414	4 7 1 7	AXBZ	NAHI	1	1.N.C 1.A.V 1.H.C 1.I.V	2.0 1.5 1.75 0.8	naʔi	0	448
+14681	south-barai	1629_faceforehead	vare	vare	v a r e	forehead	dutton2010	1414	3 7 5 7	AXBZ	BARE	8	8.B.C 8.A.V 8.R.C 8.E.V	2.0 1.5 1.75 0.8	vare	0	443
+14680	omie	1629_faceforehead	vari|j-e	j-e	j + e	forehead	dutton2010	1414	6 9 7	A_X	J_E	7	7.J.C 7._._ 7.E.V	2.0 0.0 1.5	j+e	0	446
+#
+14309	ese	163_BLACK	aja	aja	a j a	black	dutton2010	1327	7 6 7	XBZ	AJA	1	1.A.V 1.J.C 1.A.V	1.5 1.75 0.8	aja	0	449
+14308	south-barai	163_BLACK	aja	aja	a j a	black	dutton2010	1327	7 6 7	XBZ	AJA	8	8.A.V 8.J.C 8.A.V	1.5 1.75 0.8	aja	0	449
+#
+14360	ese	1644_RELATIVES	-(j)ora	-ora	o r a	RELATIVE	dutton2010	1340	7 5 7	XBZ	URA	1	1.U.V 1.R.C 1.A.V	1.5 1.75 0.8	ora	0	450
+14359	south-barai	1644_RELATIVES	-joru	-joru	j o r u	RELATIVE	dutton2010	1340	6 7 5 7	AXBZ	JURY	8	8.J.C 8.U.V 8.R.C 8.Y.V	2.0 1.5 1.75 0.8	joru	1	451
+#
+15314	koitabu	1645_SHORT	tuake	tuake	t u a k e	short	dutton2010	1517	1 7 7 1 7	AXYBZ	TYAKE	4	4.T.C 4.Y.V 4.A.V 4.K.C 4.E.V	2.0 1.5 1.3 1.75 0.8	tuake	0	453
+15315	grass-koiari	1645_SHORT	duaka	duaka	d u a k a	short	dutton2010	1517	1 7 7 1 7	AXYBZ	TYAKA	2	2.T.C 2.Y.V 2.A.V 2.K.C 2.A.V	2.0 1.5 1.3 1.75 0.8	duaka	0	453
+15316	ese	1645_SHORT	tuʔua	tuʔua	t u ʔ u a	short	dutton2010	1517	1 7 1 7 7	AXBYZ	TYHYA	1	1.T.C 1.Y.V 1.H.C 1.Y.V 1.A.V	2.0 1.5 1.75 1.3 0.8	tuʔua	0	452
+#
+15338	koitabu	1667_HOLE	aba	aba	a b a	hole (in ground)	dutton2010	1521	7 1 7	XBZ	APA	4	4.A.V 4.P.C 4.A.V	1.5 1.75 0.8	aba	0	455
+15339	grass-koiari	1667_HOLE	aba	aba	a b a	hole (in ground)	dutton2010	1521	7 1 7	XBZ	APA	2	2.A.V 2.P.C 2.A.V	1.5 1.75 0.8	aba	0	455
+15340	mountain-koiari	1667_HOLE	aba	aba	a b a	hole (in ground)	dutton2010	1521	7 1 7	XBZ	APA	5	5.A.V 5.P.C 5.A.V	1.5 1.75 0.8	aba	0	455
+14430	ese	1667_HOLE	maʔo-a	maʔo-a	m a ʔ o + a	hole	dutton2010	1356	4 7 1 7 9 7	AXBZ_X	MAHU_A	1	1.M.C 1.A.V 1.H.C 1.U.V 1._._ 1.A.V	2.0 1.5 1.75 0.8 0.0 1.5	maʔo+a	0	454
+14429	north-barai	1667_HOLE	mako	mako	m a k o	hole in ground	dutton2010	1356	4 7 1 7	AXBZ	MAKU	6	6.M.C 6.A.V 6.K.C 6.U.V	2.0 1.5 1.75 0.8	mako	0	458
+#
+14816	mountain-koiari	1683_BUSH	boto	boto	b o t o	bush	dutton2010	1435	1 7 1 7	AXBZ	PUTU	5	5.P.C 5.U.V 5.T.C 5.U.V	2.0 1.5 1.75 0.8	boto	0	460
+14357	ese	1683_BUSH	ne|chiʔ-a	chiʔ-a	c h i ʔ + a	bush	dutton2010	1339	1 3 7 1 9 7	ACXN_X	CHIH_A	1	1.C.C 1.H.C 1.I.V 1.H.c 1._._ 1.A.V	2.0 1.5 1.5 0.8 0.0 1.5	chiʔ+a	0	459
+14817	south-barai	1683_BUSH	boto	boto	b o t o	bush	dutton2010	1435	1 7 1 7	AXBZ	PUTU	8	8.P.C 8.U.V 8.T.C 8.U.V	2.0 1.5 1.75 0.8	boto	0	460
+14355	omie	1683_BUSH	jeʔ-e	jeʔ-e	j e ʔ + e	bush country	dutton2010	1339	6 7 1 9 7	AXN_X	JEH_E	7	7.J.C 7.E.V 7.H.c 7._._ 7.E.V	2.0 1.5 0.8 0.0 1.5	jeʔ+e	0	461
+14356	omie	1683_BUSH	jeʔ-o:	jeʔ-o:	j e ʔ + oː	bush country	dutton2010	1339	6 7 1 9 7	AXN_X	JEH_U	7	7.J.C 7.E.V 7.H.c 7._._ 7.U.V	2.0 1.5 0.8 0.0 1.5	jeʔ+oː	0	461
+#
+14481	ese	1728_ROTTEN	saka|ha	ha	h a	rotted	dutton2010	1369	3 7	AX	HA	1	1.H.C 1.A.V	2.0 1.5	ha	0	462
+14480	south-barai	1728_ROTTEN	saga|loma	loma	l o m a	ripe (banana)	dutton2010	1369	5 7 4 7	AXBZ	LUMA	8	8.L.C 8.U.V 8.M.C 8.A.V	2.0 1.5 1.75 0.8	loma	0	464
+14478	omie	1728_ROTTEN	sago|m	m	m	rotten thing	dutton2010	1369	4	A	M	7	7.M.C	2.0	m	0	463
+14479	omie	1728_ROTTEN	sago|horije	horije	h o r i j e	rotting	dutton2010	1369	3 7 5 7 6 7	AXBYBZ	HURIJE	7	7.H.C 7.U.V 7.R.C 7.I.V 7.J.C 7.E.V	2.0 1.5 1.75 1.3 1.75 0.8	horije	0	465
+#
+15561	koitabu	1748_RIDGE	tana	tana	t a n a	raised land, ridge	dutton2010	1576	1 7 4 7	AXBZ	TANA	4	4.T.C 4.A.V 4.N.C 4.A.V	2.0 1.5 1.75 0.8	tana	0	466
+15562	grass-koiari	1748_RIDGE	tana	tana	t a n a	ridge of land	dutton2010	1576	1 7 4 7	AXBZ	TANA	2	2.T.C 2.A.V 2.N.C 2.A.V	2.0 1.5 1.75 0.8	tana	0	466
+15563	mountain-koiari	1748_RIDGE	tana	tana	t a n a	mountain	dutton2010	1576	1 7 4 7	AXBZ	TANA	5	5.T.C 5.A.V 5.N.C 5.A.V	2.0 1.5 1.75 0.8	tana	1	466
+#
+15330	koitabu	175_BLOW_OF_WIND	uhu-	uhu-	u h u	blow (fire)	dutton2010	13644	7 3 7	XBZ	YHY	4	4.Y.V 4.H.C 4.Y.V	1.5 1.75 0.8	uhu	0	469
+15331	grass-koiari	175_BLOW_OF_WIND	uhi|to-	to-	t o	blow (fire)	dutton2010	13644	1 7	AX	TU	2	2.T.C 2.U.V	2.0 1.5	to	1	468
+15332	mountain-koiari	175_BLOW_OF_WIND	uvu	uvu	u v u	blow (with mouth)	dutton2010	13644	7 3 7	XBZ	YBY	5	5.Y.V 5.B.C 5.Y.V	1.5 1.75 0.8	uvu	1	470
+14257	ese	175_BLOW_OF_WIND	huási|ho	ho	h o	blow	dutton2010	1315	3 7	AX	HU	1	1.H.C 1.U.V	2.0 1.5	ho	0	467
+15336	ese	175_BLOW_OF_WIND	huasi|h-o	h-o	h + o	blow	dutton2010	13644	3 9 7	A_X	H_U	1	1.H.C 1._._ 1.U.V	2.0 0.0 1.5	h+o	0	474
+15334	north-barai	175_BLOW_OF_WIND	ufi	ufi	u f i	blow (wind)	dutton2010	13644	7 3 7	XBZ	YBI	6	6.Y.V 6.B.C 6.I.V	1.5 1.75 0.8	ufi	0	471
+14256	south-barai	175_BLOW_OF_WIND	uasi	uasi	u a s i	blow (fire)	dutton2010	1315	7 7 3 7	XYBZ	YASI	8	8.Y.V 8.A.V 8.S.C 8.I.V	1.5 1.3 1.75 0.8	uasi	0	473
+14255	omie	175_BLOW_OF_WIND	huô-huô|v-e	v-e	v + e	blow on fire (to stir up)	dutton2010	1315	3 9 7	A_X	B_E	7	7.B.C 7._._ 7.E.V	2.0 0.0 1.5	v+e	1	472
+15333	omie	175_BLOW_OF_WIND	huô huô|v-e	v-e	v + e	blow on fire (to stir up)	dutton2010	13644	3 9 7	A_X	B_E	7	7.B.C 7._._ 7.E.V	2.0 0.0 1.5	v+e	1	472
+#
+14516	ese	1767_SCRAPE	tatia|h-o	h-o	h + o	scrape off	dutton2010	1378	3 9 7	A_X	H_U	1	1.H.C 1._._ 1.U.V	2.0 0.0 1.5	h+o	1	475
+14515	north-barai	1767_SCRAPE	adi-a	adi-a	a d i + a	plane, scrape off	dutton2010	1378	7 1 7 9 7	XBZ_X	ATI_A	6	6.A.V 6.T.C 6.I.V 6._._ 6.A.V	1.5 1.75 0.8 0.0 1.5	adi+a	0	476
+#
+14935	mountain-koiari	1786_DRY_UP	gili|a	a	a	dry out	dutton2010	1457	7	X	A	5	5.A.V	1.5	a	1	478
+14939	ese	1786_DRY_UP	kira|nana	nana	n a n a	dry (clothes)	dutton2010	1457	4 7 4 7	AXBZ	NANA	1	1.N.C 1.A.V 1.N.C 1.A.V	2.0 1.5 1.75 0.8	nana	0	477
+14937	north-barai	1786_DRY_UP	iria|eki	eki	e k i	dry (not wet)	dutton2010	1457	7 1 7	XBZ	EKI	6	6.E.V 6.K.C 6.I.V	1.5 1.75 0.8	eki	0	479
+14938	north-barai	1786_DRY_UP	iria|r-e	r-e	r + e	dry (stg), dry (adj)	dutton2010	1457	5 9 7	A_X	R_E	6	6.R.C 6._._ 6.E.V	2.0 0.0 1.5	r+e	0	481
+14936	omie	1786_DRY_UP	giri|he	he	h e	dry (clothes)	dutton2010	1457	3 7	AX	HE	7	7.H.C 7.E.V	2.0 1.5	he	1	478
+#
+14764	koitabu	178_RIPE	bae|ka	ka	k a	ripe	dutton2010	1427	1 7	AX	KA	4	4.K.C 4.A.V	2.0 1.5	ka	0	482
+14765	grass-koiari	178_RIPE	bae|ka	ka	k a	ripe	dutton2010	1427	1 7	AX	KA	2	2.K.C 2.A.V	2.0 1.5	ka	0	482
+14766	mountain-koiari	178_RIPE	bae|a	a	a	to be ripe, ready to pick	dutton2010	1427	7	X	A	5	5.A.V	1.5	a	1	484
+14767	north-barai	178_RIPE	bae|je	je	j e	ripe	dutton2010	1427	6 7	AX	JE	6	6.J.C 6.E.V	2.0 1.5	je	0	485
+#
+15641	grass-koiari	1791_BUTTERFLY	avako	avako	a v a k o	butterfly	dutton2010	1597	7 3 7 1 7	XBYBZ	ABAKU	2	2.A.V 2.B.C 2.A.V 2.K.C 2.U.V	1.5 1.75 1.3 1.75 0.8	avako	0	486
+15642	mountain-koiari	1791_BUTTERFLY	uako	uako	u a k o	butterfly	dutton2010	1597	7 7 1 7	XYBZ	YAKU	5	5.Y.V 5.A.V 5.K.C 5.U.V	1.5 1.3 1.75 0.8	uako	0	487
+#
+14690	koitabu	1836_VAGINA	ve	ve	v e	vagina	dutton2010	1416	3 7	AX	BE	4	4.B.C 4.E.V	2.0 1.5	ve	0	489
+14691	grass-koiari	1836_VAGINA	ve	ve	v e	vagina	dutton2010	1416	3 7	AX	BE	2	2.B.C 2.E.V	2.0 1.5	ve	0	489
+14693	ese	1836_VAGINA	va|ju-a	ju-a	j u + a	vagina	dutton2010	1416	6 7 9 7	AX_X	JY_A	1	1.J.C 1.Y.V 1._._ 1.A.V	2.0 1.5 0.0 1.5	ju+a	0	488
+14692	omie	1836_VAGINA	vë	vë	v ë/e	vagina	dutton2010	1416	3 7	AX	BE	7	7.B.C 7.E.V	2.0 1.5	vë/e	0	489
+#
+15368	koitabu	1838_NAVEL	demodo|ne	ne	n e	navel	dutton2010	1529	4 7	AX	NE	4	4.N.C 4.E.V	2.0 1.5	ne	0	492
+15369	koitabu	1838_NAVEL	demona	demona	d e m o n a	navel	dutton2010	1529	1 7 4 7 4 7	AXBYBZ	TEMUNA	4	4.T.C 4.E.V 4.M.C 4.U.V 4.N.C 4.A.V	2.0 1.5 1.75 1.3 1.75 0.8	demona	0	493
+15370	grass-koiari	1838_NAVEL	demodi|nika	nika	n i k a	navel	dutton2010	1529	4 7 1 7	AXBZ	NIKA	2	2.N.C 2.I.V 2.K.C 2.A.V	2.0 1.5 1.75 0.8	nika	0	491
+15371	mountain-koiari	1838_NAVEL	demodo	demodo	d e m o d o	navel	dutton2010	1529	1 7 4 7 1 7	AXBYBZ	TEMUTU	5	5.T.C 5.E.V 5.M.C 5.U.V 5.T.C 5.U.V	2.0 1.5 1.75 1.3 1.75 0.8	demodo	0	493
+14433	ese	1838_NAVEL	mi|sip-a	sip-a	s i p + a	navel	dutton2010	1357	3 7 1 9 7	AXN_X	SIP_A	1	1.S.C 1.I.V 1.P.c 1._._ 1.A.V	2.0 1.5 0.8 0.0 1.5	sip+a	0	490
+14432	south-barai	1838_NAVEL	me|mei	mei	m e i	navel	dutton2010	1357	4 7 7	AXZ	MEI	8	8.M.C 8.E.V 8.I.V	2.0 1.5 0.8	mei	0	495
+14563	south-barai	1838_NAVEL	vinohu	vinohu	v i n o h u	navel	dutton2010	1390	3 7 4 7 3 7	AXBYBZ	BINUHY	8	8.B.C 8.I.V 8.N.C 8.U.V 8.H.C 8.Y.V	2.0 1.5 1.75 1.3 1.75 0.8	vinohu	0	494
+14562	omie	1838_NAVEL	vinoh-e	vinoh-e	v i n o h + e	navel and umbilical cord	dutton2010	1390	3 7 4 7 3 9 7	AXBYN_X	BINUH_E	7	7.B.C 7.I.V 7.N.C 7.U.V 7.H.c 7._._ 7.E.V	2.0 1.5 1.75 1.3 0.8 0.0 1.5	vinoh+e	0	494
+#
+15170	koitabu	1839_CRY	ni|vi-	vi-	v i	cry (sg subj)	dutton2010	1496	3 7	AX	BI	4	4.B.C 4.I.V	2.0 1.5	vi	0	497
+15171	grass-koiari	1839_CRY	ni|va-	va-	v a	cry (sg subj)	dutton2010	1496	3 7	AX	BA	2	2.B.C 2.A.V	2.0 1.5	va	0	497
+15172	grass-koiari	1839_CRY	nina|va-	va-	v a	cry (sg subj)	dutton2010	1496	3 7	AX	BA	2	2.B.C 2.A.V	2.0 1.5	va	1	497
+15173	mountain-koiari	1839_CRY	nina-	nina-	n i n a	cry, wail	dutton2010	1496	4 7 4 7	AXBZ	NINA	5	5.N.C 5.I.V 5.N.C 5.A.V	2.0 1.5 1.75 0.8	nina	0	499
+15177	ese	1839_CRY	ni|rav-o	rav-o	r a v + o	cry, weep	dutton2010	1496	5 7 3 9 7	AXN_X	RAB_U	1	1.R.C 1.A.V 1.B.c 1._._ 1.U.V	2.0 1.5 0.8 0.0 1.5	rav+o	0	496
+15175	north-barai	1839_CRY	ni|me-	me-	m e	cry	dutton2010	1496	4 7	AX	ME	6	6.M.C 6.E.V	2.0 1.5	me	1	500
+15176	south-barai	1839_CRY	ni-	ni-	n i	cry	dutton2010	1496	4 7	AX	NI	8	8.N.C 8.I.V	2.0 1.5	ni	1	502
+15174	omie	1839_CRY	ni|voru|m-e	m-e	m + e	cry (pl subj)	dutton2010	1496	4 9 7	A_X	M_E	7	7.M.C 7._._ 7.E.V	2.0 0.0 1.5	m+e	0	501
+#
+14736	koitabu	1879_DANCE	yava|ya	ya	j a	dance (n)	dutton2010	1423	6 7	AX	JA	4	4.J.C 4.A.V	2.0 1.5	ja	1	504
+14737	koitabu	1879_DANCE	yava|yava-nu	yava-nu	j a v a + n u	danced (v)	dutton2010	1423	6 7 3 7 9 4 7	AXBZ_AX	JABA_NY	4	4.J.C 4.A.V 4.B.C 4.A.V 4._._ 4.N.C 4.Y.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5	java+nu	0	506
+14741	ese	1879_DANCE	java |vej-o	vej-o	v e j + o	sing	dutton2010	1423	3 7 6 9 7	AXN_X	BEJ_U	1	1.B.C 1.E.V 1.J.c 1._._ 1.U.V	2.0 1.5 0.8 0.0 1.5	vej+o	0	503
+14738	omie	1879_DANCE	java-|ho	ho	h o	dance	dutton2010	1423	3 7	AX	HU	7	7.H.C 7.U.V	2.0 1.5	ho	0	505
+14739	omie	1879_DANCE	java|j-e	j-e	j + e	dance	dutton2010	1423	6 9 7	A_X	J_E	7	7.J.C 7._._ 7.E.V	2.0 0.0 1.5	j+e	1	507
+14740	omie	1879_DANCE	java|v-e	v-e	v + e	dance	dutton2010	1423	3 9 7	A_X	B_E	7	7.B.C 7._._ 7.E.V	2.0 0.0 1.5	v+e	0	508
+#
+15542	koitabu	1882_BEFORE	subuta	subuta	s u b u t a	long ago, before, old	dutton2010	1571	3 7 1 7 1 7	AXBYBZ	SYPYTA	4	4.S.C 4.Y.V 4.P.C 4.Y.V 4.T.C 4.A.V	2.0 1.5 1.75 1.3 1.75 0.8	subuta	0	509
+15543	grass-koiari	1882_BEFORE	subuta	subuta	s u b u t a	long ago, before, old	dutton2010	1571	3 7 1 7 1 7	AXBYBZ	SYPYTA	2	2.S.C 2.Y.V 2.P.C 2.Y.V 2.T.C 2.A.V	2.0 1.5 1.75 1.3 1.75 0.8	subuta	0	509
+15544	mountain-koiari	1882_BEFORE	subuta	subuta	s u b u t a	before	dutton2010	1571	3 7 1 7 1 7	AXBYBZ	SYPYTA	5	5.S.C 5.Y.V 5.P.C 5.Y.V 5.T.C 5.A.V	2.0 1.5 1.75 1.3 1.75 0.8	subuta	0	509
+#
+15203	koitabu	1895_CLOTHES	ogona	ogona	o g o n a	cloth, clothes	dutton2010	1500	7 1 7 4 7	XBYBZ	UKUNA	4	4.U.V 4.K.C 4.U.V 4.N.C 4.A.V	1.5 1.75 1.3 1.75 0.8	ogona	0	510
+15204	grass-koiari	1895_CLOTHES	ogona	ogona	o g o n a	cloth, clothes	dutton2010	1500	7 1 7 4 7	XBYBZ	UKUNA	2	2.U.V 2.K.C 2.U.V 2.N.C 2.A.V	1.5 1.75 1.3 1.75 0.8	ogona	0	510
+15205	mountain-koiari	1895_CLOTHES	ogo	ogo	o g o	cloth, clothes	dutton2010	1500	7 1 7	XBZ	UKU	5	5.U.V 5.K.C 5.U.V	1.5 1.75 0.8	ogo	0	510
+15206	north-barai	1895_CLOTHES	ugon-e	ugon-e	u g o n + e	clothes, piece of cloth	dutton2010	1500	7 1 7 4 9 7	XBYN_X	YKUN_E	6	6.Y.V 6.K.C 6.U.V 6.N.c 6._._ 6.E.V	1.5 1.75 1.3 0.8 0.0 1.5	ugon+e	0	510
+15207	south-barai	1895_CLOTHES	ogona	ogona	o g o n a	clothes	dutton2010	1500	7 1 7 4 7	XBYBZ	UKUNA	8	8.U.V 8.K.C 8.U.V 8.N.C 8.A.V	1.5 1.75 1.3 1.75 0.8	ogona	0	510
+#
+14904	koitabu	189_HAIR_BODY	homo-ka	homo-ka	h o m o + k a	hair	dutton2010	1451	3 7 4 7 9 1 7	AXBZ_AX	HUMU_KA	4	4.H.C 4.U.V 4.M.C 4.U.V 4._._ 4.K.C 4.A.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5	homo+ka	0	511
+14905	grass-koiari	189_HAIR_BODY	homo-ka	homo-ka	h o m o + k a	hair	dutton2010	1451	3 7 4 7 9 1 7	AXBZ_AX	HUMU_KA	2	2.H.C 2.U.V 2.M.C 2.U.V 2._._ 2.K.C 2.A.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5	homo+ka	0	511
+14906	mountain-koiari	189_HAIR_BODY	vomo	vomo	v o m o	hair, fur, feather	dutton2010	1451	3 7 4 7	AXBZ	BUMU	5	5.B.C 5.U.V 5.M.C 5.U.V	2.0 1.5 1.75 0.8	vomo	0	514
+14908	ese	189_HAIR_BODY	humat-a	humat-a	h u m a t + a	hair,head	dutton2010	1451	3 7 4 7 1 9 7	AXBYN_X	HYMAT_A	1	1.H.C 1.Y.V 1.M.C 1.A.V 1.T.c 1._._ 1.A.V	2.0 1.5 1.75 1.3 0.8 0.0 1.5	humat+a	0	511
+14907	north-barai	189_HAIR_BODY	u	u	u	fur	dutton2010	1451	7	X	Y	6	6.Y.V	1.5	u	0	515
+#
+15308	mountain-koiari	1917_TIE	umuva	umuva	u m u v a	tie, fasten	dutton2010	1516	7 4 7 3 7	XBYBZ	YMYBA	5	5.Y.V 5.M.C 5.Y.V 5.B.C 5.A.V	1.5 1.75 1.3 1.75 0.8	umuva	0	516
+15310	north-barai	1917_TIE	tamu	tamu	t a m u	tie string for string bag	dutton2010	1516	1 7 4 7	AXBZ	TAMY	6	6.T.C 6.A.V 6.M.C 6.Y.V	2.0 1.5 1.75 0.8	tamu	0	517
+15311	north-barai	1917_TIE	tamug-e	tamug-e	t a m u g + e	knot	dutton2010	1516	1 7 4 7 1 9 7	AXBYN_X	TAMYK_E	6	6.T.C 6.A.V 6.M.C 6.Y.V 6.K.c 6._._ 6.E.V	2.0 1.5 1.75 1.3 0.8 0.0 1.5	tamug+e	0	517
+15312	south-barai	1917_TIE	tumue-	tumue-	t u m u e	tie rope	dutton2010	1516	1 7 4 7 7	AXBYZ	TYMYE	8	8.T.C 8.Y.V 8.M.C 8.Y.V 8.E.V	2.0 1.5 1.75 1.3 0.8	tumue	0	517
+15309	omie	1917_TIE	duoʔum-e	duoʔum-e	d u o ʔ u m + e	tie around	dutton2010	1516	1 7 7 1 7 4 9 7	AXYBYN_X	TYUHYM_E	7	7.T.C 7.Y.V 7.U.V 7.H.C 7.Y.V 7.M.c 7._._ 7.E.V	2.0 1.5 1.3 1.75 1.3 0.8 0.0 1.5	duoʔum+e	0	518
+#
+14833	koitabu	1935_ANUS	deɣa	deɣa	d e ɣ a	anus, buttocks	dutton2010	1438	1 7 3 7	AXBZ	TEGA	4	4.T.C 4.E.V 4.G.C 4.A.V	2.0 1.5 1.75 0.8	deɣa	0	520
+14834	grass-koiari	1935_ANUS	deva	deva	d e v a	buttocks	dutton2010	1438	1 7 3 7	AXBZ	TEBA	2	2.T.C 2.E.V 2.B.C 2.A.V	2.0 1.5 1.75 0.8	deva	0	519
+14835	omie	1935_ANUS	dëvaʔ-e	dëvaʔ-e	d ë/e v a ʔ + e	internal organs, stomach, liver	dutton2010	1438	1 7 3 7 1 9 7	AXBYN_X	TEBAH_E	7	7.T.C 7.E.V 7.B.C 7.A.V 7.H.c 7._._ 7.E.V	2.0 1.5 1.75 1.3 0.8 0.0 1.5	dë/evaʔ+e	0	519
+14836	omie	1935_ANUS	degag-e	degag-e	d e g a g + e	anus	dutton2010	1438	1 7 1 7 1 9 7	AXBYN_X	TEKAK_E	7	7.T.C 7.E.V 7.K.C 7.A.V 7.K.c 7._._ 7.E.V	2.0 1.5 1.75 1.3 0.8 0.0 1.5	degag+e	0	520
+#
+15142	koitabu	1945_interrogative	-na	-na	n a	question form of specifier (on subject mostly)	dutton2010	1491	4 7	AX	NA	4	4.N.C 4.A.V	2.0 1.5	na	0	521
+15143	grass-koiari	1945_interrogative	-ne	-ne	n e	question form of specifier (on subject mostly)	dutton2010	1491	4 7	AX	NE	2	2.N.C 2.E.V	2.0 1.5	ne	0	521
+15144	mountain-koiari	1945_interrogative	-na	-na	n a	question marker (suffixed to subject)	dutton2010	1491	4 7	AX	NA	5	5.N.C 5.A.V	2.0 1.5	na	0	521
+15146	north-barai	1945_interrogative	-ne	-ne	n e	question marker (on pronoun subject)	dutton2010	1491	4 7	AX	NE	6	6.N.C 6.E.V	2.0 1.5	ne	0	521
+15147	south-barai	1945_interrogative	-ne	-ne	n e	question marker (on pronoun subject)	dutton2010	1491	4 7	AX	NE	8	8.N.C 8.E.V	2.0 1.5	ne	0	521
+15145	omie	1945_interrogative	-na	-na	n a	yes/no interrogative particle, sentence initial	dutton2010	1491	4 7	AX	NA	7	7.N.C 7.A.V	2.0 1.5	na	0	521
+#
+15262	koitabu	1949_BEDBUG	saru	saru	s a r u	bed bug	dutton2010	1508	3 7 5 7	AXBZ	SARY	4	4.S.C 4.A.V 4.R.C 4.Y.V	2.0 1.5 1.75 0.8	saru	0	523
+15263	grass-koiari	1949_BEDBUG	saru	saru	s a r u	bed bug	dutton2010	1508	3 7 5 7	AXBZ	SARY	2	2.S.C 2.A.V 2.R.C 2.Y.V	2.0 1.5 1.75 0.8	saru	0	523
+15265	ese	1949_BEDBUG	tarur-a	tarur-a	t a r u r + a	bed bug	dutton2010	1508	1 7 5 7 5 9 7	AXBYN_X	TARYR_A	1	1.T.C 1.A.V 1.R.C 1.Y.V 1.R.c 1._._ 1.A.V	2.0 1.5 1.75 1.3 0.8 0.0 1.5	tarur+a	0	522
+15264	north-barai	1949_BEDBUG	tarun-a	tarun-a	t a r u n + a	bed bug	dutton2010	1508	1 7 5 7 4 9 7	AXBYN_X	TARYN_A	6	6.T.C 6.A.V 6.R.C 6.Y.V 6.N.c 6._._ 6.A.V	2.0 1.5 1.75 1.3 0.8 0.0 1.5	tarun+a	0	522
+#
+15459	koitabu	1959_RAW	isaɣe	isaɣe	i s a ɣ e	uncooked, raw, young	dutton2010	1550	7 3 7 3 7	XBYBZ	ISAGE	4	4.I.V 4.S.C 4.A.V 4.G.C 4.E.V	1.5 1.75 1.3 1.75 0.8	isaɣe	0	524
+15460	grass-koiari	1959_RAW	isasa	isasa	i s a s a	uncooked, raw, new	dutton2010	1550	7 3 7 3 7	XBYBZ	ISASA	2	2.I.V 2.S.C 2.A.V 2.S.C 2.A.V	1.5 1.75 1.3 1.75 0.8	isasa	0	524
+15461	mountain-koiari	1959_RAW	isate	isate	i s a t e	uncooked	dutton2010	1550	7 3 7 1 7	XBYBZ	ISATE	5	5.I.V 5.S.C 5.A.V 5.T.C 5.E.V	1.5 1.75 1.3 1.75 0.8	isate	0	524
+#
+27353	kamula	2009_DOG	ɛsemala	ɛsemala	ɛ s e m a l a		dutton2010	1	7 3 7 4 7 5 7	XBYBYBZ	ESEMALA	3	3.E.V 3.S.C 3.E.V 3.M.C 3.A.V 3.L.C 3.A.V	1.5 1.75 1.3 1.75 1.3 1.75 0.8	ɛsemala	0	527
+15573	koitabu	2009_DOG	to	to	t o	dog	dutton2010	1579	1 7	AX	TU	4	4.T.C 4.U.V	2.0 1.5	to	0	526
+15574	koitabu	2009_DOG	totoka	totoka	t o t o k a	dog	dutton2010	1579	1 7 1 7 1 7	AXBYBZ	TUTUKA	4	4.T.C 4.U.V 4.T.C 4.U.V 4.K.C 4.A.V	2.0 1.5 1.75 1.3 1.75 0.8	totoka	0	532
+15575	grass-koiari	2009_DOG	to	to	t o	dog	dutton2010	1579	1 7	AX	TU	2	2.T.C 2.U.V	2.0 1.5	to	0	526
+15576	mountain-koiari	2009_DOG	to	to	t o	dog	dutton2010	1579	1 7	AX	TU	5	5.T.C 5.U.V	2.0 1.5	to	0	526
+14601	ese	2009_DOG	ʔu-a	ʔu-a	ʔ u + a	dog	dutton2010	1400	1 7 9 7	AX_X	HY_A	1	1.H.C 1.Y.V 1._._ 1.A.V	2.0 1.5 0.0 1.5	ʔu+a	0	525
+14600	south-barai	2009_DOG	uʔo	uʔo	u ʔ o	dog' (ʔ suspicious here, zero expected)	dutton2010	1400	7 1 7	XBZ	YHU	8	8.Y.V 8.H.C 8.U.V	1.5 1.75 0.8	uʔo	0	531
+14599	omie	2009_DOG	ʔö-e	ʔö-e	ʔ ö + e	dog	dutton2010	1400	1 7 9 7	AX_X	HU_E	7	7.H.C 7.U.V 7._._ 7.E.V	2.0 1.5 0.0 1.5	ʔö+e	0	525
+#
+14918	grass-koiari	2093_AFTERWARDS	gabi|dahe	dahe	d a h e	afterwards, later	dutton2010	1454	1 7 3 7	AXBZ	TAHE	2	2.T.C 2.A.V 2.H.C 2.E.V	2.0 1.5 1.75 0.8	dahe	0	533
+14919	mountain-koiari	2093_AFTERWARDS	gabi|e	e	e	afterwards, later	dutton2010	1454	7	X	E	5	5.E.V	1.5	e	0	534
+14920	north-barai	2093_AFTERWARDS	gabi|ne	ne	n e	afterwards	dutton2010	1454	4 7	AX	NE	6	6.N.C 6.E.V	2.0 1.5	ne	1	535
+#
+14236	ese	2098_FOOT_OR_LEG	diʔ-a	diʔ-a	d i ʔ + a	leg	dutton2010	1310	1 7 1 9 7	AXN_X	TIH_A	1	1.T.C 1.I.V 1.H.c 1._._ 1.A.V	2.0 1.5 0.8 0.0 1.5	diʔ+a	0	536
+14234	north-barai	2098_FOOT_OR_LEG	di-a	di-a	d i + a	leg	dutton2010	1310	1 7 9 7	AX_X	TI_A	6	6.T.C 6.I.V 6._._ 6.A.V	2.0 1.5 0.0 1.5	di+a	0	537
+14235	south-barai	2098_FOOT_OR_LEG	deʔu	deʔu	d e ʔ u	leg	dutton2010	1310	1 7 1 7	AXBZ	TEHY	8	8.T.C 8.E.V 8.H.C 8.Y.V	2.0 1.5 1.75 0.8	deʔu	0	536
+#
+15634	grass-koiari	2101_BE_DEAD_OR_DIE	vati-	vati-	v a t i	die	dutton2010	1595	3 7 1 7	AXBZ	BATI	2	2.B.C 2.A.V 2.T.C 2.I.V	2.0 1.5 1.75 0.8	vati	0	538
+15635	mountain-koiari	2101_BE_DEAD_OR_DIE	hati-	hati-	h a t i	die	dutton2010	1595	3 7 1 7	AXBZ	HATI	5	5.H.C 5.A.V 5.T.C 5.I.V	2.0 1.5 1.75 0.8	hati	0	539
+#
+15209	koitabu	2102_BURN	ra-ɣa-	ra-ɣa-	r a + ɣ a	(stg) burns	dutton2010	1501	5 7 9 3 7	AX_AX	RA_GA	4	4.R.C 4.A.V 4._._ 4.G.C 4.A.V	2.0 1.5 0.0 2.0 1.5	ra+ɣa	1	541
+15210	grass-koiari	2102_BURN	ra-va-	ra-va-	r a + v a	burn (stg)	dutton2010	1501	5 7 9 3 7	AX_AX	RA_BA	2	2.R.C 2.A.V 2._._ 2.B.C 2.A.V	2.0 1.5 0.0 2.0 1.5	ra+va	1	541
+15479	grass-koiari	2102_BURN	mavoi-	mavoi-	m a v o i	burn, set alight, cook (by burning)	dutton2010	1555	4 7 3 7 7	AXBYZ	MABUI	2	2.M.C 2.A.V 2.B.C 2.U.V 2.I.V	2.0 1.5 1.75 1.3 0.8	mavoi	0	546
+15211	mountain-koiari	2102_BURN	laha	laha	l a h a	burn (intr.)	dutton2010	1501	5 7 3 7	AXBZ	LAHA	5	5.L.C 5.A.V 5.H.C 5.A.V	2.0 1.5 1.75 0.8	laha	0	543
+15480	mountain-koiari	2102_BURN	maho-	maho-	m a h o	cook	dutton2010	1555	4 7 3 7	AXBZ	MAHU	5	5.M.C 5.A.V 5.H.C 5.U.V	2.0 1.5 1.75 0.8	maho	0	547
+15214	ese	2102_BURN	(veni) re|n-o	n-o	n + o	(fire) burns up, be on fire	dutton2010	1501	4 9 7	A_X	N_U	1	1.N.C 1._._ 1.U.V	2.0 0.0 1.5	n+o	0	540
+15213	south-barai	2102_BURN	rae|ma	ma	m a	burning	dutton2010	1501	4 7	AX	MA	8	8.M.C 8.A.V	2.0 1.5	ma	1	545
+15212	omie	2102_BURN	rav-e	rav-e	r a v + e	burn	dutton2010	1501	5 7 3 9 7	AXN_X	RAB_E	7	7.R.C 7.A.V 7.B.c 7._._ 7.E.V	2.0 1.5 0.8 0.0 1.5	rav+e	0	544
+#
+14560	ese	2103_PAINFUL_OR_SICK	hia|nimo	nimo	n i m o	pain (to have)	dutton2010	1389	4 7 4 7	AXBZ	NIMU	1	1.N.C 1.I.V 1.M.C 1.U.V	2.0 1.5 1.75 0.8	nimo	0	548
+14559	south-barai	2103_PAINFUL_OR_SICK	ie|nu-	nu-	n u	pain	dutton2010	1389	4 7	AX	NY	8	8.N.C 8.Y.V	2.0 1.5	nu	1	550
+14558	omie	2103_PAINFUL_OR_SICK	viʔe|h-e	h-e	h + e	pain	dutton2010	1389	3 9 7	A_X	H_E	7	7.H.C 7._._ 7.E.V	2.0 0.0 1.5	h+e	1	549
+#
+14708	koitabu	2108_RAINING_OR_RAIN	veni	veni	v e n i	rain	dutton2010	1419	3 7 4 7	AXBZ	BENI	4	4.B.C 4.E.V 4.N.C 4.I.V	2.0 1.5 1.75 0.8	veni	0	552
+14709	grass-koiari	2108_RAINING_OR_RAIN	veni	veni	v e n i	rain	dutton2010	1419	3 7 4 7	AXBZ	BENI	2	2.B.C 2.E.V 2.N.C 2.I.V	2.0 1.5 1.75 0.8	veni	0	552
+14710	mountain-koiari	2108_RAINING_OR_RAIN	veni	veni	v e n i	rain	dutton2010	1419	3 7 4 7	AXBZ	BENI	5	5.B.C 5.E.V 5.N.C 5.I.V	2.0 1.5 1.75 0.8	veni	0	552
+14714	ese	2108_RAINING_OR_RAIN	ne|h-a	h-a	h + a	rain	dutton2010	1419	3 9 7	A_X	H_A	1	1.H.C 1._._ 1.A.V	2.0 0.0 1.5	h+a	0	551
+14712	north-barai	2108_RAINING_OR_RAIN	ve	ve	v e	rain	dutton2010	1419	3 7	AX	BE	6	6.B.C 6.E.V	2.0 1.5	ve	0	555
+14713	south-barai	2108_RAINING_OR_RAIN	ve	ve	v e	rain	dutton2010	1419	3 7	AX	BE	8	8.B.C 8.E.V	2.0 1.5	ve	0	555
+14711	omie	2108_RAINING_OR_RAIN	ëni	ëni	ë/e n i	rain	dutton2010	1419	7 4 7	XBZ	ENI	7	7.E.V 7.N.C 7.I.V	1.5 1.75 0.8	ë/eni	0	556
+#
+14955	koitabu	2115_CEASE_OR_FINISH	ɣare-me-	ɣare-me-	ɣ a r e + m e	stop, leave off (sg obj)	dutton2010	1461	3 7 5 7 9 4 7	AXBZ_AX	GARE_ME	4	4.G.C 4.A.V 4.R.C 4.E.V 4._._ 4.M.C 4.E.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5	ɣare+me	0	559
+14956	grass-koiari	2115_CEASE_OR_FINISH	vare-me-	vare-me-	v a r e + m e	leave (depart), leave off, stop (doing stg)	dutton2010	1461	3 7 5 7 9 4 7	AXBZ_AX	BARE_ME	2	2.B.C 2.A.V 2.R.C 2.E.V 2._._ 2.M.C 2.E.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5	vare+me	0	558
+14957	mountain-koiari	2115_CEASE_OR_FINISH	hale-ma-	hale-ma-	h a l e + m a	leave (stg)	dutton2010	1461	3 7 5 7 9 4 7	AXBZ_AX	HALE_MA	5	5.H.C 5.A.V 5.L.C 5.E.V 5._._ 5.M.C 5.A.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5	hale+ma	0	560
+14958	mountain-koiari	2115_CEASE_OR_FINISH	hale-	hale-	h a l e	leave, depart from, stop, quit	dutton2010	1461	3 7 5 7	AXBZ	HALE	5	5.H.C 5.A.V 5.L.C 5.E.V	2.0 1.5 1.75 0.8	hale	0	560
+14960	ese	2115_CEASE_OR_FINISH	are|nav-o	nav-o	n a v + o	stop, discontinue	dutton2010	1461	4 7 3 9 7	AXN_X	NAB_U	1	1.N.C 1.A.V 1.B.c 1._._ 1.U.V	2.0 1.5 0.8 0.0 1.5	nav+o	0	557
+14961	ese	2115_CEASE_OR_FINISH	are|v-o	v-o	v + o	stop, discontinue	dutton2010	1461	3 9 7	A_X	B_U	1	1.B.C 1._._ 1.U.V	2.0 0.0 1.5	v+o	1	562
+14959	north-barai	2115_CEASE_OR_FINISH	ar-e	ar-e	a r + e	stop	dutton2010	1461	7 5 9 7	XN_X	AR_E	6	6.A.V 6.R.c 6._._ 6.E.V	1.5 0.8 0.0 1.5	ar+e	0	560
+#
+14808	koitabu	2121_ARM_OR_HAND	ada-ka	ada-ka	a d a + k a	arm, hand, branch, handle	dutton2010	1434	7 1 7 9 1 7	XBZ_AX	ATA_KA	4	4.A.V 4.T.C 4.A.V 4._._ 4.K.C 4.A.V	1.5 1.75 0.8 0.0 2.0 1.5	ada+ka	0	564
+14809	grass-koiari	2121_ARM_OR_HAND	ada-ka	ada-ka	a d a + k a	arm, hand, branch, handle, foreleg (of animal), wing	dutton2010	1434	7 1 7 9 1 7	XBZ_AX	ATA_KA	2	2.A.V 2.T.C 2.A.V 2._._ 2.K.C 2.A.V	1.5 1.75 0.8 0.0 2.0 1.5	ada+ka	0	564
+14810	mountain-koiari	2121_ARM_OR_HAND	ada	ada	a d a	arm, hand, foreleg, branch	dutton2010	1434	7 1 7	XBZ	ATA	5	5.A.V 5.T.C 5.A.V	1.5 1.75 0.8	ada	0	564
+14294	ese	2121_ARM_OR_HAND	ij-a	ij-a	i j + a	arm	dutton2010	1323	7 6 9 7	XN_X	IJ_A	1	1.I.V 1.J.c 1._._ 1.A.V	1.5 0.8 0.0 1.5	ij+a	0	563
+14814	ese	2121_ARM_OR_HAND	ta|h-a	h-a	h + a	wing	dutton2010	1434	3 9 7	A_X	H_A	1	1.H.C 1._._ 1.A.V	2.0 0.0 1.5	h+a	1	570
+14812	north-barai	2121_ARM_OR_HAND	adav-e	adav-e	a d a v + e	wing	dutton2010	1434	7 1 7 3 9 7	XBYN_X	ATAB_E	6	6.A.V 6.T.C 6.A.V 6.B.c 6._._ 6.E.V	1.5 1.75 1.3 0.8 0.0 1.5	adav+e	0	564
+14813	south-barai	2121_ARM_OR_HAND	(miʔena) ada|hu	hu	h u	wing	dutton2010	1434	3 7	AX	HY	8	8.H.C 8.Y.V	2.0 1.5	hu	1	569
+14293	omie	2121_ARM_OR_HAND	nam|ij-e	ij-e	i j + e	arm	dutton2010	1323	7 6 9 7	XN_X	IJ_E	7	7.I.V 7.J.c 7._._ 7.E.V	1.5 0.8 0.0 1.5	ij+e	0	563
+14811	omie	2121_ARM_OR_HAND	ad-e	ad-e	a d + e	branch, appendage	dutton2010	1434	7 1 9 7	XN_X	AT_E	7	7.A.V 7.T.c 7._._ 7.E.V	1.5 0.8 0.0 1.5	ad+e	0	564
+#
+15482	koitabu	2159_GROUND	(da) mata-me	_mata-me	m a t a + m e	(my) land, ground, place	dutton2010	1556	4 7 1 7 9 4 7	AXBZ_AX	MATA_ME	4	4.M.C 4.A.V 4.T.C 4.A.V 4._._ 4.M.C 4.E.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5	mata+me	0	571
+15630	koitabu	2159_GROUND	vata	vata	v a t a	ground	dutton2010	1594	3 7 1 7	AXBZ	BATA	4	4.B.C 4.A.V 4.T.C 4.A.V	2.0 1.5 1.75 0.8	vata	0	577
+15483	grass-koiari	2159_GROUND	(da) mata-me	_mata-me	m a t a + m e	(my) land, ground, place	dutton2010	1556	4 7 1 7 9 4 7	AXBZ_AX	MATA_ME	2	2.M.C 2.A.V 2.T.C 2.A.V 2._._ 2.M.C 2.E.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5	mata+me	0	571
+15631	grass-koiari	2159_GROUND	vata	vata	v a t a	ground, earth	dutton2010	1594	3 7 1 7	AXBZ	BATA	2	2.B.C 2.A.V 2.T.C 2.A.V	2.0 1.5 1.75 0.8	vata	0	577
+15484	mountain-koiari	2159_GROUND	matama	matama	m a t a m a	place	dutton2010	1556	4 7 1 7 4 7	AXBYBZ	MATAMA	5	5.M.C 5.A.V 5.T.C 5.A.V 5.M.C 5.A.V	2.0 1.5 1.75 1.3 1.75 0.8	matama	0	571
+15632	mountain-koiari	2159_GROUND	vata	vata	v a t a	ground, country, earth	dutton2010	1594	3 7 1 7	AXBZ	BATA	5	5.B.C 5.A.V 5.T.C 5.A.V	2.0 1.5 1.75 0.8	vata	0	577
+14484	north-barai	2159_GROUND	saka-e	saka-e	s a k a + e	ground, soil	dutton2010	1370	3 7 1 7 9 7	AXBZ_X	SAKA_E	6	6.S.C 6.A.V 6.K.C 6.A.V 6._._ 6.E.V	2.0 1.5 1.75 0.8 0.0 1.5	saka+e	0	574
+14485	south-barai	2159_GROUND	saʔi	saʔi	s a ʔ i	ground	dutton2010	1370	3 7 1 7	AXBZ	SAHI	8	8.S.C 8.A.V 8.H.C 8.I.V	2.0 1.5 1.75 0.8	saʔi	0	575
+14483	omie	2159_GROUND	saʔa-e	saʔa-e	s a ʔ a + e	ground	dutton2010	1370	3 7 1 7 9 7	AXBZ_X	SAHA_E	7	7.S.C 7.A.V 7.H.C 7.A.V 7._._ 7.E.V	2.0 1.5 1.75 0.8 0.0 1.5	saʔa+e	0	575
+#
+15651	koitabu	215_LIE_DOWN	ya-ɣa-	ya-ɣa-	j a + ɣ a	sleep, lie on ground	dutton2010	1600	6 7 9 3 7	AX_AX	JA_GA	4	4.J.C 4.A.V 4._._ 4.G.C 4.A.V	2.0 1.5 0.0 2.0 1.5	ja+ɣa	0	578
+15652	grass-koiari	215_LIE_DOWN	ya-va-	ya-va-	j a + v a	sleep, lie down	dutton2010	1600	6 7 9 3 7	AX_AX	JA_BA	2	2.J.C 2.A.V 2._._ 2.B.C 2.A.V	2.0 1.5 0.0 2.0 1.5	ja+va	0	578
+15653	mountain-koiari	215_LIE_DOWN	la-ha-	la-ha-	l a + h a	sleep	dutton2010	1600	5 7 9 3 7	AX_AX	LA_HA	5	5.L.C 5.A.V 5._._ 5.H.C 5.A.V	2.0 1.5 0.0 2.0 1.5	la+ha	0	580
+#
+14877	koitabu	217_BETELNUT	haɣa	haɣa	h a ɣ a	betelnut	dutton2010	1447	3 7 3 7	AXBZ	HAGA	4	4.H.C 4.A.V 4.G.C 4.A.V	2.0 1.5 1.75 0.8	haɣa	0	583
+14878	grass-koiari	217_BETELNUT	hava	hava	h a v a	betelnut	dutton2010	1447	3 7 3 7	AXBZ	HABA	2	2.H.C 2.A.V 2.B.C 2.A.V	2.0 1.5 1.75 0.8	hava	0	582
+14879	mountain-koiari	217_BETELNUT	vava-e	vava-e	v a v a + e	betelnut' :(unexplained medial v; expected form vaha-e)	dutton2010	1447	3 7 3 7 9 7	AXBZ_X	BABA_E	5	5.B.C 5.A.V 5.B.C 5.A.V 5._._ 5.E.V	2.0 1.5 1.75 0.8 0.0 1.5	vava+e	0	584
+14497	ese	217_BETELNUT	siar-a	siar-a	s i a r + a	betelnut	dutton2010	1373	3 7 7 5 9 7	AXYN_X	SIAR_A	1	1.S.C 1.I.V 1.A.V 1.R.c 1._._ 1.A.V	2.0 1.5 1.3 0.8 0.0 1.5	siar+a	0	581
+14495	north-barai	217_BETELNUT	siar-e	siar-e	s i a r + e	betelnut	dutton2010	1373	3 7 7 5 9 7	AXYN_X	SIAR_E	6	6.S.C 6.I.V 6.A.V 6.R.c 6._._ 6.E.V	2.0 1.5 1.3 0.8 0.0 1.5	siar+e	0	581
+14496	south-barai	217_BETELNUT	seru	seru	s e r u	betelnut	dutton2010	1373	3 7 5 7	AXBZ	SERY	8	8.S.C 8.E.V 8.R.C 8.Y.V	2.0 1.5 1.75 0.8	seru	0	581
+14880	omie	217_BETELNUT	ha-e	ha-e	h a + e	betelnut	dutton2010	1447	3 7 9 7	AX_X	HA_E	7	7.H.C 7.A.V 7._._ 7.E.V	2.0 1.5 0.0 1.5	ha+e	0	586
+#
+14700	koitabu	221_FIRE	vene	vene	v e n e	fire, firewood	dutton2010	1418	3 7 4 7	AXBZ	BENE	4	4.B.C 4.E.V 4.N.C 4.E.V	2.0 1.5 1.75 0.8	vene	0	587
+14701	grass-koiari	221_FIRE	vene	vene	v e n e	fire, firewood	dutton2010	1418	3 7 4 7	AXBZ	BENE	2	2.B.C 2.E.V 2.N.C 2.E.V	2.0 1.5 1.75 0.8	vene	0	587
+14702	mountain-koiari	221_FIRE	vene	vene	v e n e	fire, firewood	dutton2010	1418	3 7 4 7	AXBZ	BENE	5	5.B.C 5.E.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	vene	0	587
+14706	ese	221_FIRE	ven-a	ven-a	v e n + a	fire, firewood	dutton2010	1418	3 7 4 9 7	AXN_X	BEN_A	1	1.B.C 1.E.V 1.N.c 1._._ 1.A.V	2.0 1.5 0.8 0.0 1.5	ven+a	0	587
+14704	north-barai	221_FIRE	men-u	men-u	m e n + u	fire	dutton2010	1418	4 7 4 9 7	AXN_X	MEN_Y	6	6.M.C 6.E.V 6.N.c 6._._ 6.Y.V	2.0 1.5 0.8 0.0 1.5	men+u	0	591
+14705	south-barai	221_FIRE	menu	menu	m e n u	fire	dutton2010	1418	4 7 4 7	AXBZ	MENY	8	8.M.C 8.E.V 8.N.C 8.Y.V	2.0 1.5 1.75 0.8	menu	0	591
+14703	omie	221_FIRE	vën-i	vën-i	v ë/e n + i	fire, firewood	dutton2010	1418	3 7 4 9 7	AXN_X	BEN_I	7	7.B.C 7.E.V 7.N.c 7._._ 7.I.V	2.0 1.5 0.8 0.0 1.5	vë/en+i	0	587
+#
+15539	grass-koiari	2220_MOVE_QUICKLY	soreka	soreka	s o r e k a	quickly	dutton2010	1570	3 7 5 7 1 7	AXBYBZ	SUREKA	2	2.S.C 2.U.V 2.R.C 2.E.V 2.K.C 2.A.V	2.0 1.5 1.75 1.3 1.75 0.8	soreka	0	592
+15540	mountain-koiari	2220_MOVE_QUICKLY	soleka	soleka	s o l e k a	quick(ly), fast	dutton2010	1570	3 7 5 7 1 7	AXBYBZ	SULEKA	5	5.S.C 5.U.V 5.L.C 5.E.V 5.K.C 5.A.V	2.0 1.5 1.75 1.3 1.75 0.8	soleka	0	592
+#
+15409	grass-koiari	2272_HOT_OR_WARM	huhuneva-	huhuneva-	h u h u n e v a	be hot, perspire	dutton2010	1539	3 7 3 7 4 7 3 7	AXBYBYBZ	HYHYNEBA	2	2.H.C 2.Y.V 2.H.C 2.Y.V 2.N.C 2.E.V 2.B.C 2.A.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	huhuneva	0	593
+15410	mountain-koiari	2272_HOT_OR_WARM	vuvuneve	vuvuneve	v u v u n e v e	hot (water)	dutton2010	1539	3 7 3 7 4 7 3 7	AXBYBYBZ	BYBYNEBE	5	5.B.C 5.Y.V 5.B.C 5.Y.V 5.N.C 5.E.V 5.B.C 5.E.V	2.0 1.5 1.75 1.3 1.75 1.3 1.75 0.8	vuvuneve	0	594
+#
+14603	koitabu	2304_THEE_OBLIQUE_CASE_OF_YOU	a	a	a	you.sg	dutton2010	1401	7	X	A	4	4.A.V	1.5	a	0	595
+14604	grass-koiari	2304_THEE_OBLIQUE_CASE_OF_YOU	a	a	a	you.sg	dutton2010	1401	7	X	A	2	2.A.V	1.5	a	0	595
+14605	mountain-koiari	2304_THEE_OBLIQUE_CASE_OF_YOU	a	a	a	you.sg	dutton2010	1401	7	X	A	5	5.A.V	1.5	a	0	595
+14609	ese	2304_THEE_OBLIQUE_CASE_OF_YOU	a	a	a	you.sg	dutton2010	1401	7	X	A	1	1.A.V	1.5	a	0	595
+14607	north-barai	2304_THEE_OBLIQUE_CASE_OF_YOU	a	a	a	you.sg	dutton2010	1401	7	X	A	6	6.A.V	1.5	a	0	595
+14608	south-barai	2304_THEE_OBLIQUE_CASE_OF_YOU	a	a	a	you.sg	dutton2010	1401	7	X	A	8	8.A.V	1.5	a	0	595
+14606	omie	2304_THEE_OBLIQUE_CASE_OF_YOU	ja	ja	j a	you.sg	dutton2010	1401	6 7	AX	JA	7	7.J.C 7.A.V	2.0 1.5	ja	0	600
+#
+14720	koitabu	2312_YOU_OBLIQUE_CASE_OF_YOU	ya	ya	j a	you.pl	dutton2010	1421	6 7	AX	JA	4	4.J.C 4.A.V	2.0 1.5	ja	0	601
+14721	grass-koiari	2312_YOU_OBLIQUE_CASE_OF_YOU	ya	ya	j a	you.pl	dutton2010	1421	6 7	AX	JA	2	2.J.C 2.A.V	2.0 1.5	ja	0	601
+14722	mountain-koiari	2312_YOU_OBLIQUE_CASE_OF_YOU	la	la	l a	you.pl	dutton2010	1421	5 7	AX	LA	5	5.L.C 5.A.V	2.0 1.5	la	0	604
+14726	ese	2312_YOU_OBLIQUE_CASE_OF_YOU	ja	ja	j a	you.pl	dutton2010	1421	6 7	AX	JA	1	1.J.C 1.A.V	2.0 1.5	ja	0	601
+14724	north-barai	2312_YOU_OBLIQUE_CASE_OF_YOU	ja	ja	j a	you.pl	dutton2010	1421	6 7	AX	JA	6	6.J.C 6.A.V	2.0 1.5	ja	0	601
+14725	south-barai	2312_YOU_OBLIQUE_CASE_OF_YOU	ya	ya	j a	you.pl	dutton2010	1421	6 7	AX	JA	8	8.J.C 8.A.V	2.0 1.5	ja	0	601
+14723	omie	2312_YOU_OBLIQUE_CASE_OF_YOU	je-më	je-më	j e + m ë/e	you.pl	dutton2010	1421	6 7 9 4 7	AX_AX	JE_ME	7	7.J.C 7.E.V 7._._ 7.M.C 7.E.V	2.0 1.5 0.0 2.0 1.5	je+më/e	0	606
+#
+14630	grass-koiari	2371_BREADFRUIT	unu	unu	u n u	breadfruit	dutton2010	1405	7 4 7	XBZ	YNY	2	2.Y.V 2.N.C 2.Y.V	1.5 1.75 0.8	unu	0	607
+14631	omie	2371_BREADFRUIT	nug-e	nug-e	n u g + e	breadfruit	dutton2010	1405	4 7 1 9 7	AXN_X	NYK_E	7	7.N.C 7.Y.V 7.K.c 7._._ 7.E.V	2.0 1.5 0.8 0.0 1.5	nug+e	0	608
+#
+15497	grass-koiari	2445_PAPAYA	nitani	nitani	n i t a n i	pawpaw	dutton2010	1559	4 7 1 7 4 7	AXBYBZ	NITANI	2	2.N.C 2.I.V 2.T.C 2.A.V 2.N.C 2.I.V	2.0 1.5 1.75 1.3 1.75 0.8	nitani	0	609
+15498	mountain-koiari	2445_PAPAYA	mitani	mitani	m i t a n i	pawpaw	dutton2010	1559	4 7 1 7 4 7	AXBYBZ	MITANI	5	5.M.C 5.I.V 5.T.C 5.A.V 5.N.C 5.I.V	2.0 1.5 1.75 1.3 1.75 0.8	mitani	0	610
+#
+15450	koitabu	2457_PATH_OR_ROAD	ɣuma	ɣuma	ɣ u m a	path, road	dutton2010	1548	3 7 4 7	AXBZ	GYMA	4	4.G.C 4.Y.V 4.M.C 4.A.V	2.0 1.5 1.75 0.8	ɣuma	0	612
+15451	grass-koiari	2457_PATH_OR_ROAD	uma	uma	u m a	path, road	dutton2010	1548	7 4 7	XBZ	YMA	2	2.Y.V 2.M.C 2.A.V	1.5 1.75 0.8	uma	0	611
+15452	mountain-koiari	2457_PATH_OR_ROAD	huma|ha	ha	h a	path, road	dutton2010	1548	3 7	AX	HA	5	5.H.C 5.A.V	2.0 1.5	ha	0	613
+#
+15054	koitabu	262_HE_OR_SHE_OR_IT	au	au	a u	he, she, it'; 3sg pronoun	dutton2010	1477	7 7	XZ	AY	4	4.A.V 4.Y.V	1.5 0.8	au	0	614
+15055	grass-koiari	262_HE_OR_SHE_OR_IT	ahu	ahu	a h u	he, she, it'; 3sg pronoun	dutton2010	1477	7 3 7	XBZ	AHY	2	2.A.V 2.H.C 2.Y.V	1.5 1.75 0.8	ahu	0	615
+15056	mountain-koiari	262_HE_OR_SHE_OR_IT	au	au	a u	he, she, it'; 3sg pronoun	dutton2010	1477	7 7	XZ	AY	5	5.A.V 5.Y.V	1.5 0.8	au	0	614
+15057	mountain-koiari	262_HE_OR_SHE_OR_IT	avu-ho	avu-ho	a v u + h o	for him/her	dutton2010	1477	7 3 7 9 3 7	XBZ_AX	ABY_HU	5	5.A.V 5.B.C 5.Y.V 5._._ 5.H.C 5.U.V	1.5 1.75 0.8 0.0 2.0 1.5	avu+ho	0	621
+15061	ese	262_HE_OR_SHE_OR_IT	hu	hu	h u	he, she, it (3sg pronoun)	dutton2010	1477	3 7	AX	HY	1	1.H.C 1.Y.V	2.0 1.5	hu	1	614
+15059	north-barai	262_HE_OR_SHE_OR_IT	fu	fu	f u	he, she, it (3sg pronoun)	dutton2010	1477	3 7	AX	BY	6	6.B.C 6.Y.V	2.0 1.5	fu	0	618
+15060	south-barai	262_HE_OR_SHE_OR_IT	ahu	ahu	a h u	he, she, it'; 3sg pronoun	dutton2010	1477	7 3 7	XBZ	AHY	8	8.A.V 8.H.C 8.Y.V	1.5 1.75 0.8	ahu	0	615
+15058	omie	262_HE_OR_SHE_OR_IT	hu	hu	h u	he, she, it (3sg pronoun)	dutton2010	1477	3 7	AX	HY	7	7.H.C 7.Y.V	2.0 1.5	hu	0	614
+#
+15216	koitabu	269_COOKED	ragi|raɣe	raɣe	r a ɣ e	cooked	dutton2010	1502	5 7 3 7	AXBZ	RAGE	4	4.R.C 4.A.V 4.G.C 4.E.V	2.0 1.5 1.75 0.8	raɣe	0	623
+15217	grass-koiari	269_COOKED	ravi|ravi	ravi	r a v i	cooked	dutton2010	1502	5 7 3 7	AXBZ	RABI	2	2.R.C 2.A.V 2.B.C 2.I.V	2.0 1.5 1.75 0.8	ravi	0	622
+15218	mountain-koiari	269_COOKED	laha-	laha-	l a h a	cooked	dutton2010	1502	5 7 3 7	AXBZ	LAHA	5	5.L.C 5.A.V 5.H.C 5.A.V	2.0 1.5 1.75 0.8	laha	1	624
+15219	north-barai	269_COOKED	nae	nae	n a e	cooked	dutton2010	1502	4 7 7	AXZ	NAE	6	6.N.C 6.A.V 6.E.V	2.0 1.5 0.8	nae	0	625
+15220	south-barai	269_COOKED	rae	rae	r a e	cooked	dutton2010	1502	5 7 7	AXZ	RAE	8	8.R.C 8.A.V 8.E.V	2.0 1.5 0.8	rae	0	626
+#
+14413	ese	2708_TALK	ʔua|rav-o	rav-o	r a v + o	talk	dutton2010	1352	5 7 3 9 7	AXN_X	RAB_U	1	1.R.C 1.A.V 1.B.c 1._._ 1.U.V	2.0 1.5 0.8 0.0 1.5	rav+o	1	627
+14414	ese	2708_TALK	ʔuav-o	ʔuav-o	ʔ u a v + o	talk	dutton2010	1352	1 7 7 3 9 7	AXYN_X	HYAB_U	1	1.H.C 1.Y.V 1.A.V 1.B.c 1._._ 1.U.V	2.0 1.5 1.3 0.8 0.0 1.5	ʔuav+o	0	629
+14411	north-barai	2708_TALK	kua|e	e	e	talk, speak	dutton2010	1352	7	X	E	6	6.E.V	1.5	e	1	628
+14412	south-barai	2708_TALK	ʔua|re	re	r e	talk	dutton2010	1352	5 7	AX	RE	8	8.R.C 8.E.V	2.0 1.5	re	1	630
+14410	omie	2708_TALK	ʔuv-	ʔuv-	ʔ u v	talk	dutton2010	1352	1 7 3	AXN	HYB	7	7.H.C 7.Y.V 7.B.c	2.0 1.5 0.8	ʔuv	0	629
+#
+15349	grass-koiari	2760_MAKE_A_JOKE	bitu-va-	bitu-va-	b i t u + v a	joke	dutton2010	1524	1 7 1 7 9 3 7	AXBZ_AX	PITY_BA	2	2.P.C 2.I.V 2.T.C 2.Y.V 2._._ 2.B.C 2.A.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5	bitu+va	0	631
+15350	mountain-koiari	2760_MAKE_A_JOKE	bitu-ha|vo	vo	v o	mock, make fun of	dutton2010	1524	3 7	AX	BU	5	5.B.C 5.U.V	2.0 1.5	vo	0	632
+#
+15585	koitabu	285_tostay	u-	u-	u	stay, be in a place, live, remain	dutton2010	1582	7	X	Y	4	4.Y.V	1.5	u	0	633
+15586	grass-koiari	285_tostay	u-	u-	u	stay, be in a place, live, remain	dutton2010	1582	7	X	Y	2	2.Y.V	1.5	u	0	633
+15587	mountain-koiari	285_tostay	u-	u-	u	stay, be (in a place)	dutton2010	1582	7	X	Y	5	5.Y.V	1.5	u	0	633
+#
+15655	koitabu	293_NETBAG	yaɣa	yaɣa	j a ɣ a	string bag	dutton2010	1601	6 7 3 7	AXBZ	JAGA	4	4.J.C 4.A.V 4.G.C 4.A.V	2.0 1.5 1.75 0.8	jaɣa	0	634
+15656	grass-koiari	293_NETBAG	yago	yago	j a g o	string bag	dutton2010	1601	6 7 1 7	AXBZ	JAKU	2	2.J.C 2.A.V 2.K.C 2.U.V	2.0 1.5 1.75 0.8	jago	0	634
+15657	mountain-koiari	293_NETBAG	laha	laha	l a h a	string bag	dutton2010	1601	5 7 3 7	AXBZ	LAHA	5	5.L.C 5.A.V 5.H.C 5.A.V	2.0 1.5 1.75 0.8	laha	1	636
+#
+15195	koitabu	3037_SAME-SEX_OLDER_SIBLING	amakina	amakina	a m a k i n a	sibling, same sex, older	dutton2010	1499	7 4 7 1 7 4 7	XBYBYBZ	AMAKINA	4	4.A.V 4.M.C 4.A.V 4.K.C 4.I.V 4.N.C 4.A.V	1.5 1.75 1.3 1.75 1.3 1.75 0.8	amakina	0	638
+15196	grass-koiari	3037_SAME-SEX_OLDER_SIBLING	amakina	amakina	a m a k i n a	sibling, same sex, older	dutton2010	1499	7 4 7 1 7 4 7	XBYBYBZ	AMAKINA	2	2.A.V 2.M.C 2.A.V 2.K.C 2.I.V 2.N.C 2.A.V	1.5 1.75 1.3 1.75 1.3 1.75 0.8	amakina	0	638
+15197	mountain-koiari	3037_SAME-SEX_OLDER_SIBLING	amakina	amakina	a m a k i n a	sibling, same sex, older	dutton2010	1499	7 4 7 1 7 4 7	XBYBYBZ	AMAKINA	5	5.A.V 5.M.C 5.A.V 5.K.C 5.I.V 5.N.C 5.A.V	1.5 1.75 1.3 1.75 1.3 1.75 0.8	amakina	0	638
+15201	ese	3037_SAME-SEX_OLDER_SIBLING	maʔin-a	maʔin-a	m a ʔ i n + a	sibling, same sex, older	dutton2010	1499	4 7 1 7 4 9 7	AXBYN_X	MAHIN_A	1	1.M.C 1.A.V 1.H.C 1.I.V 1.N.c 1._._ 1.A.V	2.0 1.5 1.75 1.3 0.8 0.0 1.5	maʔin+a	0	637
+15199	north-barai	3037_SAME-SEX_OLDER_SIBLING	maʔi	maʔi	m a ʔ i	sibling, same sex, older	dutton2010	1499	4 7 1 7	AXBZ	MAHI	6	6.M.C 6.A.V 6.H.C 6.I.V	2.0 1.5 1.75 0.8	maʔi	0	637
+15200	south-barai	3037_SAME-SEX_OLDER_SIBLING	mahino	mahino	m a h i n o	sibling, same sex, older	dutton2010	1499	4 7 3 7 4 7	AXBYBZ	MAHINU	8	8.M.C 8.A.V 8.H.C 8.I.V 8.N.C 8.U.V	2.0 1.5 1.75 1.3 1.75 0.8	mahino	0	637
+15198	omie	3037_SAME-SEX_OLDER_SIBLING	maʔin-e	maʔin-e	m a ʔ i n + e	sibling, same sex, older	dutton2010	1499	4 7 1 7 4 9 7	AXBYN_X	MAHIN_E	7	7.M.C 7.A.V 7.H.C 7.I.V 7.N.c 7._._ 7.E.V	2.0 1.5 1.75 1.3 0.8 0.0 1.5	maʔin+e	0	637
+#
+14967	koitabu	3038_SAME-SEX_YOUNGER_SIBLING	ɣoɣo	ɣoɣo	ɣ o ɣ o	sibling, same sex, younger	dutton2010	1463	3 7 3 7	AXBZ	GUGU	4	4.G.C 4.U.V 4.G.C 4.U.V	2.0 1.5 1.75 0.8	ɣoɣo	0	641
+14968	grass-koiari	3038_SAME-SEX_YOUNGER_SIBLING	vovo	vovo	v o v o	sibling, same sex, younger	dutton2010	1463	3 7 3 7	AXBZ	BUBU	2	2.B.C 2.U.V 2.B.C 2.U.V	2.0 1.5 1.75 0.8	vovo	0	640
+14969	mountain-koiari	3038_SAME-SEX_YOUNGER_SIBLING	hoho	hoho	h o h o	sibling, same sex, younger	dutton2010	1463	3 7 3 7	AXBZ	HUHU	5	5.H.C 5.U.V 5.H.C 5.U.V	2.0 1.5 1.75 0.8	hoho	0	639
+14972	ese	3038_SAME-SEX_YOUNGER_SIBLING	ʔuʔu-a	ʔuʔu-a	ʔ u ʔ u + a	brother	dutton2010	1463	1 7 1 7 9 7	AXBZ_X	HYHY_A	1	1.H.C 1.Y.V 1.H.C 1.Y.V 1._._ 1.A.V	2.0 1.5 1.75 0.8 0.0 1.5	ʔuʔu+a	0	639
+14971	south-barai	3038_SAME-SEX_YOUNGER_SIBLING	ʔuvo	ʔuvo	ʔ u v o	sibling, same sex, younger	dutton2010	1463	1 7 3 7	AXBZ	HYBU	8	8.H.C 8.Y.V 8.B.C 8.U.V	2.0 1.5 1.75 0.8	ʔuvo	0	644
+14970	omie	3038_SAME-SEX_YOUNGER_SIBLING	ʔô-e	ʔô-e	ʔ ô/o + e	sibling, same sex, younger	dutton2010	1463	1 7 9 7	AX_X	HU_E	7	7.H.C 7.U.V 7._._ 7.E.V	2.0 1.5 0.0 1.5	ʔô/o+e	0	643
+#
+15565	koitabu	3039_DIFFERENT-SEX_OLDER_SIBLING	tata	tata	t a t a	elder sister	dutton2010	1577	1 7 1 7	AXBZ	TATA	4	4.T.C 4.A.V 4.T.C 4.A.V	2.0 1.5 1.75 0.8	tata	0	645
+15566	grass-koiari	3039_DIFFERENT-SEX_OLDER_SIBLING	tata	tata	t a t a	sibling, opposite sex, older, elder sister	dutton2010	1577	1 7 1 7	AXBZ	TATA	2	2.T.C 2.A.V 2.T.C 2.A.V	2.0 1.5 1.75 0.8	tata	0	645
+15567	mountain-koiari	3039_DIFFERENT-SEX_OLDER_SIBLING	tata	tata	t a t a	sibling, opposite sex, older, elder sister	dutton2010	1577	1 7 1 7	AXBZ	TATA	5	5.T.C 5.A.V 5.T.C 5.A.V	2.0 1.5 1.75 0.8	tata	0	645
+#
+15376	koitabu	307_HAWK	duna	duna	d u n a	hawk	dutton2010	1531	1 7 4 7	AXBZ	TYNA	4	4.T.C 4.Y.V 4.N.C 4.A.V	2.0 1.5 1.75 0.8	duna	0	646
+15377	grass-koiari	307_HAWK	duna	duna	d u n a	hawk	dutton2010	1531	1 7 4 7	AXBZ	TYNA	2	2.T.C 2.Y.V 2.N.C 2.A.V	2.0 1.5 1.75 0.8	duna	0	646
+15378	mountain-koiari	307_HAWK	duna	duna	d u n a	hawk	dutton2010	1531	1 7 4 7	AXBZ	TYNA	5	5.T.C 5.Y.V 5.N.C 5.A.V	2.0 1.5 1.75 0.8	duna	0	646
+#
+15149	grass-koiari	321_CHEW	nana-	nana-	n a n a	chew	dutton2010	1492	4 7 4 7	AXBZ	NANA	2	2.N.C 2.A.V 2.N.C 2.A.V	2.0 1.5 1.75 0.8	nana	0	648
+15150	mountain-koiari	321_CHEW	nana-	nana-	n a n a	chew	dutton2010	1492	4 7 4 7	AXBZ	NANA	5	5.N.C 5.A.V 5.N.C 5.A.V	2.0 1.5 1.75 0.8	nana	0	648
+15152	ese	321_CHEW	nana|chav-o	chav-o	c h a v + o	chew	dutton2010	1492	1 3 7 3 9 7	ACXN_X	CHAB_U	1	1.C.C 1.H.C 1.A.V 1.B.c 1._._ 1.U.V	2.0 1.5 1.5 0.8 0.0 1.5	chav+o	0	647
+15151	omie	321_CHEW	nano|v-e	v-e	v + e	chew	dutton2010	1492	3 9 7	A_X	B_E	7	7.B.C 7._._ 7.E.V	2.0 0.0 1.5	v+e	1	650
+#
+14647	koitabu	351_TARO	vadu	vadu	v a d u	taro	dutton2010	1409	3 7 1 7	AXBZ	BATY	4	4.B.C 4.A.V 4.T.C 4.Y.V	2.0 1.5 1.75 0.8	vadu	0	651
+14648	grass-koiari	351_TARO	vadu	vadu	v a d u	taro	dutton2010	1409	3 7 1 7	AXBZ	BATY	2	2.B.C 2.A.V 2.T.C 2.Y.V	2.0 1.5 1.75 0.8	vadu	0	651
+14649	mountain-koiari	351_TARO	fadi|a	a	a	taro	dutton2010	1409	7	X	A	5	5.A.V	1.5	a	1	653
+14651	north-barai	351_TARO	madu	madu	m a d u	taro	dutton2010	1409	4 7 1 7	AXBZ	MATY	6	6.M.C 6.A.V 6.T.C 6.Y.V	2.0 1.5 1.75 0.8	madu	0	654
+14652	south-barai	351_TARO	madu	madu	m a d u	taro	dutton2010	1409	4 7 1 7	AXBZ	MATY	8	8.M.C 8.A.V 8.T.C 8.Y.V	2.0 1.5 1.75 0.8	madu	0	654
+14650	omie	351_TARO	varu|h-e	h-e	h + e	taro	dutton2010	1409	3 9 7	A_X	H_E	7	7.H.C 7._._ 7.E.V	2.0 0.0 1.5	h+e	0	655
+#
+14665	koitabu	410_YAM	vaia	vaia	v a i a	yam (type)	dutton2010	1412	3 7 7 7	AXYZ	BAIA	4	4.B.C 4.A.V 4.I.V 4.A.V	2.0 1.5 1.3 0.8	vaia	0	657
+14666	grass-koiari	410_YAM	vaea	vaea	v a e a	yam (type)	dutton2010	1412	3 7 7 7	AXYZ	BAEA	2	2.B.C 2.A.V 2.E.V 2.A.V	2.0 1.5 1.3 0.8	vaea	0	657
+14668	ese	410_YAM	vaja|k-a	k-a	k + a	yam (type of)	dutton2010	1412	1 9 7	A_X	K_A	1	1.K.C 1._._ 1.A.V	2.0 0.0 1.5	k+a	0	656
+14667	omie	410_YAM	vadzi	vadzi	v a d z i	yam	dutton2010	1412	3 7 1 3 7	AXBCZ	BATSI	7	7.B.C 7.A.V 7.T.C 7.S.C 7.I.V	2.0 1.5 1.75 1.5 0.8	vadzi	0	659
+#
+15297	mountain-koiari	466_CASSOWARY	duba	duba	d u b a	cassowary	dutton2010	1514	1 7 1 7	AXBZ	TYPA	5	5.T.C 5.Y.V 5.P.C 5.A.V	2.0 1.5 1.75 0.8	duba	0	660
+15299	north-barai	466_CASSOWARY	tubuar-e	tubuar-e	t u b u a r + e	cassowary	dutton2010	1514	1 7 1 7 7 5 9 7	AXBYYN_X	TYPYAR_E	6	6.T.C 6.Y.V 6.P.C 6.Y.V 6.A.V 6.R.c 6._._ 6.E.V	2.0 1.5 1.75 1.3 1.3 0.8 0.0 1.5	tubuar+e	0	660
+15300	south-barai	466_CASSOWARY	tubuare	tubuare	t u b u a r e	cassowary	dutton2010	1514	1 7 1 7 7 5 7	AXBYYBZ	TYPYARE	8	8.T.C 8.Y.V 8.P.C 8.Y.V 8.A.V 8.R.C 8.E.V	2.0 1.5 1.75 1.3 1.3 1.75 0.8	tubuare	0	660
+15298	omie	466_CASSOWARY	tubor-e	tubor-e	t u b o r + e	cassowary	dutton2010	1514	1 7 1 7 5 9 7	AXBYN_X	TYPUR_E	7	7.T.C 7.Y.V 7.P.C 7.U.V 7.R.c 7._._ 7.E.V	2.0 1.5 1.75 1.3 0.8 0.0 1.5	tubor+e	0	660
+#
+14800	koitabu	473_SPEAR_SOMEBODY	bi-	bi-	b i	spear (v), kill (by spearing)	dutton2010	1433	1 7	AX	PI	4	4.P.C 4.I.V	2.0 1.5	bi	0	662
+14801	grass-koiari	473_SPEAR_SOMEBODY	bi-	bi-	b i	spear (v), kill (by spearing), stab	dutton2010	1433	1 7	AX	PI	2	2.P.C 2.I.V	2.0 1.5	bi	0	662
+14802	mountain-koiari	473_SPEAR_SOMEBODY	bi-	bi-	b i	spear (v), stab, pierce	dutton2010	1433	1 7	AX	PI	5	5.P.C 5.I.V	2.0 1.5	bi	0	662
+14806	ese	473_SPEAR_SOMEBODY	pij|ah-o	ah-o	a h + o	spear (v)	dutton2010	1433	7 3 9 7	XN_X	AH_U	1	1.A.V 1.H.c 1._._ 1.U.V	1.5 0.8 0.0 1.5	ah+o	0	661
+14804	north-barai	473_SPEAR_SOMEBODY	bij-a	bij-a	b i j + a	spear (v)	dutton2010	1433	1 7 6 9 7	AXN_X	PIJ_A	6	6.P.C 6.I.V 6.J.c 6._._ 6.A.V	2.0 1.5 0.8 0.0 1.5	bij+a	0	665
+14805	south-barai	473_SPEAR_SOMEBODY	bij-a	bij-a	b i j + a	kill (pig by spearing)	dutton2010	1433	1 7 6 9 7	AXN_X	PIJ_A	8	8.P.C 8.I.V 8.J.c 8._._ 8.A.V	2.0 1.5 0.8 0.0 1.5	bij+a	0	665
+14803	omie	473_SPEAR_SOMEBODY	biji|oh-e	oh-e	o h + e	spear (v)	dutton2010	1433	7 3 9 7	XN_X	UH_E	7	7.U.V 7.H.c 7._._ 7.E.V	1.5 0.8 0.0 1.5	oh+e	0	661
+#
+14922	koitabu	498_medialverbsuffixds	-ge	-ge	g e	medial verb suffix DS seq, 'and	dutton2010	1455	1 7	AX	KE	4	4.K.C 4.E.V	2.0 1.5	ge	0	667
+14923	grass-koiari	498_medialverbsuffixds	-ge	-ge	g e	medial verb suffix DS, 'and, when	dutton2010	1455	1 7	AX	KE	2	2.K.C 2.E.V	2.0 1.5	ge	0	667
+14924	mountain-koiari	498_medialverbsuffixds	-ge	-ge	g e	medial verb suffix DS, 'when	dutton2010	1455	1 7	AX	KE	5	5.K.C 5.E.V	2.0 1.5	ge	0	667
+14930	ese	498_medialverbsuffixds	-ʔe	-ʔe	ʔ e	medial verb suffix DS, 'when	dutton2010	1455	1 7	AX	HE	1	1.H.C 1.E.V	2.0 1.5	ʔe	0	666
+14926	north-barai	498_medialverbsuffixds	-ga	-ga	g a	medial verb suffix DS	dutton2010	1455	1 7	AX	KA	6	6.K.C 6.A.V	2.0 1.5	ga	0	667
+14927	north-barai	498_medialverbsuffixds	-gana	-gana	g a n a	medial verb suffix DS	dutton2010	1455	1 7 4 7	AXBZ	KANA	6	6.K.C 6.A.V 6.N.C 6.A.V	2.0 1.5 1.75 0.8	gana	0	673
+14928	north-barai	498_medialverbsuffixds	-ke	-ke	k e	medial verb suffix DS	dutton2010	1455	1 7	AX	KE	6	6.K.C 6.E.V	2.0 1.5	ke	0	667
+14929	south-barai	498_medialverbsuffixds	-ho|ga	ga	g a	medial verb suffix DS, 'when	dutton2010	1455	1 7	AX	KA	8	8.K.C 8.A.V	2.0 1.5	ga	1	667
+14925	omie	498_medialverbsuffixds	-go	-go	g o	medial verb suffix DS	dutton2010	1455	1 7	AX	KU	7	7.K.C 7.U.V	2.0 1.5	go	0	667
+#
+14963	koitabu	499_medialsequentialsuffixhavingfinishedthatandthen	-yareme	-yareme	j a r e m e	completive action ss (sg), 'having V-ed then…	dutton2010	1462	6 7 5 7 4 7	AXBYBZ	JAREME	4	4.J.C 4.A.V 4.R.C 4.E.V 4.M.C 4.E.V	2.0 1.5 1.75 1.3 1.75 0.8	jareme	0	674
+14964	grass-koiari	499_medialsequentialsuffixhavingfinishedthatandthen	-yareime	-yareime	j a r e i m e	completive action ss (sg), 'having V-ed then…	dutton2010	1462	6 7 5 7 7 4 7	AXBYYBZ	JAREIME	2	2.J.C 2.A.V 2.R.C 2.E.V 2.I.V 2.M.C 2.E.V	2.0 1.5 1.75 1.3 1.3 1.75 0.8	jareime	0	674
+14965	north-barai	499_medialsequentialsuffixhavingfinishedthatandthen	-areme	-areme	a r e m e	and then	dutton2010	1462	7 5 7 4 7	XBYBZ	AREME	6	6.A.V 6.R.C 6.E.V 6.M.C 6.E.V	1.5 1.75 1.3 1.75 0.8	areme	0	676
+#
+15107	koitabu	506_medialssverbsuffix	-me	-me	m e	medial ss verb suffix	dutton2010	1486	4 7	AX	ME	4	4.M.C 4.E.V	2.0 1.5	me	1	677
+15108	grass-koiari	506_medialssverbsuffix	-me	-me	m e	medial ss verb suffix	dutton2010	1486	4 7	AX	ME	2	2.M.C 2.E.V	2.0 1.5	me	0	677
+15109	north-barai	506_medialssverbsuffix	-me	-me	m e	medial ss verb suffix	dutton2010	1486	4 7	AX	ME	6	6.M.C 6.E.V	2.0 1.5	me	1	677
+15110	south-barai	506_medialssverbsuffix	-me	-me	m e	medial ss verb suffix	dutton2010	1486	4 7	AX	ME	8	8.M.C 8.E.V	2.0 1.5	me	0	677
+#
+15157	koitabu	511_forbenefactivecliticisedorsuffixedtonoun	ni	ni	n i	to (dative), for (benefactive)	dutton2010	1494	4 7	AX	NI	4	4.N.C 4.I.V	2.0 1.5	ni	0	678
+15158	grass-koiari	511_forbenefactivecliticisedorsuffixedtonoun	ni	ni	n i	to (dative), for (benefactive)	dutton2010	1494	4 7	AX	NI	2	2.N.C 2.I.V	2.0 1.5	ni	0	678
+15160	south-barai	511_forbenefactivecliticisedorsuffixedtonoun	bo|ni	ni	n i	for (a thing)	dutton2010	1494	4 7	AX	NI	8	8.N.C 8.I.V	2.0 1.5	ni	0	678
+15159	omie	511_forbenefactivecliticisedorsuffixedtonoun	ni	ni	n i	for	dutton2010	1494	4 7	AX	NI	7	7.N.C 7.I.V	2.0 1.5	ni	0	678
+#
+15616	grass-koiari	531_HOW_MUCH	vahuti	vahuti	v a h u t i	how much	dutton2010	1590	3 7 3 7 1 7	AXBYBZ	BAHYTI	2	2.B.C 2.A.V 2.H.C 2.Y.V 2.T.C 2.I.V	2.0 1.5 1.75 1.3 1.75 0.8	vahuti	0	680
+15617	mountain-koiari	531_HOW_MUCH	vaesuti	vaesuti	v a e s u t i	how much	dutton2010	1590	3 7 7 3 7 1 7	AXYBYBZ	BAESYTI	5	5.B.C 5.A.V 5.E.V 5.S.C 5.Y.V 5.T.C 5.I.V	2.0 1.5 1.3 1.75 1.3 1.75 0.8	vaesuti	0	681
+14297	ese	531_HOW_MUCH	icha|ro	ro	r o	how much?	dutton2010	1324	5 7	AX	RU	1	1.R.C 1.U.V	2.0 1.5	ro	1	679
+14296	north-barai	531_HOW_MUCH	ije|ge	ge	g e	how much?	dutton2010	1324	1 7	AX	KE	6	6.K.C 6.E.V	2.0 1.5	ge	0	682
+#
+14533	north-barai	580_FUR	(siroe) u	_u	u	(dog's) fur	dutton2010	1383	7	X	Y	6	6.Y.V	1.5	u	1	683
+14534	south-barai	580_FUR	(uʔo) ui	_ui	u i	(dog's) fur	dutton2010	1383	7 7	XZ	YI	8	8.Y.V 8.I.V	1.5 0.8	ui	0	683
+14532	omie	580_FUR	u	u	u	hair' (expected form u-e)	dutton2010	1383	7	X	Y	7	7.Y.V	1.5	u	0	683
+#
+15442	koitabu	581_COME_BACK	ɣoira-ɣi (oroɣonu)	ɣoira-ɣi_	ɣ o i r a + ɣ i	return (lit. turn around [and come])	dutton2010	1546	3 7 7 5 7 9 3 7	AXYBZ_AX	GUIRA_GI	4	4.G.C 4.U.V 4.I.V 4.R.C 4.A.V 4._._ 4.G.C 4.I.V	2.0 1.5 1.3 1.75 0.8 0.0 2.0 1.5	ɣoira+ɣi	0	685
+15443	grass-koiari	581_COME_BACK	voira-vi (orovonu)	voira-vi_	v o i r a + v i	return (lit. turn around [and come])	dutton2010	1546	3 7 7 5 7 9 3 7	AXYBZ_AX	BUIRA_BI	2	2.B.C 2.U.V 2.I.V 2.R.C 2.A.V 2._._ 2.B.C 2.I.V	2.0 1.5 1.3 1.75 0.8 0.0 2.0 1.5	voira+vi	0	684
+15444	mountain-koiari	581_COME_BACK	hoila-ha-	hoila-ha-	h o i l a + h a	return	dutton2010	1546	3 7 7 5 7 9 3 7	AXYBZ_AX	HUILA_HA	5	5.H.C 5.U.V 5.I.V 5.L.C 5.A.V 5._._ 5.H.C 5.A.V	2.0 1.5 1.3 1.75 0.8 0.0 2.0 1.5	hoila+ha	0	686
+#
+14819	koitabu	586_GARDEN	buru (ɣeɣe)	buru_	b u r u	(yam) garden	dutton2010	1436	1 7 5 7	AXBZ	PYRY	4	4.P.C 4.Y.V 4.R.C 4.Y.V	2.0 1.5 1.75 0.8	buru	0	688
+14820	grass-koiari	586_GARDEN	buru	buru	b u r u	garden	dutton2010	1436	1 7 5 7	AXBZ	PYRY	2	2.P.C 2.Y.V 2.R.C 2.Y.V	2.0 1.5 1.75 0.8	buru	0	688
+14821	mountain-koiari	586_GARDEN	bulu	bulu	b u l u	garden	dutton2010	1436	1 7 5 7	AXBZ	PYLY	5	5.P.C 5.Y.V 5.L.C 5.Y.V	2.0 1.5 1.75 0.8	bulu	0	688
+14364	ese	586_GARDEN	juar-a	juar-a	j u a r + a	garden	dutton2010	1341	6 7 7 5 9 7	AXYN_X	JYAR_A	1	1.J.C 1.Y.V 1.A.V 1.R.c 1._._ 1.A.V	2.0 1.5 1.3 0.8 0.0 1.5	juar+a	0	687
+14362	north-barai	586_GARDEN	juar-e	juar-e	j u a r + e	garden	dutton2010	1341	6 7 7 5 9 7	AXYN_X	JYAR_E	6	6.J.C 6.Y.V 6.A.V 6.R.c 6._._ 6.E.V	2.0 1.5 1.3 0.8 0.0 1.5	juar+e	0	687
+14363	south-barai	586_GARDEN	jo	jo	j o	garden	dutton2010	1341	6 7	AX	JU	8	8.J.C 8.U.V	2.0 1.5	jo	0	693
+14822	omie	586_GARDEN	buor-e	buor-e	b u o r + e	fence	dutton2010	1436	1 7 7 5 9 7	AXYN_X	PYUR_E	7	7.P.C 7.Y.V 7.U.V 7.R.c 7._._ 7.E.V	2.0 1.5 1.3 0.8 0.0 1.5	buor+e	0	688
+14823	omie	586_GARDEN	boru	boru	b o r u	fence	dutton2010	1436	1 7 5 7	AXBZ	PURY	7	7.P.C 7.U.V 7.R.C 7.Y.V	2.0 1.5 1.75 0.8	boru	0	688
+#
+15644	koitabu	592_PISS	veu-ɣa-	veu-ɣa-	v e u + ɣ a	urinate	dutton2010	1598	3 7 7 9 3 7	AXZ_AX	BEY_GA	4	4.B.C 4.E.V 4.Y.V 4._._ 4.G.C 4.A.V	2.0 1.5 0.8 0.0 2.0 1.5	veu+ɣa	0	694
+15645	grass-koiari	592_PISS	veu-va-	veu-va-	v e u + v a	urinate	dutton2010	1598	3 7 7 9 3 7	AXZ_AX	BEY_BA	2	2.B.C 2.E.V 2.Y.V 2._._ 2.B.C 2.A.V	2.0 1.5 0.8 0.0 2.0 1.5	veu+va	0	694
+15646	mountain-koiari	592_PISS	veu-a	veu-a	v e u + a	urinate	dutton2010	1598	3 7 7 9 7	AXZ_X	BEY_A	5	5.B.C 5.E.V 5.Y.V 5._._ 5.A.V	2.0 1.5 0.8 0.0 1.5	veu+a	0	694
+#
+15113	grass-koiari	619_ANIMAL	mi	mi	m i	animal (as game, generic), meat	dutton2010	1487	4 7	AX	MI	2	2.M.C 2.I.V	2.0 1.5	mi	0	695
+15114	mountain-koiari	619_ANIMAL	mi	mi	m i	animal	dutton2010	1487	4 7	AX	MI	5	5.M.C 5.I.V	2.0 1.5	mi	0	695
+15117	north-barai	619_ANIMAL	mi|kuae	kuae	k u a e	animal (generic)	dutton2010	1487	1 7 7 7	AXYZ	KYAE	6	6.K.C 6.Y.V 6.A.V 6.E.V	2.0 1.5 1.3 0.8	kuae	0	697
+15115	omie	619_ANIMAL	mi (daje)	mi_	m i	animal (skin, body)	dutton2010	1487	4 7	AX	MI	7	7.M.C 7.I.V	2.0 1.5	mi	0	695
+#
+14882	koitabu	628_LEAF	hana-ka	hana-ka	h a n a + k a	leaf, hair (of head)	dutton2010	1448	3 7 4 7 9 1 7	AXBZ_AX	HANA_KA	4	4.H.C 4.A.V 4.N.C 4.A.V 4._._ 4.K.C 4.A.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5	hana+ka	0	698
+14883	grass-koiari	628_LEAF	hana-ka	hana-ka	h a n a + k a	leaf	dutton2010	1448	3 7 4 7 9 1 7	AXBZ_AX	HANA_KA	2	2.H.C 2.A.V 2.N.C 2.A.V 2._._ 2.K.C 2.A.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5	hana+ka	0	698
+14884	mountain-koiari	628_LEAF	vana	vana	v a n a	leaf	dutton2010	1448	3 7 4 7	AXBZ	BANA	5	5.B.C 5.A.V 5.N.C 5.A.V	2.0 1.5 1.75 0.8	vana	0	700
+14885	omie	628_LEAF	han-e	han-e	h a n + e	leaf	dutton2010	1448	3 7 4 9 7	AXN_X	HAN_E	7	7.H.C 7.A.V 7.N.c 7._._ 7.E.V	2.0 1.5 0.8 0.0 1.5	han+e	0	698
+#
+14388	ese	632_LIZARD	arú|s-a	s-a	s + a	lizard	dutton2010	1347	3 9 7	A_X	S_A	1	1.S.C 1._._ 1.A.V	2.0 0.0 1.5	s+a	0	701
+14387	north-barai	632_LIZARD	karu|on-e	on-e	o n + e	lizard	dutton2010	1347	7 4 9 7	XN_X	UN_E	6	6.U.V 6.N.c 6._._ 6.E.V	1.5 0.8 0.0 1.5	on+e	0	702
+#
+15112	koitabu	634_MEAT	mi|sika	sika	s i k a	meat, muscle, food	dutton2010	1487	3 7 1 7	AXBZ	SIKA	4	4.S.C 4.I.V 4.K.C 4.A.V	2.0 1.5 1.75 0.8	sika	0	703
+15116	omie	634_MEAT	mi-e	mi-e	m i + e	meat	dutton2010	1487	4 7 9 7	AX_X	MI_E	7	7.M.C 7.I.V 7._._ 7.E.V	2.0 1.5 0.0 1.5	mi+e	0	704
+#
+14476	ese	635_MILK	(musa) rih-a	_rih-a	r i h + a	(breast) milk	dutton2010	1368	5 7 3 9 7	AXN_X	RIH_A	1	1.R.C 1.I.V 1.H.c 1._._ 1.A.V	2.0 1.5 0.8 0.0 1.5	rih+a	0	705
+14475	omie	635_MILK	(amo) rihu-e	_rihu-e	r i h u + e	(breast) milk	dutton2010	1368	5 7 3 7 9 7	AXBZ_X	RIHY_E	7	7.R.C 7.I.V 7.H.C 7.Y.V 7._._ 7.E.V	2.0 1.5 1.75 0.8 0.0 1.5	rihu+e	0	705
+#
+15612	koitabu	646_ASH	utuɣo	utuɣo	u t u ɣ o	ashes	dutton2010	1589	7 1 7 3 7	XBYBZ	YTYGU	4	4.Y.V 4.T.C 4.Y.V 4.G.C 4.U.V	1.5 1.75 1.3 1.75 0.8	utuɣo	0	707
+15613	grass-koiari	646_ASH	utuvu	utuvu	u t u v u	ashes	dutton2010	1589	7 1 7 3 7	XBYBZ	YTYBY	2	2.Y.V 2.T.C 2.Y.V 2.B.C 2.Y.V	1.5 1.75 1.3 1.75 0.8	utuvu	0	707
+15614	mountain-koiari	646_ASH	uti	uti	u t i	ashes, fireplace	dutton2010	1589	7 1 7	XBZ	YTI	5	5.Y.V 5.T.C 5.I.V	1.5 1.75 0.8	uti	0	707
+14524	ese	646_ASH	ʔuʔ-a	ʔuʔ-a	ʔ u ʔ + a	ashes (where fire is built)	dutton2010	1380	1 7 1 9 7	AXN_X	HYH_A	1	1.H.C 1.Y.V 1.H.c 1._._ 1.A.V	2.0 1.5 0.8 0.0 1.5	ʔuʔ+a	0	706
+14522	north-barai	646_ASH	tuvu|ar-e	ar-e	a r + e	ashes	dutton2010	1380	7 5 9 7	XN_X	AR_E	6	6.A.V 6.R.c 6._._ 6.E.V	1.5 0.8 0.0 1.5	ar+e	1	710
+14523	south-barai	646_ASH	tuʔo|tu	tu	t u	ashes	dutton2010	1380	1 7	AX	TY	8	8.T.C 8.Y.V	2.0 1.5	tu	0	712
+14521	omie	646_ASH	ʔuë|n-e	n-e	n + e	ashes	dutton2010	1380	4 9 7	A_X	N_E	7	7.N.C 7._._ 7.E.V	2.0 0.0 1.5	n+e	1	711
+#
+14716	koitabu	665_BEE	uamo	uamo	u a m o	(honey) bee	dutton2010	1420	7 7 4 7	XYBZ	YAMU	4	4.Y.V 4.A.V 4.M.C 4.U.V	1.5 1.3 1.75 0.8	uamo	0	713
+14717	grass-koiari	665_BEE	uamu	uamu	u a m u	(honey) bee	dutton2010	1420	7 7 4 7	XYBZ	YAMY	2	2.Y.V 2.A.V 2.M.C 2.Y.V	1.5 1.3 1.75 0.8	uamu	0	713
+14718	omie	665_BEE	vuomu	vuomu	v u o m u	bee	dutton2010	1420	3 7 7 4 7	AXYBZ	BYUMY	7	7.B.C 7.Y.V 7.U.V 7.M.C 7.Y.V	2.0 1.5 1.3 1.75 0.8	vuomu	0	715
+#
+15597	koitabu	670_ROOT	umu-ka	umu-ka	u m u + k a	root, base	dutton2010	1585	7 4 7 9 1 7	XBZ_AX	YMY_KA	4	4.Y.V 4.M.C 4.Y.V 4._._ 4.K.C 4.A.V	1.5 1.75 0.8 0.0 2.0 1.5	umu+ka	0	716
+15598	grass-koiari	670_ROOT	umu-ka	umu-ka	u m u + k a	root, base	dutton2010	1585	7 4 7 9 1 7	XBZ_AX	YMY_KA	2	2.Y.V 2.M.C 2.Y.V 2._._ 2.K.C 2.A.V	1.5 1.75 0.8 0.0 2.0 1.5	umu+ka	0	716
+15599	mountain-koiari	670_ROOT	umu-ka	umu-ka	u m u + k a	root, base (of tree)	dutton2010	1585	7 4 7 9 1 7	XBZ_AX	YMY_KA	5	5.Y.V 5.M.C 5.Y.V 5._._ 5.K.C 5.A.V	1.5 1.75 0.8 0.0 2.0 1.5	umu+ka	0	716
+#
+14353	ese	671_SAND	ajar-a	ajar-a	a j a r + a	sand	dutton2010	1338	7 6 7 5 9 7	XBYN_X	AJAR_A	1	1.A.V 1.J.C 1.A.V 1.R.c 1._._ 1.A.V	1.5 1.75 1.3 0.8 0.0 1.5	ajar+a	0	717
+14351	north-barai	671_SAND	ajar-e	ajar-e	a j a r + e	sand	dutton2010	1338	7 6 7 5 9 7	XBYN_X	AJAR_E	6	6.A.V 6.J.C 6.A.V 6.R.c 6._._ 6.E.V	1.5 1.75 1.3 0.8 0.0 1.5	ajar+e	0	717
+14352	south-barai	671_SAND	aiaru	aiaru	a i a r u	sand	dutton2010	1338	7 7 7 5 7	XYYBZ	AIARY	8	8.A.V 8.I.V 8.A.V 8.R.C 8.Y.V	1.5 1.3 1.3 1.75 0.8	aiaru	0	719
+#
+14313	ese	674_MOUTH	ir-a	ir-a	i r + a	mouth	dutton2010	1328	7 5 9 7	XN_X	IR_A	1	1.I.V 1.R.c 1._._ 1.A.V	1.5 0.8 0.0 1.5	ir+a	0	720
+14311	north-barai	674_MOUTH	ir-e	ir-e	i r + e	mouth	dutton2010	1328	7 5 9 7	XN_X	IR_E	6	6.I.V 6.R.c 6._._ 6.E.V	1.5 0.8 0.0 1.5	ir+e	0	720
+14312	south-barai	674_MOUTH	iru	iru	i r u	mouth	dutton2010	1328	7 5 7	XBZ	IRY	8	8.I.V 8.R.C 8.Y.V	1.5 1.75 0.8	iru	0	720
+#
+14825	koitabu	675_FAECES_EXCREMENT	de	de	d e	faeces	dutton2010	1437	1 7	AX	TE	4	4.T.C 4.E.V	2.0 1.5	de	0	722
+14826	grass-koiari	675_FAECES_EXCREMENT	de	de	d e	faeces	dutton2010	1437	1 7	AX	TE	2	2.T.C 2.E.V	2.0 1.5	de	0	722
+14827	mountain-koiari	675_FAECES_EXCREMENT	de	de	d e	faeces	dutton2010	1437	1 7	AX	TE	5	5.T.C 5.E.V	2.0 1.5	de	0	722
+14831	ese	675_FAECES_EXCREMENT	te-a	te-a	t e + a	faeces	dutton2010	1437	1 7 9 7	AX_X	TE_A	1	1.T.C 1.E.V 1._._ 1.A.V	2.0 1.5 0.0 1.5	te+a	0	721
+14829	north-barai	675_FAECES_EXCREMENT	de	de	d e	faeces, intestines	dutton2010	1437	1 7	AX	TE	6	6.T.C 6.E.V	2.0 1.5	de	0	722
+15666	omie	675_FAECES_EXCREMENT	dë	dë	d ë/e		dutton2010	26	1 7	AX	TE	7	7.T.C 7.E.V	2.0 1.5	dë/e	0	722
+#
+15352	koitabu	680_BREAK_DESTROY_OR_GET_DESTROYED	boko-ɣa-	boko-ɣa-	b o k o + ɣ a	break (stick, pot)	dutton2010	1525	1 7 1 7 9 3 7	AXBZ_AX	PUKU_GA	4	4.P.C 4.U.V 4.K.C 4.U.V 4._._ 4.G.C 4.A.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5	boko+ɣa	0	723
+15353	grass-koiari	680_BREAK_DESTROY_OR_GET_DESTROYED	boko-va-	boko-va-	b o k o + v a	break (stick)	dutton2010	1525	1 7 1 7 9 3 7	AXBZ_AX	PUKU_BA	2	2.P.C 2.U.V 2.K.C 2.U.V 2._._ 2.B.C 2.A.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5	boko+va	0	723
+15354	mountain-koiari	680_BREAK_DESTROY_OR_GET_DESTROYED	boko-a	boko-a	b o k o + a	break, fold	dutton2010	1525	1 7 1 7 9 7	AXBZ_X	PUKU_A	5	5.P.C 5.U.V 5.K.C 5.U.V 5._._ 5.A.V	2.0 1.5 1.75 0.8 0.0 1.5	boko+a	0	723
+#
+14796	koitabu	683_PERSON	bia	bia	b i a	controller, owner, boss	dutton2010	1432	1 7 7	AXZ	PIA	4	4.P.C 4.I.V 4.A.V	2.0 1.5 0.8	bia	0	725
+14797	grass-koiari	683_PERSON	bia	bia	b i a	one (prn), people (of), group (of people) from, folk	dutton2010	1432	1 7 7	AXZ	PIA	2	2.P.C 2.I.V 2.A.V	2.0 1.5 0.8	bia	0	725
+14244	ese	683_PERSON	e-a	e-a	e + a	person, human being	dutton2010	1312	7 9 7	X_X	E_A	1	1.E.V 1._._ 1.A.V	1.5 0.0 1.5	e+a	0	724
+14242	north-barai	683_PERSON	e	e	e	person, people	dutton2010	1312	7	X	E	6	6.E.V	1.5	e	0	727
+14243	south-barai	683_PERSON	e	e	e	person	dutton2010	1312	7	X	E	8	8.E.V	1.5	e	0	727
+14798	south-barai	683_PERSON	bia	bia	b i a	man, person	dutton2010	1432	1 7 7	AXZ	PIA	8	8.P.C 8.I.V 8.A.V	2.0 1.5 0.8	bia	0	725
+14241	omie	683_PERSON	a-e	a-e	a + e	man, person	dutton2010	1312	7 9 7	X_X	A_E	7	7.A.V 7._._ 7.E.V	1.5 0.0 1.5	a+e	0	724
+#
+15063	koitabu	694_GET	ma-	ma-	m a	get (sg obj)	dutton2010	1478	4 7	AX	MA	4	4.M.C 4.A.V	2.0 1.5	ma	0	729
+15064	grass-koiari	694_GET	ma-	ma-	m a	get (sg obj)	dutton2010	1478	4 7	AX	MA	2	2.M.C 2.A.V	2.0 1.5	ma	0	729
+15065	mountain-koiari	694_GET	ma-	ma-	m a	get, take	dutton2010	1478	4 7	AX	MA	5	5.M.C 5.A.V	2.0 1.5	ma	0	729
+14216	ese	694_GET	ape|j-o	j-o	j + o	get, take	dutton2010	1305	6 9 7	A_X	J_U	1	1.J.C 1._._ 1.U.V	2.0 0.0 1.5	j+o	0	728
+14213	north-barai	694_GET	abe|ro	ro	r o	get (and come), take	dutton2010	1305	5 7	AX	RU	6	6.R.C 6.U.V	2.0 1.5	ro	0	732
+14214	north-barai	694_GET	abe	abe	a b e	take	dutton2010	1305	7 1 7	XBZ	APE	6	6.A.V 6.P.C 6.E.V	1.5 1.75 0.8	abe	0	734
+14215	south-barai	694_GET	abe-	abe-	a b e	take	dutton2010	1305	7 1 7	XBZ	APE	8	8.A.V 8.P.C 8.E.V	1.5 1.75 0.8	abe	0	734
+14212	omie	694_GET	baej-e	baej-e	b a e j + e	take	dutton2010	1305	1 7 7 6 9 7	AXYN_X	PAEJ_E	7	7.P.C 7.A.V 7.E.V 7.J.c 7._._ 7.E.V	2.0 1.5 1.3 0.8 0.0 1.5	baej+e	0	733
+#
+15569	koitabu	695_GO	(o)ti-	ti-	t i	go	dutton2010	1578	1 7	AX	TI	4	4.T.C 4.I.V	2.0 1.5	ti	0	736
+15570	grass-koiari	695_GO	(o)ti-	ti-	t i	go	dutton2010	1578	1 7	AX	TI	2	2.T.C 2.I.V	2.0 1.5	ti	0	736
+15571	mountain-koiari	695_GO	ti-	ti-	t i	go	dutton2010	1578	1 7	AX	TI	5	5.T.C 5.I.V	2.0 1.5	ti	0	736
+14548	ese	695_GO	vaʔ-o	vaʔ-o	v a ʔ + o	go	dutton2010	1386	3 7 1 9 7	AXN_X	BAH_U	1	1.B.C 1.A.V 1.H.c 1._._ 1.U.V	2.0 1.5 0.8 0.0 1.5	vaʔ+o	0	735
+14546	north-barai	695_GO	va	va	v a	go	dutton2010	1386	3 7	AX	BA	6	6.B.C 6.A.V	2.0 1.5	va	0	739
+14547	south-barai	695_GO	vaʔ-o	vaʔ-o	v a ʔ + o	go	dutton2010	1386	3 7 1 9 7	AXN_X	BAH_U	8	8.B.C 8.A.V 8.H.c 8._._ 8.U.V	2.0 1.5 0.8 0.0 1.5	vaʔ+o	0	735
+14545	omie	695_GO	vaʔ-e	vaʔ-e	v a ʔ + e	go	dutton2010	1386	3 7 1 9 7	AXN_X	BAH_E	7	7.B.C 7.A.V 7.H.c 7._._ 7.E.V	2.0 1.5 0.8 0.0 1.5	vaʔ+e	0	735
+#
+15096	mountain-koiari	725_OLD_PERSON	mami	mami	m a m i	old (of things only)	dutton2010	1484	4 7 4 7	AXBZ	MAMI	5	5.M.C 5.A.V 5.M.C 5.I.V	2.0 1.5 1.75 0.8	mami	0	741
+15099	ese	725_OLD_PERSON	(e)ma	ma	m a	old (man)	dutton2010	1484	4 7	AX	MA	1	1.M.C 1.A.V	2.0 1.5	ma	0	740
+15098	north-barai	725_OLD_PERSON	(a)mame	mame	m a m e	old (man), old (woman) (very old)	dutton2010	1484	4 7 4 7	AXBZ	MAME	6	6.M.C 6.A.V 6.M.C 6.E.V	2.0 1.5 1.75 0.8	mame	0	741
+15097	omie	725_OLD_PERSON	mamie	mamie	m a m i e	old (of house)	dutton2010	1484	4 7 4 7 7	AXBYZ	MAMIE	7	7.M.C 7.A.V 7.M.C 7.I.V 7.E.V	2.0 1.5 1.75 1.3 0.8	mamie	0	741
+#
+14283	ese	727_WHICH	icha|ra	ra	r a	which?	dutton2010	1321	5 7	AX	RA	1	1.R.C 1.A.V	2.0 1.5	ra	1	742
+14281	north-barai	727_WHICH	ize|ki	ki	k i	which?	dutton2010	1321	1 7	AX	KI	6	6.K.C 6.I.V	2.0 1.5	ki	0	743
+14282	south-barai	727_WHICH	ide|ʔo	ʔo	ʔ o	which?	dutton2010	1321	1 7	AX	HU	8	8.H.C 8.U.V	2.0 1.5	ʔo	0	745
+14280	omie	727_WHICH	di	di	d i	which?	dutton2010	1321	1 7	AX	TI	7	7.T.C 7.I.V	2.0 1.5	di	0	744
+#
+14513	ese	730_SNAKE	tapar-a	tapar-a	t a p a r + a	snake	dutton2010	1377	1 7 1 7 5 9 7	AXBYN_X	TAPAR_A	1	1.T.C 1.A.V 1.P.C 1.A.V 1.R.c 1._._ 1.A.V	2.0 1.5 1.75 1.3 0.8 0.0 1.5	tapar+a	0	746
+14511	north-barai	730_SNAKE	tabar-e	tabar-e	t a b a r + e	snake	dutton2010	1377	1 7 1 7 5 9 7	AXBYN_X	TAPAR_E	6	6.T.C 6.A.V 6.P.C 6.A.V 6.R.c 6._._ 6.E.V	2.0 1.5 1.75 1.3 0.8 0.0 1.5	tabar+e	0	746
+14512	south-barai	730_SNAKE	tabare	tabare	t a b a r e	snake	dutton2010	1377	1 7 1 7 5 7	AXBYBZ	TAPARE	8	8.T.C 8.A.V 8.P.C 8.A.V 8.R.C 8.E.V	2.0 1.5 1.75 1.3 1.75 0.8	tabare	0	746
+14510	omie	730_SNAKE	tabôr-e	tabôr-e	t a b ô/o r + e	snake	dutton2010	1377	1 7 1 7 5 9 7	AXBYN_X	TAPUR_E	7	7.T.C 7.A.V 7.P.C 7.U.V 7.R.c 7._._ 7.E.V	2.0 1.5 1.75 1.3 0.8 0.0 1.5	tabô/or+e	0	746
+#
+14625	koitabu	744_EGG	uni-ka	uni-ka	u n i + k a	egg, kernel	dutton2010	1404	7 4 7 9 1 7	XBZ_AX	YNI_KA	4	4.Y.V 4.N.C 4.I.V 4._._ 4.K.C 4.A.V	1.5 1.75 0.8 0.0 2.0 1.5	uni+ka	0	747
+14626	grass-koiari	744_EGG	uni-ka	uni-ka	u n i + k a	egg, kernel, core, stomach	dutton2010	1404	7 4 7 9 1 7	XBZ_AX	YNI_KA	2	2.Y.V 2.N.C 2.I.V 2._._ 2.K.C 2.A.V	1.5 1.75 0.8 0.0 2.0 1.5	uni+ka	0	747
+14627	mountain-koiari	744_EGG	uni	uni	u n i	egg (when combined with word for 'bird'), stomach	dutton2010	1404	7 4 7	XBZ	YNI	5	5.Y.V 5.N.C 5.I.V	1.5 1.75 0.8	uni	0	747
+14628	omie	744_EGG	un-e	un-e	u n + e	egg	dutton2010	1404	7 4 9 7	XN_X	YN_E	7	7.Y.V 7.N.c 7._._ 7.E.V	1.5 0.8 0.0 1.5	un+e	0	747
+#
+14670	koitabu	749_ENTER	ari|ra-ɣa-	ra-ɣa-	r a + ɣ a	fall into a hole	dutton2010	1413	5 7 9 3 7	AX_AX	RA_GA	4	4.R.C 4.A.V 4._._ 4.G.C 4.A.V	2.0 1.5 0.0 2.0 1.5	ra+ɣa	0	749
+14671	grass-koiari	749_ENTER	ari|ra-va-	ra-va-	r a + v a	enter a hole	dutton2010	1413	5 7 9 3 7	AX_AX	RA_BA	2	2.R.C 2.A.V 2._._ 2.B.C 2.A.V	2.0 1.5 0.0 2.0 1.5	ra+va	0	749
+14675	ese	749_ENTER	aru|v-o	v-o	v + o	enter, go inside	dutton2010	1413	3 9 7	A_X	B_U	1	1.B.C 1._._ 1.U.V	2.0 0.0 1.5	v+o	0	748
+14672	north-barai	749_ENTER	aru	aru	a r u	go in	dutton2010	1413	7 5 7	XBZ	ARY	6	6.A.V 6.R.C 6.Y.V	1.5 1.75 0.8	aru	0	751
+14673	south-barai	749_ENTER	aru|ye	ye	j e	enter	dutton2010	1413	6 7	AX	JE	8	8.J.C 8.E.V	2.0 1.5	je	0	752
+14674	south-barai	749_ENTER	aru|ʔairo	ʔairo	ʔ a i r o	enter	dutton2010	1413	1 7 7 5 7	AXYBZ	HAIRU	8	8.H.C 8.A.V 8.I.V 8.R.C 8.U.V	2.0 1.5 1.3 1.75 0.8	ʔairo	0	751
+#
+14685	koitabu	763_SKIN	vata-ka	vata-ka	v a t a + k a	skin	dutton2010	1415	3 7 1 7 9 1 7	AXBZ_AX	BATA_KA	4	4.B.C 4.A.V 4.T.C 4.A.V 4._._ 4.K.C 4.A.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5	vata+ka	0	754
+14686	grass-koiari	763_SKIN	vata-ka	vata-ka	v a t a + k a	skin	dutton2010	1415	3 7 1 7 9 1 7	AXBZ_AX	BATA_KA	2	2.B.C 2.A.V 2.T.C 2.A.V 2._._ 2.K.C 2.A.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5	vata+ka	0	754
+14687	mountain-koiari	763_SKIN	vate	vate	v a t e	skin	dutton2010	1415	3 7 1 7	AXBZ	BATE	5	5.B.C 5.A.V 5.T.C 5.E.V	2.0 1.5 1.75 0.8	vate	0	754
+14688	ese	763_SKIN	hah-a	hah-a	h a h + a	body	dutton2010	1415	3 7 3 9 7	AXN_X	HAH_A	1	1.H.C 1.A.V 1.H.c 1._._ 1.A.V	2.0 1.5 0.8 0.0 1.5	hah+a	1	753
+#
+14443	ese	776_TRUNK_OF_TREE	(icha) ane|j-a	j-a	j + a	(tree) trunk	dutton2010	1360	6 9 7	A_X	J_A	1	1.J.C 1._._ 1.A.V	2.0 0.0 1.5	j+a	0	755
+14578	ese	776_TRUNK_OF_TREE	ʔah-a	ʔah-a	ʔ a h + a	(tree) trunk	dutton2010	1394	1 7 3 9 7	AXN_X	HAH_A	1	1.H.C 1.A.V 1.H.c 1._._ 1.A.V	2.0 1.5 0.8 0.0 1.5	ʔah+a	0	758
+14442	north-barai	776_TRUNK_OF_TREE	(ine) an-e	_an-e	a n + e	(tree) trunk	dutton2010	1360	7 4 9 7	XN_X	AN_E	6	6.A.V 6.N.c 6._._ 6.E.V	1.5 0.8 0.0 1.5	an+e	0	756
+14577	south-barai	776_TRUNK_OF_TREE	(idu)ʔaho	ʔaho	ʔ a h o	(tree) trunk	dutton2010	1394	1 7 3 7	AXBZ	HAHU	8	8.H.C 8.A.V 8.H.C 8.U.V	2.0 1.5 1.75 0.8	ʔaho	0	758
+14576	omie	776_TRUNK_OF_TREE	aho|naj-e	naj-e	n a j + e	trunk	dutton2010	1394	4 7 6 9 7	AXN_X	NAJ_E	7	7.N.C 7.A.V 7.J.c 7._._ 7.E.V	2.0 1.5 0.8 0.0 1.5	naj+e	0	757
+#
+14539	ese	778_SMOKE_EXHAUST	(vena) uʔ-a	_uʔ-a	u ʔ + a	(fire) smoke	dutton2010	1384	7 1 9 7	XN_X	YH_A	1	1.Y.V 1.H.c 1._._ 1.A.V	1.5 0.8 0.0 1.5	uʔ+a	0	759
+14537	north-barai	778_SMOKE_EXHAUST	(arene) u	_u	u	(fire) smoke	dutton2010	1384	7	X	Y	6	6.Y.V	1.5	u	1	760
+14538	south-barai	778_SMOKE_EXHAUST	(menu) uʔu	_uʔu	u ʔ u	(fire) smoke	dutton2010	1384	7 1 7	XBZ	YHY	8	8.Y.V 8.H.C 8.Y.V	1.5 1.75 0.8	uʔu	0	759
+14536	omie	778_SMOKE_EXHAUST	uʔa-e	uʔa-e	u ʔ a + e	smoke	dutton2010	1384	7 1 7 9 7	XBZ_X	YHA_E	7	7.Y.V 7.H.C 7.A.V 7._._ 7.E.V	1.5 1.75 0.8 0.0 1.5	uʔa+e	0	759
+#
+15388	koitabu	78_THAT	eke|ro	ro	r o	that	dutton2010	1534	5 7	AX	RU	4	4.R.C 4.U.V	2.0 1.5	ro	1	763
+15389	koitabu	78_THAT	e	e	e	that	dutton2010	1534	7	X	E	4	4.E.V	1.5	e	0	768
+15390	grass-koiari	78_THAT	eke	eke	e k e	that	dutton2010	1534	7 1 7	XBZ	EKE	2	2.E.V 2.K.C 2.E.V	1.5 1.75 0.8	eke	0	762
+15391	mountain-koiari	78_THAT	ke	ke	k e	that	dutton2010	1534	1 7	AX	KE	5	5.K.C 5.E.V	2.0 1.5	ke	0	764
+14266	ese	78_THAT	ka|jaho	jaho	j a h o	that	dutton2010	1317	6 7 3 7	AXBZ	JAHU	1	1.J.C 1.A.V 1.H.C 1.U.V	2.0 1.5 1.75 0.8	jaho	0	761
+14267	ese	78_THAT	ijá|ka|ro	ro	r o	that over there	dutton2010	1317	5 7	AX	RU	1	1.R.C 1.U.V	2.0 1.5	ro	0	763
+14264	north-barai	78_THAT	ga|fia	fia	f i a	(up) there	dutton2010	1317	3 7 7	AXZ	BIA	6	6.B.C 6.I.V 6.A.V	2.0 1.5 0.8	fia	0	765
+14265	south-barai	78_THAT	ga|re	re	r e	that over there	dutton2010	1317	5 7	AX	RE	8	8.R.C 8.E.V	2.0 1.5	re	1	763
+#
+14493	ese	798_JAW	sano-a	sano-a	s a n o + a	jaw, chin	dutton2010	1372	3 7 4 7 9 7	AXBZ_X	SANU_A	1	1.S.C 1.A.V 1.N.C 1.U.V 1._._ 1.A.V	2.0 1.5 1.75 0.8 0.0 1.5	sano+a	0	769
+14492	south-barai	798_JAW	anoʔu	anoʔu	a n o ʔ u	jaw, chin	dutton2010	1372	7 4 7 1 7	XBYBZ	ANUHY	8	8.A.V 8.N.C 8.U.V 8.H.C 8.Y.V	1.5 1.75 1.3 1.75 0.8	anoʔu	0	770
+#
+14239	south-barai	800_THIGH	du'a	du'a	d u a	thigh	dutton2010	1311	1 7 7	AXZ	TYA	8	8.T.C 8.Y.V 8.A.V	2.0 1.5 0.8	dua	0	772
+14238	omie	800_THIGH	du'a|h-e	h-e	h + e	thigh	dutton2010	1311	3 9 7	A_X	H_E	7	7.H.C 7._._ 7.E.V	2.0 0.0 1.5	h+e	1	771
+#
+14408	ese	804_purposiveverbsuffix	-iro	-iro	i r o	purpose	dutton2010	1351	7 5 7	XBZ	IRU	1	1.I.V 1.R.C 1.U.V	1.5 1.75 0.8	iro	0	773
+14407	north-barai	804_purposiveverbsuffix	-kiro	-kiro	k i r o	desiderative	dutton2010	1351	1 7 5 7	AXBZ	KIRU	6	6.K.C 6.I.V 6.R.C 6.U.V	2.0 1.5 1.75 0.8	kiro	0	774
+14405	omie	804_purposiveverbsuffix	-i(ro)	-i	i	"potential"	dutton2010	1351	7	X	I	7	7.I.V	1.5	i	1	775
+14406	omie	804_purposiveverbsuffix	-ʔirô	-ʔirô	ʔ i r ô/o	"potential"	dutton2010	1351	1 7 5 7	AXBZ	HIRU	7	7.H.C 7.I.V 7.R.C 7.U.V	2.0 1.5 1.75 0.8	ʔirô/o	0	773
+#
+15659	koitabu	810_predicativepossessivesuffix	-ye	-ye	j e	Predictive possessive suffix	dutton2010	1602	6 7	AX	JE	4	4.J.C 4.E.V	2.0 1.5	je	0	777
+15660	grass-koiari	810_predicativepossessivesuffix	-ye	-ye	j e	Predictive possessive suffix	dutton2010	1602	6 7	AX	JE	2	2.J.C 2.E.V	2.0 1.5	je	0	777
+15661	mountain-koiari	810_predicativepossessivesuffix	-le	-le	l e	Predictive possessive suffix	dutton2010	1602	5 7	AX	LE	5	5.L.C 5.E.V	2.0 1.5	le	0	779
+14473	ese	810_predicativepossessivesuffix	-uni	-uni	u n i	predicative possessive suffix	dutton2010	1367	7 4 7	XBZ	YNI	1	1.Y.V 1.N.C 1.I.V	1.5 1.75 0.8	uni	0	776
+14472	north-barai	810_predicativepossessivesuffix	-one	-one	o n e	predicative possessive suffix	dutton2010	1367	7 4 7	XBZ	UNE	6	6.U.V 6.N.C 6.E.V	1.5 1.75 0.8	one	0	776
+#
+15050	koitabu	813_DO	ki-	ki-	k i	do, make	dutton2010	1476	1 7	AX	KI	4	4.K.C 4.I.V	2.0 1.5	ki	0	780
+15051	grass-koiari	813_DO	ki-	ki-	k i	do, make	dutton2010	1476	1 7	AX	KI	2	2.K.C 2.I.V	2.0 1.5	ki	0	780
+15052	north-barai	813_DO	(masire) ki-a	_ki-a	k i + a	make (magic)	dutton2010	1476	1 7 9 7	AX_X	KI_A	6	6.K.C 6.I.V 6._._ 6.A.V	2.0 1.5 0.0 1.5	ki+a	0	782
+#
+14728	koitabu	817_THEY	yau	yau	j a u	they	dutton2010	1422	6 7 7	AXZ	JAY	4	4.J.C 4.A.V 4.Y.V	2.0 1.5 0.8	jau	0	785
+14729	grass-koiari	817_THEY	yabu	yabu	j a b u	they	dutton2010	1422	6 7 1 7	AXBZ	JAPY	2	2.J.C 2.A.V 2.P.C 2.Y.V	2.0 1.5 1.75 0.8	jabu	0	784
+14730	mountain-koiari	817_THEY	abu	abu	a b u	they	dutton2010	1422	7 1 7	XBZ	APY	5	5.A.V 5.P.C 5.Y.V	1.5 1.75 0.8	abu	0	786
+14734	ese	817_THEY	pu	pu	p u	they	dutton2010	1422	1 7	AX	PY	1	1.P.C 1.Y.V	2.0 1.5	pu	0	783
+14732	north-barai	817_THEY	bu	bu	b u	they	dutton2010	1422	1 7	AX	PY	6	6.P.C 6.Y.V	2.0 1.5	bu	0	783
+14733	south-barai	817_THEY	pu	pu	p u	they	dutton2010	1422	1 7	AX	PY	8	8.P.C 8.Y.V	2.0 1.5	pu	0	783
+14731	omie	817_THEY	jabu	jabu	j a b u	they	dutton2010	1422	6 7 1 7	AXBZ	JAPY	7	7.J.C 7.A.V 7.P.C 7.Y.V	2.0 1.5 1.75 0.8	jabu	0	784
+#
+14618	koitabu	822_plsuffixonkinshipnouns	-uhea	-uhea	u h e a	pl suffix on kinship nouns	dutton2010	1403	7 3 7 7	XBYZ	YHEA	4	4.Y.V 4.H.C 4.E.V 4.A.V	1.5 1.75 1.3 0.8	uhea	0	788
+14619	koitabu	822_plsuffixonkinshipnouns	-uhu yabara	-uhu_yabara	u h u + j a b a r a	pl suffix on kinship nouns	dutton2010	1403	7 3 7 9 6 7 1 7 5 7	XBZ_AXBYBZ	YHY_JAPARA	4	4.Y.V 4.H.C 4.Y.V 4._._ 4.J.C 4.A.V 4.P.C 4.A.V 4.R.C 4.A.V	1.5 1.75 0.8 0.0 2.0 1.5 1.75 1.3 1.75 0.8	uhu+jabara	0	788
+14620	grass-koiari	822_plsuffixonkinshipnouns	-uhu yabe	-uhu_yabe	u h u + j a b e	pl suffix on kinship nouns	dutton2010	1403	7 3 7 9 6 7 1 7	XBZ_AXBZ	YHY_JAPE	2	2.Y.V 2.H.C 2.Y.V 2._._ 2.J.C 2.A.V 2.P.C 2.E.V	1.5 1.75 0.8 0.0 2.0 1.5 1.75 0.8	uhu+jabe	0	788
+14621	mountain-koiari	822_plsuffixonkinshipnouns	-uvu	-uvu	u v u	pl suffix on kinship nouns	dutton2010	1403	7 3 7	XBZ	YBY	5	5.Y.V 5.B.C 5.Y.V	1.5 1.75 0.8	uvu	0	790
+14623	ese	822_plsuffixonkinshipnouns	-hu (and variants)	-hu_	h u	pl suffix on kinship nouns	dutton2010	1403	3 7	AX	HY	1	1.H.C 1.Y.V	2.0 1.5	hu	0	787
+14622	south-barai	822_plsuffixonkinshipnouns	-hu	-hu	h u	pl suffix on kinship nouns	dutton2010	1403	3 7	AX	HY	8	8.H.C 8.Y.V	2.0 1.5	hu	0	787
+#
+14772	koitabu	834_acertainonesomeanother	be	be	b e	a (certain one), one, some	dutton2010	1429	1 7	AX	PE	4	4.P.C 4.E.V	2.0 1.5	be	0	792
+14773	grass-koiari	834_acertainonesomeanother	be	be	b e	a (certain one), one, some, another	dutton2010	1429	1 7	AX	PE	2	2.P.C 2.E.V	2.0 1.5	be	1	792
+14774	mountain-koiari	834_acertainonesomeanother	be	be	b e	a, one, some	dutton2010	1429	1 7	AX	PE	5	5.P.C 5.E.V	2.0 1.5	be	0	792
+14778	ese	834_acertainonesomeanother	pe|na	na	n a	a, one, another	dutton2010	1429	4 7	AX	NA	1	1.N.C 1.A.V	2.0 1.5	na	0	791
+14779	ese	834_acertainonesomeanother	pi|ni	ni	n i	a, one, another	dutton2010	1429	4 7	AX	NI	1	1.N.C 1.I.V	2.0 1.5	ni	0	791
+14780	ese	834_acertainonesomeanother	pi|na	na	n a	a, one, another	dutton2010	1429	4 7	AX	NA	1	1.N.C 1.A.V	2.0 1.5	na	1	791
+14775	north-barai	834_acertainonesomeanother	be	be	b e	another, different	dutton2010	1429	1 7	AX	PE	6	6.P.C 6.E.V	2.0 1.5	be	0	792
+14776	south-barai	834_acertainonesomeanother	be|hi	hi	h i	a, one, other	dutton2010	1429	3 7	AX	HI	8	8.H.C 8.I.V	2.0 1.5	hi	0	796
+14777	south-barai	834_acertainonesomeanother	be|si	si	s i	a, one, other	dutton2010	1429	3 7	AX	SI	8	8.S.C 8.I.V	2.0 1.5	si	0	798
+#
+14887	koitabu	840_immediateimperativepluralverbsuffix	-ya|he	he	h e	imperative plural suffix	dutton2010	1449	3 7	AX	HE	4	4.H.C 4.E.V	2.0 1.5	he	0	799
+14888	grass-koiari	840_immediateimperativepluralverbsuffix	-ya|he	he	h e	imperative plural suffix	dutton2010	1449	3 7	AX	HE	2	2.H.C 2.E.V	2.0 1.5	he	0	799
+14889	mountain-koiari	840_immediateimperativepluralverbsuffix	-ve	-ve	v e	imperative plural suffix	dutton2010	1449	3 7	AX	BE	5	5.B.C 5.E.V	2.0 1.5	ve	0	801
+14890	mountain-koiari	840_immediateimperativepluralverbsuffix	-fe	-fe	f e	imperative plural suffix	dutton2010	1449	3 7	AX	BE	5	5.B.C 5.E.V	2.0 1.5	fe	0	802
+14892	north-barai	840_immediateimperativepluralverbsuffix	-fo	-fo	f o	imperative plural suffix	dutton2010	1449	3 7	AX	BU	6	6.B.C 6.U.V	2.0 1.5	fo	0	802
+14893	south-barai	840_immediateimperativepluralverbsuffix	-he	-he	h e	imperative plural suffix	dutton2010	1449	3 7	AX	HE	8	8.H.C 8.E.V	2.0 1.5	he	0	799
+14894	south-barai	840_immediateimperativepluralverbsuffix	-ye	-ye	j e	imperative plural suffix	dutton2010	1449	6 7	AX	JE	8	8.J.C 8.E.V	2.0 1.5	je	1	806
+14891	omie	840_immediateimperativepluralverbsuffix	-he	-he	h e	imperative plural suffix	dutton2010	1449	3 7	AX	HE	7	7.H.C 7.E.V	2.0 1.5	he	0	799
+#
+14896	koitabu	841_locativenounsuffixattofrom	-he	-he	h e	at, to, from	dutton2010	1450	3 7	AX	HE	4	4.H.C 4.E.V	2.0 1.5	he	1	807
+14897	grass-koiari	841_locativenounsuffixattofrom	-he	-he	h e	at, to, from	dutton2010	1450	3 7	AX	HE	2	2.H.C 2.E.V	2.0 1.5	he	1	807
+14898	mountain-koiari	841_locativenounsuffixattofrom	-ve	-ve	v e	at, to	dutton2010	1450	3 7	AX	BE	5	5.B.C 5.E.V	2.0 1.5	ve	1	810
+14899	mountain-koiari	841_locativenounsuffixattofrom	-fe	-fe	f e	at, to	dutton2010	1450	3 7	AX	BE	5	5.B.C 5.E.V	2.0 1.5	fe	1	815
+14586	ese	841_locativenounsuffixattofrom	-a	-a	a	premodifier suffix or oblique case suffix	dutton2010	1396	7	X	A	1	1.A.V	1.5	a	1	807
+14587	ese	841_locativenounsuffixattofrom	-i	-i	i	premodifier suffix or oblique case suffix	dutton2010	1396	7	X	I	1	1.I.V	1.5	i	0	807
+14900	north-barai	841_locativenounsuffixattofrom	-he	-he	h e	at, from	dutton2010	1450	3 7	AX	HE	6	6.H.C 6.E.V	2.0 1.5	he	0	807
+14585	south-barai	841_locativenounsuffixattofrom	-ʔe	-ʔe	ʔ e	at' (in addition to -de, -he)	dutton2010	1396	1 7	AX	HE	8	8.H.C 8.E.V	2.0 1.5	ʔe	0	807
+14901	south-barai	841_locativenounsuffixattofrom	-he	-he	h e	to, in, from	dutton2010	1450	3 7	AX	HE	8	8.H.C 8.E.V	2.0 1.5	he	1	807
+14902	south-barai	841_locativenounsuffixattofrom	-'e	-'e	e	to, in, from	dutton2010	1450	7	X	E	8	8.E.V	1.5	e	1	807
+14584	omie	841_locativenounsuffixattofrom	-ʔe	-ʔe	ʔ e	at (with temporals)	dutton2010	1396	1 7	AX	HE	7	7.H.C 7.E.V	2.0 1.5	ʔe	0	807
+#
+14915	koitabu	843_tobuysellbarter	hae-va-	hae-va-	h a e + v a	buy, sell, barter	dutton2010	1453	3 7 7 9 3 7	AXZ_AX	HAE_BA	4	4.H.C 4.A.V 4.E.V 4._._ 4.B.C 4.A.V	2.0 1.5 0.8 0.0 2.0 1.5	hae+va	0	816
+14916	north-barai	843_tobuysellbarter	fuae|v-e	v-e	v + e	buy	dutton2010	1453	3 9 7	A_X	B_E	6	6.B.C 6._._ 6.E.V	2.0 0.0 1.5	v+e	0	817
+#
+15135	koitabu	857_STONE	muni	muni	m u n i	stone	dutton2010	1490	4 7 4 7	AXBZ	MYNI	4	4.M.C 4.Y.V 4.N.C 4.I.V	2.0 1.5 1.75 0.8	muni	0	818
+15136	grass-koiari	857_STONE	muni	muni	m u n i	stone	dutton2010	1490	4 7 4 7	AXBZ	MYNI	2	2.M.C 2.Y.V 2.N.C 2.I.V	2.0 1.5 1.75 0.8	muni	0	818
+15137	mountain-koiari	857_STONE	mune	mune	m u n e	stone	dutton2010	1490	4 7 4 7	AXBZ	MYNE	5	5.M.C 5.Y.V 5.N.C 5.E.V	2.0 1.5 1.75 0.8	mune	0	818
+15140	ese	857_STONE	mun-a	mun-a	m u n + a	stone	dutton2010	1490	4 7 4 9 7	AXN_X	MYN_A	1	1.M.C 1.Y.V 1.N.c 1._._ 1.A.V	2.0 1.5 0.8 0.0 1.5	mun+a	0	818
+15139	north-barai	857_STONE	mun-e	mun-e	m u n + e	stone	dutton2010	1490	4 7 4 9 7	AXN_X	MYN_E	6	6.M.C 6.Y.V 6.N.c 6._._ 6.E.V	2.0 1.5 0.8 0.0 1.5	mun+e	0	818
+15138	omie	857_STONE	munë	munë	m u n ë/e	stone, rock	dutton2010	1490	4 7 4 7	AXBZ	MYNE	7	7.M.C 7.Y.V 7.N.C 7.E.V	2.0 1.5 1.75 0.8	munë/e	0	818
+#
+15230	koitabu	860_toclearbushforplanting	yaha-	yaha-	j a h a	shave, remove hair	dutton2010	1504	6 7 3 7	AXBZ	JAHA	4	4.J.C 4.A.V 4.H.C 4.A.V	2.0 1.5 1.75 0.8	jaha	0	819
+15231	grass-koiari	860_toclearbushforplanting	yaha-	yaha-	j a h a	clear grass and/or weeds away	dutton2010	1504	6 7 3 7	AXBZ	JAHA	2	2.J.C 2.A.V 2.H.C 2.A.V	2.0 1.5 1.75 0.8	jaha	0	819
+15233	mountain-koiari	860_toclearbushforplanting	lavu|-nu	-nu	n u	he weeds	dutton2010	1504	4 7	AX	NY	5	5.N.C 5.Y.V	2.0 1.5	nu	0	821
+15234	omie	860_toclearbushforplanting	rav-e	rav-e	r a v + e	weed, clear	dutton2010	1504	5 7 3 9 7	AXN_X	RAB_E	7	7.R.C 7.A.V 7.B.c 7._._ 7.E.V	2.0 1.5 0.8 0.0 1.5	rav+e	1	822
+#
+15276	grass-koiari	862_plateauflatland	amaro|di	di	d i	on (top of)/along the ridge	dutton2010	1510	1 7	AX	TI	2	2.T.C 2.I.V	2.0 1.5	di	0	824
+15278	ese	862_plateauflatland	amar-a	amar-a	a m a r + a	plateau, land (flat)	dutton2010	1510	7 4 7 5 9 7	XBYN_X	AMAR_A	1	1.A.V 1.M.C 1.A.V 1.R.c 1._._ 1.A.V	1.5 1.75 1.3 0.8 0.0 1.5	amar+a	0	823
+15277	north-barai	862_plateauflatland	amar-e	amar-e	a m a r + e	flat land	dutton2010	1510	7 4 7 5 9 7	XBYN_X	AMAR_E	6	6.A.V 6.M.C 6.A.V 6.R.c 6._._ 6.E.V	1.5 1.75 1.3 0.8 0.0 1.5	amar+e	0	823
+#
+15365	grass-koiari	865_withbymeansof	da	da	d a	on, on top of, by (car or truck)	dutton2010	1528	1 7	AX	TA	2	2.T.C 2.A.V	2.0 1.5	da	1	825
+15366	mountain-koiari	865_withbymeansof	da	da	d a	with	dutton2010	1528	1 7	AX	TA	5	5.T.C 5.A.V	2.0 1.5	da	1	825
+#
+15401	grass-koiari	866_WIN	haki	haki	h a k i	side	dutton2010	1537	3 7 1 7	AXBZ	HAKI	2	2.H.C 2.A.V 2.K.C 2.I.V	2.0 1.5 1.75 0.8	haki	0	826
+15402	mountain-koiari	866_WIN	vaki	vaki	v a k i	side	dutton2010	1537	3 7 1 7	AXBZ	BAKI	5	5.B.C 5.A.V 5.K.C 5.I.V	2.0 1.5 1.75 0.8	vaki	0	827
+#
+15404	koitabu	867_backofhand	(ada) hoto-ka	_hoto-ka	h o t o + k a	back (of hand)	dutton2010	1538	3 7 1 7 9 1 7	AXBZ_AX	HUTU_KA	4	4.H.C 4.U.V 4.T.C 4.U.V 4._._ 4.K.C 4.A.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5	hoto+ka	0	828
+15405	grass-koiari	867_backofhand	(ada) hoto-ka	_hoto-ka	h o t o + k a	back of hand	dutton2010	1538	3 7 1 7 9 1 7	AXBZ_AX	HUTU_KA	2	2.H.C 2.U.V 2.T.C 2.U.V 2._._ 2.K.C 2.A.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5	hoto+ka	1	828
+15407	mountain-koiari	867_backofhand	(ada) voto	_voto	v o t o	palm (of hand)	dutton2010	1538	3 7 1 7	AXBZ	BUTU	5	5.B.C 5.U.V 5.T.C 5.U.V	2.0 1.5 1.75 0.8	voto	0	830
+#
+14582	ese	868_BANANA	ʔajúj-a	ʔajúj-a	ʔ a j ú/u j + a	banana	dutton2010	1395	1 7 6 7 6 9 7	AXBYN_X	HAJYJ_A	1	1.H.C 1.A.V 1.J.C 1.Y.V 1.J.c 1._._ 1.A.V	2.0 1.5 1.75 1.3 0.8 0.0 1.5	ʔajú/uj+a	0	831
+14581	north-barai	868_BANANA	aju-e	aju-e	a j u + e	banana (type)	dutton2010	1395	7 6 7 9 7	XBZ_X	AJY_E	6	6.A.V 6.J.C 6.Y.V 6._._ 6.E.V	1.5 1.75 0.8 0.0 1.5	aju+e	0	831
+14580	omie	868_BANANA	uj-e	uj-e	u j + e	banana	dutton2010	1395	7 6 9 7	XN_X	YJ_E	7	7.Y.V 7.J.c 7._._ 7.E.V	1.5 0.8 0.0 1.5	uj+e	0	831
+#
+15412	koitabu	868_orplinsomeverbs	boko-geve-	boko-geve-	b o k o + g e v e	break them	dutton2010	1540	1 7 1 7 9 1 7 3 7	AXBZ_AXBZ	PUKU_KEBE	4	4.P.C 4.U.V 4.K.C 4.U.V 4._._ 4.K.C 4.E.V 4.B.C 4.E.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5 1.75 0.8	boko+geve	0	833
+15413	koitabu	868_orplinsomeverbs	era-geve-	era-geve-	e r a + g e v e	see them	dutton2010	1540	7 5 7 9 1 7 3 7	XBZ_AXBZ	ERA_KEBE	4	4.E.V 4.R.C 4.A.V 4._._ 4.K.C 4.E.V 4.B.C 4.E.V	1.5 1.75 0.8 0.0 2.0 1.5 1.75 0.8	era+geve	0	836
+15414	grass-koiari	868_orplinsomeverbs	boko-gei|yahei-	yahei-	j a h e i	break them	dutton2010	1540	6 7 3 7 7	AXBYZ	JAHEI	2	2.J.C 2.A.V 2.H.C 2.E.V 2.I.V	2.0 1.5 1.75 1.3 0.8	jahei	0	832
+15415	grass-koiari	868_orplinsomeverbs	ere-gei|yahei-	yahei-	j a h e i	see them	dutton2010	1540	6 7 3 7 7	AXBYZ	JAHEI	2	2.J.C 2.A.V 2.H.C 2.E.V 2.I.V	2.0 1.5 1.75 1.3 0.8	jahei	1	832
+15416	mountain-koiari	868_orplinsomeverbs	ua-geve-	ua-geve-	u a + g e v e	bite them	dutton2010	1540	7 7 9 1 7 3 7	XZ_AXBZ	YA_KEBE	5	5.Y.V 5.A.V 5._._ 5.K.C 5.E.V 5.B.C 5.E.V	1.5 0.8 0.0 2.0 1.5 1.75 0.8	ua+geve	0	834
+15417	mountain-koiari	868_orplinsomeverbs	ele-geve-	ele-geve-	e l e + g e v e	see them	dutton2010	1540	7 5 7 9 1 7 3 7	XBZ_AXBZ	ELE_KEBE	5	5.E.V 5.L.C 5.E.V 5._._ 5.K.C 5.E.V 5.B.C 5.E.V	1.5 1.75 0.8 0.0 2.0 1.5 1.75 0.8	ele+geve	0	836
+#
+15419	koitabu	869_orsginsomeverbs	era-ɣa-	era-ɣa-	e r a + ɣ a	see it	dutton2010	1541	7 5 7 9 3 7	XBZ_AX	ERA_GA	4	4.E.V 4.R.C 4.A.V 4._._ 4.G.C 4.A.V	1.5 1.75 0.8 0.0 2.0 1.5	era+ɣa	1	837
+15420	koitabu	869_orsginsomeverbs	boko-ɣa	boko-ɣa	b o k o + ɣ a	break it	dutton2010	1541	1 7 1 7 9 3 7	AXBZ_AX	PUKU_GA	4	4.P.C 4.U.V 4.K.C 4.U.V 4._._ 4.G.C 4.A.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5	boko+ɣa	1	840
+15421	grass-koiari	869_orsginsomeverbs	ere-va-	ere-va-	e r e + v a	see it	dutton2010	1541	7 5 7 9 3 7	XBZ_AX	ERE_BA	2	2.E.V 2.R.C 2.E.V 2._._ 2.B.C 2.A.V	1.5 1.75 0.8 0.0 2.0 1.5	ere+va	1	837
+15422	grass-koiari	869_orsginsomeverbs	boko-va-	boko-va-	b o k o + v a	break it	dutton2010	1541	1 7 1 7 9 3 7	AXBZ_AX	PUKU_BA	2	2.P.C 2.U.V 2.K.C 2.U.V 2._._ 2.B.C 2.A.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5	boko+va	1	840
+15423	mountain-koiari	869_orsginsomeverbs	ele-ha-	ele-ha-	e l e + h a	see it	dutton2010	1541	7 5 7 9 3 7	XBZ_AX	ELE_HA	5	5.E.V 5.L.C 5.E.V 5._._ 5.H.C 5.A.V	1.5 1.75 0.8 0.0 2.0 1.5	ele+ha	1	837
+15424	mountain-koiari	869_orsginsomeverbs	ua-ha-	ua-ha-	u a + h a	bite it	dutton2010	1541	7 7 9 3 7	XZ_AX	YA_HA	5	5.Y.V 5.A.V 5._._ 5.H.C 5.A.V	1.5 0.8 0.0 2.0 1.5	ua+ha	0	842
+#
+15434	koitabu	871_transitiveverbformingsuffixcausative	-ɣaha	-ɣaha	ɣ a h a	transitive verb forming suffix, causative	dutton2010	1544	3 7 3 7	AXBZ	GAHA	4	4.G.C 4.A.V 4.H.C 4.A.V	2.0 1.5 1.75 0.8	ɣaha	0	844
+15435	grass-koiari	871_transitiveverbformingsuffixcausative	-vaha	-vaha	v a h a	transitive verb forming suffix, causative	dutton2010	1544	3 7 3 7	AXBZ	BAHA	2	2.B.C 2.A.V 2.H.C 2.A.V	2.0 1.5 1.75 0.8	vaha	0	843
+15436	mountain-koiari	871_transitiveverbformingsuffixcausative	-havo	-havo	h a v o	transitive verb forming suffix, causative	dutton2010	1544	3 7 3 7	AXBZ	HABU	5	5.H.C 5.A.V 5.B.C 5.U.V	2.0 1.5 1.75 0.8	havo	0	845
+#
+15467	koitabu	873_verbsuffixpresentcontinuoussg	-ma	-ma	m a	verb suffix, present continuous, SG	dutton2010	1552	4 7	AX	MA	4	4.M.C 4.A.V	2.0 1.5	ma	1	846
+15468	grass-koiari	873_verbsuffixpresentcontinuoussg	-ma	-ma	m a	verb suffix, present continuous, SG	dutton2010	1552	4 7	AX	MA	2	2.M.C 2.A.V	2.0 1.5	ma	1	846
+15469	mountain-koiari	873_verbsuffixpresentcontinuoussg	-ma	-ma	m a	verb suffix, present continuous, SG	dutton2010	1552	4 7	AX	MA	5	5.M.C 5.A.V	2.0 1.5	ma	1	846
+#
+15393	koitabu	879_COUGH	eno|to-	to-	t o	cough	dutton2010	1535	1 7	AX	TU	4	4.T.C 4.U.V	2.0 1.5	to	1	849
+15394	grass-koiari	879_COUGH	eno|toto-va-	toto-va-	t o t o + v a	cough	dutton2010	1535	1 7 1 7 9 3 7	AXBZ_AX	TUTU_BA	2	2.T.C 2.U.V 2.T.C 2.U.V 2._._ 2.B.C 2.A.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5	toto+va	0	848
+15395	mountain-koiari	879_COUGH	eno-a	eno-a	e n o + a	cough	dutton2010	1535	7 4 7 9 7	XBZ_X	ENU_A	5	5.E.V 5.N.C 5.U.V 5._._ 5.A.V	1.5 1.75 0.8 0.0 1.5	eno+a	0	850
+14342	ese	879_COUGH	jahua|vo	vo	v o	cough	dutton2010	1335	3 7	AX	BU	1	1.B.C 1.U.V	2.0 1.5	vo	0	847
+14341	south-barai	879_COUGH	zaha|o	o	o	cough	dutton2010	1335	7	X	U	8	8.U.V	1.5	o	1	851
+#
+15513	koitabu	879_verbsuffixpasttensesg	-nu	-nu	n u	verb suffix, past tense sg	dutton2010	1563	4 7	AX	NY	4	4.N.C 4.Y.V	2.0 1.5	nu	0	852
+15514	grass-koiari	879_verbsuffixpasttensesg	-nu	-nu	n u	verb suffix, past tense sg	dutton2010	1563	4 7	AX	NY	2	2.N.C 2.Y.V	2.0 1.5	nu	0	852
+15515	mountain-koiari	879_verbsuffixpasttensesg	-nu	-nu	n u	verb suffix, past tense sg	dutton2010	1563	4 7	AX	NY	5	5.N.C 5.Y.V	2.0 1.5	nu	1	852
+#
+15553	koitabu	881_also	(NP)-taɣe	-taɣe	t a ɣ e	also	dutton2010	1574	1 7 3 7	AXBZ	TAGE	4	4.T.C 4.A.V 4.G.C 4.E.V	2.0 1.5 1.75 0.8	taɣe	0	854
+15554	grass-koiari	881_also	(NP)-tae	-tae	t a e	also	dutton2010	1574	1 7 7	AXZ	TAE	2	2.T.C 2.A.V 2.E.V	2.0 1.5 0.8	tae	0	853
+15555	mountain-koiari	881_also	(NP)-ta	-ta	t a	also	dutton2010	1574	1 7	AX	TA	5	5.T.C 5.A.V	2.0 1.5	ta	0	853
+#
+15601	koitabu	884_medialverbsuffix	atege	atege	a t e g e	until	dutton2010	1586	7 1 7 1 7	XBYBZ	ATEKE	4	4.A.V 4.T.C 4.E.V 4.K.C 4.E.V	1.5 1.75 1.3 1.75 0.8	atege	0	856
+15602	grass-koiari	884_medialverbsuffix	-yata	-yata	j a t a	medial verb suffix	dutton2010	1586	6 7 1 7	AXBZ	JATA	2	2.J.C 2.A.V 2.T.C 2.A.V	2.0 1.5 1.75 0.8	jata	0	855
+15603	mountain-koiari	884_medialverbsuffix	-ata	-ata	a t a	medial verb suffix	dutton2010	1586	7 1 7	XBZ	ATA	5	5.A.V 5.T.C 5.A.V	1.5 1.75 0.8	ata	1	856
+#
+15619	koitabu	886_cordylinesp	vabe	vabe	v a b e	tangget, Cordyline	dutton2010	1591	3 7 1 7	AXBZ	BAPE	4	4.B.C 4.A.V 4.P.C 4.E.V	2.0 1.5 1.75 0.8	vabe	0	857
+15620	grass-koiari	886_cordylinesp	vabe	vabe	v a b e	tangget, Cordyline	dutton2010	1591	3 7 1 7	AXBZ	BAPE	2	2.B.C 2.A.V 2.P.C 2.E.V	2.0 1.5 1.75 0.8	vabe	0	857
+15621	mountain-koiari	886_cordylinesp	vabe|re	re	r e	tangget, Cordyline	dutton2010	1591	5 7	AX	RE	5	5.R.C 5.E.V	2.0 1.5	re	0	859
+#
+14866	koitabu	893_topoffoot	ada-he	ada-he	a d a + h e	on top of	dutton2010	1445	7 1 7 9 3 7	XBZ_AX	ATA_HE	4	4.A.V 4.T.C 4.A.V 4._._ 4.H.C 4.E.V	1.5 1.75 0.8 0.0 2.0 1.5	ada+he	0	860
+14867	grass-koiari	893_topoffoot	ada-he	ada-he	a d a + h e	on top of	dutton2010	1445	7 1 7 9 3 7	XBZ_AX	ATA_HE	2	2.A.V 2.T.C 2.A.V 2._._ 2.H.C 2.E.V	1.5 1.75 0.8 0.0 2.0 1.5	ada+he	0	860
+15406	grass-koiari	893_topoffoot	(vahi) hoto-ka	_hoto-ka	h o t o + k a	top (of foot)	dutton2010	1538	3 7 1 7 9 1 7	AXBZ_AX	HUTU_KA	2	2.H.C 2.U.V 2.T.C 2.U.V 2._._ 2.K.C 2.A.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5	hoto+ka	0	860
+14868	mountain-koiari	893_topoffoot	ho|vada-ve	vada-ve	v a d a + v e	on top of	dutton2010	1445	3 7 1 7 9 3 7	AXBZ_AX	BATA_BE	5	5.B.C 5.A.V 5.T.C 5.A.V 5._._ 5.B.C 5.E.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5	vada+ve	0	862
+14870	north-barai	893_topoffoot	ado	ado	a d o	on top	dutton2010	1445	7 1 7	XBZ	ATU	6	6.A.V 6.T.C 6.U.V	1.5 1.75 0.8	ado	0	860
+14869	omie	893_topoffoot	dö|r-e	r-e	r + e	top (of tree)	dutton2010	1445	5 9 7	A_X	R_E	7	7.R.C 7._._ 7.E.V	2.0 0.0 1.5	r+e	0	864
+#
+14997	koitabu	906_TREE	idi	idi	i d i	tree, stick, pole	dutton2010	1468	7 1 7	XBZ	ITI	4	4.I.V 4.T.C 4.I.V	1.5 1.75 0.8	idi	0	866
+14998	grass-koiari	906_TREE	idi	idi	i d i	tree, stick, wood, pole, log	dutton2010	1468	7 1 7	XBZ	ITI	2	2.I.V 2.T.C 2.I.V	1.5 1.75 0.8	idi	0	866
+14999	mountain-koiari	906_TREE	idi	idi	i d i	tree	dutton2010	1468	7 1 7	XBZ	ITI	5	5.I.V 5.T.C 5.I.V	1.5 1.75 0.8	idi	0	866
+15003	ese	906_TREE	ich-a	ich-a	i c h + a	tree	dutton2010	1468	7 1 3 9 7	XBC_X	ICH_A	1	1.I.V 1.C.C 1.H.C 1._._ 1.A.V	1.5 1.75 1.5 0.0 1.5	ich+a	0	865
+15001	north-barai	906_TREE	in-e	in-e	i n + e	tree, wood, stick	dutton2010	1468	7 4 9 7	XN_X	IN_E	6	6.I.V 6.N.c 6._._ 6.E.V	1.5 0.8 0.0 1.5	in+e	0	869
+15002	south-barai	906_TREE	idu	idu	i d u	tree	dutton2010	1468	7 1 7	XBZ	ITY	8	8.I.V 8.T.C 8.Y.V	1.5 1.75 0.8	idu	0	866
+15000	omie	906_TREE	ij-e	ij-e	i j + e	tree	dutton2010	1468	7 6 9 7	XN_X	IJ_E	7	7.I.V 7.J.c 7._._ 7.E.V	1.5 0.8 0.0 1.5	ij+e	1	870
+#
+15471	koitabu	907_OLD_WOMAN	(maɣi) mabata	_mabata	m a b a t a	old woman (inactive)	dutton2010	1553	4 7 1 7 1 7	AXBYBZ	MAPATA	4	4.M.C 4.A.V 4.P.C 4.A.V 4.T.C 4.A.V	2.0 1.5 1.75 1.3 1.75 0.8	mabata	0	871
+15472	grass-koiari	907_OLD_WOMAN	mabata	mabata	m a b a t a	old woman	dutton2010	1553	4 7 1 7 1 7	AXBYBZ	MAPATA	2	2.M.C 2.A.V 2.P.C 2.A.V 2.T.C 2.A.V	2.0 1.5 1.75 1.3 1.75 0.8	mabata	0	871
+15473	mountain-koiari	907_OLD_WOMAN	mabata	mabata	m a b a t a	old woman	dutton2010	1553	4 7 1 7 1 7	AXBYBZ	MAPATA	5	5.M.C 5.A.V 5.P.C 5.A.V 5.T.C 5.A.V	2.0 1.5 1.75 1.3 1.75 0.8	mabata	0	871
+#
+14346	ese	908_DRUM	chaj-a	chaj-a	c h a j + a	drum	dutton2010	1336	1 3 7 6 9 7	ACXN_X	CHAJ_A	1	1.C.C 1.H.C 1.A.V 1.J.c 1._._ 1.A.V	2.0 1.5 1.5 0.8 0.0 1.5	chaj+a	0	872
+14345	north-barai	908_DRUM	daj-o	daj-o	d a j + o	drum	dutton2010	1336	1 7 6 9 7	AXN_X	TAJ_U	6	6.T.C 6.A.V 6.J.c 6._._ 6.U.V	2.0 1.5 0.8 0.0 1.5	daj+o	0	873
+14344	omie	908_DRUM	jaj-e	jaj-e	j a j + e	drum	dutton2010	1336	6 7 6 9 7	AXN_X	JAJ_E	7	7.J.C 7.A.V 7.J.c 7._._ 7.E.V	2.0 1.5 0.8 0.0 1.5	jaj+e	0	874
+#
+15324	koitabu	937_BIRD	ugu|ha	ha	h a	bird	dutton2010	1519	3 7	AX	HA	4	4.H.C 4.A.V	2.0 1.5	ha	0	877
+15325	grass-koiari	937_BIRD	ugu	ugu	u g u	bird	dutton2010	1519	7 1 7	XBZ	YKY	2	2.Y.V 2.K.C 2.Y.V	1.5 1.75 0.8	ugu	0	875
+15326	mountain-koiari	937_BIRD	ugu	ugu	u g u	bird	dutton2010	1519	7 1 7	XBZ	YKY	5	5.Y.V 5.K.C 5.Y.V	1.5 1.75 0.8	ugu	0	875
+15328	ese	937_BIRD	uk-a	uk-a	u k + a	bird	dutton2010	1519	7 1 9 7	XN_X	YK_A	1	1.Y.V 1.K.c 1._._ 1.A.V	1.5 0.8 0.0 1.5	uk+a	0	875
+15327	omie	937_BIRD	ug-e	ug-e	u g + e	bird	dutton2010	1519	7 1 9 7	XN_X	YK_E	7	7.Y.V 7.K.c 7._._ 7.E.V	1.5 0.8 0.0 1.5	ug+e	0	875
+#
+14792	grass-koiari	945_SPEAR	bi	bi	b i	spear (n)	dutton2010	1431	1 7	AX	PI	2	2.P.C 2.I.V	2.0 1.5	bi	1	878
+14793	mountain-koiari	945_SPEAR	bi	bi	b i	spear (n)	dutton2010	1431	1 7	AX	PI	5	5.P.C 5.I.V	2.0 1.5	bi	1	878
+14794	omie	945_SPEAR	bi|j-e	j-e	j + e	spear (n)	dutton2010	1431	6 9 7	A_X	J_E	7	7.J.C 7._._ 7.E.V	2.0 0.0 1.5	j+e	1	880
+#
+15291	koitabu	946_BLOOD	taɣo	taɣo	t a ɣ o	blood	dutton2010	1513	1 7 3 7	AXBZ	TAGU	4	4.T.C 4.A.V 4.G.C 4.U.V	2.0 1.5 1.75 0.8	taɣo	0	883
+15292	grass-koiari	946_BLOOD	tavo	tavo	t a v o	blood	dutton2010	1513	1 7 3 7	AXBZ	TABU	2	2.T.C 2.A.V 2.B.C 2.U.V	2.0 1.5 1.75 0.8	tavo	0	882
+15293	mountain-koiari	946_BLOOD	taho	taho	t a h o	blood	dutton2010	1513	1 7 3 7	AXBZ	TAHU	5	5.T.C 5.A.V 5.H.C 5.U.V	2.0 1.5 1.75 0.8	taho	0	884
+15295	ese	946_BLOOD	'a-a	'a-a	a + a	blood	dutton2010	1513	7 9 7	X_X	A_A	1	1.A.V 1._._ 1.A.V	1.5 0.0 1.5	a+a	0	881
+15294	south-barai	946_BLOOD	avo|du	du	d u	blood	dutton2010	1513	1 7	AX	TY	8	8.T.C 8.Y.V	2.0 1.5	du	0	885
+#
+14290	ese	948_WATER	to-a	to-a	t o + a	water	dutton2010	1322	1 7 9 7	AX_X	TU_A	1	1.T.C 1.U.V 1._._ 1.A.V	2.0 1.5 0.0 1.5	to+a	0	886
+14291	ese	948_WATER	toa|rúho	rúho	r ú/u h o	swim, wash oneself	dutton2010	1322	5 7 3 7	AXBZ	RYHU	1	1.R.C 1.Y.V 1.H.C 1.U.V	2.0 1.5 1.75 0.8	rú/uho	0	890
+14286	north-barai	948_WATER	do	do	d o	water	dutton2010	1322	1 7	AX	TU	6	6.T.C 6.U.V	2.0 1.5	do	0	887
+14287	north-barai	948_WATER	do|rue	rue	r u e	swim	dutton2010	1322	5 7 7	AXZ	RYE	6	6.R.C 6.Y.V 6.E.V	2.0 1.5 0.8	rue	1	891
+14288	south-barai	948_WATER	ido	ido	i d o	water	dutton2010	1322	7 1 7	XBZ	ITU	8	8.I.V 8.T.C 8.U.V	1.5 1.75 0.8	ido	0	889
+14289	south-barai	948_WATER	ido|su	su	s u	swim	dutton2010	1322	3 7	AX	SY	8	8.S.C 8.Y.V	2.0 1.5	su	1	892
+14285	omie	948_WATER	jo|v-e	v-e	v + e	water	dutton2010	1322	3 9 7	A_X	B_E	7	7.B.C 7._._ 7.E.V	2.0 0.0 1.5	v+e	1	888
+#
+14530	ese	949_WATER_LEECH	asin|asin-a	asin-a	a s i n + a	leech	dutton2010	1382	7 3 7 4 9 7	XBYN_X	ASIN_A	1	1.A.V 1.S.C 1.I.V 1.N.c 1._._ 1.A.V	1.5 1.75 1.3 0.8 0.0 1.5	asin+a	0	893
+14529	north-barai	949_WATER_LEECH	asin-e	asin-e	a s i n + e	leech	dutton2010	1382	7 3 7 4 9 7	XBYN_X	ASIN_E	6	6.A.V 6.S.C 6.I.V 6.N.c 6._._ 6.E.V	1.5 1.75 1.3 0.8 0.0 1.5	asin+e	0	893
+#
+15318	mountain-koiari	960_WIND	hebulu	hebulu	h e b u l u	wind	dutton2010	1518	3 7 1 7 5 7	AXBYBZ	HEPYLY	5	5.H.C 5.E.V 5.P.C 5.Y.V 5.L.C 5.Y.V	2.0 1.5 1.75 1.3 1.75 0.8	hebulu	0	895
+15322	ese	960_WIND	pur-a	pur-a	p u r + a	strong wind	dutton2010	1518	1 7 5 9 7	AXN_X	PYR_A	1	1.P.C 1.Y.V 1.R.c 1._._ 1.A.V	2.0 1.5 0.8 0.0 1.5	pur+a	0	894
+15320	north-barai	960_WIND	uburu	uburu	u b u r u	wind	dutton2010	1518	7 1 7 5 7	XBYBZ	YPYRY	6	6.Y.V 6.P.C 6.Y.V 6.R.C 6.Y.V	1.5 1.75 1.3 1.75 0.8	uburu	0	895
+15321	south-barai	960_WIND	uburu	uburu	u b u r u	wind	dutton2010	1518	7 1 7 5 7	XBYBZ	YPYRY	8	8.Y.V 8.P.C 8.Y.V 8.R.C 8.Y.V	1.5 1.75 1.3 1.75 0.8	uburu	0	895
+15319	omie	960_WIND	bur-e	bur-e	b u r + e	wind	dutton2010	1518	1 7 5 9 7	AXN_X	PYR_E	7	7.P.C 7.Y.V 7.R.c 7._._ 7.E.V	2.0 1.5 0.8 0.0 1.5	bur+e	0	894
+#
+15080	koitabu	962_WOMAN	maɣi	maɣi	m a ɣ i	woman, wife, female	dutton2010	1481	4 7 3 7	AXBZ	MAGI	4	4.M.C 4.A.V 4.G.C 4.I.V	2.0 1.5 1.75 0.8	maɣi	0	897
+15509	koitabu	962_WOMAN	nigi	nigi	n i g i	skirt, woman's dress	dutton2010	1562	4 7 1 7	AXBZ	NIKI	4	4.N.C 4.I.V 4.K.C 4.I.V	2.0 1.5 1.75 0.8	nigi	0	901
+15081	grass-koiari	962_WOMAN	mavi	mavi	m a v i	woman, wife	dutton2010	1481	4 7 3 7	AXBZ	MABI	2	2.M.C 2.A.V 2.B.C 2.I.V	2.0 1.5 1.75 0.8	mavi	0	896
+15510	grass-koiari	962_WOMAN	nigi	nigi	n i g i	skirt, woman's dress	dutton2010	1562	4 7 1 7	AXBZ	NIKI	2	2.N.C 2.I.V 2.K.C 2.I.V	2.0 1.5 1.75 0.8	nigi	0	901
+15082	mountain-koiari	962_WOMAN	mahina	mahina	m a h i n a	wife	dutton2010	1481	4 7 3 7 4 7	AXBYBZ	MAHINA	5	5.M.C 5.A.V 5.H.C 5.I.V 5.N.C 5.A.V	2.0 1.5 1.75 1.3 1.75 0.8	mahina	0	898
+15511	mountain-koiari	962_WOMAN	nigi	nigi	n i g i	grass skirt	dutton2010	1562	4 7 1 7	AXBZ	NIKI	5	5.N.C 5.I.V 5.K.C 5.I.V	2.0 1.5 1.75 0.8	nigi	0	901
+15084	south-barai	962_WOMAN	(e) meina	_meina	m e i n a	woman (= female person)	dutton2010	1481	4 7 7 4 7	AXYBZ	MEINA	8	8.M.C 8.E.V 8.I.V 8.N.C 8.A.V	2.0 1.5 1.3 1.75 0.8	meina	0	900
+15083	omie	962_WOMAN	magöna|h-e	h-e	h + e	woman	dutton2010	1481	3 9 7	A_X	H_E	7	7.H.C 7._._ 7.E.V	2.0 0.0 1.5	h+e	1	899
+#
+14974	koitabu	982_LIME_FRUIT	ɣudi	ɣudi	ɣ u d i	lime	dutton2010	1464	3 7 1 7	AXBZ	GYTI	4	4.G.C 4.Y.V 4.T.C 4.I.V	2.0 1.5 1.75 0.8	ɣudi	0	904
+14975	grass-koiari	982_LIME_FRUIT	udi	udi	u d i	lime	dutton2010	1464	7 1 7	XBZ	YTI	2	2.Y.V 2.T.C 2.I.V	1.5 1.75 0.8	udi	0	903
+14508	ese	982_LIME_FRUIT	suam-a	suam-a	s u a m + a	lime	dutton2010	1376	3 7 7 4 9 7	AXYN_X	SYAM_A	1	1.S.C 1.Y.V 1.A.V 1.M.c 1._._ 1.A.V	2.0 1.5 1.3 0.8 0.0 1.5	suam+a	0	902
+14507	north-barai	982_LIME_FRUIT	suvuam-e	suvuam-e	s u v u a m + e	lime	dutton2010	1376	3 7 3 7 7 4 9 7	AXBYYN_X	SYBYAM_E	6	6.S.C 6.Y.V 6.B.C 6.Y.V 6.A.V 6.M.c 6._._ 6.E.V	2.0 1.5 1.75 1.3 1.3 0.8 0.0 1.5	suvuam+e	0	905
+14976	omie	982_LIME_FRUIT	ud-e	ud-e	u d + e	lime	dutton2010	1464	7 1 9 7	XN_X	YT_E	7	7.Y.V 7.T.c 7._._ 7.E.V	1.5 0.8 0.0 1.5	ud+e	0	903
+#
+15101	koitabu	984_WORK_LABOUR	me	me	m e	work (n)	dutton2010	1485	4 7	AX	ME	4	4.M.C 4.E.V	2.0 1.5	me	0	907
+15104	ese	984_WORK_LABOUR	(ija) me|rum-o	rum-o	r u m + o	weeding	dutton2010	1485	5 7 4 9 7	AXN_X	RYM_U	1	1.R.C 1.Y.V 1.M.c 1._._ 1.U.V	2.0 1.5 0.8 0.0 1.5	rum+o	0	906
+15105	ese	984_WORK_LABOUR	me|j-o	j-o	j + o	clear garden	dutton2010	1485	6 9 7	A_X	J_U	1	1.J.C 1._._ 1.U.V	2.0 0.0 1.5	j+o	1	910
+15103	north-barai	984_WORK_LABOUR	me	me	m e	clear garden, weed garden	dutton2010	1485	4 7	AX	ME	6	6.M.C 6.E.V	2.0 1.5	me	0	907
+15102	omie	984_WORK_LABOUR	mu-e	mu-e	m u + e	work (n)	dutton2010	1485	4 7 9 7	AX_X	MY_E	7	7.M.C 7.Y.V 7._._ 7.E.V	2.0 1.5 0.0 1.5	mu+e	0	909
+# Created using the LexStat class of LingPy-2.6.9
+# Cluster: turchin_upgma_0.30

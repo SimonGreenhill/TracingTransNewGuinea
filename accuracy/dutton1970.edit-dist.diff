@@ -1,0 +1,3608 @@
+Concept: 1084_CALL, False Positives: no, False Negatives: yes
+doromu-aramaika	raka+ni  	   1	   1
+doromu-bareika 	akani    	   1	   1
+doromu-lofaika 	raʔani   	   1	   3
+maria          	raʔani   	   1	   3
+maria-maiagolo 	raʔani   	   1	   3
+maria-maranomu 	raʔani   	   1	   3
+maria-uderi    	raʔani   	   1	   3
+hula           	kea      	   4	   4
+sinaugoro      	keapou   	   4	  12
+humene         	huva+nE/e	   5	   5
+uare           	hua+nE/e 	   5	   5
+motu           	boiboi   	   5	  10
+mulaha         	adana    	  11	  11
+#
+Concept: 1100_COOK_SOMETHING, False Positives: no, False Negatives: yes
+doromu-aramaika	feide    	   1	   1
+doromu-bareika 	feide    	   1	   1
+doromu-lofaika 	aʔu      	   3	   3
+maria-maiagolo 	urenaʔaʔo	   3	   6
+maria-maranomu 	urenaʔaʔo	   3	   6
+hula           	nanu     	   4	   4
+motu           	nadu     	   4	   4
+sinaugoro      	dari     	   4	  10
+humene         	voro+hE/e	   5	   5
+uare           	ɣoro+hE/e	   5	   5
+mulaha         	ufali    	   9	   9
+#
+Concept: 1107_GO_OUT, False Positives: no, False Negatives: yes
+doromu-aramaika	etofare+ne   	   1	   1
+doromu-bareika 	jako+dine    	   2	   2
+doromu-lofaika 	ego+narofu+ne	   3	   3
+hula           	lakai        	   4	   4
+motu           	raka+lasi    	   4	   7
+sinaugoro      	raka+roti    	   4	   8
+maria-maiagolo 	erahuine     	   5	   5
+maria-maranomu 	onohu+neʔo   	   6	   6
+#
+Concept: 1131_WE_INCLUSIVE, False Positives: no, False Negatives: yes
+doromu-aramaika	una  	   1	   1
+maria          	una  	   1	   1
+maria-maiagolo 	una  	   1	   1
+maria-uderi    	una  	   1	   1
+doromu-bareika 	ona  	   1	   2
+maria-maranomu 	ona  	   1	   2
+hula           	ia   	   3	   3
+motu           	ita  	   3	   9
+sinaugoro      	ɣai  	   3	  11
+humene         	emone	   4	   4
+uare           	emeɣe	   4	  12
+mulaha         	nai  	  10	  10
+#
+Concept: 1172_SHOOT, False Positives: no, False Negatives: yes
+doromu-aramaika	fidi     	   1	   1
+doromu-lofaika 	fidi     	   1	   1
+motu           	pidi     	   1	   1
+sinaugoro      	pidi     	   1	   1
+doromu-bareika 	u        	   1	   2
+humene         	pedi+nE/e	   1	   5
+maria-maiagolo 	fisire   	   1	   6
+hula           	piti     	   4	   4
+maria-maranomu 	heneime  	   7	   7
+uare           	fuʔu+nE/e	  10	  10
+#
+Concept: 1183_PALM_OF_HAND, False Positives: no, False Negatives: yes
+doromu-aramaika	vana+rafo   	   1	   1
+doromu-bareika 	vana+rafo   	   1	   1
+doromu-lofaika 	vana+rafo   	   1	   1
+maria-maranomu 	vana+raho   	   1	   1
+humene         	rafava      	   1	   5
+uare           	rafaɣa      	   1	   5
+hula           	anoa        	   4	   4
+maria          	ana+hera    	   6	   6
+maria-maiagolo 	ana+hera    	   6	   6
+maria-uderi    	ana+hera    	   6	   6
+motu           	ima+palapala	  10	  10
+#
+Concept: 1198_MANY, False Positives: no, False Negatives: yes
+doromu-aramaika	tau+tora     	   1	   1
+doromu-bareika 	tau+tora     	   1	   1
+doromu-lofaika 	tau+to       	   1	   1
+hula           	vo           	   4	   4
+sinaugoro      	vovoka       	   4	  10
+motu           	momo         	   4	  12
+humene         	vudehune     	   5	   5
+maria-maiagolo 	haobodo      	   6	   6
+maria-maranomu 	roʔabodo     	   6	   7
+motu           	hutuma       	   8	   8
+mulaha         	hutuba       	   8	   8
+uare           	ɣehaɣa+bagaɣa	  11	  11
+#
+Concept: 1199_WIFE, False Positives: no, False Negatives: yes
+doromu-aramaika	rema  	   1	   1
+doromu-bareika 	rema  	   1	   1
+doromu-lofaika 	rema  	   1	   1
+hula           	arawa 	   4	   4
+motu           	adava 	   4	  10
+sinaugoro      	ɣaraɣo	   4	  12
+humene         	unune 	   5	   5
+maria          	oue   	   6	   6
+maria-maiagolo 	oue   	   6	   6
+maria-maranomu 	oue   	   6	   6
+maria-uderi    	oue   	   6	   6
+mulaha         	veki  	  11	  11
+uare           	loɣai 	  13	  13
+#
+Concept: 1200_HUSBAND, False Positives: no, False Negatives: yes
+doromu-aramaika	rumana	   1	   1
+doromu-bareika 	rumana	   1	   1
+doromu-lofaika 	rumana	   1	   1
+hula           	arawa 	   4	   4
+motu           	adava 	   4	  10
+sinaugoro      	ɣaraɣo	   4	  12
+humene         	ehi   	   5	   5
+mulaha         	veki  	   5	  11
+maria          	amie  	   6	   6
+maria-maiagolo 	amie  	   6	   6
+maria-uderi    	amie  	   6	   6
+maria-maranomu 	maruʔa	   8	   8
+uare           	ohoʒe 	  13	  13
+#
+Concept: 1201_FEATHER, False Positives: no, False Negatives: yes
+doromu-aramaika	erena+ueta	   1	   1
+doromu-bareika 	erena+ueta	   1	   1
+doromu-lofaika 	erena+ueta	   1	   1
+maria          	erena+ueʔa	   1	   1
+maria-maiagolo 	erena+uia 	   1	   1
+maria-maranomu 	erena+ueʔa	   1	   1
+maria-uderi    	erena+uia 	   1	   1
+hula           	aoi       	   4	   4
+motu           	ɣatoi     	   4	  10
+sinaugoro      	ɣatoi     	   4	  10
+humene         	mava      	   5	   5
+uare           	maɣa      	   5	   5
+mulaha         	abegi     	  11	  11
+#
+Concept: 1202_BIG, False Positives: no, False Negatives: yes
+doromu-aramaika	tora      	   1	   1
+doromu-bareika 	tora      	   1	   1
+doromu-lofaika 	tora      	   1	   1
+maria          	hora      	   1	   1
+maria-maranomu 	hora      	   1	   1
+hula           	para      	   4	   4
+maria-maiagolo 	baki      	   4	   7
+maria-uderi    	baki      	   4	   7
+motu           	bada      	   4	  10
+sinaugoro      	barego    	   4	  12
+uare           	boro      	   4	  13
+humene         	dagara+vai	   5	   5
+mulaha         	auki      	  11	  11
+humene         	vauvai    	  11	  14
+#
+Concept: 1203_LONG, False Positives: no, False Negatives: yes
+doromu-aramaika	doba  	   1	   1
+doromu-bareika 	doba  	   1	   1
+doromu-lofaika 	doba  	   1	   1
+hula           	loki  	   4	   4
+humene         	favai 	   5	   5
+uare           	faɣa  	   5	  13
+maria          	keke  	   6	   6
+maria-maiagolo 	gege  	   6	   7
+maria-maranomu 	gege  	   6	   7
+maria-uderi    	gege  	   6	   7
+motu           	lata  	  10	  10
+mulaha         	biroki	  11	  11
+sinaugoro      	mauka 	  12	  12
+#
+Concept: 1204_BARK, False Positives: no, False Negatives: yes
+doromu-aramaika	jabo+ro  	   1	   1
+doromu-bareika 	jabo+ro  	   1	   1
+doromu-lofaika 	jabo+ro  	   1	   1
+maria          	jabo+roː 	   1	   1
+maria-maranomu 	jabo+roː 	   1	   1
+maria-maiagolo 	jabo+roʔo	   1	   7
+maria-uderi    	javo+roʔo	   1	   7
+hula           	kopi     	   4	   4
+motu           	kopi     	   4	   4
+sinaugoro      	kepi     	   4	   4
+humene         	kokavai  	   5	   5
+uare           	ogaɣa    	   5	  13
+mulaha         	tubaiaigi	  11	  11
+#
+Concept: 1205_TONGUE, False Positives: no, False Negatives: yes
+doromu-aramaika	afie  	   1	   1
+doromu-bareika 	afie  	   1	   1
+doromu-lofaika 	afie  	   1	   1
+maria          	ahie  	   1	   1
+maria-maiagolo 	ahie  	   1	   1
+maria-maranomu 	ahie  	   1	   1
+maria-uderi    	atie  	   1	   1
+maria-maiagolo 	afie  	   1	   1
+hula           	mae   	   4	   4
+humene         	manane	   4	   5
+uare           	maʒane	   4	   5
+motu           	maia  	   4	  10
+sinaugoro      	mea   	   4	  12
+mulaha         	bebura	  11	  11
+#
+Concept: 1209_I, False Positives: no, False Negatives: yes
+doromu-aramaika	na    	   1	   1
+doromu-bareika 	na    	   1	   1
+doromu-lofaika 	na    	   1	   1
+maria          	na    	   1	   1
+maria-maiagolo 	na    	   1	   1
+maria-maranomu 	na    	   1	   1
+maria-uderi    	na    	   1	   1
+mulaha         	nai   	   1	  14
+hula           	au    	   4	   4
+sinaugoro      	au    	   4	   4
+motu           	lau   	   4	  10
+humene         	eme   	   5	   5
+uare           	eɣe   	   5	  13
+mulaha         	jokaba	  11	  11
+#
+Concept: 1210_HEAVY, False Positives: no, False Negatives: yes
+doromu-aramaika	toere 	   1	   1
+doromu-bareika 	toere 	   1	   1
+doromu-lofaika 	toere 	   1	   1
+maria-maiagolo 	hoere 	   1	   1
+maria-maranomu 	hoere 	   1	   1
+hula           	meau  	   4	   4
+motu           	metau 	   4	   4
+sinaugoro      	meto  	   4	   9
+humene         	aduʔai	   5	   5
+uare           	aduka 	   5	  10
+#
+Concept: 1214_THIS, False Positives: yes, False Negatives: yes
+doromu-aramaika	mi     	   1	   1
+doromu-bareika 	mina   	   1	   2
+doromu-lofaika 	mina   	   1	   2
+maria-maranomu 	muna   	   1	   2
+maria-maiagolo 	muʔuna 	   1	   6
+maria-maiagolo 	miʔina 	   1	  17
+hula           	e      	   4	   4
+motu           	ina    	   4	   8
+sinaugoro      	iniɣa  	   4	  20
+humene         	ida    	   5	   5
+uare           	adi    	   5	  11
+humene         	ada    	   5	  16
+mulaha         	ehu    	   9	   9
+sinaugoro      	maiɣa  	  10	  10
+doromu-aramaika	mirona 	  12	  12
+doromu-bareika 	mirona 	  12	  12
+doromu-lofaika 	mirona 	  12	  12
+maria-maranomu 	mirona 	  12	  12
+hula           	ne     	  15	  15
+motu           	ena    	  15	  19
+uare           	omo    	  21	  21
+humene         	omo    	  21	  21
+humene         	oma    	  21	  22
+sinaugoro      	moaɣea 	  21	  24
+sinaugoro      	moɣa   	  21	  26
+maria-maiagolo 	odiʔina	  23	  17
+#
+Concept: 1216_MOTHER, False Positives: no, False Negatives: yes
+doromu-aramaika	nokai 	   1	   1
+doromu-bareika 	nokai 	   1	   1
+humene         	noka  	   1	   1
+doromu-lofaika 	ʔohini	   3	   3
+hula           	ina   	   4	   4
+motu           	tina  	   4	   4
+sinaugoro      	tina  	   4	   4
+maria          	ameʔe 	   6	   6
+maria-maiagolo 	amaʔe 	   6	   6
+maria-uderi    	amaʔe 	   6	   6
+maria-maranomu 	ama   	   6	   8
+uare           	nau   	  12	  12
+#
+Concept: 1217_FATHER, False Positives: no, False Negatives: yes
+doromu-aramaika	baɣai 	   1	   1
+doromu-bareika 	baɣai 	   1	   1
+doromu-lofaika 	madini	   1	   3
+hula           	ama   	   1	   4
+motu           	tama  	   1	   4
+sinaugoro      	fama  	   1	   4
+uare           	mama  	   1	   4
+humene         	maka  	   1	   5
+maria          	babeʔe	   1	   6
+maria-maiagolo 	babaʔe	   1	   6
+maria-maranomu 	babaʔi	   1	   6
+maria-uderi    	babaʔe	   1	   6
+#
+Concept: 1218_ROPE, False Positives: yes, False Negatives: no
+doromu-aramaika	maena 	   1	   1
+doromu-bareika 	maena 	   1	   1
+doromu-lofaika 	maena 	   1	   1
+maria          	mana  	   1	   1
+maria-maiagolo 	mana  	   1	   1
+maria-maranomu 	mana  	   1	   1
+maria-uderi    	mana  	   1	   1
+hula           	koroa 	   4	   4
+humene         	nihare	   5	   5
+motu           	kiapa 	  10	  10
+sinaugoro      	dura  	  11	  11
+uare           	nihara	  12	   5
+#
+Concept: 1220_TAIL, False Positives: no, False Negatives: yes
+doromu-aramaika	auna+divi	   1	   1
+doromu-bareika 	auna+vi  	   1	   1
+doromu-lofaika 	auna+vi  	   1	   1
+maria          	auna+ui  	   1	   1
+maria-maiagolo 	auna+ui  	   1	   1
+maria-maranomu 	auna+ui  	   1	   1
+maria-uderi    	auna+ui  	   1	   1
+hula           	lamulamu 	   4	   4
+humene         	iʔuva    	   5	   5
+uare           	ikuɣa    	   5	  12
+motu           	hui      	  10	  10
+sinaugoro      	ɣui      	  10	  11
+#
+Concept: 1221_NOSE, False Positives: no, False Negatives: yes
+doromu-aramaika	uruma 	   1	   1
+doromu-bareika 	uruma 	   1	   1
+doromu-lofaika 	uruma 	   1	   1
+maria          	uruma 	   1	   1
+maria-maiagolo 	uruma 	   1	   1
+maria-maranomu 	uruma 	   1	   1
+hula           	iru   	   4	   4
+sinaugoro      	iru   	   4	   4
+motu           	udu   	   4	  10
+humene         	ʒaʒore	   5	   5
+uare           	ʒaʒore	   5	   5
+maria-uderi    	uena  	   9	   9
+mulaha         	ine   	  11	  11
+#
+Concept: 1223_HEART, False Positives: no, False Negatives: yes
+doromu-aramaika	ukameko   	   1	   1
+doromu-bareika 	ukameko   	   1	   1
+doromu-lofaika 	keva      	   3	   3
+maria          	ohoʔa     	   3	   6
+maria-maiagolo 	ohoʔa     	   3	   6
+maria-maranomu 	ohaʔa     	   3	   6
+maria-uderi    	ohoʔa+meʔo	   3	   9
+hula           	nuɣa      	   4	   4
+humene         	ʒamama    	   4	   5
+uare           	ʒamama    	   4	   5
+motu           	kudou     	  10	  10
+hula           	kutou     	  10	  10
+mulaha         	sowa      	  10	  11
+sinaugoro      	roru      	  10	  12
+#
+Concept: 1224_LIVER, False Positives: no, False Negatives: yes
+doromu-aramaika	keva 	   1	   1
+doromu-bareika 	keva 	   1	   1
+maria-maranomu 	ʔeva 	   1	   1
+maria          	ea   	   1	   6
+maria-maiagolo 	ea   	   1	   6
+maria-uderi    	ea   	   1	   6
+doromu-lofaika 	musa 	   3	   3
+hula           	ae   	   4	   4
+motu           	ate  	   4	  10
+sinaugoro      	ɣate 	   4	  10
+humene         	vuune	   5	   5
+uare           	ɣuga 	  12	  12
+#
+Concept: 1231_NEW, False Positives: yes, False Negatives: no
+doromu-aramaika	buni    	   1	   1
+doromu-bareika 	rua     	   2	   2
+maria          	ruʔai   	   2	   2
+maria-maiagolo 	ruʔa    	   2	   2
+maria-maranomu 	ruʔa    	   2	   2
+maria-uderi    	ruʔa    	   2	   2
+doromu-lofaika 	buni    	   3	   1
+hula           	valiɣu  	   4	   4
+sinaugoro      	variɣu  	   4	   4
+humene         	eriʔai  	   5	   5
+motu           	matamata	  10	  10
+uare           	iʒiga   	  12	  12
+#
+Concept: 1233_NIGHT, False Positives: no, False Negatives: yes
+doromu-aramaika	urusa 	   1	   1
+doromu-bareika 	urusa 	   1	   1
+doromu-lofaika 	urusa 	   1	   1
+maria          	urufa 	   1	   1
+maria-maranomu 	uruha 	   1	   1
+maria-uderi    	uruha 	   1	   1
+maria-maiagolo 	urunio	   1	   7
+doromu-bareika 	urunio	   1	   7
+doromu-lofaika 	urunio	   1	   7
+maria-maranomu 	uruni 	   1	   7
+hula           	poɣi  	   4	   4
+sinaugoro      	boɣi  	   4	   4
+motu           	boi   	   4	  10
+humene         	u     	   5	   5
+uare           	ohere 	   5	  13
+mulaha         	wabua 	  11	  11
+#
+Concept: 1235_WHO, False Positives: no, False Negatives: yes
+doromu-aramaika	kare   	   1	   1
+doromu-bareika 	kae    	   1	   1
+doromu-lofaika 	ʔaere  	   1	   3
+hula           	rai    	   1	   4
+maria-maiagolo 	era    	   1	   6
+maria-maranomu 	ʔære   	   1	   7
+maria-uderi    	ajo    	   1	   8
+motu           	daika  	   1	   9
+sinaugoro      	deikara	   1	  11
+humene         	enu    	   5	   5
+mulaha         	ano    	   5	  10
+uare           	iniu   	   5	  12
+#
+Concept: 1236_WHAT, False Positives: no, False Negatives: yes
+doromu-aramaika	bikodo     	   1	   1
+doromu-lofaika 	bikado     	   1	   1
+doromu-bareika 	beika      	   1	   2
+maria-maiagolo 	beʔaboto   	   1	   6
+maria-maranomu 	beiboto    	   1	   6
+maria-uderi    	veato      	   1	   8
+hula           	rakau      	   4	   4
+motu           	dahaka     	   4	   9
+sinaugoro      	kara+dagara	   4	  11
+humene         	naʔeni     	   5	   5
+mulaha         	anaba      	   5	  10
+uare           	nagini     	   5	  12
+#
+Concept: 1237_WHERE, False Positives: no, False Negatives: yes
+doromu-aramaika	guinare   	   1	   1
+doromu-bareika 	goidu     	   1	   2
+doromu-lofaika 	koidu     	   1	   2
+maria-maiagolo 	koʔinabo  	   1	   6
+maria-uderi    	koʔinaro  	   1	   6
+maria-maranomu 	koinæ     	   1	   7
+hula           	ariginai  	   4	   4
+motu           	edeseni+ai	   4	   9
+sinaugoro      	aiɣea     	   4	  11
+humene         	nau       	   5	   5
+mulaha         	natu      	   5	   5
+uare           	nou       	   5	  12
+#
+Concept: 1238_WHEN, False Positives: no, False Negatives: yes
+doromu-aramaika	beka+dinare  	   1	   1
+doromu-bareika 	goi+vaga     	   2	   2
+doromu-lofaika 	koi+vaʔa     	   2	   2
+maria-maiagolo 	kokenu       	   2	   6
+maria-uderi    	kokeno       	   2	   6
+maria-maranomu 	kokevaʔa     	   2	   7
+hula           	arigi+oma    	   4	   4
+motu           	edena+nega+ai	   4	   9
+sinaugoro      	aitoma       	   4	  10
+humene         	naʔe+mada    	   5	   5
+uare           	noe+mada     	   5	   5
+#
+Concept: 123_FOREHEAD, False Positives: no, False Negatives: yes
+doromu-aramaika	nao     	   1	   1
+doromu-lofaika 	nao     	   1	   1
+maria          	nao     	   1	   1
+maria-maiagolo 	nao     	   1	   1
+maria-uderi    	nao     	   1	   1
+maria-maranomu 	naa     	   1	   8
+doromu-bareika 	ada+meko	   2	   2
+hula           	paku    	   4	   4
+sinaugoro      	baku    	   4	   4
+motu           	bagu    	   4	  10
+humene         	emere   	   5	   5
+uare           	ʒehere  	   5	  13
+mulaha         	beva    	  11	  11
+#
+Concept: 1243_WIDE, False Positives: no, False Negatives: yes
+doromu-aramaika	rafo   	   1	   1
+doromu-bareika 	rafo   	   1	   1
+doromu-lofaika 	rafo   	   1	   1
+hula           	ɣaupara	   1	   4
+humene         	rafavai	   1	   5
+uare           	rafaɣa 	   1	   5
+motu           	lababa 	   1	   7
+sinaugoro      	barego 	   1	   8
+hula           	ɣava   	   1	  10
+maria-maranomu 	hora   	   6	   6
+#
+Concept: 1244_THICK, False Positives: no, False Negatives: yes
+doromu-bareika 	vena    	   1	   1
+hula           	uguluna 	   2	   2
+motu           	uduna   	   2	   5
+hula           	ɣuruna  	   2	   8
+humene         	baruvai 	   3	   3
+sinaugoro      	baruka  	   3	   3
+uare           	baruɣa  	   3	   3
+maria-maranomu 	vahumaba	   4	   4
+#
+Concept: 1246_SMALL, False Positives: no, False Negatives: yes
+doromu-aramaika	keika   	   1	   1
+doromu-bareika 	keika   	   1	   1
+doromu-lofaika 	keiʔa   	   1	   1
+hula           	kei     	   1	   4
+sinaugoro      	kei     	   1	   4
+humene         	kirivai 	   1	   5
+mulaha         	kirigi  	   1	   5
+maria          	eiʔa    	   1	   6
+maria-maranomu 	eiʔa    	   1	   6
+hula           	kirikiri	   1	  14
+maria-maiagolo 	ʔoiʔa   	   7	   7
+maria-uderi    	ʔoiʔe   	   7	   7
+motu           	maraɣi  	  10	  10
+uare           	kobeɣa  	  13	  13
+maria-maranomu 	mida    	  15	  15
+#
+Concept: 1247_EAR, False Positives: no, False Negatives: yes
+doromu-aramaika	anema  	   1	   1
+doromu-bareika 	anemaje	   1	   1
+doromu-lofaika 	anema  	   1	   1
+maria          	anema  	   1	   1
+maria-maiagolo 	anema  	   1	   1
+maria-maranomu 	anema  	   1	   1
+maria-uderi    	anema  	   1	   1
+hula           	kea    	   4	   4
+motu           	taia   	   4	  10
+sinaugoro      	seɣa   	   4	  12
+uare           	teɣa   	   4	  12
+humene         	abi    	   5	   5
+mulaha         	akuru  	  11	  11
+#
+Concept: 1248_EYE, False Positives: no, False Negatives: yes
+doromu-aramaika	nemoko	   1	   1
+doromu-bareika 	ne    	   1	   2
+doromu-lofaika 	ne    	   1	   2
+maria          	neuna 	   1	   6
+maria-maiagolo 	neuna 	   1	   6
+maria-uderi    	neuna 	   1	   6
+maria-maranomu 	nouŋa 	   1	   8
+hula           	maː   	   4	   4
+motu           	mata  	   4	  10
+sinaugoro      	mata  	   4	  10
+humene         	ubuma 	   5	   5
+uare           	ubuma 	   5	   5
+mulaha         	boivi 	  11	  11
+#
+Concept: 1251_BELLY, False Positives: no, False Negatives: yes
+doromu-aramaika	uka   	   1	   1
+doromu-bareika 	uka   	   1	   1
+doromu-lofaika 	rivo  	   3	   3
+maria-maiagolo 	rio   	   3	   3
+maria-maranomu 	rivo  	   3	   3
+maria-uderi    	rio   	   3	   3
+hula           	inaɣe 	   4	   4
+sinaugoro      	tinaɣe	   4	   4
+humene         	ehi   	   5	   5
+uare           	isi   	   5	  13
+maria          	tie   	   6	   6
+motu           	boga  	  10	  10
+mulaha         	soweba	  11	  11
+#
+Concept: 1252_HOUSE, False Positives: yes, False Negatives: no
+doromu-aramaika	java 	   1	   1
+doromu-bareika 	java 	   2	   1
+doromu-lofaika 	java 	   3	   1
+humene         	ne   	   4	   4
+maria          	jaua 	   5	   1
+maria-maiagolo 	java 	   6	   1
+maria-maranomu 	java 	   7	   1
+maria-uderi    	java 	   8	   1
+motu           	hanua	   9	   9
+mulaha         	niva 	  10	  10
+uare           	ne   	  11	   4
+#
+Concept: 1256_HEAD, False Positives: no, False Negatives: yes
+doromu-aramaika	ada     	   1	   1
+doromu-bareika 	ada     	   1	   1
+doromu-lofaika 	ada     	   1	   1
+maria          	ada     	   1	   1
+maria-maiagolo 	ada     	   1	   1
+maria-maranomu 	ada     	   1	   1
+maria-uderi    	ada     	   1	   1
+hula           	repa    	   4	   4
+sinaugoro      	deba    	   4	  12
+humene         	rafune  	   5	   5
+motu           	kwara   	  10	  10
+mulaha         	joarowai	  11	  11
+uare           	vadini  	  13	  13
+maria          	kiriʔa  	  14	  14
+#
+Concept: 1257_WING, False Positives: yes, False Negatives: no
+doromu-aramaika	erena+eta	   1	   1
+doromu-bareika 	erena+eta	   1	   1
+doromu-lofaika 	erena+eta	   1	   1
+maria          	erena+eha	   1	   1
+maria-maiagolo 	erena+eha	   1	   1
+maria-maranomu 	erena+eha	   1	   1
+hula           	kokokoko 	   4	   4
+humene         	ode      	   5	   5
+motu           	kokokoko 	   9	   4
+sinaugoro      	gidabu   	  10	  10
+uare           	udi      	  11	  11
+#
+Concept: 1258_FINGERNAIL, False Positives: no, False Negatives: yes
+doromu-aramaika	vana+goiso 	   1	   1
+doromu-bareika 	vana+sikoi 	   1	   2
+maria-maiagolo 	ana+hoira  	   1	   7
+doromu-lofaika 	vana+roba  	   3	   3
+hula           	kwao       	   4	   4
+motu           	kahau      	   4	  10
+humene         	gobeva     	   5	   5
+maria          	ana+kiriʔa 	   6	   6
+maria-maranomu 	vana+kiriʔa	   6	   6
+maria-uderi    	kiriʔa     	   6	   9
+sinaugoro      	didi+ɣava  	  11	  11
+uare           	uga        	  12	  12
+#
+Concept: 125_SWEAT_SUBSTANCE, False Positives: no, False Negatives: yes
+doromu-aramaika	vavare    	   1	   1
+doromu-bareika 	vavare    	   1	   1
+doromu-lofaika 	fare      	   1	   3
+hula           	amuamu    	   4	   4
+humene         	omoro     	   5	   5
+maria-maiagolo 	imuhare   	   6	   6
+maria-maranomu 	mohamohare	   6	   7
+motu           	varahu    	   8	   8
+hula           	arigu     	   8	  10
+sinaugoro      	teɣuri    	   9	   9
+#
+Concept: 1261_SING, False Positives: no, False Negatives: yes
+doromu-aramaika	kitoro+ni   	   1	   1
+doromu-bareika 	jau+tani    	   2	   2
+doromu-lofaika 	jau+tabeni  	   2	   2
+maria-maiagolo 	jauʔa+nigada	   2	   6
+maria-uderi    	jauʔa+nigada	   2	   6
+maria-maranomu 	jauʔani     	   2	   7
+hula           	mari+penevai	   4	   4
+humene         	ane+la+hE/e 	   5	   5
+uare           	bada+he+ʔE/e	   5	  12
+motu           	ane+abi     	   9	   9
+mulaha         	waurana     	  10	  10
+sinaugoro      	bara        	  11	  11
+#
+Concept: 1267_NARROW, False Positives: no, False Negatives: yes
+doromu-aramaika	keika       	   1	   1
+doromu-bareika 	keika       	   1	   1
+doromu-lofaika 	keiʔa       	   1	   1
+hula           	korikori    	   1	   4
+humene         	kilivai     	   1	   5
+maria-maranomu 	gigiri      	   1	   6
+hula           	kikipokikipo	   1	  10
+motu           	hekahi      	   7	   7
+uare           	faʔiɣa      	   7	   9
+sinaugoro      	miti        	   8	   8
+#
+Concept: 1269_NO, False Positives: no, False Negatives: yes
+doromu-aramaika	de  	   1	   1
+doromu-lofaika 	de  	   1	   1
+maria-maranomu 	de  	   1	   1
+doromu-bareika 	nade	   1	   2
+maria          	ide 	   1	   6
+maria-maiagolo 	ide 	   1	   6
+maria-uderi    	ide 	   1	   6
+hula           	ai  	   4	   4
+motu           	iasi	   4	  10
+sinaugoro      	ati 	   4	  11
+humene         	mene	   5	   5
+uare           	mene	   5	   5
+#
+Concept: 1274_SALT, False Positives: no, False Negatives: yes
+doromu-aramaika	ramena  	   1	   1
+hula           	kawaea  	   1	   4
+sinaugoro      	kwaiva  	   1	  12
+doromu-bareika 	eboka   	   2	   2
+doromu-lofaika 	eboʔa   	   2	   2
+humene         	voni    	   5	   5
+motu           	sisia   	   5	  10
+mulaha         	oana    	   5	  11
+uare           	ɣuni    	   5	  13
+maria          	kiro    	   6	   6
+maria-maranomu 	giro    	   6	   6
+maria-maiagolo 	gehaʔoru	   7	   7
+maria-uderi    	geha    	   7	   9
+#
+Concept: 1278_VOMIT, False Positives: no, False Negatives: yes
+doromu-aramaika	amagae     	   1	   1
+doromu-bareika 	amagai     	   1	   1
+doromu-lofaika 	ane+mamara 	   1	   3
+maria-maranomu 	anemaje    	   1	   7
+hula           	mumua      	   4	   4
+motu           	mumuta     	   4	   4
+sinaugoro      	mumuta     	   4	   4
+humene         	mibuhe+dE/e	   5	   5
+uare           	mibuhe+tE/e	   5	   5
+maria-maiagolo 	kohae      	   6	   6
+maria-uderi    	gohae      	   6	   6
+mulaha         	bidina     	  10	  10
+#
+Concept: 1280_FALL, False Positives: yes, False Negatives: yes
+doromu-aramaika	jare      	   1	   1
+doromu-bareika 	ode       	   2	   2
+maria-maiagolo 	ode       	   2	   2
+doromu-lofaika 	kotore    	   3	   3
+hula           	keo+ali   	   3	   4
+motu           	keto      	   3	   9
+sinaugoro      	keto      	   3	   9
+humene         	buvE/e    	   5	   5
+maria          	uroʔire   	   6	   6
+maria-maranomu 	ufoire    	   8	   6
+uare           	inikE/e   	  11	  11
+doromu-aramaika	jare      	  12	   1
+doromu-bareika 	jare      	  12	   1
+doromu-lofaika 	jare      	  12	   1
+maria          	jade      	  12	   1
+maria-maranomu 	jade      	  12	   1
+hula           	keo+riɣo  	  15	  15
+sinaugoro      	kefopiriɣo	  15	  15
+humene         	buvE/e    	  16	   5
+uare           	ibuwE/e   	  16	  22
+maria-maiagolo 	hoʔoe     	  18	  18
+motu           	moru      	  20	  20
+#
+Concept: 1287_COLD, False Positives: no, False Negatives: yes
+doromu-aramaika	itu    	   1	   1
+doromu-bareika 	itu    	   1	   1
+doromu-lofaika 	itu    	   1	   1
+maria-uderi    	itu    	   1	   1
+maria          	isu    	   1	   6
+maria-maiagolo 	isu    	   1	   6
+maria-maranomu 	ihu    	   1	   8
+hula           	milu   	   4	   4
+humene         	naʔuʔai	   5	   5
+uare           	naʔuʔai	   5	   5
+mulaha         	nanupa 	   5	  11
+motu           	keruma 	  10	  10
+sinaugoro      	paraka 	  12	  12
+#
+Concept: 1292_BAD, False Positives: no, False Negatives: yes
+doromu-aramaika	no    	   1	   1
+doromu-lofaika 	nano  	   1	   3
+maria-maranomu 	nonaʔa	   1	   8
+doromu-bareika 	kati  	   2	   2
+hula           	rakava	   4	   4
+sinaugoro      	rakava	   4	   4
+humene         	avai  	   5	   5
+mulaha         	waiki 	   5	  11
+maria          	hosoʔa	   6	   6
+maria-maiagolo 	ʔosoʔa	   6	   6
+maria-uderi    	ʔoito 	   6	   9
+motu           	dika  	  10	  10
+uare           	sauʔa 	  13	  13
+#
+Concept: 1303_FINGER, False Positives: no, False Negatives: yes
+doromu-aramaika	vana+metona	   1	   1
+maria-maranomu 	vana+meto  	   1	   1
+doromu-bareika 	vana+osika 	   2	   2
+doromu-lofaika 	vana+sigoi 	   2	   3
+hula           	riri       	   4	   4
+sinaugoro      	didi       	   4	  11
+humene         	raʔova     	   5	   5
+mulaha         	lakoi      	   5	  10
+maria          	ana+ʔibuʔa 	   6	   6
+maria-maiagolo 	anararaha  	   7	   7
+motu           	kwakikwaki 	   9	   9
+uare           	hutuʔa     	  12	  12
+#
+Concept: 1313_MOON, False Positives: no, False Negatives: yes
+doromu-aramaika	ejo  	   1	   1
+doromu-bareika 	ejo  	   1	   1
+doromu-lofaika 	ejo  	   1	   1
+maria          	eoʔa 	   1	   6
+maria-maiagolo 	eoʔa 	   1	   6
+maria-uderi    	eoʔa 	   1	   6
+maria-maranomu 	ɛjo  	   1	   8
+hula           	vue  	   4	   4
+motu           	hua  	   4	  10
+sinaugoro      	ɣue  	   4	  12
+humene         	bato 	   5	   5
+uare           	bato 	   5	   5
+mulaha         	vaisa	   5	  11
+#
+Concept: 1335_WHITE, False Positives: no, False Negatives: yes
+doromu-aramaika	feo     	   1	   1
+doromu-bareika 	feo     	   1	   1
+doromu-lofaika 	feo     	   1	   1
+hula           	kulokulo	   4	   4
+motu           	kurokuro	   4	   4
+sinaugoro      	kurokuro	   4	   4
+humene         	irovai  	   4	   5
+mulaha         	kuia    	   4	  11
+uare           	uruɣa   	   4	  13
+maria          	hore    	   6	   6
+maria-maiagolo 	hore    	   6	   6
+maria-maranomu 	hore    	   6	   6
+maria-uderi    	hore    	   6	   6
+#
+Concept: 1336_EAT, False Positives: no, False Negatives: yes
+doromu-aramaika	iri   	   1	   1
+doromu-bareika 	iri   	   1	   1
+doromu-lofaika 	iri   	   1	   1
+maria          	iri   	   1	   1
+maria-maiagolo 	iri   	   1	   1
+maria-maranomu 	iri   	   1	   1
+maria-uderi    	iri   	   1	   1
+hula           	ani   	   4	   4
+motu           	ani   	   4	   4
+sinaugoro      	ɣani  	   4	   4
+humene         	a+nE/e	   4	   5
+uare           	a+nE/e	   4	   5
+mulaha         	inatu 	   4	  11
+#
+Concept: 1337_PIG, False Positives: yes, False Negatives: yes
+doromu-aramaika	dona  	   1	   1
+doromu-bareika 	dona  	   2	   1
+doromu-lofaika 	dona  	   3	   1
+hula           	iɣu   	   4	   4
+sinaugoro      	ɣiɣu  	   4	   4
+motu           	iu    	   4	  10
+humene         	ava   	   5	   5
+uare           	avaɣa 	   5	  13
+maria          	tona  	   6	   1
+maria-maiagolo 	tona  	   7	   1
+maria-maranomu 	tona  	   8	   1
+maria-uderi    	tona  	   9	   1
+mulaha         	batuvi	  11	  11
+#
+Concept: 1339_MORNING, False Positives: no, False Negatives: yes
+doromu-aramaika	urujako  	   1	   1
+maria          	urufajaʔu	   1	   6
+maria-maranomu 	uriʔahu  	   1	   8
+doromu-bareika 	ururu    	   2	   2
+maria-maiagolo 	ariro    	   2	   7
+doromu-lofaika 	agia     	   3	   3
+hula           	rapa     	   4	   4
+motu           	daba     	   4	  10
+humene         	obobu    	   5	   5
+maria-uderi    	uruhoruha	   9	   9
+sinaugoro      	boɣiboɣi 	  11	  11
+uare           	oherebaɣu	  12	  12
+maria-maiagolo 	ari+ueno 	  13	  13
+#
+Concept: 1343_SUN, False Positives: no, False Negatives: yes
+doromu-aramaika	meda   	   1	   1
+doromu-bareika 	meda   	   1	   1
+humene         	mada   	   1	   1
+uare           	mada   	   1	   1
+doromu-lofaika 	meidaʔa	   1	   3
+maria          	meidaʔa	   1	   3
+maria-maiagolo 	madaʔa 	   1	   3
+maria-maranomu 	meidaʔa	   1	   3
+maria-uderi    	madaʔa 	   1	   3
+hula           	aro    	   4	   4
+sinaugoro      	ɣaro   	   4	   4
+motu           	dina   	  10	  10
+mulaha         	bauwa  	  11	  11
+#
+Concept: 1346_THROAT, False Positives: no, False Negatives: yes
+doromu-aramaika	kuri   	   1	   1
+hula           	karo   	   1	   3
+maria          	koro   	   1	   3
+maria-maranomu 	koro   	   1	   3
+maria-maiagolo 	goro   	   1	   6
+maria-uderi    	goro   	   1	   6
+motu           	gado   	   1	   9
+sinaugoro      	godoka 	   1	  11
+doromu-bareika 	pave   	   2	   2
+humene         	ono    	   4	   4
+mulaha         	godoi  	  10	  10
+uare           	ogorabi	  12	  12
+#
+Concept: 1347_NAPE_OF_NECK, False Positives: no, False Negatives: yes
+doromu-aramaika	kuri  	   1	   1
+doromu-bareika 	kuri  	   1	   1
+doromu-lofaika 	ʔuri  	   1	   1
+maria          	ʔuri  	   1	   1
+maria-maranomu 	ʔuri  	   1	   1
+humene         	utune 	   1	   5
+maria-maiagolo 	uduma 	   1	   7
+maria-uderi    	uduma 	   1	   7
+uare           	unu   	   1	  13
+hula           	aigo  	   4	   4
+motu           	aio   	   4	   4
+sinaugoro      	geru  	   4	  12
+mulaha         	oara  	  11	  11
+doromu-aramaika	sobuka	  14	  14
+#
+Concept: 1355_LAUGH, False Positives: no, False Negatives: yes
+doromu-aramaika	jogani 	   1	   1
+doromu-bareika 	jogani 	   1	   1
+doromu-lofaika 	jogani 	   1	   1
+maria          	jogani 	   1	   1
+maria-maiagolo 	jogani 	   1	   1
+maria-maranomu 	jogani 	   1	   1
+hula           	mamai  	   4	   4
+humene         	evefE/e	   5	   5
+uare           	eɣofE/e	   5	  12
+motu           	kiri   	   9	   9
+sinaugoro      	riki   	   9	  11
+mulaha         	isini  	  10	  10
+#
+Concept: 136_HERE, False Positives: no, False Negatives: yes
+doromu-aramaika	re	   1	   1
+doromu-bareika 	ri	   1	   2
+humene         	de	   1	   5
+maria-maiagolo 	ro	   1	   6
+maria-maranomu 	ro	   1	   6
+mulaha         	tu	   1	   9
+doromu-lofaika 	du	   3	   3
+maria-maranomu 	du	   3	   3
+hula           	ai	   4	   4
+motu           	ai	   4	   4
+sinaugoro      	ai	   4	   4
+uare           	ae	   4	  11
+#
+Concept: 1371_KNEE, False Positives: no, False Negatives: yes
+doromu-aramaika	juka+efuka 	   1	   1
+doromu-bareika 	juka+kefoka	   1	   1
+maria          	eho        	   1	   6
+maria-maiagolo 	eho        	   1	   6
+maria-maranomu 	eho        	   1	   6
+doromu-lofaika 	ruʔa+tauba 	   3	   3
+hula           	kwaukwau   	   4	   4
+humene         	omoti      	   5	   5
+maria-uderi    	tui        	   9	   9
+motu           	tui        	   9	   9
+sinaugoro      	tui        	   9	   9
+uare           	ofena      	  12	  12
+#
+Concept: 1380_TOOTH, False Positives: no, False Negatives: yes
+doromu-aramaika	gade  	   1	   1
+doromu-bareika 	kade  	   1	   1
+doromu-lofaika 	gade  	   1	   1
+maria-maranomu 	gade  	   1	   1
+maria          	gate  	   1	   6
+hula           	rua   	   4	   4
+sinaugoro      	doɣa  	   4	  12
+humene         	vonone	   5	   5
+uare           	ɣonone	   5	   5
+motu           	ite   	   5	  10
+maria-maiagolo 	nio   	   7	   7
+maria-uderi    	nio   	   7	   7
+mulaha         	waina 	  11	  11
+#
+Concept: 1392_LOUSE, False Positives: no, False Negatives: yes
+doromu-aramaika	gue   	   1	   1
+doromu-bareika 	gue   	   1	   1
+doromu-lofaika 	gue   	   1	   1
+maria-maranomu 	gue   	   1	   1
+hula           	ɣuː   	   1	   4
+maria-maiagolo 	kue   	   1	   6
+motu           	utu   	   1	   8
+sinaugoro      	ɣutu  	   1	   8
+humene         	nomone	   5	   5
+uare           	nomone	   5	   5
+mulaha         	umana 	   5	   9
+#
+Concept: 1394_BONE, False Positives: no, False Negatives: yes
+doromu-aramaika	nena  	   1	   1
+doromu-bareika 	nena  	   1	   1
+doromu-lofaika 	nena  	   1	   1
+maria          	nena  	   1	   1
+maria-maiagolo 	nena  	   1	   1
+maria-maranomu 	nena  	   1	   1
+maria-uderi    	nena  	   1	   1
+humene         	ehine 	   1	   5
+mulaha         	inina 	   1	  11
+uare           	isine 	   1	  13
+hula           	iliɣa 	   4	   4
+motu           	turia 	   4	  10
+sinaugoro      	turiɣa	   4	  10
+#
+Concept: 1396_SHARP, False Positives: no, False Negatives: yes
+doromu-aramaika	ʔareka     	   1	   1
+doromu-bareika 	kahire     	   1	   2
+doromu-lofaika 	ʔariʔa     	   1	   3
+maria-maranomu 	ariʔa      	   1	   3
+maria-maiagolo 	oʔraifa    	   1	   6
+hula           	mama+ana   	   4	   4
+motu           	mai+miatana	   4	  11
+humene         	musuʔai    	   5	   5
+motu           	gano       	   8	   8
+sinaugoro      	raga       	   9	   9
+uare           	eʔaɣa      	  10	  10
+#
+Concept: 1400_THIN_SLIM, False Positives: no, False Negatives: yes
+doromu-bareika 	fetaka  	   1	   1
+hula           	maɣivi  	   2	   2
+humene         	ʒeviʔai 	   2	   3
+sinaugoro      	maɣemaɣe	   2	   6
+uare           	ʒiɣia   	   2	   7
+maria-maranomu 	baireʔæ 	   4	   4
+motu           	severa  	   5	   5
+#
+Concept: 1401_DRINK, False Positives: no, False Negatives: yes
+doromu-aramaika	iri    	   1	   1
+doromu-bareika 	iri    	   1	   1
+doromu-lofaika 	iri    	   1	   1
+maria          	iri    	   1	   1
+maria-maiagolo 	iri    	   1	   1
+maria-maranomu 	iri    	   1	   1
+uare           	ga+gE/e	   1	  12
+hula           	niu    	   4	   4
+sinaugoro      	niu    	   4	   4
+motu           	inu    	   4	   9
+mulaha         	ina    	   4	  10
+humene         	a+nE/e 	   5	   5
+#
+Concept: 1402_BREAST, False Positives: no, False Negatives: yes
+doromu-aramaika	susu   	   1	   1
+doromu-bareika 	susu   	   1	   1
+maria-maiagolo 	susu   	   1	   1
+doromu-lofaika 	tisu   	   1	   3
+maria          	titu   	   1	   3
+maria-maranomu 	hisu   	   1	   8
+maria-uderi    	tutu   	   1	   9
+hula           	laː    	   4	   4
+motu           	rata   	   4	  10
+sinaugoro      	rata   	   4	  10
+humene         	nuune  	   5	   5
+uare           	nune   	   5	   5
+mulaha         	kobaiba	  11	  11
+#
+Concept: 1403_BITE, False Positives: no, False Negatives: yes
+doromu-aramaika	akire    	   1	   1
+doromu-bareika 	akire    	   1	   1
+doromu-lofaika 	akire    	   1	   1
+maria-maranomu 	aʔire    	   1	   1
+maria-uderi    	ire      	   1	   8
+hula           	koli     	   4	   4
+motu           	kori     	   4	   4
+mulaha         	koi+iani 	   4	  10
+humene         	vino+hE/e	   5	   5
+uare           	viho+nE/e	   5	   5
+maria-maiagolo 	tomura   	   6	   6
+sinaugoro      	kapu     	  11	  11
+#
+Concept: 1404_STRAIGHT, False Positives: no, False Negatives: yes
+doromu-aramaika	rorobo      	   1	   1
+doromu-bareika 	buni        	   2	   2
+doromu-lofaika 	bubuna      	   3	   3
+maria-maranomu 	bubuna      	   3	   3
+hula           	rorirori    	   4	   4
+sinaugoro      	roroɣoto    	   4	   9
+humene         	dodovahoʔone	   5	   5
+uare           	duduɣa      	   5	  10
+maria-maiagolo 	ariri       	   6	   6
+motu           	maoro       	   8	   8
+#
+Concept: 1405_NAME, False Positives: yes, False Negatives: yes
+doromu-aramaika	roka   	   1	   1
+doromu-bareika 	roka   	   1	   1
+doromu-lofaika 	roʔa   	   1	   1
+maria          	roʔa   	   1	   1
+maria-maranomu 	roʔa   	   1	   1
+maria-maiagolo 	roʔaba 	   1	   7
+maria-uderi    	roʔaba 	   1	   7
+hula           	ara    	   4	   4
+humene         	ni     	   5	   5
+uare           	ni     	   5	   5
+sinaugoro      	ara    	  10	   4
+motu           	lada   	  10	  10
+mulaha         	waː+anu	  11	  11
+#
+Concept: 1406_FAR, False Positives: no, False Negatives: yes
+doromu-aramaika	maiketoka 	   1	   1
+doromu-bareika 	beno+tora 	   2	   2
+doromu-lofaika 	ebira+tora	   3	   3
+hula           	rau       	   4	   4
+motu           	daudau    	   4	   7
+maria-maiagolo 	gegerama  	   5	   5
+maria-maranomu 	mairama   	   6	   6
+sinaugoro      	manaɣa    	   8	   8
+uare           	faɣano    	   9	   9
+#
+Concept: 1408_HEAR, False Positives: no, False Negatives: yes
+doromu-aramaika	neide   	   1	   1
+doromu-bareika 	neide   	   1	   1
+doromu-lofaika 	neide   	   1	   1
+maria-maiagolo 	nede    	   1	   1
+maria-maranomu 	nede    	   1	   1
+maria          	nete    	   1	   6
+maria-uderi    	nete    	   1	   6
+hula           	kamonaɣi	   4	   4
+motu           	kamonai 	   4	   4
+humene         	ohi+nE/e	   5	   5
+mulaha         	gouata  	  11	  11
+sinaugoro      	teɣaɣi  	  12	  12
+uare           	eke     	  13	  13
+#
+Concept: 1409_SEE, False Positives: no, False Negatives: yes
+doromu-aramaika	ve       	   1	   1
+doromu-bareika 	java     	   1	   2
+doromu-lofaika 	jave     	   1	   2
+maria          	oja      	   1	   6
+maria-maiagolo 	oe       	   1	   7
+maria-uderi    	oe       	   1	   7
+maria-maranomu 	oje      	   1	   8
+hula           	ɣia      	   4	   4
+sinaugoro      	ɣita     	   4	   4
+motu           	ita      	   4	  10
+humene         	vodo+nE/e	   5	   5
+uare           	horo+nE/e	   5	   5
+mulaha         	babunari 	  11	  11
+#
+Concept: 1411_LIE_REST, False Positives: no, False Negatives: yes
+doromu-aramaika	vare    	   1	   1
+doromu-lofaika 	vare    	   1	   1
+maria          	are     	   1	   1
+maria-maiagolo 	are     	   1	   1
+doromu-bareika 	waː     	   1	   2
+hula           	makoali 	   4	   4
+humene         	baʒE/e  	   5	   5
+uare           	baʒE/e  	   5	   5
+maria-maranomu 	om+dau  	   8	   8
+motu           	hekure  	   9	   9
+sinaugoro      	genatari	  10	  10
+#
+Concept: 1416_SIT, False Positives: no, False Negatives: yes
+doromu-aramaika	ame      	   1	   1
+doromu-bareika 	ame      	   1	   1
+doromu-lofaika 	ametumure	   1	   3
+hula           	aluali   	   4	   4
+sinaugoro      	tanutari 	   4	  12
+humene         	radE/e   	   5	   5
+maria          	ouʔanu   	   6	   6
+maria-maiagolo 	outanu   	   6	   6
+maria-maranomu 	outanu   	   6	   6
+maria-uderi    	outanu   	   6	   6
+mulaha         	tauna    	   6	  11
+motu           	helaldiho	  10	  10
+uare           	ehorE/e  	  13	  13
+#
+Concept: 1417_KILL, False Positives: no, False Negatives: yes
+doromu-aramaika	imi       	   1	   1
+maria-maiagolo 	imi       	   1	   1
+doromu-lofaika 	ime       	   1	   3
+maria-maranomu 	ime       	   1	   3
+maria          	imina     	   1	   6
+doromu-bareika 	u         	   2	   2
+hula           	vaɣi      	   4	   4
+sinaugoro      	vagi      	   4	   4
+humene         	vaino+dE/e	   5	   5
+uare           	veno+dE/e 	   5	   5
+motu           	ala       	   9	   9
+#
+Concept: 1418_DIG, False Positives: no, False Negatives: yes
+doromu-aramaika	goe    	   1	   1
+maria-maranomu 	goʔe   	   1	   1
+doromu-bareika 	go     	   1	   2
+doromu-lofaika 	go     	   1	   2
+humene         	o+ʔE/e 	   1	   5
+uare           	ho+ʔE/e	   1	   5
+maria-maiagolo 	keʔe   	   1	   6
+hula           	lea    	   4	   4
+motu           	gei    	   8	   8
+sinaugoro      	kwa    	   8	  10
+mulaha         	isani  	   9	   9
+#
+Concept: 1419_FEAR_BE_AFRAID, False Positives: no, False Negatives: yes
+doromu-aramaika	orire    	   1	   1
+doromu-bareika 	orire    	   1	   1
+doromu-lofaika 	orire    	   1	   1
+maria          	orire    	   1	   1
+maria-maiagolo 	orire    	   1	   1
+maria-maranomu 	orire    	   1	   1
+hula           	kali     	   4	   4
+motu           	gari     	   4	   9
+sinaugoro      	gari     	   4	   9
+humene         	fere+nE/e	   5	   5
+uare           	riha+nE/e	  11	  11
+#
+Concept: 141_BURN_SOMETHING, False Positives: no, False Negatives: yes
+doromu-aramaika	kei         	   1	   1
+doromu-bareika 	ori         	   2	   2
+doromu-lofaika 	ori         	   2	   2
+maria-maiagolo 	ore         	   2	   5
+maria-maranomu 	ore         	   2	   5
+hula           	kapu        	   4	   4
+motu           	gabu        	   4	   7
+sinaugoro      	gabu        	   4	   7
+mulaha         	owai+aiagata	   8	   8
+uare           	ho+fE/e     	  10	  10
+#
+Concept: 1423_FIGHT, False Positives: no, False Negatives: yes
+doromu-aramaika	rudare    	   1	   1
+doromu-bareika 	rudare    	   1	   1
+doromu-lofaika 	rudare    	   1	   1
+hula           	vevaɣi    	   4	   4
+sinaugoro      	vevaɣi    	   4	   4
+motu           	heai      	   4	   8
+humene         	tedE/e    	   5	   5
+maria-maranomu 	uejadi    	   5	   7
+uare           	utitE/e   	   5	  11
+maria-maiagolo 	marehenadi	   6	   6
+mulaha         	isaoatini 	   9	   9
+motu           	heatu     	  12	  12
+#
+Concept: 1424_YELLOW, False Positives: no, False Negatives: yes
+doromu-aramaika	bora    	   1	   1
+doromu-bareika 	bora    	   1	   1
+doromu-lofaika 	bora    	   1	   1
+maria-maiagolo 	bora    	   1	   1
+maria-maranomu 	bora    	   1	   1
+mulaha         	boria   	   1	   1
+hula           	polapola	   1	   4
+humene         	boravai 	   1	   5
+maria          	borara  	   1	   5
+uare           	boraɣa  	   1	   5
+motu           	labora  	   1	   9
+sinaugoro      	borabora	   1	  11
+#
+Concept: 1425_GREEN, False Positives: no, False Negatives: yes
+doromu-aramaika	jegujegu    	   1	   1
+doromu-bareika 	jegujegu    	   1	   1
+maria-maranomu 	jogujogu    	   1	   1
+doromu-lofaika 	jegu        	   1	   3
+maria          	jogu        	   1	   3
+motu           	gadokagadoka	   6	   6
+sinaugoro      	maɣita      	   7	   7
+#
+Concept: 1429_FULL, False Positives: no, False Negatives: yes
+doromu-aramaika	atobai  	   1	   1
+doromu-bareika 	watobadi	   1	   1
+doromu-lofaika 	ʔatokejo	   1	   3
+hula           	vonu    	   4	   4
+motu           	honu    	   4	   4
+sinaugoro      	vonu    	   4	   4
+humene         	erevaʔa 	   5	   5
+uare           	erevaʔa 	   5	   5
+maria          	ahurui  	   6	   6
+maria-maiagolo 	haruo   	   6	   7
+maria-maranomu 	vahaoni 	   6	   8
+#
+Concept: 1430_STAR, False Positives: no, False Negatives: yes
+doromu-aramaika	ia     	   1	   1
+doromu-bareika 	ia     	   1	   1
+maria-maranomu 	ia     	   1	   1
+maria          	iama   	   1	   6
+maria-maiagolo 	iamana 	   1	   7
+maria-uderi    	iamana 	   1	   7
+doromu-lofaika 	nana   	   3	   3
+hula           	ɣivu   	   4	   4
+motu           	hisiu  	   4	  10
+mulaha         	itu    	   4	  11
+sinaugoro      	vitiuɣu	   4	  12
+humene         	boʒova 	   5	   5
+uare           	boʒoɣa 	   5	   5
+#
+Concept: 1432_CUT, False Positives: no, False Negatives: yes
+doromu-aramaika	nugare   	   1	   1
+doromu-lofaika 	nugare   	   1	   1
+maria-maranomu 	nukare   	   1	   1
+doromu-bareika 	nuka     	   1	   2
+maria-maiagolo 	nuge     	   1	   6
+hula           	pai      	   4	   4
+humene         	vare     	   5	   5
+uare           	vari+ʔE/e	   5	  10
+motu           	utu      	   8	   8
+sinaugoro      	batiɣutu 	   8	   9
+#
+Concept: 1433_HIT, False Positives: no, False Negatives: yes
+doromu-aramaika	u        	   1	   1
+doromu-bareika 	u        	   1	   1
+maria          	u        	   1	   1
+maria-maiagolo 	u        	   1	   1
+maria-maranomu 	u        	   1	   1
+doromu-lofaika 	au       	   1	   3
+maria-uderi    	dadaʔu   	   1	   9
+hula           	kwari    	   4	   4
+sinaugoro      	kwari    	   4	   4
+humene         	mahi+nE/e	   5	   5
+uare           	ma+nE/e  	   5	   5
+motu           	bota     	  10	  10
+#
+Concept: 1436_SCRATCH, False Positives: no, False Negatives: yes
+doromu-aramaika	ikagoe   	   1	   1
+doromu-bareika 	go       	   1	   2
+doromu-lofaika 	goe      	   1	   3
+humene         	vuʔi+tE/e	   1	   5
+uare           	ɣuki+sE/e	   1	  11
+hula           	galo     	   4	   4
+motu           	kakasi   	   4	   9
+sinaugoro      	kakari   	   4	   9
+maria          	ie       	   6	   6
+maria-maiagolo 	ʔiʔe     	   6	   7
+maria-maranomu 	ueʔe     	   6	   8
+#
+Concept: 1439_SWIM, False Positives: yes, False Negatives: yes
+doromu-aramaika	ovare    	   1	   1
+doromu-bareika 	ovare    	   1	   1
+doromu-lofaika 	ovamaʔu  	   1	   3
+hula           	navu     	   4	   4
+motu           	nahu     	   4	   4
+maria          	ʔoru+gena	   5	   5
+maria-maranomu 	ukua     	   6	   6
+sinaugoro      	nau      	   8	   4
+uare           	ɣemabE/e 	   9	   9
+#
+Concept: 1441_FLY_MOVE_THROUGH_AIR, False Positives: no, False Negatives: yes
+doromu-aramaika	ovare    	   1	   1
+doromu-bareika 	ovare    	   1	   1
+doromu-lofaika 	dadi     	   3	   3
+hula           	lovo     	   4	   4
+sinaugoro      	rovo     	   4	   4
+humene         	lafeʒE/e 	   4	   5
+motu           	roho     	   4	   8
+uare           	lafianE/e	   4	  10
+maria-maiagolo 	buʔehi+ne	   6	   6
+maria-maranomu 	bunihidi 	   6	   7
+#
+Concept: 1443_WALK, False Positives: no, False Negatives: yes
+doromu-aramaika	ne     	   1	   1
+doromu-bareika 	ne     	   1	   1
+doromu-lofaika 	ne     	   1	   1
+maria          	ne     	   1	   1
+maria-maiagolo 	ne     	   1	   1
+maria-maranomu 	ne     	   1	   1
+maria-uderi    	ne     	   1	   1
+doromu-aramaika	di     	   1	  13
+doromu-bareika 	di     	   1	  13
+doromu-lofaika 	di     	   1	  13
+maria          	di     	   1	  13
+maria-maiagolo 	di     	   1	  13
+maria-maranomu 	di     	   1	  13
+maria-uderi    	di     	   1	  13
+hula           	laka   	   4	   4
+motu           	raka   	   4	   4
+sinaugoro      	raka   	   4	   4
+humene         	onamE/e	   5	   5
+uare           	ohamE/e	   5	   5
+#
+Concept: 1446_COME, False Positives: no, False Negatives: yes
+doromu-aramaika	bae        	   1	   1
+doromu-bareika 	bae        	   1	   1
+doromu-lofaika 	bae        	   1	   1
+maria          	bae        	   1	   1
+maria-maiagolo 	bae        	   1	   1
+hula           	veamai     	   4	   4
+motu           	mai        	   4	   9
+sinaugoro      	iaɣoma     	   4	  11
+humene         	ona        	   5	   5
+uare           	ona        	   5	   5
+maria-maranomu 	oʔe        	   8	   8
+mulaha         	kuwanakausa	  10	  10
+#
+Concept: 1447_GIVE, False Positives: yes, False Negatives: yes
+doromu-aramaika	na+ma    	   1	   1
+doromu-bareika 	na+ma    	   1	   1
+doromu-lofaika 	na+ma    	   1	   1
+maria          	na+mare  	   1	   1
+maria-maiagolo 	na+mare  	   1	   1
+maria-maranomu 	na+mare  	   1	   1
+maria-uderi    	na+ma    	   1	   1
+uare           	emaiaroʔi	   1	  13
+hula           	veni+ku  	   4	   4
+sinaugoro      	vini+gu  	   4	   4
+motu           	keni+gu  	   4	  10
+humene         	lifaoʔa  	   5	   5
+mulaha         	enato    	  11	  11
+hula           	veni+mu  	  14	   4
+motu           	heni+mu  	  15	   4
+sinaugoro      	vini+mu  	  16	   4
+uare           	ʒenoʔi   	  17	  17
+hula           	veni+a   	  18	  18
+motu           	heni+a   	  19	  18
+sinaugoro      	vini+a   	  20	  18
+uare           	hanoʔi   	  21	  21
+#
+Concept: 1448_HOLD, False Positives: no, False Negatives: yes
+doromu-aramaika	mogirare  	   1	   1
+doromu-bareika 	moi       	   1	   2
+doromu-lofaika 	moi       	   1	   2
+maria          	momena    	   1	   6
+maria-maranomu 	mohere    	   1	   8
+hula           	api       	   4	   4
+sinaugoro      	ɣabitaɣo  	   4	  10
+humene         	ahova+nE/e	   5	   5
+maria-maiagolo 	nabare    	   7	   7
+motu           	dogo+tao  	   9	   9
+uare           	obo+nE/e  	  11	  11
+#
+Concept: 1452_PUSH, False Positives: no, False Negatives: yes
+doromu-aramaika	bibiare+ne      	   1	   1
+doromu-bareika 	moife           	   2	   2
+doromu-lofaika 	moiruture       	   3	   3
+hula           	roli            	   4	   4
+humene         	doʔi+nE/e       	   4	   5
+uare           	duʔi+nE/e       	   4	   5
+motu           	dori            	   4	   9
+sinaugoro      	dori            	   4	   9
+maria          	mahua           	   6	   6
+maria-maiagolo 	usiʔoredu+neaini	   7	   7
+maria-maranomu 	ediʔore         	   7	   8
+#
+Concept: 1453_WASH, False Positives: no, False Negatives: yes
+doromu-aramaika	rafe    	   1	   1
+doromu-bareika 	rafe    	   1	   1
+doromu-lofaika 	ʔorurafa	   1	   3
+maria          	ʔour+ahu	   1	   6
+maria-maiagolo 	oru+ahe 	   1	   7
+maria-maranomu 	ʔoruʔahu	   1	   8
+hula           	riku    	   4	   4
+motu           	digu    	   4	   9
+sinaugoro      	ɣurigi  	   4	  10
+humene         	virE/e  	   5	   5
+uare           	virE/e  	   5	   5
+#
+Concept: 1455_PULL, False Positives: no, False Negatives: yes
+doromu-aramaika	morutere+de   	   1	   1
+doromu-bareika 	moiruture     	   1	   2
+doromu-lofaika 	moruture+udoru	   1	   3
+maria          	mohoʔire      	   1	   6
+maria-maranomu 	moʔoʔire      	   1	   6
+maria-maiagolo 	uʔerihe+bae   	   1	   7
+hula           	kere          	   4	   4
+motu           	veri          	   4	   9
+humene         	ate+tE/e      	   5	   5
+sinaugoro      	inu           	  10	  10
+uare           	hutu+bE/e     	  11	  11
+#
+Concept: 1456_THROW, False Positives: no, False Negatives: yes
+doromu-aramaika	maku    	   1	   1
+doromu-bareika 	mako    	   1	   1
+doromu-lofaika 	maʔu    	   1	   3
+maria-maranomu 	maʔu    	   1	   3
+maria          	mahaʔoa 	   1	   6
+maria-maiagolo 	mahaʔo  	   1	   6
+hula           	piao    	   4	   4
+sinaugoro      	piu     	   4	  10
+humene         	fi+nE/e 	   5	   5
+uare           	feu+nE/e	   5	  11
+motu           	taho    	   9	   9
+#
+Concept: 1457_SEW, False Positives: no, False Negatives: yes
+doromu-bareika 	turi     	   1	   1
+motu           	turi     	   1	   1
+sinaugoro      	turi     	   1	   1
+hula           	ulia     	   1	   3
+doromu-lofaika 	bati     	   2	   2
+humene         	bibi+ʒE/e	   4	   4
+uare           	bibi     	   4	   9
+maria-maiagolo 	taʔire   	   5	   5
+maria-maranomu 	arahahe  	   6	   6
+#
+Concept: 1468_LOOK_FOR, False Positives: no, False Negatives: yes
+doromu-aramaika	mai+nare	   1	   1
+doromu-bareika 	mainare 	   1	   1
+doromu-lofaika 	jari+fa 	   3	   3
+hula           	avu     	   4	   4
+motu           	tahu    	   4	   9
+sinaugoro      	tau     	   4	   9
+humene         	va+vE/e 	   5	   5
+uare           	va+ɣE/e 	   5	   5
+maria          	harare  	   6	   6
+maria-maiagolo 	haraʔare	   6	   6
+maria-maranomu 	ʔoise   	   8	   8
+#
+Concept: 146_SUGAR_CANE, False Positives: yes, False Negatives: no
+doromu-aramaika	arefa   	   1	   1
+doromu-bareika 	afa     	   2	   2
+doromu-lofaika 	arefa   	   3	   1
+hula           	vaira   	   4	   4
+humene         	ere     	   5	   5
+maria          	areha   	   6	   1
+maria-maiagolo 	ara     	   7	   7
+maria-maranomu 	arehæ   	   8	   8
+maria-uderi    	araha   	   9	   9
+motu           	geregere	  10	  10
+sinaugoro      	gereka  	  11	  11
+uare           	ema     	  12	  12
+#
+Concept: 1482_SHOULDER, False Positives: no, False Negatives: yes
+doromu-aramaika	megea 	   1	   1
+doromu-bareika 	batara	   2	   2
+motu           	paɣa  	   2	  10
+sinaugoro      	ɣaba  	   2	  12
+doromu-lofaika 	ofea  	   3	   3
+maria          	oʔheha	   3	   6
+maria-maiagolo 	oheʔa 	   3	   7
+maria-maranomu 	ʔoheha	   3	   8
+hula           	alo   	   4	   4
+humene         	hera  	   5	   5
+uare           	hera  	   5	   5
+maria-uderi    	evere 	   9	   9
+mulaha         	pavai 	  11	  11
+#
+Concept: 1485_BELOW_OR_UNDER, False Positives: no, False Negatives: yes
+doromu-aramaika	java+gabi+reri	   1	   1
+doromu-bareika 	java+gabirori 	   1	   1
+doromu-lofaika 	java+gabireri 	   1	   1
+maria-maiagolo 	java+kaburero 	   1	   1
+maria-maranomu 	java+gabirori 	   1	   1
+hula           	kapulenai     	   4	   4
+sinaugoro      	gaburenai     	   4	  10
+humene         	oʔuvio        	   5	   5
+uare           	ʔuʔuo         	   5	  11
+maria-uderi    	java+uharearo 	   8	   8
+motu           	henunai       	   9	   9
+#
+Concept: 1487_POUR, False Positives: no, False Negatives: yes
+doromu-aramaika	feide   	   1	   1
+doromu-bareika 	feide   	   1	   1
+doromu-lofaika 	rau+siri	   1	   3
+hula           	i       	   1	   4
+motu           	sei     	   1	  11
+humene         	e+vE/e  	   5	   5
+maria-maiagolo 	eʔodare 	   6	   6
+maria-maranomu 	eʔehure 	   6	   7
+motu           	bubu    	   8	   8
+sinaugoro      	bubu    	   8	   8
+uare           	beu+ʔE/e	  10	  10
+#
+Concept: 1489_CLOUD, False Positives: no, False Negatives: yes
+doromu-aramaika	seuja   	   1	   1
+doromu-bareika 	seuja   	   1	   1
+doromu-lofaika 	seuja   	   1	   1
+maria          	hoja    	   1	   6
+maria-maiagolo 	hoja    	   1	   6
+maria-maranomu 	houja   	   1	   6
+hula           	inova   	   4	   4
+humene         	voʒe    	   5	   5
+uare           	ɣoʒe    	   5	   5
+maria-uderi    	agubi   	   9	   9
+sinaugoro      	magube  	   9	  12
+motu           	ori     	  10	  10
+mulaha         	dagadaga	  11	  11
+#
+Concept: 1493_ONE, False Positives: no, False Negatives: yes
+doromu-aramaika	jokoi+maka	   1	   1
+doromu-bareika 	nokoi+maka	   1	   1
+doromu-lofaika 	joʔima    	   1	   3
+maria-maranomu 	joʔohi    	   1	   8
+hula           	kopuna    	   4	   4
+humene         	tebo      	   4	   5
+motu           	tamona    	   4	  10
+mulaha         	pebogi    	   4	  11
+sinaugoro      	tebona    	   4	  12
+uare           	tiba      	   4	  13
+maria          	aibuhi    	   6	   6
+maria-maiagolo 	aefima    	   6	   7
+maria-uderi    	aefoma    	   6	   7
+#
+Concept: 1500_FOUR, False Positives: no, False Negatives: yes
+doromu-aramaika	vana+raro      	   1	   1
+doromu-bareika 	vana+raro      	   1	   1
+doromu-lofaika 	vana+raro      	   1	   1
+hula           	vaivai         	   4	   4
+sinaugoro      	vati           	   4	  11
+humene         	aheu+aheu      	   5	   5
+maria          	jema+ma+jema+ma	   6	   6
+maria-maiagolo 	jema+ma+jema   	   6	   6
+maria-maranomu 	jema+ma+jema+ma	   6	   6
+maria-uderi    	jimi+jimi      	   6	   9
+motu           	hani           	  10	  10
+uare           	ɣaʒaga         	  12	  12
+#
+Concept: 1504_FLY_INSECT, False Positives: no, False Negatives: yes
+doromu-aramaika	naguma 	   1	   1
+doromu-bareika 	naguma 	   1	   1
+doromu-lofaika 	naguma 	   1	   1
+hula           	nemo   	   1	   4
+motu           	namo   	   1	   4
+sinaugoro      	nemo   	   1	   4
+humene         	mudire 	   5	   5
+uare           	mudire 	   5	   5
+maria          	tourema	   6	   6
+maria-maiagolo 	tourema	   6	   6
+maria-maranomu 	tourema	   6	   6
+maria-uderi    	toure  	   6	   6
+mulaha         	nanuia 	  11	  11
+#
+Concept: 1507_FRUIT, False Positives: no, False Negatives: yes
+doromu-aramaika	jabo+meko	   1	   1
+doromu-bareika 	jabo+meko	   1	   1
+doromu-lofaika 	jabo+meʔo	   1	   1
+maria          	jabo+meʔo	   1	   1
+maria-maiagolo 	jabo+meʔo	   1	   1
+maria-maranomu 	jabo+meʔo	   1	   1
+maria-uderi    	javo+meko	   1	   1
+hula           	vuavua   	   4	   4
+motu           	huahua   	   4	  10
+sinaugoro      	ɣuaɣua   	   4	  12
+humene         	inuʔai   	   5	   5
+mulaha         	boivi    	  11	  11
+uare           	maɣa     	  13	  13
+#
+Concept: 1509_MOSQUITO, False Positives: no, False Negatives: yes
+doromu-aramaika	nemona  	   1	   1
+doromu-bareika 	nemona  	   1	   1
+maria-maiagolo 	nemoʔina	   1	   1
+maria-uderi    	nemoʔina	   1	   1
+hula           	pepe    	   1	   4
+humene         	bebero  	   1	   5
+mulaha         	beberu  	   1	   5
+motu           	kaubebe 	   1	  10
+sinaugoro      	kaubebe 	   1	  10
+uare           	karabibi	   1	  13
+doromu-lofaika 	kimisona	   3	   3
+maria          	oʔiona  	   6	   6
+maria-maranomu 	oʔiona  	   6	   6
+#
+Concept: 1515_TEN, False Positives: no, False Negatives: yes
+doromu-aramaika	vana+bero+bero+autu    	   1	   1
+doromu-bareika 	vana+bereautu          	   1	   2
+maria-maiagolo 	ana+ebe+roho+eberohu   	   1	   5
+maria-maranomu 	vana+beroho+berohu     	   1	   5
+hula           	galana                 	   3	   3
+maria-uderi    	kapanana               	   3	   7
+sinaugoro      	gabanana               	   3	   7
+uare           	gaubanana              	   3	   7
+humene         	evole+nae+nae+ne+ruruna	   4	   4
+motu           	gwauta                 	   8	   8
+#
+Concept: 1519_RUN, False Positives: no, False Negatives: yes
+doromu-aramaika	ragane  	   1	   1
+doromu-lofaika 	ragare  	   1	   1
+maria          	hiʔe    	   1	   6
+doromu-bareika 	oine    	   2	   2
+maria-maiagolo 	kuini+ne	   2	   7
+maria-uderi    	kuini+ne	   2	   7
+maria-maranomu 	kiure   	   2	   8
+hula           	raka    	   4	   4
+sinaugoro      	raga    	   4	   4
+humene         	turahE/e	   5	   5
+uare           	turehE/e	   5	   5
+motu           	heau    	  10	  10
+#
+Concept: 1531_BRANCH, False Positives: no, False Negatives: yes
+doromu-aramaika	jabo+mettona 	   1	   1
+maria          	jabo+meto    	   1	   6
+maria-maranomu 	jabo+ʔeʔo    	   1	   6
+doromu-bareika 	jabo+teteka  	   2	   2
+doromu-lofaika 	jabo+le      	   3	   3
+hula           	raː          	   4	   4
+motu           	rigi         	   4	  10
+mulaha         	rigi         	   4	  10
+sinaugoro      	rega         	   4	  12
+humene         	eʒaʔai       	   5	   5
+uare           	eʒaɣa        	   5	  13
+maria-maiagolo 	jabo+ʔoroʔona	   7	   7
+maria-uderi    	javo+gara    	   9	   9
+#
+Concept: 1533_BE_HUNGRY, False Positives: no, False Negatives: yes
+doromu-aramaika	na+raunare	   1	   1
+doromu-bareika 	raunare   	   1	   1
+doromu-lofaika 	na+raunare	   1	   1
+maria          	raunare   	   1	   1
+maria-maranomu 	na+raunare	   1	   1
+hula           	vio       	   4	   4
+sinaugoro      	vito      	   4	   4
+humene         	eme+venefa	   4	   5
+motu           	hitolo    	   4	  10
+uare           	eviniheha 	   4	  13
+maria-maiagolo 	na+amoai  	   7	   7
+maria-uderi    	amoʔina   	   7	   9
+mulaha         	ise       	  11	  11
+#
+Concept: 1536_UNDERSTAND, False Positives: no, False Negatives: yes
+doromu-aramaika	neide   	   1	   1
+doromu-bareika 	neide   	   1	   1
+doromu-lofaika 	neide   	   1	   1
+maria-maiagolo 	nede    	   1	   1
+maria-maranomu 	nede    	   1	   1
+hula           	ripa    	   4	   4
+sinaugoro      	riba    	   4	   4
+motu           	diba    	   4	   8
+humene         	ohi+nE/e	   5	   5
+uare           	iki+hE/e	  10	  10
+#
+Concept: 1554_MAN, False Positives: no, False Negatives: yes
+doromu-aramaika	rumana	   1	   1
+doromu-bareika 	amie  	   2	   2
+doromu-lofaika 	ami   	   2	   2
+maria          	amie  	   2	   2
+maria-maiagolo 	amie  	   2	   2
+maria-maranomu 	ame   	   2	   2
+hula           	au    	   4	   4
+motu           	tau   	   4	  10
+sinaugoro      	tau   	   4	  10
+humene         	vaʒe  	   5	   5
+uare           	vaʒe  	   5	   5
+maria-uderi    	ere   	   9	   9
+humene         	ohoʒ  	  13	  13
+uare           	ohoʒe 	  13	  13
+sinaugoro      	tarima	  14	  14
+#
+Concept: 155_CHOP, False Positives: no, False Negatives: yes
+doromu-aramaika	nu     	   1	   1
+doromu-bareika 	nu     	   1	   1
+doromu-lofaika 	nu     	   1	   1
+maria-maiagolo 	nu     	   1	   1
+maria-maranomu 	nu     	   1	   1
+maria-uderi    	javo+nu	   1	   8
+hula           	pai    	   4	   4
+sinaugoro      	bati   	   4	  10
+humene         	ode    	   5	   5
+uare           	o+dE/e 	   5	  11
+motu           	utu    	   9	   9
+humene         	vare   	  12	  12
+#
+Concept: 156_RED, False Positives: no, False Negatives: yes
+doromu-aramaika	kaka        	   1	   1
+doromu-bareika 	kaka        	   1	   1
+doromu-lofaika 	ʔaʔa        	   1	   3
+maria          	ʔaʔa        	   1	   3
+maria-maiagolo 	ʔaʔa        	   1	   3
+maria-maranomu 	ʔaʔa        	   1	   3
+maria-uderi    	ʔaʔa        	   1	   3
+hula           	kalovakalova	   1	   4
+motu           	kakakaka    	   1	  10
+sinaugoro      	kakakaka    	   1	  10
+uare           	kanaɣa      	   1	  13
+humene         	heivai      	   5	   5
+mulaha         	boareki     	  11	  11
+#
+Concept: 1573_SWELL, False Positives: no, False Negatives: yes
+doromu-aramaika	kefaka    	   1	   1
+doromu-bareika 	uru       	   2	   2
+doromu-lofaika 	uru       	   2	   2
+maria-maranomu 	uru       	   2	   2
+maria-maiagolo 	uru+bodore	   2	   6
+motu           	gudu      	   2	   8
+uare           	menɛ      	   2	  10
+hula           	rolo      	   4	   4
+sinaugoro      	roro      	   4	   4
+humene         	vave      	   5	   5
+#
+Concept: 1574_FLOAT, False Positives: no, False Negatives: yes
+hula           	vule       	   1	   1
+motu           	hure       	   1	   2
+sinaugoro      	rei        	   3	   3
+uare           	ruhaoʔohE/e	   4	   4
+#
+Concept: 1577_AND, False Positives: yes, False Negatives: no
+doromu-bareika 	jo+jo	   1	   1
+hula           	e    	   2	   2
+sinaugoro      	e    	   2	   2
+maria-maiagolo 	ma+ma	   3	   3
+maria-maranomu 	ma+ma	   4	   3
+motu           	bona 	   5	   5
+uare           	tu   	   7	   7
+maria-maiagolo 	ha+ha	   8	   8
+maria-maranomu 	bu+bu	   9	   9
+motu           	ma   	  10	  10
+uare           	ʒu   	  11	  11
+#
+Concept: 1585_SLEEP, False Positives: no, False Negatives: yes
+doromu-aramaika	vare  	   1	   1
+doromu-lofaika 	ware  	   1	   1
+maria          	are   	   1	   1
+maria-maiagolo 	are   	   1	   1
+doromu-bareika 	waː   	   1	   2
+maria-uderi    	nevare	   1	   9
+hula           	mau   	   4	   4
+motu           	mahuta	   4	  10
+humene         	baʒE/e	   5	   5
+uare           	baʒE/e	   5	   5
+maria-maranomu 	omedau	   8	   8
+mulaha         	hunatu	  11	  11
+sinaugoro      	gena  	  12	  12
+#
+Concept: 1586_SMELL_PERCEIVE, False Positives: no, False Negatives: yes
+doromu-aramaika	sau       	   1	   1
+doromu-bareika 	sau       	   1	   1
+maria          	hauri     	   1	   6
+maria-maiagolo 	haunede   	   1	   7
+doromu-lofaika 	didiriu   	   3	   3
+hula           	pona      	   4	   4
+motu           	bona      	   4	   4
+sinaugoro      	bonana    	   4	  11
+humene         	hoho+ʔE/e 	   5	   5
+uare           	hoho+gE/e 	   5	   5
+maria-maranomu 	nedo      	   8	   8
+mulaha         	bona+utatu	  10	  10
+#
+Concept: 1588_TURN, False Positives: no, False Negatives: yes
+doromu-aramaika	kegore     	   1	   1
+doromu-bareika 	kerore     	   1	   1
+doromu-lofaika 	kerore     	   1	   1
+hula           	waikule    	   4	   4
+uare           	mirute+ʔE/e	   4	   8
+maria-maranomu 	taitaire   	   5	   5
+motu           	hegiro     	   6	   6
+sinaugoro      	vegiro     	   6	   6
+#
+Concept: 1592_CHEST, False Positives: no, False Negatives: yes
+doromu-aramaika	kokoba 	   1	   1
+doromu-bareika 	kokoba 	   1	   1
+doromu-lofaika 	ʔoʔoba 	   1	   3
+hula           	kopa   	   1	   4
+sinaugoro      	koba   	   1	   4
+mulaha         	kobaba 	   1	  11
+humene         	oʔone  	   5	   5
+uare           	one    	   5	  13
+maria          	boriana	   6	   6
+maria-maiagolo 	boreana	   6	   6
+maria-uderi    	borena 	   6	   6
+maria-maranomu 	hako   	   8	   8
+motu           	keme   	  10	  10
+#
+Concept: 159_SWEET_POTATO, False Positives: yes, False Negatives: no
+doromu-aramaika	mosara  	   1	   1
+doromu-bareika 	kevara  	   2	   2
+doromu-lofaika 	ʔevara  	   3	   2
+hula           	motea   	   4	   4
+humene         	kauamose	   5	   5
+maria          	mosera  	   6	   1
+maria-maiagolo 	mosera  	   7	   1
+maria-maranomu 	mosera  	   8	   1
+maria-uderi    	motera  	   9	   4
+motu           	kaema   	  10	  10
+sinaugoro      	mote    	  11	   4
+uare           	avamohe 	  12	  12
+#
+Concept: 1623_SPEAK, False Positives: no, False Negatives: yes
+doromu-aramaika	ni         	   1	   1
+doromu-bareika 	kaini      	   1	   2
+doromu-lofaika 	ejani      	   1	   3
+maria          	nia        	   1	   6
+maria-maiagolo 	hinani     	   1	   7
+maria-maranomu 	henani     	   1	   7
+maria-uderi    	agoni      	   1	   9
+hula           	kiːa       	   4	   4
+humene         	aʔoda+hE/e 	   5	   5
+motu           	hereva+heni	  10	  10
+sinaugoro      	ɣuruɣa     	  11	  11
+uare           	ɣoe+rE/e   	  12	  12
+motu           	gwau       	  13	  13
+#
+Concept: 1629_EVENING, False Positives: no, False Negatives: yes
+doromu-aramaika	uri+ena 	   1	   1
+doromu-bareika 	uriena  	   1	   1
+doromu-lofaika 	urienao 	   1	   1
+maria-maranomu 	uriʔetu 	   1	   8
+motu           	adorahi 	   1	  10
+uare           	ɣorava  	   1	  13
+hula           	lavilavi	   4	   4
+sinaugoro      	lavilavi	   4	   4
+humene         	ununu   	   5	   5
+maria          	urufa   	   6	   6
+maria-uderi    	uruha   	   6	   6
+maria-maiagolo 	urunio  	   6	   7
+mulaha         	ena     	   6	  11
+#
+Concept: 163_BLACK, False Positives: no, False Negatives: yes
+doromu-aramaika	gabu     	   1	   1
+doromu-bareika 	gabu     	   1	   1
+doromu-lofaika 	ego      	   3	   3
+hula           	ruparupa 	   4	   4
+sinaugoro      	dubara   	   4	  12
+uare           	ɣuʔa     	   4	  13
+humene         	wogegivai	   5	   5
+motu           	korema   	   5	  10
+maria          	ʔino     	   6	   6
+maria-maiagolo 	ʔino     	   6	   6
+maria-maranomu 	ʔino     	   6	   6
+maria-uderi    	ʔino     	   6	   6
+mulaha         	saaki    	  11	  11
+#
+Concept: 1645_SHORT, False Positives: no, False Negatives: yes
+doromu-aramaika	tumu   	   1	   1
+doromu-bareika 	tumu   	   1	   1
+doromu-lofaika 	tumu   	   1	   1
+hula           	kupa   	   1	   4
+humene         	tumiʔai	   1	   5
+sinaugoro      	kubi   	   1	  11
+maria          	hari   	   6	   6
+maria-maiagolo 	hari   	   6	   6
+maria-maranomu 	hari   	   6	   6
+maria-uderi    	hari   	   6	   6
+motu           	kwadogi	  10	  10
+uare           	futuʔa 	  12	  12
+#
+Concept: 1653_BLIND, False Positives: no, False Negatives: yes
+doromu-aramaika	fisu       	   1	   1
+doromu-bareika 	jo         	   2	   2
+doromu-lofaika 	jo         	   2	   2
+maria          	hosoʔo     	   2	   6
+hula           	kele       	   4	   4
+humene         	be+heva    	   4	   5
+maria-maiagolo 	iri        	   7	   7
+maria-maranomu 	irita      	   7	   8
+motu           	kepulu     	   9	   9
+sinaugoro      	bubu       	   9	  11
+mulaha         	ia+bai+urai	  10	  10
+uare           	kuruɣa     	  12	  12
+#
+Concept: 1683_BUSH, False Positives: no, False Negatives: yes
+doromu-aramaika	sufa     	   1	   1
+doromu-bareika 	sufa     	   1	   1
+doromu-lofaika 	kekeri   	   3	   3
+maria-maranomu 	ʔeʔeri   	   3	   8
+hula           	ura      	   4	   4
+motu           	uda      	   4	  10
+humene         	rooni    	   5	   5
+maria          	nauʔariʔa	   6	   6
+maria-maiagolo 	nauʔaro  	   6	   7
+maria-uderi    	naua     	   6	   9
+mulaha         	unuwa    	  11	  11
+uare           	dutu     	  11	  13
+sinaugoro      	boɣa     	  12	  12
+#
+Concept: 1690_FENCE, False Positives: yes, False Negatives: no
+doromu-aramaika	kota  	   1	   1
+doromu-bareika 	kota  	   2	   1
+doromu-lofaika 	ʔota  	   3	   1
+hula           	kana  	   4	   4
+humene         	vabere	   5	   5
+maria          	ʔoha  	   6	   6
+maria-maiagolo 	oha   	   7	   6
+maria-maranomu 	ʔoha  	   8	   6
+maria-uderi    	nabia 	   9	   9
+motu           	ara   	  10	  10
+mulaha         	obara 	  11	  11
+sinaugoro      	ɣara  	  12	  10
+uare           	ɣabiri	  13	  13
+#
+Concept: 1703_SIX, False Positives: no, False Negatives: yes
+doromu-aramaika	orefa+jokoi+maka     	   1	   1
+doromu-bareika 	orofai+jokoi+maka    	   1	   1
+maria-maranomu 	vana+berohu+ma+joʔohi	   1	   6
+hula           	kaulakoi             	   3	   3
+motu           	tauratoi             	   3	   8
+sinaugoro      	tauratoi             	   3	   8
+humene         	evole+nae+tebo       	   4	   4
+maria-maiagolo 	ana+eberohu+aefi+abu 	   5	   5
+maria-uderi    	ana+everohu+ae+foma  	   5	   5
+uare           	fuʔotutiba           	  10	  10
+#
+Concept: 1717_toputgive, False Positives: no, False Negatives: yes
+doromu-aramaika	ai      	   1	   1
+doromu-lofaika 	ai      	   1	   1
+doromu-bareika 	aː      	   1	   2
+maria-maiagolo 	ahi     	   1	   6
+maria-maranomu 	vahi    	   1	   6
+hula           	aroiɣo  	   4	   4
+motu           	ato+diho	   4	   8
+humene         	te      	   5	   5
+uare           	te      	   5	   5
+sinaugoro      	toretari	   9	   9
+hula           	ao+ali  	  11	  11
+#
+Concept: 1719_BURY, False Positives: no, False Negatives: yes
+doromu-aramaika	guri        	   1	   1
+doromu-bareika 	guri        	   1	   1
+motu           	guri        	   1	   1
+sinaugoro      	guri        	   1	   1
+hula           	kuli        	   1	   4
+humene         	ori+ʒE/e    	   1	   5
+mulaha         	guiata      	   1	   9
+uare           	ku+rɛ       	   1	  11
+doromu-lofaika 	ai          	   3	   3
+maria-maiagolo 	ono+keʔi+ahi	   3	   6
+maria-maranomu 	vahi        	   3	   7
+#
+Concept: 1726_WET, False Positives: no, False Negatives: yes
+doromu-aramaika	dou      	   1	   1
+doromu-bareika 	dou      	   1	   1
+doromu-lofaika 	dou      	   1	   1
+maria-maiagolo 	souʔa    	   1	   6
+maria-maranomu 	touni    	   1	   7
+hula           	nupa     	   4	   4
+sinaugoro      	nupa     	   4	   4
+humene         	botahevai	   5	   5
+uare           	abuta    	   5	  10
+motu           	paripari 	   8	   8
+#
+Concept: 1728_ROTTEN, False Positives: no, False Negatives: yes
+doromu-aramaika	sau   	   1	   1
+maria-maiagolo 	ʔosoʔa	   1	   5
+maria-maranomu 	ʔo    	   1	   6
+maria-uderi    	ʔoito 	   1	   7
+doromu-bareika 	ikonio	   2	   2
+doromu-lofaika 	iʔoni 	   2	   3
+maria          	iʔoni 	   2	   3
+motu           	bodaga	   8	   8
+uare           	luhuɣa	   9	   9
+#
+Concept: 1732_SKY, False Positives: no, False Negatives: yes
+doromu-aramaika	oma  	   1	   1
+doromu-bareika 	ofu  	   1	   2
+doromu-lofaika 	gure 	   3	   3
+maria          	kure 	   3	   3
+maria-maiagolo 	gure 	   3	   3
+maria-maranomu 	gure 	   3	   3
+maria-uderi    	kure 	   3	   3
+humene         	adure	   3	   5
+uare           	adure	   3	   5
+hula           	kupa 	   4	   4
+motu           	guba 	   4	  10
+sinaugoro      	guba 	   4	  10
+#
+Concept: 1749_TAKE, False Positives: no, False Negatives: yes
+doromu-aramaika	moi 	   1	   1
+doromu-bareika 	moi 	   1	   1
+doromu-lofaika 	moi 	   1	   1
+maria          	me  	   1	   6
+maria-maiagolo 	me  	   1	   6
+maria-maranomu 	me  	   1	   6
+maria-uderi    	me  	   1	   6
+hula           	api 	   4	   4
+humene         	ma  	   4	   5
+uare           	ma  	   4	   5
+motu           	abi 	   4	  10
+sinaugoro      	ɣabi	   4	  10
+#
+Concept: 175_BLOW_OF_WIND, False Positives: no, False Negatives: yes
+doromu-aramaika	aura+baido   	   1	   1
+doromu-lofaika 	aura+bai     	   1	   1
+maria-maiagolo 	aura+baebo   	   1	   1
+maria-uderi    	aura+baebo   	   1	   1
+doromu-bareika 	jahara+badi  	   1	   2
+hula           	lavu         	   4	   4
+humene         	revova+filahe	   5	   5
+uare           	ʒavara+feu   	   5	  12
+maria          	aura+ʔoʔeno  	   6	   6
+maria-maranomu 	uʔa+oʔejo    	   6	   8
+motu           	toa          	  10	  10
+sinaugoro      	toɣa         	  10	  10
+#
+Concept: 176_BLOW_WITH_MOUTH, False Positives: no, False Negatives: yes
+doromu-aramaika	fure   	   1	   1
+doromu-bareika 	fure   	   1	   1
+doromu-lofaika 	fure   	   1	   1
+maria          	fure   	   1	   1
+maria-maiagolo 	fure   	   1	   1
+maria-maranomu 	hure   	   1	   1
+humene         	fu+nE/e	   1	   5
+motu           	hururu 	   1	   9
+sinaugoro      	pururu 	   1	   9
+uare           	ho+tE/e	   1	  11
+hula           	vili   	   4	   4
+#
+Concept: 1791_BUTTERFLY, False Positives: yes, False Negatives: yes
+doromu-aramaika	kofiroro	   1	   1
+doromu-bareika 	kofiroro	   1	   1
+doromu-lofaika 	ʔofiroro	   1	   1
+hula           	numa    	   4	   4
+humene         	ne      	   5	   5
+maria          	bebero  	   6	   6
+maria-maranomu 	bebero  	   6	   6
+maria-maiagolo 	bebe    	   6	   7
+maria-uderi    	pepe    	   6	   9
+motu           	ruma    	  10	   4
+mulaha         	niva    	  11	  11
+sinaugoro      	numa    	  12	   4
+uare           	ne      	  13	   5
+#
+Concept: 1816_BESIDE, False Positives: no, False Negatives: yes
+doromu-aramaika	java+eitofaro	   1	   1
+doromu-lofaika 	java+egon+aro	   1	   1
+maria-maiagolo 	java+egonaro 	   1	   1
+maria-maranomu 	java+egodoʔo 	   1	   1
+maria-uderi    	java+egonaro 	   1	   1
+doromu-bareika 	java+etoka   	   1	   2
+hula           	nulinai      	   4	   4
+motu           	murinai      	   4	   4
+humene         	enoʔio       	   5	   5
+sinaugoro      	doɣenai      	  10	  10
+uare           	ɣarukanu     	  11	  11
+#
+Concept: 1829_JUMP, False Positives: no, False Negatives: yes
+doromu-bareika 	vavairi       	   1	   1
+hula           	puri+riɣo     	   2	   2
+sinaugoro      	buri          	   2	   7
+humene         	burahE/e      	   3	   3
+maria-maiagolo 	pisinaʔu+eraʔo	   4	   4
+maria-maranomu 	eraʔo         	   5	   5
+motu           	roho+dobi     	   6	   6
+uare           	rafatE/e      	   8	   8
+#
+Concept: 1838_NAVEL, False Positives: no, False Negatives: yes
+doromu-aramaika	a+se+ka	   1	   1
+doromu-bareika 	adeka  	   1	   2
+doromu-lofaika 	adiʔa  	   1	   3
+maria          	atiʔa  	   1	   3
+maria-maranomu 	atiʔa  	   1	   3
+maria-maiagolo 	asia   	   1	   7
+maria-uderi    	atia   	   1	   7
+hula           	rulo   	   4	   4
+motu           	hudo   	   4	  10
+sinaugoro      	uro    	   4	  12
+humene         	emore  	   5	   5
+mulaha         	iboara 	   5	  11
+uare           	imuri  	   5	  13
+#
+Concept: 1839_CRY, False Positives: no, False Negatives: yes
+doromu-aramaika	isa+kani   	   1	   1
+doromu-bareika 	isakane    	   1	   1
+doromu-lofaika 	isaʔani    	   1	   3
+maria-maranomu 	isaʔani    	   1	   3
+maria-uderi    	itaʔani    	   1	   3
+maria          	isa        	   1	   6
+maria-maiagolo 	isaʔanibiʔa	   1	   7
+hula           	aɣi        	   4	   4
+sinaugoro      	taɣi       	   4	   4
+motu           	tai        	   4	  10
+humene         	niʒanE/e   	   5	   5
+uare           	nianE/e    	   5	   5
+mulaha         	poasini    	  11	  11
+#
+Concept: 1895_CLOTHES, False Positives: no, False Negatives: yes
+doromu-aramaika	kafare       	   1	   1
+doromu-bareika 	kefare       	   1	   1
+maria          	ahara        	   1	   5
+maria-maiagolo 	ahara        	   1	   5
+maria-maranomu 	hebara       	   1	   7
+uare           	amule        	   1	  10
+doromu-lofaika 	dabuʔa       	   3	   3
+maria-uderi    	oue+aruʔa    	   3	   8
+doromu-aramaika	fai          	   3	  11
+doromu-bareika 	fai          	   3	  11
+maria-maiagolo 	foni         	   3	  15
+humene         	terere       	   4	   4
+motu           	sihi         	   9	   9
+doromu-lofaika 	rumana+dabuʔa	  13	  13
+maria          	aroʔa        	  13	  14
+maria-maranomu 	varuʔa       	  13	  14
+maria-maiagolo 	aruʔa        	  13	  14
+maria-uderi    	amiʔe+aruʔa  	  13	  17
+#
+Concept: 189_HAIR_BODY, False Positives: no, False Negatives: yes
+doromu-aramaika	ada+ie      	   1	   1
+doromu-lofaika 	ada+ie      	   1	   1
+doromu-bareika 	ada+ueta    	   2	   2
+maria          	ada+ueʔa    	   2	   2
+maria-maiagolo 	ada+uʔia    	   2	   2
+maria-maranomu 	ada+ueʔa    	   2	   2
+maria-uderi    	ada+uʔia    	   2	   2
+hula           	vui         	   4	   4
+motu           	hui         	   4	  10
+sinaugoro      	ɣui         	   4	  12
+humene         	iʔvuai      	   5	   5
+uare           	iku         	   5	  13
+mulaha         	joroba      	  11	  11
+doromu-aramaika	ueta        	  14	  14
+maria          	ueʔa        	  14	  14
+doromu-bareika 	kokoba+ueta 	  14	  15
+maria-maiagolo 	borepana+uia	  14	  19
+maria-uderi    	uia         	  14	  21
+hula           	lamulamu    	  16	  16
+sinaugoro      	ramu        	  16	  23
+humene         	oʔone+iʔuva 	  17	  17
+uare           	oneikuɣa    	  17	  24
+maria-maranomu 	hagoveʔa    	  20	  20
+motu           	dera        	  22	  22
+#
+Concept: 1901_SHOVEL, False Positives: no, False Negatives: yes
+doromu-aramaika	rabo    	   1	   1
+doromu-bareika 	rabo    	   1	   1
+doromu-lofaika 	rabo    	   1	   1
+hula           	kulokulo	   4	   4
+humene         	emi     	   4	   5
+motu           	kurukuru	   4	  10
+uare           	imi     	   4	  12
+maria          	toi     	   6	   6
+maria-maiagolo 	toi     	   6	   6
+maria-maranomu 	toi     	   6	   6
+maria-uderi    	doi     	   6	   9
+sinaugoro      	reɣi    	  11	  11
+#
+Concept: 1911_DRAW_WATER, False Positives: no, False Negatives: yes
+doromu-aramaika	ʔu    	   1	   1
+doromu-bareika 	ʔu    	   1	   1
+doromu-lofaika 	ʔu    	   1	   1
+maria-maranomu 	ʔu    	   1	   1
+hula           	ɣuː   	   1	   4
+motu           	utu   	   1	   8
+sinaugoro      	ɣutu  	   1	   8
+humene         	a+vE/e	   5	   5
+uare           	a+bE/e	   5	   5
+maria-maiagolo 	nehu  	   6	   6
+#
+Concept: 1917_TIE, False Positives: no, False Negatives: yes
+doromu-aramaika	ukitare 	   1	   1
+maria-maiagolo 	iduʔe   	   1	   6
+maria-maranomu 	ituʔare 	   1	   7
+doromu-bareika 	mi      	   2	   2
+doromu-lofaika 	mi      	   2	   2
+hula           	kwau    	   4	   4
+motu           	kwatu   	   4	   4
+humene         	otu+vE/e	   5	   5
+sinaugoro      	baru    	   5	   9
+uare           	au+tE/e 	   5	  10
+#
+Concept: 1920_DREAM_SOMETHING, False Positives: no, False Negatives: yes
+doromu-aramaika	jaduka 	   1	   1
+doromu-bareika 	jadoka 	   1	   1
+doromu-lofaika 	jaduʔa 	   1	   1
+maria          	jaduʔa 	   1	   1
+maria-maiagolo 	jaduʔa 	   1	   1
+maria-maranomu 	jaduʔa 	   1	   1
+maria-uderi    	jaduʔa 	   1	   1
+humene         	uveʔeʒa	   1	   5
+hula           	nivi   	   4	   4
+motu           	nihi   	   4	   4
+mulaha         	nihuana	   4	  11
+sinaugoro      	nuvi   	   4	  12
+uare           	iɣunane	   4	  13
+#
+Concept: 1937_THERE, False Positives: yes, False Negatives: yes
+doromu-aramaika	re	   1	   1
+doromu-bareika 	ri	   1	   2
+humene         	de	   1	   5
+maria-maiagolo 	ro	   1	   6
+maria-maranomu 	ro	   1	   6
+doromu-lofaika 	du	   3	   3
+maria-maranomu 	du	   3	   3
+mulaha         	tu	   3	   9
+hula           	ai	   4	   4
+motu           	ai	   4	   4
+sinaugoro      	ai	   4	   4
+uare           	ae	   4	  11
+hula           	ai	  12	   4
+motu           	ai	  12	   4
+sinaugoro      	ai	  12	   4
+uare           	ae	  12	  11
+humene         	de	  13	   5
+maria-maiagolo 	ro	  13	   6
+maria-maranomu 	ro	  13	   6
+maria-maranomu 	du	  19	   3
+#
+Concept: 1942_NEAR, False Positives: no, False Negatives: yes
+doromu-aramaika	neigau       	   1	   1
+doromu-bareika 	vafeka       	   2	   2
+doromu-lofaika 	vafoʔa       	   2	   3
+maria-maranomu 	vaheiʔa      	   2	   6
+hula           	vekavi       	   4	   4
+motu           	kahira+kahira	   4	   7
+sinaugoro      	kavinaɣi     	   4	   8
+maria-maiagolo 	hari         	   5	   5
+uare           	futuɣa       	   9	   9
+#
+Concept: 2009_DOG, False Positives: yes, False Negatives: no
+doromu-aramaika	auna  	   1	   1
+doromu-bareika 	auna  	   1	   1
+doromu-lofaika 	auna  	   1	   1
+maria          	auna  	   1	   1
+maria-maiagolo 	auna  	   1	   1
+maria-maranomu 	auna  	   1	   1
+maria-uderi    	auna  	   1	   1
+hula           	pae   	   4	   4
+humene         	aba   	   5	   5
+motu           	boroma	  10	  10
+mulaha         	aba   	  11	   5
+sinaugoro      	bai   	  12	  12
+uare           	aba   	  13	   5
+#
+Concept: 2014_GO_DOWN_DESCEND, False Positives: no, False Negatives: yes
+doromu-aramaika	ne        	   1	   1
+doromu-bareika 	ne        	   1	   1
+doromu-lofaika 	ne        	   1	   1
+maria-maranomu 	ne        	   1	   1
+maria-maiagolo 	eraʔuʔine 	   1	   6
+hula           	riɣo      	   4	   4
+sinaugoro      	riɣo      	   4	   4
+motu           	diho      	   4	   8
+humene         	uʔuta+hE/e	   5	   5
+uare           	oɣo       	  10	  10
+#
+Concept: 2035_POND, False Positives: no, False Negatives: yes
+doromu-aramaika	ʔoru+moka	   1	   1
+doromu-lofaika 	ʔoru+moʔa	   1	   1
+maria-maranomu 	ʔoru+moʔa	   1	   1
+doromu-bareika 	ekita    	   2	   2
+hula           	kovu     	   4	   4
+sinaugoro      	kou      	   4	   4
+motu           	gohu     	   4	   7
+sinaugoro      	gou      	   4	   7
+maria          	aroriʔa  	   5	   5
+uare           	tuʔura   	   9	   9
+#
+Concept: 2046_APRON, False Positives: yes, False Negatives: yes
+doromu-aramaika	mamata	   1	   1
+doromu-bareika 	sibui 	   2	   2
+doromu-lofaika 	ʔafa  	   3	   3
+hula           	rama  	   4	   4
+motu           	damena	   4	   8
+sinaugoro      	damena	   4	   8
+humene         	me    	   5	   5
+maria          	kiki  	   6	   6
+maria-maranomu 	kiki  	   7	   6
+mulaha         	baava 	   9	   9
+uare           	iniga 	  11	  11
+#
+Concept: 2072_singsing, False Positives: yes, False Negatives: no
+doromu-aramaika	adena     	   1	   1
+doromu-bareika 	adinu     	   2	   2
+doromu-lofaika 	adina     	   3	   1
+hula           	pala      	   4	   4
+humene         	ʒavo      	   5	   5
+maria          	kamoka    	   6	   6
+maria-maiagolo 	kamaka    	   7	   6
+maria-maranomu 	kamukaketa	   8	   8
+maria-uderi    	kamaka    	   9	   6
+motu           	mavaru    	  10	  10
+mulaha         	iavana    	  11	  11
+sinaugoro      	marimari  	  12	  12
+uare           	ʒavo      	  13	   5
+#
+Concept: 2073_ripebanana, False Positives: no, False Negatives: yes
+doromu-aramaika	kaka   	   1	   1
+doromu-bareika 	kaka   	   1	   1
+doromu-lofaika 	ʔaʔa   	   1	   3
+maria-maranomu 	ʔaʔa   	   1	   3
+maria-maiagolo 	aʔaʔ   	   1	   6
+hula           	mera   	   4	   4
+humene         	hivoʔai	   4	   5
+uare           	hiɣa   	   4	  10
+motu           	mage   	   8	   8
+sinaugoro      	mage   	   8	   8
+#
+Concept: 2098_FOOT_OR_LEG, False Positives: no, False Negatives: yes
+doromu-aramaika	juka  	   1	   1
+doromu-bareika 	juka  	   1	   1
+doromu-lofaika 	ruʔa  	   1	   3
+maria-maranomu 	nuʔa  	   1	   3
+maria          	nuʔe  	   1	   6
+maria-maiagolo 	onea  	   1	   7
+maria-uderi    	oneʔa 	   1	   7
+hula           	aɣe   	   4	   4
+motu           	ae    	   4	  10
+humene         	goenva	   5	   5
+mulaha         	koina 	   5	  11
+sinaugoro      	kwaku 	  12	  12
+uare           	oda   	  13	  13
+#
+Concept: 2099_CHILD, False Positives: yes, False Negatives: yes
+doromu-aramaika	rumana+mida	   1	   1
+doromu-bareika 	mida+rumana	   1	   2
+doromu-lofaika 	midi+rumana	   1	   2
+hula           	nau        	   4	   4
+motu           	natu       	   4	   4
+sinaugoro      	natu       	   4	   4
+humene         	obude      	   5	   5
+uare           	ubuae      	   5	  13
+maria          	uboma      	   6	   6
+maria-maiagolo 	ubama+amie 	   6	   7
+maria-maranomu 	midi+ame   	   8	   8
+maria-uderi    	mida+amie  	   8	   8
+mulaha         	euabu      	  11	  11
+doromu-aramaika	rema+mida  	  14	   1
+doromu-bareika 	rema+mida  	  14	   1
+doromu-lofaika 	rema+mida  	  14	   1
+humene         	aboe       	  17	  17
+uare           	aboe       	  17	  17
+maria          	oiha       	  18	  18
+maria-maiagolo 	oue+mida   	  19	  19
+maria-maranomu 	mida+oue   	  19	  20
+maria-uderi    	mida+oue   	  19	  20
+mulaha         	tina       	  22	  22
+#
+Concept: 2103_PAINFUL_OR_SICK, False Positives: no, False Negatives: yes
+doromu-aramaika	na+gau+kare	   1	   1
+doromu-lofaika 	na+kauʔare 	   1	   1
+doromu-bareika 	komutare   	   1	   2
+maria-maranomu 	kauʔare    	   1	   8
+hula           	vi         	   4	   4
+motu           	gorere     	   4	  10
+humene         	eme+oʔifa  	   5	   5
+maria          	boure      	   6	   6
+maria-maiagolo 	naboure    	   6	   6
+maria-uderi    	naboure    	   6	   6
+mulaha         	ɣoanine    	  11	  11
+sinaugoro      	keve       	  12	  12
+uare           	euɣiheha   	  13	  13
+doromu-aramaika	esekare    	  14	  14
+doromu-bareika 	esikare    	  14	  14
+doromu-lofaika 	esiʔare    	  14	  14
+maria-maranomu 	heiʔare    	  14	  20
+hula           	viː        	  17	  17
+motu           	hisihisi   	  17	  21
+sinaugoro      	midi       	  17	  22
+uare           	gigi       	  17	  23
+humene         	eva        	  18	  18
+maria-maiagolo 	irinare    	  19	  19
+#
+Concept: 2108_RAINING_OR_RAIN, False Positives: no, False Negatives: yes
+doromu-aramaika	mia   	   1	   1
+doromu-bareika 	mia   	   1	   1
+doromu-lofaika 	mia   	   1	   1
+maria-uderi    	mia   	   1	   1
+maria-maiagolo 	nia   	   1	  14
+hula           	kupa  	   4	   4
+sinaugoro      	ɣura  	   4	  12
+uare           	irugu 	   4	  13
+humene         	ʒeme  	   5	   5
+motu           	medu  	   5	  10
+maria          	touʔa 	   6	   6
+maria-maiagolo 	ʔou   	   6	   7
+maria-maranomu 	tou   	   6	   8
+mulaha         	iabara	  11	  11
+#
+Concept: 2115_CEASE_OR_FINISH, False Positives: no, False Negatives: yes
+doromu-aramaika	koina       	   1	   1
+doromu-bareika 	ago+koina   	   1	   2
+doromu-lofaika 	ufe         	   3	   3
+hula           	toko        	   4	   4
+motu           	doko        	   4	   4
+sinaugoro      	vaɣa+dko    	   4	   8
+maria-maiagolo 	idenio      	   5	   5
+maria-maranomu 	mubedoʔideni	   5	   6
+uare           	roɣeranE/e  	   9	   9
+#
+Concept: 2121_ARM_OR_HAND, False Positives: yes, False Negatives: yes
+doromu-aramaika	vana  	   1	   1
+doromu-bareika 	vana  	   1	   1
+doromu-lofaika 	vana  	   1	   1
+maria          	ana   	   1	   1
+maria-maiagolo 	ana   	   1	   1
+maria-maranomu 	vana  	   1	   1
+maria-uderi    	ana   	   1	   1
+hula           	ɣima  	   4	   4
+humene         	evore 	   4	   5
+uare           	evore 	   4	   5
+motu           	ima   	  10	   4
+sinaugoro      	ɣima  	  10	   4
+mulaha         	didiva	  11	  11
+#
+Concept: 2159_GROUND, False Positives: no, False Negatives: yes
+doromu-aramaika	kono 	   1	   1
+doromu-bareika 	kono 	   1	   1
+doromu-lofaika 	ʔono 	   1	   1
+maria          	ʔono 	   1	   1
+maria-maiagolo 	ono  	   1	   1
+maria-maranomu 	ʔono 	   1	   1
+maria-uderi    	ono  	   1	   1
+hula           	kwano	   1	   4
+motu           	tano 	   1	  10
+sinaugoro      	tano 	   1	  10
+humene         	raha 	   5	   5
+uare           	haba 	   5	  12
+#
+Concept: 217_BETELNUT, False Positives: yes, False Negatives: no
+doromu-aramaika	ima    	   1	   1
+doromu-bareika 	ima    	   2	   1
+doromu-lofaika 	ima    	   3	   1
+maria          	ʔoiʔani	   4	   4
+maria-maiagolo 	ʔoe    	   5	   5
+maria-maranomu 	ʔoiʔani	   6	   4
+maria-uderi    	ʔoe    	   7	   5
+uare           	ʒore   	   8	   8
+#
+Concept: 2182_LEFT_HAND, False Positives: yes, False Negatives: yes
+doromu-aramaika	enana         	   1	   1
+doromu-bareika 	enana         	   1	   1
+doromu-lofaika 	enana         	   1	   1
+humene         	enene         	   1	   5
+maria-maranomu 	vana+enadoʔohu	   1	   6
+maria-maiagolo 	enanatou      	   1	   7
+maria-uderi    	enanatou      	   1	   7
+hula           	kauli         	   4	   4
+motu           	lauri         	   4	   4
+sinaugoro      	kauri         	   4	   4
+uare           	kauri         	   4	   4
+mulaha         	ia+kani       	   4	  11
+maria          	ana+enatoʔo   	   6	   6
+#
+Concept: 2183_RIGHT_HAND, False Positives: no, False Negatives: yes
+doromu-aramaika	vana+rama    	   1	   1
+doromu-bareika 	vana+rama    	   1	   1
+doromu-lofaika 	vana+rama    	   1	   1
+maria          	ana+ramatoʔo 	   1	   6
+maria-maiagolo 	ramatou      	   1	   7
+maria-uderi    	ramatou      	   1	   7
+maria-maranomu 	vana+radoʔohu	   1	   8
+hula           	ripa         	   4	   4
+motu           	idiba        	   4	  10
+mulaha         	itini        	   4	  11
+sinaugoro      	aroriba      	   4	  12
+uare           	edaʔe        	   4	  13
+humene         	ebune        	   5	   5
+#
+Concept: 221_FIRE, False Positives: no, False Negatives: yes
+doromu-aramaika	ita    	   1	   1
+doromu-bareika 	ita    	   1	   1
+doromu-lofaika 	ita    	   1	   1
+maria-uderi    	ita    	   1	   1
+humene         	ire    	   1	   5
+maria          	isa    	   1	   6
+maria-maiagolo 	isa    	   1	   6
+maria-maranomu 	isa    	   1	   6
+uare           	ireroga	   1	  13
+hula           	kalova 	   4	   4
+sinaugoro      	karava 	   4	  12
+motu           	lahi   	  10	  10
+mulaha         	boareki	  11	  11
+#
+Concept: 2272_HOT_OR_WARM, False Positives: no, False Negatives: yes
+doromu-aramaika	ava   	   1	   1
+doromu-bareika 	vava  	   1	   1
+doromu-lofaika 	ava   	   1	   1
+maria          	oha   	   1	   6
+maria-maiagolo 	oha   	   1	   6
+maria-maranomu 	oha   	   1	   6
+maria-uderi    	itava 	   1	   9
+hula           	iavu  	   4	   4
+motu           	siahu 	   4	  10
+mulaha         	siau  	   4	  10
+sinaugoro      	seɣuka	   4	  12
+humene         	eʔeʔai	   5	   5
+uare           	gegia 	   5	  13
+#
+Concept: 2304_THEE_OBLIQUE_CASE_OF_YOU, False Positives: no, False Negatives: yes
+doromu-aramaika	ja 	   1	   1
+doromu-bareika 	ja 	   1	   1
+doromu-lofaika 	ja 	   1	   1
+maria          	ja 	   1	   1
+maria-maiagolo 	ja 	   1	   1
+maria-maranomu 	ja 	   1	   1
+maria-uderi    	ja 	   1	   1
+humene         	ʒa 	   1	   5
+uare           	ɣa 	   1	  13
+humene         	va 	   1	  14
+hula           	oi 	   4	   4
+motu           	oi 	   4	   4
+sinaugoro      	ɣoi	   4	  12
+mulaha         	uwa	  11	  11
+mulaha         	wai	  11	  15
+#
+Concept: 2312_YOU_OBLIQUE_CASE_OF_YOU, False Positives: no, False Negatives: yes
+doromu-aramaika	ja    	   1	   1
+maria          	ja    	   1	   1
+maria-maiagolo 	ja    	   1	   1
+maria-uderi    	ja    	   1	   1
+maria-maranomu 	jave  	   1	   6
+hula           	omi   	   2	   2
+sinaugoro      	ɣomi  	   2	   2
+motu           	umui  	   2	   8
+humene         	ʒa    	   3	   3
+uare           	ʒa    	   3	   3
+mulaha         	wabihu	   9	   9
+#
+Concept: 241_TREE_STUMP, False Positives: no, False Negatives: yes
+doromu-aramaika	jabo+adina 	   1	   1
+doromu-bareika 	jabo+adina 	   1	   1
+doromu-lofaika 	jabo+adina 	   1	   1
+maria          	jabo+adina 	   1	   1
+maria-maiagolo 	jabo+adina 	   1	   1
+maria-maranomu 	jabo+atina 	   1	   1
+maria-uderi    	javo+ʔatina	   1	   1
+motu           	badi       	   1	  10
+hula           	kwala      	   4	   4
+humene         	tomiʔai    	   5	   5
+sinaugoro      	tuɣuka     	  11	  11
+uare           	maʒaɣa     	  12	  12
+#
+Concept: 2457_PATH_OR_ROAD, False Positives: yes, False Negatives: yes
+doromu-aramaika	ida    	   1	   1
+doromu-bareika 	ida    	   1	   1
+doromu-lofaika 	ida    	   1	   1
+maria          	taja   	   1	   6
+maria-maiagolo 	taja   	   1	   6
+maria-maranomu 	taje   	   1	   6
+maria-uderi    	daja   	   1	   9
+hula           	raopara	   4	   4
+motu           	dala   	   4	   9
+sinaugoro      	dabara 	   4	  12
+humene         	ebi    	   5	   5
+uare           	ibi    	   5	  13
+mulaha         	tubaa  	  11	  11
+#
+Concept: 249_FOG, False Positives: no, False Negatives: yes
+doromu-aramaika	seuja     	   1	   1
+doromu-bareika 	seua      	   1	   1
+doromu-lofaika 	seuja     	   1	   1
+hula           	inova     	   4	   4
+motu           	ninoa     	   4	   9
+humene         	voʒe      	   5	   5
+uare           	ɣoʒe      	   5	   5
+maria          	ʔiuma     	   6	   6
+maria-maiagolo 	niumaniuma	   6	   7
+maria-maranomu 	ʔiumaʔiuma	   6	   7
+hula           	iamo      	   6	  13
+mulaha         	ivaru     	  10	  10
+sinaugoro      	kaupa     	  11	  11
+#
+Concept: 2500_pandanusedible, False Positives: yes, False Negatives: no
+doromu-aramaika	efa   	   1	   1
+doromu-bareika 	efa   	   2	   1
+doromu-lofaika 	efa   	   3	   1
+hula           	ɣuria 	   4	   4
+humene         	veni  	   5	   5
+maria          	ifa   	   6	   6
+maria-maiagolo 	ifa   	   7	   6
+maria-maranomu 	ifa   	   8	   6
+motu           	buatau	   9	   9
+mulaha         	bena  	  10	  10
+sinaugoro      	bua   	  11	  11
+uare           	vini  	  12	   5
+#
+Concept: 2504_DIFFERENT, False Positives: no, False Negatives: yes
+doromu-aramaika	idana 	   1	   1
+hula           	irau  	   1	   4
+motu           	idau  	   1	   4
+sinaugoro      	irau  	   1	   4
+doromu-bareika 	kevo  	   2	   2
+doromu-lofaika 	ebi   	   3	   3
+maria-maiagolo 	ebi   	   3	   3
+maria-maranomu 	ebi   	   3	   3
+humene         	ahoʔai	   5	   5
+uare           	ahoka 	   5	  10
+#
+Concept: 2514_totow, False Positives: no, False Negatives: yes
+doromu-aramaika	remanu  	   1	   1
+doromu-bareika 	remanu  	   1	   1
+doromu-lofaika 	reʔamanu	   1	   1
+maria          	jema    	   1	   6
+maria-maiagolo 	jema    	   1	   6
+maria-maranomu 	jema    	   1	   6
+maria-uderi    	jema    	   1	   6
+hula           	lualua  	   4	   4
+motu           	rua     	   4	  10
+sinaugoro      	rua     	   4	  10
+humene         	aheu    	   5	   5
+uare           	aheu    	   5	   5
+#
+Concept: 2519_arise, False Positives: no, False Negatives: yes
+doromu-aramaika	dadi    	   1	   1
+doromu-bareika 	dadi    	   1	   1
+doromu-lofaika 	dadi    	   1	   1
+maria-maiagolo 	tadi    	   1	   1
+maria-maranomu 	dadi    	   1	   1
+maria-uderi    	dadi    	   1	   1
+maria          	hidadi  	   1	   6
+hula           	ruɣa    	   4	   4
+motu           	toreisi 	   4	  10
+sinaugoro      	variɣiti	   4	  11
+humene         	ivunE/e 	   5	   5
+uare           	iɣunE/e 	   5	   5
+#
+Concept: 262_HE_OR_SHE_OR_IT, False Positives: no, False Negatives: yes
+doromu-aramaika	ina 	   1	   1
+doromu-bareika 	ina 	   1	   1
+doromu-lofaika 	ina 	   1	   1
+maria          	ina 	   1	   1
+maria-maiagolo 	ina 	   1	   1
+maria-uderi    	ina 	   1	   1
+maria-maranomu 	hena	   1	   8
+hula           	ia  	   4	   4
+motu           	ia  	   4	   4
+sinaugoro      	ɣia 	   4	  12
+humene         	ani 	   5	   5
+uare           	ani 	   5	   5
+mulaha         	aoo 	  11	  11
+mulaha         	owaː	  14	  14
+#
+Concept: 2638_FISHING, False Positives: no, False Negatives: yes
+doromu-aramaika	ojena  	   1	   1
+doromu-bareika 	ojena  	   1	   1
+doromu-lofaika 	vejona 	   1	   3
+humene         	ofene  	   1	   5
+uare           	ofene  	   1	   5
+maria-maranomu 	uena   	   1	   8
+hula           	nakama 	   4	   4
+sinaugoro      	nagama 	   4	   4
+maria          	oruʔari	   6	   6
+maria-maiagolo 	oruari 	   6	   6
+maria-uderi    	oruari 	   6	   6
+motu           	lao    	  10	  10
+mulaha         	jogaba 	  11	  11
+#
+Concept: 2666_SOLE_FOOT, False Positives: no, False Negatives: yes
+doromu-aramaika	juka+rafo     	   1	   1
+doromu-bareika 	juka+rafo     	   1	   1
+doromu-lofaika 	ruʔa+rafoba   	   1	   3
+humene         	rafava        	   1	   5
+uare           	rafaɣa        	   1	   5
+maria-maranomu 	nuʔa+raho     	   1	   8
+hula           	ao            	   4	   4
+motu           	lalona        	   4	  10
+maria          	nuʔehera      	   6	   6
+maria-maiagolo 	oneʔa+hera    	   6	   7
+maria-uderi    	oneʔa+uhareva 	   6	   9
+sinaugoro      	kwaku+panapana	  11	  11
+#
+Concept: 269_COOKED, False Positives: no, False Negatives: yes
+doromu-aramaika	vai  	   1	   1
+doromu-bareika 	vai  	   1	   1
+doromu-lofaika 	vai  	   1	   1
+maria-maranomu 	vai  	   1	   1
+hula           	ala  	   4	   4
+humene         	oda  	   5	   5
+uare           	odoga	   5	  10
+maria-maiagolo 	aʔino	   6	   6
+motu           	maeda	   8	   8
+sinaugoro      	meu  	   9	   9
+#
+Concept: 2708_TALK, False Positives: yes, False Negatives: yes
+doromu-aramaika	na+ni          	   1	   1
+doromu-lofaika 	na+ni          	   1	   1
+doromu-bareika 	ago+na+niotoma 	   1	   2
+maria-maranomu 	na+nuhani      	   1	   7
+hula           	vakilaku       	   4	   4
+hula           	kilakila+veniku	   4	  11
+humene         	ifaoʔa         	   5	   5
+maria-maiagolo 	na+ema         	   6	   6
+motu           	hereva+henigu  	   8	   8
+sinaugoro      	gurua+vinigu   	   9	   9
+uare           	ehoʔi          	  10	  10
+motu           	hereva+henimu  	  12	   8
+sinaugoro      	gurua+vini+mu  	  13	   9
+hula           	vakila+mu      	  14	   4
+motu           	hereva+henia   	  15	   8
+sinaugoro      	gurua+vini+a   	  16	   9
+hula           	vakila+a       	  17	   4
+#
+Concept: 2760_MAKE_A_JOKE, False Positives: no, False Negatives: yes
+doromu-aramaika	ninikani  	   1	   1
+doromu-bareika 	ninikani  	   1	   1
+hula           	veareveare	   3	   3
+humene         	verihE/e  	   4	   4
+uare           	ɣirihE/e  	   4	   9
+maria-maiagolo 	evasiare  	   5	   5
+motu           	hevaseha  	   5	   7
+sinaugoro      	vateva    	   5	   8
+maria-maranomu 	iʔaragoni 	   6	   6
+#
+Concept: 293_NETBAG, False Positives: yes, False Negatives: yes
+doromu-aramaika	dura  	   1	   1
+doromu-bareika 	dua   	   2	   1
+doromu-lofaika 	dura  	   3	   1
+hula           	lami  	   4	   4
+humene         	afane 	   4	   5
+uare           	afare 	   4	   5
+maria          	tura  	   6	   6
+maria-maiagolo 	tura  	   7	   6
+maria-maranomu 	tura  	   8	   6
+maria-uderi    	tura  	   9	   6
+motu           	rami  	  10	   4
+sinaugoro      	kapare	  10	  12
+mulaha         	nea   	  11	  11
+#
+Concept: 297_CROOKED, False Positives: no, False Negatives: yes
+doromu-aramaika	feki      	   1	   1
+doromu-bareika 	kewo      	   2	   2
+doromu-lofaika 	fogifagi  	   3	   3
+hula           	wagege    	   4	   4
+hula           	pagege    	   4	   4
+motu           	gageva    	   4	   8
+sinaugoro      	ɣeɣeva    	   4	   9
+humene         	beoval    	   5	   5
+uare           	beoɣa     	   5	  10
+maria-maiagolo 	koʔi      	   6	   6
+maria-maranomu 	boʔibæʔiri	   7	   7
+#
+Concept: 3020_BREAK_BREAKING, False Positives: yes, False Negatives: yes
+doromu-aramaika	noku     	   1	   1
+doromu-bareika 	noku     	   1	   1
+maria          	roʔa     	   1	   6
+maria-maranomu 	nuhere   	   1	   7
+maria-uderi    	rukere   	   1	   7
+doromu-lofaika 	sere     	   3	   3
+motu           	siri     	   3	  10
+hula           	koru     	   4	   4
+sinaugoro      	koru     	   4	   4
+humene         	kaka+nE/e	   5	   5
+uare           	ʔaʔa+nE/e	   5	   5
+maria-maiagolo 	nukere   	   7	   7
+#
+Concept: 3036_TREETOP, False Positives: no, False Negatives: yes
+doromu-aramaika	jabo+metona	   1	   1
+doromu-bareika 	jabo+metona	   1	   1
+doromu-lofaika 	jabo+medoba	   1	   1
+maria          	jabo+meto  	   1	   1
+maria-maiagolo 	jabo+medo  	   1	   1
+maria-maranomu 	jabo+meto  	   1	   1
+maria-uderi    	javo+medo  	   1	   1
+hula           	kori       	   4	   4
+motu           	dori       	   4	   4
+humene         	voavai     	   5	   5
+uare           	moʔaɣa     	   5	  12
+sinaugoro      	geve       	  11	  11
+hula           	kuku       	  13	  13
+sinaugoro      	tuɣu       	  13	  14
+#
+Concept: 3037_SAME-SEX_OLDER_SIBLING, False Positives: no, False Negatives: yes
+doromu-aramaika	orena  	   1	   1
+doromu-bareika 	orena  	   1	   1
+doromu-lofaika 	dubini 	   3	   3
+maria          	tubuini	   3	   3
+maria-maranomu 	dobuini	   3	   3
+maria-maiagolo 	dubu   	   3	   7
+maria-uderi    	dubana 	   3	   9
+hula           	ari    	   4	   4
+humene         	neʔohe 	   5	   5
+mulaha         	nikepa 	   5	  11
+humene         	nikepa 	   5	  11
+uare           	neko   	   5	  13
+motu           	kaka   	  10	  10
+sinaugoro      	kaka   	  10	  10
+#
+Concept: 3038_SAME-SEX_YOUNGER_SIBLING, False Positives: no, False Negatives: yes
+doromu-aramaika	useka        	   1	   1
+doromu-bareika 	uheka        	   1	   1
+humene         	neʔohe       	   1	   5
+mulaha         	nakepa       	   1	  11
+mulaha         	nakeba       	   1	  11
+doromu-lofaika 	ʔusiʔa       	   3	   3
+hula           	ari          	   4	   4
+sinaugoro      	tari         	   4	   4
+motu           	tadi         	   4	  10
+maria          	tubuini      	   6	   6
+maria-maiagolo 	dubu+ui      	   6	   7
+maria-maranomu 	dobuini+ʔeiʔa	   6	   8
+maria-uderi    	dubana       	   6	   9
+uare           	eʒe          	  13	  13
+#
+Concept: 3039_DIFFERENT-SEX_OLDER_SIBLING, False Positives: no, False Negatives: yes
+doromu-aramaika	tobaini	   1	   1
+doromu-bareika 	tobaini	   1	   1
+doromu-lofaika 	tobaini	   1	   1
+humene         	eʒehe  	   4	   4
+uare           	eʒehe  	   4	   4
+maria          	ninaini	   5	   5
+maria-maiagolo 	ninaini	   5	   5
+maria-maranomu 	ninaini	   5	   5
+maria-uderi    	nuana  	   5	   8
+motu           	taihu  	   9	   9
+mulaha         	iaukepa	  10	  10
+mulaha         	iaukeba	  10	  10
+#
+Concept: 323_FAT_ORGANIC_SUBSTANCE, False Positives: no, False Negatives: yes
+doromu-aramaika	safi  	   1	   1
+doromu-lofaika 	safi  	   1	   1
+doromu-bareika 	buneka	   2	   2
+maria          	buniʔa	   2	   6
+maria-maiagolo 	buniʔa	   2	   6
+maria-maranomu 	buniʔa	   2	   6
+maria-uderi    	buniʔa	   2	   6
+hula           	mona  	   4	   4
+sinaugoro      	mona  	   4	   4
+humene         	iʔai  	   5	   5
+motu           	diɣara	   5	  10
+uare           	ika   	   5	  12
+hula           	riɣa  	   5	  13
+#
+Concept: 351_TARO, False Positives: yes, False Negatives: no
+doromu-aramaika	kare  	   1	   1
+doromu-bareika 	mudie 	   2	   2
+doromu-lofaika 	mafi  	   3	   3
+hula           	kale  	   4	   1
+humene         	mude  	   5	   2
+maria          	kabu  	   6	   6
+maria-maiagolo 	bani  	   7	   7
+maria-maranomu 	panine	   8	   8
+maria-uderi    	gavu  	   9	   9
+motu           	taro  	  10	  10
+mulaha         	buwaa 	  11	  11
+sinaugoro      	mude  	  12	   2
+uare           	mude  	  13	   2
+#
+Concept: 3555_COME_HERE, False Positives: no, False Negatives: yes
+doromu-aramaika	evade    	   1	   1
+doromu-bareika 	evade    	   1	   1
+doromu-lofaika 	jauma    	   3	   3
+maria-maranomu 	baku     	   3	   8
+hula           	lele     	   4	   4
+humene         	hohone   	   5	   5
+maria          	oroi     	   6	   6
+maria-maiagolo 	kuinibae 	   7	   7
+maria-maiagolo 	kuini+ne 	   7	   7
+maria-uderi    	kuini    	   7	   9
+motu           	haraga   	  10	  10
+sinaugoro      	ɣari+ɣari	  10	  11
+uare           	garihe   	  12	  12
+#
+Concept: 379_BLUNT, False Positives: no, False Negatives: yes
+doromu-aramaika	tu         	   1	   1
+doromu-bareika 	tu         	   1	   1
+humene         	utuʔai     	   1	   5
+uare           	utuʔa      	   1	   5
+maria-maiagolo 	uba        	   1	   6
+sinaugoro      	putu       	   1	   9
+hula           	ɣutuɣutu   	   1	  11
+motu           	patutu     	   1	  12
+doromu-lofaika 	ʔariʔa+de  	   3	   3
+hula           	ai+mana    	   4	   4
+maria-maranomu 	ariʔa+dæipo	   7	   7
+motu           	gano+lasi  	   8	   8
+#
+Concept: 406_OLD_MAN, False Positives: yes, False Negatives: yes
+doromu-aramaika	rumana+ugava	   1	   1
+doromu-bareika 	amie+ukava  	   1	   2
+doromu-lofaika 	amie+ugua   	   1	   2
+hula           	vele+para   	   4	   4
+humene         	vaʒe+vaoʔai 	   5	   5
+maria          	au+ʔana     	   6	   6
+maria-maiagolo 	auʔ+ana     	   6	   6
+maria-maranomu 	maʔi+ada    	   6	   8
+maria-uderi    	ɣamai+auʔana	   6	   9
+motu           	tau+buruka  	  10	  10
+sinaugoro      	tau+ɣauka   	  11	  10
+uare           	vaʒe+ʒu+hiʔa	  12	  12
+#
+Concept: 410_YAM, False Positives: yes, False Negatives: no
+doromu-aramaika	kiroma  	   1	   1
+doromu-bareika 	kiroma  	   2	   1
+doromu-lofaika 	kiroma  	   3	   1
+hula           	malowapa	   4	   4
+humene         	maho    	   5	   5
+maria          	kaʔu    	   6	   6
+maria-maiagolo 	kaʔu    	   7	   6
+maria-maranomu 	bani    	   8	   8
+maria-uderi    	kuvara  	   9	   9
+motu           	maho    	  10	   5
+mulaha         	gumala  	  11	  11
+sinaugoro      	vaburi  	  12	  12
+uare           	naba    	  13	  13
+doromu-aramaika	bani    	  14	   8
+doromu-bareika 	saisu   	  15	  15
+doromu-lofaika 	saisu   	  16	  15
+hula           	piku    	  17	  17
+humene         	umana   	  18	  18
+maria          	tauʔera 	  19	  19
+maria-maiagolo 	gubara  	  20	  20
+maria-maranomu 	hæhu    	  21	  21
+maria-uderi    	iroma   	  22	   1
+motu           	taitu   	  23	  23
+mulaha         	vaduna  	  24	  24
+sinaugoro      	maɣo    	  25	   5
+uare           	mahoʔuro	  26	  26
+humene         	haʒo    	  27	  27
+motu           	biku    	  28	  17
+sinaugoro      	ɣarivata	  29	  29
+uare           	haʒo    	  30	  27
+#
+Concept: 458_DEAF_PERSON, False Positives: no, False Negatives: yes
+doromu-aramaika	kora        	   1	   1
+doromu-bareika 	koraniaka   	   1	   2
+doromu-lofaika 	ʔoraniaʔa   	   1	   2
+maria          	hosoʔo      	   1	   6
+maria-maiagolo 	hoi         	   1	   7
+maria-maranomu 	honita      	   1	   8
+hula           	gela        	   4	   4
+humene         	ohuvai      	   5	   5
+uare           	ohuvai      	   5	   5
+motu           	kudima      	   9	   9
+mulaha         	akur+ai+posi	  10	  10
+sinaugoro      	bubu        	  11	  11
+#
+Concept: 466_CASSOWARY, False Positives: yes, False Negatives: yes
+doromu-aramaika	nadina	   1	   1
+doromu-bareika 	nadina	   2	   1
+doromu-lofaika 	jadina	   3	   1
+hula           	gelema	   4	   4
+humene         	ʒarama	   4	   5
+mulaha         	iaraba	   4	  11
+maria          	jadina	   6	   1
+maria-maiagolo 	kujau 	   7	   7
+maria-maranomu 	jadina	   8	   1
+maria-uderi    	kuiau 	   9	   7
+motu           	gaigai	  10	  10
+sinaugoro      	mota  	  12	  12
+uare           	mohe  	  12	  13
+#
+Concept: 477_LATE, False Positives: yes, False Negatives: yes
+doromu-aramaika	beakomo   	   1	   1
+doromu-bareika 	beaka+taou	   1	   2
+maria-uderi    	ekonaromo 	   1	   8
+doromu-lofaika 	gairofu   	   3	   3
+motu           	gabiae    	   3	   9
+sinaugoro      	gabivau   	   3	   9
+hula           	kapinai   	   3	  12
+hula           	rowau     	   4	   4
+sinaugoro      	vauro     	   4	  10
+humene         	veteboʔi  	   5	   5
+uare           	vehuʔu    	   5	  11
+maria-maiagolo 	omimo     	   6	   6
+maria-maranomu 	omimo     	   6	   6
+maria-maiagolo 	ekonaro   	  13	   8
+#
+Concept: 492_THREE, False Positives: no, False Negatives: yes
+doromu-aramaika	regode	   1	   1
+doromu-bareika 	regode	   1	   1
+doromu-lofaika 	regode	   1	   1
+maria          	jeʔabu	   1	   6
+maria-maiagolo 	jeʔabu	   1	   6
+maria-maranomu 	jeʔæbu	   1	   6
+maria-uderi    	jeʔabu	   1	   6
+hula           	koikoi	   4	   4
+motu           	toi   	   4	  10
+sinaugoro      	toi   	   4	  10
+humene         	ividu 	   5	   5
+uare           	uɣidu 	   5	  12
+#
+Concept: 493_FIVE, False Positives: no, False Negatives: yes
+doromu-aramaika	vana+bero+autu	   1	   1
+doromu-bareika 	vana+beofu    	   1	   2
+doromu-lofaika 	vana+bero     	   1	   2
+maria-maranomu 	vana+berohu   	   1	   2
+maria          	ana+eberohu   	   1	   6
+maria-maiagolo 	ana+eberohu   	   1	   6
+maria-uderi    	ana+everohu   	   1	   6
+hula           	imaima        	   4	   4
+motu           	ima           	   4	  10
+sinaugoro      	ima           	   4	  10
+humene         	evole+nae     	   5	   5
+uare           	fuʔo          	  12	  12
+#
+Concept: 51_SORE, False Positives: no, False Negatives: yes
+doromu-aramaika	ara   	   1	   1
+doromu-bareika 	ara   	   1	   1
+doromu-lofaika 	etu   	   3	   3
+maria          	ehu   	   3	   6
+maria-uderi    	ehu   	   3	   6
+hula           	koma  	   4	   4
+humene         	edere 	   5	   5
+uare           	idiri 	   5	  12
+maria-maiagolo 	bou   	   7	   7
+maria-maranomu 	nonoka	   8	   8
+motu           	toto  	  10	  10
+sinaugoro      	manuɣa	  11	  11
+#
+Concept: 531_HOW_MUCH, False Positives: no, False Negatives: yes
+doromu-aramaika	kokaisa	   1	   1
+doromu-lofaika 	koʔaisa	   1	   1
+doromu-bareika 	kokaha 	   1	   2
+maria-maranomu 	kekehi 	   1	   7
+hula           	vira   	   4	   4
+sinaugoro      	vira   	   4	   4
+motu           	hida   	   4	   9
+humene         	naeʔae 	   5	   5
+maria-maiagolo 	ibeibe 	   6	   6
+maria-uderi    	ibeibe 	   6	   6
+uare           	nuku   	  11	  11
+#
+Concept: 570_STAND_UP, False Positives: no, False Negatives: yes
+doromu-aramaika	vari     	   1	   1
+doromu-bareika 	vari     	   1	   1
+doromu-lofaika 	aʔu      	   3	   3
+maria-maranomu 	ʔa       	   3	   6
+hula           	kulakai  	   4	   4
+maria-maiagolo 	hogo+uimi	   5	   5
+motu           	hagini   	   7	   7
+sinaugoro      	ruvaiti  	   8	   8
+hula           	ruɣalakai	   8	  10
+uare           	dudu+nE/e	   9	   9
+#
+Concept: 57_ATOP, False Positives: no, False Negatives: yes
+doromu-aramaika	java+odoro 	   1	   1
+doromu-lofaika 	java+odore 	   1	   1
+maria-maiagolo 	java+hoboro	   1	   1
+maria-maranomu 	java+hoboro	   1	   1
+doromu-bareika 	java+tebou 	   2	   2
+hula           	kukunai    	   4	   4
+sinaugoro      	tuɣunai    	   4	   4
+motu           	guhinai    	   4	  13
+humene         	o          	   5	   5
+maria-uderi    	java+gurero	   8	   8
+motu           	latanai    	   9	   9
+hula           	anai       	   9	  12
+uare           	ɣana       	  11	  11
+#
+Concept: 586_GARDEN, False Positives: yes, False Negatives: no
+doromu-aramaika	muro  	   1	   1
+doromu-bareika 	muro  	   2	   1
+doromu-lofaika 	muro  	   3	   1
+hula           	ara   	   4	   4
+humene         	voore 	   5	   5
+maria          	muro  	   6	   1
+maria-maiagolo 	muro  	   7	   1
+maria-maranomu 	muro  	   8	   1
+maria-uderi    	muro  	   9	   1
+motu           	uma   	  10	  10
+sinaugoro      	vamoka	  11	  11
+uare           	nada  	  12	  12
+#
+Concept: 628_LEAF, False Positives: no, False Negatives: yes
+doromu-aramaika	jabo+ie	   1	   1
+doromu-bareika 	jabo+ie	   1	   1
+doromu-lofaika 	jabo+ie	   1	   1
+maria-maiagolo 	jabo+e 	   1	   1
+maria-maranomu 	jabo+je	   1	   1
+maria-uderi    	javo+e 	   1	   1
+humene         	loavai 	   4	   4
+motu           	lau    	   4	   8
+uare           	rouɣa  	   4	   9
+#
+Concept: 639_MOUNTAIN, False Positives: no, False Negatives: yes
+doromu-aramaika	fofure	   1	   1
+doromu-lofaika 	fofure	   1	   1
+doromu-bareika 	sofire	   1	   2
+maria          	baʔo  	   1	   6
+maria-maiagolo 	hu    	   1	   7
+maria-uderi    	hu    	   1	   7
+maria-maranomu 	baʔahu	   1	   8
+maria-maranomu 	baʔaba	   1	  14
+hula           	olo   	   4	   4
+motu           	ororo 	   4	  10
+sinaugoro      	ɣoro  	   4	  12
+humene         	mava  	   5	   5
+uare           	maɣa  	   5	   5
+mulaha         	voivi 	  11	  11
+#
+Concept: 646_ASH, False Positives: no, False Negatives: yes
+doromu-aramaika	udo   	   1	   1
+doromu-lofaika 	udo   	   1	   1
+doromu-bareika 	bubudo	   1	   2
+humene         	budara	   1	   5
+maria          	uto   	   1	   6
+maria-maranomu 	uto   	   1	   6
+maria-uderi    	uto   	   1	   6
+maria-maiagolo 	uso   	   1	   7
+mulaha         	abe   	   1	  11
+hula           	kavu  	   4	   4
+sinaugoro      	kau   	   4	   4
+motu           	kaha  	   4	  10
+uare           	uvahu 	   4	  13
+#
+Concept: 666_RIVER, False Positives: no, False Negatives: yes
+doromu-aramaika	koru   	   1	   1
+doromu-bareika 	kou    	   1	   1
+doromu-lofaika 	ʔoru   	   1	   3
+maria          	ʔoru   	   1	   3
+maria-maiagolo 	oru    	   1	   3
+maria-maranomu 	ʔoru   	   1	   3
+maria-uderi    	oru    	   1	   3
+humene         	vobune 	   1	   5
+uare           	vou    	   1	  12
+hula           	wai    	   4	   4
+motu           	sinavai	   4	  10
+sinaugoro      	ɣaruka 	  11	  11
+#
+Concept: 670_ROOT, False Positives: yes, False Negatives: yes
+doromu-aramaika	jabo+daru  	   1	   1
+doromu-bareika 	jabo+taru  	   1	   1
+doromu-lofaika 	jabo+daru  	   1	   1
+maria-uderi    	javo+daru  	   1	   1
+maria          	jabo+tarana	   1	   6
+maria-maranomu 	jabo+tarana	   1	   6
+hula           	lamu       	   4	   4
+motu           	ramu       	   4	   4
+humene         	viniʔai    	   5	   5
+maria-maiagolo 	jabo+adina 	   7	   6
+sinaugoro      	ɣoka       	  11	  11
+uare           	taiɣa      	  12	  12
+#
+Concept: 674_MOUTH, False Positives: no, False Negatives: yes
+doromu-aramaika	vena  	   1	   1
+doromu-bareika 	vena  	   1	   1
+doromu-lofaika 	uena  	   1	   1
+maria          	uena  	   1	   1
+maria-maiagolo 	uena  	   1	   1
+maria-maranomu 	uena  	   1	   1
+maria-uderi    	uena  	   1	   1
+hula           	poka  	   4	   4
+sinaugoro      	boka  	   4	   4
+humene         	hedere	   5	   5
+uare           	hebe  	   5	  13
+motu           	udu   	  10	  10
+hula           	mupu  	  10	  14
+mulaha         	abina 	  11	  11
+#
+Concept: 680_BREAK_DESTROY_OR_GET_DESTROYED, False Positives: no, False Negatives: yes
+doromu-aramaika	oda      	   1	   1
+doromu-lofaika 	oda      	   1	   1
+doromu-bareika 	moirokire	   2	   2
+maria          	uroʔire  	   2	   6
+maria-maranomu 	moufoire 	   2	   8
+hula           	kalakoru 	   4	   4
+humene         	vahe+ʔE/e	   5	   5
+uare           	vahe+gE/e	   5	   5
+maria-maiagolo 	ʔuʔa     	   7	   7
+maria-uderi    	ekere    	   9	   9
+motu           	hamakoi  	  10	  10
+sinaugoro      	raukira  	  11	  11
+#
+Concept: 695_GO, False Positives: no, False Negatives: yes
+doromu-aramaika	ne     	   1	   1
+doromu-bareika 	ne     	   1	   1
+doromu-lofaika 	ne     	   1	   1
+maria          	ne     	   1	   1
+maria-maiagolo 	ne     	   1	   1
+maria-maranomu 	ne     	   1	   1
+doromu-aramaika	di     	   1	  12
+doromu-bareika 	di     	   1	  12
+doromu-lofaika 	di     	   1	  12
+maria          	di     	   1	  12
+maria-maiagolo 	di     	   1	  12
+maria-maranomu 	di     	   1	  12
+hula           	laka   	   4	   4
+humene         	onamE/e	   5	   5
+uare           	onamE/e	   5	   5
+motu           	lao    	   9	   9
+sinaugoro      	iaɣo   	   9	  10
+#
+Concept: 700_CARRY, False Positives: no, False Negatives: yes
+doromu-aramaika	uvakai+ne     	   1	   1
+doromu-bareika 	uvakaibo      	   1	   2
+doromu-lofaika 	uvaʔi+di      	   1	   3
+hula           	vua           	   4	   4
+motu           	hua           	   4	   8
+sinaugoro      	ɣua           	   4	  10
+humene         	ede+hE/e      	   5	   5
+maria-maiagolo 	jaʔega+ne     	   6	   6
+maria-maranomu 	ueʔa+mohidi   	   7	   7
+mulaha         	pavaiana      	   9	   9
+uare           	herate+onamE/e	  11	  11
+#
+Concept: 705_GO_UP_ASCEND, False Positives: no, False Negatives: yes
+doromu-aramaika	boi      	   1	   1
+doromu-bareika 	boi      	   1	   1
+doromu-lofaika 	boi      	   1	   1
+maria-maiagolo 	debo     	   1	   6
+maria-maranomu 	maʔa+bo  	   1	   7
+hula           	raɣe     	   4	   4
+sinaugoro      	raɣe     	   4	   4
+motu           	dara     	   4	   8
+humene         	tila+hE/e	   5	   5
+uare           	i+tE/e   	  10	  10
+#
+Concept: 725_OLD_PERSON, False Positives: no, False Negatives: yes
+doromu-aramaika	kori   	   1	   1
+doromu-bareika 	kori   	   1	   1
+doromu-lofaika 	ʔori   	   1	   1
+maria          	ori    	   1	   1
+maria-maiagolo 	ori    	   1	   1
+maria-maranomu 	ʔori   	   1	   1
+hula           	kune   	   4	   4
+motu           	guna   	   4	  10
+sinaugoro      	ɣuine  	   4	  12
+humene         	teʔovai	   5	   5
+maria-uderi    	henaki 	   9	   9
+mulaha         	negata 	  11	  11
+uare           	mahiga 	  13	  13
+#
+Concept: 730_SNAKE, False Positives: no, False Negatives: yes
+doromu-aramaika	aruma      	   1	   1
+doromu-bareika 	aruma      	   1	   1
+doromu-lofaika 	aruma      	   1	   1
+maria          	aruma      	   1	   1
+maria-maiagolo 	aruma      	   1	   1
+maria-maranomu 	aruma      	   1	   1
+maria-uderi    	komana     	   1	   9
+motu           	gwarume    	   1	  10
+hula           	mani       	   4	   4
+sinaugoro      	maɣani+kone	   4	  12
+humene         	maita      	   5	   5
+mulaha         	baita      	   5	   5
+uare           	ɣoʒone     	  13	  13
+#
+Concept: 744_EGG, False Positives: no, False Negatives: yes
+doromu-aramaika	erena+unema	   1	   1
+doromu-bareika 	erena+unema	   1	   1
+doromu-lofaika 	erena+unema	   1	   1
+maria          	erena+unema	   1	   1
+maria-maiagolo 	erena+unema	   1	   1
+maria-maranomu 	erena+unema	   1	   1
+maria-uderi    	erena+unema	   1	   1
+hula           	vane       	   4	   4
+sinaugoro      	pane       	   4	   4
+motu           	ape        	   4	  10
+humene         	hava       	   5	   5
+uare           	isaɣa      	   5	  13
+mulaha         	iakeki     	  11	  11
+#
+Concept: 749_ENTER, False Positives: yes, False Negatives: yes
+doromu-aramaika	javari+bae  	   1	   1
+doromu-bareika 	bae+dui+re  	   2	   2
+doromu-lofaika 	java+ri+bo  	   3	   3
+hula           	laka+oa     	   4	   4
+sinaugoro      	raka+toɣa   	   4	   8
+maria-maiagolo 	bahide      	   5	   5
+maria-maranomu 	java+ri+bæʔo	   6	   3
+motu           	vareai      	   7	   7
+#
+Concept: 763_SKIN, False Positives: no, False Negatives: yes
+doromu-aramaika	roaita      	   1	   1
+doromu-lofaika 	roaita      	   1	   1
+doromu-bareika 	ro          	   1	   2
+maria          	roo         	   1	   6
+maria-maiagolo 	roʔo        	   1	   6
+maria-uderi    	roʔo        	   1	   6
+maria-maranomu 	raha        	   1	   8
+hula           	kopi        	   4	   4
+motu           	kopi        	   4	   4
+sinaugoro      	kepi        	   4	   4
+humene         	ahere+kokava	   5	   5
+uare           	ahiri       	   5	  13
+mulaha         	iaina       	  11	  11
+#
+Concept: 776_TRUNK_OF_TREE, False Positives: no, False Negatives: yes
+doromu-aramaika	jabo+reta	   1	   1
+doromu-bareika 	jabo+reta	   1	   1
+doromu-lofaika 	jabo+rata	   1	   1
+hula           	kapa     	   4	   4
+motu           	gabaka   	   4	  10
+sinaugoro      	gabaka   	   4	  10
+uare           	gabaɣa   	   4	  10
+mulaha         	rigi     	   4	  11
+humene         	rabovai  	   5	   5
+maria          	jabo+kaku	   6	   6
+maria-maiagolo 	jabo+gagu	   6	   6
+maria-maranomu 	jabo+kaku	   6	   6
+maria-uderi    	javo+gagu	   6	   6
+#
+Concept: 778_SMOKE_EXHAUST, False Positives: no, False Negatives: yes
+doromu-aramaika	iroka       	   1	   1
+doromu-bareika 	iroka       	   1	   1
+doromu-lofaika 	itairoʔa    	   1	   3
+maria          	isa+ʔiroʔa  	   1	   3
+maria-maiagolo 	iloʔa+tatina	   1	   7
+hula           	kovu        	   4	   4
+motu           	kwaiahu     	   4	  10
+sinaugoro      	goɣu        	   4	  12
+humene         	vehi        	   5	   5
+uare           	ɣisi        	   5	  13
+maria-maranomu 	iraʔareo    	   8	   8
+maria-uderi    	kuma        	   9	   9
+mulaha         	utubuna     	  11	  11
+#
+Concept: 78_THAT, False Positives: no, False Negatives: yes
+hula           	wa      	   1	   1
+humene         	moe+omo 	   2	   2
+sinaugoro      	moanai  	   2	   7
+sinaugoro      	moaɣa   	   2	   9
+maria-maiagolo 	odoiʔina	   3	   3
+maria-maranomu 	odona   	   3	   4
+motu           	una     	   5	   5
+mulaha         	ejo     	   6	   6
+mulaha         	eju     	   6	   8
+#
+Concept: 798_JAW, False Positives: no, False Negatives: yes
+doromu-aramaika	atoka 	   1	   1
+doromu-bareika 	atoka 	   1	   1
+maria          	adu   	   1	   6
+maria-maranomu 	atu   	   1	   8
+doromu-lofaika 	guana 	   3	   3
+maria-uderi    	uguana	   3	   3
+hula           	are   	   4	   4
+sinaugoro      	ɣare  	   4	   4
+humene         	vaene 	   5	   5
+uare           	ɣaene 	   5	   5
+maria-maiagolo 	ahena 	   5	   7
+motu           	auki  	   5	  10
+mulaha         	wasina	   5	  11
+mulaha         	wasena	   5	  11
+#
+Concept: 800_THIGH, False Positives: yes, False Negatives: yes
+doromu-aramaika	vadema	   1	   1
+doromu-bareika 	vadema	   1	   1
+doromu-lofaika 	vadema	   1	   1
+maria-maranomu 	vadema	   1	   1
+maria          	atema 	   1	   6
+maria-uderi    	atama 	   1	   6
+maria-maiagolo 	asama 	   1	   7
+hula           	epi   	   4	   4
+uare           	manine	   4	   5
+humene         	manine	   5	   5
+sinaugoro      	manini	   5	   5
+motu           	mamu  	   5	  10
+mulaha         	kurina	  11	  11
+#
+Concept: 817_THEY, False Positives: no, False Negatives: yes
+doromu-aramaika	ina 	   1	   1
+doromu-bareika 	ina 	   1	   1
+maria          	ina 	   1	   1
+maria-maiagolo 	ina 	   1	   1
+maria-uderi    	ina 	   1	   1
+maria-maranomu 	hene	   1	   7
+hula           	ila 	   3	   3
+motu           	idia	   3	   9
+sinaugoro      	ɣia 	   3	  11
+humene         	ʒe  	   4	   4
+uare           	ʒe  	   4	   4
+mulaha         	wau 	  10	  10
+#
+Concept: 834_BUTTOCKS, False Positives: no, False Negatives: yes
+doromu-aramaika	vadema 	   1	   1
+doromu-bareika 	godi   	   2	   2
+doromu-lofaika 	godi   	   2	   2
+hula           	kore   	   2	   4
+humene         	niduhe 	   2	   5
+maria          	ui     	   6	   6
+maria-maiagolo 	dieruma	   7	   7
+maria-uderi    	tieruma	   7	   7
+maria-maranomu 	imudu  	   8	   8
+motu           	kunu   	  10	  10
+mulaha         	wasira 	  10	  11
+sinaugoro      	bure   	  12	  12
+uare           	harure 	  12	  13
+#
+Concept: 857_STONE, False Positives: no, False Negatives: yes
+doromu-aramaika	fore 	   1	   1
+doromu-bareika 	fore 	   1	   1
+doromu-lofaika 	fore 	   1	   1
+sinaugoro      	pore 	   1	   1
+hula           	vau  	   4	   4
+maria          	aʔika	   4	   6
+maria-maiagolo 	aʔiga	   4	   6
+maria-maranomu 	vaiga	   4	   8
+maria-uderi    	baga 	   4	   9
+humene         	hadi 	   5	   5
+motu           	nadi 	   5	   5
+uare           	hadi 	   5	   5
+mulaha         	aroba	  11	  11
+#
+Concept: 865_withbymeansof, False Positives: no, False Negatives: yes
+hula           	oi  	   1	   1
+motu           	ida 	   2	   2
+sinaugoro      	ɣeti	   2	   3
+hula           	ria 	   2	   4
+#
+Concept: 867_backofhand, False Positives: no, False Negatives: yes
+doromu-aramaika	uboma 	   1	   1
+doromu-lofaika 	uboma 	   1	   1
+maria          	uboma 	   1	   1
+maria-maiagolo 	uboma 	   1	   1
+maria-maranomu 	uboma 	   1	   1
+maria-uderi    	uboma 	   1	   1
+doromu-bareika 	getona	   2	   2
+humene         	varone	   2	   5
+uare           	ɣarone	   2	   5
+hula           	roɣe  	   4	   4
+sinaugoro      	doɣe  	   4	   4
+motu           	doru  	   4	  10
+#
+Concept: 868_BANANA, False Positives: yes, False Negatives: no
+doromu-aramaika	tauga  	   1	   1
+doromu-bareika 	namo   	   2	   2
+doromu-lofaika 	namo   	   3	   2
+hula           	komu   	   4	   4
+humene         	haʔi   	   5	   5
+maria          	hahoʔa 	   6	   6
+maria-maiagolo 	hahoʔa 	   7	   6
+maria-maranomu 	ahaʔa  	   8	   8
+maria-uderi    	agavoto	   9	   9
+motu           	tohu   	  10	  10
+mulaha         	eva    	  11	  11
+sinaugoro      	komu   	  12	   4
+uare           	hagi   	  13	   5
+doromu-aramaika	inuga  	  14	  14
+#
+Concept: 879_COUGH, False Positives: no, False Negatives: yes
+doromu-aramaika	esirokane	   1	   1
+doromu-bareika 	esirokani	   1	   1
+doromu-lofaika 	otoni    	   1	   3
+maria-maiagolo 	ehorareo 	   1	   6
+maria-maranomu 	ehoni    	   1	   7
+maria-uderi    	ahiruani 	   1	   8
+hula           	ɣera     	   4	   4
+humene         	iʔu+tE/e 	   5	   5
+uare           	igu+tE/e 	   5	   5
+mulaha         	igebana  	   5	  10
+motu           	hua      	   9	   9
+sinaugoro      	ɣuɣa     	   9	  11
+#
+Concept: 897_SWALLOW, False Positives: no, False Negatives: yes
+doromu-aramaika	iri+mode   	   1	   1
+doromu-bareika 	imoune     	   1	   2
+doromu-lofaika 	iri+utu    	   3	   3
+maria-maranomu 	iruʔuhu    	   3	   7
+hula           	nono       	   4	   4
+humene         	onu+vE/e   	   4	   5
+motu           	hadono     	   4	   8
+uare           	u+nE/e     	   4	  10
+maria-maiagolo 	iri+kuieide	   6	   6
+sinaugoro      	rauboɣe    	   9	   9
+#
+Concept: 906_TREE, False Positives: no, False Negatives: yes
+doromu-aramaika	jabo  	   1	   1
+doromu-bareika 	jabo  	   1	   1
+doromu-lofaika 	jabo  	   1	   1
+maria          	jabo  	   1	   1
+maria-maiagolo 	jabo  	   1	   1
+maria-maranomu 	jabo  	   1	   1
+maria-uderi    	javo  	   1	   1
+hula           	au+upu	   4	   4
+motu           	au    	   4	  10
+sinaugoro      	ɣau   	   4	  11
+humene         	ibado 	   5	   5
+uare           	ire   	  12	  12
+maria-maiagolo 	oruma 	  13	  13
+#
+Concept: 907_OLD_WOMAN, False Positives: no, False Negatives: yes
+doromu-aramaika	rema+ugava   	   1	   1
+doromu-bareika 	rema+ukava   	   1	   1
+doromu-lofaika 	rema+ugua    	   1	   1
+hula           	logea+para   	   4	   4
+humene         	noʔone+vaoʔai	   5	   5
+maria          	oʔi+ʔeta     	   6	   6
+maria-maiagolo 	oi+ada       	   6	   7
+maria-maranomu 	oʔi+ada      	   6	   7
+maria-uderi    	oue+au+ana   	   6	   9
+motu           	hahine+buruka	  10	  10
+sinaugoro      	vavine+ɣauka 	  11	  11
+uare           	roɣai+ʒuhiʔa 	  12	  12
+#
+Concept: 930_VILLAGE, False Positives: yes, False Negatives: no
+doromu-aramaika	rautu	   1	   1
+doromu-bareika 	rautu	   2	   1
+doromu-lofaika 	rautu	   3	   1
+maria          	raufa	   4	   4
+maria-maiagolo 	jaufa	   5	   4
+maria-maranomu 	raufa	   6	   4
+maria-uderi    	java 	   7	   7
+#
+Concept: 937_BIRD, False Positives: no, False Negatives: yes
+doromu-aramaika	erena        	   1	   1
+doromu-bareika 	erena        	   1	   1
+doromu-lofaika 	erena        	   1	   1
+maria          	erena        	   1	   1
+maria-maiagolo 	erena        	   1	   1
+maria-maranomu 	erena        	   1	   1
+maria-uderi    	erena        	   1	   1
+hula           	manu+lamulamu	   1	   4
+humene         	iʔuva        	   5	   5
+mulaha         	iguvi        	   5	  11
+uare           	ikuɣa        	   5	  13
+motu           	hui          	  10	  10
+sinaugoro      	ɣui          	  10	  12
+#
+Concept: 946_BLOOD, False Positives: no, False Negatives: yes
+doromu-aramaika	tava 	   1	   1
+doromu-bareika 	tava 	   1	   1
+doromu-lofaika 	tava 	   1	   1
+maria          	taeʔa	   1	   6
+maria-maiagolo 	taeʔa	   1	   6
+maria-maranomu 	tæʔæ 	   1	   8
+hula           	rala 	   4	   4
+motu           	rara 	   4	   4
+sinaugoro      	rara 	   4	   4
+mulaha         	iaː  	   4	  11
+humene         	roo  	   5	   5
+uare           	ruu  	   5	  13
+maria-uderi    	aura 	   9	   9
+#
+Concept: 948_WATER, False Positives: no, False Negatives: yes
+doromu-aramaika	koru	   1	   1
+doromu-bareika 	kou 	   1	   1
+doromu-lofaika 	ʔoru	   1	   3
+maria          	ʔoru	   1	   3
+maria-maiagolo 	oru 	   1	   3
+maria-maranomu 	ʔoru	   1	   3
+maria-uderi    	oru 	   1	   3
+humene         	vou 	   1	   5
+uare           	vou 	   1	   5
+mulaha         	vara	   1	  11
+hula           	nanu	   4	   4
+motu           	ranu	   4	   4
+sinaugoro      	nanu	   4	   4
+#
+Concept: 960_WIND, False Positives: no, False Negatives: yes
+doromu-aramaika	aura     	   1	   1
+doromu-lofaika 	aura     	   1	   1
+maria          	aura     	   1	   1
+maria-maiagolo 	aura     	   1	   1
+maria-uderi    	aura     	   1	   1
+mulaha         	oraburiki	   1	  11
+doromu-bareika 	jafujafu 	   2	   2
+maria-maranomu 	uʔa      	   2	   8
+hula           	aɣi      	   4	   4
+motu           	iai      	   4	  10
+humene         	revova   	   5	   5
+sinaugoro      	iavara   	  12	  12
+uare           	ʒavara   	  12	  12
+doromu-bareika 	jahara   	  12	  14
+#
+Concept: 962_WOMAN, False Positives: no, False Negatives: yes
+doromu-aramaika	rema  	   1	   1
+doromu-bareika 	rema  	   1	   1
+doromu-lofaika 	rema  	   1	   1
+hula           	vavine	   4	   4
+sinaugoro      	vavine	   4	   4
+motu           	hahine	   4	  10
+humene         	noʔone	   5	   5
+uare           	noɣone	   5	   5
+maria          	oue   	   6	   6
+maria-maiagolo 	oue   	   6	   6
+maria-maranomu 	oue   	   6	   6
+maria-uderi    	oue   	   6	   6
+mulaha         	tina  	  11	  11
+uare           	roɣai 	  14	  14
+#
+Concept: 977_ARROW, False Positives: yes, False Negatives: yes
+doromu-aramaika	ora   	   1	   1
+doromu-bareika 	auri  	   2	   2
+doromu-lofaika 	ora   	   3	   1
+hula           	walo  	   4	   4
+motu           	varo  	   4	  10
+sinaugoro      	varo  	   4	  10
+humene         	meni  	   5	   5
+uare           	meni  	   5	   5
+maria          	ora   	   6	   1
+maria-maiagolo 	ora   	   7	   1
+maria-maranomu 	ora   	   8	   1
+maria-uderi    	auri  	   9	   2
+mulaha         	varoti	  11	  11
+mulaha         	baruti	  11	  14
+mulaha         	hua   	  15	  15
+#
+Concept: 981_ELBOW, False Positives: no, False Negatives: yes
+doromu-aramaika	vana+kokita	   1	   1
+doromu-bareika 	vana+kefoka	   1	   2
+doromu-lofaika 	vana+geduna	   3	   3
+maria          	ana+geduna 	   3	   3
+maria-maranomu 	vana+gedu  	   3	   3
+hula           	kwaukwau   	   4	   4
+humene         	kakuʔa     	   4	   5
+uare           	ʔaʔuʔa     	   4	  13
+maria-maiagolo 	ana+gore   	   7	   7
+maria-uderi    	tiu        	   9	   9
+motu           	diu        	  10	  10
+sinaugoro      	diɣuni     	  10	  12
+mulaha         	komo       	  11	  11
+mulaha         	agi        	  14	  14
+#
+Concept: 98_ALL, False Positives: no, False Negatives: yes
+doromu-aramaika	tau       	   1	   1
+doromu-bareika 	tau       	   1	   1
+doromu-lofaika 	tau       	   1	   1
+hula           	mapara    	   4	   4
+sinaugoro      	mabara    	   4	   4
+humene         	vude      	   5	   5
+mulaha         	udegi     	   5	  11
+maria          	henaʔumaʔa	   6	   6
+maria-maranomu 	meʔuba    	   6	   8
+maria-maiagolo 	baga+heure	   7	   7
+maria-uderi    	heure     	   7	   9
+motu           	ibou      	  10	  10
+uare           	niduʔa    	  13	  13
+#
+Concept: 994_BOW, False Positives: yes, False Negatives: no
+humene         	vaine	   1	   1
+motu           	io   	   2	   2
+uare           	vaine	   3	   1
+#

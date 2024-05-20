@@ -1,0 +1,3206 @@
+Concept: 1035_GOOD, False Positives: yes, False Negatives: yes
+alekano      	lamá/aná/a  	   1	   1
+dano-asaro   	lá/amine    	   1	   1
+awa          	kaweh       	   2	   2
+awiyaana     	kawia       	   3	   2
+benabena     	hé/etofa    	   4	   4
+yaweyuha     	dovaloko    	   4	  15
+fore         	aogi        	   6	   6
+gadsup       	abokui      	   7	   7
+gende        	mogori      	   8	   8
+gimi         	soko        	   9	   9
+yagaria      	só/oko      	   9	   9
+inoke-yate   	kaná/aliné/e	  10	  10
+kamano       	kä/aná/arere	  10	  10
+siane        	lá/alo      	  12	  12
+tairora-north	koeba       	  13	  13
+benabena     	ba          	  16	  16
+fore         	kanaːra     	  17	  10
+gimi         	bida        	  18	  18
+inoke-yate   	alagepa     	  19	  19
+yagaria      	hó/o        	  20	  20
+yaweyuha     	dotalibo    	  21	  21
+#
+Concept: 1174_YESTERDAY, False Positives: yes, False Negatives: yes
+alekano      	azó/o     	   1	   1
+dano-asaro   	á/aize    	   1	   1
+fore         	ai        	   1	   6
+gimi         	aika      	   1	   9
+yaweyuha     	aijo      	   1	  15
+awa          	ahbijah   	   2	   2
+awiyaana     	apaja     	   3	   2
+benabena     	já/ago    	   4	   4
+inoke-yate   	egá/a     	   4	   9
+yagaria      	é/ega     	   4	   9
+gadsup       	kakana    	   7	   7
+gende        	nongoi    	   8	   8
+kamano       	okí/i     	  11	   9
+siane        	mé/eló/o  	  12	  12
+tairora-north	hura      	  13	  13
+awa          	ge        	  16	  16
+fore         	ai        	  17	   6
+gende        	nuŋgwajari	  18	  18
+#
+Concept: 1198_MANY, False Positives: yes, False Negatives: yes
+alekano      	mú/uki    	   1	   1
+dano-asaro   	mukí/i    	   1	   1
+inoke-yate   	mú/uki    	   1	   1
+kamano       	má/aka    	   1	   1
+yaweyuha     	muki      	   1	   1
+awa          	ahnde     	   2	   2
+awiyaana     	nesua     	   3	   3
+benabena     	samá/a    	   4	   4
+fore         	uwoma     	   6	   6
+gadsup       	amuna     	   7	   7
+gende        	mbombrene 	   8	   8
+siane        	sǒ/o      	   8	  12
+gimi         	hago      	   9	   9
+tairora-north	airi      	  13	  13
+yagaria      	só/ole    	  14	  14
+awiyaana     	suwifai   	  16	  16
+benabena     	babú/u    	  17	  17
+dano-asaro   	vai       	  18	  18
+fore         	aːtaru    	  19	  19
+gende        	aragai    	  20	  20
+inoke-yate   	kasago    	  21	  21
+kamano       	má/afä/aka	  22	  22
+siane        	mú/uki    	  23	   1
+yagaria      	lá/a      	  24	  24
+yaweyuha     	wawuleko  	  25	  25
+fore         	uwa       	  26	  26
+kamano       	há/akare  	  27	   9
+#
+Concept: 1201_FEATHER, False Positives: yes, False Negatives: yes
+alekano      	zopó/ová/a   	   1	   1
+dano-asaro   	zó/opovo     	   1	   1
+benabena     	ó/oka        	   1	   4
+gende        	jogo         	   1	   4
+kamano       	jó/oka       	   1	   4
+siane        	jó/owa       	   1	  12
+yaweyuha     	jopa         	   1	  12
+awa          	ajo          	   2	   2
+awiyaana     	ajauma       	   3	   3
+fore         	jaː          	   6	   6
+gimi         	za           	   6	   9
+gadsup       	ajoi         	   7	   2
+inoke-yate   	ijó/olegefá/a	  10	  10
+yagaria      	ó/olegeva    	  10	  10
+tairora-north	kauhi        	  13	  13
+#
+Concept: 1202_BIG, False Positives: yes, False Negatives: yes
+alekano      	napá/a   	   1	   1
+benabena     	ná/apa   	   1	   1
+dano-asaro   	ná/amba  	   1	   1
+gende        	namba    	   1	   1
+siane        	nâ/amba  	   1	   1
+yaweyuha     	napa     	   1	   1
+awa          	aːnotah  	   2	   2
+awiyaana     	anomba   	   3	   1
+fore         	tabe     	   6	   6
+yagaria      	legé/epa 	   6	  14
+gadsup       	inona    	   7	   7
+gimi         	anosa    	   9	   9
+inoke-yate   	alá/a    	  10	  10
+kamano       	ra       	  10	  11
+tairora-north	nora     	  13	  13
+benabena     	sí/ipi   	  16	  16
+fore         	anosá:/aː	  17	   9
+kamano       	tusi     	  18	  18
+yagaria      	sipi     	  19	  16
+benabena     	fela     	  20	  10
+#
+Concept: 1203_LONG, False Positives: yes, False Negatives: yes
+alekano      	haná/a    	   1	   1
+dano-asaro   	há/ana    	   1	   1
+yaweyuha     	hana      	   1	   1
+siane        	fá/ana    	   1	  12
+awa          	tahtahi   	   2	   2
+awiyaana     	ajaːtaa   	   3	   3
+benabena     	já/atama  	   4	   3
+yagaria      	já/atala  	   4	   3
+fore         	eeró/o    	   6	   6
+gimi         	ee        	   6	   9
+inoke-yate   	ajá/aajá/a	   6	  10
+kamano       	já/ajare  	   6	  11
+gadsup       	ijaːi     	   7	   7
+gende        	kavaja    	   8	   8
+tairora-north	bukai     	  13	  13
+fore         	jaːeró/o  	  16	   6
+inoke-yate   	jatala    	  17	   3
+yagaria      	jajane    	  18	  11
+fore         	watajá:/aː	  19	  19
+#
+Concept: 1204_BARK, False Positives: yes, False Negatives: yes
+alekano      	galú/upa   	   1	   1
+dano-asaro   	gá/alupo   	   1	   1
+benabena     	á/akalú/uja	   1	   4
+fore         	arí/i      	   1	   6
+gimi         	ari        	   1	   6
+inoke-yate   	akafuna    	   1	  10
+yagaria      	gá/avuda   	   1	  10
+kamano       	akrú/ua    	   1	  11
+siane        	á/atuwá/a  	   1	  12
+yaweyuha     	esuva      	   1	  15
+awa          	ahweh      	   2	   2
+awiyaana     	aːmaːmaba  	   3	   3
+gadsup       	akaːmi     	   7	   7
+gende        	tarawa     	   8	   8
+tairora-north	aːbahi     	  13	  13
+gadsup       	jagwami    	  16	   7
+#
+Concept: 1205_TONGUE, False Positives: yes, False Negatives: yes
+alekano      	genezá/a    	   1	   1
+benabena     	kené/etufa  	   1	   4
+kamano       	gä/ané/efuna	   1	   4
+fore         	ntebú/u     	   1	   6
+gimi         	dabina      	   1	   7
+gende        	navu        	   1	   8
+yagaria      	nevú/uda    	   1	   8
+inoke-yate   	vé/efu      	   1	  10
+awa          	anehbi      	   2	   2
+awiyaana     	amaːbi      	   3	   3
+dano-asaro   	ná/ahu      	   5	   5
+siane        	kú/ulumá/a  	   5	  12
+yaweyuha     	ulumá/a     	   5	  12
+gadsup       	anapini     	   7	   7
+tairora-north	maːiri      	  13	  13
+gimi         	naita       	  16	  16
+inoke-yate   	genefu      	  17	   4
+#
+Concept: 1209_I, False Positives: yes, False Negatives: yes
+alekano      	ne   	   1	   1
+benabena     	ná/a 	   1	   1
+dano-asaro   	ne   	   1	   1
+fore         	ná/ae	   1	   1
+gende        	na   	   1	   1
+gimi         	ne   	   1	   1
+inoke-yate   	na   	   1	   1
+kamano       	nä/a 	   1	   1
+siane        	ná/a 	   1	   1
+yaweyuha     	ne   	   1	   1
+yagaria      	da   	   1	  14
+awa          	ne   	   2	   1
+awiyaana     	kema 	   3	   3
+gadsup       	teni 	   7	   7
+tairora-north	tere 	  13	  13
+dano-asaro   	ná/a 	  16	   1
+fore         	ná/a 	  17	   1
+#
+Concept: 1210_HEAVY, False Positives: no, False Negatives: yes
+alekano      	gená/a     	   1	   1
+dano-asaro   	gé/eni     	   1	   1
+inoke-yate   	kana       	   1	   1
+kamano       	kä/ana     	   1	   1
+siane        	ké/einá/a  	   1	   1
+benabena     	ké/eta     	   1	   4
+fore         	kuntaː     	   1	   4
+gimi         	kudi       	   1	   4
+yagaria      	gatá/a     	   1	   4
+yaweyuha     	eda        	   1	   4
+gende        	kanuara    	   1	   8
+awa          	umehi      	   2	   2
+awiyaana     	umbaintai  	   3	   3
+gadsup       	umaniremni 	   7	   7
+tairora-north	maramentero	  13	  13
+#
+Concept: 1212_WE, False Positives: yes, False Negatives: yes
+alekano      	le      	   1	   1
+benabena     	lá/a    	   1	   1
+dano-asaro   	le      	   1	   1
+siane        	la      	   1	   1
+yagaria      	la      	   1	   1
+yaweyuha     	le      	   1	   1
+fore         	tá/ae   	   1	   6
+gende        	ta      	   1	   6
+inoke-yate   	ta      	   1	   6
+kamano       	tä/a    	   1	   6
+gimi         	re      	   1	   9
+awa          	ite     	   2	   2
+awiyaana     	kesama  	   3	   3
+gadsup       	jikenama	   7	   7
+tairora-north	tenabu  	  13	  13
+dano-asaro   	laá/a   	  16	   1
+fore         	tá/a    	  17	   6
+#
+Concept: 1214_THIS, False Positives: yes, False Negatives: yes
+alekano      	í/imaI/i	   1	   1
+benabena     	má/a    	   1	   4
+dano-asaro   	mé/e    	   1	   4
+fore         	má:/aː  	   1	   4
+inoke-yate   	ma      	   1	   4
+yagaria      	má/a    	   1	   4
+yaweyuha     	ma      	   1	   4
+kamano       	amá/ane 	   1	   7
+gimi         	kama    	   1	   9
+awa          	mahna   	   2	   2
+awiyaana     	maːnda  	   3	   3
+gadsup       	mana    	   7	   7
+gende        	ni      	   8	   8
+siane        	wa      	  12	  12
+tairora-north	maːna   	  13	   7
+benabena     	já/ama  	  16	  16
+inoke-yate   	ina     	  17	   7
+#
+Concept: 1216_MOTHER, False Positives: yes, False Negatives: yes
+alekano      	izó/o   	   1	   1
+dano-asaro   	izé/e   	   1	   1
+benabena     	itó/o   	   1	   4
+inoke-yate   	ita     	   1	   4
+yagaria      	í/ita   	   1	   4
+yaweyuha     	do      	   1	   4
+fore         	no      	   1	   6
+gimi         	nó/o    	   1	   6
+gende        	iowo    	   1	   8
+siane        	ó/o     	   1	  12
+awa          	nowa    	   2	   2
+awiyaana     	nowama  	   3	   2
+gadsup       	noi     	   7	   6
+kamano       	rera    	  11	  11
+tairora-north	nora    	  13	  13
+kamano       	ä/antá/a	  16	  16
+yagaria      	ila     	  17	  17
+#
+Concept: 1217_FATHER, False Positives: yes, False Negatives: yes
+alekano      	amé/e 	   1	   1
+dano-asaro   	mé/e  	   1	   1
+siane        	me    	   1	   1
+gende        	omo+wo	   1	   8
+awa          	bowa  	   2	   2
+awiyaana     	bowama	   3	   2
+benabena     	afó/o 	   4	   4
+inoke-yate   	fo    	   4	   4
+kamano       	fa    	   4	   4
+yagaria      	á/avo 	   4	   4
+fore         	baː   	   4	   6
+gimi         	bá/a  	   4	   6
+yaweyuha     	aho   	   4	  15
+gadsup       	poi   	   7	   6
+tairora-north	ora   	  13	  13
+#
+Concept: 1220_TAIL, False Positives: yes, False Negatives: yes
+alekano      	gá/asá/a  	   1	   1
+benabena     	ká/asa    	   1	   1
+yaweyuha     	aisa      	   1	  15
+awa          	ehwe      	   2	   2
+awiyaana     	ameraːmba 	   3	   3
+dano-asaro   	avá/asuvo 	   5	   5
+fore         	jaːwa     	   6	   6
+gende        	ajawa     	   6	   6
+gadsup       	ameni     	   7	   7
+gimi         	be        	   9	   9
+siane        	á/afowa   	   9	  12
+inoke-yate   	á/aigojá/a	  10	  10
+yagaria      	eí/igota  	  10	  10
+kamano       	rí/isona  	  11	  11
+tairora-north	beka      	  13	  13
+awa          	awe       	  16	   6
+fore         	á:/aːwa   	  17	   6
+#
+Concept: 1221_NOSE, False Positives: yes, False Negatives: yes
+alekano      	goká/a  	   1	   1
+benabena     	gó/olaga	   1	   1
+dano-asaro   	gó/o    	   1	   5
+siane        	ko      	   1	   5
+gende        	kumo    	   1	   8
+inoke-yate   	gojá/a  	   1	  10
+kamano       	gó/ona  	   1	  11
+yagaria      	gó/ota  	   1	  14
+yaweyuha     	okepa   	   1	  15
+awa          	abiah   	   2	   2
+awiyaana     	aia     	   3	   3
+fore         	mo      	   6	   6
+gadsup       	asii    	   7	   7
+gimi         	sigi    	   9	   9
+tairora-north	aii     	  13	   3
+#
+Concept: 1223_HEART, False Positives: yes, False Negatives: yes
+alekano      	gó/omohá/a 	   1	   1
+dano-asaro   	gomohó/o   	   1	   1
+siane        	kó/omo     	   1	   1
+yaweyuha     	oboha      	   1	  15
+awa          	awahbo     	   2	   2
+awiyaana     	amaːboːmba 	   3	   3
+benabena     	lutú/umopa 	   4	   4
+yagaria      	lú/utumopa 	   4	   4
+gimi         	rumopa     	   4	   9
+kamano       	tumo       	   4	  11
+fore         	mako       	   6	   6
+gadsup       	amukuni    	   7	   7
+gende        	kwia+ganua 	   8	   8
+inoke-yate   	ajamopa    	  10	   9
+tairora-north	muntuka    	  13	  13
+inoke-yate   	tú/umó/otia	  16	  11
+#
+Concept: 1224_LIVER, False Positives: yes, False Negatives: yes
+alekano      	mulú/u    	   1	   1
+siane        	mú/ulú/u  	   1	   1
+awa          	aru       	   2	   2
+awiyaana     	aruma     	   3	   2
+benabena     	luhá/aja  	   4	   4
+kamano       	sú/umä/ana	   4	  11
+dano-asaro   	hé/enive  	   5	   5
+fore         	u         	   6	   6
+gimi         	u         	   6	   6
+inoke-yate   	há/au     	   6	  10
+yagaria      	hoú/u     	   6	  10
+gadsup       	anonomi   	   7	   7
+gende        	kavu+gra  	   8	   8
+tairora-north	tubu      	  13	  13
+yaweyuha     	sili      	  15	  15
+dano-asaro   	gitihulu  	  16	  16
+#
+Concept: 1228_EARTH_SOIL, False Positives: yes, False Negatives: yes
+alekano      	miká/a   	   1	   1
+gende        	mikai    	   1	   1
+siane        	miká/a   	   1	   1
+yaweyuha     	mika     	   1	   1
+benabena     	mé/e     	   1	   4
+fore         	má/a     	   1	   4
+gimi         	ma       	   1	   4
+dano-asaro   	misú/umbo	   1	   5
+inoke-yate   	mó/opa   	   1	  10
+kamano       	mó/opa   	   1	  10
+yagaria      	í/igopa  	   1	  14
+awa          	marako   	   2	   2
+awiyaana     	marama   	   3	   2
+gadsup       	maka     	   7	   1
+tairora-north	bata     	  13	  13
+inoke-yate   	mene     	  16	  16
+#
+Concept: 1231_NEW, False Positives: yes, False Negatives: yes
+alekano      	gosohá/a  	   1	   1
+benabena     	kó/osava  	   1	   1
+dano-asaro   	gosohó/o  	   1	   1
+fore         	kaːsá:/aː 	   1	   1
+kamano       	kä/ahé/efa	   1	   1
+gimi         	esa       	   1	   9
+inoke-yate   	sofae     	   1	  10
+siane        	kó/ofawá/a	   1	  12
+yaweyuha     	ohatama   	   1	  15
+awa          	o         	   2	   2
+awiyaana     	aunama    	   3	   3
+gadsup       	onana     	   7	   7
+gende        	wuo       	   8	   8
+tairora-north	araːka    	  13	  13
+yagaria      	eí/igava  	  14	  14
+awa          	nauna     	  16	   7
+benabena     	juhú/ufa  	  17	  17
+fore         	aoso      	  18	   9
+gadsup       	ojami     	  19	  19
+inoke-yate   	já/aufae  	  20	  17
+kamano       	kä/asé/efa	  21	   1
+yagaria      	soú/uva   	  22	  10
+fore         	ibaː      	  23	  23
+inoke-yate   	meni      	  24	  24
+#
+Concept: 1233_NIGHT, False Positives: yes, False Negatives: yes
+alekano      	hó/olugú/u     	   1	   1
+benabena     	fó/olugu       	   1	   1
+dano-asaro   	hó/oluka       	   1	   1
+awa          	inokahpe       	   2	   2
+awiyaana     	nowamba        	   3	   3
+fore         	á/ase          	   6	   6
+gadsup       	ajupumi        	   7	   7
+gende        	nungwai+nambari	   8	   8
+gimi         	utuna          	   9	   9
+inoke-yate   	haniina        	  10	  10
+yagaria      	haní/i         	  10	  14
+kamano       	ké/enä/agere   	  11	  11
+siane        	lú/uwaila      	  12	  12
+yaweyuha     	lubuka         	  12	  15
+tairora-north	entaira        	  13	  13
+fore         	tare           	  16	  16
+gadsup       	nurambai       	  17	   3
+inoke-yate   	nauna          	  18	  10
+#
+Concept: 1235_WHO, False Positives: yes, False Negatives: yes
+alekano      	eaho    	   1	   1
+yaweyuha     	eka     	   1	   9
+awa          	entebo  	   2	   2
+awiyaana     	nawai   	   3	   3
+benabena     	kí/ijafu	   4	   4
+dano-asaro   	zá/aho  	   5	   5
+fore         	ke      	   6	   6
+gende        	koi     	   6	   6
+gimi         	keka    	   6	   9
+siane        	ké/ema  	   6	  12
+gadsup       	jepe    	   7	   7
+inoke-yate   	laae    	  10	  10
+kamano       	ajaé/e  	  11	  11
+tairora-north	tababe  	  13	  13
+yagaria      	nala    	  14	  14
+inoke-yate   	nalae   	  16	  14
+yagaria      	ga      	  17	   6
+inoke-yate   	taá/ae  	  18	  18
+yagaria      	gajo    	  19	   4
+#
+Concept: 1236_WHAT, False Positives: yes, False Negatives: yes
+alekano      	ná/a        	   1	   1
+dano-asaro   	na          	   1	   1
+fore         	naː         	   1	   1
+inoke-yate   	ná/ajane    	   1	   3
+kamano       	naané/e     	   1	   3
+siane        	né/ená/a    	   1	   3
+yaweyuha     	nena        	   1	   3
+gende        	nanawima    	   1	   8
+yagaria      	dá/a        	   1	  14
+awa          	ane         	   2	   2
+awiyaana     	nonei       	   3	   3
+benabena     	hé/ena      	   4	   2
+gadsup       	nepi        	   7	   7
+gimi         	erá/a       	   9	   9
+tairora-north	nana        	  13	   3
+fore         	aː          	  16	  16
+kamano       	í/ina+jú/upe	  17	  17
+yagaria      	heipa       	  18	  18
+#
+Concept: 1237_WHERE, False Positives: yes, False Negatives: yes
+alekano      	hi      	   1	   1
+benabena     	hí/ija  	   1	   2
+fore         	ae      	   1	   4
+gimi         	ae      	   1	   4
+inoke-yate   	hana    	   1	   7
+kamano       	ne      	   1	   8
+yagaria      	heí/ipa 	   1	  10
+dano-asaro   	zá/ala  	   3	   3
+gende        	nerea   	   5	   5
+siane        	é/engá/a	   9	   9
+yaweyuha     	nakaha  	  11	  11
+inoke-yate   	haija   	  12	   2
+#
+Concept: 1238_WHEN, False Positives: yes, False Negatives: no
+alekano      	nahe           	   1	   1
+benabena     	hé/ena+kaná/agu	   2	   2
+dano-asaro   	na+hé/e        	   3	   3
+fore         	ajaːntá/agá/a  	   4	   4
+gende        	namuru         	   5	   5
+gimi         	aekabi         	   6	   6
+inoke-yate   	ná/ajupa       	   7	   7
+kamano       	í/ina+jú/upe   	   8	   8
+siane        	né/enafé/ekó/o 	   9	   9
+yagaria      	dá/akana       	  10	  10
+yaweyuha     	nena+jupe      	  11	   8
+benabena     	hí/ija+kaná/agu	  12	   2
+inoke-yate   	haenune        	  13	  13
+siane        	né/ená/a+kamena	  14	  14
+yagaria      	heipa          	  15	  15
+yaweyuha     	nena+hekoi     	  16	  16
+#
+Concept: 123_FOREHEAD, False Positives: yes, False Negatives: yes
+alekano      	golihi    	   1	   1
+dano-asaro   	golihi    	   1	   1
+yaweyuha     	otipa     	   1	  15
+awa          	ajai      	   2	   2
+awiyaana     	auwejaːmba	   3	   3
+benabena     	kokó/ovisa	   4	   4
+fore         	ine       	   6	   6
+gimi         	di        	   6	   9
+gadsup       	apemi     	   7	   7
+gende        	puga      	   8	   8
+inoke-yate   	hani      	  10	   6
+kamano       	sé/eni    	  10	   6
+yagaria      	há/ani    	  10	   6
+siane        	ó/onó/omba	  12	  12
+tairora-north	tiri      	  13	  13
+yagaria      	guita     	  16	  16
+#
+Concept: 1240_NOT, False Positives: yes, False Negatives: yes
+alekano      	am      	   1	   1
+siane        	á/am    	   1	   1
+yaweyuha     	am      	   1	   1
+benabena     	me      	   1	   4
+dano-asaro   	mi      	   1	   4
+gende        	omoj    	   1	   8
+awa          	ire     	   2	   2
+awiyaana     	imani   	   3	   3
+fore         	kampá/a 	   6	   6
+gadsup       	ije     	   7	   7
+gimi         	kaká/are	   9	   9
+inoke-yate   	ɔ       	  10	  10
+kamano       	o       	  10	  10
+yagaria      	a       	  10	  10
+tairora-north	kia     	  13	  13
+fore         	á:/aː   	  16	  10
+#
+Concept: 1246_SMALL, False Positives: yes, False Negatives: yes
+alekano      	komá/a     	   1	   1
+dano-asaro   	ngó/omo    	   1	   1
+awa          	ma         	   2	   2
+awiyaana     	kitoa      	   3	   3
+benabena     	lagá/aso   	   4	   4
+fore         	amana      	   6	   6
+gimi         	habana     	   6	   9
+yagaria      	havá/ana   	   6	   9
+gadsup       	tsito      	   7	   3
+gende        	kengua     	   8	   8
+inoke-yate   	osi        	  10	  10
+kamano       	osí/i      	  10	  10
+siane        	ké/efó/o   	  12	  12
+tairora-north	inara      	  13	  13
+yaweyuha     	lasola     	  15	  15
+awa          	pehgari    	  16	  16
+benabena     	kitilí/iasi	  17	  17
+inoke-yate   	aese       	  18	  10
+kamano       	ó/onena    	  19	  19
+#
+Concept: 1247_EAR, False Positives: yes, False Negatives: yes
+alekano      	gá/atá/a	   1	   1
+gimi         	geta    	   1	   1
+yagaria      	gé/eta  	   1	   1
+yaweyuha     	ata     	   1	   1
+benabena     	é/ekesa 	   1	   4
+inoke-yate   	gé/esá/a	   1	   4
+kamano       	gé/esa  	   1	   4
+dano-asaro   	gá/a    	   1	   5
+fore         	ge      	   1	   5
+gende        	ka      	   1	   5
+siane        	ká/a    	   1	   5
+awa          	ahre    	   2	   2
+awiyaana     	aa      	   3	   3
+gadsup       	aːkami  	   7	   7
+tairora-north	aːto    	  13	   1
+fore         	gená/a  	  16	  16
+#
+Concept: 1248_EYE, False Positives: yes, False Negatives: yes
+alekano      	gó/omu    	   1	   1
+siane        	ó/omu     	   1	   1
+yaweyuha     	omuda     	   1	  15
+awa          	aura      	   2	   2
+awiyaana     	auramba   	   3	   3
+benabena     	bú/u      	   4	   4
+dano-asaro   	ve        	   4	   5
+fore         	o         	   4	   6
+gimi         	o         	   4	   6
+gende        	wi        	   4	   8
+inoke-yate   	ulegá/a   	   4	  10
+yagaria      	ulega     	   4	  10
+kamano       	vú/urä/aga	   4	  11
+gadsup       	okami     	   7	   1
+tairora-north	abu       	  13	   4
+#
+Concept: 1251_BELLY, False Positives: yes, False Negatives: yes
+alekano      	gá/atupá/a	   1	   1
+kamano       	rí/impa   	   1	  11
+awa          	amu       	   2	   2
+awiyaana     	amua      	   3	   2
+benabena     	mú/upa    	   4	   4
+dano-asaro   	mú/ulu    	   4	   5
+gende        	mura      	   4	   5
+fore         	ntaː      	   6	   6
+gimi         	da        	   6	   9
+gadsup       	amui      	   7	   2
+inoke-yate   	í/ipá/a   	  10	   4
+yagaria      	í/ipa     	  10	   4
+siane        	sí/i      	  12	  12
+tairora-north	auha      	  13	  13
+yaweyuha     	ohuma     	  15	  15
+siane        	mulu      	  16	   5
+#
+Concept: 1252_HOUSE, False Positives: yes, False Negatives: yes
+alekano      	numu    	   1	   1
+dano-asaro   	nú/umuno	   1	   1
+fore         	naːmá/a 	   1	   1
+gende        	nomu    	   1	   1
+gimi         	nama    	   1	   1
+siane        	nú/umú/u	   1	   1
+yaweyuha     	numuda  	   1	   1
+benabena     	nó/o    	   1	   2
+inoke-yate   	nó/o    	   1	   2
+kamano       	no      	   1	   2
+yagaria      	jó/ona  	   1	  14
+awa          	nah     	   2	   2
+awiyaana     	naːmba  	   3	   3
+gadsup       	mai     	   7	   7
+tairora-north	naːbu   	  13	   3
+fore         	ná:/aː  	  16	   2
+#
+Concept: 1256_HEAD, False Positives: yes, False Negatives: yes
+alekano      	gó/oto  	   1	   1
+dano-asaro   	gó/ondo 	   1	   1
+fore         	no      	   1	   6
+kamano       	nú/u    	   1	   6
+inoke-yate   	gé/enopa	   1	  10
+yagaria      	genopa  	   1	  10
+awa          	ajano   	   2	   2
+awiyaana     	anomba  	   3	   3
+benabena     	lá/ataha	   4	   4
+gadsup       	aːnomi  	   7	   3
+gende        	koi     	   8	   8
+gimi         	bido    	   9	   9
+siane        	má/ane  	   9	  12
+yaweyuha     	mado    	   9	  15
+tairora-north	ieta    	  13	  13
+siane        	á/ate   	  16	  13
+yagaria      	leta    	  17	   4
+#
+Concept: 1257_WING, False Positives: yes, False Negatives: yes
+alekano      	gó/oketá/a	   1	   1
+benabena     	ké/ekona  	   1	   1
+kamano       	gekó/ona  	   1	   1
+siane        	ó/oka     	   1	  10
+awa          	weto      	   2	   2
+awiyaana     	aijoima   	   3	   3
+dano-asaro   	holoké/eni	   5	   5
+fore         	gagá/a    	   6	   6
+gimi         	kaka      	   6	   6
+gadsup       	aːjami    	   7	   3
+gende        	kogiena   	   8	   1
+yaweyuha     	lasi      	   8	  15
+inoke-yate   	haku      	  10	  10
+yagaria      	há/aku    	  10	  10
+tairora-north	aroka     	  13	  13
+alekano      	gó/okena  	  16	   1
+inoke-yate   	agé/ekó/o 	  17	   6
+yaweyuha     	okana     	  18	   1
+#
+Concept: 1262_BROTHER, False Positives: no, False Negatives: yes
+alekano      	uvó/o  	   1	   1
+dano-asaro   	uvó/o  	   1	   1
+awa          	wahwa  	   2	   2
+awiyaana     	waoma  	   3	   3
+benabena     	gó/o   	   4	   4
+fore         	gaː    	   4	   4
+gimi         	ká/au  	   4	   4
+yagaria      	é/ego  	   4	  14
+gadsup       	bai    	   7	   7
+gende        	aja    	   8	   8
+siane        	já/a   	   8	   8
+inoke-yate   	né/epu 	  10	  10
+kamano       	mpu    	  10	  11
+tairora-north	bakaːra	  13	  13
+#
+Concept: 1263_SISTER, False Positives: yes, False Negatives: no
+alekano      	ato    	   1	   1
+benabena     	ató/o  	   1	   1
+dano-asaro   	á/ate  	   1	   1
+siane        	á/até/e	   1	   1
+yaweyuha     	ato    	   1	   1
+awa          	nane   	   2	   2
+awiyaana     	nanoa  	   3	   2
+fore         	noná/a 	   6	   2
+kamano       	nú/una 	   6	   2
+gadsup       	nanoi  	   7	   2
+gende        	apo    	   8	   8
+gimi         	sí/i   	   9	   9
+inoke-yate   	asa    	   9	   9
+yagaria      	sá/a   	   9	   9
+tairora-north	nakauba	  13	  13
+inoke-yate   	nú/una 	  16	   2
+#
+Concept: 1268_YES, False Positives: yes, False Negatives: yes
+alekano      	oó/o 	   1	   1
+dano-asaro   	ó/oo 	   1	   1
+benabena     	ó/o  	   1	   4
+fore         	o    	   1	   4
+siane        	ô/o  	   1	   4
+yaweyuha     	oː   	   1	   4
+kamano       	ojó/o	   1	   7
+gimi         	ehe  	   1	   9
+inoke-yate   	he   	   1	   9
+yagaria      	hé/e 	   1	   9
+awa          	kowe 	   2	   2
+awiyaana     	owe  	   3	   2
+gadsup       	ejo  	   7	   7
+gende        	oo   	   8	   1
+tairora-north	eo   	  13	   1
+benabena     	ó/ojo	  16	   7
+dano-asaro   	veː  	  17	  17
+fore         	e    	  18	   4
+gimi         	eː   	  19	   4
+inoke-yate   	o    	  20	   4
+fore         	je   	  21	   7
+#
+Concept: 1269_NO, False Positives: yes, False Negatives: yes
+alekano      	oé/e    	   1	   1
+benabena     	ó/oe    	   1	   1
+fore         	aa      	   1	   1
+kamano       	aó/o    	   1	   1
+siane        	ee      	   1	   1
+yagaria      	eé/e    	   1	   1
+yaweyuha     	oe      	   1	   1
+inoke-yate   	haá/ao  	   1	   2
+dano-asaro   	ó/ove   	   1	   5
+gende        	oːha    	   1	   8
+awa          	aao     	   2	   2
+awiyaana     	aau     	   3	   2
+gadsup       	ao      	   7	   1
+gimi         	kaká/are	   9	   9
+tairora-north	aau     	  13	   2
+alekano      	ové/e   	  16	   5
+fore         	kampá/a 	  17	  17
+gadsup       	ije     	  18	  18
+gende        	omou+ame	  19	  19
+inoke-yate   	oafijo  	  20	  20
+yaweyuha     	savaje  	  21	  20
+yaweyuha     	minam   	  22	  22
+#
+Concept: 1280_FALL, False Positives: yes, False Negatives: yes
+alekano      	lim           	   1	   1
+dano-asaro   	lé/emo+ó/ong  	   1	   5
+gende        	timi          	   1	   8
+siane        	olú/umó/o+wí/i	   1	  12
+yaweyuha     	lemo+j        	   1	  15
+awa          	inahnsubire   	   2	   2
+awiyaana     	kuntimba      	   3	   3
+benabena     	hó/o+ka       	   4	   4
+gimi         	heka          	   4	   9
+fore         	awá/arená/a   	   6	   6
+gadsup       	jandono       	   7	   7
+inoke-yate   	asalone+j     	  10	  10
+kamano       	trä/aká/a+hí/i	  11	  11
+tairora-north	ruutubiro     	  13	  13
+yagaria      	gotaveí/i     	  14	  14
+alekano      	vé/elé/ehé/e  	  16	  16
+dano-asaro   	velehe        	  17	  16
+fore         	egú/u         	  18	   9
+inoke-yate   	taká/a+l      	  19	  19
+inoke-yate   	alino         	  20	  20
+#
+Concept: 1287_COLD, False Positives: yes, False Negatives: yes
+alekano      	gehá/a     	   1	   1
+yaweyuha     	eha        	   1	   1
+dano-asaro   	hepe       	   1	   5
+siane        	epe        	   1	   5
+awa          	titiri     	   2	   2
+awiyaana     	taugwia    	   3	   3
+benabena     	ké/etipa   	   4	   4
+fore         	esibá:/aː  	   6	   6
+inoke-yate   	já/asi     	   6	  10
+kamano       	já/asi     	   6	  10
+yagaria      	já/asi     	   6	  10
+gadsup       	ironemi    	   7	   7
+gende        	ndandaranga	   8	   8
+gimi         	rane       	   8	   9
+tairora-north	antero     	  13	  13
+benabena     	jasi       	  16	  10
+fore         	tani       	  17	  17
+yagaria      	getipana   	  18	   4
+yaweyuha     	lasi       	  19	  19
+fore         	uguguja    	  20	  20
+yagaria      	lani       	  21	   9
+#
+Concept: 1289_BABY, False Positives: no, False Negatives: yes
+alekano      	namuní/i     	   1	   1
+siane        	ná/amuna     	   1	   1
+benabena     	inapu        	   1	   4
+yagaria      	hí/inapu     	   1	   4
+awa          	nahni        	   2	   2
+awiyaana     	umaramba     	   3	   3
+dano-asaro   	í/izipe      	   5	   5
+inoke-yate   	aese+mofane  	   5	  10
+kamano       	osi+mofrá/ave	   5	  11
+fore         	muru+ara     	   6	   6
+gadsup       	akainta      	   7	   7
+gende        	movori       	   8	   8
+gimi         	inau         	   9	   9
+tairora-north	naːti        	  13	  13
+yaweyuha     	aida         	  15	  15
+alekano      	izé/e        	  16	  16
+#
+Concept: 1292_BAD, False Positives: yes, False Negatives: no
+alekano      	golé/esá/a	   1	   1
+dano-asaro   	gó/oloso  	   1	   1
+awa          	ahbaba    	   2	   2
+awiyaana     	sawia     	   3	   3
+benabena     	siví/i    	   4	   3
+fore         	á:/aːta   	   6	   6
+gadsup       	tampi+memi	   7	   7
+gende        	mbriki    	   8	   8
+gimi         	kokure    	   9	   9
+inoke-yate   	haví/ija  	  10	  10
+kamano       	hä/aví/ija	  10	  10
+siane        	nó/osá/a  	  12	  12
+yaweyuha     	nosa      	  12	  12
+tairora-north	oraha     	  13	  13
+yagaria      	feí/ipa   	  14	  14
+benabena     	fó/oipa   	  16	  14
+#
+Concept: 1295_STICK, False Positives: yes, False Negatives: no
+alekano      	nogosá/aní/i	   1	   1
+awa          	tegara      	   2	   2
+awiyaana     	taːmba      	   3	   3
+benabena     	osá/a       	   4	   4
+fore         	á/asaː      	   4	   4
+dano-asaro   	gá/avoso    	   5	   5
+yagaria      	gavé/e      	   5	   5
+gadsup       	jaːmi       	   7	   7
+gende        	muturu      	   8	   8
+gimi         	zamu        	   9	   9
+inoke-yate   	kajó/o      	  10	  10
+kamano       	jó/ota      	  11	  11
+siane        	ó/oijó/o    	  12	  12
+yaweyuha     	oijo        	  12	  12
+tairora-north	kairia      	  13	  13
+dano-asaro   	zalekeseni  	  16	  16
+fore         	é/esaː      	  17	   4
+gende        	warange     	  18	  18
+yagaria      	fasuta      	  19	  19
+yagaria      	gatora      	  20	   8
+#
+Concept: 1313_MOON, False Positives: yes, False Negatives: yes
+alekano      	iká/a  	   1	   1
+benabena     	í/ika  	   1	   1
+inoke-yate   	í/ika  	   1	   1
+kamano       	í/ika  	   1	   1
+dano-asaro   	iké/eni	   1	   5
+siane        	í/ikana	   1	   5
+gimi         	ki     	   1	   9
+yagaria      	geí/i  	   1	   9
+yaweyuha     	ukada  	   1	  15
+awa          	ijo    	   2	   2
+awiyaana     	wijomba	   3	   3
+fore         	o      	   6	   6
+gadsup       	ikona  	   7	   5
+gende        	kozi   	   8	   8
+tairora-north	tora   	  13	  13
+inoke-yate   	kae    	  16	   9
+#
+Concept: 1329_TOMORROW, False Positives: yes, False Negatives: yes
+alekano      	azó/o    	   1	   1
+dano-asaro   	á/aize   	   1	   1
+benabena     	já/ago   	   1	   4
+fore         	ai       	   1	   6
+gimi         	aika     	   1	   9
+yaweyuha     	aijo     	   1	  15
+awa          	ahbijah  	   2	   2
+awiyaana     	apaja    	   3	   2
+gadsup       	kakana   	   7	   7
+gende        	migizango	   8	   8
+inoke-yate   	egá/a    	  10	   9
+yagaria      	é/ega    	  10	   9
+kamano       	okí/i    	  11	   9
+siane        	mé/eló/o 	  12	  12
+tairora-north	hura     	  13	  13
+#
+Concept: 1333_NECK, False Positives: yes, False Negatives: yes
+alekano      	luvá/a     	   1	   1
+dano-asaro   	luvó/o     	   1	   1
+awa          	anuo       	   2	   2
+awiyaana     	anuwaramba 	   3	   3
+yaweyuha     	eno        	   4	   2
+benabena     	ginú/upa   	   4	   4
+inoke-yate   	gunupa     	   4	   4
+kamano       	gé/ena     	   4	   4
+siane        	kenó/ombá/a	   4	   4
+yagaria      	gú/unupa   	   4	   4
+fore         	namu       	   6	   6
+gadsup       	anokami    	   7	   7
+gende        	nisa       	   8	   8
+gimi         	hae        	   9	   9
+tairora-north	aru        	  13	  13
+awiyaana     	awaima     	  16	  16
+fore         	nampi      	  17	  17
+gimi         	goma       	  18	  18
+inoke-yate   	goja       	  19	  19
+gimi         	naita      	  20	  20
+#
+Concept: 1335_WHITE, False Positives: yes, False Negatives: yes
+alekano      	ukuló/o   	   1	   1
+yaweyuha     	ukulo     	   1	   1
+gende        	kurua     	   1	   8
+awa          	tehjahntah	   2	   2
+awiyaana     	waiemba   	   3	   3
+benabena     	kigopa    	   4	   4
+siane        	kí/ijobá/a	   4	   4
+dano-asaro   	mokó/ono  	   5	   5
+fore         	wae       	   6	   6
+gimi         	beze      	   6	   9
+gadsup       	epani     	   7	   7
+inoke-yate   	é/efá/a   	  10	  10
+yagaria      	é/efe     	  10	  10
+kamano       	é/efeke   	  10	  11
+tairora-north	eara      	  13	  13
+alekano      	mokoná/a  	  16	   5
+benabena     	kohó/olina	  17	  17
+fore         	tabe      	  18	  18
+inoke-yate   	kalono    	  19	  17
+siane        	ó/oloto   	  20	  20
+yagaria      	vaje      	  21	  21
+yaweyuha     	ijopa     	  22	   4
+alekano      	gizopá/a  	  23	   4
+fore         	asasá:/aː 	  24	  24
+siane        	fé/eké/el 	  25	  11
+yagaria      	fai       	  26	   6
+#
+Concept: 1336_EAT, False Positives: yes, False Negatives: yes
+alekano      	n    	   1	   1
+benabena     	na   	   1	   1
+dano-asaro   	n    	   1	   1
+fore         	na   	   1	   1
+gende        	na   	   1	   1
+gimi         	na   	   1	   1
+inoke-yate   	n    	   1	   1
+kamano       	ne   	   1	   1
+siane        	n    	   1	   1
+yaweyuha     	n    	   1	   1
+yagaria      	dé/e 	   1	  14
+awa          	nahno	   2	   2
+awiyaana     	nare 	   3	   3
+gadsup       	naːno	   7	   2
+tairora-north	naːna	  13	   2
+#
+Concept: 1337_PIG, False Positives: yes, False Negatives: yes
+alekano      	izá/a   	   1	   1
+dano-asaro   	izé/e   	   1	   1
+yaweyuha     	ja      	   1	  15
+awa          	peorah  	   2	   2
+awiyaana     	poima   	   3	   3
+benabena     	jagá/a  	   4	   4
+fore         	jagaː   	   4	   4
+yagaria      	gajá/ale	   4	  14
+gadsup       	poni    	   7	   7
+gende        	poi     	   8	   3
+inoke-yate   	afu     	   8	  10
+kamano       	ä/afú/u 	   8	  10
+siane        	jafó/o  	   8	  10
+gimi         	ugunu   	   9	   9
+tairora-north	uara    	  13	  13
+yagaria      	fua     	  16	  16
+#
+Concept: 1339_MORNING, False Positives: yes, False Negatives: yes
+alekano      	neté/eká/a   	   1	   1
+inoke-yate   	naté/ene     	   1	   1
+benabena     	eté/e        	   1	   4
+yagaria      	deté/e       	   1	   4
+dano-asaro   	né/enenega   	   1	   5
+kamano       	nä/anté/erane	   1	  11
+yaweyuha     	nekeva       	   1	  15
+awa          	ahbiai       	   2	   2
+awiyaana     	aːbeama      	   3	   3
+fore         	aːbajaː      	   6	   6
+gadsup       	baːnudami    	   7	   7
+gende        	mim+kurari   	   8	   8
+gimi         	igibe        	   9	   9
+siane        	lê/endá/a    	  12	  12
+tairora-north	toai         	  13	  13
+dano-asaro   	né/edenga    	  16	   1
+#
+Concept: 1343_SUN, False Positives: yes, False Negatives: yes
+alekano      	hó/o    	   1	   1
+dano-asaro   	hó/o    	   1	   1
+gimi         	ho      	   1	   1
+yaweyuha     	ho      	   1	   1
+fore         	pa      	   1	   6
+gende        	po      	   1	   6
+siane        	fo      	   1	   6
+awa          	poponah 	   2	   2
+awiyaana     	aːbauma 	   3	   3
+benabena     	jegé/e  	   4	   4
+inoke-yate   	jegé/e  	   4	   4
+yagaria      	jegé/e  	   4	   4
+gadsup       	ikona   	   7	   7
+kamano       	jä/agé/e	  11	   4
+tairora-north	kauri   	  13	  13
+awa          	ijo     	  16	  16
+#
+Concept: 1352_KNIFE, False Positives: yes, False Negatives: yes
+alekano      	amí/ita 	   1	   1
+benabena     	é/emita 	   1	   1
+dano-asaro   	mité/e  	   1	   1
+yaweyuha     	emita   	   1	   1
+siane        	ê/emí/i 	   1	   9
+fore         	jogí/i  	   4	   4
+inoke-yate   	hagina  	   4	   7
+yagaria      	hagí/i  	   4	   7
+gende        	kovia   	   5	   5
+gimi         	sibuku  	   6	   6
+kamano       	kä/ají/i	   8	   8
+inoke-yate   	kaji    	  12	   8
+yaweyuha     	sopolo  	  13	  13
+inoke-yate   	kepa    	  14	   5
+#
+Concept: 1355_LAUGH, False Positives: yes, False Negatives: yes
+alekano      	gizá/a      	   1	   1
+dano-asaro   	gí/ize      	   1	   1
+benabena     	gijá/a      	   1	   4
+kamano       	kí/ija      	   1	   4
+siane        	kí/ija      	   1	   4
+yaweyuha     	ija         	   1	   4
+awa          	wireh+wirehi	   2	   2
+awiyaana     	wijaima     	   3	   3
+fore         	kagi        	   6	   6
+gimi         	koki        	   6	   6
+inoke-yate   	kigi        	   6	   6
+yagaria      	gí/igi      	   6	   6
+gende        	kwia        	   6	   8
+gadsup       	inteno      	   7	   7
+tairora-north	naraihiana  	  13	  13
+fore         	kwagi       	  16	   6
+yaweyuha     	ija         	  17	   4
+#
+Concept: 1366_BOY, False Positives: yes, False Negatives: yes
+alekano      	gipá/a        	   1	   1
+dano-asaro   	gipe          	   1	   1
+siane        	kî/ipá/a      	   1	   1
+yaweyuha     	ipa           	   1	   1
+awa          	animai        	   2	   2
+awiyaana     	ijampoi       	   3	   3
+benabena     	pá/ana        	   4	   4
+yagaria      	bá/ade        	   4	  14
+fore         	má/asi        	   6	   6
+gadsup       	anintai       	   7	   7
+gende        	movo          	   8	   8
+gimi         	ari           	   9	   9
+inoke-yate   	né/e          	  10	  10
+kamano       	né/e+mofrá/ave	  10	  11
+tairora-north	baintima      	  13	  13
+fore         	anenté/e      	  16	   7
+gimi         	mai           	  17	  17
+inoke-yate   	nevane        	  18	  18
+#
+Concept: 1371_KNEE, False Positives: yes, False Negatives: yes
+alekano      	ó/omú/uva	   1	   1
+dano-asaro   	ó/ombuvo 	   1	   1
+siane        	ú/umo    	   1	  12
+yaweyuha     	í/ibo    	   1	  15
+awa          	arau     	   2	   2
+awiyaana     	arauma   	   3	   3
+benabena     	lá/apusa 	   4	   4
+fore         	rá/a     	   6	   2
+gimi         	rae      	   6	   2
+inoke-yate   	lejá/a   	   6	  10
+kamano       	ré/ena   	   6	  11
+yagaria      	lé/eta   	   6	  14
+gadsup       	akona    	   7	   7
+gende        	koima    	   8	   8
+tairora-north	tori     	  13	  13
+fore         	raːwó/o  	  16	  16
+gadsup       	akoraumi 	  17	   3
+inoke-yate   	legeja   	  18	  10
+#
+Concept: 1380_TOOTH, False Positives: yes, False Negatives: yes
+alekano      	gepá/a    	   1	   1
+awa          	aweh+mouth	   2	   2
+awiyaana     	awaijaːmba	   3	   3
+benabena     	jogó/o    	   4	   4
+dano-asaro   	gá/avu    	   5	   1
+yaweyuha     	elava     	   5	  15
+fore         	wa        	   6	   6
+gende        	va        	   6	   8
+inoke-yate   	vé/e      	   6	   8
+kamano       	vé/e      	   6	   8
+gimi         	ba        	   6	   9
+gadsup       	abakuni   	   7	   7
+siane        	aumá/a    	  12	  12
+tairora-north	aːbai     	  13	  13
+yagaria      	haejapa   	  14	  14
+#
+Concept: 1392_LOUSE, False Positives: yes, False Negatives: yes
+alekano      	lilimá/a  	   1	   1
+dano-asaro   	sí/ilime  	   1	   1
+benabena     	namá/a    	   1	   4
+fore         	umaː      	   1	   4
+gende        	tinima    	   1	   4
+gimi         	nimi      	   1	   4
+inoke-yate   	namá/a    	   1	   4
+kamano       	hí/inä/ama	   1	   4
+siane        	né/emá/a  	   1	   4
+yagaria      	namá/a    	   1	   4
+yaweyuha     	nama      	   1	   4
+awa          	nu        	   2	   2
+awiyaana     	numba     	   3	   3
+gadsup       	numi      	   7	   4
+tairora-north	numa      	  13	   4
+fore         	numaː     	  16	   4
+#
+Concept: 1393_HORN_ANATOMY, False Positives: yes, False Negatives: no
+alekano      	sí/ipivá/a  	   1	   1
+yaweyuha     	sipija      	   1	   1
+benabena     	kó/omu      	   2	   2
+fore         	wa          	   3	   3
+gimi         	rá/akazaná/a	   4	   4
+inoke-yate   	vé/e        	   5	   5
+kamano       	vä/ají/ive  	   6	   6
+siane        	ká/aú/uwá/a 	   7	   7
+yagaria      	ló/okia     	   8	   8
+fore         	gasú/unaː   	  10	   4
+#
+Concept: 1394_BONE, False Positives: yes, False Negatives: yes
+alekano      	zá/amuzá/a  	   1	   1
+dano-asaro   	á/amuzo     	   1	   1
+fore         	jaːmpú/u    	   1	   6
+gende        	jami        	   1	   8
+inoke-yate   	já/amufá/a  	   1	   8
+gimi         	zapu        	   1	   9
+siane        	aumá/a      	   1	  12
+yagaria      	pu          	   1	  14
+yaweyuha     	abuha       	   1	  15
+awa          	ajahnta     	   2	   2
+awiyaana     	ajaːntamba  	   3	   3
+benabena     	fé/elisa    	   4	   4
+kamano       	jä/aferiná/a	   4	  11
+gadsup       	ajampai     	   7	   6
+tairora-north	buhaːrima   	  13	  13
+alekano      	helí/isá/a  	  16	   4
+#
+Concept: 1395_ROUND, False Positives: yes, False Negatives: yes
+alekano      	vego       	   1	   1
+inoke-yate   	vego       	   1	   1
+awa          	aiteh      	   2	   2
+awiyaana     	monumba    	   3	   3
+benabena     	tú/umo     	   4	   4
+kamano       	tupó/o     	   4	  11
+yaweyuha     	lubola     	   4	  15
+dano-asaro   	vó/ondo    	   5	   5
+yagaria      	bó/onu     	   5	  14
+fore         	arogú/u    	   6	   6
+gadsup       	amui       	   7	   7
+gende        	boma       	   8	   8
+siane        	fouma      	   8	   8
+gimi         	omukoko    	   9	   9
+tairora-north	potariboara	  13	  13
+alekano      	hó/oumá/a  	  16	  16
+fore         	vé/ego     	  17	   1
+inoke-yate   	tufo       	  18	  11
+yagaria      	ká/agi     	  19	  19
+inoke-yate   	ká/agi     	  20	  19
+#
+Concept: 1401_DRINK, False Positives: yes, False Negatives: yes
+alekano      	n    	   1	   1
+benabena     	na   	   1	   1
+dano-asaro   	n    	   1	   1
+fore         	na   	   1	   1
+gende        	na   	   1	   1
+gimi         	ná/a 	   1	   1
+inoke-yate   	n    	   1	   1
+kamano       	ne   	   1	   1
+siane        	n    	   1	   1
+yaweyuha     	n    	   1	   1
+yagaria      	dé/e 	   1	  14
+awa          	nahno	   2	   2
+awiyaana     	nare 	   3	   3
+gadsup       	naːno	   7	   2
+tairora-north	naːna	  13	   2
+#
+Concept: 1402_BREAST, False Positives: yes, False Negatives: yes
+alekano      	amí/i  	   1	   1
+dano-asaro   	á/ami  	   1	   1
+gende        	ami    	   1	   1
+gimi         	ame    	   1	   1
+kamano       	ami    	   1	   1
+siane        	á/amí/i	   1	   1
+benabena     	á/amiha	   1	   4
+yaweyuha     	amida  	   1	   4
+awa          	nah    	   2	   2
+awiyaana     	naːmba 	   3	   3
+fore         	nó/ono 	   6	   6
+inoke-yate   	nu     	   6	  10
+yagaria      	dú/u   	   6	  14
+gadsup       	naːmi  	   7	   1
+tairora-north	naːma  	  13	   1
+gimi         	ami    	  16	   1
+inoke-yate   	ami    	  17	   1
+#
+Concept: 1403_BITE, False Positives: yes, False Negatives: yes
+alekano      	á/akohú/u     	   1	   1
+gende        	gotu          	   1	   8
+yaweyuha     	koh           	   1	  15
+awa          	ungije        	   2	   2
+awiyaana     	unkara        	   3	   2
+benabena     	hé/eni        	   4	   4
+inoke-yate   	hae           	   4	  10
+yagaria      	haé/e         	   4	  10
+dano-asaro   	mbí/il        	   5	   5
+kamano       	mpri          	   5	  11
+gimi         	ona           	   6	   4
+fore         	ba+na         	   6	   6
+siane        	n             	   6	  12
+gadsup       	unkano        	   7	   2
+tairora-north	kaaka         	  13	  13
+alekano      	á/akohú/u+pil 	  16	   1
+inoke-yate   	n             	  17	  12
+siane        	á/adalá/a+ó/of	  18	  18
+yaweyuha     	ud            	  19	  19
+#
+Concept: 1405_NAME, False Positives: yes, False Negatives: yes
+alekano      	gulí/izá/a	   1	   1
+dano-asaro   	gú/ulive  	   1	   1
+benabena     	gí/i      	   1	   4
+fore         	ge        	   1	   4
+inoke-yate   	agí/i     	   1	   4
+kamano       	gí/i      	   1	   4
+yagaria      	gí/i      	   1	   4
+gende        	kuri      	   1	   8
+gimi         	keke      	   1	   9
+siane        	kú/ulí/i  	   1	  12
+yaweyuha     	uli       	   1	  12
+awa          	awi       	   2	   2
+awiyaana     	awia      	   3	   2
+gadsup       	abii      	   7	   7
+tairora-north	autu      	  13	  13
+#
+Concept: 1408_HEAR, False Positives: yes, False Negatives: yes
+alekano      	gil     	   1	   1
+dano-asaro   	gé/el   	   1	   1
+siane        	kó/ol   	   1	   1
+yaweyuha     	el      	   1	   1
+benabena     	kehé/eli	   1	   4
+gende        	egeri   	   1	   8
+awa          	iro     	   2	   2
+awiyaana     	enisa   	   3	   3
+fore         	bi      	   6	   6
+gadsup       	indeu   	   7	   7
+gimi         	he      	   9	   9
+kamano       	ntä/ahi 	   9	  11
+inoke-yate   	hav     	  10	  10
+tairora-north	iri     	  13	   2
+yagaria      	haví/i  	  14	  10
+inoke-yate   	af      	  16	  16
+#
+Concept: 1409_SEE, False Positives: yes, False Negatives: yes
+alekano      	ní/ig  	   1	   1
+dano-asaro   	ning   	   1	   1
+awa          	tagaho 	   2	   2
+awiyaana     	awanao 	   3	   3
+benabena     	ga     	   4	   4
+fore         	ga     	   4	   4
+gimi         	ga     	   4	   4
+inoke-yate   	g      	   4	   4
+kamano       	ge     	   4	   4
+siane        	k      	   4	   4
+yagaria      	ge     	   4	   4
+gende        	kwa    	   4	   8
+gadsup       	onaːno 	   7	   7
+tairora-north	tabaːna	  13	  13
+yaweyuha     	mud    	  15	  15
+gende        	kwa    	  16	   8
+siane        	é/ej   	  17	  17
+gende        	uga    	  18	  18
+#
+Concept: 1410_KNOW_SOMETHING, False Positives: yes, False Negatives: yes
+alekano      	gel     	   1	   1
+dano-asaro   	gé/el   	   1	   1
+gende        	kiri    	   1	   2
+benabena     	kehé/eli	   1	   4
+yaweyuha     	ele     	   1	  15
+awa          	iro     	   2	   2
+awiyaana     	enisa   	   3	   3
+fore         	bi      	   6	   6
+gadsup       	indeu   	   7	   7
+gimi         	he      	   9	   9
+inoke-yate   	hav     	   9	  10
+yagaria      	havi    	   9	  10
+kamano       	ntä/ahi 	  11	  11
+siane        	k       	  11	  12
+tairora-north	iri     	  13	   2
+siane        	é/ej    	  16	  16
+#
+Concept: 1416_SIT, False Positives: yes, False Negatives: yes
+alekano      	min      	   1	   1
+benabena     	mí/ina   	   1	   1
+kamano       	mä/aní/iø	   1	   1
+siane        	amé/end  	   1	  12
+awa          	maratuo  	   2	   2
+awiyaana     	maramai  	   3	   2
+dano-asaro   	ø        	   5	   5
+yaweyuha     	ø        	   5	   5
+fore         	mí/i     	   6	   6
+inoke-yate   	mai      	   6	   6
+gimi         	miri     	   6	   9
+yagaria      	bei      	   6	  14
+gadsup       	kumandeno	   7	   7
+gende        	tuv      	   8	   8
+tairora-north	oubuana  	  13	  13
+benabena     	luga+fi  	  16	  16
+inoke-yate   	fi+má/ai 	  17	  17
+#
+Concept: 1417_KILL, False Positives: yes, False Negatives: yes
+alekano      	pel       	   1	   1
+dano-asaro   	mbé/el    	   1	   1
+gende        	mbrene+pri	   1	   8
+awa          	subio     	   2	   2
+awiyaana     	tufuo     	   3	   3
+benabena     	hó/o      	   4	   4
+gimi         	ha        	   4	   4
+inoke-yate   	he        	   4	   4
+kamano       	hé/e      	   4	   4
+fore         	egú/u     	   6	   6
+yagaria      	begí/i    	   6	   6
+gadsup       	arei      	   7	   7
+siane        	ó/ofó/o   	  12	  12
+tairora-north	ubiro     	  13	  13
+yaweyuha     	ko        	  15	  15
+inoke-yate   	amag      	  16	  16
+tairora-north	are       	  17	   7
+#
+Concept: 1424_YELLOW, False Positives: yes, False Negatives: yes
+alekano      	gí/ihuká/a       	   1	   1
+dano-asaro   	gihungó/o        	   1	   1
+yaweyuha     	sihuka           	   1	   1
+awa          	pehja            	   2	   2
+awiyaana     	sebomba          	   3	   3
+benabena     	sá/atu           	   4	   4
+fore         	jaːgigú/u        	   6	   6
+gadsup       	mijunawanemi     	   7	   7
+gende        	kwitava          	   8	   8
+gimi         	komoru           	   9	   9
+yagaria      	gamó/olu         	   9	   9
+siane        	kó/omú/ulé/engé/e	   9	  12
+inoke-yate   	kilejane         	  10	  10
+kamano       	kaninkrú/u       	  11	  11
+tairora-north	tatabaua         	  13	  13
+fore         	mopá/ai          	  16	  16
+inoke-yate   	ujaalene         	  17	  17
+yagaria      	egevu            	  18	  18
+inoke-yate   	kanaleti         	  19	  19
+yagaria      	gadipa           	  20	   8
+#
+Concept: 1425_GREEN, False Positives: yes, False Negatives: yes
+alekano      	gihí/isí/igó/o	   1	   1
+benabena     	kifí/ija      	   1	   4
+awa          	aukaka        	   2	   2
+awiyaana     	sokomba       	   3	   3
+dano-asaro   	zaví/ile      	   5	   5
+fore         	jaːntaː       	   6	   6
+gadsup       	janamanai     	   7	   7
+gende        	ndengenengru  	   8	   8
+gimi         	zasikaka      	   9	   2
+inoke-yate   	jó/osa+hai    	   9	  10
+kamano       	já/afasí/inage	  11	  11
+siane        	já/ailakó/o   	  12	  12
+tairora-north	bukana        	  13	  13
+yagaria      	eí/igava      	  14	  14
+yaweyuha     	ohugo         	  15	  15
+benabena     	agó/o         	  16	  16
+inoke-yate   	aekifatilija  	  17	  17
+yagaria      	já/ava+haé/eja	  18	  18
+yaweyuha     	makililivago  	  19	  19
+yagaria      	gavú/u+haé/eja	  20	  18
+#
+Concept: 1429_FULL, False Positives: no, False Negatives: yes
+alekano      	vaí/i           	   1	   1
+dano-asaro   	vá/ai           	   1	   1
+benabena     	vaí/i+tó/oehive 	   1	   4
+fore         	awaitá/a        	   1	   6
+inoke-yate   	há/avá/ate      	   1	   6
+yagaria      	haveí/ite       	   1	   6
+gende        	vaitai          	   1	   8
+kamano       	vité/e          	   1	   8
+siane        	fait            	   1	   8
+yaweyuha     	vaito           	   1	   8
+gimi         	ibirí/i         	   1	   9
+awa          	orapeh          	   2	   2
+awiyaana     	ogwitarai       	   3	   3
+gadsup       	ubikemi         	   7	   7
+tairora-north	mpiero          	  13	  13
+fore         	pumae           	  16	  16
+yagaria      	beida+gilipaedae	  17	  17
+#
+Concept: 1430_STAR, False Positives: yes, False Negatives: yes
+alekano      	sonó/ohí/i 	   1	   1
+dano-asaro   	sonohí/i   	   1	   1
+yaweyuha     	sonohi     	   1	   1
+benabena     	sonó/ofi   	   1	   4
+kamano       	hä/aná/afi 	   1	   4
+awa          	o          	   2	   2
+awiyaana     	oa         	   3	   3
+fore         	norí/i     	   6	   6
+gadsup       	bajo       	   7	   7
+gende        	joroi      	   8	   8
+gimi         	obu        	   9	   9
+inoke-yate   	kané/efi   	  10	   4
+yagaria      	ganeví/i   	  10	   4
+siane        	ú/ukú/ulú/u	  12	  12
+tairora-north	opu        	  13	   9
+awa          	wehjo      	  16	  16
+fore         	obú/u      	  17	   9
+gende        	mbei       	  18	  18
+inoke-yate   	sanafi     	  19	   4
+kamano       	ó/ofu      	  20	   9
+tairora-north	bahoura    	  21	  21
+fore         	imaːré/eja 	  22	  22
+#
+Concept: 1433_HIT, False Positives: no, False Negatives: yes
+alekano      	pil    	   1	   1
+dano-asaro   	mbel   	   1	   1
+benabena     	ha     	   2	   2
+gimi         	ha     	   2	   2
+kamano       	he     	   2	   2
+fore         	egú/u  	   4	   4
+yagaria      	begí/i 	   4	   4
+inoke-yate   	amag   	   4	   7
+gende        	ruvi   	   5	   5
+siane        	ó/of   	   9	   9
+yaweyuha     	koh    	  11	  11
+fore         	aruti  	  12	  12
+gende        	mbrinua	  13	  13
+inoke-yate   	l      	  14	  14
+#
+Concept: 1439_SWIM, False Positives: no, False Negatives: yes
+alekano      	galanó/ogosá/a	   1	   1
+dano-asaro   	gú/ulanese    	   1	   1
+gimi         	nó/okosa      	   1	   6
+inoke-yate   	nagosa        	   1	   6
+yagaria      	dagó/osa      	   1	   6
+benabena     	ka            	   2	   2
+fore         	nasi          	   4	   4
+gende        	kuruma+karawi 	   5	   5
+kamano       	fré/e         	   8	   8
+siane        	w             	   9	   9
+yaweyuha     	asoda         	  11	  11
+#
+Concept: 1441_FLY_MOVE_THROUGH_AIR, False Positives: no, False Negatives: yes
+alekano      	atal          	   1	   1
+dano-asaro   	paté/elo      	   1	   1
+awa          	puwambua      	   2	   2
+awiyaana     	ararabena+kore	   3	   3
+benabena     	hé/eloto+vi   	   4	   4
+inoke-yate   	halé/eno+v    	   4	   4
+kamano       	hré/eno+ví/i  	   4	  11
+yagaria      	halé/e        	   4	  14
+fore         	para          	   6	   6
+siane        	bú/ul         	   6	  12
+gadsup       	akemi         	   7	   7
+gende        	agara         	   8	   8
+gimi         	habete+ba     	   9	   9
+tairora-north	ataberero     	  13	  13
+yaweyuha     	ololoko+v     	  15	  15
+#
+Concept: 1442_STAND, False Positives: yes, False Negatives: yes
+alekano      	t        	   1	   1
+benabena     	hó/o+ti  	   1	   4
+dano-asaro   	ot       	   1	   5
+inoke-yate   	heti     	   1	  10
+kamano       	oti      	   1	  10
+yagaria      	hetí/i   	   1	  10
+awa          	irigaho  	   2	   2
+awiyaana     	usasina  	   3	   3
+fore         	así/i    	   6	   6
+gadsup       	akukaːno 	   7	   7
+gende        	oro      	   8	   8
+gimi         	ari      	   9	   8
+siane        	né/eind  	  12	  12
+tairora-north	himpuaːna	  13	  13
+yaweyuha     	sin      	  15	  15
+fore         	asorí/i  	  16	  16
+#
+Concept: 1443_WALK, False Positives: yes, False Negatives: yes
+alekano      	mohó/oná/a	   1	   1
+dano-asaro   	mon       	   1	   5
+siane        	mó/oin    	   1	   5
+yaweyuha     	mon       	   1	   5
+yagaria      	humon     	   1	  14
+awa          	pokai     	   2	   2
+awiyaana     	koro      	   3	   3
+benabena     	mala      	   4	   4
+fore         	nasi      	   6	   6
+gimi         	nese      	   6	   6
+gadsup       	bono      	   7	   7
+gende        	vi        	   8	   8
+inoke-yate   	v         	   8	   8
+kamano       	vano      	  11	   7
+tairora-north	buana     	  13	   7
+inoke-yate   	vai       	  16	   8
+#
+Concept: 1446_COME, False Positives: yes, False Negatives: no
+alekano      	ø     	   1	   1
+benabena     	a     	   1	   1
+dano-asaro   	ø     	   1	   1
+gende        	a     	   1	   1
+inoke-yate   	ø     	   1	   1
+kamano       	e     	   1	   1
+siane        	ø     	   1	   1
+yagaria      	e     	   1	   1
+awa          	tije  	   2	   2
+awiyaana     	tijo  	   3	   2
+fore         	kana  	   6	   6
+gimi         	kana  	   6	   6
+gadsup       	jeno  	   7	   7
+tairora-north	aniena	  13	  13
+yaweyuha     	nis   	  15	  15
+gende        	pa    	  16	  16
+#
+Concept: 1447_GIVE, False Positives: yes, False Negatives: yes
+alekano      	m    	   1	   1
+benabena     	m    	   1	   1
+dano-asaro   	m    	   1	   1
+fore         	mi   	   1	   1
+gimi         	me   	   1	   1
+inoke-yate   	m    	   1	   1
+kamano       	mi   	   1	   1
+yagaria      	mí/i 	   1	   1
+yaweyuha     	m    	   1	   1
+gende        	imi  	   1	   3
+siane        	ó/om 	   1	  12
+awa          	awi  	   2	   2
+awiyaana     	ami  	   3	   3
+gadsup       	ameno	   7	   7
+tairora-north	amina	  13	   7
+#
+Concept: 1458_SAY, False Positives: yes, False Negatives: yes
+alekano      	l      	   1	   1
+benabena     	li     	   1	   1
+dano-asaro   	l      	   1	   1
+siane        	l      	   1	   1
+yaweyuha     	l      	   1	   1
+gende        	ti     	   1	   8
+awa          	iraruwo	   2	   2
+awiyaana     	sijo   	   3	   3
+fore         	i      	   6	   6
+gadsup       	seu    	   7	   7
+gimi         	kainá/a	   9	   9
+inoke-yate   	h      	  10	  10
+kamano       	hi     	  10	  10
+yagaria      	hu     	  10	  10
+tairora-north	tiena  	  13	  13
+fore         	kai    	  16	   9
+gende        	ti     	  17	   8
+fore         	si     	  18	   7
+#
+Concept: 146_SUGAR_CANE, False Positives: no, False Negatives: yes
+alekano      	zahí/i  	   1	   1
+benabena     	já/afi  	   1	   4
+fore         	jaːbú/u 	   1	   4
+inoke-yate   	jofe    	   1	   4
+kamano       	jä/afó/o	   1	   4
+dano-asaro   	á/avoso 	   1	   5
+gende        	lavi    	   1	   8
+siane        	á/afó/o 	   1	   8
+yagaria      	é/eve   	   1	   8
+gimi         	zabi    	   1	   9
+yaweyuha     	jahu    	   1	  15
+awa          	tah     	   2	   2
+awiyaana     	taːa    	   3	   3
+gadsup       	jaːi    	   7	   7
+tairora-north	kaːa    	  13	  13
+#
+Concept: 1482_SHOULDER, False Positives: yes, False Negatives: yes
+alekano      	gata   	   1	   1
+dano-asaro   	gá/ata 	   1	   1
+yagaria      	gí/ida 	   1	   1
+inoke-yate   	gina   	   1	  10
+awa          	ako    	   2	   2
+awiyaana     	ajoima 	   3	   3
+benabena     	já/ake 	   4	   2
+siane        	á/akí/i	   4	   2
+fore         	bo     	   6	   6
+kamano       	fú/u   	   6	  11
+gadsup       	apumi  	   7	   7
+gende        	bokia  	   8	   8
+gimi         	koza   	   9	   9
+tairora-north	kururu 	  13	  13
+yaweyuha     	ele    	  15	  15
+alekano      	gina   	  16	  10
+inoke-yate   	afune  	  17	  17
+kamano       	jó/ona 	  18	  18
+inoke-yate   	jona   	  19	  18
+#
+Concept: 1489_CLOUD, False Positives: yes, False Negatives: yes
+alekano      	lí/imusí/i  	   1	   1
+dano-asaro   	lí/imuso    	   1	   1
+siane        	lî/imú/u    	   1	   1
+yaweyuha     	limu        	   1	   1
+gende        	tumi        	   1	   8
+awa          	irabuja     	   2	   2
+awiyaana     	ainamba     	   3	   3
+benabena     	sopó/o      	   4	   4
+kamano       	hä/ampó/o   	   4	   4
+fore         	ibiná/a     	   6	   6
+gadsup       	konama      	   7	   7
+gimi         	biki        	   9	   9
+inoke-yate   	hija        	  10	  10
+yagaria      	hí/ija      	  10	  10
+tairora-north	tonabu      	  13	  13
+fore         	iraːgi      	  16	  16
+gadsup       	ajoni       	  17	  17
+gimi         	onu         	  18	  18
+inoke-yate   	hapo        	  19	   4
+kamano       	korí/iempana	  20	  20
+fore         	kisana      	  21	  21
+inoke-yate   	sá/a        	  22	  22
+#
+Concept: 1490_RAT, False Positives: yes, False Negatives: yes
+alekano      	gahá/a     	   1	   1
+benabena     	kafá/a     	   1	   4
+inoke-yate   	kafá/a     	   1	   4
+kamano       	kä/afá/a   	   1	   4
+awa          	umo        	   2	   2
+awiyaana     	waima      	   3	   3
+dano-asaro   	só/ongoloni	   5	   5
+fore         	ú/umu      	   6	   2
+yagaria      	hamú/u     	   6	   2
+gadsup       	bai        	   7	   7
+gende        	mito       	   8	   8
+gimi         	atumi      	   9	   9
+siane        	kuné/embé/e	  12	  12
+tairora-north	tubura     	  13	  13
+yaweyuha     	ukela      	  15	  15
+#
+Concept: 1493_ONE, False Positives: yes, False Negatives: yes
+alekano      	hamó/o    	   1	   1
+awa          	mora      	   2	   2
+awiyaana     	morama    	   3	   2
+benabena     	mó/one    	   4	   4
+dano-asaro   	hamó/o    	   5	   1
+fore         	ká:/aː    	   6	   6
+gadsup       	manaː     	   7	   4
+gende        	karama    	   8	   8
+gimi         	kika      	   9	   9
+inoke-yate   	magó/o    	  10	  10
+kamano       	mä/agó/o  	  10	  10
+yaweyuha     	mako      	  10	  10
+yagaria      	bogó/o    	  10	  14
+siane        	lá/awo    	  12	  12
+tairora-north	bohaia    	  13	  13
+alekano      	mako      	  16	  10
+fore         	ká:/aːno  	  17	  17
+inoke-yate   	nagó/o    	  18	  18
+kamano       	nä/agó/oke	  19	  18
+#
+Concept: 1498_TWO, False Positives: yes, False Negatives: yes
+alekano      	ló/osi   	   1	   1
+dano-asaro   	sita     	   1	   5
+awa          	tahtare  	   2	   2
+awiyaana     	kaia     	   3	   3
+benabena     	loé/e    	   4	   4
+yaweyuha     	love     	   4	  15
+fore         	tara     	   6	   6
+inoke-yate   	tó/ole   	   6	   6
+kamano       	tá/aré/e 	   6	   6
+gimi         	rare     	   6	   9
+siane        	lele     	   6	  12
+yagaria      	ló/ole   	   6	  12
+gadsup       	kaːntani 	   7	   7
+gende        	ogondrari	   8	   8
+tairora-north	taːraanta	  13	  13
+yaweyuha     	lowe     	  16	  15
+#
+Concept: 1500_FOUR, False Positives: yes, False Negatives: no
+alekano      	ló/osivé/e+ló/osivé/e    	   1	   1
+awa          	tapotahpa                	   2	   2
+awiyaana     	ejimba                   	   3	   3
+benabena     	loé/e+já/agi+loé/e+já/agi	   4	   4
+dano-asaro   	setá/ave+setá/ave        	   5	   5
+fore         	tarawa+tarawakí/i        	   6	   6
+gadsup       	eribami                  	   7	   7
+gende        	ereguiei                 	   8	   8
+gimi         	rarebete+rarebete        	   9	   9
+inoke-yate   	tó/olegí/i+tó/olegí/i    	  10	  10
+kamano       	tá/aregi+tá/aregi        	  11	  10
+siane        	lelei+lelei              	  12	  12
+tairora-north	taraanta                 	  13	  13
+yagaria      	lolé/eee+lolé/ee         	  14	  12
+yaweyuha     	loveki+loveki            	  15	  15
+#
+Concept: 1510_CHIN, False Positives: yes, False Negatives: yes
+alekano      	ó/omú/uva    	   1	   1
+dano-asaro   	ombuvo       	   1	   1
+awa          	awai         	   2	   2
+awiyaana     	amaimba      	   3	   3
+benabena     	ipa          	   4	   4
+fore         	maːgí/i      	   6	   6
+gende        	magi         	   6	   6
+gimi         	mami         	   6	   9
+gadsup       	anaːnaːni    	   7	   7
+inoke-yate   	vé/emá/a     	  10	  10
+kamano       	gé/emä/ajampa	  11	   3
+yagaria      	vé/etata     	  11	  14
+siane        	mainá/a      	  12	  12
+tairora-north	maːtiri      	  13	  13
+yaweyuha     	imila        	  15	  15
+awa          	awehi        	  16	   2
+yagaria      	meta         	  17	  13
+#
+Concept: 1515_TEN, False Positives: yes, False Negatives: no
+alekano      	ligizá/aní/i+lugá/a+lugá/a+asú/u+igó/o	   1	   1
+awa          	tahjate                               	   2	   2
+awiyaana     	sijankai                              	   3	   3
+benabena     	najá/ahi+lú/uga+lú/uga+sú/u+há/ago    	   4	   4
+dano-asaro   	nde+hé/ele+hé/ela+okú/u+livó/o        	   5	   5
+fore         	najaː+tá/aramu                        	   6	   6
+gadsup       	tijankani                             	   7	   3
+gende        	jetuma                                	   8	   8
+gimi         	nazatare                              	   9	   9
+inoke-yate   	ná/aja+tó/ole                         	  10	   6
+kamano       	nä/ajá/antremá/aa                     	  11	  11
+siane        	á/andé/e+fí/iligá/a                   	  12	  12
+tairora-north	kauuruntanta                          	  13	  13
+yagaria      	dá/anita+lolé/ea                      	  14	  14
+yaweyuha     	lade+maloka+maloka+suvoko             	  15	  15
+#
+Concept: 1519_RUN, False Positives: yes, False Negatives: yes
+alekano      	oló/olú/u 	   1	   1
+benabena     	hó/ololu  	   1	   1
+siane        	ó/olú/ul  	   1	   1
+dano-asaro   	ló/oti    	   1	   5
+yaweyuha     	lolosa    	   1	  15
+awa          	pehirahnuo	   2	   2
+awiyaana     	isaisi    	   3	   3
+fore         	karusi    	   6	   6
+gimi         	karu      	   6	   6
+gadsup       	ijajono   	   7	   7
+gende        	pguti     	   8	   8
+kamano       	r         	   8	  11
+inoke-yate   	jé/e      	  10	  10
+tairora-north	kantaːna  	  13	  13
+yagaria      	dú/ugu    	  14	  14
+fore         	pigó/osu  	  16	  16
+inoke-yate   	nagu      	  17	  17
+yagaria      	gupa      	  18	  18
+yagaria      	guru      	  19	   6
+#
+Concept: 1533_BE_HUNGRY, False Positives: yes, False Negatives: yes
+alekano      	gá/auná/a        	   1	   1
+benabena     	ká/auna          	   1	   1
+dano-asaro   	gá/ana           	   1	   1
+fore         	gaːé/e           	   1	   6
+inoke-yate   	ga               	   1	   6
+kamano       	gá/a             	   1	   6
+yagaria      	gá/a             	   1	   6
+gende        	jagai+pri        	   1	   8
+awa          	arubipi          	   2	   2
+awiyaana     	ainkwankai       	   3	   3
+gadsup       	tanidebagu       	   7	   7
+gimi         	ao               	   9	   9
+siane        	ká/andú/uná/amú/u	  12	  12
+yaweyuha     	nodekumu         	  12	  15
+tairora-north	naːtaːmiru       	  13	  13
+fore         	gaː              	  16	   6
+#
+Concept: 1554_MAN, False Positives: yes, False Negatives: yes
+alekano      	ve    	   1	   1
+benabena     	vó/o  	   1	   1
+dano-asaro   	ve    	   1	   1
+gende        	vei   	   1	   1
+inoke-yate   	ve    	   1	   1
+kamano       	ve    	   1	   1
+yagaria      	vé/e  	   1	   1
+yaweyuha     	ve    	   1	   1
+fore         	wá/a  	   1	   2
+siane        	wé/e  	   1	   2
+gimi         	bana  	   1	   9
+awa          	weh   	   2	   2
+awiyaana     	kwaima	   3	   3
+gadsup       	banta 	   7	   7
+tairora-north	bainti	  13	   7
+gende        	vei   	  16	   1
+inoke-yate   	ví/ie 	  17	   1
+gende        	vana  	  18	   9
+#
+Concept: 156_RED, False Positives: yes, False Negatives: yes
+alekano      	golohá/a   	   1	   1
+dano-asaro   	gulehé/e   	   1	   1
+yaweyuha     	laho       	   1	   1
+kamano       	kó/ora     	   1	  11
+yagaria      	gó/ola     	   1	  11
+awa          	ehtah      	   2	   2
+awiyaana     	karogaromba	   3	   3
+benabena     	sá/afa     	   4	   4
+fore         	teté/e     	   6	   6
+gadsup       	korami     	   7	   7
+gende        	kana       	   8	   8
+gimi         	naku       	   9	   9
+inoke-yate   	haesa      	  10	  10
+siane        	kí/isí/i   	  12	  12
+tairora-north	naːre      	  13	  13
+awa          	nehe       	  16	  16
+awiyaana     	naema      	  17	  17
+gadsup       	naːrei     	  18	  13
+gimi         	ago        	  19	   9
+inoke-yate   	kola       	  20	  11
+siane        	lafá/a     	  21	  21
+yagaria      	gí/ituma   	  22	  22
+gimi         	bida       	  23	  23
+yagaria      	lote       	  24	  24
+#
+Concept: 1585_SLEEP, False Positives: no, False Negatives: yes
+alekano      	ak       	   1	   1
+benabena     	ka       	   1	   4
+dano-asaro   	ó/ong    	   1	   5
+awa          	tuguh    	   2	   2
+awiyaana     	aunkwai  	   3	   3
+fore         	uwai     	   6	   6
+gimi         	be       	   6	   9
+inoke-yate   	havae    	   6	  10
+yagaria      	ú/u+haé/e	   6	  14
+gadsup       	barano   	   7	   7
+gende        	viki     	   8	   8
+kamano       	mä/asé/e 	  11	  11
+siane        	ó/on     	  12	  12
+yaweyuha     	ud       	  12	  15
+tairora-north	baitaːna 	  13	  13
+#
+Concept: 159_SWEET_POTATO, False Positives: yes, False Negatives: no
+alekano      	goí/ivé/e 	   1	   1
+dano-asaro   	gó/ovi    	   1	   1
+awa          	topah     	   2	   2
+awiyaana     	kisaːma   	   3	   3
+benabena     	majá/a    	   4	   4
+inoke-yate   	majá/a    	   4	   4
+fore         	í/isaaː   	   6	   6
+gimi         	isapa     	   6	   6
+gadsup       	kaːmaːmi  	   7	   3
+gende        	ogwai     	   8	   8
+kamano       	já/au     	  11	  11
+siane        	konú/umǎ/a	  12	   3
+tairora-north	ama       	  13	  13
+yagaria      	bá/a      	  14	  14
+yaweyuha     	opa       	  15	  14
+fore         	í/isapa   	  16	   6
+yagaria      	baja      	  17	  17
+#
+Concept: 163_BLACK, False Positives: yes, False Negatives: yes
+alekano      	anupá/a       	   1	   1
+benabena     	nú/upa        	   1	   1
+inoke-yate   	anú/upá/a     	   1	   1
+yagaria      	nú/upa        	   1	   1
+dano-asaro   	gó/onombu     	   1	   5
+awa          	pabutsa       	   2	   2
+awiyaana     	aubutamba     	   3	   3
+fore         	tunú/u        	   6	   6
+gimi         	utunu         	   6	   6
+kamano       	haní/i        	   6	  11
+gadsup       	kasii         	   7	   7
+gende        	ngemenanga    	   8	   8
+siane        	lú/um         	  12	  12
+yaweyuha     	lubuha        	  12	  15
+tairora-north	bankora       	  13	  13
+inoke-yate   	hanike        	  16	  11
+kamano       	ä/agä/anú/umpa	  17	   5
+yagaria      	hani          	  18	  11
+#
+Concept: 1645_SHORT, False Positives: yes, False Negatives: yes
+alekano      	alí/inipá/a  	   1	   1
+dano-asaro   	lí/inimbe    	   1	   1
+siane        	lí/ina       	   1	  12
+awa          	wahto        	   2	   2
+awiyaana     	akima        	   3	   3
+benabena     	hú/upa+mó/one	   4	   4
+inoke-yate   	aupá/a       	   4	  10
+kamano       	ú/upare      	   4	  11
+fore         	aro          	   6	   6
+gadsup       	baːkai       	   7	   7
+gende        	tumakeme     	   8	   8
+gimi         	aukika       	   9	   9
+tairora-north	eo           	  13	  13
+yagaria      	hó/ogo       	  14	  14
+yaweyuha     	minava       	  15	  15
+yagaria      	oú/u         	  16	  13
+#
+Concept: 1646_GIRL, False Positives: yes, False Negatives: yes
+alekano      	mohó/o    	   1	   1
+inoke-yate   	amofa     	   1	  10
+kamano       	mó/ofa    	   1	  10
+awa          	ahrari    	   2	   2
+awiyaana     	arasi     	   3	   3
+benabena     	pá/a      	   4	   4
+dano-asaro   	á/alungo  	   5	   5
+yaweyuha     	olu       	   5	  15
+fore         	aragá/a   	   6	   3
+gimi         	rakana    	   6	   9
+gadsup       	akintai   	   7	   7
+gende        	erikevi   	   8	   8
+siane        	nomí/ilí/i	  12	  12
+tairora-north	baraːta   	  13	  13
+yagaria      	á/abade   	  14	  14
+inoke-yate   	mú/uná/a  	  16	  16
+#
+Concept: 165_WALLABY, False Positives: yes, False Negatives: yes
+awa          	nabanta       	   1	   1
+awiyaana     	kawima        	   2	   2
+benabena     	é/esa         	   3	   3
+fore         	esaː          	   3	   3
+gimi         	beza          	   3	   3
+inoke-yate   	é/esa         	   3	   3
+yagaria      	é/esa         	   3	   3
+kamano       	vé/eho        	   3	  10
+dano-asaro   	lú/umbo       	   4	   4
+gadsup       	kabenami      	   6	   6
+gende        	panandi       	   7	   7
+siane        	kó/oboni      	  11	   6
+yaweyuha     	oponi         	  11	   6
+tairora-north	tabenara      	  12	  12
+fore         	puwesaː       	  15	  15
+kamano       	kä/amí/intampa	  16	  16
+#
+Concept: 1726_WET, False Positives: yes, False Negatives: yes
+alekano      	gehá/a   	   1	   1
+dano-asaro   	gé/ehe   	   1	   1
+yaweyuha     	eha      	   1	   1
+benabena     	ké/efa   	   1	   4
+awa          	tantanagi	   2	   2
+awiyaana     	tasiasi  	   3	   3
+fore         	tani     	   6	   6
+gadsup       	nonimemi 	   7	   7
+gende        	nogajai  	   8	   8
+gimi         	kazi     	   9	   1
+inoke-yate   	ani+hane 	  10	  10
+kamano       	ti+mé/e  	  11	  11
+siane        	akoko    	  12	  12
+tairora-north	puta     	  13	  13
+yagaria      	valá/a   	  14	  14
+fore         	í/ipaba  	  16	  16
+inoke-yate   	tina+mai 	  17	  17
+#
+Concept: 1781_THUMB, False Positives: yes, False Negatives: yes
+alekano      	napa      	   1	   1
+benabena     	napa      	   1	   1
+awa          	ajanaobona	   2	   2
+awiyaana     	ajanabomba	   3	   2
+dano-asaro   	mó/ozov   	   5	   5
+fore         	moso      	   5	   5
+gimi         	mozo      	   5	   5
+gende        	mojo      	   5	   8
+yagaria      	boto      	   5	  14
+gadsup       	apomi     	   7	   7
+inoke-yate   	ketale    	  10	  10
+kamano       	já/afa    	  11	  11
+siane        	mé/enuwa  	  12	  12
+tairora-north	enara     	  13	  13
+yaweyuha     	umava     	  15	  15
+alekano      	hí/isu    	  16	  16
+benabena     	jahá/a    	  17	  17
+gimi         	beu       	  18	  18
+yaweyuha     	olopa     	  19	  19
+#
+Concept: 1786_DRY_UP, False Positives: yes, False Negatives: yes
+alekano      	guná/ahá/a	   1	   1
+siane        	ngend     	   1	  12
+awa          	totoragoje	   2	   2
+awiyaana     	kasanagwi 	   3	   3
+benabena     	ló/o      	   4	   4
+dano-asaro   	gokó/o    	   5	   5
+fore         	aːsa      	   6	   6
+gimi         	azi       	   6	   6
+gadsup       	kasaguke  	   7	   3
+gende        	kagararai 	   8	   8
+kamano       	ä/ahú/u   	  10	   6
+inoke-yate   	hau       	  10	  10
+yagaria      	hoú/u     	  10	  10
+tairora-north	ahaːra    	  13	  13
+yaweyuha     	opati     	  15	  15
+gadsup       	ojama     	  16	  16
+inoke-yate   	vai       	  17	  17
+kamano       	hó/omu    	  18	  18
+yagaria      	veí/i     	  19	  17
+#
+Concept: 1807_AFTERNOON, False Positives: yes, False Negatives: yes
+alekano      	uná/aká/a 	   1	   1
+gimi         	nugi      	   1	   1
+kamano       	kí/inä/aga	   1	   1
+benabena     	uté/e     	   1	   4
+yagaria      	ú/ute     	   1	   4
+inoke-yate   	ú/une     	   1	  10
+yaweyuha     	ludaka    	   1	  15
+awa          	tunsoreri 	   2	   2
+awiyaana     	eninkaa   	   3	   3
+siane        	lú/unanga 	   5	   3
+dano-asaro   	ní/ivenga 	   5	   5
+gende        	ivunai    	   5	   8
+fore         	atá:/aːmai	   6	   6
+gadsup       	ajinkai   	   7	   7
+tairora-north	erairika  	  13	  13
+#
+Concept: 1879_DANCE, False Positives: yes, False Negatives: yes
+alekano      	melek        	   1	   1
+benabena     	melé/eke     	   1	   1
+dano-asaro   	meleng       	   1	   1
+siane        	mé/elé/engé/e	   1	   1
+yaweyuha     	meleke       	   1	   1
+gende        	kiana+tara   	   1	   8
+awa          	abah         	   2	   2
+awiyaana     	araimara     	   3	   3
+fore         	waː          	   6	   6
+gimi         	bá/a         	   6	   9
+gadsup       	tikoni+makeu 	   7	   7
+inoke-yate   	joke         	  10	  10
+kamano       	ä/avó/o      	  11	  11
+tairora-north	ihintero     	  13	  13
+yagaria      	ó/o          	  14	  14
+inoke-yate   	avo          	  16	  11
+#
+Concept: 189_HAIR_BODY, False Positives: no, False Negatives: yes
+alekano      	zopó/ova   	   1	   1
+dano-asaro   	zó/opovo   	   1	   1
+benabena     	ó/oka      	   1	   4
+gende        	jogo       	   1	   4
+kamano       	jó/oka     	   1	   4
+siane        	jó/owa     	   1	  12
+yaweyuha     	jopa       	   1	  12
+awa          	jahra      	   2	   2
+awiyaana     	tauma      	   3	   3
+fore         	jaː        	   6	   6
+inoke-yate   	ijó/olegefa	   6	  10
+yagaria      	ó/olegeva  	   6	  10
+gadsup       	njoi       	   7	   7
+gimi         	za         	   9	   9
+tairora-north	kauhi      	  13	  13
+fore         	raː        	  16	  16
+#
+Concept: 1901_recline, False Positives: yes, False Negatives: yes
+alekano      	ak      	   1	   1
+benabena     	ka      	   1	   4
+dano-asaro   	ó/ongo  	   1	   5
+awa          	tugeh   	   2	   2
+awiyaana     	aunkwai 	   3	   3
+fore         	wai     	   6	   6
+gimi         	be      	   6	   9
+inoke-yate   	havae   	   6	  10
+yagaria      	haé/e   	   6	  14
+gadsup       	barano  	   7	   7
+gende        	viki    	   8	   8
+kamano       	mä/asé/e	  11	  11
+siane        	ó/on    	  12	  12
+yaweyuha     	ud      	  12	  15
+tairora-north	baitaːna	  13	  13
+gende        	mina    	  16	  16
+inoke-yate   	fá/ae   	  17	   6
+#
+Concept: 2009_DOG, False Positives: yes, False Negatives: yes
+alekano      	galá/a  	   1	   1
+benabena     	kalá/a  	   1	   1
+dano-asaro   	gú/ulo  	   1	   1
+fore         	karaː   	   1	   1
+gimi         	kura    	   1	   1
+inoke-yate   	kalá/a  	   1	   1
+siane        	kú/ulá/a	   1	   1
+yagaria      	galá/a  	   1	   1
+yaweyuha     	ulá/a   	   1	   1
+kamano       	kra     	   1	  11
+awa          	ija     	   2	   2
+awiyaana     	ijamba  	   3	   3
+gadsup       	ijami   	   7	   3
+gende        	mavi    	   8	   8
+tairora-north	bairi   	  13	  13
+fore         	kwaraː  	  16	  16
+#
+Concept: 2091_YOUR, False Positives: yes, False Negatives: yes
+benabena     	lé/et        	   1	   1
+gende        	taoroi       	   1	   3
+inoke-yate   	tana         	   1	   5
+kamano       	tä/anä/a     	   1	   5
+fore         	tisí/i       	   2	   2
+gimi         	riri         	   2	   4
+siane        	í/iná/a+lele 	   7	   7
+yagaria      	lata         	   8	   1
+yaweyuha     	edi+love     	   9	   9
+inoke-yate   	lana         	  10	  10
+siane        	lí/iná/a+lele	  11	   7
+yagaria      	paa          	  12	  12
+#
+Concept: 2098_FOOT_OR_LEG, False Positives: yes, False Negatives: yes
+alekano      	gí/isa  	   1	   1
+dano-asaro   	gí/izé/e	   1	   1
+fore         	gisá:/aː	   1	   1
+gimi         	gesu    	   1	   1
+benabena     	gí/igusa	   1	   4
+gende        	kia     	   1	   8
+kamano       	gí/ia   	   1	   8
+inoke-yate   	í/ija   	   1	  10
+siane        	kí/ija  	   1	  10
+yagaria      	í/ija   	   1	  10
+yaweyuha     	i       	   1	  15
+awa          	ai      	   2	   2
+awiyaana     	aisamima	   3	   3
+gadsup       	akani   	   7	   7
+tairora-north	aiu     	  13	   2
+awiyaana     	anama   	  16	  16
+dano-asaro   	gí/ize  	  17	   1
+fore         	gisá:/aː	  17	   1
+gimi         	gesu    	  17	   1
+yagaria      	í/ija   	  17	  10
+gadsup       	anai    	  19	  16
+gimi         	isu     	  20	   1
+#
+Concept: 2101_BE_DEAD_OR_DIE, False Positives: yes, False Negatives: yes
+alekano      	hil    	   1	   1
+dano-asaro   	hé/el  	   1	   1
+yaweyuha     	hel    	   1	   1
+benabena     	fili   	   1	   4
+inoke-yate   	fal    	   1	   4
+siane        	fó/ol  	   1	   4
+yagaria      	filí/i 	   1	   4
+fore         	puri   	   1	   6
+gende        	pri    	   1	   8
+kamano       	fri    	   1	   8
+awa          	pukire 	   2	   2
+awiyaana     	pukai  	   3	   2
+gadsup       	pukono 	   7	   2
+gimi         	idá/a  	   9	   9
+tairora-north	utubiro	  13	  13
+#
+Concept: 2102_BURN, False Positives: yes, False Negatives: yes
+alekano      	l       	   1	   1
+benabena     	la      	   1	   1
+dano-asaro   	l       	   1	   1
+inoke-yate   	l       	   1	   1
+siane        	l       	   1	   1
+yagaria      	lé/e    	   1	   1
+yaweyuha     	l       	   1	   1
+fore         	ta      	   1	   6
+gende        	tai     	   1	   6
+gimi         	rá/a    	   1	   9
+kamano       	re      	   1	   9
+awa          	tehre   	   2	   2
+awiyaana     	kwegai  	   3	   3
+gadsup       	ikankemi	   7	   7
+tairora-north	itero   	  13	  13
+awa          	otoreh  	  16	  13
+fore         	kae     	  17	  17
+#
+Concept: 2108_RAINING_OR_RAIN, False Positives: yes, False Negatives: yes
+alekano      	golí/iní/i	   1	   1
+dano-asaro   	golí/ine  	   1	   1
+benabena     	kó/o      	   1	   4
+fore         	ká/a      	   1	   4
+gimi         	kau       	   1	   4
+inoke-yate   	kó/o      	   1	   4
+kamano       	ko        	   1	   4
+siane        	ko        	   1	   4
+yagaria      	gó/o      	   1	   4
+yaweyuha     	go        	   1	   4
+gende        	koti      	   1	   8
+awa          	ibo       	   2	   2
+awiyaana     	aːa       	   3	   3
+gadsup       	ai        	   7	   3
+tairora-north	aːu       	  13	   3
+awa          	ah        	  16	  16
+fore         	agú/uwa   	  17	  17
+yaweyuha     	o         	  18	  18
+#
+Concept: 2121_ARM_OR_HAND, False Positives: yes, False Negatives: yes
+alekano      	gizá/a   	   1	   1
+awa          	ajahnobeh	   2	   2
+awiyaana     	ajaːmba  	   3	   3
+benabena     	jahá/a   	   4	   4
+dano-asaro   	á/a      	   4	   5
+siane        	á/a      	   4	   5
+fore         	jaː      	   4	   6
+gende        	ja       	   4	   6
+inoke-yate   	já/a     	   4	   6
+kamano       	já/a     	   4	   6
+gimi         	za       	   4	   9
+yaweyuha     	ade      	   4	  14
+gadsup       	aːjaːmi  	   7	   3
+tairora-north	kauu     	  13	  13
+yagaria      	nita     	  14	  14
+#
+Concept: 221_FIRE, False Positives: yes, False Negatives: yes
+alekano      	ló/o  	   1	   1
+dano-asaro   	oló/o 	   1	   1
+benabena     	logó/o	   1	   4
+siane        	jǒ/o  	   1	  12
+yaweyuha     	jo    	   1	  12
+awa          	ira   	   2	   2
+awiyaana     	irama 	   3	   2
+fore         	jakú/u	   6	   6
+gimi         	kuku  	   6	   9
+gadsup       	ikai  	   7	   7
+gende        	tuva  	   8	   8
+kamano       	té/eve	   8	   8
+inoke-yate   	atá/a 	  10	  10
+tairora-north	iha   	  13	  13
+yagaria      	halí/i	  14	  14
+awa          	eku   	  16	   7
+awiyaana     	ijaba 	  17	  17
+inoke-yate   	leve  	  18	  18
+#
+Concept: 2272_HOT_OR_WARM, False Positives: yes, False Negatives: yes
+alekano      	mumus       	   1	   1
+fore         	mumu        	   1	   1
+yaweyuha     	mumusi      	   1	   1
+benabena     	mú/ukoho    	   1	   4
+gimi         	muka        	   1	   4
+inoke-yate   	amú/uko     	   1	   4
+kamano       	amuhó/o     	   1	  11
+yagaria      	bú/uko      	   1	  14
+awa          	totoi       	   2	   2
+awiyaana     	kokoa       	   3	   3
+dano-asaro   	ó/olo       	   5	   5
+gadsup       	kokomemi    	   7	   7
+gende        	tonone      	   8	   8
+siane        	ká/alá/akala	  12	  12
+tairora-north	totoa       	  13	   2
+#
+Concept: 2304_THEE_OBLIQUE_CASE_OF_YOU, False Positives: yes, False Negatives: yes
+alekano      	ge   	   1	   1
+benabena     	ká/a 	   1	   1
+dano-asaro   	gé/e 	   1	   1
+fore         	ká/ae	   1	   1
+gende        	ka   	   1	   1
+gimi         	ka   	   1	   1
+inoke-yate   	ka   	   1	   1
+kamano       	kä/a 	   1	   1
+siane        	ká/a 	   1	   1
+yagaria      	ga   	   1	   1
+yaweyuha     	e    	   1	  15
+awa          	are  	   2	   2
+awiyaana     	ema  	   3	   3
+gadsup       	eni  	   7	   7
+tairora-north	aːre 	  13	   2
+dano-asaro   	gá/a 	  16	   1
+fore         	ká/a 	  17	   1
+yaweyuha     	ge   	  18	   1
+#
+Concept: 2312_YOU_OBLIQUE_CASE_OF_YOU, False Positives: yes, False Negatives: yes
+alekano      	leke    	   1	   1
+dano-asaro   	lengí/i 	   1	   1
+benabena     	lé/en   	   1	   2
+gende        	ta      	   1	   4
+inoke-yate   	tapa    	   1	   7
+kamano       	tä/amä/a	   1	   8
+yagaria      	lapa    	   1	  10
+fore         	tí/i    	   4	   4
+gimi         	ri      	   4	   6
+siane        	í/iná/a 	   9	   9
+yaweyuha     	edi     	  11	   4
+inoke-yate   	lapa    	  12	  10
+siane        	lí/iná/a	  13	   9
+yagaria      	pa      	  14	  14
+inoke-yate   	lama    	  15	  15
+#
+Concept: 235_FLYING_FOX, False Positives: yes, False Negatives: yes
+alekano      	holí/ihá/a 	   1	   1
+dano-asaro   	vó/olihe   	   1	   1
+yaweyuha     	oliha      	   1	   1
+benabena     	kó/olifa   	   1	   4
+yagaria      	ó/oliva    	   1	   4
+siane        	kí/iló/o   	   1	  12
+awa          	tahpah     	   2	   2
+awiyaana     	kaːmpaːmba 	   3	   3
+fore         	taːpajaː   	   6	   6
+inoke-yate   	lá/apa     	   6	  10
+kamano       	tá/ampra   	   6	  11
+gadsup       	panemi     	   7	   7
+gende        	tindombori 	   8	   8
+gimi         	kuke       	   9	   9
+tairora-north	kaːkaːra   	  13	   9
+dano-asaro   	gó/olihe   	  16	   1
+gende        	komogatagai	  17	  17
+#
+Concept: 2457_PATH_OR_ROAD, False Positives: yes, False Negatives: yes
+alekano      	gapó/o	   1	   1
+benabena     	ká/apo	   1	   1
+dano-asaro   	aká/a 	   1	   5
+fore         	ke    	   1	   5
+gimi         	ke    	   1	   5
+inoke-yate   	ká/a  	   1	   5
+kamano       	ka    	   1	   5
+yagaria      	gí/i  	   1	   5
+gende        	kanua 	   1	   7
+siane        	ká/anu	   1	   7
+yaweyuha     	anu   	   1	   7
+awa          	ah    	   2	   2
+awiyaana     	aːmbi 	   3	   3
+gadsup       	aːni  	   7	   7
+tairora-north	aːra  	  13	  13
+gadsup       	aːmi  	  16	  16
+#
+Concept: 262_HE_OR_SHE_OR_IT, False Positives: yes, False Negatives: yes
+alekano      	e    	   1	   1
+benabena     	á/a  	   1	   1
+dano-asaro   	é/e  	   1	   1
+gimi         	a    	   1	   1
+inoke-yate   	a    	   1	   1
+kamano       	ä/a  	   1	   1
+siane        	á/a  	   1	   1
+yagaria      	a    	   1	   1
+yaweyuha     	e    	   1	   1
+fore         	á/ae 	   1	   6
+gende        	ja   	   1	   8
+awa          	wega 	   2	   2
+awiyaana     	kwema	   3	   3
+gadsup       	beni 	   7	   7
+tairora-north	biba 	  13	  13
+alekano      	a    	  16	   1
+dano-asaro   	á/a  	  17	   1
+fore         	á/a  	  18	   1
+#
+Concept: 2634_WE_TWO, False Positives: yes, False Negatives: yes
+benabena     	lé/e     	   1	   1
+yagaria      	laa      	   1	   1
+fore         	tasí/i   	   1	   2
+gende        	ta+oroi  	   1	   3
+gimi         	rere     	   1	   4
+inoke-yate   	taa      	   1	   5
+kamano       	tä/aä/a  	   1	   5
+siane        	lá/a+lele	   1	   7
+yaweyuha     	le+love  	   1	   7
+inoke-yate   	laa      	  10	   1
+#
+Concept: 2638_FISHING, False Positives: yes, False Negatives: yes
+alekano      	lá/agahá/a   	   1	   1
+dano-asaro   	alahá/a      	   1	   5
+siane        	laefá/a      	   1	  12
+yaweyuha     	lahava       	   1	  12
+awa          	nontah       	   2	   2
+awiyaana     	nojaːa       	   3	   3
+benabena     	fá/aja       	   4	   4
+yagaria      	fá/aja       	   4	   4
+inoke-yate   	nó/ojame     	   6	   3
+kamano       	nó/oja       	   6	   3
+fore         	í/inojaːntá/a	   6	   6
+gadsup       	nojana       	   7	   3
+gende        	mbure        	   8	   8
+gimi         	mado         	   8	   9
+tairora-north	haːbuka      	  13	  13
+awa          	koeja        	  16	  16
+awiyaana     	kuma         	  17	  17
+fore         	tarí/i       	  18	  18
+gadsup       	kauja        	  19	  16
+inoke-yate   	faijane      	  20	  20
+#
+Concept: 293_NETBAG, False Positives: yes, False Negatives: no
+alekano      	go     	   1	   1
+benabena     	gú/u   	   1	   1
+dano-asaro   	gó/o   	   1	   1
+fore         	ko     	   1	   1
+gende        	ko     	   1	   1
+gimi         	ko     	   1	   1
+inoke-yate   	kú/u   	   1	   1
+kamano       	ku     	   1	   1
+yagaria      	gú/u   	   1	   1
+awa          	unah   	   2	   2
+awiyaana     	unaːmba	   3	   3
+gadsup       	unaːmi 	   7	   3
+siane        	ó/owó/o	  12	  12
+yaweyuha     	ovo    	  12	  12
+tairora-north	uta    	  13	  13
+#
+Concept: 323_FAT_ORGANIC_SUBSTANCE, False Positives: yes, False Negatives: yes
+alekano      	gavó/ozá/a   	   1	   1
+dano-asaro   	gá/avozo     	   1	   1
+fore         	paː          	   1	   6
+kamano       	fó/ovaa      	   1	  11
+yaweyuha     	auva         	   1	  15
+awa          	majehwe      	   2	   2
+awiyaana     	masawemba    	   3	   3
+benabena     	gilí/iva     	   4	   4
+gadsup       	basapemi     	   7	   7
+gende        	kagaja       	   8	   8
+gimi         	á/ake        	   9	   9
+inoke-yate   	agú/usá/a    	  10	  10
+yagaria      	agú/usa      	  10	  10
+siane        	ndú/unú/umá/a	  12	  12
+tairora-north	bahabera     	  13	   7
+fore         	masawe       	  16	   3
+yagaria      	vaa          	  17	  17
+yaweyuha     	ava          	  18	  15
+#
+Concept: 343_VINE, False Positives: yes, False Negatives: yes
+alekano      	nagá/a     	   1	   1
+benabena     	nagá/a     	   1	   1
+gimi         	naka       	   1	   1
+dano-asaro   	ná/ala     	   1	   5
+gende        	nara       	   1	   5
+siane        	nê/elá/a   	   1	   5
+yaweyuha     	nala       	   1	   5
+awa          	nahga      	   2	   1
+awiyaana     	andama     	   3	   3
+fore         	í/iganá:/aː	   6	   6
+gadsup       	nani       	   7	   7
+inoke-yate   	nó/ofi     	  10	  10
+kamano       	nó/ofi     	  10	  10
+tairora-north	naunta     	  13	  13
+yagaria      	gavé/eda   	  14	  14
+gimi         	hena       	  16	  16
+#
+Concept: 351_TARO, False Positives: yes, False Negatives: yes
+alekano      	masí/i    	   1	   1
+dano-asaro   	má/asa    	   1	   1
+awa          	ango      	   2	   2
+awiyaana     	maijamba  	   3	   3
+benabena     	á/ama     	   4	   4
+gende        	mai       	   4	   8
+fore         	í/inaː    	   6	   6
+gimi         	ina       	   6	   6
+yaweyuha     	ina       	   6	   6
+gadsup       	jami      	   7	   4
+inoke-yate   	jane      	  10	   6
+yagaria      	já/a      	  10	  14
+kamano       	né/erä/aga	  11	  11
+siane        	mafó/o    	  12	  12
+tairora-north	kara      	  13	  13
+inoke-yate   	nelagana  	  16	  11
+yagaria      	jatave    	  17	  17
+#
+Concept: 406_OLD_MAN, False Positives: yes, False Negatives: yes
+alekano      	ozá/ahá/a    	   1	   1
+benabena     	ó/ojafa      	   1	   4
+kamano       	ó/ojafa      	   1	   4
+gimi         	orada        	   1	   9
+awa          	wehura       	   2	   2
+awiyaana     	anonumaima   	   3	   3
+dano-asaro   	vá/ani       	   5	   5
+fore         	karená:/aː   	   6	   6
+gadsup       	ajokuni      	   7	   7
+gende        	kindari      	   8	   8
+inoke-yate   	kó/osú/u     	  10	  10
+yagaria      	gó/osu       	  10	  10
+siane        	kí/iló/ofó/o 	  12	  12
+yaweyuha     	iloho        	  12	  15
+tairora-north	bainti+tarura	  13	  13
+awa          	ore          	  16	  16
+fore         	ojaːpaː      	  17	   4
+inoke-yate   	ojafa        	  18	   4
+yaweyuha     	hamola       	  19	  19
+#
+Concept: 410_YAM, False Positives: yes, False Negatives: no
+alekano      	gasí/i 	   1	   1
+dano-asaro   	gá/asa 	   1	   1
+awa          	ahweh  	   2	   2
+awiyaana     	taːwima	   3	   3
+benabena     	á/avi  	   4	   4
+inoke-yate   	avi    	   4	   4
+kamano       	á/avi  	   4	   4
+fore         	á/ago  	   6	   6
+gimi         	ago    	   6	   6
+yagaria      	hagó/o 	   6	   6
+gadsup       	obai   	   7	   7
+gende        	kambai 	   8	   8
+siane        	ká/a   	  12	  12
+tairora-north	oba    	  13	   7
+yaweyuha     	uva    	  15	   4
+fore         	aːrabaː	  16	  16
+#
+Concept: 466_CASSOWARY, False Positives: yes, False Negatives: yes
+alekano      	oló/oní/i   	   1	   1
+dano-asaro   	oló/oni     	   1	   1
+siane        	ó/oloná/a   	   1	   1
+yaweyuha     	oloda       	   1	  15
+awa          	kuwaira     	   2	   2
+awiyaana     	augwaima    	   3	   3
+benabena     	kí/ijané/efa	   4	   4
+fore         	amamaːni    	   6	   6
+gimi         	amanani     	   6	   6
+inoke-yate   	amaná/aní/i 	   6	   6
+kamano       	mä/aná/ani  	   6	   6
+yagaria      	maná/ani    	   6	   6
+gadsup       	bujemi      	   7	   7
+gende        	kembo       	   8	   8
+tairora-north	bukera      	  13	  13
+gende        	orina       	  16	   1
+inoke-yate   	maná/aní/i  	  17	   6
+#
+Concept: 492_THREE, False Positives: yes, False Negatives: no
+alekano      	ló/osivé/e+makó/olé/e     	   1	   1
+awa          	tahmoro                   	   2	   2
+awiyaana     	kamboma                   	   3	   3
+benabena     	loé/e+já/agi+mó/one+já/agi	   4	   4
+dano-asaro   	setó/o+hamo               	   5	   5
+fore         	kaká/aga                  	   6	   6
+gadsup       	kamore                    	   7	   7
+gende        	kineisa                   	   8	   8
+gimi         	rarega+kika               	   9	   9
+inoke-yate   	tó/olegí/i+nagó/oki       	  10	  10
+kamano       	tä/agú/ufa                	  11	  11
+siane        	lelei+lá/awokoi           	  12	  12
+tairora-north	taraantabohaia            	  13	  13
+yagaria      	lolé/ee+bogó/oe           	  14	  14
+yaweyuha     	loveki+makoki             	  15	  15
+fore         	tarawa+ká:/aːnakí/i       	  16	  16
+kamano       	tá/aregi+nä/agó/oki       	  17	  10
+#
+Concept: 503_FROG, False Positives: yes, False Negatives: yes
+alekano      	gí/izalá/a	   1	   1
+benabena     	soló/o    	   1	   1
+dano-asaro   	gí/izele  	   1	   1
+yagaria      	olú/usapa 	   1	  14
+yaweyuha     	osulepa   	   1	  15
+awa          	ijo       	   2	   2
+awiyaana     	awaima    	   3	   3
+fore         	tá/aro    	   6	   6
+gadsup       	kabani    	   7	   7
+gende        	tumua     	   8	   8
+gimi         	kua       	   9	   9
+inoke-yate   	é/esó/o   	  10	  10
+kamano       	hogá/a    	  11	  11
+siane        	ké/elá/a  	  12	  12
+tairora-north	eaboka    	  13	  13
+fore         	tá/ako    	  16	  16
+gimi         	uka       	  17	  11
+inoke-yate   	hé/esó/o  	  18	  10
+kamano       	pí/isu    	  19	  19
+yagaria      	é/eso     	  20	  10
+kamano       	nä/aké/eke	  21	  21
+kamano       	ú/untu    	  22	  22
+#
+Concept: 628_LEAF, False Positives: yes, False Negatives: yes
+alekano      	agí/ilá/a	   1	   1
+dano-asaro   	aví/ile  	   1	   1
+yaweyuha     	ailá/a   	   1	   1
+awa          	ahnah    	   2	   2
+awiyaana     	anama    	   3	   3
+benabena     	há/aja   	   4	   4
+inoke-yate   	há/aeja  	   4	   4
+yagaria      	haé/eja  	   4	   4
+fore         	aje      	   6	   6
+gimi         	asi      	   6	   9
+gadsup       	anai     	   7	   7
+siane        	ailá/a   	   8	   1
+gende        	kuruma   	   8	   8
+kamano       	nina     	  11	   7
+tairora-north	mare     	  13	  13
+fore         	anaː     	  16	   7
+inoke-yate   	haina    	  17	  17
+tairora-north	ituː     	  18	  18
+yagaria      	zavasa   	  19	  19
+inoke-yate   	haeja    	  20	   4
+#
+Concept: 630_LIGHT_RADIATION, False Positives: yes, False Negatives: yes
+alekano      	vá/avá/ani         	   1	   1
+benabena     	vava               	   1	   1
+dano-asaro   	gé/eni+mi          	   3	   3
+gende        	kanua+omoi         	   3	   5
+inoke-yate   	kana+ó/o           	   3	   7
+siane        	ké/einá/a+á/amœaije	   3	   9
+fore         	pé/ero             	   4	   4
+gimi         	akazena            	   6	   6
+kamano       	ó/oja              	   8	   8
+yagaria      	jó/ojo             	   8	   8
+yaweyuha     	sogotibo           	  11	  11
+benabena     	ké/eta+me          	  12	  12
+fore         	kampá/a+kú/untá:/aː	  13	  13
+kamano       	kä/ana+o           	  14	   7
+siane        	kó/ot              	  15	  15
+yagaria      	gatá/a+a           	  16	  12
+yaweyuha     	gogotibo           	  17	  11
+#
+Concept: 634_MEAT, False Positives: yes, False Negatives: yes
+alekano      	memelá/a 	   1	   1
+benabena     	mé/eme   	   1	   1
+dano-asaro   	memé/ele 	   1	   1
+siane        	é/emilá/a	   1	   1
+gende        	misa     	   1	   8
+inoke-yate   	mé/ená/a 	   1	  10
+kamano       	mé/ea    	   1	  11
+yagaria      	mé/e     	   1	  11
+yaweyuha     	mida     	   1	  13
+awa          	aweh     	   2	   2
+awiyaana     	amaa     	   3	   3
+fore         	wase     	   6	   6
+gimi         	bé/ese   	   6	   6
+gadsup       	amai     	   7	   3
+tairora-north	mati     	  13	  13
+alekano      	izá/a    	  16	   8
+siane        	samá/a   	  17	   3
+yaweyuha     	ja       	  18	  18
+siane        	babú/u   	  19	  19
+#
+Concept: 639_MOUNTAIN, False Positives: yes, False Negatives: yes
+alekano      	oká/a    	   1	   1
+benabena     	kó/osa   	   1	   4
+dano-asaro   	gó/olo   	   1	   5
+inoke-yate   	gó/oja   	   1	  10
+kamano       	gó/ona   	   1	  11
+awa          	taweh    	   2	   2
+awiyaana     	omaːa    	   3	   3
+fore         	am       	   6	   6
+gende        	omona    	   6	   8
+gimi         	abi      	   6	   9
+siane        	mó/owa   	   6	  12
+yaweyuha     	bola     	   6	  15
+gadsup       	anui     	   7	   7
+tairora-north	batamuatu	  13	  13
+yagaria      	aé/e     	  14	  14
+awa          	oma      	  16	   3
+benabena     	vohupo   	  17	  17
+yagaria      	moa      	  18	  18
+#
+Concept: 646_ASH, False Positives: no, False Negatives: yes
+alekano      	laná/a   	   1	   1
+dano-asaro   	lá/ani   	   1	   1
+siane        	lá/ainá/a	   1	   1
+benabena     	lá/a     	   1	   4
+gimi         	rase     	   1	   9
+inoke-yate   	lanefa   	   1	  10
+kamano       	tanefa   	   1	  10
+yagaria      	lá/adeva 	   1	  14
+yaweyuha     	lada     	   1	  14
+awa          	tanah    	   2	   2
+awiyaana     	kanama   	   3	   3
+fore         	kagú/u   	   6	   6
+gadsup       	juni     	   7	   7
+gende        	kwinua   	   8	   8
+tairora-north	hantama  	  13	  13
+#
+Concept: 670_ROOT, False Positives: yes, False Negatives: yes
+alekano      	luhusá/a  	   1	   1
+benabena     	lufú/usa  	   1	   1
+dano-asaro   	lú/uhive  	   1	   5
+yaweyuha     	luhava    	   1	   5
+fore         	aubu      	   1	   6
+gende        	tovaja    	   1	   8
+gimi         	ami       	   1	   9
+inoke-yate   	hafú/uja  	   1	  10
+yagaria      	há/avu    	   1	  10
+kamano       	rä/afú/una	   1	  11
+siane        	lú/ufawá/a	   1	  12
+awa          	anu       	   2	   2
+awiyaana     	anua      	   3	   2
+gadsup       	anui      	   7	   2
+tairora-north	tua       	  13	  13
+fore         	aiá/aná/a 	  16	  16
+gimi         	abi       	  17	   6
+yagaria      	savuta    	  18	  18
+#
+Concept: 671_SAND, False Positives: yes, False Negatives: yes
+alekano      	getá/a     	   1	   1
+benabena     	kehé/e     	   1	   4
+dano-asaro   	gé/epe     	   1	   5
+fore         	kepaː      	   1	   5
+gimi         	kepa       	   1	   5
+inoke-yate   	kaipa      	   1	   5
+kamano       	kä/asé/epa 	   1	  11
+yagaria      	gahaé/epa  	   1	  11
+awa          	arahwe     	   2	   2
+awiyaana     	araija     	   3	   3
+gadsup       	epajauni   	   7	   7
+gende        	visu       	   8	   8
+siane        	á/aké/e    	  12	  12
+yaweyuha     	ake        	  12	  12
+tairora-north	nuama      	  13	  13
+awiyaana     	amai       	  16	  16
+kamano       	ä/aantá/ama	  17	  17
+yagaria      	hagaepa    	  18	  18
+yagaria      	gipa       	  19	   5
+#
+Concept: 674_MOUTH, False Positives: yes, False Negatives: yes
+alekano      	gepá/a    	   1	   1
+kamano       	gí/i      	   1	  11
+awa          	aweh      	   2	   2
+awiyaana     	andampa   	   3	   3
+benabena     	vagá/a    	   4	   4
+dano-asaro   	vé/e      	   5	   5
+siane        	wé/e      	   5	   5
+fore         	waːmú/u   	   6	   6
+gadsup       	abani     	   7	   7
+yaweyuha     	epa       	   8	   1
+gende        	apo+kanowa	   8	   8
+gimi         	sa        	   9	   9
+inoke-yate   	vaja      	  10	  10
+tairora-north	no        	  13	  13
+yagaria      	haé/ejapa 	  14	  14
+inoke-yate   	gi        	  16	  11
+yagaria      	hamota    	  17	  17
+#
+Concept: 677_AXE, False Positives: yes, False Negatives: yes
+alekano      	luní/i  	   1	   1
+dano-asaro   	lú/uno  	   1	   1
+siane        	lú/una  	   1	   1
+benabena     	lú/u    	   1	   4
+yagaria      	lú/u    	   1	   4
+fore         	tú/u    	   1	   6
+gende        	tu      	   1	   6
+gimi         	ru      	   1	   9
+yaweyuha     	loda    	   1	  15
+awa          	konaro  	   2	   2
+awiyaana     	koraroba	   3	   3
+gadsup       	kuntai  	   7	   7
+inoke-yate   	kone    	  10	   2
+kamano       	sasú/ume	  11	  11
+tairora-north	kaːrima 	  13	  13
+awa          	poka    	  16	  16
+inoke-yate   	sasume  	  17	  11
+inoke-yate   	alu     	  18	   4
+#
+Concept: 683_PERSON, False Positives: yes, False Negatives: yes
+alekano      	vegé/ená/a  	   1	   1
+dano-asaro   	é/evene     	   1	   2
+yaweyuha     	vevena      	   1	   2
+fore         	wá/asaná/a  	   1	   4
+siane        	wé/ené/ená/a	   1	   4
+gimi         	ina         	   1	   5
+inoke-yate   	vajá/a      	   1	   6
+kamano       	vä/ahé/e    	   1	   7
+benabena     	vó/ona      	   2	   2
+yagaria      	dé/e        	   9	   9
+fore         	wá/ana      	  11	   2
+inoke-yate   	kano        	  12	   5
+yagaria      	já/ale      	  13	  13
+yaweyuha     	weina       	  14	   4
+fore         	kiná/a      	  15	   5
+#
+Concept: 702_CATCH, False Positives: no, False Negatives: yes
+alekano      	al         	   1	   1
+inoke-yate   	al         	   1	   1
+siane        	ó/ol       	   1	   1
+kamano       	ajé/e+ri   	   1	   8
+yaweyuha     	l          	   1	  11
+benabena     	nú/u+ki    	   2	   2
+dano-asaro   	nd         	   3	   3
+gende        	eti        	   3	   5
+fore         	raːkurí/i  	   4	   4
+gimi         	ahu        	   6	   6
+yagaria      	tavá/a+sí/i	  10	  10
+fore         	uri        	  12	  12
+yagaria      	bu         	  13	  13
+yaweyuha     	j          	  14	  14
+yaweyuha     	s          	  15	  15
+#
+Concept: 714_SEED, False Positives: yes, False Negatives: yes
+alekano      	zuhá/a  	   1	   1
+siane        	û/ufá/a 	   1	  12
+yaweyuha     	juha    	   1	  15
+awa          	ahju    	   2	   2
+awiyaana     	auma    	   3	   3
+benabena     	vihá/a  	   4	   4
+dano-asaro   	gihí/ile	   5	   5
+fore         	á:/aː   	   6	   6
+yagaria      	eí/ita  	   6	  14
+gadsup       	ajumi   	   7	   3
+gende        	isa     	   8	   8
+gimi         	azu     	   9	   8
+inoke-yate   	alaga   	  10	  10
+kamano       	rä/aga  	  10	  10
+tairora-north	auru    	  13	  13
+awiyaana     	aramba  	  16	  16
+dano-asaro   	zuho    	  17	   1
+inoke-yate   	aví/i   	  18	  12
+yaweyuha     	ihila   	  19	   5
+#
+Concept: 725_OLD_PERSON, False Positives: yes, False Negatives: yes
+alekano      	litá/aha	   1	   1
+dano-asaro   	lí/itehe	   1	   1
+awa          	naho    	   2	   2
+awiyaana     	airamba 	   3	   3
+benabena     	tá/afa  	   4	   4
+inoke-yate   	atá/afa 	   4	   4
+yagaria      	tá/afa  	   4	   4
+gimi         	ata     	   4	   9
+fore         	pai     	   6	   6
+gadsup       	pejami  	   7	   7
+gende        	kaiza   	   8	   8
+kamano       	kó/o    	  11	  11
+siane        	lî/ilá/a	  12	  12
+tairora-north	naːruara	  13	  13
+yaweyuha     	asihava 	  15	  15
+alekano      	liná/aha	  16	   1
+fore         	pari    	  17	  17
+inoke-yate   	kolapa  	  18	  18
+kamano       	peje    	  19	   7
+yagaria      	ló/opa  	  20	  18
+fore         	anaːsa  	  21	   2
+#
+Concept: 72_CLAW, False Positives: yes, False Negatives: yes
+alekano      	ó/otolová/a	   1	   1
+dano-asaro   	tó/olovo   	   1	   1
+awa          	ajahnobe   	   2	   2
+awiyaana     	aisabua    	   3	   3
+benabena     	kona       	   4	   4
+kamano       	nko        	   4	  11
+fore         	besó/o     	   6	   6
+gimi         	bezo       	   6	   6
+gadsup       	opai       	   7	   7
+gende        	kogo       	   8	   8
+siane        	kó/owa     	   8	  12
+yaweyuha     	ova        	   8	  15
+inoke-yate   	gí/inagó/o 	  10	   4
+yagaria      	gí/inogo   	  10	   4
+tairora-north	kakahi     	  13	   8
+#
+Concept: 730_SNAKE, False Positives: yes, False Negatives: yes
+alekano      	gosí/iha     	   1	   1
+dano-asaro   	gosihé/e     	   1	   1
+benabena     	ó/osifa      	   1	   4
+inoke-yate   	ó/osifá/avé/e	   1	   4
+kamano       	osifá/ave    	   1	   4
+siane        	koijó/ofá/a  	   1	  12
+awa          	waja         	   2	   2
+awiyaana     	osimba       	   3	   3
+fore         	kujaː        	   6	   6
+gimi         	kuri         	   6	   9
+gadsup       	memani       	   7	   7
+gende        	tomoi        	   8	   8
+tairora-north	memaru       	  13	   7
+yagaria      	bá/akisave   	  14	  14
+yaweyuha     	oleteha      	  15	  15
+dano-asaro   	sata         	  16	  16
+fore         	kuraː        	  17	   9
+inoke-yate   	nagalojave   	  18	  18
+yagaria      	givilote     	  19	  19
+#
+Concept: 744_EGG, False Positives: yes, False Negatives: yes
+alekano      	mulá/a 	   1	   1
+dano-asaro   	mú/ulo 	   1	   1
+gende        	mura   	   1	   1
+siane        	mú/ula 	   1	   1
+benabena     	mú/u   	   1	   3
+fore         	amú/u  	   1	   3
+gimi         	amu    	   1	   3
+kamano       	ä/amú/u	   1	   3
+yagaria      	mú/u   	   1	   3
+inoke-yate   	amú/una	   1	  10
+yaweyuha     	omuda  	   1	  15
+awa          	au     	   2	   2
+awiyaana     	auma   	   3	   3
+gadsup       	amui   	   7	   3
+tairora-north	auru   	  13	  13
+#
+Concept: 763_SKIN, False Positives: no, False Negatives: yes
+alekano      	gú/upé/e  	   1	   1
+benabena     	gú/ufa    	   1	   1
+inoke-yate   	gú/ufá/a  	   1	   1
+yagaria      	ú/uva     	   1	   1
+yaweyuha     	upa       	   1	   1
+fore         	u         	   1	   6
+kamano       	vú/ufä/aga	   1	  11
+awa          	au        	   2	   2
+awiyaana     	awarasima 	   3	   3
+dano-asaro   	okú/u     	   5	   5
+gadsup       	anda      	   7	   7
+gende        	tarava    	   8	   8
+siane        	á/atuwá/a 	   8	  12
+gimi         	reu       	   9	   9
+tairora-north	paha      	  13	  13
+fore         	bare      	  16	  16
+#
+Concept: 778_SMOKE_EXHAUST, False Positives: yes, False Negatives: yes
+alekano      	kí/ilá/a	   1	   1
+dano-asaro   	kí/ile  	   1	   1
+siane        	kí/ilá/a	   1	   1
+yaweyuha     	kila    	   1	   1
+benabena     	kí/ija  	   1	   4
+kamano       	ku      	   1	  11
+awa          	amuni   	   2	   2
+awiyaana     	umumba  	   3	   3
+fore         	kunkaː  	   6	   6
+gimi         	udi     	   6	   9
+gadsup       	ikuni   	   7	   7
+gende        	mura    	   8	   8
+inoke-yate   	haliná/a	  10	  10
+yagaria      	halí/ita	  10	  10
+tairora-north	mura    	  13	   8
+awa          	aune    	  16	  16
+fore         	kuntaː  	  17	   6
+gadsup       	inumuni 	  18	   2
+kamano       	kí/i    	  19	  11
+fore         	arabunta	  20	  20
+#
+Concept: 78_THAT, False Positives: yes, False Negatives: yes
+alekano      	né/e     	   1	   1
+yagaria      	ná/a     	   1	   1
+kamano       	ä/aná/a  	   1	   2
+awa          	mina     	   2	   2
+awiyaana     	mindama  	   3	   3
+benabena     	já/a     	   4	   4
+siane        	jó/owa   	   4	  12
+yaweyuha     	jola     	   4	  15
+dano-asaro   	né/e     	   5	   1
+inoke-yate   	á/atu    	   5	  10
+fore         	pí/i     	   6	   6
+gadsup       	mini     	   7	   2
+gende        	ni       	   8	   1
+gimi         	koma     	   9	   9
+tairora-north	biha     	  13	  13
+benabena     	á/ana    	  16	   2
+dano-asaro   	vole     	  17	  17
+yagaria      	á/ai     	  18	  18
+yaweyuha     	tobaijane	  19	  19
+#
+Concept: 817_THEY, False Positives: yes, False Negatives: yes
+alekano      	ke      	   1	   1
+benabena     	é/et    	   2	   2
+yaweyuha     	edi+love	   2	  11
+dano-asaro   	engí/i  	   3	   3
+fore         	isí/i   	   4	   4
+gimi         	iri     	   4	   6
+gende        	ja+oroi 	   5	   5
+inoke-yate   	ana     	   5	   7
+kamano       	jä/anä/a	   5	   7
+siane        	á/a+lele	   5	   9
+yagaria      	ta      	   5	  10
+yaweyuha     	edi     	  12	   2
+benabena     	é/en    	  12	  12
+dano-asaro   	í/ingi  	  13	   3
+fore         	í/i     	  14	  14
+gimi         	i       	  14	  14
+siane        	á/a     	  15	  14
+gende        	ja      	  15	  15
+inoke-yate   	aoa     	  15	  17
+kamano       	jä/amä/a	  15	  18
+yagaria      	pa      	  15	  20
+yagaria      	paa     	  20	  20
+inoke-yate   	ama     	  22	  18
+#
+Concept: 832_BEAN, False Positives: yes, False Negatives: yes
+alekano      	ó/ovi     	   1	   1
+dano-asaro   	oví/i     	   1	   1
+yagaria      	hé/eva    	   1	   1
+yaweyuha     	ovi       	   1	   1
+awa          	arikoko   	   2	   2
+awiyaana     	koa       	   3	   3
+benabena     	faga      	   4	   4
+gende        	paga      	   4	   4
+fore         	aːrí/ikoko	   6	   2
+gimi         	arí/ikoko 	   6	   2
+inoke-yate   	é/epo     	   6	  10
+gadsup       	koi       	   7	   3
+kamano       	kó/ohe    	  11	  11
+siane        	lî/ifá/a  	  12	  12
+tairora-north	kohe      	  13	  11
+awa          	abehpero  	  16	  16
+awiyaana     	pisa      	  17	  17
+gadsup       	naba      	  18	  18
+inoke-yate   	mé/epo    	  19	  10
+tairora-north	ei        	  20	  20
+#
+Concept: 857_STONE, False Positives: yes, False Negatives: yes
+alekano      	gehá/aní/i  	   1	   1
+dano-asaro   	gé/eheni    	   1	   1
+siane        	kí/ifá/aná/a	   1	   1
+benabena     	efá/ahi     	   1	   4
+kamano       	há/ave      	   1	  11
+yaweyuha     	ehada       	   1	  15
+awa          	oniki       	   2	   2
+awiyaana     	ontamba     	   3	   3
+fore         	jabaː       	   6	   6
+inoke-yate   	jafá/a      	   6	   6
+yagaria      	javá/a      	   6	   6
+gadsup       	oni         	   7	   2
+gende        	owo         	   8	   8
+gimi         	i           	   9	   9
+tairora-north	ori         	  13	  13
+fore         	ebaː        	  16	  16
+gimi         	ijamu       	  17	  17
+#
+Concept: 867_backofhand, False Positives: yes, False Negatives: yes
+alekano      	megesá/a  	   1	   1
+benabena     	megé/esa  	   1	   1
+gende        	migi      	   1	   1
+kamano       	mä/agé/ena	   1	   1
+dano-asaro   	mehé/ene  	   1	   3
+inoke-yate   	kamé/e    	   1	   7
+siane        	me        	   1	   9
+yaweyuha     	emesa     	   1	  11
+fore         	ká/a      	   4	   4
+gimi         	kai       	   4	   4
+yagaria      	gé/elega  	  10	  10
+yagaria      	ké/e      	  12	   4
+#
+Concept: 868_BANANA, False Positives: no, False Negatives: yes
+alekano      	gizá/así/i	   1	   1
+dano-asaro   	gí/izese  	   1	   1
+gende        	kwie      	   1	   8
+inoke-yate   	kaí/ije   	   1	  10
+siane        	kî/ijé/e  	   1	  10
+awa          	potera    	   2	   2
+awiyaana     	tea       	   3	   3
+benabena     	í/igota   	   4	   4
+fore         	jaːgi     	   6	   6
+yagaria      	é/ege     	   6	   6
+gimi         	zaki      	   6	   9
+gadsup       	ei        	   7	   7
+kamano       	ká/ani    	  11	  11
+tairora-north	etaː      	  13	  13
+yaweyuha     	uve       	  15	  15
+#
+Concept: 879_COUGH, False Positives: yes, False Negatives: yes
+alekano      	gulu    	   1	   1
+dano-asaro   	gú/utu  	   1	   5
+gimi         	kotu    	   1	   5
+yagaria      	gatu    	   1	   5
+yaweyuha     	otu     	   1	   5
+awa          	ingobo  	   2	   2
+awiyaana     	untamba 	   3	   3
+benabena     	kuhu    	   4	   4
+fore         	kumo    	   4	   6
+siane        	kô/omú/u	   4	   6
+gende        	kogoma  	   4	   8
+inoke-yate   	kugo    	   4	   8
+kamano       	kugo    	   4	   8
+gadsup       	umiseu  	   7	   7
+tairora-north	untutiro	  13	  13
+fore         	kagá/ai 	  16	   8
+inoke-yate   	kató/o  	  17	   5
+yagaria      	gú/ugo  	  18	   8
+#
+Concept: 906_TREE, False Positives: yes, False Negatives: yes
+alekano      	za     	   1	   1
+dano-asaro   	zá/a   	   1	   1
+gende        	izo    	   1	   1
+gimi         	za     	   1	   1
+benabena     	já/afa 	   1	   4
+kamano       	já/afa 	   1	   4
+yagaria      	já/ava 	   1	   4
+fore         	já:/aː 	   1	   6
+siane        	já/a   	   1	   6
+yaweyuha     	ja     	   1	   6
+inoke-yate   	jó/osa 	   1	  10
+awa          	ta     	   2	   2
+awiyaana     	taima  	   3	   3
+gadsup       	jaːni  	   7	   7
+tairora-north	katari 	  13	  13
+awa          	awahnga	  16	  16
+inoke-yate   	jafa   	  17	   4
+#
+Concept: 907_OLD_WOMAN, False Positives: yes, False Negatives: yes
+alekano      	gelehó/osí/i	   1	   1
+dano-asaro   	é/eleni     	   1	   2
+awa          	oreni       	   2	   2
+awiyaana     	araːnkamba  	   3	   3
+benabena     	lí/itana    	   4	   4
+yagaria      	í/itene     	   6	   4
+fore         	aentá:/aː   	   6	   6
+gimi         	eda         	   6	   9
+gadsup       	ajokurinini 	   7	   7
+gende        	kindari     	   8	   8
+inoke-yate   	konove      	  10	  10
+kamano       	tä/avá/ava  	  11	  11
+siane        	kí/iló/ofó/o	  12	  10
+yaweyuha     	iloho       	  12	  15
+tairora-north	naenti+konta	  13	  13
+inoke-yate   	tavava      	  16	  11
+#
+Concept: 937_BIRD, False Positives: yes, False Negatives: no
+alekano      	namá/a  	   1	   1
+benabena     	namá/a  	   1	   1
+dano-asaro   	ná/ama  	   1	   1
+gimi         	ní/imí/i	   1	   1
+inoke-yate   	namá/a  	   1	   1
+kamano       	nä/amá/a	   1	   1
+siane        	nê/emá/a	   1	   1
+yagaria      	namá/a  	   1	   1
+yaweyuha     	namá/a  	   1	   1
+awa          	nuwo    	   2	   2
+awiyaana     	numana  	   3	   1
+fore         	kabara  	   6	   6
+gadsup       	numi    	   7	   1
+gende        	nakai   	   8	   8
+tairora-north	antau   	  13	  13
+#
+Concept: 946_BLOOD, False Positives: yes, False Negatives: yes
+alekano      	golá/aní/i	   1	   1
+benabena     	gó/olaha  	   1	   1
+fore         	koraː     	   1	   6
+gimi         	kora      	   1	   6
+inoke-yate   	kó/olá/a  	   1	   6
+kamano       	kó/ora    	   1	   6
+yagaria      	gó/ola    	   1	   6
+yaweyuha     	olada     	   1	  15
+awa          	nehe      	   2	   2
+awiyaana     	naema     	   3	   3
+dano-asaro   	vá/anise  	   5	   5
+gadsup       	naːrei    	   7	   7
+gende        	mamia     	   8	   8
+siane        	wá/anu    	   8	  12
+tairora-north	naːre     	  13	   7
+#
+Concept: 948_WATER, False Positives: yes, False Negatives: yes
+alekano      	nagamí/i	   1	   1
+benabena     	nagá/ami	   1	   1
+awa          	no      	   2	   2
+awiyaana     	nomba   	   3	   3
+gende        	nogoi   	   5	   1
+siane        	nǒ/o    	   5	   2
+yaweyuha     	no      	   5	   2
+dano-asaro   	nó/oso  	   5	   5
+yagaria      	ní/i    	   6	   2
+fore         	waní/i  	   6	   6
+gimi         	one     	   6	   6
+inoke-yate   	ani     	   6	   6
+gadsup       	nomi    	   7	   7
+kamano       	ti      	  11	  11
+tairora-north	namari  	  13	   7
+fore         	á/aina  	  16	  16
+gimi         	bene    	  17	   6
+inoke-yate   	tí/i    	  18	  11
+inoke-yate   	ali     	  19	  19
+#
+Concept: 960_WIND, False Positives: yes, False Negatives: yes
+alekano      	hé/epé/e 	   1	   1
+dano-asaro   	hé/epe   	   1	   1
+siane        	epe      	   1	   1
+awa          	toiri    	   2	   2
+awiyaana     	undama   	   3	   3
+benabena     	já/asi   	   4	   4
+inoke-yate   	já/así/i 	   4	   4
+yagaria      	já/asi   	   4	   4
+fore         	esibá:/aː	   4	   6
+gimi         	zasina   	   4	   9
+yaweyuha     	lasi     	   4	  15
+gadsup       	tisobaːni	   7	   7
+gende        	ngomorai 	   8	   8
+kamano       	jä/ahó/o 	  11	   4
+tairora-north	ubai     	  13	  13
+alekano      	uná/a    	  16	  16
+awiyaana     	taukwia  	  17	  17
+yaweyuha     	jasi     	  18	   4
+yaweyuha     	sasi     	  19	   9
+#
+Concept: 962_WOMAN, False Positives: yes, False Negatives: yes
+alekano      	vená/a  	   1	   1
+dano-asaro   	vé/ene  	   1	   1
+yaweyuha     	mé/ená/a	   1	   1
+awa          	ahre    	   2	   2
+awiyaana     	arema   	   3	   3
+gende        	ana     	   4	   1
+siane        	wé/ená/a	   4	   1
+benabena     	á/ai    	   4	   4
+inoke-yate   	á/a     	   4	  10
+kamano       	á/a     	   4	  10
+yagaria      	á/a     	   4	  10
+fore         	wá/ajaː 	   6	   6
+gimi         	baza    	   6	   9
+gadsup       	anaːtsi 	   7	   7
+tairora-north	naenti  	  13	  13
+#
+Concept: 974_TOBACCO, False Positives: yes, False Negatives: yes
+alekano      	usí/i  	   1	   1
+dano-asaro   	usí/i  	   1	   1
+gimi         	usi    	   1	   1
+inoke-yate   	usi    	   1	   1
+siane        	û/usí/i	   1	   1
+yaweyuha     	usi    	   1	   1
+gende        	utu    	   1	   5
+benabena     	fú/uka 	   2	   2
+fore         	pukaː  	   2	   2
+kamano       	fú/uka 	   2	   2
+yagaria      	fú/uka 	   2	   2
+fore         	usí/i  	  12	   1
+inoke-yate   	fú/uka 	  13	   2
+yagaria      	usi    	  14	   1
+#
+Concept: 977_ARROW, False Positives: no, False Negatives: yes
+alekano      	magé/e 	   1	   1
+benabena     	magé/e 	   1	   1
+awa          	poriah 	   2	   2
+awiyaana     	paroima	   3	   3
+dano-asaro   	é/elese	   5	   5
+fore         	í/ire  	   5	   6
+gende        	ere    	   5	   6
+gimi         	iri    	   5	   6
+siane        	î/ilé/e	   5	  12
+yagaria      	halí/i 	   5	  12
+yaweyuha     	ile    	   5	  12
+gadsup       	pakoni 	   7	   7
+inoke-yate   	keve   	  10	  10
+kamano       	ké/eve 	  10	  10
+tairora-north	beba   	  13	  13
+yagaria      	aleija 	  16	  16
+#
+Concept: 981_ELBOW, False Positives: yes, False Negatives: yes
+alekano      	ó/omú/uva 	   1	   1
+dano-asaro   	ó/ombuvo  	   1	   1
+siane        	ú/umola   	   1	  12
+yaweyuha     	bo        	   1	  15
+awa          	ajajo     	   2	   2
+awiyaana     	ajaːnaumba	   3	   3
+benabena     	kupa      	   4	   4
+inoke-yate   	nupa      	   4	  10
+kamano       	vú/ua     	   4	  11
+fore         	ao        	   6	   6
+yagaria      	oú/u      	   6	   6
+gadsup       	ajaːjomi  	   7	   2
+gende        	poma      	   8	   8
+gimi         	su        	   9	   9
+tairora-north	kaːntaː   	  13	  13
+#
+Concept: 98_ALL, False Positives: yes, False Negatives: yes
+alekano      	mú/uki   	   1	   1
+dano-asaro   	mukí/i   	   1	   1
+inoke-yate   	muki     	   1	   1
+kamano       	mí/ika   	   1	   1
+siane        	mú/uki   	   1	   1
+yaweyuha     	muki     	   1	   1
+yagaria      	bú/uki   	   1	   8
+awa          	moke     	   2	   1
+awiyaana     	amapaa   	   3	   3
+benabena     	á/asaga  	   4	   4
+gimi         	hago     	   4	   4
+fore         	ajá:/aːma	   6	   6
+gadsup       	masidemi 	   7	   7
+gende        	pragi    	   8	   8
+tairora-north	ekaː     	  13	   1
+yaweyuha     	vavuleko 	  15	  15
+#

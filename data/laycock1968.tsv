@@ -1,0 +1,1834 @@
+# Wordlist
+
+# DATA
+ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	NOTE	SOURCE	COGID
+242820	seta	1554_MAN	oma	oma	o m a		laycock1968	22929
+242862	seta	962_WOMAN	pin	pin	p i n		laycock1968	23473
+242904	seta	2099_CHILD	awute	awute	a w u t e		laycock1968	23161
+242944	seta	1217_FATHER	aya	aya	a j a		laycock1968	23129
+242985	seta	1216_MOTHER	ama	ama	a m a		laycock1968	23400
+243026	seta	1209_I	ki	ki	k i		laycock1968	22863
+243065	seta	1215_THOU	yo	yo	j o		laycock1968	23108
+243104	seta	1212_WE	mo	mo	m o		laycock1968	23492
+243140	seta	2304_THEE_OBLIQUE_CASE_OF_YOU	po	po	p o		laycock1968	22873
+243176	seta	817_THEY	no	no	n o		laycock1968	22837
+243210	seta	1256_HEAD	sela	sela	s e l a		laycock1968	22966
+243249	seta	1248_EYE	naməna	naməna	n a m ə n a		laycock1968	22880
+243290	seta	1221_NOSE	sülü	sülü	s ü/u l ü/u		laycock1968	22821
+243330	seta	1247_EAR	təpəli	təpəli	t ə p ə l i		laycock1968	23467
+243372	seta	1380_TOOTH	nelə	nelə	n e l ə		laycock1968	23254
+243414	seta	1205_TONGUE	ŋkotelə	ŋkotelə	ŋ k o t e l ə		laycock1968	23037
+243453	seta	2121_ARM_OR_HAND	meu	meu	m e u		laycock1968	22919
+243495	seta	1402_BREAST	mommo	mommo	m o m m o		laycock1968	23509
+243536	seta	1251_BELLY	pənaluwa	pənaluwa	p ə n a l u w a		laycock1968	23000
+243572	seta	2098_FOOT_OR_LEG	teu	teu	t e u		laycock1968	23334
+243614	seta	763_SKIN	tapio	tapio	t a p i o		laycock1968	23286
+243655	seta	946_BLOOD	soli	soli	s o l i		laycock1968	23124
+243697	seta	1394_BONE	kamóya	kamóya	k a m ó/o j a		laycock1968	22875
+243738	seta	1343_SUN	kepli	kepli	k e p l i		laycock1968	23450
+243780	seta	1313_MOON	funmo	funmo	f u n m o		laycock1968	23643
+243822	seta	1430_STAR	kulokula	kulokula	k u l o k u l a		laycock1968	23506
+243863	seta	2108_RAINING_OR_RAIN	wu	wu	w u		laycock1968	22905
+243904	seta	948_WATER	mi	mi	m i		laycock1968	22967
+243946	seta	2159_GROUND	pe:ki	pe:ki	p eː k i		laycock1968	23110
+243987	seta	857_STONE	tumala	tumala	t u m a l a		laycock1968	23585
+244029	seta	960_WIND	tatfəla	tatfəla	t a t f ə l a		laycock1968	23363
+244070	seta	221_FIRE	sakul	sakul	s a k u l		laycock1968	23504
+244112	seta	778_SMOKE_EXHAUST	nompə1o	nompə1o	n o m p ə ɨ o		laycock1968	23508
+244152	seta	906_TREE	si	si	s i		laycock1968	22921
+244194	seta	2009_DOG	pa:lə	pa:lə	p aː l ə		laycock1968	23529
+244236	seta	937_BIRD	pəsiapa	pəsiapa	p ə s i a p a		laycock1968	23527
+244278	seta	744_EGG	a:mo	a:mo	aː m o		laycock1968	23619
+244318	seta	1392_LOUSE	təmofəl	təmofəl	t ə m o f ə l		laycock1968	22947
+244357	seta	1035_GOOD	upo	upo	u p o		laycock1968	23261
+244395	seta	1292_BAD	fayo	fayo	f a j o		laycock1968	22936
+244432	seta	156_RED	pu:no	pu:no	p uː n o		laycock1968	23357
+244465	seta	1335_WHITE	tatupo	tatupo	t a t u p o		laycock1968	23552
+244498	seta	163_BLACK	ko:liyo	ko:liyo	k oː l i j o		laycock1968	23347
+244533	seta	1208_CAT	ku	ku	k u		laycock1968	23614
+244572	seta	695_GO	ei	ei	e i		laycock1968	22850
+244609	seta	1498_TWO	pəla	pəla	p ə l a		laycock1968	22866
+242856	ambulas	1554_MAN	dw	dw	d w		laycock1968	23351
+242898	ambulas	962_WOMAN	takwʌ	takwʌ	t a k w ʌ		laycock1968	23427
+242938	ambulas	2099_CHILD	ñan	ñan	ɲ a n		laycock1968	23416
+242979	ambulas	1217_FATHER	apʌ	apʌ	a p ʌ		laycock1968	22838
+243020	ambulas	1216_MOTHER	nwʌ	nwʌ	n w ʌ		laycock1968	23628
+243059	ambulas	1209_I	wnə	wnə	w n ə		laycock1968	23478
+243098	ambulas	1215_THOU	mənə	mənə	m ə n ə		laycock1968	23414
+243134	ambulas	1212_WE	nʌnʌ	nʌnʌ	n ʌ n ʌ		laycock1968	23256
+243170	ambulas	2304_THEE_OBLIQUE_CASE_OF_YOU	gwnə	gwnə	g w n ə		laycock1968	23105
+243204	ambulas	817_THEY	dʌy	dʌy	d ʌ j		laycock1968	23403
+243243	ambulas	1256_HEAD	makʌ	makʌ	m a k ʌ		laycock1968	23466
+243284	ambulas	1248_EYE	myny	myny	m j n j		laycock1968	23168
+243325	ambulas	1221_NOSE	tamʌ	tamʌ	t a m ʌ		laycock1968	23381
+243366	ambulas	1247_EAR	wan	wan	w a n		laycock1968	23319
+243408	ambulas	1380_TOOTH	nəby	nəby	n ə b j		laycock1968	23598
+243447	ambulas	1205_TONGUE	təkalə	təkalə	t ə k a l ə		laycock1968	23511
+243489	ambulas	2121_ARM_OR_HAND	tabʌ	tabʌ	t a b ʌ		laycock1968	23098
+243531	ambulas	1402_BREAST	mwña	mwña	m w ɲ a		laycock1968	23648
+243567	ambulas	1251_BELLY	byʌ	byʌ	b j ʌ		laycock1968	22886
+243608	ambulas	2098_FOOT_OR_LEG	man	man	m a n		laycock1968	23151
+243649	ambulas	763_SKIN	cəpə	cəpə	c ə p ə		laycock1968	23146
+243691	ambulas	946_BLOOD	ñəky	ñəky	ɲ ə k j		laycock1968	22960
+243732	ambulas	1394_BONE	apʌ	apʌ	a p ʌ		laycock1968	23224
+243774	ambulas	1343_SUN	ña	ña	ɲ a		laycock1968	22907
+243816	ambulas	1313_MOON	bapmw	bapmw	b a p m w		laycock1968	22846
+243858	ambulas	1430_STAR	kwn	kwn	k w n		laycock1968	23071
+243899	ambulas	2108_RAINING_OR_RAIN	mac	mac	m a c		laycock1968	22952
+243940	ambulas	948_WATER	gw	gw	g w		laycock1968	23607
+243982	ambulas	2159_GROUND	kəpma	kəpma	k ə p m a		laycock1968	23317
+244023	ambulas	857_STONE	matw	matw	m a t w		laycock1968	23113
+244065	ambulas	960_WIND	wymt	wymt	w j m t		laycock1968	23235
+244106	ambulas	221_FIRE	ya	ya	j a		laycock1968	22995
+244147	ambulas	778_SMOKE_EXHAUST	yacñə	yacñə	j a c ɲ ə		laycock1968	23374
+244188	ambulas	906_TREE	my	my	m j		laycock1968	23212
+244230	ambulas	2009_DOG	wacʌ	wacʌ	w a c ʌ		laycock1968	23203
+244272	ambulas	937_BIRD	apwy	apwy	a p w j		laycock1968	22950
+244312	ambulas	744_EGG	gək	gək	g ə k		laycock1968	22925
+244352	ambulas	1392_LOUSE	ñəmw	ñəmw	ɲ ə m w		laycock1968	22806
+244389	ambulas	1035_GOOD	ykw	ykw	j k w		laycock1968	23138
+244426	ambulas	1292_BAD	kaprʌy	kaprʌy	k a p r ʌ j		laycock1968	23289
+244460	ambulas	156_RED	ñəky	ñəky	ɲ ə k j		laycock1968	23054
+244492	ambulas	1335_WHITE	wamʌ	wamʌ	w a m ʌ		laycock1968	23320
+244527	ambulas	163_BLACK	gələ	gələ	g ə l ə		laycock1968	23512
+244566	ambulas	1208_CAT	kʌ	kʌ	k ʌ		laycock1968	23614
+244603	ambulas	695_GO	y	y	j		laycock1968	23524
+244644	ambulas	1498_TWO	vətyk	vətyk	v ə t j k		laycock1968	23443
+242857	kwoma	1554_MAN	ma	ma	m a		laycock1968	23204
+242899	kwoma	962_WOMAN	mi:ma	mi:ma	m iː m a		laycock1968	23100
+242939	kwoma	2099_CHILD	yigapa	yigapa	j i g a p a		laycock1968	23398
+242980	kwoma	1217_FATHER	afəje	afəje	a f ə j e		laycock1968	22838
+243021	kwoma	1216_MOTHER	auwi	auwi	a u w i		laycock1968	23180
+243060	kwoma	1209_I	an	an	a n		laycock1968	23586
+243099	kwoma	1215_THOU	mə	mə	m ə		laycock1968	23414
+243135	kwoma	1212_WE	no	no	n o		laycock1968	23256
+243171	kwoma	2304_THEE_OBLIQUE_CASE_OF_YOU	kuta	kuta	k u t a		laycock1968	23105
+243205	kwoma	817_THEY	ye	ye	j e		laycock1968	23382
+243244	kwoma	1256_HEAD	masək	masək	m a s ə k		laycock1968	23335
+243285	kwoma	1248_EYE	mi:	mi:	m iː		laycock1968	23168
+243326	kwoma	1221_NOSE	sumwonj	sumwonj	s u m w o n j		laycock1968	23214
+243367	kwoma	1247_EAR	fu:	fu:	f uː		laycock1968	22854
+243409	kwoma	1380_TOOTH	tarəkwi	tarəkwi	t a r ə k w i		laycock1968	23542
+243448	kwoma	1205_TONGUE	kwunja	kwunja	k w u n j a		laycock1968	23095
+243490	kwoma	2121_ARM_OR_HAND	ta:pa	ta:pa	t aː p a		laycock1968	23098
+243532	kwoma	1402_BREAST	muk	muk	m u k		laycock1968	23331
+243568	kwoma	1251_BELLY	mpə	mpə	m p ə		laycock1968	22886
+243609	kwoma	2098_FOOT_OR_LEG	ya:te	ya:te	j aː t e		laycock1968	23200
+243650	kwoma	763_SKIN	mampə	mampə	m a m p ə		laycock1968	22879
+243692	kwoma	946_BLOOD	pi	pi	p i		laycock1968	23033
+243733	kwoma	1394_BONE	hapa	hapa	h a p a		laycock1968	23224
+243775	kwoma	1343_SUN	ya	ya	j a		laycock1968	23002
+243817	kwoma	1313_MOON	nowəka	nowəka	n o w ə k a		laycock1968	23349
+243859	kwoma	1430_STAR	wuñəmai	wuñəmai	w u ɲ ə m a i		laycock1968	23572
+243900	kwoma	2108_RAINING_OR_RAIN	wayip	wayip	w a j i p		laycock1968	22898
+243941	kwoma	948_WATER	uku	uku	u k u		laycock1968	23607
+243983	kwoma	2159_GROUND	nosap	nosap	n o s a p		laycock1968	22885
+244024	kwoma	857_STONE	papa	papa	p a p a		laycock1968	23371
+244066	kwoma	960_WIND	sowa	sowa	s o w a		laycock1968	22865
+244107	kwoma	221_FIRE	hi:	hi:	h iː		laycock1968	23461
+244148	kwoma	778_SMOKE_EXHAUST	rəka	rəka	r ə k a		laycock1968	22832
+244189	kwoma	906_TREE	me	me	m e		laycock1968	23212
+244231	kwoma	2009_DOG	asa	asa	a s a		laycock1968	23203
+244273	kwoma	937_BIRD	apu	apu	a p u		laycock1968	22950
+244313	kwoma	744_EGG	mpei	mpei	m p e i		laycock1968	23577
+244353	kwoma	1392_LOUSE	nəkə	nəkə	n ə k ə		laycock1968	23162
+244390	kwoma	1035_GOOD	kep	kep	k e p		laycock1968	23090
+244427	kwoma	1292_BAD	kafəsek	kafəsek	k a f ə s e k		laycock1968	23289
+244461	kwoma	156_RED	nai	nai	n a i		laycock1968	23423
+244493	kwoma	1335_WHITE	afama	afama	a f a m a		laycock1968	23320
+244528	kwoma	163_BLACK	kəhapa	kəhapa	k ə h a p a		laycock1968	22836
+244567	kwoma	1208_CAT	a	a	a		laycock1968	22984
+244604	kwoma	695_GO	i	i	i		laycock1968	23524
+244645	kwoma	1498_TWO	uprus	uprus	u p r u s		laycock1968	23165
+242846	awtuw	1554_MAN	ramiyan	ramiyan	r a m i j a n		laycock1968	23115
+242888	awtuw	962_WOMAN	taləran	taləran	t a l ə r a n		laycock1968	23590
+242929	awtuw	2099_CHILD	yal	yal	j a l		laycock1968	23624
+242970	awtuw	1217_FATHER	ŋayi	ŋayi	ŋ a j i		laycock1968	23129
+243011	awtuw	1216_MOTHER	ŋami	ŋami	ŋ a m i		laycock1968	23400
+243050	awtuw	1209_I	wan	wan	w a n		laycock1968	23313
+243089	awtuw	1215_THOU	yin	yin	j i n		laycock1968	22972
+243126	awtuw	1212_WE	nam	nam	n a m		laycock1968	23094
+243162	awtuw	2304_THEE_OBLIQUE_CASE_OF_YOU	am	am	a m		laycock1968	23284
+243196	awtuw	817_THEY	ram	ram	r a m		laycock1968	23487
+243234	awtuw	1256_HEAD	makəlak	makəlak	m a k ə l a k		laycock1968	23466
+243274	awtuw	1248_EYE	nü	nü	n ü/u		laycock1968	23397
+243315	awtuw	1221_NOSE	witil	witil	w i t i l		laycock1968	22915
+243356	awtuw	1247_EAR	ma:na	ma:na	m aː n a		laycock1968	23152
+243398	awtuw	1380_TOOTH	pilak	pilak	p i l a k		laycock1968	22812
+243437	awtuw	1205_TONGUE	la:lə	la:lə	l aː l ə		laycock1968	23647
+243479	awtuw	2121_ARM_OR_HAND	yilə	yilə	j i l ə		laycock1968	23039
+243521	awtuw	1402_BREAST	mwi	mwi	m w i		laycock1968	23331
+243557	awtuw	1251_BELLY	wak	wak	w a k		laycock1968	23296
+243598	awtuw	2098_FOOT_OR_LEG	riiwe	riiwe	r iː w e		laycock1968	23432
+243640	awtuw	763_SKIN	yai	yai	j a i		laycock1968	23561
+243681	awtuw	946_BLOOD	aipi	aipi	a i p i		laycock1968	23439
+243723	awtuw	1394_BONE	lakər	lakər	l a k ə r		laycock1968	23430
+243764	awtuw	1343_SUN	may	may	m a j		laycock1968	23482
+243806	awtuw	1313_MOON	yelmek	yelmek	j e l m e k		laycock1968	23131
+243848	awtuw	1430_STAR	wu:p	wu:p	w uː p		laycock1968	23281
+243889	awtuw	2108_RAINING_OR_RAIN	yelə	yelə	j e l ə		laycock1968	23198
+243930	awtuw	948_WATER	yüw	yüw	j ü/u w		laycock1968	23149
+243972	awtuw	2159_GROUND	nü	nü	n ü/u		laycock1968	22815
+244013	awtuw	857_STONE	til	til	t i l		laycock1968	23534
+244055	awtuw	960_WIND	yik	yik	j i k		laycock1968	23315
+244096	awtuw	221_FIRE	tapo	tapo	t a p o		laycock1968	22939
+244138	awtuw	778_SMOKE_EXHAUST	liyou	liyou	l i j o u		laycock1968	23044
+244178	awtuw	906_TREE	tau	tau	t a u		laycock1968	23570
+244220	awtuw	2009_DOG	pi:rən	pi:rən	p iː r ə n		laycock1968	23262
+244262	awtuw	937_BIRD	yi	yi	j i		laycock1968	23321
+244303	awtuw	744_EGG	paŋkə	paŋkə	p a ŋ k ə		laycock1968	23436
+244342	awtuw	1392_LOUSE	nin	nin	n i n		laycock1968	22974
+244381	awtuw	1035_GOOD	mete	mete	m e t e		laycock1968	23488
+244419	awtuw	1292_BAD	monokna	monokna	m o n o k n a		laycock1968	23631
+244452	awtuw	156_RED	eipikwo	eipikwo	e i p i k w o		laycock1968	23283
+244486	awtuw	1335_WHITE	kiwokwo	kiwokwo	k i w o k w o		laycock1968	22962
+244519	awtuw	163_BLACK	təprai	təprai	t ə p r a i		laycock1968	23559
+244558	awtuw	1208_CAT	ra	ra	r a		laycock1968	22989
+244596	awtuw	695_GO	tə	tə	t ə		laycock1968	23096
+244635	awtuw	1498_TWO	yikir	yikir	j i k i r		laycock1968	22930
+242853	iwam	1554_MAN	kam	kam	k a m		laycock1968	22818
+242895	iwam	962_WOMAN	wik	wik	w i k		laycock1968	23064
+242935	iwam	2099_CHILD	isem	isem	i s e m		laycock1968	23449
+242976	iwam	1217_FATHER	at	at	a t		laycock1968	23393
+243017	iwam	1216_MOTHER	ipi	ipi	i p i		laycock1968	23510
+243056	iwam	1209_I	ka	ka	k a		laycock1968	23116
+243095	iwam	1215_THOU	ki	ki	k i		laycock1968	23301
+243131	iwam	1212_WE	kərəma	kərəma	k ə r ə m a		laycock1968	23588
+243167	iwam	2304_THEE_OBLIQUE_CASE_OF_YOU	koma	koma	k o m a		laycock1968	23215
+243201	iwam	817_THEY	soma	soma	s o m a		laycock1968	22968
+243240	iwam	1256_HEAD	mu	mu	m u		laycock1968	23497
+243281	iwam	1248_EYE	nu	nu	n u		laycock1968	23397
+243322	iwam	1221_NOSE	nomwos	nomwos	n o m w o s		laycock1968	22965
+243363	iwam	1247_EAR	wun	wun	w u n		laycock1968	23319
+243405	iwam	1380_TOOTH	piknu	piknu	p i k n u		laycock1968	22812
+243444	iwam	1205_TONGUE	kwane	kwane	k w a n e		laycock1968	23373
+243486	iwam	2121_ARM_OR_HAND	an	an	a n		laycock1968	23264
+243528	iwam	1402_BREAST	muy	muy	m u j		laycock1968	23331
+243564	iwam	1251_BELLY	mwi	mwi	m w i		laycock1968	23364
+243605	iwam	2098_FOOT_OR_LEG	wərku	wərku	w ə r k u		laycock1968	22927
+243646	iwam	763_SKIN	pəw	pəw	p ə w		laycock1968	23444
+243688	iwam	946_BLOOD	ni	ni	n i		laycock1968	23148
+243729	iwam	1394_BONE	kew	kew	k e w		laycock1968	23601
+243771	iwam	1343_SUN	pi	pi	p i		laycock1968	23638
+243813	iwam	1313_MOON	pwan	pwan	p w a n		laycock1968	23526
+243855	iwam	1430_STAR	nawiyan	nawiyan	n a w i j a n		laycock1968	23299
+243896	iwam	2108_RAINING_OR_RAIN	ŋaw	ŋaw	ŋ a w		laycock1968	23453
+243937	iwam	948_WATER	op	op	o p		laycock1968	23308
+243979	iwam	2159_GROUND	nu	nu	n u		laycock1968	22815
+244020	iwam	857_STONE	siya	siya	s i j a		laycock1968	22941
+244062	iwam	960_WIND	han	han	h a n		laycock1968	23390
+244103	iwam	221_FIRE	pay	pay	p a j		laycock1968	23361
+244144	iwam	778_SMOKE_EXHAUST	pawi	pawi	p a w i		laycock1968	23636
+244185	iwam	906_TREE	paykap	paykap	p a j k a p		laycock1968	23021
+244227	iwam	2009_DOG	nwa	nwa	n w a		laycock1968	23004
+244269	iwam	937_BIRD	owit	owit	o w i t		laycock1968	23267
+244310	iwam	744_EGG	yen	yen	j e n		laycock1968	23513
+244349	iwam	1392_LOUSE	ŋən	ŋən	ŋ ə n		laycock1968	22974
+244387	iwam	1035_GOOD	kapənaŋki	kapənaŋki	k a p ə n a ŋ k i		laycock1968	22833
+244424	iwam	1292_BAD	piyənaŋki	piyənaŋki	p i j ə n a ŋ k i		laycock1968	23268
+244458	iwam	156_RED	paynaŋka	paynaŋka	p a j n a ŋ k a		laycock1968	23079
+244525	iwam	163_BLACK	yawnaŋka	yawnaŋka	j a w n a ŋ k a		laycock1968	23350
+244564	iwam	1208_CAT	nay	nay	n a j		laycock1968	22874
+244601	iwam	695_GO	amí	amí	a m í/i		laycock1968	23144
+244641	iwam	1498_TWO	ŋwis	ŋwis	ŋ w i s		laycock1968	23278
+242852	abau	1554_MAN	ur	ur	u r		laycock1968	23622
+242894	abau	962_WOMAN	sa	sa	s a		laycock1968	23427
+242934	abau	2099_CHILD	ne	ne	n e		laycock1968	23354
+242975	abau	1217_FATHER	ayo	ayo	a j o		laycock1968	23129
+243016	abau	1216_MOTHER	yipe	yipe	j i p e		laycock1968	23510
+243055	abau	1209_I	ha	ha	h a		laycock1968	23116
+243094	abau	1215_THOU	hun	hun	h u n		laycock1968	22926
+243130	abau	1212_WE	hrom	hrom	h r o m		laycock1968	23588
+243166	abau	2304_THEE_OBLIQUE_CASE_OF_YOU	hom	hom	h o m		laycock1968	23215
+243200	abau	817_THEY	hom	hom	h o m		laycock1968	22968
+243239	abau	1256_HEAD	makwe	makwe	m a k w e		laycock1968	23466
+243280	abau	1248_EYE	nanɛ	nanɛ	n a n ɛ		laycock1968	23404
+243321	abau	1221_NOSE	kasan	kasan	k a s a n		laycock1968	23118
+243362	abau	1247_EAR	nwek	nwek	n w e k		laycock1968	23386
+243404	abau	1380_TOOTH	nas	nas	n a s		laycock1968	22894
+243443	abau	1205_TONGUE	sanɛ	sanɛ	s a n ɛ		laycock1968	23373
+243485	abau	2121_ARM_OR_HAND	yiha	yiha	j i h a		laycock1968	22877
+243527	abau	1402_BREAST	mu	mu	m u		laycock1968	23331
+243563	abau	1251_BELLY	swaro	swaro	s w a r o		laycock1968	23531
+243604	abau	2098_FOOT_OR_LEG	sunɛ	sunɛ	s u n ɛ		laycock1968	23432
+243645	abau	763_SKIN	ohi	ohi	o h i		laycock1968	23494
+243687	abau	946_BLOOD	nyoh	nyoh	n j o h		laycock1968	23148
+243728	abau	1394_BONE	ayo	ayo	a j o		laycock1968	23523
+243770	abau	1343_SUN	e	e	e		laycock1968	23060
+243812	abau	1313_MOON	yeny	yeny	j e n j		laycock1968	23117
+243854	abau	1430_STAR	napwar	napwar	n a p w a r		laycock1968	23299
+243895	abau	2108_RAINING_OR_RAIN	swari	swari	s w a r i		laycock1968	23063
+243936	abau	948_WATER	hu	hu	h u		laycock1968	23607
+243978	abau	2159_GROUND	ki	ki	k i		laycock1968	23584
+244019	abau	857_STONE	məny	məny	m ə n j		laycock1968	23328
+244061	abau	960_WIND	anhɔh	anhɔh	a n h ɔ h		laycock1968	23104
+244102	abau	221_FIRE	ya	ya	j a		laycock1968	22995
+244143	abau	778_SMOKE_EXHAUST	yakw	yakw	j a k w		laycock1968	23374
+244184	abau	906_TREE	no	no	n o		laycock1968	23247
+244226	abau	2009_DOG	nwɔhɔ	nwɔhɔ	n w ɔ h ɔ		laycock1968	23004
+244268	abau	937_BIRD	ahnɛ	ahnɛ	a h n ɛ		laycock1968	22950
+244309	abau	744_EGG	ne	ne	n e		laycock1968	22889
+244348	abau	1392_LOUSE	mapru	mapru	m a p r u		laycock1968	23253
+244386	abau	1035_GOOD	yapre	yapre	j a p r e		laycock1968	23421
+244423	abau	1292_BAD	pəriyap	pəriyap	p ə r i j a p		laycock1968	23571
+244457	abau	156_RED	o	o	o		laycock1968	23505
+244490	abau	1335_WHITE	wes	wes	w e s		laycock1968	23107
+244524	abau	163_BLACK	ɔr	ɔr	ɔ r		laycock1968	23034
+244563	abau	1208_CAT	ra	ra	r a		laycock1968	22989
+244600	abau	695_GO	re	re	r e		laycock1968	23096
+244640	abau	1498_TWO	pris	pris	p r i s		laycock1968	23165
+242850	yessan-mayo	1554_MAN	tama	tama	t a m a		laycock1968	22818
+242892	yessan-mayo	962_WOMAN	ta:	ta:	t aː		laycock1968	23427
+242933	yessan-mayo	2099_CHILD	yen	yen	j e n		laycock1968	23624
+242974	yessan-mayo	1217_FATHER	ari	ari	a r i		laycock1968	22807
+243015	yessan-mayo	1216_MOTHER	nawi	nawi	n a w i		laycock1968	23628
+243053	yessan-mayo	1209_I	an	an	a n		laycock1968	23586
+243092	yessan-mayo	1215_THOU	na	na	n a		laycock1968	22820
+243129	yessan-mayo	1212_WE	naləm	naləm	n a l ə m		laycock1968	23094
+243165	yessan-mayo	2304_THEE_OBLIQUE_CASE_OF_YOU	kaləm	kaləm	k a l ə m		laycock1968	23392
+243199	yessan-mayo	817_THEY	atəm	atəm	a t ə m		laycock1968	23487
+243238	yessan-mayo	1256_HEAD	tara	tara	t a r a		laycock1968	23016
+243278	yessan-mayo	1248_EYE	la	la	l a		laycock1968	22809
+243319	yessan-mayo	1221_NOSE	raŋki	raŋki	r a ŋ k i		laycock1968	23307
+243360	yessan-mayo	1247_EAR	wan	wan	w a n		laycock1968	23319
+243402	yessan-mayo	1380_TOOTH	lir	lir	l i r		laycock1968	22956
+243441	yessan-mayo	1205_TONGUE	tawlə	tawlə	t a w l ə		laycock1968	23095
+243483	yessan-mayo	2121_ARM_OR_HAND	lat	lat	l a t		laycock1968	22981
+243525	yessan-mayo	1402_BREAST	mukw	mukw	m u k w		laycock1968	23331
+243561	yessan-mayo	1251_BELLY	kimpur	kimpur	k i m p u r		laycock1968	23041
+243602	yessan-mayo	2098_FOOT_OR_LEG	towa	towa	t o w a		laycock1968	23432
+243644	yessan-mayo	763_SKIN	was	was	w a s		laycock1968	22891
+243685	yessan-mayo	946_BLOOD	nap	nap	n a p		laycock1968	23148
+243727	yessan-mayo	1394_BONE	yaha	yaha	j a h a		laycock1968	23224
+243768	yessan-mayo	1343_SUN	yampəl	yampəl	j a m p ə l		laycock1968	23543
+243810	yessan-mayo	1313_MOON	lup	lup	l u p		laycock1968	23362
+243852	yessan-mayo	1430_STAR	sow	sow	s o w		laycock1968	23188
+243893	yessan-mayo	2108_RAINING_OR_RAIN	mo	mo	m o		laycock1968	23520
+243934	yessan-mayo	948_WATER	okw	okw	o k w		laycock1968	23607
+243976	yessan-mayo	2159_GROUND	sel	sel	s e l		laycock1968	23459
+244017	yessan-mayo	857_STONE	pa	pa	p a		laycock1968	23371
+244059	yessan-mayo	960_WIND	pulə	pulə	p u l ə		laycock1968	23485
+244100	yessan-mayo	221_FIRE	kər	kər	k ə r		laycock1968	23081
+244142	yessan-mayo	778_SMOKE_EXHAUST	yar	yar	j a r		laycock1968	23322
+244182	yessan-mayo	906_TREE	me	me	m e		laycock1968	23212
+244224	yessan-mayo	2009_DOG	wala	wala	w a l a		laycock1968	23055
+244266	yessan-mayo	937_BIRD	ap	ap	a p		laycock1968	22950
+244307	yessan-mayo	744_EGG	yen	yen	j e n		laycock1968	23513
+244346	yessan-mayo	1392_LOUSE	ni	ni	n i		laycock1968	22974
+244385	yessan-mayo	1035_GOOD	yanpo	yanpo	j a n p o		laycock1968	22817
+244422	yessan-mayo	1292_BAD	yapər	yapər	j a p ə r		laycock1968	23078
+244456	yessan-mayo	156_RED	kwufukap	kwufukap	k w u f u k a p		laycock1968	22996
+244489	yessan-mayo	1335_WHITE	ŋkei	ŋkei	ŋ k e i		laycock1968	23451
+244523	yessan-mayo	163_BLACK	kəsafaf	kəsafaf	k ə s a f a f		laycock1968	23190
+244561	yessan-mayo	1208_CAT	a	a	a		laycock1968	22984
+244599	yessan-mayo	695_GO	yi	yi	j i		laycock1968	23524
+244638	yessan-mayo	1498_TWO	fes	fes	f e s		laycock1968	23589
+242859	namia	1554_MAN	lu	lu	l u		laycock1968	23351
+242901	namia	962_WOMAN	ere	ere	e r e		laycock1968	22808
+242941	namia	2099_CHILD	tan	tan	t a n		laycock1968	23270
+242982	namia	1217_FATHER	eya	eya	e j a		laycock1968	23129
+243023	namia	1216_MOTHER	mo	mo	m o		laycock1968	23280
+243062	namia	1209_I	won	won	w o n		laycock1968	23478
+243101	namia	1215_THOU	ni	ni	n i		laycock1968	22820
+243137	namia	1212_WE	eim	eim	e i m		laycock1968	22917
+243173	namia	2304_THEE_OBLIQUE_CASE_OF_YOU	um	um	u m		laycock1968	23017
+243207	namia	817_THEY	ləm	ləm	l ə m		laycock1968	23487
+243246	namia	1256_HEAD	magu	magu	m a g u		laycock1968	23466
+243287	namia	1248_EYE	eno	eno	e n o		laycock1968	23535
+243328	namia	1221_NOSE	nəmala	nəmala	n ə m a l a		laycock1968	23177
+243369	namia	1247_EAR	mak	mak	m a k		laycock1968	23646
+243411	namia	1380_TOOTH	pinarə	pinarə	p i n a r ə		laycock1968	22812
+243450	namia	1205_TONGUE	lar	lar	l a r		laycock1968	23647
+243492	namia	2121_ARM_OR_HAND	larə	larə	l a r ə		laycock1968	22981
+243534	namia	1402_BREAST	mu	mu	m u		laycock1968	23331
+243570	namia	1251_BELLY	li:	li:	l iː		laycock1968	23128
+243611	namia	2098_FOOT_OR_LEG	li:	li:	l iː		laycock1968	22937
+243652	namia	763_SKIN	urarə	urarə	u r a r ə		laycock1968	23406
+243694	namia	946_BLOOD	norə	norə	n o r ə		laycock1968	23599
+243735	namia	1394_BONE	lak	lak	l a k		laycock1968	23430
+243777	namia	1343_SUN	wuluwa	wuluwa	w u l u w a		laycock1968	23530
+243819	namia	1313_MOON	yem	yem	j e m		laycock1968	23175
+243861	namia	1430_STAR	wofu	wofu	w o f u		laycock1968	22982
+243902	namia	2108_RAINING_OR_RAIN	lau	lau	l a u		laycock1968	23573
+243943	namia	948_WATER	ijo	ijo	i j o		laycock1968	22924
+243985	namia	2159_GROUND	nu:	nu:	n uː		laycock1968	23196
+244026	namia	857_STONE	lijei	lijei	l i j e i		laycock1968	23025
+244068	namia	960_WIND	panəwai	panəwai	p a n ə w a i		laycock1968	23125
+244109	namia	221_FIRE	ipi	ipi	i p i		laycock1968	23452
+244150	namia	778_SMOKE_EXHAUST	inaru	inaru	i n a r u		laycock1968	23137
+244191	namia	906_TREE	mi	mi	m i		laycock1968	23212
+244233	namia	2009_DOG	ar	ar	a r		laycock1968	23055
+244275	namia	937_BIRD	eyu	eyu	e j u		laycock1968	23321
+244315	namia	744_EGG	puna	puna	p u n a		laycock1968	23075
+244355	namia	1392_LOUSE	nanpeu	nanpeu	n a n p e u		laycock1968	22895
+244392	namia	1035_GOOD	yepanə	yepanə	j e p a n ə		laycock1968	23421
+244429	namia	1292_BAD	kəpli	kəpli	k ə p l i		laycock1968	23289
+244463	namia	156_RED	wei	wei	w e i		laycock1968	23380
+244495	namia	1335_WHITE	kom	kom	k o m		laycock1968	22847
+244530	namia	163_BLACK	waurə	waurə	w a u r ə		laycock1968	22985
+244569	namia	1208_CAT	a	a	a		laycock1968	22984
+244606	namia	695_GO	re	re	r e		laycock1968	23096
+244647	namia	1498_TWO	pəli	pəli	p ə l i		laycock1968	23165
+242854	wogamusin	1554_MAN	tam	tam	t a m		laycock1968	22818
+242896	wogamusin	962_WOMAN	taw	taw	t a w		laycock1968	23427
+242936	wogamusin	2099_CHILD	yon	yon	j o n		laycock1968	23624
+242977	wogamusin	1217_FATHER	dadi	dadi	d a d i		laycock1968	23326
+243018	wogamusin	1216_MOTHER	nesa	nesa	n e s a		laycock1968	23628
+243057	wogamusin	1209_I	nai	nai	n a i		laycock1968	22991
+243096	wogamusin	1215_THOU	ti	ti	t i		laycock1968	23213
+243132	wogamusin	1212_WE	non	non	n o n		laycock1968	23256
+243168	wogamusin	2304_THEE_OBLIQUE_CASE_OF_YOU	nom	nom	n o m		laycock1968	23392
+243202	wogamusin	817_THEY	yor	yor	j o r		laycock1968	23074
+243241	wogamusin	1256_HEAD	towam	towam	t o w a m		laycock1968	22949
+243282	wogamusin	1248_EYE	li	li	l i		laycock1968	23109
+243323	wogamusin	1221_NOSE	boliŋ	boliŋ	b o l i ŋ		laycock1968	22819
+243364	wogamusin	1247_EAR	mam	mam	m a m		laycock1968	23646
+243406	wogamusin	1380_TOOTH	ndəl	ndəl	n d ə l		laycock1968	23401
+243445	wogamusin	1205_TONGUE	taliyen	taliyen	t a l i j e n		laycock1968	23373
+243487	wogamusin	2121_ARM_OR_HAND	yer	yer	j e r		laycock1968	23039
+243529	wogamusin	1402_BREAST	muk	muk	m u k		laycock1968	23331
+243565	wogamusin	1251_BELLY	han	han	h a n		laycock1968	23005
+243606	wogamusin	2098_FOOT_OR_LEG	su	su	s u		laycock1968	23432
+243647	wogamusin	763_SKIN	mbe	mbe	m b e		laycock1968	23179
+243689	wogamusin	946_BLOOD	noh	noh	n o h		laycock1968	23148
+243730	wogamusin	1394_BONE	rubwi	rubwi	r u b w i		laycock1968	22973
+243772	wogamusin	1343_SUN	yam	yam	j a m		laycock1968	23543
+243814	wogamusin	1313_MOON	luh	luh	l u h		laycock1968	23163
+243856	wogamusin	1430_STAR	ndow	ndow	n d o w		laycock1968	23188
+243897	wogamusin	2108_RAINING_OR_RAIN	mey	mey	m e j		laycock1968	23520
+243938	wogamusin	948_WATER	yək	yək	j ə k		laycock1968	23424
+243980	wogamusin	2159_GROUND	salbak	salbak	s a l b a k		laycock1968	23459
+244021	wogamusin	857_STONE	noŋg	noŋg	n o ŋ g		laycock1968	23011
+244063	wogamusin	960_WIND	həkwit	həkwit	h ə k w i t		laycock1968	23248
+244104	wogamusin	221_FIRE	kur	kur	k u r		laycock1968	23081
+244145	wogamusin	778_SMOKE_EXHAUST	ubo	ubo	u b o		laycock1968	23066
+244186	wogamusin	906_TREE	mbotom	mbotom	m b o t o m		laycock1968	23222
+244228	wogamusin	2009_DOG	wal	wal	w a l		laycock1968	23055
+244270	wogamusin	937_BIRD	yah	yah	j a h		laycock1968	23321
+244350	wogamusin	1392_LOUSE	tetak	tetak	t e t a k		laycock1968	23091
+244388	wogamusin	1035_GOOD	məwlbi	məwlbi	m ə w l b i		laycock1968	23306
+244425	wogamusin	1292_BAD	hok bo	hok_bo	h o k + b o		laycock1968	23457
+244459	wogamusin	156_RED	mih	mih	m i h		laycock1968	23395
+244491	wogamusin	1335_WHITE	wur	wur	w u r		laycock1968	23107
+244526	wogamusin	163_BLACK	kor	kor	k o r		laycock1968	23034
+244565	wogamusin	1208_CAT	mbe	mbe	m b e		laycock1968	23360
+244602	wogamusin	695_GO	wunil	wunil	w u n i l		laycock1968	23569
+244642	wogamusin	1498_TWO	nwis	nwis	n w i s		laycock1968	23278
+242819	one-inebu	1554_MAN	mana	mana	m a n a		laycock1968	22986
+242861	one-inebu	962_WOMAN	pi:ni	pi:ni	p iː n i		laycock1968	23473
+242903	one-inebu	2099_CHILD	mala	mala	m a l a		laycock1968	23266
+242943	one-inebu	1217_FATHER	aya	aya	a j a		laycock1968	23129
+242984	one-inebu	1216_MOTHER	ama	ama	a m a		laycock1968	23400
+243025	one-inebu	1209_I	i	i	i		laycock1968	23227
+243064	one-inebu	1215_THOU	yo	yo	j o		laycock1968	23108
+243103	one-inebu	1212_WE	mo	mo	m o		laycock1968	23492
+243139	one-inebu	2304_THEE_OBLIQUE_CASE_OF_YOU	po	po	p o		laycock1968	22873
+243175	one-inebu	817_THEY	none	none	n o n e		laycock1968	22837
+243209	one-inebu	1256_HEAD	selə	selə	s e l ə		laycock1968	22966
+243248	one-inebu	1248_EYE	namla	namla	n a m l a		laycock1968	22880
+243289	one-inebu	1221_NOSE	suwla	suwla	s u w l a		laycock1968	22821
+243329	one-inebu	1247_EAR	tipi	tipi	t i p i		laycock1968	23467
+243371	one-inebu	1380_TOOTH	nala	nala	n a l a		laycock1968	23254
+243413	one-inebu	1205_TONGUE	alfoi	alfoi	a l f o i		laycock1968	23417
+243452	one-inebu	2121_ARM_OR_HAND	meu	meu	m e u		laycock1968	22919
+243494	one-inebu	1402_BREAST	nimla	nimla	n i m l a		laycock1968	23448
+243535	one-inebu	1251_BELLY	ponna	ponna	p o n n a		laycock1968	23000
+243571	one-inebu	2098_FOOT_OR_LEG	teu	teu	t e u		laycock1968	23334
+243613	one-inebu	763_SKIN	plapi	plapi	p l a p i		laycock1968	23340
+243654	one-inebu	946_BLOOD	fampwi	fampwi	f a m p w i		laycock1968	22834
+243696	one-inebu	1394_BONE	amla	amla	a m l a		laycock1968	22875
+243737	one-inebu	1343_SUN	ayre	ayre	a j r e		laycock1968	23058
+243779	one-inebu	1313_MOON	anini	anini	a n i n i		laycock1968	23491
+243821	one-inebu	1430_STAR	tosoila	tosoila	t o s o i l a		laycock1968	23234
+243862	one-inebu	2108_RAINING_OR_RAIN	ti:pəla	ti:pəla	t iː p ə l a		laycock1968	23405
+243903	one-inebu	948_WATER	fa:la	fa:la	f aː l a		laycock1968	23092
+243945	one-inebu	2159_GROUND	piye	piye	p i j e		laycock1968	22943
+243986	one-inebu	857_STONE	ta:ma	ta:ma	t aː m a		laycock1968	23585
+244028	one-inebu	960_WIND	ta:pi	ta:pi	t aː p i		laycock1968	23363
+244069	one-inebu	221_FIRE	ni:pi	ni:pi	n iː p i		laycock1968	23356
+244111	one-inebu	778_SMOKE_EXHAUST	apasie	apasie	a p a s i e		laycock1968	23369
+244151	one-inebu	906_TREE	silo	silo	s i l o		laycock1968	22921
+244193	one-inebu	2009_DOG	pa:la	pa:la	p aː l a		laycock1968	23529
+244235	one-inebu	937_BIRD	nawra	nawra	n a w r a		laycock1968	23370
+244277	one-inebu	744_EGG	amu	amu	a m u		laycock1968	23619
+244317	one-inebu	1392_LOUSE	munola	munola	m u n o l a		laycock1968	23206
+244356	one-inebu	1035_GOOD	wolmela	wolmela	w o l m e l a		laycock1968	23640
+244394	one-inebu	1292_BAD	fay	fay	f a j		laycock1968	22936
+244431	one-inebu	156_RED	fampúi	fampúi	f a m p ú/u i		laycock1968	22872
+244464	one-inebu	1335_WHITE	talpo	talpo	t a l p o		laycock1968	23552
+244497	one-inebu	163_BLACK	ko:li	ko:li	k oː l i		laycock1968	23347
+244532	one-inebu	1208_CAT	oy	oy	o j		laycock1968	23089
+244571	one-inebu	695_GO	ai	ai	a i		laycock1968	22850
+244608	one-inebu	1498_TWO	plale	plale	p l a l e		laycock1968	22866
+242821	seti	1554_MAN	maŋko	maŋko	m a ŋ k o		laycock1968	22986
+242863	seti	962_WOMAN	pəneno	pəneno	p ə n e n o		laycock1968	23473
+242905	seti	2099_CHILD	kantana	kantana	k a n t a n a		laycock1968	23372
+242945	seti	1217_FATHER	aya	aya	a j a		laycock1968	23129
+242986	seti	1216_MOTHER	ama	ama	a m a		laycock1968	23400
+243027	seti	1209_I	ka	ka	k a		laycock1968	23116
+243066	seti	1215_THOU	ay	ay	a j		laycock1968	23484
+243105	seti	1212_WE	mei	mei	m e i		laycock1968	23492
+243141	seti	2304_THEE_OBLIQUE_CASE_OF_YOU	pei	pei	p e i		laycock1968	22873
+243177	seti	817_THEY	nei	nei	n e i		laycock1968	22837
+243211	seti	1256_HEAD	səkon	səkon	s ə k o n		laycock1968	22899
+243250	seti	1248_EYE	nəŋka	nəŋka	n ə ŋ k a		laycock1968	22880
+243291	seti	1221_NOSE	sünü	sünü	s ü/u n ü/u		laycock1968	22821
+243331	seti	1247_EAR	arpan	arpan	a r p a n		laycock1968	23533
+243373	seti	1380_TOOTH	ne:n	ne:n	n eː n		laycock1968	23254
+243415	seti	1205_TONGUE	ŋkoten	ŋkoten	ŋ k o t e n		laycock1968	23037
+243454	seti	2121_ARM_OR_HAND	mpen	mpen	m p e n		laycock1968	23187
+243496	seti	1402_BREAST	momo	momo	m o m o		laycock1968	23509
+243537	seti	1251_BELLY	pənanuwi	pənanuwi	p ə n a n u w i		laycock1968	23000
+243573	seti	2098_FOOT_OR_LEG	saten	saten	s a t e n		laycock1968	23334
+243615	seti	763_SKIN	na:ni	na:ni	n aː n i		laycock1968	23022
+243656	seti	946_BLOOD	soro	soro	s o r o		laycock1968	23124
+243698	seti	1394_BONE	komoyo	komoyo	k o m o j o		laycock1968	22875
+243739	seti	1343_SUN	ko:fəni	ko:fəni	k oː f ə n i		laycock1968	23450
+243781	seti	1313_MOON	yinmon	yinmon	j i n m o n		laycock1968	23597
+243823	seti	1430_STAR	ŋkamsuwap	ŋkamsuwap	ŋ k a m s u w a p		laycock1968	22911
+243864	seti	2108_RAINING_OR_RAIN	kun	kun	k u n		laycock1968	22862
+243905	seti	948_WATER	mi:	mi:	m iː		laycock1968	22967
+243947	seti	2159_GROUND	pe:ki	pe:ki	p eː k i		laycock1968	23110
+243988	seti	857_STONE	to:mu	to:mu	t oː m u		laycock1968	23585
+244030	seti	960_WIND	tafəsi	tafəsi	t a f ə s i		laycock1968	23363
+244071	seti	221_FIRE	nep	nep	n e p		laycock1968	23356
+244113	seti	778_SMOKE_EXHAUST	numpolo	numpolo	n u m p o l o		laycock1968	23508
+244153	seti	906_TREE	səno	səno	s ə n o		laycock1968	22921
+244195	seti	2009_DOG	pa:n	pa:n	p aː n		laycock1968	23529
+244237	seti	937_BIRD	pəlisia	pəlisia	p ə l i s i a		laycock1968	23388
+244279	seti	744_EGG	tənna	tənna	t ə n n a		laycock1968	23026
+244319	seti	1392_LOUSE	təmpofənə	təmpofənə	t ə m p o f ə n ə		laycock1968	22947
+244358	seti	1035_GOOD	ke:fo	ke:fo	k eː f o		laycock1968	23090
+244396	seti	1292_BAD	faisa	faisa	f a i s a		laycock1968	22936
+244433	seti	156_RED	pu:no	pu:no	p uː n o		laycock1968	23357
+244466	seti	1335_WHITE	tatu:po	tatu:po	t a t uː p o		laycock1968	23552
+244499	seti	163_BLACK	ko:liyo	ko:liyo	k oː l i j o		laycock1968	23347
+244534	seti	1208_CAT	ku	ku	k u		laycock1968	23614
+244573	seti	695_GO	ei	ei	e i		laycock1968	22850
+244610	seti	1498_TWO	pəna	pəna	p ə n a		laycock1968	22866
+242822	olo	1554_MAN	metene	metene	m e t e n e		laycock1968	23537
+242864	olo	962_WOMAN	mo:to	mo:to	m oː t o		laycock1968	23314
+242906	olo	2099_CHILD	nəŋke	nəŋke	n ə ŋ k e		laycock1968	23555
+242946	olo	1217_FATHER	yaitei	yaitei	j a i t e i		laycock1968	23065
+242987	olo	1216_MOTHER	ema	ema	e m a		laycock1968	23400
+243028	olo	1209_I	ki	ki	k i		laycock1968	22863
+243067	olo	1215_THOU	ye	ye	j e		laycock1968	23108
+243106	olo	1212_WE	ku	ku	k u		laycock1968	23560
+243142	olo	2304_THEE_OBLIQUE_CASE_OF_YOU	ife	ife	i f e		laycock1968	22823
+243178	olo	817_THEY	pe	pe	p e		laycock1968	22878
+243212	olo	1256_HEAD	u:ru	u:ru	uː r u		laycock1968	23287
+243251	olo	1248_EYE	lüs	lüs	l ü/u s		laycock1968	22933
+243292	olo	1221_NOSE	minopoŋko	minopoŋko	m i n o p o ŋ k o		laycock1968	23518
+243332	olo	1247_EAR	məŋkam	məŋkam	m ə ŋ k a m		laycock1968	23367
+243374	olo	1380_TOOTH	nelpə	nelpə	n e l p ə		laycock1968	23254
+243416	olo	1205_TONGUE	non	non	n o n		laycock1968	22870
+243455	olo	2121_ARM_OR_HAND	e:təf	e:təf	eː t ə f		laycock1968	23029
+243497	olo	1402_BREAST	nemer	nemer	n e m e r		laycock1968	23448
+243538	olo	1251_BELLY	yüfu	yüfu	j ü/u f u		laycock1968	23479
+243574	olo	2098_FOOT_OR_LEG	orou	orou	o r o u		laycock1968	23391
+243616	olo	763_SKIN	topo	topo	t o p o		laycock1968	23286
+243657	olo	946_BLOOD	təlüs	təlüs	t ə l ü/u s		laycock1968	23007
+243699	olo	1394_BONE	emio	emio	e m i o		laycock1968	22875
+243740	olo	1343_SUN	epli	epli	e p l i		laycock1968	23450
+243782	olo	1313_MOON	ane	ane	a n e		laycock1968	23491
+243824	olo	1430_STAR	tauru	tauru	t a u r u		laycock1968	23188
+243865	olo	2108_RAINING_OR_RAIN	nef	nef	n e f		laycock1968	23226
+243906	olo	948_WATER	tepe	tepe	t e p e		laycock1968	23244
+243948	olo	2159_GROUND	tef	tef	t e f		laycock1968	22851
+243989	olo	857_STONE	erau	erau	e r a u		laycock1968	23205
+244031	olo	960_WIND	yəf	yəf	j ə f		laycock1968	23633
+244072	olo	221_FIRE	weli	weli	w e l i		laycock1968	22896
+244114	olo	778_SMOKE_EXHAUST	tuwaŋkes	tuwaŋkes	t u w a ŋ k e s		laycock1968	22830
+244154	olo	906_TREE	nəmpe	nəmpe	n ə m p e		laycock1968	23082
+244196	olo	2009_DOG	pele	pele	p e l e		laycock1968	23529
+244238	olo	937_BIRD	nafle	nafle	n a f l e		laycock1968	23370
+244280	olo	744_EGG	yiləm	yiləm	j i l ə m		laycock1968	23517
+244320	olo	1392_LOUSE	nəmom	nəmom	n ə m o m		laycock1968	22887
+244359	olo	1035_GOOD	tiŋkifi	tiŋkifi	t i ŋ k i f i		laycock1968	23605
+244397	olo	1292_BAD	olpəs	olpəs	o l p ə s		laycock1968	23294
+244434	olo	156_RED	yale	yale	j a l e		laycock1968	22978
+244467	olo	1335_WHITE	fiu	fiu	f i u		laycock1968	23169
+244500	olo	163_BLACK	ketəf	ketəf	k e t ə f		laycock1968	23507
+244535	olo	1208_CAT	aploi	aploi	a p l o i		laycock1968	23276
+244574	olo	695_GO	e:li	e:li	eː l i		laycock1968	23217
+244611	olo	1498_TWO	wiŋkes	wiŋkes	w i ŋ k e s		laycock1968	23344
+242823	elkei	1554_MAN	monol	monol	m o n o l		laycock1968	22986
+242865	elkei	962_WOMAN	matal	matal	m a t a l		laycock1968	23314
+242907	elkei	2099_CHILD	niŋən	niŋən	n i ŋ ə n		laycock1968	23555
+242947	elkei	1217_FATHER	aiye	aiye	a i j e		laycock1968	23129
+242988	elkei	1216_MOTHER	mukei	mukei	m u k e i		laycock1968	23225
+243029	elkei	1209_I	ki	ki	k i		laycock1968	22863
+243068	elkei	1215_THOU	ite	ite	i t e		laycock1968	23108
+243107	elkei	1212_WE	ku	ku	k u		laycock1968	23560
+243143	elkei	2304_THEE_OBLIQUE_CASE_OF_YOU	yife	yife	j i f e		laycock1968	22823
+243179	elkei	817_THEY	elpel	elpel	e l p e l		laycock1968	22878
+243213	elkei	1256_HEAD	palau	palau	p a l a u		laycock1968	23220
+243333	elkei	1247_EAR	ŋipi	ŋipi	ŋ i p i		laycock1968	23428
+243375	elkei	1380_TOOTH	nulpo	nulpo	n u l p o		laycock1968	23254
+243417	elkei	1205_TONGUE	yuwaŋ	yuwaŋ	j u w a ŋ		laycock1968	23353
+243456	elkei	2121_ARM_OR_HAND	yisi	yisi	j i s i		laycock1968	23310
+243498	elkei	1402_BREAST	niman	niman	n i m a n		laycock1968	23448
+243539	elkei	1251_BELLY	tuau	tuau	t u a u		laycock1968	23316
+243575	elkei	2098_FOOT_OR_LEG	tiye	tiye	t i j e		laycock1968	23437
+243617	elkei	763_SKIN	paulou	paulou	p a u l o u		laycock1968	23340
+243658	elkei	946_BLOOD	omkol	omkol	o m k o l		laycock1968	23305
+243700	elkei	1394_BONE	emiŋel	emiŋel	e m i ŋ e l		laycock1968	22875
+243741	elkei	1343_SUN	wopli	wopli	w o p l i		laycock1968	23450
+243783	elkei	1313_MOON	auniyil	auniyil	a u n i j i l		laycock1968	23491
+243825	elkei	1430_STAR	taurul	taurul	t a u r u l		laycock1968	23188
+243866	elkei	2108_RAINING_OR_RAIN	au	au	a u		laycock1968	23610
+243907	elkei	948_WATER	tipel	tipel	t i p e l		laycock1968	23244
+243949	elkei	2159_GROUND	tau	tau	t a u		laycock1968	22851
+243990	elkei	857_STONE	talmanəf	talmanəf	t a l m a n ə f		laycock1968	23585
+244032	elkei	960_WIND	yeiyu	yeiyu	j e i j u		laycock1968	23633
+244073	elkei	221_FIRE	wul	wul	w u l		laycock1968	22896
+244115	elkei	778_SMOKE_EXHAUST	tuwaŋe	tuwaŋe	t u w a ŋ e		laycock1968	22830
+244155	elkei	906_TREE	nipel	nipel	n i p e l		laycock1968	23082
+244197	elkei	2009_DOG	palel	palel	p a l e l		laycock1968	23529
+244239	elkei	937_BIRD	aulon	aulon	a u l o n		laycock1968	23370
+244281	elkei	744_EGG	yülam	yülam	j ü/u l a m		laycock1968	23517
+244321	elkei	1392_LOUSE	nəmeiləm	nəmeiləm	n ə m e i l ə m		laycock1968	22887
+244360	elkei	1035_GOOD	yerəl	yerəl	j e r ə l		laycock1968	23006
+244398	elkei	1292_BAD	wuŋo	wuŋo	w u ŋ o		laycock1968	23123
+244435	elkei	156_RED	nuŋáwo	nuŋáwo	n u ŋ á/a w o		laycock1968	23462
+244468	elkei	1335_WHITE	piyu	piyu	p i j u		laycock1968	23169
+244501	elkei	163_BLACK	nuŋo	nuŋo	n u ŋ o		laycock1968	22814
+244536	elkei	1208_CAT	atou	atou	a t o u		laycock1968	23587
+244575	elkei	695_GO	ali	ali	a l i		laycock1968	23217
+244612	elkei	1498_TWO	wiŋe	wiŋe	w i ŋ e		laycock1968	23344
+242824	yau	1554_MAN	ru:til	ru:til	r uː t i l		laycock1968	23480
+242866	yau	962_WOMAN	wapur	wapur	w a p u r		laycock1968	23156
+242908	yau	2099_CHILD	nini	nini	n i n i		laycock1968	23555
+242948	yau	1217_FATHER	aiye	aiye	a i j e		laycock1968	23129
+242989	yau	1216_MOTHER	ama	ama	a m a		laycock1968	23400
+243030	yau	1209_I	ki	ki	k i		laycock1968	22863
+243069	yau	1215_THOU	yi	yi	j i		laycock1968	23108
+243108	yau	1212_WE	kufu	kufu	k u f u		laycock1968	23560
+243144	yau	2304_THEE_OBLIQUE_CASE_OF_YOU	yifi	yifi	j i f i		laycock1968	22823
+243180	yau	817_THEY	rəl	rəl	r ə l		laycock1968	23143
+243214	yau	1256_HEAD	nülü	nülü	n ü/u l ü/u		laycock1968	23606
+243252	yau	1248_EYE	kwuriyaf	kwuriyaf	k w u r i j a f		laycock1968	23202
+243293	yau	1221_NOSE	minit	minit	m i n i t		laycock1968	23355
+243334	yau	1247_EAR	yampər	yampər	j a m p ə r		laycock1968	22841
+243376	yau	1380_TOOTH	ya:nət	ya:nət	j aː n ə t		laycock1968	23412
+243418	yau	1205_TONGUE	yimyau	yimyau	j i m j a u		laycock1968	23625
+243457	yau	2121_ARM_OR_HAND	kwutis	kwutis	k w u t i s		laycock1968	23154
+243499	yau	1402_BREAST	numar	numar	n u m a r		laycock1968	23448
+243540	yau	1251_BELLY	təfau	təfau	t ə f a u		laycock1968	23316
+243576	yau	2098_FOOT_OR_LEG	kiriu	kiriu	k i r i u		laycock1968	23486
+243618	yau	763_SKIN	ternan	ternan	t e r n a n		laycock1968	22940
+243659	yau	946_BLOOD	nawe	nawe	n a w e		laycock1968	23580
+243701	yau	1394_BONE	kumialen	kumialen	k u m i a l e n		laycock1968	22875
+243742	yau	1343_SUN	kwipli	kwipli	k w i p l i		laycock1968	23450
+243784	yau	1313_MOON	nu:lai	nu:lai	n uː l a i		laycock1968	22882
+243826	yau	1430_STAR	tauru	tauru	t a u r u		laycock1968	23188
+243867	yau	2108_RAINING_OR_RAIN	yaf	yaf	j a f		laycock1968	23610
+243908	yau	948_WATER	təpal	təpal	t ə p a l		laycock1968	23244
+243950	yau	2159_GROUND	taf	taf	t a f		laycock1968	22851
+243991	yau	857_STONE	krapene	krapene	k r a p e n e		laycock1968	23260
+244033	yau	960_WIND	nampuf	nampuf	n a m p u f		laycock1968	23259
+244074	yau	221_FIRE	weli	weli	w e l i		laycock1968	22896
+244116	yau	778_SMOKE_EXHAUST	tumur	tumur	t u m u r		laycock1968	22871
+244156	yau	906_TREE	nimpip	nimpip	n i m p i p		laycock1968	23082
+244198	yau	2009_DOG	pi:ren	pi:ren	p iː r e n		laycock1968	23262
+244240	yau	937_BIRD	yafren	yafren	j a f r e n		laycock1968	23370
+244282	yau	744_EGG	walilip	walilip	w a l i l i p		laycock1968	22893
+244322	yau	1392_LOUSE	kwurəl	kwurəl	k w u r ə l		laycock1968	23496
+244361	yau	1035_GOOD	kelfine	kelfine	k e l f i n e		laycock1968	23090
+244399	yau	1292_BAD	ru:neʔ	ru:neʔ	r uː n e ʔ		laycock1968	23617
+244436	yau	156_RED	nompine	nompine	n o m p i n e		laycock1968	23072
+244469	yau	1335_WHITE	fiyu	fiyu	f i j u		laycock1968	23169
+244502	yau	163_BLACK	twautəf	twautəf	t w a u t ə f		laycock1968	22983
+244537	yau	1208_CAT	liye	liye	l i j e		laycock1968	23332
+244576	yau	695_GO	ale	ale	a l e		laycock1968	23217
+244613	yau	1498_TWO	wiyəm	wiyəm	w i j ə m		laycock1968	23344
+242825	yis	1554_MAN	metfaine	metfaine	m e t f a i n e		laycock1968	23537
+242867	yis	962_WOMAN	kulum	kulum	k u l u m		laycock1968	22999
+242909	yis	2099_CHILD	nəfkayə	nəfkayə	n ə f k a j ə		laycock1968	23059
+242949	yis	1217_FATHER	aya	aya	a j a		laycock1968	23129
+242990	yis	1216_MOTHER	nəmo	nəmo	n ə m o		laycock1968	23498
+243031	yis	1209_I	ki	ki	k i		laycock1968	22863
+243070	yis	1215_THOU	yi	yi	j i		laycock1968	23108
+243109	yis	1212_WE	kufu	kufu	k u f u		laycock1968	23560
+243145	yis	2304_THEE_OBLIQUE_CASE_OF_YOU	yifi	yifi	j i f i		laycock1968	22823
+243181	yis	817_THEY	rəl	rəl	r ə l		laycock1968	23143
+243215	yis	1256_HEAD	lülü	lülü	l ü/u l ü/u		laycock1968	23606
+243253	yis	1248_EYE	kwutiyane	kwutiyane	k w u t i j a n e		laycock1968	23202
+243294	yis	1221_NOSE	minityu	minityu	m i n i t j u		laycock1968	23355
+243335	yis	1247_EAR	yapot	yapot	j a p o t		laycock1968	22841
+243377	yis	1380_TOOTH	yanət	yanət	j a n ə t		laycock1968	23412
+243458	yis	2121_ARM_OR_HAND	kwutil	kwutil	k w u t i l		laycock1968	23154
+243500	yis	1402_BREAST	nəmar	nəmar	n ə m a r		laycock1968	23448
+243541	yis	1251_BELLY	təfau	təfau	t ə f a u		laycock1968	23316
+243577	yis	2098_FOOT_OR_LEG	kiriu	kiriu	k i r i u		laycock1968	23486
+243619	yis	763_SKIN	tərkwaf	tərkwaf	t ə r k w a f		laycock1968	22940
+243660	yis	946_BLOOD	nawan	nawan	n a w a n		laycock1968	23580
+243702	yis	1394_BONE	kəmiene	kəmiene	k ə m i e n e		laycock1968	22875
+243743	yis	1343_SUN	kwapli	kwapli	k w a p l i		laycock1968	23450
+243785	yis	1313_MOON	noulai	noulai	n o u l a i		laycock1968	22882
+243827	yis	1430_STAR	kwurilpət	kwurilpət	k w u r i l p ə t		laycock1968	23506
+243868	yis	2108_RAINING_OR_RAIN	yaf	yaf	j a f		laycock1968	23610
+243909	yis	948_WATER	tipal	tipal	t i p a l		laycock1968	23244
+243951	yis	2159_GROUND	takulu	takulu	t a k u l u		laycock1968	22851
+243992	yis	857_STONE	kranə	kranə	k r a n ə		laycock1968	23260
+244034	yis	960_WIND	kwupiyəf	kwupiyəf	k w u p i j ə f		laycock1968	23536
+244075	yis	221_FIRE	wəti	wəti	w ə t i		laycock1968	22896
+244117	yis	778_SMOKE_EXHAUST	tumut	tumut	t u m u t		laycock1968	22871
+244157	yis	906_TREE	nifif	nifif	n i f i f		laycock1968	23082
+244199	yis	2009_DOG	asi	asi	a s i		laycock1968	23203
+244241	yis	937_BIRD	yafren	yafren	j a f r e n		laycock1968	23370
+244283	yis	744_EGG	yilip	yilip	j i l i p		laycock1968	23517
+244323	yis	1392_LOUSE	kwutəl	kwutəl	k w u t ə l		laycock1968	23496
+244362	yis	1035_GOOD	mitne	mitne	m i t n e		laycock1968	23488
+244400	yis	1292_BAD	touni	touni	t o u n i		laycock1968	23617
+244437	yis	156_RED	kutouken	kutouken	k u t o u k e n		laycock1968	23568
+244470	yis	1335_WHITE	koplafane	koplafane	k o p l a f a n e		laycock1968	23652
+244503	yis	163_BLACK	kete	kete	k e t e		laycock1968	23507
+244538	yis	1208_CAT	liye	liye	l i j e		laycock1968	23332
+244577	yis	695_GO	ete	ete	e t e		laycock1968	23096
+244614	yis	1498_TWO	wiyum	wiyum	w i j u m		laycock1968	23344
+242826	au	1554_MAN	mitik	mitik	m i t i k		laycock1968	23537
+242868	au	962_WOMAN	mite	mite	m i t e		laycock1968	23314
+242910	au	2099_CHILD	niki	niki	n i k i		laycock1968	23555
+242950	au	1217_FATHER	xaʔai	xaʔai	x a ʔ a i		laycock1968	23129
+242991	au	1216_MOTHER	miye	miye	m i j e		laycock1968	23329
+243032	au	1209_I	xi	xi	x i		laycock1968	22863
+243071	au	1215_THOU	ti	ti	t i		laycock1968	23213
+243110	au	1212_WE	xaiw	xaiw	x a i w		laycock1968	23176
+243146	au	2304_THEE_OBLIQUE_CASE_OF_YOU	yi	yi	j i		laycock1968	22823
+243182	au	817_THEY	xər	xər	x ə r		laycock1968	23216
+243216	au	1256_HEAD	faʔan	faʔan	f a ʔ a n		laycock1968	23548
+243254	au	1248_EYE	naʔan	naʔan	n a ʔ a n		laycock1968	22880
+243295	au	1221_NOSE	yipwur	yipwur	j i p w u r		laycock1968	23174
+243336	au	1247_EAR	nikif	nikif	n i k i f		laycock1968	22888
+243378	au	1380_TOOTH	yaxas	yaxas	j a x a s		laycock1968	23358
+243419	au	1205_TONGUE	ni:n	ni:n	n iː n		laycock1968	22870
+243459	au	2121_ARM_OR_HAND	xis	xis	x i s		laycock1968	23310
+243501	au	1402_BREAST	nəm	nəm	n ə m		laycock1968	23448
+243542	au	1251_BELLY	tu:	tu:	t uː		laycock1968	23316
+243578	au	2098_FOOT_OR_LEG	xət	xət	x ə t		laycock1968	23097
+243620	au	763_SKIN	yilik	yilik	j i l i k		laycock1968	23547
+243661	au	946_BLOOD	amkra	amkra	a m k r a		laycock1968	23305
+243703	au	1394_BONE	xəmik	xəmik	x ə m i k		laycock1968	22875
+243744	au	1343_SUN	wupli	wupli	w u p l i		laycock1968	23450
+243786	au	1313_MOON	wunkə	wunkə	w u n k ə		laycock1968	23263
+243828	au	1430_STAR	xər	xər	x ə r		laycock1968	23031
+243869	au	2108_RAINING_OR_RAIN	xawo	xawo	x a w o		laycock1968	23610
+243910	au	948_WATER	təpar	təpar	t ə p a r		laycock1968	23244
+243952	au	2159_GROUND	tɨ	tɨ	t ɨ		laycock1968	22851
+243993	au	857_STONE	nan	nan	n a n		laycock1968	23408
+244035	au	960_WIND	nəma	nəma	n ə m a		laycock1968	23158
+244076	au	221_FIRE	si:	si:	s iː		laycock1968	23153
+244118	au	778_SMOKE_EXHAUST	tuwakra	tuwakra	t u w a k r a		laycock1968	22830
+244158	au	906_TREE	nu:	nu:	n uː		laycock1968	23247
+244200	au	2009_DOG	napara	napara	n a p a r a		laycock1968	22942
+244242	au	937_BIRD	xoura	xoura	x o u r a		laycock1968	23370
+244284	au	744_EGG	yinu	yinu	j i n u		laycock1968	23517
+244324	au	1392_LOUSE	nəmk	nəmk	n ə m k		laycock1968	22887
+244363	au	1035_GOOD	yaʔaik	yaʔaik	j a ʔ a i k		laycock1968	23409
+244401	au	1292_BAD	alu	alu	a l u		laycock1968	23019
+244438	au	156_RED	katyifír	katyifír	k a t j i f í/i r		laycock1968	23182
+244471	au	1335_WHITE	kəxeika	kəxeika	k ə x e i k a		laycock1968	23271
+244504	au	163_BLACK	kataukai	kataukai	k a t a u k a i		laycock1968	23507
+244539	au	1208_CAT	m	m	m		laycock1968	22948
+244578	au	695_GO	anou	anou	a n o u		laycock1968	23217
+244615	au	1498_TWO	wikat	wikat	w i k a t		laycock1968	23344
+242827	yil	1554_MAN	məsin	məsin	m ə s i n		laycock1968	23537
+242869	yil	962_WOMAN	matei	matei	m a t e i		laycock1968	23314
+242911	yil	2099_CHILD	kan	kan	k a n		laycock1968	23372
+242951	yil	1217_FATHER	ya	ya	j a		laycock1968	23129
+242992	yil	1216_MOTHER	mai	mai	m a i		laycock1968	23170
+243033	yil	1209_I	i	i	i		laycock1968	23227
+243072	yil	1215_THOU	a	a	a		laycock1968	23613
+243111	yil	1212_WE	aw	aw	a w		laycock1968	23210
+243147	yil	2304_THEE_OBLIQUE_CASE_OF_YOU	ü	ü	ü/u		laycock1968	22979
+243183	yil	817_THEY	aral	aral	a r a l		laycock1968	23487
+243217	yil	1256_HEAD	ariyi	ariyi	a r i j i		laycock1968	23053
+243255	yil	1248_EYE	nap	nap	n a p		laycock1968	22880
+243296	yil	1221_NOSE	nupuŋk	nupuŋk	n u p u ŋ k		laycock1968	23015
+243337	yil	1247_EAR	mək	mək	m ə k		laycock1968	23367
+243379	yil	1380_TOOTH	nak	nak	n a k		laycock1968	23519
+243420	yil	1205_TONGUE	war	war	w a r		laycock1968	23242
+243460	yil	2121_ARM_OR_HAND	pa	pa	p a		laycock1968	23413
+243502	yil	1402_BREAST	mak	mak	m a k		laycock1968	23448
+243543	yil	1251_BELLY	su:k	su:k	s uː k		laycock1968	22954
+243579	yil	2098_FOOT_OR_LEG	su:	su:	s uː		laycock1968	23157
+243621	yil	763_SKIN	pawar	pawar	p a w a r		laycock1968	23340
+243662	yil	946_BLOOD	nək	nək	n ə k		laycock1968	23192
+243704	yil	1394_BONE	nimik	nimik	n i m i k		laycock1968	23430
+243745	yil	1343_SUN	wupli	wupli	w u p l i		laycock1968	23450
+243787	yil	1313_MOON	uni	uni	u n i		laycock1968	23491
+243829	yil	1430_STAR	nupər	nupər	n u p ə r		laycock1968	23299
+243870	yil	2108_RAINING_OR_RAIN	ni:	ni:	n iː		laycock1968	22862
+243911	yil	948_WATER	ni:	ni:	n iː		laycock1968	23490
+243953	yil	2159_GROUND	tau	tau	t a u		laycock1968	22851
+243994	yil	857_STONE	yir	yir	j i r		laycock1968	23205
+244036	yil	960_WIND	ma	ma	m a		laycock1968	23431
+244077	yil	221_FIRE	walk	walk	w a l k		laycock1968	22896
+244119	yil	778_SMOKE_EXHAUST	suwok	suwok	s u w o k		laycock1968	22830
+244159	yil	906_TREE	lo:	lo:	l oː		laycock1968	23247
+244201	yil	2009_DOG	par	par	p a r		laycock1968	23529
+244243	yil	937_BIRD	afər	afər	a f ə r		laycock1968	23370
+244285	yil	744_EGG	wi:lər	wi:lər	w iː l ə r		laycock1968	22893
+244325	yil	1392_LOUSE	namkar	namkar	n a m k a r		laycock1968	22887
+244364	yil	1035_GOOD	yam	yam	j a m		laycock1968	23409
+244402	yil	1292_BAD	wuwi	wuwi	w u w i		laycock1968	23501
+244439	yil	156_RED	nipin	nipin	n i p i n		laycock1968	23134
+244472	yil	1335_WHITE	nəŋar	nəŋar	n ə ŋ a r		laycock1968	22883
+244505	yil	163_BLACK	na:li:k	na:li:k	n aː l iː k		laycock1968	23140
+244540	yil	1208_CAT	aman	aman	a m a n		laycock1968	22948
+244579	yil	695_GO	anin	anin	a n i n		laycock1968	23217
+244616	yil	1498_TWO	wiyem	wiyem	w i j e m		laycock1968	23344
+242828	ningil	1554_MAN	masin	masin	m a s i n		laycock1968	23537
+242870	ningil	962_WOMAN	naʔ aipi	naʔ_aipi	n a ʔ + a i p i		laycock1968	22849
+242912	ningil	2099_CHILD	kiyl	kiyl	k i j l		laycock1968	23218
+242952	ningil	1217_FATHER	yaʔai	yaʔai	j a ʔ a i		laycock1968	23129
+242993	ningil	1216_MOTHER	naʔai	naʔai	n a ʔ a i		laycock1968	23001
+243034	ningil	1209_I	yi	yi	j i		laycock1968	23227
+243073	ningil	1215_THOU	pay	pay	p a j		laycock1968	23341
+243112	ningil	1212_WE	you	you	j o u		laycock1968	22844
+243148	ningil	2304_THEE_OBLIQUE_CASE_OF_YOU	piyou	piyou	p i j o u		laycock1968	22932
+243184	ningil	817_THEY	pəram	pəram	p ə r a m		laycock1968	22878
+243218	ningil	1256_HEAD	waʔal	waʔal	w a ʔ a l		laycock1968	22998
+243256	ningil	1248_EYE	namək	namək	n a m ə k		laycock1968	22880
+243297	ningil	1221_NOSE	nəfənək	nəfənək	n ə f ə n ə k		laycock1968	23015
+243338	ningil	1247_EAR	məkər	məkər	m ə k ə r		laycock1968	23367
+243380	ningil	1380_TOOTH	na:	na:	n aː		laycock1968	23519
+243421	ningil	1205_TONGUE	wa:r	wa:r	w aː r		laycock1968	23242
+243461	ningil	2121_ARM_OR_HAND	fe:k	fe:k	f eː k		laycock1968	23255
+243503	ningil	1402_BREAST	ma:ʔ	ma:ʔ	m aː ʔ		laycock1968	23448
+243544	ningil	1251_BELLY	nəfalou	nəfalou	n ə f a l o u		laycock1968	23223
+243580	ningil	2098_FOOT_OR_LEG	yau	yau	j a u		laycock1968	23583
+243622	ningil	763_SKIN	fa:wal	fa:wal	f aː w a l		laycock1968	23340
+243663	ningil	946_BLOOD	ni:kri	ni:kri	n iː k r i		laycock1968	23192
+243705	ningil	1394_BONE	ləmeʔi	ləmeʔi	l ə m e ʔ i		laycock1968	23430
+243746	ningil	1343_SUN	wufliyəx	wufliyəx	w u f l i j ə x		laycock1968	23450
+243788	ningil	1313_MOON	onyil	onyil	o n j i l		laycock1968	23491
+243830	ningil	1430_STAR	nəfrei	nəfrei	n ə f r e i		laycock1968	23299
+243871	ningil	2108_RAINING_OR_RAIN	ni:	ni:	n iː		laycock1968	22862
+243912	ningil	948_WATER	ni:	ni:	n iː		laycock1968	23490
+243954	ningil	2159_GROUND	tax	tax	t a x		laycock1968	22851
+243995	ningil	857_STONE	xəroi	xəroi	x ə r o i		laycock1968	23205
+244037	ningil	960_WIND	maku	maku	m a k u		laycock1968	23431
+244078	ningil	221_FIRE	walk	walk	w a l k		laycock1968	22896
+244120	ningil	778_SMOKE_EXHAUST	suwaku	suwaku	s u w a k u		laycock1968	22830
+244160	ningil	906_TREE	lu:	lu:	l uː		laycock1968	23247
+244202	ningil	2009_DOG	faré:	faré:	f a r é:/eː		laycock1968	23529
+244244	ningil	937_BIRD	aprei	aprei	a p r e i		laycock1968	23370
+244286	ningil	744_EGG	yu:lək	yu:lək	j uː l ə k		laycock1968	23517
+244326	ningil	1392_LOUSE	nəmaŋkar	nəmaŋkar	n ə m a ŋ k a r		laycock1968	22887
+244541	ningil	1208_CAT	amu:	amu:	a m uː		laycock1968	22948
+244580	ningil	695_GO	amplu	amplu	a m p l u		laycock1968	22904
+244617	ningil	1498_TWO	wilal	wilal	w i l a l		laycock1968	23344
+242829	dia	1554_MAN	teralkit	teralkit	t e r a l k i t		laycock1968	23211
+242871	dia	962_WOMAN	yu:	yu:	j uː		laycock1968	23549
+242913	dia	2099_CHILD	wiraŋ	wiraŋ	w i r a ŋ		laycock1968	23166
+242953	dia	1217_FATHER	yaki	yaki	j a k i		laycock1968	23065
+242994	dia	1216_MOTHER	nəki	nəki	n ə k i		laycock1968	23272
+243035	dia	1209_I	ŋkiye	ŋkiye	ŋ k i j e		laycock1968	22863
+243074	dia	1215_THOU	yi	yi	j i		laycock1968	23108
+243113	dia	1212_WE	ŋkam	ŋkam	ŋ k a m		laycock1968	22890
+243149	dia	2304_THEE_OBLIQUE_CASE_OF_YOU	yifi	yifi	j i f i		laycock1968	22823
+243185	dia	817_THEY	anfal	anfal	a n f a l		laycock1968	22878
+243219	dia	1256_HEAD	pale	pale	p a l e		laycock1968	23220
+243257	dia	1248_EYE	yampax	yampax	j a m p a x		laycock1968	22880
+243298	dia	1221_NOSE	maləx	maləx	m a l ə x		laycock1968	22860
+243339	dia	1247_EAR	ma	ma	m a		laycock1968	23367
+243381	dia	1380_TOOTH	yaŋkən	yaŋkən	j a ŋ k ə n		laycock1968	23358
+243422	dia	1205_TONGUE	yilwat	yilwat	j i l w a t		laycock1968	23353
+243462	dia	2121_ARM_OR_HAND	rakət	rakət	r a k ə t		laycock1968	23546
+243504	dia	1402_BREAST	mate	mate	m a t e		laycock1968	23448
+243545	dia	1251_BELLY	yimpəx	yimpəx	j i m p ə x		laycock1968	22852
+243581	dia	2098_FOOT_OR_LEG	xuwə	xuwə	x u w ə		laycock1968	23097
+243623	dia	763_SKIN	pawült	pawült	p a w ü/u l t		laycock1968	23340
+243664	dia	946_BLOOD	amkə	amkə	a m k ə		laycock1968	23305
+243706	dia	1394_BONE	lakət	lakət	l a k ə t		laycock1968	23430
+243747	dia	1343_SUN	wopli	wopli	w o p l i		laycock1968	23450
+243789	dia	1313_MOON	ouyi	ouyi	o u j i		laycock1968	23491
+243831	dia	1430_STAR	yampulte	yampulte	j a m p u l t e		laycock1968	23582
+243872	dia	2108_RAINING_OR_RAIN	ni:	ni:	n iː		laycock1968	22862
+243913	dia	948_WATER	ni:	ni:	n iː		laycock1968	23490
+243955	dia	2159_GROUND	ülap	ülap	ü/u l a p		laycock1968	22990
+243996	dia	857_STONE	xəte	xəte	x ə t e		laycock1968	23376
+244038	dia	960_WIND	makə	makə	m a k ə		laycock1968	23431
+244079	dia	221_FIRE	yalix	yalix	j a l i x		laycock1968	22995
+244121	dia	778_SMOKE_EXHAUST	wakit	wakit	w a k i t		laycock1968	23132
+244161	dia	906_TREE	lowə	lowə	l o w ə		laycock1968	23247
+244203	dia	2009_DOG	patə	patə	p a t ə		laycock1968	23529
+244245	dia	937_BIRD	antə	antə	a n t ə		laycock1968	23201
+244287	dia	744_EGG	yilkit	yilkit	j i l k i t		laycock1968	23517
+244327	dia	1392_LOUSE	raləx	raləx	r a l ə x		laycock1968	23236
+244365	dia	1035_GOOD	olanum	olanum	o l a n u m		laycock1968	22912
+244403	dia	1292_BAD	nounam	nounam	n o u n a m		laycock1968	23339
+244440	dia	156_RED	amŋkər	amŋkər	a m ŋ k ə r		laycock1968	23330
+244473	dia	1335_WHITE	yaliekə	yaliekə	j a l i e k ə		laycock1968	23375
+244506	dia	163_BLACK	leyin	leyin	l e j i n		laycock1968	23300
+244542	dia	1208_CAT	anman	anman	a n m a n		laycock1968	23199
+244581	dia	695_GO	amlaf	amlaf	a m l a f		laycock1968	22904
+244618	dia	1498_TWO	wiye	wiye	w i j e		laycock1968	23344
+242830	sinagen	1554_MAN	matei	matei	m a t e i		laycock1968	23537
+242872	sinagen	962_WOMAN	nusakei	nusakei	n u s a k e i		laycock1968	23389
+242914	sinagen	2099_CHILD	kata	kata	k a t a		laycock1968	23372
+242954	sinagen	1217_FATHER	ataya	ataya	a t a j a		laycock1968	23129
+242995	sinagen	1216_MOTHER	nuraya	nuraya	n u r a j a		laycock1968	23145
+243036	sinagen	1209_I	kiy	kiy	k i j		laycock1968	22863
+243075	sinagen	1215_THOU	yi	yi	j i		laycock1968	23108
+243220	sinagen	1256_HEAD	peine	peine	p e i n e		laycock1968	23220
+243258	sinagen	1248_EYE	napaka	napaka	n a p a k a		laycock1968	22880
+243299	sinagen	1221_NOSE	malka	malka	m a l k a		laycock1968	23566
+243340	sinagen	1247_EAR	ma	ma	m a		laycock1968	23367
+243382	sinagen	1380_TOOTH	na:kən	na:kən	n aː k ə n		laycock1968	23519
+243463	sinagen	2121_ARM_OR_HAND	rakita	rakita	r a k i t a		laycock1968	23546
+243505	sinagen	1402_BREAST	mata	mata	m a t a		laycock1968	23448
+243582	sinagen	2098_FOOT_OR_LEG	walək	walək	w a l ə k		laycock1968	23304
+243624	sinagen	763_SKIN	pawulta	pawulta	p a w u l t a		laycock1968	23340
+243665	sinagen	946_BLOOD	leŋka	leŋka	l e ŋ k a		laycock1968	23030
+243707	sinagen	1394_BONE	lakita	lakita	l a k i t a		laycock1968	23430
+243748	sinagen	1343_SUN	xahi	xahi	x a h i		laycock1968	22953
+243790	sinagen	1313_MOON	aunəxə	aunəxə	a u n ə x ə		laycock1968	23491
+243832	sinagen	1430_STAR	miru	miru	m i r u		laycock1968	22931
+243873	sinagen	2108_RAINING_OR_RAIN	won	won	w o n		laycock1968	22905
+243914	sinagen	948_WATER	wɨn	wɨn	w ɨ n		laycock1968	23333
+243956	sinagen	2159_GROUND	waya	waya	w a j a		laycock1968	22851
+243997	sinagen	857_STONE	kita	kita	k i t a		laycock1968	23376
+244039	sinagen	960_WIND	makə	makə	m a k ə		laycock1968	23431
+244080	sinagen	221_FIRE	yakə	yakə	j a k ə		laycock1968	22995
+244122	sinagen	778_SMOKE_EXHAUST	wakə	wakə	w a k ə		laycock1968	23132
+244162	sinagen	906_TREE	ni:pa	ni:pa	n iː p a		laycock1968	23082
+244204	sinagen	2009_DOG	pata	pata	p a t a		laycock1968	23529
+244246	sinagen	937_BIRD	nata	nata	n a t a		laycock1968	23201
+244288	sinagen	744_EGG	puta	puta	p u t a		laycock1968	23394
+244328	sinagen	1392_LOUSE	rarka	rarka	r a r k a		laycock1968	23236
+244366	sinagen	1035_GOOD	pwolana	pwolana	p w o l a n a		laycock1968	22912
+244404	sinagen	1292_BAD	wa:na	wa:na	w aː n a		laycock1968	23003
+244543	sinagen	1208_CAT	nəmo	nəmo	n ə m o		laycock1968	23199
+244582	sinagen	695_GO	mla	mla	m l a		laycock1968	22904
+244619	sinagen	1498_TWO	fiyə	fiyə	f i j ə		laycock1968	23344
+242831	wanap	1554_MAN	nyiŋkilpən	nyiŋkilpən	n j i ŋ k i l p ə n		laycock1968	23164
+242873	wanap	962_WOMAN	kekəntə	kekəntə	k e k ə n t ə		laycock1968	23221
+242915	wanap	2099_CHILD	weruweru	weruweru	w e r u w e r u		laycock1968	23166
+242955	wanap	1217_FATHER	minyal	minyal	m i n j a l		laycock1968	23239
+242996	wanap	1216_MOTHER	mikan	mikan	m i k a n		laycock1968	23225
+243037	wanap	1209_I	kəmex	kəmex	k ə m e x		laycock1968	23116
+243076	wanap	1215_THOU	kiyox	kiyox	k i j o x		laycock1968	22857
+243114	wanap	1212_WE	kupox	kupox	k u p o x		laycock1968	23560
+243150	wanap	2304_THEE_OBLIQUE_CASE_OF_YOU	kimox	kimox	k i m o x		laycock1968	23539
+243186	wanap	817_THEY	təmo	təmo	t ə m o		laycock1968	23487
+243221	wanap	1256_HEAD	peləf	peləf	p e l ə f		laycock1968	23220
+243259	wanap	1248_EYE	yilp	yilp	j i l p		laycock1968	23257
+243300	wanap	1221_NOSE	təlom	təlom	t ə l o m		laycock1968	23425
+243341	wanap	1247_EAR	nuŋkul	nuŋkul	n u ŋ k u l		laycock1968	23596
+243383	wanap	1380_TOOTH	nef	nef	n e f		laycock1968	23519
+243423	wanap	1205_TONGUE	kə:ləp	kə:ləp	k əː l ə p		laycock1968	23069
+243464	wanap	2121_ARM_OR_HAND	pam	pam	p a m		laycock1968	23413
+243506	wanap	1402_BREAST	yimaŋkəf	yimaŋkəf	j i m a ŋ k ə f		laycock1968	23448
+243546	wanap	1251_BELLY	kaʔaf	kaʔaf	k a ʔ a f		laycock1968	23550
+243583	wanap	2098_FOOT_OR_LEG	kelfek	kelfek	k e l f e k		laycock1968	22918
+243625	wanap	763_SKIN	saf	saf	s a f		laycock1968	23286
+243666	wanap	946_BLOOD	komkok	komkok	k o m k o k		laycock1968	23305
+243708	wanap	1394_BONE	lekəl	lekəl	l e k ə l		laycock1968	23430
+243749	wanap	1343_SUN	kentief	kentief	k e n t i e f		laycock1968	23578
+243791	wanap	1313_MOON	ke:nyif	ke:nyif	k eː n j i f		laycock1968	23422
+243833	wanap	1430_STAR	səmproŋ	səmproŋ	s ə m p r o ŋ		laycock1968	23641
+243874	wanap	2108_RAINING_OR_RAIN	ku:	ku:	k uː		laycock1968	22862
+243915	wanap	948_WATER	ku:	ku:	k uː		laycock1968	23607
+243957	wanap	2159_GROUND	kep	kep	k e p		laycock1968	23324
+243998	wanap	857_STONE	kipru	kipru	k i p r u		laycock1968	23228
+244040	wanap	960_WIND	kəferk	kəferk	k ə f e r k		laycock1968	23050
+244081	wanap	221_FIRE	nif	nif	n i f		laycock1968	23356
+244123	wanap	778_SMOKE_EXHAUST	yipar	yipar	j i p a r		laycock1968	23189
+244163	wanap	906_TREE	nimp	nimp	n i m p		laycock1968	23082
+244205	wanap	2009_DOG	yimpa	yimpa	j i m p a		laycock1968	22942
+244247	wanap	937_BIRD	kal	kal	k a l		laycock1968	23420
+244289	wanap	744_EGG	yiplop	yiplop	j i p l o p		laycock1968	23517
+244329	wanap	1392_LOUSE	yiməl	yiməl	j i m ə l		laycock1968	22887
+244367	wanap	1035_GOOD	me:ət	me:ət	m eː ə t		laycock1968	23488
+244405	wanap	1292_BAD	kəŋkrak	kəŋkrak	k ə ŋ k r a k		laycock1968	23269
+244441	wanap	156_RED	komkoto	komkoto	k o m k o t o		laycock1968	23330
+244474	wanap	1335_WHITE	toŋkorəf	toŋkorəf	t o ŋ k o r ə f		laycock1968	23141
+244507	wanap	163_BLACK	koposəf	koposəf	k o p o s ə f		laycock1968	23464
+244544	wanap	1208_CAT	kei	kei	k e i		laycock1968	23614
+244583	wanap	695_GO	lək	lək	l ə k		laycock1968	23475
+244620	wanap	1498_TWO	poyomp	poyomp	p o j o m p		laycock1968	23344
+242832	amol	1554_MAN	maikən	maikən	m a i k ə n		laycock1968	22892
+242874	amol	962_WOMAN	asək	asək	a s ə k		laycock1968	23061
+242916	amol	2099_CHILD	pamayen	pamayen	p a m a j e n		laycock1968	23346
+242956	amol	1217_FATHER	aya	aya	a j a		laycock1968	23129
+242997	amol	1216_MOTHER	meŋ	meŋ	m e ŋ		laycock1968	22987
+243038	amol	1209_I	au	au	a u		laycock1968	23623
+243077	amol	1215_THOU	i:	i:	iː		laycock1968	23108
+243115	amol	1212_WE	amən	amən	a m ə n		laycock1968	23383
+243151	amol	2304_THEE_OBLIQUE_CASE_OF_YOU	yi	yi	j i		laycock1968	22823
+243187	amol	817_THEY	may	may	m a j		laycock1968	23544
+243260	amol	1248_EYE	nəmalal	nəmalal	n ə m a l a l		laycock1968	22880
+243301	amol	1221_NOSE	mipan	mipan	m i p a n		laycock1968	23265
+243342	amol	1247_EAR	taŋkən	taŋkən	t a ŋ k ə n		laycock1968	23611
+243384	amol	1380_TOOTH	owayen	owayen	o w a j e n		laycock1968	23028
+243424	amol	1205_TONGUE	akaŋ	akaŋ	a k a ŋ		laycock1968	23563
+243465	amol	2121_ARM_OR_HAND	yitən	yitən	j i t ə n		laycock1968	23310
+243507	amol	1402_BREAST	yimawoŋ	yimawoŋ	j i m a w o ŋ		laycock1968	23448
+243547	amol	1251_BELLY	yipin	yipin	j i p i n		laycock1968	22852
+243584	amol	2098_FOOT_OR_LEG	aŋ	aŋ	a ŋ		laycock1968	22977
+243626	amol	763_SKIN	yakən	yakən	j a k ə n		laycock1968	23489
+243667	amol	946_BLOOD	səneimpən	səneimpən	s ə n e i m p ə n		laycock1968	23514
+243709	amol	1394_BONE	lapən	lapən	l a p ə n		laycock1968	23052
+243750	amol	1343_SUN	wan	wan	w a n		laycock1968	23450
+243792	amol	1313_MOON	ayen	ayen	a j e n		laycock1968	23491
+243834	amol	1430_STAR	towuʔ	towuʔ	t o w u ʔ		laycock1968	23188
+243875	amol	2108_RAINING_OR_RAIN	asaŋ	asaŋ	a s a ŋ		laycock1968	23106
+243916	amol	948_WATER	səpən	səpən	s ə p ə n		laycock1968	23244
+243958	amol	2159_GROUND	tawən	tawən	t a w ə n		laycock1968	22851
+243999	amol	857_STONE	səmpeiken	səmpeiken	s ə m p e i k e n		laycock1968	23051
+244041	amol	960_WIND	yipo	yipo	j i p o		laycock1968	23633
+244082	amol	221_FIRE	niŋ	niŋ	n i ŋ		laycock1968	23356
+244124	amol	778_SMOKE_EXHAUST	suwaŋ	suwaŋ	s u w a ŋ		laycock1968	22830
+244164	amol	906_TREE	nimpən	nimpən	n i m p ə n		laycock1968	23082
+244206	amol	2009_DOG	yimpan	yimpan	j i m p a n		laycock1968	22942
+244248	amol	937_BIRD	alin	alin	a l i n		laycock1968	23201
+244290	amol	744_EGG	yinalən	yinalən	j i n a l ə n		laycock1968	23517
+244330	amol	1392_LOUSE	yimukun	yimukun	j i m u k u n		laycock1968	22887
+244368	amol	1035_GOOD	pəriŋ	pəriŋ	p ə r i ŋ		laycock1968	23185
+244406	amol	1292_BAD	uwalan	uwalan	u w a l a n		laycock1968	22881
+244442	amol	156_RED	yamatən	yamatən	j a m a t ə n		laycock1968	22945
+244475	amol	1335_WHITE	yəlawan	yəlawan	j ə l a w a n		laycock1968	23525
+244508	amol	163_BLACK	sərptən	sərptən	s ə r p t ə n		laycock1968	23493
+244545	amol	1208_CAT	anən	anən	a n ə n		laycock1968	23199
+244584	amol	695_GO	al	al	a l		laycock1968	23217
+244621	amol	1498_TWO	nantiyou	nantiyou	n a n t i j o u		laycock1968	22963
+242833	aruop	1554_MAN	makenti	makenti	m a k e n t i		laycock1968	22892
+242875	aruop	962_WOMAN	simi	simi	s i m i		laycock1968	22900
+242957	aruop	1217_FATHER	ayi	ayi	a j i		laycock1968	23129
+242998	aruop	1216_MOTHER	me	me	m e		laycock1968	22987
+243039	aruop	1209_I	am	am	a m		laycock1968	23024
+243078	aruop	1215_THOU	yi	yi	j i		laycock1968	23108
+243116	aruop	1212_WE	mənti	mənti	m ə n t i		laycock1968	23383
+243152	aruop	2304_THEE_OBLIQUE_CASE_OF_YOU	yimi	yimi	j i m i		laycock1968	22823
+243222	aruop	1256_HEAD	wantu	wantu	w a n t u		laycock1968	22998
+243261	aruop	1248_EYE	yolta	yolta	j o l t a		laycock1968	23257
+243302	aruop	1221_NOSE	mup	mup	m u p		laycock1968	23265
+243343	aruop	1247_EAR	yaŋkole	yaŋkole	j a ŋ k o l e		laycock1968	23013
+243385	aruop	1380_TOOTH	na	na	n a		laycock1968	23519
+243425	aruop	1205_TONGUE	aləta	aləta	a l ə t a		laycock1968	22958
+243466	aruop	2121_ARM_OR_HAND	nuŋku	nuŋku	n u ŋ k u		laycock1968	23387
+243508	aruop	1402_BREAST	yimá	yimá	j i m á/a		laycock1968	23448
+243585	aruop	2098_FOOT_OR_LEG	ala	ala	a l a		laycock1968	22977
+243627	aruop	763_SKIN	wiye	wiye	w i j e		laycock1968	23219
+243668	aruop	946_BLOOD	səna	səna	s ə n a		laycock1968	23514
+243710	aruop	1394_BONE	pəniŋki	pəniŋki	p ə n i ŋ k i		laycock1968	22903
+243751	aruop	1343_SUN	wa	wa	w a		laycock1968	23450
+243793	aruop	1313_MOON	anyə	anyə	a n j ə		laycock1968	23491
+243835	aruop	1430_STAR	tam	tam	t a m		laycock1968	23188
+243876	aruop	2108_RAINING_OR_RAIN	suku	suku	s u k u		laycock1968	23057
+243917	aruop	948_WATER	suku	suku	s u k u		laycock1968	23014
+243959	aruop	2159_GROUND	sau	sau	s a u		laycock1968	22851
+244000	aruop	857_STONE	atauka	atauka	a t a u k a		laycock1968	23554
+244042	aruop	960_WIND	məlŋke	məlŋke	m ə l ŋ k e		laycock1968	23282
+244083	aruop	221_FIRE	yimpu	yimpu	j i m p u		laycock1968	23009
+244125	aruop	778_SMOKE_EXHAUST	sanye	sanye	s a n j e		laycock1968	23460
+244165	aruop	906_TREE	nəmpə	nəmpə	n ə m p ə		laycock1968	23082
+244207	aruop	2009_DOG	yimpa	yimpa	j i m p a		laycock1968	22942
+244249	aruop	937_BIRD	ali	ali	a l i		laycock1968	23201
+244291	aruop	744_EGG	yoltə	yoltə	j o l t ə		laycock1968	23517
+244331	aruop	1392_LOUSE	yimunə	yimunə	j i m u n ə		laycock1968	22887
+244369	aruop	1035_GOOD	yinkə	yinkə	j i n k ə		laycock1968	22817
+244407	aruop	1292_BAD	mənketi	mənketi	m ə n k e t i		laycock1968	23591
+244443	aruop	156_RED	yamata	yamata	j a m a t a		laycock1968	22945
+244476	aruop	1335_WHITE	ya	ya	j a		laycock1968	23525
+244509	aruop	163_BLACK	wasiye	wasiye	w a s i j e		laycock1968	22935
+244546	aruop	1208_CAT	an	an	a n		laycock1968	23199
+244585	aruop	695_GO	al	al	a l		laycock1968	23217
+244622	aruop	1498_TWO	piya	piya	p i j a		laycock1968	23344
+242834	yangum-mon	1554_MAN	almias	almias	a l m i a s		laycock1968	22853
+242876	yangum-mon	962_WOMAN	wasi	wasi	w a s i		laycock1968	23615
+242917	yangum-mon	2099_CHILD	wara	wara	w a r a		laycock1968	23166
+242958	yangum-mon	1217_FATHER	yaya	yaya	j a j a		laycock1968	23129
+242999	yangum-mon	1216_MOTHER	kaku	kaku	k a k u		laycock1968	22828
+243040	yangum-mon	1209_I	wup	wup	w u p		laycock1968	23521
+243079	yangum-mon	1215_THOU	yit	yit	j i t		laycock1968	23108
+243117	yangum-mon	1212_WE	miyan	miyan	m i j a n		laycock1968	23418
+243153	yangum-mon	2304_THEE_OBLIQUE_CASE_OF_YOU	yip	yip	j i p		laycock1968	22823
+243188	yangum-mon	817_THEY	ti	ti	t i		laycock1968	22938
+243223	yangum-mon	1256_HEAD	wah	wah	w a h		laycock1968	22998
+243262	yangum-mon	1248_EYE	yilkŋum	yilkŋum	j i l k ŋ u m		laycock1968	23257
+243303	yangum-mon	1221_NOSE	yimwar	yimwar	j i m w a r		laycock1968	23174
+243344	yangum-mon	1247_EAR	yiŋku:l	yiŋku:l	j i ŋ k uː l		laycock1968	23013
+243386	yangum-mon	1380_TOOTH	awak	awak	a w a k		laycock1968	23028
+243426	yangum-mon	1205_TONGUE	yalip	yalip	j a l i p		laycock1968	23353
+243467	yangum-mon	2121_ARM_OR_HAND	pampam	pampam	p a m p a m		laycock1968	23413
+243509	yangum-mon	1402_BREAST	yimán	yimán	j i m á/a n		laycock1968	23448
+243548	yangum-mon	1251_BELLY	jiyu	jiyu	j i j u		laycock1968	23184
+243586	yangum-mon	2098_FOOT_OR_LEG	rak	rak	r a k		laycock1968	23027
+243628	yangum-mon	763_SKIN	yikisiw	yikisiw	j i k i s i w		laycock1968	23195
+243669	yangum-mon	946_BLOOD	yuwanip	yuwanip	j u w a n i p		laycock1968	22909
+243711	yangum-mon	1394_BONE	yiklia	yiklia	j i k l i a		laycock1968	23384
+243752	yangum-mon	1343_SUN	təkŋan	təkŋan	t ə k ŋ a n		laycock1968	23077
+243794	yangum-mon	1313_MOON	mərəŋkil	mərəŋkil	m ə r ə ŋ k i l		laycock1968	23368
+243836	yangum-mon	1430_STAR	ntul	ntul	n t u l		laycock1968	23046
+243877	yangum-mon	2108_RAINING_OR_RAIN	sulp	sulp	s u l p		laycock1968	23057
+243918	yangum-mon	948_WATER	sulp	sulp	s u l p		laycock1968	23014
+243960	yangum-mon	2159_GROUND	tap	tap	t a p		laycock1968	22851
+244001	yangum-mon	857_STONE	pikiyap	pikiyap	p i k i j a p		laycock1968	23171
+244043	yangum-mon	960_WIND	yipil	yipil	j i p i l		laycock1968	23633
+244084	yangum-mon	221_FIRE	niw	niw	n i w		laycock1968	23356
+244126	yangum-mon	778_SMOKE_EXHAUST	nuwan	nuwan	n u w a n		laycock1968	22830
+244166	yangum-mon	906_TREE	nim	nim	n i m		laycock1968	23082
+244208	yangum-mon	2009_DOG	yimpak	yimpak	j i m p a k		laycock1968	22942
+244250	yangum-mon	937_BIRD	al	al	a l		laycock1968	23201
+244292	yangum-mon	744_EGG	yulp	yulp	j u l p		laycock1968	23517
+244332	yangum-mon	1392_LOUSE	yimul	yimul	j i m u l		laycock1968	22887
+244370	yangum-mon	1035_GOOD	likŋian	likŋian	l i k ŋ i a n		laycock1968	23632
+244408	yangum-mon	1292_BAD	okontun	okontun	o k o n t u n		laycock1968	23442
+244444	yangum-mon	156_RED	yimatak	yimatak	j i m a t a k		laycock1968	22945
+244477	yangum-mon	1335_WHITE	təŋkarwak	təŋkarwak	t ə ŋ k a r w a k		laycock1968	23141
+244510	yangum-mon	163_BLACK	alŋkasak	alŋkasak	a l ŋ k a s a k		laycock1968	23093
+244547	yangum-mon	1208_CAT	akŋ	akŋ	a k ŋ		laycock1968	23614
+244586	yangum-mon	695_GO	al	al	a l		laycock1968	23217
+244623	yangum-mon	1498_TWO	piyak	piyak	p i j a k		laycock1968	23344
+242836	agi	1554_MAN	kamwol	kamwol	k a m w o l		laycock1968	23445
+242878	agi	962_WOMAN	wukora	wukora	w u k o r a		laycock1968	23293
+242919	agi	2099_CHILD	wuko	wuko	w u k o		laycock1968	22864
+242960	agi	1217_FATHER	noni	noni	n o n i		laycock1968	23197
+243001	agi	1216_MOTHER	nu:ka	nu:ka	n uː k a		laycock1968	23085
+243042	agi	1209_I	ku	ku	k u		laycock1968	23415
+243081	agi	1215_THOU	yi	yi	j i		laycock1968	23108
+243225	agi	1256_HEAD	paikwa	paikwa	p a i k w a		laycock1968	23379
+243264	agi	1248_EYE	juwol	juwol	j u w o l		laycock1968	23528
+243305	agi	1221_NOSE	tuwarka	tuwarka	t u w a r k a		laycock1968	22821
+243346	agi	1247_EAR	muᶇkwalnta	muᶇkwalnta	m u n k w a l n t a		laycock1968	22906
+243388	agi	1380_TOOTH	nai	nai	n a i		laycock1968	23519
+243428	agi	1205_TONGUE	naliya	naliya	n a l i j a		laycock1968	23275
+243469	agi	2121_ARM_OR_HAND	kilota	kilota	k i l o t a		laycock1968	23483
+243511	agi	1402_BREAST	nəmai	nəmai	n ə m a i		laycock1968	23448
+243588	agi	2098_FOOT_OR_LEG	safiel	safiel	s a f i e l		laycock1968	23567
+243630	agi	763_SKIN	jiwota	jiwota	j i w o t a		laycock1968	22922
+243671	agi	946_BLOOD	xaməŋka	xaməŋka	x a m ə ŋ k a		laycock1968	23305
+243713	agi	1394_BONE	kamənaŋkil	kamənaŋkil	k a m ə n a ŋ k i l		laycock1968	22875
+243754	agi	1343_SUN	wota	wota	w o t a		laycock1968	23450
+243796	agi	1313_MOON	uni	uni	u n i		laycock1968	23491
+243838	agi	1430_STAR	yowampal	yowampal	j o w a m p a l		laycock1968	23582
+243879	agi	2108_RAINING_OR_RAIN	wul	wul	w u l		laycock1968	22905
+243920	agi	948_WATER	wul	wul	w u l		laycock1968	23333
+243962	agi	2159_GROUND	pəlokwo	pəlokwo	p ə l o k w o		laycock1968	23042
+244045	agi	960_WIND	matei	matei	m a t e i		laycock1968	23431
+244086	agi	221_FIRE	ni	ni	n i		laycock1968	23356
+244128	agi	778_SMOKE_EXHAUST	uwo	uwo	u w o		laycock1968	23066
+244168	agi	906_TREE	numwol	numwol	n u m w o l		laycock1968	23082
+244210	agi	2009_DOG	nəmpo	nəmpo	n ə m p o		laycock1968	22942
+244252	agi	937_BIRD	nol	nol	n o l		laycock1968	23370
+244294	agi	744_EGG	nəŋkoi	nəŋkoi	n ə ŋ k o i		laycock1968	22810
+244334	agi	1392_LOUSE	watokəl	watokəl	w a t o k ə l		laycock1968	23556
+244372	agi	1035_GOOD	yiluwana	yiluwana	j i l u w a n a		laycock1968	22817
+244410	agi	1292_BAD	omóniya	omóniya	o m ó/o n i j a		laycock1968	23472
+244445	agi	156_RED	xaməŋka	xaməŋka	x a m ə ŋ k a		laycock1968	23330
+244478	agi	1335_WHITE	walwalka	walwalka	w a l w a l k a		laycock1968	23135
+244511	agi	163_BLACK	nomopoka	nomopoka	n o m o p o k a		laycock1968	23258
+244549	agi	1208_CAT	amo	amo	a m o		laycock1968	22948
+244588	agi	695_GO	ma	ma	m a		laycock1968	23159
+244625	agi	1498_TWO	piyami	piyami	p i j a m i		laycock1968	23344
+242837	minidien	1554_MAN	məsən	məsən	m ə s ə n		laycock1968	23537
+242879	minidien	962_WOMAN	nuka- pyene	nuka-_pyene	n u k a + p j e n e		laycock1968	23473
+242920	minidien	2099_CHILD	masiyen	masiyen	m a s i j e n		laycock1968	23020
+242961	minidien	1217_FATHER	yaye	yaye	j a j e		laycock1968	23129
+243002	minidien	1216_MOTHER	mamaʔ	mamaʔ	m a m a ʔ		laycock1968	22913
+243226	minidien	1256_HEAD	etwun	etwun	e t w u n		laycock1968	23312
+243265	minidien	1248_EYE	napə	napə	n a p ə		laycock1968	22880
+243306	minidien	1221_NOSE	mohau	mohau	m o h a u		laycock1968	23099
+243347	minidien	1247_EAR	nikiw	nikiw	n i k i w		laycock1968	23596
+243389	minidien	1380_TOOTH	panikye	panikye	p a n i k j e		laycock1968	23186
+243429	minidien	1205_TONGUE	ləhe	ləhe	l ə h e		laycock1968	23279
+243470	minidien	2121_ARM_OR_HAND	lahə́	lahə́	l a h ə́/ə		laycock1968	23546
+243512	minidien	1402_BREAST	mapi	mapi	m a p i		laycock1968	23448
+243550	minidien	1251_BELLY	səlpaʔ	səlpaʔ	s ə l p a ʔ		laycock1968	23456
+243589	minidien	2098_FOOT_OR_LEG	etiyə	etiyə	e t i j ə		laycock1968	23437
+243631	minidien	763_SKIN	kirkeʔ	kirkeʔ	k i r k e ʔ		laycock1968	22876
+243672	minidien	946_BLOOD	amkeʔ	amkeʔ	a m k e ʔ		laycock1968	23305
+243714	minidien	1394_BONE	loki	loki	l o k i		laycock1968	23430
+243755	minidien	1343_SUN	amwo	amwo	a m w o		laycock1968	22916
+243797	minidien	1313_MOON	auniye	auniye	a u n i j e		laycock1968	23491
+243839	minidien	1430_STAR	neputen	neputen	n e p u t e n		laycock1968	23299
+243880	minidien	2108_RAINING_OR_RAIN	mukɨ	mukɨ	m u k ɨ		laycock1968	23476
+243921	minidien	948_WATER	supɨ	supɨ	s u p ɨ		laycock1968	23014
+243963	minidien	2159_GROUND	sərka	sərka	s ə r k a		laycock1968	23502
+244003	minidien	857_STONE	kitampa	kitampa	k i t a m p a		laycock1968	23376
+244004	minidien	857_STONE	alpɨl	alpɨl	a l p ɨ l		laycock1968	22813
+244046	minidien	960_WIND	areyə	areyə	a r e j ə		laycock1968	22901
+244087	minidien	221_FIRE	yakel	yakel	j a k e l		laycock1968	22995
+244129	minidien	778_SMOKE_EXHAUST	sahal	sahal	s a h a l		laycock1968	22955
+244169	minidien	906_TREE	lowɨ	lowɨ	l o w ɨ		laycock1968	23247
+244211	minidien	2009_DOG	panə	panə	p a n ə		laycock1968	23529
+244253	minidien	937_BIRD	pelhin	pelhin	p e l h i n		laycock1968	23388
+244295	minidien	744_EGG	waltiye	waltiye	w a l t i j e		laycock1968	22893
+244335	minidien	1392_LOUSE	lumum	lumum	l u m u m		laycock1968	22887
+244373	minidien	1035_GOOD	paye	paye	p a j e		laycock1968	23500
+244411	minidien	1292_BAD	nakəlten	nakəlten	n a k ə l t e n		laycock1968	23087
+244446	minidien	156_RED	amke	amke	a m k e		laycock1968	23330
+244479	minidien	1335_WHITE	nahal	nahal	n a h a l		laycock1968	22883
+244512	minidien	163_BLACK	malpesiye	malpesiye	m a l p e s i j e		laycock1968	22822
+244550	minidien	1208_CAT	aməx	aməx	a m ə x		laycock1968	22948
+244589	minidien	695_GO	amle	amle	a m l e		laycock1968	22904
+244626	minidien	1498_TWO	yatowiye	yatowiye	j a t o w i j e		laycock1968	23344
+242838	siliput	1554_MAN	matan	matan	m a t a n		laycock1968	23537
+242880	siliput	962_WOMAN	yukətet	yukətet	j u k ə t e t		laycock1968	23549
+242921	siliput	2099_CHILD	kanəf	kanəf	k a n ə f		laycock1968	23372
+242962	siliput	1217_FATHER	iji	iji	i j i		laycock1968	22923
+243003	siliput	1216_MOTHER	mai	mai	m a i		laycock1968	23170
+243043	siliput	1209_I	oi	oi	o i		laycock1968	22914
+243082	siliput	1215_THOU	yi	yi	j i		laycock1968	23108
+243119	siliput	1212_WE	yep	yep	j e p		laycock1968	23210
+243155	siliput	2304_THEE_OBLIQUE_CASE_OF_YOU	yip	yip	j i p		laycock1968	22823
+243190	siliput	817_THEY	təmoŋ	təmoŋ	t ə m o ŋ		laycock1968	23487
+243227	siliput	1256_HEAD	paroŋ	paroŋ	p a r o ŋ		laycock1968	23220
+243266	siliput	1248_EYE	oi	oi	o i		laycock1968	23581
+243307	siliput	1221_NOSE	luwet	luwet	l u w e t		laycock1968	22944
+243348	siliput	1247_EAR	taŋən	taŋən	t a ŋ ə n		laycock1968	23611
+243390	siliput	1380_TOOTH	panəm	panəm	p a n ə m		laycock1968	23186
+243430	siliput	1205_TONGUE	yansɨ	yansɨ	j a n s ɨ		laycock1968	23353
+243471	siliput	2121_ARM_OR_HAND	laŋ	laŋ	l a ŋ		laycock1968	23546
+243513	siliput	1402_BREAST	mayr	mayr	m a j r		laycock1968	23448
+243590	siliput	2098_FOOT_OR_LEG	tiŋ	tiŋ	t i ŋ		laycock1968	23437
+243632	siliput	763_SKIN	purko	purko	p u r k o		laycock1968	23474
+243673	siliput	946_BLOOD	wuji	wuji	w u j i		laycock1968	23402
+243715	siliput	1394_BONE	lokɨ	lokɨ	l o k ɨ		laycock1968	23430
+243756	siliput	1343_SUN	olok	olok	o l o k		laycock1968	23183
+243798	siliput	1313_MOON	aune	aune	a u n e		laycock1968	23491
+243840	siliput	1430_STAR	nifən	nifən	n i f ə n		laycock1968	23299
+243881	siliput	2108_RAINING_OR_RAIN	wus	wus	w u s		laycock1968	22905
+243922	siliput	948_WATER	sifyer	sifyer	s i f j e r		laycock1968	23244
+243964	siliput	2159_GROUND	syap	syap	s j a p		laycock1968	22851
+244005	siliput	857_STONE	wotə	wotə	w o t ə		laycock1968	22859
+244047	siliput	960_WIND	kərker	kərker	k ə r k e r		laycock1968	23181
+244088	siliput	221_FIRE	ya	ya	j a		laycock1968	22995
+244130	siliput	778_SMOKE_EXHAUST	hanəm	hanəm	h a n ə m		laycock1968	23012
+244170	siliput	906_TREE	lou	lou	l o u		laycock1968	23247
+244212	siliput	2009_DOG	pat	pat	p a t		laycock1968	23529
+244254	siliput	937_BIRD	hilít	hilít	h i l í/i t		laycock1968	23420
+244296	siliput	744_EGG	yilhəf	yilhəf	j i l h ə f		laycock1968	23517
+244374	siliput	1035_GOOD	por	por	p o r		laycock1968	23185
+244412	siliput	1292_BAD	arəhou	arəhou	a r ə h o u		laycock1968	23019
+244447	siliput	156_RED	hilkuŋ	hilkuŋ	h i l k u ŋ		laycock1968	23433
+244480	siliput	1335_WHITE	sərke	sərke	s ə r k e		laycock1968	23627
+244513	siliput	163_BLACK	masəŋ	masəŋ	m a s ə ŋ		laycock1968	23602
+244551	siliput	1208_CAT	akos	akos	a k o s		laycock1968	23199
+244590	siliput	695_GO	alop	alop	a l o p		laycock1968	23217
+244627	siliput	1498_TWO	wuríkrŋ	wuríkrŋ	w u r í/i k r ŋ		laycock1968	23084
+242839	yahang	1554_MAN	mukun	mukun	m u k u n		laycock1968	22892
+242881	yahang	962_WOMAN	nuwot	nuwot	n u w o t		laycock1968	23389
+242922	yahang	2099_CHILD	kafai	kafai	k a f a i		laycock1968	22957
+242963	yahang	1217_FATHER	tete	tete	t e t e		laycock1968	22869
+243004	yahang	1216_MOTHER	naweʔ	naweʔ	n a w e ʔ		laycock1968	23628
+243044	yahang	1209_I	ai	ai	a i		laycock1968	22914
+243083	yahang	1215_THOU	is	is	i s		laycock1968	23447
+243120	yahang	1212_WE	epep	epep	e p e p		laycock1968	23210
+243156	yahang	2304_THEE_OBLIQUE_CASE_OF_YOU	ipip	ipip	i p i p		laycock1968	22823
+243191	yahang	817_THEY	apam	apam	a p a m		laycock1968	23018
+243228	yahang	1256_HEAD	wuntəf	wuntəf	w u n t ə f		laycock1968	22998
+243267	yahang	1248_EYE	nampəl	nampəl	n a m p ə l		laycock1968	22880
+243308	yahang	1221_NOSE	ruwot	ruwot	r u w o t		laycock1968	22944
+243349	yahang	1247_EAR	raŋkun	raŋkun	r a ŋ k u n		laycock1968	23611
+243391	yahang	1380_TOOTH	paniŋk	paniŋk	p a n i ŋ k		laycock1968	23186
+243431	yahang	1205_TONGUE	elaŋkitif	elaŋkitif	e l a ŋ k i t i f		laycock1968	23564
+243472	yahang	2121_ARM_OR_HAND	nataŋ	nataŋ	n a t a ŋ		laycock1968	22897
+243514	yahang	1402_BREAST	may	may	m a j		laycock1968	23448
+243551	yahang	1251_BELLY	wulp	wulp	w u l p		laycock1968	23630
+243591	yahang	2098_FOOT_OR_LEG	youpep	youpep	j o u p e p		laycock1968	23616
+243633	yahang	763_SKIN	halip	halip	h a l i p		laycock1968	23477
+243674	yahang	946_BLOOD	wiyef	wiyef	w i j e f		laycock1968	23402
+243716	yahang	1394_BONE	yefa	yefa	j e f a		laycock1968	23224
+243757	yahang	1343_SUN	fala	fala	f a l a		laycock1968	22928
+243799	yahang	1313_MOON	kwonif	kwonif	k w o n i f		laycock1968	23422
+243841	yahang	1430_STAR	ŋkalo	ŋkalo	ŋ k a l o		laycock1968	23426
+243882	yahang	2108_RAINING_OR_RAIN	wi	wi	w i		laycock1968	22997
+243923	yahang	948_WATER	himpel	himpel	h i m p e l		laycock1968	23244
+243965	yahang	2159_GROUND	hap	hap	h a p		laycock1968	22851
+244006	yahang	857_STONE	wətə́f	wətə́f	w ə t ə́/ə f		laycock1968	22859
+244048	yahang	960_WIND	wepe	wepe	w e p e		laycock1968	22816
+244089	yahang	221_FIRE	yaʔaf	yaʔaf	j a ʔ a f		laycock1968	22995
+244131	yahang	778_SMOKE_EXHAUST	poroŋkot	poroŋkot	p o r o ŋ k o t		laycock1968	23277
+244171	yahang	906_TREE	lou	lou	l o u		laycock1968	23247
+244213	yahang	2009_DOG	mpat	mpat	m p a t		laycock1968	23529
+244255	yahang	937_BIRD	felfis	felfis	f e l f i s		laycock1968	23388
+244297	yahang	744_EGG	lawo	lawo	l a w o		laycock1968	23288
+244336	yahang	1392_LOUSE	yaflin	yaflin	j a f l i n		laycock1968	23246
+244375	yahang	1035_GOOD	mis	mis	m i s		laycock1968	23488
+244413	yahang	1292_BAD	afa	afa	a f a		laycock1968	22920
+244448	yahang	156_RED	files	files	f i l e s		laycock1968	23600
+244481	yahang	1335_WHITE	yuŋkwo	yuŋkwo	j u ŋ k w o		laycock1968	23375
+244514	yahang	163_BLACK	yorfon	yorfon	j o r f o n		laycock1968	23429
+244552	yahang	1208_CAT	ana	ana	a n a		laycock1968	23199
+244591	yahang	695_GO	ŋka	ŋka	ŋ k a		laycock1968	23377
+244628	yahang	1498_TWO	kolou	kolou	k o l o u		laycock1968	23191
+242840	beli	1554_MAN	masən	masən	m a s ə n		laycock1968	23537
+242882	beli	962_WOMAN	sakwoto	sakwoto	s a k w o t o		laycock1968	23061
+242923	beli	2099_CHILD	fasən	fasən	f a s ə n		laycock1968	23139
+242964	beli	1217_FATHER	kene	kene	k e n e		laycock1968	23035
+243005	beli	1216_MOTHER	səkwoho	səkwoho	s ə k w o h o		laycock1968	23458
+243045	beli	1209_I	ki	ki	k i		laycock1968	22863
+243084	beli	1215_THOU	si	si	s i		laycock1968	23447
+243121	beli	1212_WE	əfə	əfə	ə f ə		laycock1968	23210
+243157	beli	2304_THEE_OBLIQUE_CASE_OF_YOU	si	si	s i		laycock1968	23471
+243192	beli	817_THEY	afa	afa	a f a		laycock1968	23018
+243268	beli	1248_EYE	satoʔ	satoʔ	s a t o ʔ		laycock1968	22980
+243309	beli	1221_NOSE	suwopən	suwopən	s u w o p ə n		laycock1968	22944
+243350	beli	1247_EAR	ŋətə	ŋətə	ŋ ə t ə		laycock1968	22970
+243392	beli	1380_TOOTH	niŋo	niŋo	n i ŋ o		laycock1968	23254
+243432	beli	1205_TONGUE	life	life	l i f e		laycock1968	23279
+243473	beli	2121_ARM_OR_HAND	paŋin	paŋin	p a ŋ i n		laycock1968	23413
+243515	beli	1402_BREAST	mapi	mapi	m a p i		laycock1968	23448
+243552	beli	1251_BELLY	kitin	kitin	k i t i n		laycock1968	22902
+243592	beli	2098_FOOT_OR_LEG	papaŋ	papaŋ	p a p a ŋ		laycock1968	22811
+243634	beli	763_SKIN	noʔoŋ	noʔoŋ	n o ʔ o ŋ		laycock1968	23126
+243675	beli	946_BLOOD	kuijwẽ	kuijwẽ	k u i j w ẽ		laycock1968	23231
+243717	beli	1394_BONE	loknwẽ	loknwẽ	l o k n w ẽ		laycock1968	23430
+243758	beli	1343_SUN	watli	watli	w a t l i		laycock1968	23450
+243800	beli	1313_MOON	waluko	waluko	w a l u k o		laycock1968	22884
+243842	beli	1430_STAR	kipito	kipito	k i p i t o		laycock1968	23232
+243883	beli	2108_RAINING_OR_RAIN	kumi	kumi	k u m i		laycock1968	23366
+243924	beli	948_WATER	ite	ite	i t e		laycock1968	23244
+243966	beli	2159_GROUND	nehé	nehé	n e h é/e		laycock1968	23352
+244007	beli	857_STONE	kalkopo	kalkopo	k a l k o p o		laycock1968	22861
+244049	beli	960_WIND	lefəti	lefəti	l e f ə t i		laycock1968	23083
+244090	beli	221_FIRE	safi	safi	s a f i		laycock1968	23545
+244132	beli	778_SMOKE_EXHAUST	pəlwəl	pəlwəl	p ə l w ə l		laycock1968	23121
+244172	beli	906_TREE	lowo	lowo	l o w o		laycock1968	23247
+244214	beli	2009_DOG	pato	pato	p a t o		laycock1968	23529
+244256	beli	937_BIRD	walfun	walfun	w a l f u n		laycock1968	23388
+244298	beli	744_EGG	lawiyen	lawiyen	l a w i j e n		laycock1968	23288
+244376	beli	1035_GOOD	pəriyen	pəriyen	p ə r i j e n		laycock1968	23185
+244414	beli	1292_BAD	awunen	awunen	a w u n e n		laycock1968	22920
+244449	beli	156_RED	pərə-tipihen	pərə-tipihen	p ə r ə + t i p i h e n		laycock1968	23538
+244482	beli	1335_WHITE	wafritiyen	wafritiyen	w a f r i t i j e n		laycock1968	23245
+244515	beli	163_BLACK	keflekiyen	keflekiyen	k e f l e k i j e n		laycock1968	23049
+244553	beli	1208_CAT	mo	mo	m o		laycock1968	22948
+244592	beli	695_GO	inan	inan	i n a n		laycock1968	23173
+244629	beli	1498_TWO	wosoŋ	wosoŋ	w o s o ŋ		laycock1968	23191
+242841	heyo	1554_MAN	mohon	mohon	m o h o n		laycock1968	22892
+242883	heyo	962_WOMAN	nuweteʔ	nuweteʔ	n u w e t e ʔ		laycock1968	23389
+242924	heyo	2099_CHILD	anisa	anisa	a n i s a		laycock1968	23522
+242965	heyo	1217_FATHER	yinisa	yinisa	j i n i s a		laycock1968	22994
+243006	heyo	1216_MOTHER	nuwisaʔ	nuwisaʔ	n u w i s a ʔ		laycock1968	23628
+243046	heyo	1209_I	ai	ai	a i		laycock1968	22914
+243085	heyo	1215_THOU	is	is	i s		laycock1968	23447
+243122	heyo	1212_WE	apap	apap	a p a p		laycock1968	23210
+243158	heyo	2304_THEE_OBLIQUE_CASE_OF_YOU	ipip	ipip	i p i p		laycock1968	22823
+243229	heyo	1256_HEAD	utüwe	utüwe	u t ü/u w e		laycock1968	23287
+243269	heyo	1248_EYE	napelkə	napelkə	n a p e l k ə		laycock1968	22880
+243310	heyo	1221_NOSE	luweka	luweka	l u w e k a		laycock1968	22944
+243351	heyo	1247_EAR	rakun	rakun	r a k u n		laycock1968	23611
+243393	heyo	1380_TOOTH	parkita	parkita	p a r k i t a		laycock1968	23186
+243433	heyo	1205_TONGUE	elktife	elktife	e l k t i f e		laycock1968	23564
+243474	heyo	2121_ARM_OR_HAND	natekya	natekya	n a t e k j a		laycock1968	23557
+243516	heyo	1402_BREAST	maka	maka	m a k a		laycock1968	23448
+243553	heyo	1251_BELLY	wulpa	wulpa	w u l p a		laycock1968	23630
+243593	heyo	2098_FOOT_OR_LEG	itikya	itikya	i t i k j a		laycock1968	23437
+243635	heyo	763_SKIN	halipa	halipa	h a l i p a		laycock1968	23477
+243676	heyo	946_BLOOD	wiyefa	wiyefa	w i j e f a		laycock1968	23402
+243718	heyo	1394_BONE	yefa	yefa	j e f a		laycock1968	23224
+243759	heyo	1343_SUN	fala	fala	f a l a		laycock1968	22928
+243801	heyo	1313_MOON	onifəʔ	onifəʔ	o n i f ə ʔ		laycock1968	23422
+243843	heyo	1430_STAR	epun	epun	e p u n		laycock1968	23582
+243884	heyo	2108_RAINING_OR_RAIN	wiyə	wiyə	w i j ə		laycock1968	22997
+243925	heyo	948_WATER	hipelə	hipelə	h i p e l ə		laycock1968	23244
+243967	heyo	2159_GROUND	hapa	hapa	h a p a		laycock1968	22851
+244008	heyo	857_STONE	paleka	paleka	p a l e k a		laycock1968	22964
+244050	heyo	960_WIND	ərpunə	ərpunə	ə r p u n ə		laycock1968	22901
+244091	heyo	221_FIRE	yafa	yafa	j a f a		laycock1968	22995
+244133	heyo	778_SMOKE_EXHAUST	pərka	pərka	p ə r k a		laycock1968	23121
+244173	heyo	906_TREE	lowə	lowə	l o w ə		laycock1968	23247
+244215	heyo	2009_DOG	mpat	mpat	m p a t		laycock1968	23529
+244257	heyo	937_BIRD	walfisa	walfisa	w a l f i s a		laycock1968	23388
+244299	heyo	744_EGG	laʔwo	laʔwo	l a ʔ w o		laycock1968	23288
+244337	heyo	1392_LOUSE	hipəp	hipəp	h i p ə p		laycock1968	23621
+244630	heyo	1498_TWO	oloʔw	oloʔw	o l o ʔ w		laycock1968	23579
+242842	torricelli	1554_MAN	eiŋ	eiŋ	e i ŋ		laycock1968	23396
+242884	torricelli	962_WOMAN	injik	injik	i n j i k		laycock1968	23127
+242925	torricelli	2099_CHILD	lenəŋ	lenəŋ	l e n ə ŋ		laycock1968	23555
+242966	torricelli	1217_FATHER	ayaŋ	ayaŋ	a j a ŋ		laycock1968	23129
+243007	torricelli	1216_MOTHER	maŋ	maŋ	m a ŋ		laycock1968	22987
+243230	torricelli	1256_HEAD	emen	emen	e m e n		laycock1968	22840
+243270	torricelli	1248_EYE	yempit	yempit	j e m p i t		laycock1968	23257
+243311	torricelli	1221_NOSE	wujipen	wujipen	w u j i p e n		laycock1968	23440
+243352	torricelli	1247_EAR	wolep	wolep	w o l e p		laycock1968	23241
+243394	torricelli	1380_TOOTH	nal	nal	n a l		laycock1968	23254
+243434	torricelli	1205_TONGUE	yaŋklou	yaŋklou	j a ŋ k l o u		laycock1968	23353
+243475	torricelli	2121_ARM_OR_HAND	ntal	ntal	n t a l		laycock1968	23612
+243517	torricelli	1402_BREAST	yimep	yimep	j i m e p		laycock1968	23448
+243554	torricelli	1251_BELLY	əpum	əpum	ə p u m		laycock1968	23233
+243594	torricelli	2098_FOOT_OR_LEG	araiʔ	araiʔ	a r a i ʔ		laycock1968	22977
+243636	torricelli	763_SKIN	alou	alou	a l o u		laycock1968	23076
+243677	torricelli	946_BLOOD	yalkup	yalkup	j a l k u p		laycock1968	23609
+243719	torricelli	1394_BONE	ləp	ləp	l ə p		laycock1968	23052
+243760	torricelli	1343_SUN	awən	awən	a w ə n		laycock1968	22824
+243802	torricelli	1313_MOON	iyén	iyén	i j é/e n		laycock1968	23036
+243844	torricelli	1430_STAR	tamər	tamər	t a m ə r		laycock1968	23188
+243885	torricelli	2108_RAINING_OR_RAIN	atsou	atsou	a ts o u		laycock1968	23311
+243926	torricelli	948_WATER	wop	wop	w o p		laycock1968	23308
+243968	torricelli	2159_GROUND	pələŋ	pələŋ	p ə l ə ŋ		laycock1968	23042
+244009	torricelli	857_STONE	əntoʔ	əntoʔ	ə n t o ʔ		laycock1968	23463
+244051	torricelli	960_WIND	wiyəwən	wiyəwən	w i j ə w ə n		laycock1968	22976
+244092	torricelli	221_FIRE	yotou	yotou	j o t o u		laycock1968	22971
+244134	torricelli	778_SMOKE_EXHAUST	feikilp	feikilp	f e i k i l p		laycock1968	22955
+244174	torricelli	906_TREE	lu	lu	l u		laycock1968	23247
+244216	torricelli	2009_DOG	yimpeu	yimpeu	j i m p e u		laycock1968	22942
+244258	torricelli	937_BIRD	elip	elip	e l i p		laycock1968	23201
+244300	torricelli	744_EGG	yimpwonən	yimpwonən	j i m p w o n ə n		laycock1968	23517
+244338	torricelli	1392_LOUSE	numuk	numuk	n u m u k		laycock1968	22887
+244377	torricelli	1035_GOOD	kinyai	kinyai	k i n j a i		laycock1968	23411
+244415	torricelli	1292_BAD	arkwat	arkwat	a r k w a t		laycock1968	23019
+244483	torricelli	1335_WHITE	wawəŋ	wawəŋ	w a w ə ŋ		laycock1968	23499
+244516	torricelli	163_BLACK	milak	milak	m i l a k		laycock1968	23238
+244554	torricelli	1208_CAT	mkal	mkal	m k a l		laycock1968	22992
+244631	torricelli	1498_TWO	wiyeu	wiyeu	w i j e u		laycock1968	23344
+242843	urat	1554_MAN	mik	mik	m i k		laycock1968	22892
+242885	urat	962_WOMAN	tuwei	tuwei	t u w e i		laycock1968	23389
+242926	urat	2099_CHILD	təla	təla	t ə l a		laycock1968	22825
+242967	urat	1217_FATHER	yai	yai	j a i		laycock1968	23129
+243008	urat	1216_MOTHER	mam	mam	m a m		laycock1968	22987
+243047	urat	1209_I	am	am	a m		laycock1968	23024
+243086	urat	1215_THOU	in	in	i n		laycock1968	22972
+243123	urat	1212_WE	puy	puy	p u j		laycock1968	23038
+243159	urat	2304_THEE_OBLIQUE_CASE_OF_YOU	ip	ip	i p		laycock1968	22823
+243193	urat	817_THEY	tiŋ	tiŋ	t i ŋ		laycock1968	22938
+243231	urat	1256_HEAD	ntoh	ntoh	n t o h		laycock1968	23606
+243271	urat	1248_EYE	ampep	ampep	a m p e p		laycock1968	23070
+243312	urat	1221_NOSE	muhroŋ	muhroŋ	m u h r o ŋ		laycock1968	23469
+243353	urat	1247_EAR	kwin	kwin	k w i n		laycock1968	23298
+243395	urat	1380_TOOTH	asep	asep	a s e p		laycock1968	23120
+243476	urat	2121_ARM_OR_HAND	sep	sep	s e p		laycock1968	23008
+243518	urat	1402_BREAST	ampreip	ampreip	a m p r e i p		laycock1968	23119
+243595	urat	2098_FOOT_OR_LEG	nihip	nihip	n i h i p		laycock1968	23446
+243637	urat	763_SKIN	yahreik	yahreik	j a h r e i k		laycock1968	23195
+243678	urat	946_BLOOD	wim	wim	w i m		laycock1968	23111
+243720	urat	1394_BONE	lupuŋ	lupuŋ	l u p u ŋ		laycock1968	23052
+243761	urat	1343_SUN	nai	nai	n a i		laycock1968	23040
+243803	urat	1313_MOON	wantihi	wantihi	w a n t i h i		laycock1968	23194
+243845	urat	1430_STAR	naiŋkwas	naiŋkwas	n a i ŋ k w a s		laycock1968	22855
+243886	urat	2108_RAINING_OR_RAIN	isih	isih	i s i h		laycock1968	23637
+243927	urat	948_WATER	pənip	pənip	p ə n i p		laycock1968	23149
+243969	urat	2159_GROUND	kəkip	kəkip	k ə k i p		laycock1968	23325
+244010	urat	857_STONE	yah	yah	j a h		laycock1968	23515
+244052	urat	960_WIND	weh	weh	w e h		laycock1968	23465
+244093	urat	221_FIRE	nih	nih	n i h		laycock1968	23356
+244135	urat	778_SMOKE_EXHAUST	hisik	hisik	h i s i k		laycock1968	23645
+244175	urat	906_TREE	lou	lou	l o u		laycock1968	23247
+244217	urat	2009_DOG	pwat	pwat	p w a t		laycock1968	23529
+244259	urat	937_BIRD	antet	antet	a n t e t		laycock1968	23201
+244339	urat	1392_LOUSE	ompik	ompik	o m p i k		laycock1968	23618
+244378	urat	1035_GOOD	mpure	mpure	m p u r e		laycock1968	23185
+244416	urat	1292_BAD	pa:ye	pa:ye	p aː j e		laycock1968	22936
+244555	urat	1208_CAT	no	no	n o		laycock1968	23540
+244593	urat	695_GO	l	l	l		laycock1968	23217
+244632	urat	1498_TWO	hoi	hoi	h o i		laycock1968	22848
+242844	urim	1554_MAN	kəmel	kəmel	k ə m e l		laycock1968	23445
+242886	urim	962_WOMAN	ki:n	ki:n	k iː n		laycock1968	22975
+242927	urim	2099_CHILD	wariyimp	wariyimp	w a r i j i m p		laycock1968	23166
+242968	urim	1217_FATHER	ya:nt	ya:nt	j aː n t		laycock1968	23595
+243009	urim	1216_MOTHER	ma:nt	ma:nt	m aː n t		laycock1968	22867
+243048	urim	1209_I	ku:pm	ku:pm	k uː p m		laycock1968	22829
+243087	urim	1215_THOU	ki:tñ	ki:tñ	k iː t ɲ		laycock1968	23576
+243124	urim	1212_WE	ment	ment	m e n t		laycock1968	23383
+243160	urim	2304_THEE_OBLIQUE_CASE_OF_YOU	ki:pm	ki:pm	k iː p m		laycock1968	23635
+243194	urim	817_THEY	tuw	tuw	t u w		laycock1968	23285
+243232	urim	1256_HEAD	ləŋkəp	ləŋkəp	l ə ŋ k ə p		laycock1968	23147
+243272	urim	1248_EYE	i:kŋ	i:kŋ	iː k ŋ		laycock1968	23342
+243313	urim	1221_NOSE	ləmp	ləmp	l ə m p		laycock1968	23309
+243354	urim	1247_EAR	nurkul	nurkul	n u r k u l		laycock1968	23596
+243396	urim	1380_TOOTH	e:k	e:k	eː k		laycock1968	23290
+243435	urim	1205_TONGUE	milip	milip	m i l i p		laycock1968	23167
+243477	urim	2121_ARM_OR_HAND	wamp	wamp	w a m p		laycock1968	22856
+243519	urim	1402_BREAST	ma:	ma:	m aː		laycock1968	23448
+243555	urim	1251_BELLY	ni:k	ni:k	n iː k		laycock1968	22827
+243596	urim	2098_FOOT_OR_LEG	ne:p	ne:p	n eː p		laycock1968	23446
+243638	urim	763_SKIN	palək	palək	p a l ə k		laycock1968	23340
+243679	urim	946_BLOOD	waləmpop	waləmpop	w a l ə m p o p		laycock1968	23603
+243721	urim	1394_BONE	təpmuŋkut	təpmuŋkut	t ə p m u ŋ k u t		laycock1968	23565
+243762	urim	1343_SUN	takəni	takəni	t a k ə n i		laycock1968	23077
+243804	urim	1313_MOON	kanyil	kanyil	k a n j i l		laycock1968	23422
+243846	urim	1430_STAR	kuŋkumemp	kuŋkumemp	k u ŋ k u m e m p		laycock1968	23112
+243887	urim	2108_RAINING_OR_RAIN	huw	huw	h u w		laycock1968	22862
+243928	urim	948_WATER	huw	huw	h u w		laycock1968	23607
+243970	urim	2159_GROUND	kənok	kənok	k ə n o k		laycock1968	23251
+244011	urim	857_STONE	weit	weit	w e i t		laycock1968	23043
+244053	urim	960_WIND	wuri:pm	wuri:pm	w u r iː p m		laycock1968	22835
+244094	urim	221_FIRE	wa:kŋ	wa:kŋ	w aː k ŋ		laycock1968	22896
+244136	urim	778_SMOKE_EXHAUST	həwak	həwak	h ə w a k		laycock1968	22830
+244176	urim	906_TREE	yo:	yo:	j oː		laycock1968	23407
+244218	urim	2009_DOG	nəmpa	nəmpa	n ə m p a		laycock1968	22942
+244260	urim	937_BIRD	wel	wel	w e l		laycock1968	23388
+244301	urim	744_EGG	haləmpar	haləmpar	h a l ə m p a r		laycock1968	23541
+244340	urim	1392_LOUSE	nəmin	nəmin	n ə m i n		laycock1968	22887
+244379	urim	1035_GOOD	wor	wor	w o r		laycock1968	23434
+244417	urim	1292_BAD	pait	pait	p a i t		laycock1968	22936
+244450	urim	156_RED	watet	watet	w a t e t		laycock1968	23250
+244484	urim	1335_WHITE	toŋkorent	toŋkorent	t o ŋ k o r e n t		laycock1968	23141
+244517	urim	163_BLACK	kotouki:t	kotouki:t	k o t o u k iː t		laycock1968	23507
+244556	urim	1208_CAT	kəpma	kəpma	k ə p m a		laycock1968	23155
+244594	urim	695_GO	kay	kay	k a j		laycock1968	23274
+244633	urim	1498_TWO	we:k	we:k	w eː k		laycock1968	23378
+242845	pouye	1554_MAN	lamo	lamo	l a m o		laycock1968	23115
+242887	pouye	962_WOMAN	tʔlum	tʔlum	t ʔ l u m		laycock1968	23590
+242928	pouye	2099_CHILD	yan	yan	j a n		laycock1968	23624
+242969	pouye	1217_FATHER	aya	aya	a j a		laycock1968	23129
+243010	pouye	1216_MOTHER	ami	ami	a m i		laycock1968	23400
+243049	pouye	1209_I	wan	wan	w a n		laycock1968	23313
+243088	pouye	1215_THOU	yin	yin	j i n		laycock1968	22972
+243125	pouye	1212_WE	nam	nam	n a m		laycock1968	23094
+243161	pouye	2304_THEE_OBLIQUE_CASE_OF_YOU	yim	yim	j i m		laycock1968	23553
+243195	pouye	817_THEY	arpam	arpam	a r p a m		laycock1968	23338
+243233	pouye	1256_HEAD	nouraka	nouraka	n o u r a k a		laycock1968	23080
+243273	pouye	1248_EYE	nowar	nowar	n o w a r		laycock1968	22809
+243314	pouye	1221_NOSE	wolokə	wolokə	w o l o k ə		laycock1968	23150
+243355	pouye	1247_EAR	maroalaka	maroalaka	m a r o a l a k a		laycock1968	23130
+243397	pouye	1380_TOOTH	piyapa	piyapa	p i j a p a		laycock1968	22812
+243436	pouye	1205_TONGUE	laləmu	laləmu	l a l ə m u		laycock1968	23647
+243478	pouye	2121_ARM_OR_HAND	yilo	yilo	j i l o		laycock1968	23039
+243520	pouye	1402_BREAST	muy	muy	m u j		laycock1968	23331
+243556	pouye	1251_BELLY	wəy	wəy	w ə j		laycock1968	23296
+243597	pouye	2098_FOOT_OR_LEG	lalə	lalə	l a l ə		laycock1968	23385
+243639	pouye	763_SKIN	nəpyei	nəpyei	n ə p j e i		laycock1968	22826
+243680	pouye	946_BLOOD	aywi	aywi	a j w i		laycock1968	23439
+243722	pouye	1394_BONE	lakə	lakə	l a k ə		laycock1968	23430
+243763	pouye	1343_SUN	taliyə	taliyə	t a l i j ə		laycock1968	23410
+243805	pouye	1313_MOON	yalma	yalma	j a l m a		laycock1968	23131
+243847	pouye	1430_STAR	wawunə	wawunə	w a w u n ə		laycock1968	23441
+243888	pouye	2108_RAINING_OR_RAIN	ila	ila	i l a		laycock1968	23198
+243929	pouye	948_WATER	you	you	j o u		laycock1968	23424
+243971	pouye	2159_GROUND	pəlir	pəlir	p ə l i r		laycock1968	23042
+244012	pouye	857_STONE	tɨl	tɨl	t ɨ l		laycock1968	23534
+244054	pouye	960_WIND	yik	yik	j i k		laycock1968	23315
+244095	pouye	221_FIRE	tapo	tapo	t a p o		laycock1968	22939
+244137	pouye	778_SMOKE_EXHAUST	liya	liya	l i j a		laycock1968	23044
+244177	pouye	906_TREE	tau	tau	t a u		laycock1968	23570
+244219	pouye	2009_DOG	aukwə	aukwə	a u k w ə		laycock1968	23323
+244261	pouye	937_BIRD	yio	yio	j i o		laycock1968	23321
+244302	pouye	744_EGG	warə	warə	w a r ə		laycock1968	23160
+244341	pouye	1392_LOUSE	nipikəm	nipikəm	n i p i k ə m		laycock1968	23297
+244380	pouye	1035_GOOD	mta	mta	m t a		laycock1968	23488
+244418	pouye	1292_BAD	ərmouni	ərmouni	ə r m o u n i		laycock1968	23365
+244451	pouye	156_RED	kiyko	kiyko	k i j k o		laycock1968	23634
+244485	pouye	1335_WHITE	kwaiyawi	kwaiyawi	k w a i j a w i		laycock1968	23343
+244518	pouye	163_BLACK	əmukwí	əmukwí	ə m u k w í/i		laycock1968	23399
+244557	pouye	1208_CAT	ra	ra	r a		laycock1968	22989
+244595	pouye	695_GO	ti	ti	t i		laycock1968	23096
+244634	pouye	1498_TWO	yikən	yikən	j i k ə n		laycock1968	22930
+242847	karawa	1554_MAN	yaŋkai	yaŋkai	j a ŋ k a i		laycock1968	23067
+242889	karawa	962_WOMAN	telou	telou	t e l o u		laycock1968	23590
+242930	karawa	2099_CHILD	yan	yan	j a n		laycock1968	23624
+242971	karawa	1217_FATHER	aya	aya	a j a		laycock1968	23129
+243012	karawa	1216_MOTHER	ami	ami	a m i		laycock1968	23400
+243051	karawa	1209_I	wan	wan	w a n		laycock1968	23313
+243090	karawa	1215_THOU	yin	yin	j i n		laycock1968	22972
+243127	karawa	1212_WE	nam	nam	n a m		laycock1968	23094
+243163	karawa	2304_THEE_OBLIQUE_CASE_OF_YOU	yim	yim	j i m		laycock1968	23553
+243197	karawa	817_THEY	atəm	atəm	a t ə m		laycock1968	23487
+243235	karawa	1256_HEAD	moulaka	moulaka	m o u l a k a		laycock1968	23497
+243275	karawa	1248_EYE	noulaka	noulaka	n o u l a k a		laycock1968	23397
+243316	karawa	1221_NOSE	waklaka	waklaka	w a k l a k a		laycock1968	23629
+243357	karawa	1247_EAR	maklaka	maklaka	m a k l a k a		laycock1968	23152
+243399	karawa	1380_TOOTH	pilaka	pilaka	p i l a k a		laycock1968	22812
+243438	karawa	1205_TONGUE	laləpi	laləpi	l a l ə p i		laycock1968	23647
+243480	karawa	2121_ARM_OR_HAND	yilo	yilo	j i l o		laycock1968	23039
+243522	karawa	1402_BREAST	məy	məy	m ə j		laycock1968	23331
+243558	karawa	1251_BELLY	ri	ri	r i		laycock1968	23128
+243599	karawa	2098_FOOT_OR_LEG	lalə	lalə	l a l ə		laycock1968	23385
+243641	karawa	763_SKIN	mouwil	mouwil	m o u w i l		laycock1968	23291
+243682	karawa	946_BLOOD	eipi	eipi	e i p i		laycock1968	23439
+243724	karawa	1394_BONE	lakə	lakə	l a k ə		laycock1968	23430
+243765	karawa	1343_SUN	may	may	m a j		laycock1968	23482
+243807	karawa	1313_MOON	yalma	yalma	j a l m a		laycock1968	23131
+243849	karawa	1430_STAR	weypra	weypra	w e j p r a		laycock1968	23558
+243890	karawa	2108_RAINING_OR_RAIN	yila	yila	j i l a		laycock1968	23198
+243931	karawa	948_WATER	you	you	j o u		laycock1968	23424
+243973	karawa	2159_GROUND	lutil	lutil	l u t i l		laycock1968	23562
+244014	karawa	857_STONE	tidi	tidi	t i d i		laycock1968	23534
+244056	karawa	960_WIND	yik	yik	j i k		laycock1968	23315
+244097	karawa	221_FIRE	tapo	tapo	t a p o		laycock1968	22939
+244139	karawa	778_SMOKE_EXHAUST	liyo	liyo	l i j o		laycock1968	23044
+244179	karawa	906_TREE	tau	tau	t a u		laycock1968	23570
+244221	karawa	2009_DOG	nəpay	nəpay	n ə p a j		laycock1968	22942
+244263	karawa	937_BIRD	awra	awra	a w r a		laycock1968	23370
+244304	karawa	744_EGG	wa:tə	wa:tə	w aː t ə		laycock1968	23160
+244343	karawa	1392_LOUSE	nipia	nipia	n i p i a		laycock1968	23297
+244382	karawa	1035_GOOD	məta	məta	m ə t a		laycock1968	23488
+244420	karawa	1292_BAD	awəni	awəni	a w ə n i		laycock1968	22920
+244453	karawa	156_RED	eifinəni	eifinəni	e i f i n ə n i		laycock1968	23283
+244487	karawa	1335_WHITE	kawuwi	kawuwi	k a w u w i		laycock1968	23343
+244520	karawa	163_BLACK	təprai	təprai	t ə p r a i		laycock1968	23559
+244559	karawa	1208_CAT	ta	ta	t a		laycock1968	22989
+244597	karawa	695_GO	ti	ti	t i		laycock1968	23096
+244636	karawa	1498_TWO	yikəramo	yikəramo	j i k ə r a m o		laycock1968	22930
+242848	pahi	1554_MAN	tama	tama	t a m a		laycock1968	22818
+242890	pahi	962_WOMAN	tawa	tawa	t a w a		laycock1968	23427
+242931	pahi	2099_CHILD	erpam	erpam	e r p a m		laycock1968	22934
+242972	pahi	1217_FATHER	pahai	pahai	p a h a i		laycock1968	23532
+243013	pahi	1216_MOTHER	nawah	nawah	n a w a h		laycock1968	23628
+243236	pahi	1256_HEAD	taraʔwey	taraʔwey	t a r a ʔ w e j		laycock1968	23016
+243276	pahi	1248_EYE	niaʔwey	niaʔwey	n i a ʔ w e j		laycock1968	23397
+243317	pahi	1221_NOSE	fikihinwi	fikihinwi	f i k i h i n w i		laycock1968	23468
+243358	pahi	1247_EAR	wapray	wapray	w a p r a j		laycock1968	23419
+243400	pahi	1380_TOOTH	piaʔwey	piaʔwey	p i a ʔ w e j		laycock1968	22812
+243439	pahi	1205_TONGUE	tafəki	tafəki	t a f ə k i		laycock1968	23511
+243481	pahi	2121_ARM_OR_HAND	yehe	yehe	j e h e		laycock1968	22877
+243523	pahi	1402_BREAST	muwi	muwi	m u w i		laycock1968	23331
+243559	pahi	1251_BELLY	hum	hum	h u m		laycock1968	23639
+243600	pahi	2098_FOOT_OR_LEG	huwa	huwa	h u w a		laycock1968	23432
+243642	pahi	763_SKIN	fuhum	fuhum	f u h u m		laycock1968	23240
+243683	pahi	946_BLOOD	nefum	nefum	n e f u m		laycock1968	23148
+243725	pahi	1394_BONE	yefa	yefa	j e f a		laycock1968	23224
+243766	pahi	1343_SUN	napuy	napuy	n a p u j		laycock1968	23543
+243808	pahi	1313_MOON	nefʔa	nefʔa	n e f ʔ a		laycock1968	23349
+243850	pahi	1430_STAR	ware	ware	w a r e		laycock1968	22961
+243891	pahi	2108_RAINING_OR_RAIN	huyuy	huyuy	h u j u j		laycock1968	22862
+243932	pahi	948_WATER	oʔwi	oʔwi	o ʔ w i		laycock1968	23607
+243974	pahi	2159_GROUND	hunuy	hunuy	h u n u j		laycock1968	22868
+244015	pahi	857_STONE	hijopey	hijopey	h i j o p e j		laycock1968	23229
+244057	pahi	960_WIND	fiʔin	fiʔin	f i ʔ i n		laycock1968	23592
+244098	pahi	221_FIRE	irʔi	irʔi	i r ʔ i		laycock1968	23081
+244140	pahi	778_SMOKE_EXHAUST	hofənúm	hofənúm	h o f ə n ú/u m		laycock1968	23047
+244180	pahi	906_TREE	muy	muy	m u j		laycock1968	23212
+244222	pahi	2009_DOG	waʔay	waʔay	w a ʔ a j		laycock1968	23055
+244264	pahi	937_BIRD	feydey	feydey	f e j d e j		laycock1968	23172
+244305	pahi	744_EGG	yaʔwey	yaʔwey	j a ʔ w e j		laycock1968	23288
+244344	pahi	1392_LOUSE	nunum	nunum	n u n u m		laycock1968	23088
+244383	pahi	1035_GOOD	unay	unay	u n a j		laycock1968	23336
+244421	pahi	1292_BAD	wunteʔmoʔan	wunteʔmoʔan	w u n t e ʔ m o ʔ a n		laycock1968	23249
+244454	pahi	156_RED	wuʔahay	wuʔahay	w u ʔ a h a j		laycock1968	23593
+244521	pahi	163_BLACK	wuʔunʔurun	wuʔunʔurun	w u ʔ u n ʔ u r u n		laycock1968	22858
+242849	mehek	1554_MAN	tama	tama	t a m a		laycock1968	22818
+242891	mehek	962_WOMAN	tawa	tawa	t a w a		laycock1968	23427
+242932	mehek	2099_CHILD	yen	yen	j e n		laycock1968	23624
+242973	mehek	1217_FATHER	afa	afa	a f a		laycock1968	22838
+243014	mehek	1216_MOTHER	nawa	nawa	n a w a		laycock1968	23628
+243052	mehek	1209_I	onta	onta	o n t a		laycock1968	23586
+243091	mehek	1215_THOU	nura	nura	n u r a		laycock1968	23651
+243128	mehek	1212_WE	nomra	nomra	n o m r a		laycock1968	23094
+243164	mehek	2304_THEE_OBLIQUE_CASE_OF_YOU	kumra	kumra	k u m r a		laycock1968	23215
+243198	mehek	817_THEY	mura	mura	m u r a		laycock1968	23604
+243237	mehek	1256_HEAD	terfa	terfa	t e r f a		laycock1968	23016
+243277	mehek	1248_EYE	lakwo	lakwo	l a k w o		laycock1968	22809
+243318	mehek	1221_NOSE	wiliŋki	wiliŋki	w i l i ŋ k i		laycock1968	23150
+243359	mehek	1247_EAR	namra	namra	n a m r a		laycock1968	23481
+243401	mehek	1380_TOOTH	mpi	mpi	m p i		laycock1968	22812
+243440	mehek	1205_TONGUE	tawul	tawul	t a w u l		laycock1968	23095
+243482	mehek	2121_ARM_OR_HAND	lesu	lesu	l e s u		laycock1968	23133
+243524	mehek	1402_BREAST	muku	muku	m u k u		laycock1968	23331
+243560	mehek	1251_BELLY	wau	wau	w a u		laycock1968	23296
+243601	mehek	2098_FOOT_OR_LEG	suwa	suwa	s u w a		laycock1968	23432
+243643	mehek	763_SKIN	liki	liki	l i k i		laycock1968	22969
+243684	mehek	946_BLOOD	kefu	kefu	k e f u		laycock1968	23101
+243726	mehek	1394_BONE	yefa	yefa	j e f a		laycock1968	23224
+243767	mehek	1343_SUN	nampul	nampul	n a m p u l		laycock1968	23543
+243809	mehek	1313_MOON	nekwa	nekwa	n e k w a		laycock1968	23349
+243851	mehek	1430_STAR	ware	ware	w a r e		laycock1968	22961
+243892	mehek	2108_RAINING_OR_RAIN	loko	loko	l o k o		laycock1968	23573
+243933	mehek	948_WATER	okwu	okwu	o k w u		laycock1968	23607
+243975	mehek	2159_GROUND	sul	sul	s u l		laycock1968	23459
+244016	mehek	857_STONE	arkwo	arkwo	a r k w o		laycock1968	23209
+244058	mehek	960_WIND	kifal	kifal	k i f a l		laycock1968	23208
+244099	mehek	221_FIRE	kiri	kiri	k i r i		laycock1968	23081
+244141	mehek	778_SMOKE_EXHAUST	sufun	sufun	s u f u n		laycock1968	22830
+244181	mehek	906_TREE	mo:	mo:	m oː		laycock1968	23212
+244223	mehek	2009_DOG	wala	wala	w a l a		laycock1968	23055
+244265	mehek	937_BIRD	fenre	fenre	f e n r e		laycock1968	23172
+244306	mehek	744_EGG	lakwo	lakwo	l a k w o		laycock1968	23288
+244345	mehek	1392_LOUSE	nunum	nunum	n u n u m		laycock1968	23088
+244384	mehek	1035_GOOD	kufe	kufe	k u f e		laycock1968	23090
+244455	mehek	156_RED	kasa	kasa	k a s a		laycock1968	23032
+244488	mehek	1335_WHITE	ŋkamu	ŋkamu	ŋ k a m u		laycock1968	23451
+244522	mehek	163_BLACK	kur	kur	k u r		laycock1968	23034
+244560	mehek	1208_CAT	a	a	a		laycock1968	22984
+244598	mehek	695_GO	i	i	i		laycock1968	23524
+244637	mehek	1498_TWO	lisifu	lisifu	l i s i f u		laycock1968	23114
+242851	yessan-mayo-warasai	1554_MAN	kama	kama	k a m a		laycock1968	22818
+242893	yessan-mayo-warasai	962_WOMAN	ka	ka	k a		laycock1968	23427
+243054	yessan-mayo-warasai	1209_I	an	an	a n		laycock1968	23586
+243093	yessan-mayo-warasai	1215_THOU	aran	aran	a r a n		laycock1968	23010
+243279	yessan-mayo-warasai	1248_EYE	la	la	l a		laycock1968	22809
+243320	yessan-mayo-warasai	1221_NOSE	haŋki	haŋki	h a ŋ k i		laycock1968	23307
+243361	yessan-mayo-warasai	1247_EAR	wan	wan	w a n		laycock1968	23319
+243403	yessan-mayo-warasai	1380_TOOTH	rir	rir	r i r		laycock1968	22956
+243442	yessan-mayo-warasai	1205_TONGUE	kawul	kawul	k a w u l		laycock1968	23095
+243484	yessan-mayo-warasai	2121_ARM_OR_HAND	la:k	la:k	l aː k		laycock1968	22981
+243526	yessan-mayo-warasai	1402_BREAST	mukw	mukw	m u k w		laycock1968	23331
+243562	yessan-mayo-warasai	1251_BELLY	sə	sə	s ə		laycock1968	23531
+243603	yessan-mayo-warasai	2098_FOOT_OR_LEG	sowa	sowa	s o w a		laycock1968	23432
+243686	yessan-mayo-warasai	946_BLOOD	nap	nap	n a p		laycock1968	23148
+243769	yessan-mayo-warasai	1343_SUN	yampəl	yampəl	j a m p ə l		laycock1968	23543
+243811	yessan-mayo-warasai	1313_MOON	lüp	lüp	l ü/u p		laycock1968	23362
+243853	yessan-mayo-warasai	1430_STAR	sow	sow	s o w		laycock1968	23188
+243894	yessan-mayo-warasai	2108_RAINING_OR_RAIN	mow	mow	m o w		laycock1968	23520
+243935	yessan-mayo-warasai	948_WATER	okw	okw	o k w		laycock1968	23607
+243977	yessan-mayo-warasai	2159_GROUND	sel	sel	s e l		laycock1968	23459
+244018	yessan-mayo-warasai	857_STONE	papə	papə	p a p ə		laycock1968	23371
+244060	yessan-mayo-warasai	960_WIND	pol	pol	p o l		laycock1968	23485
+244101	yessan-mayo-warasai	221_FIRE	kər	kər	k ə r		laycock1968	23081
+244183	yessan-mayo-warasai	906_TREE	meʔ	meʔ	m e ʔ		laycock1968	23455
+244225	yessan-mayo-warasai	2009_DOG	wale	wale	w a l e		laycock1968	23055
+244267	yessan-mayo-warasai	937_BIRD	apu	apu	a p u		laycock1968	22950
+244308	yessan-mayo-warasai	744_EGG	yan	yan	j a n		laycock1968	23513
+244347	yessan-mayo-warasai	1392_LOUSE	niʔ	niʔ	n i ʔ		laycock1968	22974
+244562	yessan-mayo-warasai	1208_CAT	a	a	a		laycock1968	22984
+244639	yessan-mayo-warasai	1498_TWO	kes	kes	k e s		laycock1968	23551
+242855	amal	1554_MAN	wul	wul	w u l		laycock1968	23622
+242897	amal	962_WOMAN	tal	tal	t a l		laycock1968	23427
+242937	amal	2099_CHILD	yan	yan	j a n		laycock1968	23624
+242978	amal	1217_FATHER	aya	aya	a j a		laycock1968	23129
+243019	amal	1216_MOTHER	mwok	mwok	m w o k		laycock1968	23348
+243058	amal	1209_I	ŋan	ŋan	ŋ a n		laycock1968	23586
+243097	amal	1215_THOU	n	n	n		laycock1968	22820
+243133	amal	1212_WE	nu:t	nu:t	n uː t		laycock1968	23243
+243169	amal	2304_THEE_OBLIQUE_CASE_OF_YOU	kun	kun	k u n		laycock1968	23105
+243203	amal	817_THEY	ilum	ilum	i l u m		laycock1968	23122
+243242	amal	1256_HEAD	makələ	makələ	m a k ə l ə		laycock1968	23466
+243283	amal	1248_EYE	nai	nai	n a i		laycock1968	23397
+243324	amal	1221_NOSE	yimeʔ	yimeʔ	j i m e ʔ		laycock1968	23516
+243365	amal	1247_EAR	marj	marj	m a r j		laycock1968	23646
+243407	amal	1380_TOOTH	pu	pu	p u		laycock1968	23438
+243446	amal	1205_TONGUE	lal	lal	l a l		laycock1968	23647
+243488	amal	2121_ARM_OR_HAND	lalpuk	lalpuk	l a l p u k		laycock1968	22981
+243530	amal	1402_BREAST	m	m	m		laycock1968	23331
+243566	amal	1251_BELLY	məlkai	məlkai	m ə l k a i		laycock1968	23273
+243607	amal	2098_FOOT_OR_LEG	lü	lü	l ü/u		laycock1968	22937
+243648	amal	763_SKIN	pu:k	pu:k	p uː k		laycock1968	23444
+243690	amal	946_BLOOD	ni:p	ni:p	n iː p		laycock1968	23148
+243731	amal	1394_BONE	nəŋolak	nəŋolak	n ə ŋ o l a k		laycock1968	22910
+243773	amal	1343_SUN	mwak	mwak	m w a k		laycock1968	23295
+243815	amal	1313_MOON	yimal	yimal	j i m a l		laycock1968	23175
+243857	amal	1430_STAR	ajen	ajen	a j e n		laycock1968	23237
+243898	amal	2108_RAINING_OR_RAIN	la:k	la:k	l aː k		laycock1968	23573
+243939	amal	948_WATER	i:p	i:p	iː p		laycock1968	22845
+243981	amal	2159_GROUND	logwit	logwit	l o g w i t		laycock1968	22993
+244022	amal	857_STONE	tipal	tipal	t i p a l		laycock1968	23503
+244064	amal	960_WIND	pali	pali	p a l i		laycock1968	23485
+244105	amal	221_FIRE	wa:	wa:	w aː		laycock1968	22896
+244146	amal	778_SMOKE_EXHAUST	lya	lya	l j a		laycock1968	23044
+244187	amal	906_TREE	pi:t	pi:t	p iː t		laycock1968	23345
+244229	amal	2009_DOG	wun	wun	w u n		laycock1968	23608
+244271	amal	937_BIRD	yok	yok	j o k		laycock1968	23321
+244311	amal	744_EGG	yen	yen	j e n		laycock1968	23513
+244351	amal	1392_LOUSE	ŋin	ŋin	ŋ i n		laycock1968	22974
+244643	amal	1498_TWO	kila	kila	k i l a		laycock1968	23292
+242858	mende	1554_MAN	ma	ma	m a		laycock1968	23204
+242900	mende	962_WOMAN	nogəpie	nogəpie	n o g ə p i e		laycock1968	22946
+242940	mende	2099_CHILD	jagri	jagri	j a g r i		laycock1968	23103
+242981	mende	1217_FATHER	apuko	apuko	a p u k o		laycock1968	22838
+243022	mende	1216_MOTHER	nijapa	nijapa	n i j a p a		laycock1968	23454
+243061	mende	1209_I	an	an	a n		laycock1968	23586
+243100	mende	1215_THOU	mi	mi	m i		laycock1968	23414
+243136	mende	1212_WE	ni	ni	n i		laycock1968	23302
+243172	mende	2304_THEE_OBLIQUE_CASE_OF_YOU	ji	ji	j i		laycock1968	23073
+243206	mende	817_THEY	may	may	m a j		laycock1968	23544
+243245	mende	1256_HEAD	masiki	masiki	m a s i k i		laycock1968	23335
+243286	mende	1248_EYE	məsokome	məsokome	m ə s o k o m e		laycock1968	23435
+243327	mende	1221_NOSE	miñompo	miñompo	m i ɲ o m p o		laycock1968	23056
+243368	mende	1247_EAR	mampla	mampla	m a m p l a		laycock1968	23646
+243410	mende	1380_TOOTH	fu	fu	f u		laycock1968	23438
+243449	mende	1205_TONGUE	tarple	tarple	t a r p l e		laycock1968	22988
+243491	mende	2121_ARM_OR_HAND	tapa	tapa	t a p a		laycock1968	23098
+243533	mende	1402_BREAST	muku	muku	m u k u		laycock1968	23331
+243569	mende	1251_BELLY	seŋku	seŋku	s e ŋ k u		laycock1968	23594
+243610	mende	2098_FOOT_OR_LEG	kumpa	kumpa	k u m p a		laycock1968	23252
+243651	mende	763_SKIN	maume	maume	m a u m e		laycock1968	22839
+243693	mende	946_BLOOD	fi	fi	f i		laycock1968	23033
+243734	mende	1394_BONE	hapa	hapa	h a p a		laycock1968	23224
+243776	mende	1343_SUN	ta	ta	t a		laycock1968	22908
+243818	mende	1313_MOON	niyaka	niyaka	n i j a k a		laycock1968	23349
+243860	mende	1430_STAR	tašiŋkra	tašiŋkra	t a ʂ i ŋ k r a		laycock1968	23626
+243901	mende	2108_RAINING_OR_RAIN	ma	ma	m a		laycock1968	23520
+243942	mende	948_WATER	uku	uku	u k u		laycock1968	23607
+243984	mende	2159_GROUND	misamp	misamp	m i s a m p		laycock1968	23178
+244025	mende	857_STONE	süŋkye	süŋkye	s ü/u ŋ k j e		laycock1968	23620
+244067	mende	960_WIND	suwar	suwar	s u w a r		laycock1968	22865
+244108	mende	221_FIRE	hi	hi	h i		laycock1968	23461
+244149	mende	778_SMOKE_EXHAUST	ikriša	ikriša	i k r i ʂ a		laycock1968	23086
+244190	mende	906_TREE	mi	mi	m i		laycock1968	23650
+244232	mende	2009_DOG	asa	asa	a s a		laycock1968	23203
+244274	mende	937_BIRD	afi	afi	a f i		laycock1968	22950
+244314	mende	744_EGG	fəla	fəla	f ə l a		laycock1968	22842
+244354	mende	1392_LOUSE	nika	nika	n i k a		laycock1968	23162
+244391	mende	1035_GOOD	jifi	jifi	j i f i		laycock1968	23649
+244428	mende	1292_BAD	kapa	kapa	k a p a		laycock1968	23289
+244462	mende	156_RED	nalo	nalo	n a l o		laycock1968	23423
+244494	mende	1335_WHITE	afiša	afiša	a f i ʂ a		laycock1968	23230
+244529	mende	163_BLACK	kle	kle	k l e		laycock1968	23512
+244568	mende	1208_CAT	ra	ra	r a		laycock1968	22989
+244605	mende	695_GO	yi	yi	j i		laycock1968	23524
+244646	mende	1498_TWO	frišip	frišip	f r i ʂ i p		laycock1968	23165
+242860	bukiyip	1554_MAN	araman	araman	a r a m a n		laycock1968	22853
+242902	bukiyip	962_WOMAN	ara- matoku	ara-_matoku	a r a + m a t o k u		laycock1968	23495
+242942	bukiyip	2099_CHILD	bataŭi	bataŭi	b a t a ŭ/u i		laycock1968	23207
+242983	bukiyip	1217_FATHER	jaken	jaken	j a k e n		laycock1968	23065
+243024	bukiyip	1216_MOTHER	jameku	jameku	j a m e k u		laycock1968	23225
+243063	bukiyip	1209_I	eik	eik	e i k		laycock1968	23102
+243102	bukiyip	1215_THOU	ɲak	ɲak	ɲ a k		laycock1968	23337
+243138	bukiyip	1212_WE	apok	apok	a p o k		laycock1968	22959
+243174	bukiyip	2304_THEE_OBLIQUE_CASE_OF_YOU	ipak	ipak	i p a k		laycock1968	22823
+243208	bukiyip	817_THEY	amum	amum	a m u m		laycock1968	23644
+243247	bukiyip	1256_HEAD	berag	berag	b e r a g		laycock1968	23220
+243288	bukiyip	1248_EYE	nabep	nabep	n a b e p		laycock1968	22880
+243370	bukiyip	1247_EAR	atah	atah	a t a h		laycock1968	23611
+243412	bukiyip	1380_TOOTH	nau̥h̥	nau̥h̥	n a u̥/u h		laycock1968	23519
+243451	bukiyip	1205_TONGUE	jaham	jaham	j a h a m		laycock1968	22831
+243493	bukiyip	2121_ARM_OR_HAND	ragør	ragør	r a g ø r		laycock1968	23546
+243612	bukiyip	2098_FOOT_OR_LEG	aijag	aijag	a i j a g		laycock1968	23583
+243653	bukiyip	763_SKIN	jageniu̥h̥	jageniu̥h̥	j a g e n i u̥/u h		laycock1968	22843
+243695	bukiyip	946_BLOOD	ausibør	ausibør	a u s i b ø r		laycock1968	23303
+243736	bukiyip	1394_BONE	bøløpigør	bøløpigør	b ø l ø p i g ø r		laycock1968	23136
+243778	bukiyip	1343_SUN	aun	aun	a u n		laycock1968	22824
+243820	bukiyip	1313_MOON	aun	aun	a u n		laycock1968	23491
+243944	bukiyip	948_WATER	bør	bør	b ø r		laycock1968	23244
+244027	bukiyip	857_STONE	utom	utom	u t o m		laycock1968	23359
+244110	bukiyip	221_FIRE	nih̥	nih̥	n i h		laycock1968	23356
+244192	bukiyip	906_TREE	lawag	lawag	l a w a g		laycock1968	23247
+244234	bukiyip	2009_DOG	nybat	nybat	n j b a t		laycock1968	22942
+244276	bukiyip	937_BIRD	aramir	aramir	a r a m i r		laycock1968	23062
+244316	bukiyip	744_EGG	juhuryb	juhuryb	j u h u r j b		laycock1968	23575
+244393	bukiyip	1035_GOOD	apui	apui	a p u i		laycock1968	23048
+244430	bukiyip	1292_BAD	jawei	jawei	j a w e i		laycock1968	22951
+244496	bukiyip	1335_WHITE	bagara	bagara	b a g a r a		laycock1968	23318
+244531	bukiyip	163_BLACK	baharabi	baharabi	b a h a r a b i		laycock1968	23142
+244570	bukiyip	1208_CAT	wak	wak	w a k		laycock1968	23193
+244607	bukiyip	695_GO	naʔ	naʔ	n a ʔ		laycock1968	23023
+244648	bukiyip	1498_TWO	bium	bium	b i u m		laycock1968	23344
+242835	nabi	1554_MAN	məsəmiyen	məsəmiyen	m ə s ə m i j e n		laycock1968	23537
+242877	nabi	962_WOMAN	ri	ri	r i		laycock1968	23061
+242918	nabi	2099_CHILD	kat	kat	k a t		laycock1968	23372
+242959	nabi	1217_FATHER	yayak	yayak	j a j a k		laycock1968	23129
+243000	nabi	1216_MOTHER	mitak	mitak	m i t a k		laycock1968	23225
+243041	nabi	1209_I	ai	ai	a i		laycock1968	22914
+243080	nabi	1215_THOU	yi	yi	j i		laycock1968	23108
+243118	nabi	1212_WE	ep	ep	e p		laycock1968	23210
+243154	nabi	2304_THEE_OBLIQUE_CASE_OF_YOU	yip	yip	j i p		laycock1968	22823
+243189	nabi	817_THEY	rəm	rəm	r ə m		laycock1968	23487
+243224	nabi	1256_HEAD	wotuf	wotuf	w o t u f		laycock1968	22998
+243263	nabi	1248_EYE	nampəkat	nampəkat	n a m p ə k a t		laycock1968	22880
+243304	nabi	1221_NOSE	minif	minif	m i n i f		laycock1968	23355
+243345	nabi	1247_EAR	kik	kik	k i k		laycock1968	23068
+243387	nabi	1380_TOOTH	naf	naf	n a f		laycock1968	23519
+243427	nabi	1205_TONGUE	wulaf	wulaf	w u l a f		laycock1968	23417
+243468	nabi	2121_ARM_OR_HAND	tat	tat	t a t		laycock1968	23642
+243510	nabi	1402_BREAST	nəmap	nəmap	n ə m a p		laycock1968	23448
+243549	nabi	1251_BELLY	nəpɨ	nəpɨ	n ə p ɨ		laycock1968	23223
+243587	nabi	2098_FOOT_OR_LEG	tip	tip	t i p		laycock1968	23574
+243629	nabi	763_SKIN	wiyírk	wiyírk	w i j í/i r k		laycock1968	23219
+243670	nabi	946_BLOOD	amk	amk	a m k		laycock1968	23305
+243712	nabi	1394_BONE	lə	lə	l ə		laycock1968	23430
+243753	nabi	1343_SUN	waf	waf	w a f		laycock1968	23450
+243795	nabi	1313_MOON	wunɨ	wunɨ	w u n ɨ		laycock1968	23491
+243837	nabi	1430_STAR	yipos	yipos	j i p o s		laycock1968	23327
+243878	nabi	2108_RAINING_OR_RAIN	sup	sup	s u p		laycock1968	23057
+243919	nabi	948_WATER	sup	sup	s u p		laycock1968	23014
+243961	nabi	2159_GROUND	sap	sap	s a p		laycock1968	22851
+244002	nabi	857_STONE	et	et	e t		laycock1968	23554
+244044	nabi	960_WIND	yapif	yapif	j a p i f		laycock1968	23633
+244085	nabi	221_FIRE	nɨ	nɨ	n ɨ		laycock1968	23356
+244127	nabi	778_SMOKE_EXHAUST	səpaf	səpaf	s ə p a f		laycock1968	22830
+244167	nabi	906_TREE	nip	nip	n i p		laycock1968	23082
+244209	nabi	2009_DOG	pat	pat	p a t		laycock1968	23529
+244251	nabi	937_BIRD	napet	napet	n a p e t		laycock1968	23370
+244293	nabi	744_EGG	yufəlip	yufəlip	j u f ə l i p		laycock1968	23517
+244333	nabi	1392_LOUSE	kakyerk	kakyerk	k a k j e r k		laycock1968	23045
+244371	nabi	1035_GOOD	pəra	pəra	p ə r a		laycock1968	23185
+244409	nabi	1292_BAD	walú	walú	w a l ú/u		laycock1968	23019
+244548	nabi	1208_CAT	ame	ame	a m e		laycock1968	22948
+244587	nabi	695_GO	amlap	amlap	a m l a p		laycock1968	22904
+244624	nabi	1498_TWO	mantio	mantio	m a n t i o		laycock1968	23470

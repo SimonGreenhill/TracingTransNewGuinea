@@ -1,0 +1,161 @@
+Action,ID,Glottocode,Reason
+IGNORE,alor-baranusa-kabir,alor1247,Austronesian
+IGNORE,alor-kalabahi,alor1247,Austronesian
+IGNORE,ambai,amba1265,Austronesian
+IGNORE,ambai-wadapi-laut,amba1265,Austronesian
+IGNORE,ansus,ansu1237,Austronesian
+IGNORE,bahasa-indonesia,indo1316,Austronesian
+IGNORE,biak,biak1248,Austronesian
+IGNORE,bonggo,bong1287,Austronesian
+IGNORE,busami,busa1254,Austronesian
+IGNORE,dusner,dusn1237,Austronesian
+IGNORE,hula,hula1239,Austronesian
+IGNORE,indonesian,indo1316,Austronesian
+IGNORE,irarutu,irar1238,Austronesian
+IGNORE,kowiai,kowi1239,Austronesian
+IGNORE,kurudu,kuru1305,Austronesian
+IGNORE,marau,mara1397,Austronesian
+IGNORE,maya,maya1282,Austronesian
+IGNORE,mor-austronesian,morm1235,Austronesian
+IGNORE,motu,motu1246,Austronesian
+IGNORE,munggui,mung1269,Austronesian
+IGNORE,onin,onin1245,Austronesian
+IGNORE,ormu,ormu1248,Austronesian
+IGNORE,papuma,papu1251,Austronesian
+IGNORE,pom,pomm1237,Austronesian
+IGNORE,proto-awyu,grea1275,Proto-Language
+IGNORE,proto-awyu-dumut,awyu1263,Proto-Language
+IGNORE,proto-baraic,bara1376,Proto-Language
+IGNORE,proto-baruga,baru1269,Proto-Language
+IGNORE,proto-binandere,bina1279,Proto-Language
+IGNORE,proto-central-sogeram,cent2257,Proto-Language
+IGNORE,proto-central-tariku,cent2110,Proto-Language
+IGNORE,proto-chimbu-wahgi,cent2120,Proto-Language
+IGNORE,proto-coastal-binandere,coas1297,Proto-Language
+IGNORE,proto-croisilles,croi1234,Proto-Language
+IGNORE,proto-doromu,doro1266,Proto-Language
+IGNORE,proto-dumut,dumu1247,Proto-Language
+IGNORE,proto-east-eleman,east2494,Proto-Language
+IGNORE,proto-east-tariku,east2502,Proto-Language
+IGNORE,proto-eastern,kain1274,Proto-Language
+IGNORE,proto-eastern-central,goro1272,Proto-Language
+IGNORE,proto-eastern-sogeram,east2767,Proto-Language
+IGNORE,proto-eleman,nucl1580,Proto-Language
+IGNORE,proto-eleman-koriki,,Proto-Language
+IGNORE,proto-engan,enga1251,Proto-Language
+IGNORE,proto-far-west,farw1236,Proto-Language
+IGNORE,proto-finisterre-huon,fini1244,Proto-Language
+IGNORE,proto-goroka,goro1272,Proto-Language
+IGNORE,proto-isumrud,,Proto-Language
+IGNORE,proto-kainantu,kain1274,Proto-Language
+IGNORE,proto-kainantu-goroka,kain1273,Proto-Language
+IGNORE,proto-kaukombar,kauk1240,Proto-Language
+IGNORE,proto-koiarian,koia1260,Proto-Language
+IGNORE,proto-koiraric,koia1261,Proto-Language
+IGNORE,proto-korak-waskia,kowa1247,Proto-Language
+IGNORE,proto-kumil,kumi1249,Proto-Language
+IGNORE,proto-kwalean,kwal1257,Proto-Language
+IGNORE,proto-lakes-plain,lake1255,Proto-Language
+IGNORE,proto-lower-sepik,lowe1437,Proto-Language
+IGNORE,proto-mabuso,mabu1247,Proto-Language
+IGNORE,proto-madang,mada1298,Proto-Language
+IGNORE,proto-manubaran,manu1261,Proto-Language
+IGNORE,proto-maria,mari1439,Proto-Language
+IGNORE,proto-ndu,nduu1242,Proto-Language
+IGNORE,proto-north-adelbert,,Proto-Language
+IGNORE,proto-north-binandere,nort2909,Proto-Language
+IGNORE,proto-nuclear-binandere,nucl1603,Proto-Language
+IGNORE,proto-numugen,numu1240,Proto-Language
+IGNORE,proto-oceanic,ocea1241,Proto-Language
+IGNORE,proto-ok-oksapmin,okok1235,Proto-Language
+IGNORE,proto-orokaiva,orok1269,Proto-Language
+IGNORE,proto-pihom,,Proto-Language
+IGNORE,proto-rai-coast,raic1241,Proto-Language
+IGNORE,proto-sogeram,soge1235,Proto-Language
+IGNORE,proto-south-adelbert,sout3148,Proto-Language
+IGNORE,proto-south-binandere,sout2934,Proto-Language
+IGNORE,proto-sub-rai,,Proto-Language
+IGNORE,proto-tariku,tari1255,Proto-Language
+IGNORE,proto-tibor-omosa,numu1240,Proto-Language
+IGNORE,proto-trans-new-guinea,nucl1709,Proto-Language
+IGNORE,proto-wag,wagg1235,Proto-Language
+IGNORE,proto-west-eleman,west2573,Proto-Language
+IGNORE,proto-west-tariku,west2582,Proto-Language
+IGNORE,proto-western-sogeram,atan1241,Proto-Language
+IGNORE,roon,roon1237,Austronesian
+IGNORE,serui-laut,seru1244,Austronesian
+IGNORE,sinaugoro,sina1266,Austronesian
+IGNORE,sobei,sobe1238,Austronesian
+IGNORE,tandia,tand1253,Austronesian
+IGNORE,tarpia,tarp1240,Austronesian
+IGNORE,tobati,toba1266,Austronesian
+IGNORE,uruangnirin,urua1244,Austronesian
+IGNORE,wabo,wabo1240,Austronesian
+IGNORE,wandamen,wand1267,Austronesian
+IGNORE,warembori,ware1253,Austronesian
+IGNORE,waropen,waro1242,Austronesian
+IGNORE,woi,woii1237,Austronesian
+IGNORE,yaur,yaur1239,Austronesian
+IGNORE,yeresiam,ires1239,Austronesian
+IGNORE,yeretuar,yere1243,Austronesian
+IGNORE,yoke,yoke1238,Austronesian
+IGNORE,sahu,sahu1245,North Halmahera
+IGNORE,tidore,tido1248,North Halmahera
+IGNORE,west-makian,west2600,North Halmahera
+IGNORE,tok-pisin,tokp1240,Creole
+IGNORE,kuot,kuot1243,New Ireland
+IGNORE,unknown1,,Unknown Language
+IGNORE,oirata,oira1263,Outside New Guinea
+IGNORE,abui-atimelang,atim1239,Outside New Guinea
+IGNORE,abui-makadai,abui1241,Outside New Guinea
+IGNORE,blagar-apuri-on-pura,apur1252,Outside New Guinea
+IGNORE,blagar-bakalang,baka1276,Outside New Guinea
+IGNORE,blagar-limarahing-on-pura,lima1248,Outside New Guinea
+IGNORE,blagar-retta-on-pura,blag1240,Outside New Guinea
+IGNORE,blagar-retta-on-ternate,blag1240,Outside New Guinea
+IGNORE,blagar-terewent,blag1240,Outside New Guinea
+IGNORE,buna,buna1278,Outside New Guinea
+IGNORE,fataluku,fata1247,Outside New Guinea
+IGNORE,kabola-aimoli,kabo1247,Outside New Guinea
+IGNORE,kabola-hamap,kabo1247,Outside New Guinea
+IGNORE,kabola-pitumbang,pint1252,Outside New Guinea
+IGNORE,kafoa,kafo1240,Outside New Guinea
+IGNORE,kamang,kama1365,Outside New Guinea
+IGNORE,kamang-kolomane,kama1365,Outside New Guinea
+IGNORE,kamang-langkuru,kama1365,Outside New Guinea
+IGNORE,kamang-letley,kama1365,Outside New Guinea
+IGNORE,kamang-pido-1,kama1365,Outside New Guinea
+IGNORE,kamang-pido-2,kama1365,Outside New Guinea
+IGNORE,klon,kelo1247,Outside New Guinea
+IGNORE,klon-halerman,hale1239,Outside New Guinea
+IGNORE,klon-probur,prob1239,Outside New Guinea
+IGNORE,kui,kuii1253,Outside New Guinea
+IGNORE,kui-kiramang,kira1248,Outside New Guinea
+IGNORE,kula,kula1280,Outside New Guinea
+IGNORE,makasae,maka1316,Outside New Guinea
+IGNORE,nedebang,nede1245,Outside New Guinea
+IGNORE,oirata,oira1263,Outside New Guinea
+IGNORE,teiwa-deing,dein1238,Outside New Guinea
+IGNORE,teiwa-lebang,leba1239,Outside New Guinea
+IGNORE,teiwa-madar,mada1286,Outside New Guinea
+IGNORE,teiwa-sargang,teiw1235,Outside New Guinea
+IGNORE,wersing,wers1238,Outside New Guinea
+IGNORE,western-pantar-biangwala,bian1250,Outside New Guinea
+IGNORE,western-pantar-kalondama,kalo1261,Outside New Guinea
+IGNORE,western-pantar-mauta-tubal,tuba1277,Outside New Guinea
+IGNORE,mbilua,bilu1245,Outside New Guinea
+IGNORE,mbilua-ndovele,bilu1245,Outside New Guinea
+IGNORE,mbaniata,touo1238,Outside New Guinea
+IGNORE,mbaniata-lokuru,bilu1245,Outside New Guinea
+IGNORE,lavukaleve,lavu1241,Outside New Guinea
+IGNORE,savosavo,savo1255,Outside New Guinea
+IGNORE,qaget,qaqe1238,Outside New Guinea
+IGNORE,mali-arambum,mali1284,Outside New Guinea
+IGNORE,mali-makunga,mali1284,Outside New Guinea
+IGNORE,ura,urap1240,Outside New Guinea
+IGNORE,kol,kolp1236,Outside New Guinea
+IGNORE,kol,kolp1236,Outside New Guinea
+IGNORE,hiri-motu,hiri1237,Creole
+IGNORE,gizra-waidoro,waid1239,High Missing Data
+IGNORE,orokaiva-dobuduru,orok1269,High Missing Data
+IGNORE,burui,buru1309,High Missing Data

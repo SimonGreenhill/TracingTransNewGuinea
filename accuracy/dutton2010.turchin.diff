@@ -1,0 +1,1376 @@
+Concept: 1014_OR, False Positives: no, False Negatives: yes
+ese            	ho 	   1	   1
+grass-koiari   	o  	   1	   1
+north-barai    	o  	   1	   1
+omie           	o  	   1	   1
+south-barai    	o  	   1	   1
+omie           	ô/o	   1	   1
+ese            	aho	   1	   6
+#
+Concept: 1035_GOOD, False Positives: yes, False Negatives: yes
+ese            	maː 	   1	   1
+grass-koiari   	teka	   1	   2
+south-barai    	na  	   1	   6
+north-barai    	e   	   1	   7
+north-barai    	ma  	   3	   1
+omie           	mae 	   3	   1
+koitabu        	maɣe	   3	   3
+#
+Concept: 1084_CALL, False Positives: no, False Negatives: yes
+ese            	j+o 	   1	   1
+north-barai    	kume	   1	   2
+omie           	ʔuv 	   1	   3
+south-barai    	ume 	   1	   4
+#
+Concept: 1100_COOK_SOMETHING, False Positives: no, False Negatives: yes
+ese            	muru+o 	   1	   1
+ese            	muru+vo	   1	   1
+omie           	oh+e   	   1	   5
+grass-koiari   	amuha  	   2	   2
+koitabu        	amuha  	   2	   2
+mountain-koiari	amuva  	   2	   2
+#
+Concept: 1102_CLIMB, False Positives: no, False Negatives: yes
+ese            	m+a    	   1	   1
+north-barai    	aji+a  	   1	   5
+south-barai    	aje    	   1	   5
+omie           	om+e   	   1	   6
+grass-koiari   	vadi+ma	   2	   2
+mountain-koiari	vati   	   2	   2
+koitabu        	ɣadi+va	   2	   3
+#
+Concept: 1179_DAY_AFTER_TOMORROW, False Positives: yes, False Negatives: no
+ese            	i 	   1	   1
+north-barai    	a 	   2	   1
+south-barai    	he	   2	   1
+south-barai    	ve	   4	   4
+#
+Concept: 1180_DAY_BEFORE_YESTERDAY, False Positives: yes, False Negatives: yes
+ese            	i 	   1	   1
+south-barai    	ve	   1	   3
+north-barai    	a 	   2	   1
+south-barai    	he	   4	   1
+#
+Concept: 1199_WIFE, False Positives: no, False Negatives: yes
+ese            	par+a  	   1	   1
+north-barai    	bara   	   1	   1
+south-barai    	bara   	   1	   1
+grass-koiari   	mabara 	   1	   2
+koitabu        	mabara 	   1	   2
+omie           	vabor+e	   1	   5
+ese            	nah+a  	   1	   7
+#
+Concept: 1200_HUSBAND, False Positives: yes, False Negatives: no
+ese            	paru+a	   1	   1
+north-barai    	baru  	   2	   1
+omie           	baru+e	   2	   1
+south-barai    	baru  	   2	   1
+#
+Concept: 1202_BIG, False Positives: no, False Negatives: yes
+koitabu        	bauge 	   1	   1
+mountain-koiari	baluga	   1	   2
+#
+Concept: 1203_LONG, False Positives: no, False Negatives: yes
+grass-koiari   	ege  	   1	   1
+koitabu        	ege  	   1	   1
+omie           	ë/ege	   1	   1
+mountain-koiari	tana 	   1	   3
+mountain-koiari	a    	   1	   5
+#
+Concept: 1205_TONGUE, False Positives: no, False Negatives: yes
+ese            	mitar+a	   1	   1
+north-barai    	mitar+e	   1	   1
+omie           	bitar+e	   1	   6
+south-barai    	bitaru 	   1	   6
+grass-koiari   	neme+ka	   2	   2
+koitabu        	neme   	   2	   2
+mountain-koiari	neme   	   2	   2
+#
+Concept: 1209_I, False Positives: no, False Negatives: yes
+ese            	na 	   1	   1
+north-barai    	na 	   1	   1
+omie           	na 	   1	   1
+south-barai    	na 	   1	   1
+omie           	ehu	   1	   9
+grass-koiari   	da 	   2	   2
+koitabu        	da 	   2	   2
+mountain-koiari	da 	   2	   2
+mountain-koiari	di 	   2	   2
+#
+Concept: 1210_HEAVY, False Positives: no, False Negatives: yes
+grass-koiari   	ka	   1	   1
+koitabu        	ke	   1	   1
+mountain-koiari	a 	   1	   3
+omie           	he	   1	   3
+omie           	e 	   1	   3
+#
+Concept: 1214_THIS, False Positives: no, False Negatives: yes
+grass-koiari   	oko	   1	   1
+koitabu        	o  	   1	   2
+mountain-koiari	ko 	   1	   3
+#
+Concept: 1217_FATHER, False Positives: no, False Negatives: yes
+ese            	amo 	   1	   1
+mountain-koiari	mama	   1	   4
+grass-koiari   	mama	   1	   4
+koitabu        	mama	   1	   4
+grass-koiari   	baba	   2	   2
+koitabu        	baba	   2	   2
+south-barai    	baba	   2	   2
+omie           	apo 	   2	   5
+omie           	aho 	   2	   9
+#
+Concept: 1218_ROPE, False Positives: no, False Negatives: yes
+ese            	aj+a	   1	   1
+north-barai    	ka+e	   1	   5
+south-barai    	ai  	   1	   6
+grass-koiari   	vote	   2	   2
+koitabu        	ɣote	   2	   3
+mountain-koiari	hote	   2	   4
+#
+Concept: 1220_TAIL, False Positives: no, False Negatives: yes
+ese            	vin+a  	   1	   1
+north-barai    	ivien+e	   1	   5
+south-barai    	ivenu  	   1	   5
+grass-koiari   	tete+ka	   2	   2
+koitabu        	tete+ka	   2	   2
+mountain-koiari	dete   	   2	   2
+#
+Concept: 1222_PENIS, False Positives: no, False Negatives: yes
+ese            	jú/ur+a	   1	   1
+north-barai    	juor+e 	   1	   1
+south-barai    	joru   	   1	   1
+grass-koiari   	veu    	   2	   2
+koitabu        	veɣu   	   2	   3
+mountain-koiari	vevu   	   2	   4
+omie           	veru+e 	   2	   6
+#
+Concept: 1223_HEART, False Positives: no, False Negatives: yes
+ese            	ʔoj+a	   1	   1
+south-barai    	oiʔo 	   1	   2
+#
+Concept: 1224_LIVER, False Positives: no, False Negatives: yes
+north-barai    	vak+a	   1	   1
+omie           	va+e 	   1	   2
+south-barai    	va   	   1	   3
+#
+Concept: 1233_NIGHT, False Positives: no, False Negatives: yes
+ese            	naʔi+a	   1	   1
+south-barai    	re    	   1	   6
+grass-koiari   	vahi  	   2	   2
+koitabu        	vahi  	   2	   2
+omie           	vahi+e	   2	   2
+mountain-koiari	vavi  	   2	   4
+#
+Concept: 1235_WHO, False Positives: yes, False Negatives: yes
+ese            	irara	   1	   1
+north-barai    	era  	   1	   1
+south-barai    	irara	   1	   1
+south-barai    	ira  	   1	   1
+omie           	raro 	   1	   6
+grass-koiari   	are  	   2	   1
+koitabu        	are  	   2	   1
+mountain-koiari	ale  	   2	   1
+#
+Concept: 1236_WHAT, False Positives: no, False Negatives: yes
+ese            	irak+a	   1	   1
+north-barai    	irer+e	   1	   1
+omie           	rab+eː	   1	   9
+grass-koiari   	be    	   2	   2
+koitabu        	vado  	   2	   3
+omie           	vadu  	   2	   3
+mountain-koiari	ono   	   4	   4
+grass-koiari   	ono   	   4	   4
+omie           	hi    	   6	   6
+south-barai    	ga    	   6	   7
+#
+Concept: 1238_WHEN, False Positives: no, False Negatives: yes
+ese            	vecha	   1	   1
+south-barai    	ha   	   1	   2
+ese            	vea  	   1	   3
+#
+Concept: 1240_NOT, False Positives: no, False Negatives: yes
+ese            	pa  	   1	   1
+grass-koiari   	be  	   1	   1
+mountain-koiari	be  	   1	   1
+north-barai    	ba  	   1	   1
+south-barai    	ba  	   1	   1
+grass-koiari   	be  	   1	   1
+koitabu        	ta  	   1	   3
+omie           	gô/o	   1	   6
+ese            	pana	   1	   8
+#
+Concept: 1246_SMALL, False Positives: no, False Negatives: yes
+mountain-koiari	ese+ve	   1	   1
+mountain-koiari	ese   	   1	   1
+north-barai    	kub+e 	   1	   2
+north-barai    	sina  	   1	   4
+#
+Concept: 1247_EAR, False Positives: no, False Negatives: yes
+ese            	ata+a	   1	   1
+north-barai    	ad+a 	   1	   1
+south-barai    	gada 	   1	   3
+#
+Concept: 1248_EYE, False Positives: no, False Negatives: yes
+ese            	ni+a	   1	   1
+omie           	n+e 	   1	   1
+grass-koiari   	ni  	   1	   2
+koitabu        	ni  	   1	   2
+mountain-koiari	ni  	   1	   2
+north-barai    	ni  	   1	   2
+south-barai    	o   	   1	   7
+#
+Concept: 1269_NO, False Positives: no, False Negatives: yes
+grass-koiari   	vehite	   1	   1
+koitabu        	ra    	   1	   2
+mountain-koiari	vesite	   1	   3
+#
+Concept: 126_SWEAT_PERSPIRE, False Positives: no, False Negatives: yes
+koitabu        	vaɣoto+ɣoi	   1	   1
+mountain-koiari	vahoto+a  	   1	   2
+#
+Concept: 1283_TODAY, False Positives: no, False Negatives: yes
+north-barai    	mae 	   1	   1
+omie           	v+oː	   1	   2
+#
+Concept: 1292_BAD, False Positives: no, False Negatives: yes
+ese            	sise+a 	   1	   1
+omie           	sis+ë/e	   1	   1
+north-barai    	is+e   	   1	   2
+#
+Concept: 1329_TOMORROW, False Positives: yes, False Negatives: no
+ese            	niari 	   1	   1
+omie           	në/eri	   2	   1
+south-barai    	neru  	   3	   1
+#
+Concept: 1333_NECK, False Positives: no, False Negatives: yes
+ese            	an+a   	   1	   1
+grass-koiari   	eno    	   1	   1
+koitabu        	eno+ka 	   1	   1
+mountain-koiari	eno    	   1	   1
+koitabu        	eno+ita	   1	   1
+north-barai    	no+i   	   1	   5
+omie           	sönö   	   1	   6
+omie           	sönö+ah	   1	   6
+mountain-koiari	tu     	   8	   8
+koitabu        	tuɣuka 	   8	  10
+#
+Concept: 1335_WHITE, False Positives: no, False Negatives: yes
+grass-koiari   	kae	   1	   1
+koitabu        	kae	   1	   1
+mountain-koiari	te 	   1	   3
+#
+Concept: 1336_EAT, False Positives: yes, False Negatives: yes
+ese            	ij+o	   1	   1
+omie           	ij+e	   1	   1
+grass-koiari   	i   	   1	   2
+koitabu        	i   	   1	   2
+mountain-koiari	i   	   1	   2
+north-barai    	i   	   1	   2
+south-barai    	i   	   1	   2
+omie           	i   	   1	   2
+ese            	ij+o	   8	   1
+grass-koiari   	i   	   9	   2
+koitabu        	i   	  10	   2
+mountain-koiari	i   	  11	   2
+north-barai    	i   	  12	   2
+south-barai    	i   	  14	   2
+omie           	ij+e	  15	   1
+omie           	i   	  16	   2
+#
+Concept: 1337_PIG, False Positives: no, False Negatives: yes
+ese            	mah+a	   1	   1
+omie           	mah+e	   1	   1
+south-barai    	mahu 	   1	   1
+grass-koiari   	oho  	   2	   2
+koitabu        	oho  	   2	   2
+mountain-koiari	ovo  	   2	   4
+#
+Concept: 1343_SUN, False Positives: no, False Negatives: yes
+ese            	p+a  	   1	   1
+north-barai    	n+e  	   1	   5
+omie           	madza	   1	   6
+grass-koiari   	vani 	   2	   2
+koitabu        	vani 	   2	   2
+mountain-koiari	vani 	   2	   2
+south-barai    	ve   	   7	   7
+north-barai    	ve   	   7	   7
+ese            	ve+a 	   7	   8
+#
+Concept: 1355_LAUGH, False Positives: no, False Negatives: yes
+ese            	v+o 	   1	   1
+north-barai    	ki  	   1	   2
+omie           	ij+e	   1	   3
+south-barai    	ʔi  	   1	   4
+omie           	v   	   1	   5
+#
+Concept: 1366_BOY, False Positives: no, False Negatives: yes
+grass-koiari   	moe  	   1	   1
+koitabu        	moe  	   1	   1
+mountain-koiari	mo   	   1	   1
+grass-koiari   	mo   	   1	   1
+mountain-koiari	moia 	   1	   1
+koitabu        	moika	   1	   5
+grass-koiari   	vami 	   7	   7
+koitabu        	ka   	   7	   8
+#
+Concept: 1380_TOOTH, False Positives: no, False Negatives: yes
+ese            	upaj+a	   1	   1
+north-barai    	uba+e 	   1	   1
+south-barai    	gobai 	   1	   3
+#
+Concept: 1401_DRINK, False Positives: yes, False Negatives: no
+ese            	ij+o	   1	   1
+grass-koiari   	i   	   2	   2
+koitabu        	i   	   3	   2
+mountain-koiari	i   	   4	   2
+north-barai    	i   	   5	   2
+omie           	i   	   6	   2
+south-barai    	i   	   7	   2
+omie           	ij+e	   8	   1
+#
+Concept: 1402_BREAST, False Positives: no, False Negatives: yes
+ese            	mus+a	   1	   1
+south-barai    	mosu 	   1	   1
+north-barai    	mui  	   1	   5
+grass-koiari   	amu  	   2	   2
+koitabu        	amu  	   2	   2
+mountain-koiari	amu  	   2	   2
+omie           	am+e 	   2	   2
+north-barai    	su   	   2	   8
+south-barai    	i    	   2	   9
+#
+Concept: 1403_BITE, False Positives: no, False Negatives: yes
+ese            	jaʔeho 	   1	   1
+omie           	jaʔih+e	   1	   1
+north-barai    	sak    	   1	   4
+north-barai    	sak+ie 	   1	   4
+south-barai    	za     	   1	   6
+grass-koiari   	ua+va  	   2	   2
+mountain-koiari	ua+ha  	   2	   2
+#
+Concept: 1404_STRAIGHT, False Positives: no, False Negatives: yes
+ese            	ra         	   1	   1
+grass-koiari   	taka       	   1	   2
+koitabu        	riri+jeriri	   1	   3
+omie           	rë/eri     	   1	   3
+north-barai    	ari        	   1	   4
+south-barai    	ari        	   1	   4
+ese            	ni         	   1	   7
+#
+Concept: 1405_NAME, False Positives: no, False Negatives: yes
+ese            	ih+a	   1	   1
+grass-koiari   	ihi 	   1	   1
+koitabu        	ihi 	   1	   1
+omie           	ih+e	   1	   1
+south-barai    	ihu 	   1	   1
+mountain-koiari	ivi 	   1	   4
+north-barai    	iv+e	   1	   4
+#
+Concept: 1408_HEAR, False Positives: no, False Negatives: yes
+ese            	hej+o	   1	   1
+omie           	hej+e	   1	   1
+grass-koiari   	ihi  	   1	   2
+koitabu        	ihi  	   1	   2
+south-barai    	ihe  	   1	   2
+mountain-koiari	evi  	   1	   4
+north-barai    	fi+e 	   1	   5
+#
+Concept: 1409_SEE, False Positives: no, False Negatives: yes
+ese            	kav+o 	   1	   1
+omie           	gav+e 	   1	   1
+north-barai    	aga+e 	   1	   5
+south-barai    	aga   	   1	   5
+grass-koiari   	ere+va	   2	   2
+koitabu        	era+ɣa	   2	   2
+mountain-koiari	ele+ha	   2	   2
+#
+Concept: 1415_THINK_REFLECT, False Positives: no, False Negatives: yes
+ese            	vui   	   1	   1
+grass-koiari   	vuvu  	   1	   2
+mountain-koiari	huhu+a	   1	   3
+#
+Concept: 1416_SIT, False Positives: yes, False Negatives: yes
+ese            	jo      	   1	   1
+north-barai    	fi      	   1	   5
+ese            	jasavo  	   1	   7
+grass-koiari   	gura+ma 	   2	   2
+koitabu        	gura+ma 	   2	   2
+mountain-koiari	ugu+ma  	   2	   4
+mountain-koiari	ugula+mo	   2	   4
+north-barai    	kari    	   6	   2
+omie           	j+e     	   6	   6
+#
+Concept: 1418_DIG, False Positives: no, False Negatives: yes
+grass-koiari   	karo+vahanu	   1	   1
+mountain-koiari	kalo+va    	   1	   1
+north-barai    	karo       	   1	   1
+koitabu        	oro+hanu   	   1	   2
+grass-koiari   	roho       	   5	   5
+koitabu        	roho       	   5	   5
+mountain-koiari	lovo       	   5	   7
+#
+Concept: 1419_FEAR_BE_AFRAID, False Positives: no, False Negatives: yes
+ese            	vo    	   1	   1
+north-barai    	jud+ie	   1	   2
+omie           	niv   	   1	   3
+south-barai    	zuhu  	   1	   4
+#
+Concept: 1423_FIGHT, False Positives: no, False Negatives: yes
+ese            	ʔarah+o	   1	   1
+south-barai    	ara    	   1	   1
+grass-koiari   	varaha 	   1	   2
+koitabu        	ɣaraha 	   1	   3
+#
+Concept: 1429_FULL, False Positives: no, False Negatives: yes
+ese            	ʔono	   1	   1
+north-barai    	eje 	   1	   5
+south-barai    	tia 	   1	   6
+grass-koiari   	ka  	   2	   2
+koitabu        	ke  	   2	   2
+mountain-koiari	loho	   2	   4
+#
+Concept: 1430_STAR, False Positives: no, False Negatives: yes
+ese            	n+a  	   1	   1
+mountain-koiari	didi 	   1	   2
+south-barai    	didi 	   1	   2
+omie           	jij+e	   1	   3
+#
+Concept: 1432_CUT, False Positives: yes, False Negatives: yes
+ese            	uhu+o	   1	   1
+north-barai    	ufu  	   1	   5
+grass-koiari   	aha  	   2	   1
+koitabu        	aha  	   2	   1
+omie           	ah+e 	   2	   1
+mountain-koiari	hei  	   2	   4
+ese            	tuv+o	   2	   7
+#
+Concept: 1433_HIT, False Positives: yes, False Negatives: yes
+ese            	a+o   	   1	   1
+north-barai    	kan+ie	   1	   5
+omie           	an+e  	   1	   6
+south-barai    	ʔana  	   1	   6
+mountain-koiari	ha+ma 	   2	   1
+grass-koiari   	va+ma 	   2	   2
+koitabu        	ɣa+ma 	   2	   3
+north-barai    	am+e  	   2	  10
+grass-koiari   	vama  	   8	   8
+koitabu        	ɣama  	   8	   9
+mountain-koiari	hama  	   8	  10
+#
+Concept: 1436_SCRATCH, False Positives: no, False Negatives: yes
+ese            	ʔumur+o	   1	   1
+south-barai    	ʔumu   	   1	   1
+grass-koiari   	tuma   	   1	   2
+koitabu        	tuma   	   1	   2
+mountain-koiari	tuma   	   1	   2
+#
+Concept: 1439_SWIM, False Positives: no, False Negatives: yes
+ese            	isuav+o	   1	   1
+grass-koiari   	etova  	   1	   2
+mountain-koiari	etova  	   1	   2
+south-barai    	ido+su 	   1	   2
+#
+Concept: 1442_STAND, False Positives: yes, False Negatives: yes
+ese            	dz+o        	   1	   1
+grass-koiari   	uri+va      	   1	   2
+koitabu        	uri+ha      	   1	   2
+north-barai    	uri         	   1	   2
+south-barai    	uri         	   1	   2
+ese            	ʔuri+marav+o	   1	   2
+omie           	ʔöj+e       	   1	   6
+ese            	dz+o        	   4	   1
+mountain-koiari	la+mi       	   4	   4
+grass-koiari   	ra+mi       	   4	   4
+koitabu        	ra+ma       	   4	   4
+north-barai    	a           	   4	  11
+omie           	j+e         	   4	  12
+south-barai    	rami        	   4	  13
+#
+Concept: 1446_COME, False Positives: no, False Negatives: yes
+ese            	roː    	   1	   1
+north-barai    	ruo    	   1	   1
+north-barai    	rue    	   1	   1
+grass-koiari   	rovo   	   1	   2
+omie           	rô/ov+e	   1	   2
+koitabu        	roɣo   	   1	   3
+mountain-koiari	loho   	   1	   4
+south-barai    	iro    	   1	   7
+north-barai    	iro    	   1	   7
+ese            	ro+a   	   1	   8
+#
+Concept: 1447_GIVE, False Positives: no, False Negatives: yes
+ese            	aha  	   1	   1
+ese            	iha  	   1	   1
+grass-koiari   	mo   	   1	   2
+koitabu        	mo   	   1	   2
+south-barai    	ma   	   1	   2
+south-barai    	mi   	   1	   2
+mountain-koiari	o    	   1	   4
+north-barai    	m+ie 	   1	   5
+omie           	mij+e	   1	   6
+#
+Concept: 1452_PUSH, False Positives: no, False Negatives: yes
+ese            	aho 	   1	   1
+omie           	im+e	   1	   2
+#
+Concept: 1453_WASH, False Positives: yes, False Negatives: yes
+ese            	v+o  	   1	   1
+mountain-koiari	to   	   1	   4
+north-barai    	so   	   1	   5
+south-barai    	su   	   1	   5
+north-barai    	ru+e 	   1	  10
+grass-koiari   	iago 	   2	   2
+koitabu        	eago 	   2	   2
+omie           	ego+e	   2	   2
+grass-koiari   	iagu 	   8	   2
+koitabu        	eagu 	   8	   2
+omie           	o    	   8	  11
+#
+Concept: 1457_SEW, False Positives: no, False Negatives: yes
+koitabu        	hu   	   1	   1
+north-barai    	sag+u	   1	   2
+south-barai    	sigu 	   1	   2
+omie           	hidz 	   1	   3
+#
+Concept: 1458_SAY, False Positives: no, False Negatives: yes
+grass-koiari   	roi	   1	   1
+koitabu        	ro 	   1	   1
+mountain-koiari	lou	   1	   1
+north-barai    	ro 	   1	   1
+south-barai    	ro 	   1	   1
+omie           	v  	   1	   5
+#
+Concept: 1480_BODY, False Positives: no, False Negatives: yes
+ese            	hah+a 	   1	   1
+grass-koiari   	ta    	   1	   2
+koitabu        	ta    	   1	   2
+mountain-koiari	vava  	   1	   4
+north-barai    	vaja+e	   1	   5
+#
+Concept: 1482_SHOULDER, False Positives: no, False Negatives: yes
+ese            	sireh+a	   1	   1
+omie           	sireh+a	   1	   1
+south-barai    	siroi  	   1	   1
+grass-koiari   	na     	   2	   2
+koitabu        	ni     	   2	   2
+mountain-koiari	bego   	   2	   4
+#
+Concept: 1486_PLANT_SOMETHING, False Positives: no, False Negatives: yes
+ese            	v+o	   1	   1
+grass-koiari   	va 	   1	   2
+mountain-koiari	ha 	   1	   3
+north-barai    	sa 	   1	   4
+#
+Concept: 1487_POUR, False Positives: no, False Negatives: yes
+ese            	use+o   	   1	   1
+north-barai    	usi+a   	   1	   1
+mountain-koiari	va      	   1	   2
+omie           	hë/eoj+e	   1	   4
+#
+Concept: 1489_CLOUD, False Positives: no, False Negatives: yes
+ese            	imiti+a	   1	   1
+north-barai    	amit+e 	   1	   1
+omie           	su+e   	   3	   3
+south-barai    	iso    	   3	   4
+#
+Concept: 1493_ONE, False Positives: no, False Negatives: yes
+ese            	nu  	   1	   1
+north-barai    	nu  	   1	   1
+south-barai    	nu  	   1	   1
+grass-koiari   	igau	   1	   2
+mountain-koiari	igae	   1	   2
+omie           	mu  	   1	   5
+omie           	gö  	   1	   7
+#
+Concept: 1498_TWO, False Positives: no, False Negatives: yes
+ese            	noʔo 	   1	   1
+omie           	nioʔi	   1	   1
+north-barai    	ro   	   1	   5
+south-barai    	inoʔi	   1	   7
+grass-koiari   	abuti	   2	   2
+koitabu        	ab   	   2	   2
+mountain-koiari	abui 	   2	   2
+#
+Concept: 1501_BORE, False Positives: no, False Negatives: yes
+ese            	o     	   1	   1
+north-barai    	titu+a	   1	   2
+#
+Concept: 1507_FRUIT, False Positives: no, False Negatives: yes
+mountain-koiari	bai+fe	   1	   1
+omie           	baj+e 	   1	   2
+#
+Concept: 1509_MOSQUITO, False Positives: no, False Negatives: yes
+koitabu        	una	   1	   1
+mountain-koiari	ku 	   1	   2
+#
+Concept: 1519_RUN, False Positives: no, False Negatives: yes
+mountain-koiari	dibu	   1	   1
+north-barai    	ri  	   1	   2
+#
+Concept: 1558_SIMILAR, False Positives: no, False Negatives: yes
+grass-koiari   	navate	   1	   1
+koitabu        	naɣate	   1	   2
+mountain-koiari	nahate	   1	   3
+#
+Concept: 155_CHOP, False Positives: no, False Negatives: yes
+ese            	vuijo	   1	   1
+omie           	uedz 	   1	   2
+south-barai    	veda 	   1	   3
+#
+Concept: 156_RED, False Positives: no, False Negatives: yes
+north-barai    	ame  	   1	   1
+omie           	ë/eʔe	   1	   2
+south-barai    	ʔabo 	   1	   3
+#
+Concept: 1585_SLEEP, False Positives: no, False Negatives: yes
+ese            	nej+o 	   1	   1
+north-barai    	nina+e	   1	   2
+omie           	v+e   	   1	   3
+south-barai    	nai   	   1	   4
+#
+Concept: 1620_SON, False Positives: no, False Negatives: yes
+ese            	h+a 	   1	   1
+omie           	h+e 	   1	   1
+north-barai    	fari	   1	   2
+south-barai    	vari	   1	   4
+#
+Concept: 1621_SNEEZE, False Positives: no, False Negatives: yes
+ese            	puej+o     	   1	   1
+grass-koiari   	akisi+va+nu	   1	   2
+mountain-koiari	akisi+a    	   1	   2
+koitabu        	mana+va+nu 	   1	   3
+north-barai    	nuf+ie     	   1	   5
+#
+Concept: 1629_faceforehead, False Positives: no, False Negatives: yes
+ese            	ar+a   	   1	   1
+grass-koiari   	vari+ka	   1	   2
+koitabu        	vari   	   1	   2
+mountain-koiari	vali   	   1	   2
+south-barai    	vare   	   1	   2
+omie           	j+e    	   1	   5
+ese            	naʔi   	   1	   7
+#
+Concept: 1644_RELATIVES, False Positives: no, False Negatives: yes
+ese            	ora 	   1	   1
+south-barai    	joru	   1	   2
+#
+Concept: 1645_SHORT, False Positives: no, False Negatives: yes
+ese            	tuʔua	   1	   1
+grass-koiari   	duaka	   1	   2
+koitabu        	tuake	   1	   2
+#
+Concept: 1667_HOLE, False Positives: no, False Negatives: yes
+ese            	maʔo+a	   1	   1
+north-barai    	mako  	   1	   5
+grass-koiari   	aba   	   2	   2
+koitabu        	aba   	   2	   2
+mountain-koiari	aba   	   2	   2
+#
+Concept: 1683_BUSH, False Positives: no, False Negatives: yes
+ese            	chiʔ+a	   1	   1
+omie           	jeʔ+e 	   1	   3
+omie           	jeʔ+oː	   1	   3
+mountain-koiari	boto  	   2	   2
+south-barai    	boto  	   2	   2
+#
+Concept: 1728_ROTTEN, False Positives: no, False Negatives: yes
+ese            	ha    	   1	   1
+omie           	m     	   1	   2
+south-barai    	loma  	   1	   3
+omie           	horije	   1	   4
+#
+Concept: 175_BLOW_OF_WIND, False Positives: yes, False Negatives: yes
+ese            	ho  	   1	   1
+omie           	v+e 	   1	   6
+south-barai    	uasi	   1	   7
+grass-koiari   	to  	   2	   2
+koitabu        	uhu 	   2	   3
+mountain-koiari	uvu 	   2	   4
+north-barai    	ufi 	   2	   5
+omie           	v+e 	   2	   6
+ese            	h+o 	   2	   8
+#
+Concept: 1767_SCRAPE, False Positives: no, False Negatives: yes
+ese            	h+o  	   1	   1
+north-barai    	adi+a	   1	   2
+#
+Concept: 1786_DRY_UP, False Positives: no, False Negatives: yes
+ese            	nana	   1	   1
+mountain-koiari	a   	   1	   2
+omie           	he  	   1	   2
+north-barai    	eki 	   1	   3
+north-barai    	r+e 	   1	   5
+#
+Concept: 178_RIPE, False Positives: no, False Negatives: yes
+grass-koiari   	ka	   1	   1
+koitabu        	ka	   1	   1
+mountain-koiari	a 	   1	   3
+north-barai    	je	   1	   4
+#
+Concept: 1791_BUTTERFLY, False Positives: no, False Negatives: yes
+grass-koiari   	avako	   1	   1
+mountain-koiari	uako 	   1	   2
+#
+Concept: 1836_VAGINA, False Positives: no, False Negatives: yes
+ese            	ju+a	   1	   1
+grass-koiari   	ve  	   1	   2
+koitabu        	ve  	   1	   2
+omie           	vë/e	   1	   2
+#
+Concept: 1838_NAVEL, False Positives: no, False Negatives: yes
+ese            	sip+a  	   1	   1
+south-barai    	mei    	   1	   6
+grass-koiari   	nika   	   2	   2
+koitabu        	ne     	   2	   3
+mountain-koiari	demodo 	   2	   4
+koitabu        	demona 	   2	   4
+omie           	vinoh+e	   5	   5
+south-barai    	vinohu 	   5	   5
+#
+Concept: 1839_CRY, False Positives: no, False Negatives: yes
+ese            	rav+o	   1	   1
+grass-koiari   	va   	   1	   2
+koitabu        	vi   	   1	   2
+grass-koiari   	va   	   1	   2
+mountain-koiari	nina 	   1	   4
+north-barai    	me   	   1	   5
+omie           	m+e  	   1	   6
+south-barai    	ni   	   1	   7
+#
+Concept: 1879_DANCE, False Positives: no, False Negatives: yes
+ese            	vej+o  	   1	   1
+koitabu        	ja     	   1	   2
+omie           	ho     	   1	   3
+koitabu        	java+nu	   1	   4
+omie           	j+e    	   1	   5
+omie           	v+e    	   1	   6
+#
+Concept: 189_HAIR_BODY, False Positives: no, False Negatives: yes
+ese            	humat+a	   1	   1
+grass-koiari   	homo+ka	   1	   1
+koitabu        	homo+ka	   1	   1
+mountain-koiari	vomo   	   1	   4
+north-barai    	u      	   1	   5
+#
+Concept: 1917_TIE, False Positives: no, False Negatives: yes
+mountain-koiari	umuva   	   1	   1
+north-barai    	tamu    	   1	   2
+south-barai    	tumue   	   1	   2
+north-barai    	tamug+e 	   1	   2
+omie           	duoʔum+e	   1	   3
+#
+Concept: 1935_ANUS, False Positives: no, False Negatives: yes
+grass-koiari   	deva     	   1	   1
+omie           	dë/evaʔ+e	   1	   1
+koitabu        	deɣa     	   1	   2
+omie           	degag+e  	   1	   2
+#
+Concept: 1949_BEDBUG, False Positives: no, False Negatives: yes
+ese            	tarur+a	   1	   1
+north-barai    	tarun+a	   1	   1
+grass-koiari   	saru   	   1	   2
+koitabu        	saru   	   1	   2
+#
+Concept: 2009_DOG, False Positives: no, False Negatives: yes
+ese            	ʔu+a   	   1	   1
+omie           	ʔö+e   	   1	   1
+south-barai    	uʔo    	   1	   7
+grass-koiari   	to     	   2	   2
+koitabu        	to     	   2	   2
+mountain-koiari	to     	   2	   2
+koitabu        	totoka 	   2	   8
+kamula         	ɛsemala	   3	   3
+#
+Concept: 2093_AFTERWARDS, False Positives: no, False Negatives: yes
+grass-koiari   	dahe	   1	   1
+mountain-koiari	e   	   1	   2
+north-barai    	ne  	   1	   3
+#
+Concept: 2098_FOOT_OR_LEG, False Positives: no, False Negatives: yes
+ese            	diʔ+a	   1	   1
+south-barai    	deʔu 	   1	   1
+north-barai    	di+a 	   1	   2
+#
+Concept: 2101_BE_DEAD_OR_DIE, False Positives: no, False Negatives: yes
+grass-koiari   	vati	   1	   1
+mountain-koiari	hati	   1	   2
+#
+Concept: 2102_BURN, False Positives: no, False Negatives: yes
+ese            	n+o  	   1	   1
+grass-koiari   	ra+va	   1	   2
+koitabu        	ra+ɣa	   1	   2
+mountain-koiari	laha 	   1	   4
+omie           	rav+e	   1	   5
+south-barai    	ma   	   1	   6
+grass-koiari   	mavoi	   7	   7
+mountain-koiari	maho 	   7	   8
+#
+Concept: 2103_PAINFUL_OR_SICK, False Positives: no, False Negatives: yes
+ese            	nimo	   1	   1
+omie           	h+e 	   1	   2
+south-barai    	nu  	   1	   3
+#
+Concept: 2108_RAINING_OR_RAIN, False Positives: no, False Negatives: yes
+ese            	h+a  	   1	   1
+grass-koiari   	veni 	   1	   2
+koitabu        	veni 	   1	   2
+mountain-koiari	veni 	   1	   2
+north-barai    	ve   	   1	   5
+south-barai    	ve   	   1	   5
+omie           	ë/eni	   1	   6
+#
+Concept: 2115_CEASE_OR_FINISH, False Positives: no, False Negatives: yes
+ese            	nav+o  	   1	   1
+grass-koiari   	vare+me	   1	   2
+koitabu        	ɣare+me	   1	   3
+mountain-koiari	hale+ma	   1	   4
+north-barai    	ar+e   	   1	   4
+mountain-koiari	hale   	   1	   4
+ese            	v+o    	   1	   6
+#
+Concept: 2121_ARM_OR_HAND, False Positives: no, False Negatives: yes
+ese            	ij+a  	   1	   1
+omie           	ij+e  	   1	   1
+grass-koiari   	ada+ka	   2	   2
+koitabu        	ada+ka	   2	   2
+mountain-koiari	ada   	   2	   2
+north-barai    	adav+e	   2	   2
+omie           	ad+e  	   2	   2
+south-barai    	hu    	   2	   7
+ese            	h+a   	   2	   8
+#
+Concept: 2159_GROUND, False Positives: no, False Negatives: yes
+grass-koiari   	mata+me	   1	   1
+koitabu        	mata+me	   1	   1
+mountain-koiari	matama 	   1	   1
+north-barai    	saka+e 	   4	   4
+omie           	saʔa+e 	   4	   5
+south-barai    	saʔi   	   4	   5
+grass-koiari   	vata   	   7	   7
+koitabu        	vata   	   7	   7
+mountain-koiari	vata   	   7	   7
+#
+Concept: 215_LIE_DOWN, False Positives: no, False Negatives: yes
+grass-koiari   	ja+va	   1	   1
+koitabu        	ja+ɣa	   1	   1
+mountain-koiari	la+ha	   1	   3
+#
+Concept: 217_BETELNUT, False Positives: no, False Negatives: yes
+ese            	siar+a	   1	   1
+north-barai    	siar+e	   1	   1
+south-barai    	seru  	   1	   1
+grass-koiari   	hava  	   2	   2
+koitabu        	haɣa  	   2	   3
+mountain-koiari	vava+e	   2	   4
+omie           	ha+e  	   2	   6
+#
+Concept: 221_FIRE, False Positives: no, False Negatives: yes
+ese            	ven+a  	   1	   1
+grass-koiari   	vene   	   1	   1
+koitabu        	vene   	   1	   1
+mountain-koiari	vene   	   1	   1
+omie           	vë/en+i	   1	   1
+north-barai    	men+u  	   1	   5
+south-barai    	menu   	   1	   5
+#
+Concept: 2272_HOT_OR_WARM, False Positives: no, False Negatives: yes
+grass-koiari   	huhuneva	   1	   1
+mountain-koiari	vuvuneve	   1	   2
+#
+Concept: 2304_THEE_OBLIQUE_CASE_OF_YOU, False Positives: no, False Negatives: yes
+ese            	a 	   1	   1
+grass-koiari   	a 	   1	   1
+koitabu        	a 	   1	   1
+mountain-koiari	a 	   1	   1
+north-barai    	a 	   1	   1
+south-barai    	a 	   1	   1
+omie           	ja	   1	   6
+#
+Concept: 2312_YOU_OBLIQUE_CASE_OF_YOU, False Positives: no, False Negatives: yes
+ese            	ja     	   1	   1
+grass-koiari   	ja     	   1	   1
+koitabu        	ja     	   1	   1
+north-barai    	ja     	   1	   1
+south-barai    	ja     	   1	   1
+mountain-koiari	la     	   1	   4
+omie           	je+më/e	   1	   6
+#
+Concept: 2371_BREADFRUIT, False Positives: no, False Negatives: yes
+grass-koiari   	unu  	   1	   1
+omie           	nug+e	   1	   2
+#
+Concept: 2445_PAPAYA, False Positives: no, False Negatives: yes
+grass-koiari   	nitani	   1	   1
+mountain-koiari	mitani	   1	   2
+#
+Concept: 2457_PATH_OR_ROAD, False Positives: no, False Negatives: yes
+grass-koiari   	uma 	   1	   1
+koitabu        	ɣuma	   1	   2
+mountain-koiari	ha  	   1	   3
+#
+Concept: 262_HE_OR_SHE_OR_IT, False Positives: no, False Negatives: yes
+ese            	hu    	   1	   1
+koitabu        	au    	   1	   1
+mountain-koiari	au    	   1	   1
+omie           	hu    	   1	   1
+grass-koiari   	ahu   	   1	   2
+south-barai    	ahu   	   1	   2
+north-barai    	fu    	   1	   5
+mountain-koiari	avu+ho	   1	   8
+#
+Concept: 269_COOKED, False Positives: no, False Negatives: yes
+grass-koiari   	ravi	   1	   1
+koitabu        	raɣe	   1	   2
+mountain-koiari	laha	   1	   3
+north-barai    	nae 	   1	   4
+south-barai    	rae 	   1	   5
+#
+Concept: 2708_TALK, False Positives: no, False Negatives: yes
+ese            	rav+o 	   1	   1
+north-barai    	e     	   1	   2
+omie           	ʔuv   	   1	   3
+ese            	ʔuav+o	   1	   3
+south-barai    	re    	   1	   4
+#
+Concept: 2760_MAKE_A_JOKE, False Positives: no, False Negatives: yes
+grass-koiari   	bitu+va	   1	   1
+mountain-koiari	vo     	   1	   2
+#
+Concept: 293_NETBAG, False Positives: no, False Negatives: yes
+grass-koiari   	jago	   1	   1
+koitabu        	jaɣa	   1	   1
+mountain-koiari	laha	   1	   3
+#
+Concept: 3037_SAME-SEX_OLDER_SIBLING, False Positives: no, False Negatives: yes
+ese            	maʔin+a	   1	   1
+north-barai    	maʔi   	   1	   1
+omie           	maʔin+e	   1	   1
+south-barai    	mahino 	   1	   1
+grass-koiari   	amakina	   1	   2
+koitabu        	amakina	   1	   2
+mountain-koiari	amakina	   1	   2
+#
+Concept: 3038_SAME-SEX_YOUNGER_SIBLING, False Positives: no, False Negatives: yes
+ese            	ʔuʔu+a	   1	   1
+mountain-koiari	hoho  	   1	   1
+grass-koiari   	vovo  	   1	   2
+koitabu        	ɣoɣo  	   1	   3
+omie           	ʔô/o+e	   1	   5
+south-barai    	ʔuvo  	   1	   6
+#
+Concept: 321_CHEW, False Positives: no, False Negatives: yes
+ese            	chav+o	   1	   1
+grass-koiari   	nana  	   1	   2
+mountain-koiari	nana  	   1	   2
+omie           	v+e   	   1	   4
+#
+Concept: 351_TARO, False Positives: no, False Negatives: yes
+grass-koiari   	vadu	   1	   1
+koitabu        	vadu	   1	   1
+mountain-koiari	a   	   1	   3
+north-barai    	madu	   1	   4
+south-barai    	madu	   1	   4
+omie           	h+e 	   1	   5
+#
+Concept: 410_YAM, False Positives: no, False Negatives: yes
+ese            	k+a  	   1	   1
+grass-koiari   	vaea 	   1	   2
+koitabu        	vaia 	   1	   2
+omie           	vadzi	   1	   4
+#
+Concept: 473_SPEAR_SOMEBODY, False Positives: no, False Negatives: yes
+ese            	ah+o 	   1	   1
+omie           	oh+e 	   1	   1
+grass-koiari   	bi   	   1	   2
+koitabu        	bi   	   1	   2
+mountain-koiari	bi   	   1	   2
+north-barai    	bij+a	   1	   5
+south-barai    	bij+a	   1	   5
+#
+Concept: 498_medialverbsuffixds, False Positives: no, False Negatives: yes
+ese            	ʔe  	   1	   1
+grass-koiari   	ge  	   1	   2
+koitabu        	ge  	   1	   2
+mountain-koiari	ge  	   1	   2
+north-barai    	ga  	   1	   2
+omie           	go  	   1	   2
+south-barai    	ga  	   1	   2
+north-barai    	ke  	   1	   2
+north-barai    	gana	   1	   8
+#
+Concept: 499_medialsequentialsuffixhavingfinishedthatandthen, False Positives: no, False Negatives: yes
+grass-koiari   	jareime	   1	   1
+koitabu        	jareme 	   1	   1
+north-barai    	areme  	   1	   3
+#
+Concept: 531_HOW_MUCH, False Positives: no, False Negatives: yes
+ese            	ro     	   1	   1
+north-barai    	ge     	   1	   4
+grass-koiari   	vahuti 	   2	   2
+mountain-koiari	vaesuti	   2	   3
+#
+Concept: 581_COME_BACK, False Positives: no, False Negatives: yes
+grass-koiari   	voira+vi	   1	   1
+koitabu        	ɣoira+ɣi	   1	   2
+mountain-koiari	hoila+ha	   1	   3
+#
+Concept: 586_GARDEN, False Positives: no, False Negatives: yes
+ese            	juar+a	   1	   1
+north-barai    	juar+e	   1	   1
+south-barai    	jo    	   1	   7
+grass-koiari   	buru  	   2	   2
+koitabu        	buru  	   2	   2
+mountain-koiari	bulu  	   2	   2
+omie           	buor+e	   2	   2
+omie           	boru  	   2	   2
+#
+Concept: 619_ANIMAL, False Positives: no, False Negatives: yes
+grass-koiari   	mi  	   1	   1
+mountain-koiari	mi  	   1	   1
+omie           	mi  	   1	   1
+north-barai    	kuae	   1	   3
+#
+Concept: 628_LEAF, False Positives: no, False Negatives: yes
+grass-koiari   	hana+ka	   1	   1
+koitabu        	hana+ka	   1	   1
+omie           	han+e  	   1	   1
+mountain-koiari	vana   	   1	   3
+#
+Concept: 632_LIZARD, False Positives: no, False Negatives: yes
+ese            	s+a 	   1	   1
+north-barai    	on+e	   1	   2
+#
+Concept: 634_MEAT, False Positives: no, False Negatives: yes
+koitabu        	sika	   1	   1
+omie           	mi+e	   1	   2
+#
+Concept: 646_ASH, False Positives: no, False Negatives: yes
+ese            	ʔuʔ+a	   1	   1
+north-barai    	ar+e 	   1	   5
+omie           	n+e  	   1	   6
+south-barai    	tu   	   1	   7
+grass-koiari   	utuvu	   2	   2
+koitabu        	utuɣo	   2	   2
+mountain-koiari	uti  	   2	   2
+#
+Concept: 665_BEE, False Positives: no, False Negatives: yes
+grass-koiari   	uamu 	   1	   1
+koitabu        	uamo 	   1	   1
+omie           	vuomu	   1	   3
+#
+Concept: 671_SAND, False Positives: no, False Negatives: yes
+ese            	ajar+a	   1	   1
+north-barai    	ajar+e	   1	   1
+south-barai    	aiaru 	   1	   3
+#
+Concept: 675_FAECES_EXCREMENT, False Positives: yes, False Negatives: yes
+ese            	te+a	   1	   1
+grass-koiari   	de  	   1	   2
+koitabu        	de  	   1	   2
+mountain-koiari	de  	   1	   2
+north-barai    	de  	   1	   2
+omie           	dë/e	   6	   2
+#
+Concept: 683_PERSON, False Positives: no, False Negatives: yes
+ese            	e+a	   1	   1
+omie           	a+e	   1	   1
+north-barai    	e  	   1	   4
+south-barai    	e  	   1	   4
+grass-koiari   	bia	   2	   2
+koitabu        	bia	   2	   2
+south-barai    	bia	   2	   2
+#
+Concept: 694_GET, False Positives: no, False Negatives: yes
+ese            	j+o   	   1	   1
+north-barai    	ro    	   1	   5
+omie           	baej+e	   1	   6
+south-barai    	abe   	   1	   7
+north-barai    	abe   	   1	   7
+grass-koiari   	ma    	   2	   2
+koitabu        	ma    	   2	   2
+mountain-koiari	ma    	   2	   2
+#
+Concept: 695_GO, False Positives: no, False Negatives: yes
+ese            	vaʔ+o	   1	   1
+omie           	vaʔ+e	   1	   1
+south-barai    	vaʔ+o	   1	   1
+north-barai    	va   	   1	   5
+grass-koiari   	ti   	   2	   2
+koitabu        	ti   	   2	   2
+mountain-koiari	ti   	   2	   2
+#
+Concept: 725_OLD_PERSON, False Positives: no, False Negatives: yes
+ese            	ma   	   1	   1
+mountain-koiari	mami 	   1	   2
+north-barai    	mame 	   1	   2
+omie           	mamie	   1	   2
+#
+Concept: 727_WHICH, False Positives: no, False Negatives: yes
+ese            	ra	   1	   1
+north-barai    	ki	   1	   2
+omie           	di	   1	   3
+south-barai    	ʔo	   1	   4
+#
+Concept: 749_ENTER, False Positives: no, False Negatives: yes
+ese            	v+o  	   1	   1
+grass-koiari   	ra+va	   1	   2
+koitabu        	ra+ɣa	   1	   2
+north-barai    	aru  	   1	   4
+south-barai    	ʔairo	   1	   4
+south-barai    	je   	   1	   5
+#
+Concept: 763_SKIN, False Positives: no, False Negatives: yes
+ese            	hah+a  	   1	   1
+grass-koiari   	vata+ka	   1	   2
+koitabu        	vata+ka	   1	   2
+mountain-koiari	vate   	   1	   2
+#
+Concept: 776_TRUNK_OF_TREE, False Positives: no, False Negatives: yes
+ese            	j+a  	   1	   1
+north-barai    	an+e 	   1	   2
+omie           	naj+e	   3	   3
+south-barai    	ʔaho 	   3	   4
+ese            	ʔah+a	   3	   4
+#
+Concept: 778_SMOKE_EXHAUST, False Positives: no, False Negatives: yes
+ese            	uʔ+a 	   1	   1
+omie           	uʔa+e	   1	   1
+south-barai    	uʔu  	   1	   1
+north-barai    	u    	   1	   2
+#
+Concept: 78_THAT, False Positives: yes, False Negatives: yes
+ese            	jaho	   1	   1
+south-barai    	re  	   1	   3
+ese            	ro  	   1	   3
+north-barai    	fia 	   1	   5
+grass-koiari   	eke 	   2	   2
+koitabu        	ro  	   2	   3
+mountain-koiari	ke  	   2	   4
+koitabu        	e   	   2	   8
+#
+Concept: 798_JAW, False Positives: no, False Negatives: yes
+ese            	sano+a	   1	   1
+south-barai    	anoʔu 	   1	   2
+#
+Concept: 800_THIGH, False Positives: no, False Negatives: yes
+omie           	h+e	   1	   1
+south-barai    	dua	   1	   2
+#
+Concept: 804_purposiveverbsuffix, False Positives: no, False Negatives: yes
+ese            	iro   	   1	   1
+omie           	ʔirô/o	   1	   1
+north-barai    	kiro  	   1	   2
+omie           	i     	   1	   3
+#
+Concept: 810_predicativepossessivesuffix, False Positives: no, False Negatives: yes
+ese            	uni	   1	   1
+north-barai    	one	   1	   1
+grass-koiari   	je 	   2	   2
+koitabu        	je 	   2	   2
+mountain-koiari	le 	   2	   4
+#
+Concept: 813_DO, False Positives: no, False Negatives: yes
+grass-koiari   	ki  	   1	   1
+koitabu        	ki  	   1	   1
+north-barai    	ki+a	   1	   3
+#
+Concept: 817_THEY, False Positives: no, False Negatives: yes
+ese            	pu  	   1	   1
+north-barai    	bu  	   1	   1
+south-barai    	pu  	   1	   1
+grass-koiari   	jabu	   1	   2
+omie           	jabu	   1	   2
+koitabu        	jau 	   1	   3
+mountain-koiari	abu 	   1	   4
+#
+Concept: 822_plsuffixonkinshipnouns, False Positives: no, False Negatives: yes
+ese            	hu        	   1	   1
+south-barai    	hu        	   1	   1
+grass-koiari   	uhu+jabe  	   1	   2
+koitabu        	uhea      	   1	   2
+koitabu        	uhu+jabara	   1	   2
+mountain-koiari	uvu       	   1	   4
+#
+Concept: 834_acertainonesomeanother, False Positives: no, False Negatives: yes
+ese            	na	   1	   1
+ese            	ni	   1	   1
+ese            	na	   1	   1
+grass-koiari   	be	   1	   2
+koitabu        	be	   1	   2
+mountain-koiari	be	   1	   2
+north-barai    	be	   1	   2
+south-barai    	hi	   1	   6
+south-barai    	si	   1	   8
+#
+Concept: 840_immediateimperativepluralverbsuffix, False Positives: no, False Negatives: yes
+grass-koiari   	he	   1	   1
+koitabu        	he	   1	   1
+omie           	he	   1	   1
+south-barai    	he	   1	   1
+mountain-koiari	ve	   1	   3
+north-barai    	fo	   1	   4
+mountain-koiari	fe	   1	   4
+south-barai    	je	   1	   8
+#
+Concept: 841_locativenounsuffixattofrom, False Positives: yes, False Negatives: yes
+ese            	a 	   1	   1
+omie           	ʔe	   1	   1
+south-barai    	ʔe	   1	   1
+ese            	i 	   1	   1
+grass-koiari   	he	   2	   1
+koitabu        	he	   2	   1
+north-barai    	he	   2	   1
+south-barai    	he	   2	   1
+south-barai    	e 	   2	   1
+mountain-koiari	ve	   2	   4
+mountain-koiari	fe	   2	   9
+#
+Concept: 843_tobuysellbarter, False Positives: no, False Negatives: yes
+koitabu        	hae+va	   1	   1
+north-barai    	v+e   	   1	   2
+#
+Concept: 860_toclearbushforplanting, False Positives: no, False Negatives: yes
+grass-koiari   	jaha 	   1	   1
+koitabu        	jaha 	   1	   1
+mountain-koiari	nu   	   1	   3
+omie           	rav+e	   1	   4
+#
+Concept: 862_plateauflatland, False Positives: no, False Negatives: yes
+ese            	amar+a	   1	   1
+north-barai    	amar+e	   1	   1
+grass-koiari   	di    	   1	   2
+#
+Concept: 866_WIN, False Positives: no, False Negatives: yes
+grass-koiari   	haki	   1	   1
+mountain-koiari	vaki	   1	   2
+#
+Concept: 867_backofhand, False Positives: no, False Negatives: yes
+grass-koiari   	hoto+ka	   1	   1
+koitabu        	hoto+ka	   1	   1
+mountain-koiari	voto   	   1	   3
+#
+Concept: 868_orplinsomeverbs, False Positives: no, False Negatives: yes
+grass-koiari   	jahei    	   1	   1
+grass-koiari   	jahei    	   1	   1
+koitabu        	boko+geve	   1	   2
+mountain-koiari	ua+geve  	   1	   3
+koitabu        	era+geve 	   1	   5
+mountain-koiari	ele+geve 	   1	   5
+#
+Concept: 869_orsginsomeverbs, False Positives: no, False Negatives: yes
+grass-koiari   	ere+va 	   1	   1
+koitabu        	era+ɣa 	   1	   1
+mountain-koiari	ele+ha 	   1	   1
+grass-koiari   	boko+va	   1	   4
+koitabu        	boko+ɣa	   1	   4
+mountain-koiari	ua+ha  	   1	   6
+#
+Concept: 871_transitiveverbformingsuffixcausative, False Positives: no, False Negatives: yes
+grass-koiari   	vaha	   1	   1
+koitabu        	ɣaha	   1	   2
+mountain-koiari	havo	   1	   3
+#
+Concept: 879_COUGH, False Positives: no, False Negatives: yes
+ese            	vo     	   1	   1
+south-barai    	o      	   1	   5
+grass-koiari   	toto+va	   2	   2
+koitabu        	to     	   2	   3
+mountain-koiari	eno+a  	   2	   4
+#
+Concept: 881_also, False Positives: no, False Negatives: yes
+grass-koiari   	tae 	   1	   1
+mountain-koiari	ta  	   1	   1
+koitabu        	taɣe	   1	   2
+#
+Concept: 884_medialverbsuffix, False Positives: no, False Negatives: yes
+grass-koiari   	jata 	   1	   1
+koitabu        	atege	   1	   2
+mountain-koiari	ata  	   1	   2
+#
+Concept: 886_cordylinesp, False Positives: no, False Negatives: yes
+grass-koiari   	vabe	   1	   1
+koitabu        	vabe	   1	   1
+mountain-koiari	re  	   1	   3
+#
+Concept: 893_topoffoot, False Positives: yes, False Negatives: yes
+grass-koiari   	ada+he 	   1	   1
+koitabu        	ada+he 	   1	   1
+north-barai    	ado    	   1	   1
+mountain-koiari	vada+ve	   1	   3
+omie           	r+e    	   1	   5
+grass-koiari   	hoto+ka	   6	   1
+#
+Concept: 906_TREE, False Positives: no, False Negatives: yes
+ese            	ich+a	   1	   1
+grass-koiari   	idi  	   1	   2
+koitabu        	idi  	   1	   2
+mountain-koiari	idi  	   1	   2
+south-barai    	idu  	   1	   2
+north-barai    	in+e 	   1	   5
+omie           	ij+e 	   1	   6
+#
+Concept: 908_DRUM, False Positives: no, False Negatives: yes
+ese            	chaj+a	   1	   1
+north-barai    	daj+o 	   1	   2
+omie           	jaj+e 	   1	   3
+#
+Concept: 937_BIRD, False Positives: no, False Negatives: yes
+ese            	uk+a	   1	   1
+grass-koiari   	ugu 	   1	   1
+mountain-koiari	ugu 	   1	   1
+omie           	ug+e	   1	   1
+koitabu        	ha  	   1	   3
+#
+Concept: 945_SPEAR, False Positives: no, False Negatives: yes
+grass-koiari   	bi 	   1	   1
+mountain-koiari	bi 	   1	   1
+omie           	j+e	   1	   3
+#
+Concept: 946_BLOOD, False Positives: no, False Negatives: yes
+ese            	a+a 	   1	   1
+grass-koiari   	tavo	   1	   2
+koitabu        	taɣo	   1	   3
+mountain-koiari	taho	   1	   4
+south-barai    	du  	   1	   5
+#
+Concept: 948_WATER, False Positives: no, False Negatives: yes
+ese            	to+a  	   1	   1
+north-barai    	do    	   1	   2
+omie           	v+e   	   1	   3
+south-barai    	ido   	   1	   4
+ese            	rú/uho	   1	   5
+north-barai    	rue   	   1	   6
+south-barai    	su    	   1	   7
+#
+Concept: 960_WIND, False Positives: no, False Negatives: yes
+ese            	pur+a 	   1	   1
+omie           	bur+e 	   1	   1
+mountain-koiari	hebulu	   1	   2
+north-barai    	uburu 	   1	   2
+south-barai    	uburu 	   1	   2
+#
+Concept: 962_WOMAN, False Positives: no, False Negatives: yes
+grass-koiari   	mavi  	   1	   1
+koitabu        	maɣi  	   1	   2
+mountain-koiari	mahina	   1	   3
+omie           	h+e   	   1	   4
+south-barai    	meina 	   1	   5
+grass-koiari   	nigi  	   6	   6
+koitabu        	nigi  	   6	   6
+mountain-koiari	nigi  	   6	   6
+#
+Concept: 982_LIME_FRUIT, False Positives: no, False Negatives: yes
+ese            	suam+a  	   1	   1
+north-barai    	suvuam+e	   1	   4
+grass-koiari   	udi     	   2	   2
+omie           	ud+e    	   2	   2
+koitabu        	ɣudi    	   2	   3
+#
+Concept: 984_WORK_LABOUR, False Positives: no, False Negatives: yes
+ese            	rum+o	   1	   1
+koitabu        	me   	   1	   2
+north-barai    	me   	   1	   2
+omie           	mu+e 	   1	   4
+ese            	j+o  	   1	   5
+#

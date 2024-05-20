@@ -1,0 +1,1902 @@
+Concept: 1019_RIGHT, False Positives: yes, False Negatives: yes
+borong 	orowak	   1	   1
+burum  	â/al  	   2	   2
+mindik 	hâ/al 	   2	   2
+tobo   	hâ/ala	   2	  14
+dedua  	foi   	   3	   3
+kube   	foi   	   3	   3
+kate   	fâ/are	   4	   4
+mape   	fâ/are	   4	   4
+komba  	bon   	   5	   5
+selepet	bon   	   5	   5
+timbe  	bun   	   5	   5
+mesem  	pana  	   8	   5
+nabak  	panaŋ 	   8	   5
+ono    	warage	  11	   4
+#
+Concept: 1086_WORK_ACTIVITY, False Positives: yes, False Negatives: no
+borong 	gawoŋ	   1	   1
+burum  	nup  	   2	   2
+komba  	nep  	   2	   2
+mesem  	nu   	   2	   2
+mindik 	nup  	   2	   2
+selepet	nep  	   2	   2
+timbe  	nep  	   2	   2
+dedua  	ua   	   3	   3
+kate   	gie  	   4	   4
+mape   	giâ/a	   4	   4
+kube   	ai   	   6	   6
+nabak  	murup	  10	  10
+ono    	urata	  11	  11
+tobo   	ahai 	  14	   6
+#
+Concept: 1172_SHOOT, False Positives: yes, False Negatives: yes
+borong 	do   	   1	   1
+burum  	erâ/a	   2	   2
+mindik 	erâ/a	   2	   2
+komba  	zer  	   2	   5
+selepet	jer  	   2	  12
+timbe  	er   	   2	  13
+dedua  	wedek	   3	   3
+kube   	wirik	   3	   3
+tobo   	wiri 	   3	   3
+kate   	muru 	   4	   4
+mape   	iga  	   7	   7
+mesem  	osə  	   8	   8
+nabak  	arai 	  10	   2
+ono    	jato 	  11	  11
+#
+Concept: 1198_MANY, False Positives: no, False Negatives: yes
+borong 	mamagu    	   1	   1
+burum  	gâ/atpâ/ak	   2	   2
+dedua  	homak     	   3	   3
+kate   	bocjaha   	   4	   4
+mape   	boiaha    	   4	   7
+komba  	biwirâ/a  	   5	   5
+selepet	biwirâ/a  	   5	   5
+timbe  	biwirâ/a  	   5	   5
+kube   	sasara    	   6	   6
+mindik 	seseŋi    	   6	   6
+tobo   	sesia     	   6	   6
+mesem  	kirisi    	   8	   8
+nabak  	kilisik   	   8	   8
+ono    	louloutŋe 	  11	  11
+#
+Concept: 1202_BIG, False Positives: yes, False Negatives: no
+borong 	somata    	   1	   1
+burum  	ketaŋi    	   2	   2
+mindik 	ketaŋi    	   2	   2
+dedua  	kuneŋ     	   3	   3
+kube   	kuneŋ     	   3	   3
+kate   	kâ/acgbene	   4	   4
+komba  	patâ/a    	   5	   5
+selepet	pato      	   5	   5
+mape   	jasogo    	   7	   7
+mesem  	kəitṇ/n   	   8	   2
+nabak  	taemba    	  10	  10
+ono    	suaine    	  11	  11
+timbe  	humo      	  13	  13
+tobo   	baia      	  14	  14
+#
+Concept: 1203_LONG, False Positives: yes, False Negatives: yes
+borong 	koriga   	   1	   1
+dedua  	herea    	   1	   1
+kube   	horua    	   1	   1
+tobo   	kâ/arua  	   1	   1
+burum  	kâ/aripŋi	   1	   2
+komba  	kâ/arep  	   1	   2
+mindik 	kâ/aripŋi	   1	   2
+selepet	kâ/alip  	   1	   2
+timbe  	kâ/alip  	   1	   2
+ono    	kiroine  	   1	  11
+kate   	dzoricne 	   4	   4
+mape   	dzoraikne	   4	   4
+mesem  	kepṃ/m   	   8	   8
+nabak  	teːpməŋ  	  10	   8
+#
+Concept: 1205_TONGUE, False Positives: no, False Negatives: yes
+borong 	neselaŋ    	   1	   1
+burum  	neselam    	   1	   1
+kube   	edzeraŋ    	   1	   1
+mindik 	nesolam    	   1	   1
+tobo   	edzelâ/am  	   1	   1
+komba  	nâ/abâ/alam	   1	   5
+mesem  	nambalaŋ   	   1	   5
+nabak  	nambaram   	   1	   5
+selepet	nibilam    	   1	   5
+dedua  	nameŋ      	   3	   3
+kate   	nameŋ      	   3	   3
+mape   	erâ/aŋ     	   7	   7
+ono    	belakami   	  11	  11
+timbe  	elewot     	  13	  13
+#
+Concept: 1209_I, False Positives: yes, False Negatives: no
+borong 	ni  	   1	   1
+burum  	ni  	   1	   1
+dedua  	ni  	   1	   1
+kube   	ni  	   1	   1
+mindik 	ni  	   1	   1
+tobo   	ni  	   1	   1
+kate   	no  	   4	   1
+komba  	nâ/a	   4	   1
+mape   	no  	   4	   1
+mesem  	ną/a	   4	   1
+nabak  	nəŋ 	   4	   1
+ono    	nâ/a	   4	   1
+selepet	nâ/a	   4	   1
+timbe  	nâ/a	   4	   1
+#
+Concept: 1212_WE, False Positives: yes, False Negatives: no
+borong 	nono     	   1	   1
+kate   	ŋâ/aŋâ/ac	   1	   1
+mape   	ŋâ/aŋu   	   1	   1
+burum  	nini     	   2	   1
+dedua  	nini     	   2	   1
+komba  	nen      	   2	   1
+kube   	nini     	   2	   1
+mesem  	nį/i     	   2	   1
+mindik 	nini     	   2	   1
+nabak  	nin      	   2	   1
+selepet	nen      	   2	   1
+timbe  	nen      	   2	   1
+tobo   	nini     	   2	   1
+ono    	ŋedo     	  11	  11
+#
+Concept: 1214_THIS, False Positives: yes, False Negatives: yes
+borong 	i   	   1	   1
+dedua  	i   	   1	   1
+kube   	i   	   1	   1
+ono    	i   	   1	   1
+timbe  	i   	   1	   5
+burum  	ke  	   2	   2
+kate   	dzi 	   4	   4
+komba  	zi  	   4	   5
+mape   	â/ai	   7	   7
+mesem  	wi  	   8	   8
+mindik 	mu  	   9	   9
+tobo   	mu  	   9	   9
+nabak  	kapi	  10	  10
+selepet	ju  	  12	  12
+#
+Concept: 1215_THOU, False Positives: yes, False Negatives: no
+borong 	gi  	   1	   1
+burum  	gi  	   1	   1
+dedua  	ge  	   1	   1
+kube   	gi  	   1	   1
+mindik 	gi  	   1	   1
+ono    	ge  	   1	   1
+tobo   	gi  	   1	   1
+kate   	go  	   4	   1
+komba  	gâ/a	   4	   1
+mape   	go  	   4	   1
+mesem  	gą/a	   4	   1
+nabak  	gəŋ 	   4	   1
+selepet	gâ/a	   4	   1
+timbe  	gâ/a	   4	   1
+#
+Concept: 1216_MOTHER, False Positives: yes, False Negatives: yes
+borong 	maŋ     	   1	   1
+mindik 	namon   	   2	   1
+burum  	nam     	   2	   2
+komba  	mam     	   2	   2
+mesem  	mam     	   2	   2
+nabak  	mam     	   2	   2
+selepet	mâ/amâ/a	   2	  12
+timbe  	meme    	   2	  12
+dedua  	neŋgak  	   3	   3
+kate   	neŋgoc  	   3	   3
+kube   	neŋge   	   3	   3
+mape   	naŋgo   	   3	   3
+tobo   	naŋgi   	   3	   3
+ono    	naga    	  11	   3
+#
+Concept: 1217_FATHER, False Positives: yes, False Negatives: yes
+borong 	nemuŋ	   1	   1
+burum  	iwi  	   2	   2
+komba  	iwâ/a	   2	   2
+selepet	awâ/a	   2	   2
+timbe  	ewe  	   2	   2
+dedua  	mam  	   3	   3
+kate   	mamac	   3	   4
+mape   	mama 	   3	   4
+mindik 	mam  	   3	   6
+tobo   	mam  	   3	   6
+kube   	maŋgi	   6	   6
+mesem  	bip  	   8	   8
+nabak  	bip  	   8	   8
+ono    	maga 	  11	   6
+#
+Concept: 1218_ROPE, False Positives: yes, False Negatives: no
+borong 	dzowak 	   1	   1
+burum  	kisa   	   2	   2
+kube   	hisa   	   2	   2
+mindik 	kisa   	   2	   2
+dedua  	witik  	   3	   3
+kate   	muc    	   4	   4
+komba  	tâ/ak  	   5	   5
+mesem  	tək    	   5	   5
+timbe  	tâ/ak  	   5	   5
+mape   	niŋgiŋ 	   7	   7
+nabak  	dze    	  10	   1
+ono    	ranom  	  11	  11
+selepet	ip     	  12	  12
+tobo   	sâ/ahap	  14	  12
+#
+Concept: 1219_WORM, False Positives: yes, False Negatives: yes
+borong 	genambeŋ	   1	   1
+burum  	maŋgik  	   2	   2
+dedua  	gbosu   	   3	   3
+kate   	gbasu   	   3	   3
+kube   	gbosu   	   3	   3
+mape   	gbâ/asu 	   3	   3
+mindik 	gusu    	   3	   3
+ono    	boso    	   3	   3
+tobo   	gusu    	   3	   3
+komba  	guk     	   3	   5
+mesem  	gọ/o    	   8	   5
+timbe  	gipmaŋ  	   8	  13
+nabak  	gbik    	  10	  10
+selepet	wik     	  10	  10
+#
+Concept: 1220_TAIL, False Positives: yes, False Negatives: yes
+borong 	dzi 	   1	   1
+dedua  	dzi 	   1	   1
+kube   	dzi 	   1	   1
+mape   	dzi 	   1	   1
+tobo   	dzi 	   1	   1
+burum  	dai 	   1	   2
+komba  	daː 	   1	   2
+ono    	dai 	   1	   2
+kate   	gec 	   4	   4
+mesem  	dak 	   8	   2
+nabak  	dak 	   8	   2
+mindik 	lou 	   9	   9
+selepet	hape	  12	  12
+timbe  	dape	  12	  12
+#
+Concept: 1221_NOSE, False Positives: yes, False Negatives: yes
+borong 	sewaŋ        	   1	   1
+komba  	sâ/agâ/an    	   2	   1
+burum  	sâ/ahâ/arâ/a 	   2	   2
+mindik 	sâ/aŋgâ/arâ/a	   2	   2
+tobo   	sâ/ahâ/ari   	   2	   2
+dedua  	soge         	   3	   3
+kate   	sâ/ake       	   3	   3
+mape   	sikâ/a       	   3	   3
+kube   	sere         	   6	   2
+mesem  	siŋgeŋ       	   8	   3
+nabak  	ŋiŋəŋ        	  10	  10
+ono    	sot          	  11	  11
+selepet	hâ/ame       	  12	  12
+timbe  	hâ/ame       	  12	  12
+#
+Concept: 1223_HEART, False Positives: yes, False Negatives: no
+borong 	bakota       	   1	   1
+burum  	wel+bâ/at    	   2	   2
+mindik 	wel+bâ/at    	   2	   2
+tobo   	wei+bâ/at    	   2	   2
+dedua  	woso+honduŋ  	   3	   3
+kate   	bu+hâ/andâ/aŋ	   4	   4
+komba  	kabiam       	   5	   5
+selepet	kabiam       	   5	   5
+kube   	webogokme    	   6	   6
+mape   	maki+kâ/aruŋ 	   7	   7
+mesem  	wembə+kət    	   8	   8
+nabak  	gum+kət      	  10	   8
+ono    	kombaŋi      	  11	  11
+timbe  	okot         	  13	  13
+#
+Concept: 1233_NIGHT, False Positives: yes, False Negatives: no
+borong 	ketek   	   1	   1
+burum  	suŋgem  	   2	   2
+mindik 	suŋgem  	   2	   2
+dedua  	tofonak 	   3	   3
+kate   	ŋafe    	   4	   4
+komba  	ŋatik   	   5	   1
+kube   	siŋi    	   6	   6
+tobo   	siŋiaha 	   6	   6
+mape   	uwu     	   7	   7
+mesem  	mimba   	   8	   8
+nabak  	təmbujat	  10	  10
+ono    	ruwo    	  11	   7
+selepet	omoŋ    	  12	  12
+timbe  	hadâ/ak 	  13	   1
+#
+Concept: 1235_WHO, False Positives: no, False Negatives: yes
+borong 	moŋ    	   1	   1
+dedua  	moŋ    	   1	   1
+kube   	moŋ    	   1	   1
+tobo   	mâ/aŋ  	   1	   1
+kate   	moc    	   1	   4
+mape   	moc    	   1	   4
+burum  	kun    	   2	   2
+mindik 	kâ/an  	   2	   2
+komba  	ŋâ/ai  	   5	   5
+mesem  	ala    	   8	   8
+selepet	â/alâ/a	   8	   8
+nabak  	kureki 	  10	  10
+ono    	mane   	  11	  11
+timbe  	kiâ/a  	  13	  13
+#
+Concept: 1236_WHAT, False Positives: yes, False Negatives: yes
+borong 	namuŋak 	   1	   1
+burum  	wania   	   2	   2
+mesem  	wana    	   2	   2
+komba  	wan     	   2	   5
+selepet	wuâ/an  	   2	   5
+timbe  	wan     	   2	   5
+dedua  	dafi    	   3	   3
+kate   	wemo    	   4	   4
+mape   	wamo    	   4	   4
+kube   	nemak   	   6	   1
+tobo   	nâ/amat 	   6	   1
+mindik 	nâ/awâ/a	   9	   9
+nabak  	pitne   	  10	  10
+ono    	onoka   	  11	  11
+#
+Concept: 1237_WHERE, False Positives: yes, False Negatives: no
+borong 	daːŋeŋ 	   1	   1
+burum  	deneke 	   2	   2
+mesem  	dene   	   2	   2
+mindik 	denoke 	   2	   2
+nabak  	den    	   2	   2
+dedua  	dahae  	   3	   3
+kate   	wena   	   4	   1
+komba  	wanâ/an	   5	   1
+selepet	wonâ/an	   5	   1
+timbe  	wanâ/an	   5	   1
+kube   	dimia  	   6	   6
+ono    	dia    	   6	   6
+tobo   	dumua  	   6	   6
+mape   	uroː   	   7	   7
+#
+Concept: 1239_HOW, False Positives: yes, False Negatives: no
+borong 	nomaiŋ     	   1	   1
+burum  	denep      	   2	   2
+mindik 	denowo     	   2	   2
+dedua  	dafi       	   3	   3
+kate   	weniŋuc    	   4	   4
+komba  	ikâ/ai+azo 	   5	   5
+kube   	deik       	   6	   6
+mape   	uriŋu      	   7	   7
+mesem  	disi       	   8	   8
+nabak  	dzigok     	  10	  10
+ono    	daleo      	  11	   3
+selepet	gira       	  12	  12
+timbe  	gain+hinare	  13	  13
+tobo   	dasoŋ      	  14	   8
+#
+Concept: 1240_NOT, False Positives: yes, False Negatives: no
+borong 	mende    	   1	   1
+kube   	munda    	   1	   1
+tobo   	mâ/andâ/a	   1	   1
+burum  	kpahâ/ap 	   2	   2
+mindik 	kpaho    	   2	   2
+dedua  	mi       	   3	   3
+kate   	mi       	   3	   3
+komba  	mâ/a     	   3	   3
+ono    	mi       	   3	   3
+mape   	so       	   7	   7
+mesem  	kəm      	   8	   8
+nabak  	ku       	  10	   8
+selepet	ki       	  10	   8
+timbe  	bo       	  13	  13
+#
+Concept: 1241_SOME, False Positives: yes, False Negatives: no
+borong 	tosi   	   1	   1
+burum  	tosat  	   1	   1
+kube   	tose   	   1	   1
+mindik 	tosat  	   1	   1
+tobo   	tosat  	   1	   1
+dedua  	go     	   3	   3
+kate   	gâ/ac  	   3	   3
+mape   	gâ/a   	   3	   3
+komba  	nâ/abut	   5	   5
+selepet	nobot  	   5	   5
+mesem  	but    	   8	   5
+nabak  	not    	  10	   5
+ono    	nat    	  11	   5
+timbe  	bik    	  13	  13
+#
+Concept: 1246_SMALL, False Positives: yes, False Negatives: no
+borong 	meraːk    	   1	   1
+burum  	moroŋi    	   2	   2
+dedua  	kapia     	   3	   3
+kate   	piticne   	   4	   4
+komba  	mâ/aiktâ/a	   5	   5
+kube   	komoga    	   6	   6
+mindik 	komokŋi   	   6	   6
+tobo   	komora    	   6	   6
+mape   	mendakne  	   7	   2
+mesem  	namzi     	   8	   8
+nabak  	isikŋen   	  10	  10
+ono    	nigatne   	  11	  11
+selepet	tipiŋe    	  12	  12
+timbe  	bâ/aleŋe  	  13	   4
+#
+Concept: 1247_EAR, False Positives: yes, False Negatives: yes
+borong 	gedza   	   1	   1
+dedua  	hedza   	   1	   1
+kube   	gedza   	   1	   1
+mape   	kadze   	   1	   1
+burum  	ketsap  	   1	   2
+komba  	kidap   	   1	   2
+mindik 	ketsap  	   1	   2
+tobo   	kesap   	   1	   2
+kate   	hatsec  	   1	   4
+ono    	ket     	   1	  11
+mesem  	bəbət   	   8	   8
+nabak  	wak     	  10	  10
+selepet	â/adâ/ap	  12	   2
+timbe  	â/adâ/ap	  12	   2
+#
+Concept: 1248_EYE, False Positives: yes, False Negatives: yes
+borong 	dzaː   	   1	   1
+burum  	dze    	   1	   1
+mesem  	dzi    	   1	   1
+mindik 	dze    	   1	   1
+nabak  	dzi    	   1	   1
+komba  	si     	   1	   5
+selepet	sen    	   1	   5
+ono    	dei    	   1	  11
+dedua  	kiwa   	   3	   3
+kube   	kiwa   	   3	   3
+kate   	dzâ/aŋe	   4	   1
+mape   	dziŋâ/a	   4	   1
+timbe  	dewun  	  13	  13
+tobo   	kpat   	  14	  14
+#
+Concept: 1251_BELLY, False Positives: yes, False Negatives: no
+borong 	keri     	   1	   1
+dedua  	kera     	   1	   1
+tobo   	kerap    	   1	   1
+burum  	gâ/alâ/am	   2	   2
+kate   	bu       	   4	   4
+komba  	tip      	   5	   5
+mesem  	tip      	   5	   5
+nabak  	tip      	   5	   5
+selepet	tep      	   5	   5
+timbe  	tep      	   5	   5
+kube   	tomeŋ    	   6	   6
+mape   	ata      	   7	   7
+mindik 	irip     	   9	   1
+ono    	kai      	  11	  11
+#
+Concept: 1256_HEAD, False Positives: yes, False Negatives: yes
+borong 	osoga   	   1	   1
+burum  	noruk   	   2	   2
+mindik 	noruk   	   2	   2
+tobo   	norok   	   2	   2
+dedua  	fufu    	   3	   3
+kate   	kpitsec 	   4	   4
+komba  	kauk    	   5	   5
+timbe  	kaut    	   5	   5
+kube   	ogu     	   6	   6
+mape   	kpâ/aru 	   7	   7
+mesem  	nok     	   8	   2
+nabak  	ŋokandzi	  10	  10
+selepet	kun     	  10	  12
+ono    	lewit   	  11	  11
+#
+Concept: 1257_WING, False Positives: yes, False Negatives: yes
+borong 	eŋgaŋ        	   1	   1
+dedua  	kpegaŋ       	   1	   3
+kube   	kpegan       	   1	   3
+selepet	pegam        	   1	   3
+tobo   	kpegam       	   1	   3
+burum  	gingin       	   2	   1
+mindik 	gingin       	   2	   1
+kate   	fakec        	   4	   4
+komba  	awâ/at       	   5	   5
+mape   	gbewâ/a      	   7	   7
+mesem  	kpogo        	   8	   3
+nabak  	pɔp          	  10	  10
+ono    	gbimgiliu    	  11	  11
+timbe  	bâ/abâ/alâ/am	  13	  13
+#
+Concept: 1262_BROTHER, False Positives: no, False Negatives: yes
+borong 	dat  	   1	   1
+burum  	dat  	   1	   1
+mesem  	dat  	   1	   1
+mindik 	dat  	   1	   1
+nabak  	dat  	   1	   1
+ono    	tat  	   1	   1
+tobo   	dat  	   1	   1
+dedua  	dar  	   1	   3
+kube   	dar  	   1	   3
+kate   	hahac	   4	   4
+mape   	kaka 	   4	   4
+komba  	ata  	   5	   5
+selepet	ata  	   5	   5
+timbe  	teu  	  13	  13
+#
+Concept: 1263_SISTER, False Positives: yes, False Negatives: no
+borong 	naːŋ 	   1	   1
+kube   	naoŋ 	   1	   1
+tobo   	nauŋ 	   1	   1
+burum  	nen  	   2	   1
+mindik 	nen  	   2	   1
+dedua  	nawiŋ	   3	   1
+kate   	seŋ  	   4	   4
+mape   	seŋ  	   4	   4
+komba  	uru  	   5	   5
+mesem  	lip  	   8	   8
+nabak  	ip   	   8	   8
+ono    	kiari	  11	  11
+selepet	tou  	  12	  12
+timbe  	tâ/au	  12	  12
+#
+Concept: 1278_VOMIT, False Positives: yes, False Negatives: no
+borong 	lon   	   1	   1
+burum  	lon   	   1	   1
+kube   	ron   	   1	   1
+mindik 	lon   	   1	   1
+tobo   	lon   	   1	   1
+dedua  	urun  	   3	   1
+kate   	maŋu  	   4	   4
+komba  	mohat 	   5	   5
+selepet	mohat 	   5	   5
+timbe  	muhat 	   5	   5
+mape   	giwu  	   7	   7
+mesem  	nua   	   8	   8
+nabak  	okdzi 	  10	  10
+ono    	madogi	  11	  11
+#
+Concept: 1280_FALL, False Positives: yes, False Negatives: no
+borong 	kamaː	   1	   1
+burum  	he   	   2	   2
+mindik 	he   	   2	   2
+dedua  	ma   	   3	   1
+kube   	ma   	   3	   1
+tobo   	ma   	   3	   1
+kate   	waha 	   4	   4
+mape   	waki 	   4	   4
+komba  	lokgi	   5	   5
+mesem  	kao  	   8	   8
+nabak  	todzi	  10	  10
+ono    	keti 	  11	  11
+selepet	kioŋ 	  12	   8
+timbe  	gi   	  13	   8
+#
+Concept: 1287_COLD, False Positives: yes, False Negatives: no
+borong 	oloŋa      	   1	   1
+burum  	dziŋim     	   2	   2
+dedua  	moteŋa     	   3	   3
+kate   	mâ/ateŋne  	   3	   3
+mape   	mâ/ateŋne  	   3	   3
+komba  	pâ/ateŋ    	   5	   5
+kube   	sageŋa     	   6	   6
+tobo   	saŋgeŋ     	   6	   6
+mesem  	takəŋ      	   8	   8
+mindik 	hamotŋi    	   9	   3
+nabak  	bakŋəŋ     	  10	   8
+ono    	momoine    	  11	  11
+selepet	bâ/alâ/apŋe	  12	   1
+timbe  	bâ/alâ/apŋe	  12	   1
+#
+Concept: 1313_MOON, False Positives: no, False Negatives: yes
+borong 	koiŋ                          	   1	   1
+burum  	kain                          	   1	   1
+komba  	kain                          	   1	   1
+mindik 	kaiŋ                          	   1	   1
+dedua  	afo                           	   3	   3
+kate   	mosa                          	   4	   4
+mape   	mosa                          	   4	   4
+ono    	meso                          	   4	   4
+kube   	komoŋ                         	   6	   6
+tobo   	kombol                        	   6	  14
+mesem  	əjoŋga                        	   8	   8
+nabak  	ejoŋge                        	   8	   8
+selepet	emesenŋe                      	  12	  12
+timbe  	dewutâ/a+hâ/adâ/ahâ/an+gâ/atŋe	  13	  13
+#
+Concept: 1333_NECK, False Positives: no, False Negatives: yes
+borong 	are     	   1	   1
+burum  	dzâ/al  	   2	   2
+mindik 	dzâ/al  	   2	   2
+tobo   	dzel    	   2	   2
+dedua  	ube     	   3	   3
+kate   	upe     	   3	   3
+mape   	ube     	   3	   3
+ono    	ebi     	   3	   3
+selepet	obe     	   3	  12
+komba  	gâ/adu  	   5	   5
+kube   	ebasigla	   6	   6
+mesem  	andeŋ   	   8	   8
+nabak  	ŋande   	   8	   8
+timbe  	han     	  13	  13
+#
+Concept: 1335_WHITE, False Positives: no, False Negatives: yes
+borong 	tataːŋkota	   1	   1
+burum  	tuatŋi    	   2	   2
+mindik 	toatŋi    	   2	   2
+dedua  	koŋak     	   3	   3
+kate   	kapŋ+kapŋ 	   4	   4
+mape   	kapŋ+kapŋ 	   4	   4
+komba  	kau+kau   	   5	   5
+selepet	kaok      	   5	  12
+timbe  	kau       	   5	  12
+kube   	rarak     	   6	   6
+tobo   	lalap     	   6	   6
+mesem  	sagatṇ/n  	   8	   8
+nabak  	satnəŋ    	   8	   8
+ono    	libeka    	  11	  11
+#
+Concept: 1343_SUN, False Positives: yes, False Negatives: yes
+borong 	weːŋ     	   1	   1
+mindik 	wehon    	   2	   1
+burum  	welgâ/an 	   2	   2
+dedua  	wonak    	   3	   3
+kate   	dzoaŋ    	   4	   4
+komba  	mirâ/asiŋ	   5	   5
+kube   	kaiwe    	   6	   6
+ono    	kaiwe    	   6	   6
+tobo   	kaiwe    	   6	   6
+mape   	wegi     	   7	   7
+mesem  	kəsu     	   8	   8
+nabak  	kəsuk    	  10	   8
+selepet	dewutâ/a 	  12	  12
+timbe  	poiap    	  13	  13
+#
+Concept: 1355_LAUGH, False Positives: yes, False Negatives: no
+borong 	dzomo    	   1	   1
+dedua  	dzomore  	   1	   1
+burum  	gisihi   	   2	   2
+tobo   	gisihi   	   2	   2
+kate   	gâ/awie  	   4	   4
+mape   	goweː    	   4	   4
+komba  	girâ/aŋ  	   5	   5
+selepet	giriŋ    	   5	   5
+timbe  	giriŋ    	   5	   5
+kube   	desi     	   6	   6
+mesem  	jəjən    	   8	   8
+mindik 	botakâ/al	   9	   9
+nabak  	jəindzi  	  10	  10
+ono    	teni     	  11	   6
+#
+Concept: 1371_KNEE, False Positives: yes, False Negatives: no
+borong 	simiŋ     	   1	   1
+burum  	simin     	   1	   1
+komba  	simin     	   1	   1
+kube   	simiŋ     	   1	   1
+mindik 	simin     	   1	   1
+tobo   	simin     	   1	   1
+dedua  	fakuruŋ   	   3	   3
+kate   	dieŋ      	   4	   4
+mape   	dieŋ      	   4	   4
+mesem  	kpekakpatə	   8	   8
+nabak  	kpet      	  10	  10
+ono    	wawet     	  11	  11
+selepet	pawut     	  12	  10
+timbe  	pawut     	  12	  10
+#
+Concept: 1380_TOOTH, False Positives: yes, False Negatives: no
+borong 	dzot   	   1	   1
+burum  	dzit   	   1	   1
+komba  	sâ/at  	   1	   1
+kube   	dzegl  	   1	   1
+mesem  	dzət   	   1	   1
+mindik 	dzâ/at 	   1	   1
+nabak  	dzet   	   1	   1
+selepet	sâ/at  	   1	   1
+timbe  	dâ/at  	   1	   1
+tobo   	dzâ/at 	   1	   1
+dedua  	enar   	   3	   3
+kate   	mic    	   4	   4
+mape   	misiâ/a	   7	   4
+ono    	ŋet    	  11	   3
+#
+Concept: 1394_BONE, False Positives: no, False Negatives: yes
+borong 	siːta  	   1	   1
+dedua  	sir    	   1	   1
+mesem  	siet   	   1	   1
+ono    	set    	   1	   1
+burum  	sihit  	   1	   2
+mindik 	sihit  	   1	   2
+selepet	hahit  	   1	   2
+timbe  	hahit  	   1	   2
+tobo   	sihit  	   1	   2
+kate   	siec   	   1	   4
+mape   	siak   	   1	   4
+kube   	sigl   	   1	   6
+komba  	tâ/an  	   5	   5
+nabak  	kandziŋ	  10	  10
+#
+Concept: 1395_ROUND, False Positives: yes, False Negatives: yes
+borong 	lilik+lilik        	   1	   1
+kube   	rerek+rerek        	   1	   1
+mindik 	lilik+lilik        	   1	   1
+ono    	lolik+lolik        	   1	   1
+burum  	lambâ/a            	   2	   2
+dedua  	orâ/aŋ             	   3	   3
+mape   	oːrâ/aŋ            	   3	   3
+kate   	orâ/aŋ+orâ/aŋ      	   3	   4
+tobo   	koroŋ+koroŋ        	   3	   4
+komba  	gawâ/aŋ+gawâ/aŋ    	   5	   4
+selepet	gâ/awâ/aŋ+gâ/awâ/aŋ	   5	   4
+timbe  	gâ/awâ/aŋ+gâ/awâ/aŋ	   5	   4
+mesem  	waragən            	   8	   8
+nabak  	kililiŋ            	  10	  10
+#
+Concept: 1397_DULL, False Positives: yes, False Negatives: no
+borong 	dzitakpaːk     	   1	   1
+kube   	dzirakpahak    	   1	   1
+tobo   	dzerakpa       	   1	   1
+burum  	mâ/ahâ/amŋi    	   2	   2
+dedua  	enarakpak      	   3	   1
+kate   	mic+mâ/aŋ      	   4	   4
+komba  	palâ/amŋâ/a    	   5	   5
+selepet	pâ/alâ/amŋe    	   5	   5
+timbe  	pâ/alâ/amŋe    	   5	   5
+mape   	kimâ/aŋine     	   7	   7
+mesem  	kokŋ+kpiəkṇ/n  	   8	   8
+mindik 	dzâ/atbâ/atâ/am	   9	   9
+nabak  	kugepin        	  10	  10
+ono    	ŋetŋemidaine   	  11	  11
+#
+Concept: 1403_BITE, False Positives: no, False Negatives: yes
+borong 	ki      	   1	   1
+dedua  	ki      	   1	   1
+kate   	ki      	   1	   1
+kube   	ki      	   1	   1
+mape   	ki      	   1	   1
+ono    	ki      	   1	   1
+tobo   	ki      	   1	   1
+burum  	jâ/ahâ/a	   2	   2
+mindik 	jâ/ahâ/a	   2	   2
+komba  	zihi    	   2	   5
+selepet	ihi     	   2	   5
+timbe  	ihi     	   2	   5
+nabak  	i       	   2	  10
+mesem  	je      	   8	   8
+#
+Concept: 1405_NAME, False Positives: yes, False Negatives: no
+borong 	dzakota	   1	   1
+nabak  	dzikət 	   1	   1
+burum  	kpet   	   2	   2
+dedua  	kiwa   	   3	   3
+kube   	kiwa   	   3	   3
+tobo   	kiwa   	   3	   3
+kate   	dzâ/ane	   4	   4
+mape   	dziŋâ/a	   4	   4
+komba  	kut    	   5	   2
+mesem  	kot    	   5	   2
+selepet	kut    	   5	   2
+timbe  	kot    	   5	   2
+mindik 	kurap  	   9	   9
+ono    	dei    	  11	  11
+#
+Concept: 1409_SEE, False Positives: yes, False Negatives: no
+borong 	niː    	   1	   1
+kube   	ni     	   1	   1
+nabak  	ni     	   1	   1
+burum  	nek    	   2	   1
+komba  	nek    	   2	   1
+mindik 	nek    	   2	   1
+selepet	nek    	   2	   1
+timbe  	nek    	   2	   1
+dedua  	nen    	   3	   1
+ono    	nan    	   3	   1
+tobo   	nen    	   3	   1
+kate   	honecnu	   4	   4
+mape   	ŋonenu 	   4	   4
+mesem  	nəgəi  	   8	   1
+#
+Concept: 1410_KNOW_SOMETHING, False Positives: yes, False Negatives: no
+borong 	mo      	   1	   1
+burum  	ma      	   1	   1
+mindik 	mo      	   1	   1
+dedua  	negen   	   3	   3
+kate   	mana    	   4	   1
+mape   	mane    	   4	   1
+komba  	naga    	   5	   3
+mesem  	niŋge   	   5	   3
+selepet	naga    	   5	   3
+timbe  	nâ/agâ/a	   5	   3
+kube   	nin     	   6	   6
+tobo   	nin     	   6	   6
+nabak  	nɔi     	  10	  10
+ono    	deri    	  11	  11
+#
+Concept: 1413_PLAY, False Positives: yes, False Negatives: no
+borong 	aoŋgolok   	   1	   1
+mindik 	aŋgolat    	   1	   1
+burum  	mâ/anahâ/at	   2	   2
+dedua  	ariak      	   3	   3
+kube   	agliak     	   3	   3
+tobo   	ariat      	   3	   3
+kate   	mamasiri   	   4	   4
+komba  	sero       	   5	   5
+mape   	masiriga   	   7	   4
+mesem  	dzəgodzə   	   8	   8
+nabak  	kpep       	  10	  10
+ono    	gbat       	  11	  11
+selepet	heŋ        	  12	  12
+timbe  	hâ/alimak  	  13	  13
+#
+Concept: 1416_SIT, False Positives: no, False Negatives: yes
+borong 	ra  	   1	   1
+burum  	ta  	   1	   2
+dedua  	tak 	   1	   2
+komba  	ta  	   1	   2
+kube   	tak 	   1	   2
+mesem  	ta  	   1	   2
+mindik 	ta  	   1	   2
+nabak  	ta  	   1	   2
+selepet	ta  	   1	   2
+timbe  	ta  	   1	   2
+tobo   	ta  	   1	   2
+kate   	ŋe  	   4	   4
+mape   	ŋe  	   4	   4
+ono    	meri	  11	  11
+#
+Concept: 1418_DIG, False Positives: yes, False Negatives: no
+borong 	toguŋken	   1	   1
+burum  	etso    	   2	   2
+mindik 	etso    	   2	   2
+dedua  	usu     	   3	   3
+kate   	wise    	   3	   3
+mape   	use     	   3	   3
+komba  	keda    	   5	   5
+timbe  	kendâ/a 	   5	   5
+kube   	oro     	   6	   6
+mesem  	lo      	   8	   8
+nabak  	kiŋgadzi	  10	  10
+ono    	kepikito	  11	  11
+selepet	ai      	  12	  12
+tobo   	asâ/a   	  14	   3
+#
+Concept: 1420_COUNT, False Positives: yes, False Negatives: yes
+borong 	weːŋgo     	   1	   1
+burum  	ojen       	   2	   2
+kube   	oron       	   2	   2
+mindik 	ojon       	   2	   2
+timbe  	ojaŋ       	   2	   2
+tobo   	ojon       	   2	   2
+dedua  	â/aso      	   3	   3
+mape   	â/ase      	   3	   3
+kate   	wose       	   3	   4
+komba  	sâ/alâ/apku	   5	   5
+selepet	sâ/aliku   	   5	   5
+mesem  	usun       	   8	   3
+nabak  	makundzi   	  10	  10
+ono    	dapori     	  11	  11
+#
+Concept: 1421_SUCK, False Positives: yes, False Negatives: yes
+borong 	bugo    	   1	   1
+burum  	bobok   	   2	   1
+dedua  	abere   	   3	   3
+kate   	apuru   	   4	   3
+komba  	musuku  	   5	   5
+ono    	muzuluki	   5	   5
+selepet	musuku  	   5	   5
+timbe  	musuku  	   5	   5
+mindik 	botso   	   6	   1
+kube   	bitsi   	   6	   6
+tobo   	bitsi   	   6	  14
+mape   	mudugaː 	   7	   7
+mesem  	bəsə    	   8	   8
+nabak  	bəsəi   	   8	   8
+#
+Concept: 1424_YELLOW, False Positives: yes, False Negatives: no
+borong 	gogoːkota  	   1	   1
+burum  	gohotŋi    	   1	   1
+dedua  	dzagea     	   3	   3
+kate   	bâ/aŋeŋne  	   4	   4
+mape   	boboŋeŋ    	   4	   4
+komba  	gibaŋ+gibaŋ	   5	   5
+selepet	gibaŋ      	   5	   5
+timbe  	gibaŋ      	   5	   5
+kube   	gbaok+gbaok	   6	   6
+tobo   	gbaot+gbaot	   6	   6
+mesem  	alaŋ       	   8	   8
+nabak  	araraŋ     	   8	   8
+mindik 	gibaŋi     	   9	   5
+ono    	jaŋaike    	  11	  11
+#
+Concept: 1425_GREEN, False Positives: yes, False Negatives: yes
+borong 	asoŋ+asoŋ            	   1	   1
+tobo   	asoŋa                	   1	  14
+burum  	gâ/arâ/akŋi          	   2	   2
+dedua  	â/arâ/aŋbâ/arik      	   3	   3
+kate   	â/arâ/aŋbâ/aric      	   3	   3
+komba  	wâ/ahâ/an+wâ/ahâ/an  	   5	   5
+kube   	gerik+meria          	   6	   6
+mape   	buge                 	   7	   7
+mesem  	kokŋ                 	   8	   2
+mindik 	tâ/aŋgâ/an+tâ/aŋgâ/an	   9	   5
+nabak  	araŋəŋ               	  10	  10
+ono    	wisika               	  11	  11
+selepet	golâ/a               	  12	  12
+timbe  	golâ/a               	  12	  12
+#
+Concept: 1429_FULL, False Positives: yes, False Negatives: no
+borong 	saː+kpe    	   1	   1
+burum  	kokolak+kpe	   2	   2
+mindik 	koko+kpe   	   2	   2
+dedua  	wake       	   3	   3
+kate   	fuse       	   4	   4
+mape   	fuse       	   4	   4
+komba  	pik        	   5	   5
+selepet	pik        	   5	   5
+timbe  	pik        	   5	   5
+kube   	koia+kpe   	   6	   2
+tobo   	kâ/aia+kpe 	   6	   2
+mesem  	dzədzə+ko  	   8	   8
+nabak  	dzedze+kpe 	   8	   8
+ono    	watgi      	  11	   3
+#
+Concept: 1432_CUT, False Positives: yes, False Negatives: no
+borong 	koto        	   1	   1
+burum  	â/arâ/aŋgâ/a	   2	   2
+dedua  	herege      	   3	   3
+kube   	heri        	   3	   3
+tobo   	kâ/ari      	   3	   3
+kate   	hetâ/acne   	   4	   4
+komba  	mâ/anâ/aga  	   5	   5
+mape   	ketikga     	   7	   7
+mesem  	lanti       	   8	   8
+mindik 	kpiti       	   9	   1
+nabak  	eti         	  10	  10
+ono    	kitot       	  11	   1
+selepet	hâ/are      	  12	   3
+timbe  	hâ/ari      	  12	   3
+#
+Concept: 1440_SPIT, False Positives: yes, False Negatives: no
+borong 	sulaːk   	   1	   1
+burum  	sâ/awâ/at	   2	   2
+mindik 	sâ/awâ/at	   2	   2
+dedua  	sofok    	   3	   3
+kate   	tâ/afec  	   3	   3
+kube   	sofok    	   3	   3
+mape   	tifak    	   3	   3
+komba  	tâ/ap    	   5	   5
+selepet	tâ/ap    	   5	   5
+mesem  	dzətupa  	   8	   8
+nabak  	dzawak   	  10	   3
+ono    	mŋekat   	  11	  11
+timbe  	tâ/awut  	  13	   2
+tobo   	sotkâ/an 	  14	  14
+#
+Concept: 1446_COME, False Positives: yes, False Negatives: no
+borong 	waː 	   1	   1
+burum  	ka  	   2	   2
+komba  	ga  	   2	   2
+mindik 	ka  	   2	   2
+selepet	ga  	   2	   2
+timbe  	gu  	   2	   2
+tobo   	ka  	   2	   2
+dedua  	ere 	   3	   3
+kube   	ere 	   3	   3
+kate   	wefu	   4	   4
+mape   	wape	   7	   7
+mesem  	ko  	   8	   2
+nabak  	kpe 	  10	  10
+ono    	sa  	  11	  11
+#
+Concept: 1447_GIVE, False Positives: yes, False Negatives: yes
+borong 	non  	   1	   1
+dedua  	nen  	   1	   1
+kube   	nen  	   1	   1
+ono    	nin  	   1	   1
+tobo   	nem  	   1	   1
+burum  	niŋgi	   2	   1
+mindik 	niŋgi	   2	   1
+timbe  	niŋ  	   2	   1
+komba  	nih  	   2	   5
+selepet	nihi 	   2	   8
+kate   	nare 	   4	   1
+mape   	nare 	   4	   1
+mesem  	naka 	   8	   8
+nabak  	nai  	  10	   8
+#
+Concept: 1452_PUSH, False Positives: yes, False Negatives: no
+borong 	kpetanoke	   1	   1
+burum  	kpetalian	   2	   1
+dedua  	tuŋge    	   3	   3
+kate   	tuŋke    	   3	   3
+mape   	tuŋga    	   3	   3
+komba  	maːti    	   5	   5
+kube   	igokge   	   6	   6
+mesem  	otəgə    	   8	   8
+mindik 	meakpo   	   9	   9
+nabak  	ɔtɔpe    	  10	   8
+ono    	bira     	  11	  11
+selepet	hâ/apun  	  12	  12
+timbe  	hokok    	  13	  13
+tobo   	kpeati   	  14	   1
+#
+Concept: 1453_WASH, False Positives: yes, False Negatives: no
+borong 	soŋgbaŋ 	   1	   1
+burum  	soŋgaŋ  	   1	   1
+komba  	sâ/agon 	   1	   1
+mindik 	soŋgaŋ  	   1	   1
+dedua  	dzuak   	   3	   3
+kube   	dzuak   	   3	   3
+tobo   	dzua    	   3	   3
+kate   	dzure   	   4	   3
+mape   	kedzure 	   4	   3
+mesem  	əli     	   8	   8
+nabak  	dzurudzi	  10	  10
+ono    	sauk    	  11	  11
+selepet	puri    	  12	  12
+timbe  	puli    	  12	  12
+#
+Concept: 1455_PULL, False Positives: yes, False Negatives: yes
+borong 	oro      	   1	   1
+burum  	arâ/a    	   1	   1
+mindik 	hâ/arâ/a 	   1	   1
+ono    	woraŋ    	   1	   4
+komba  	oloŋ     	   1	   5
+timbe  	oloŋak   	   1	   5
+dedua  	tae      	   3	   3
+kate   	fâ/are   	   4	   4
+mape   	furuga   	   4	   4
+kube   	fegle    	   6	   6
+mesem  	menda    	   8	   8
+nabak  	mandai   	   8	   8
+selepet	dâ/ai    	  12	   3
+tobo   	mâ/asâ/al	  14	  14
+#
+Concept: 1456_THROW, False Positives: yes, False Negatives: no
+borong 	mesao  	   1	   1
+mindik 	moso   	   1	   1
+burum  	gilian 	   2	   2
+dedua  	wa     	   3	   3
+kube   	wai    	   3	   3
+tobo   	wai    	   3	   3
+kate   	behe   	   4	   4
+komba  	pan    	   5	   5
+mape   	wâ/ake 	   7	   4
+mesem  	kətipe 	   8	   8
+nabak  	kətimpe	   8	   8
+ono    	gbeligi	  11	  11
+selepet	pila   	  12	  12
+timbe  	hepu   	  13	  13
+#
+Concept: 1457_SEW, False Positives: yes, False Negatives: yes
+borong 	euŋme    	   1	   1
+burum  	ume      	   1	   1
+mindik 	ume      	   1	   1
+dedua  	kpebi    	   3	   3
+kube   	kpewi    	   3	   3
+kate   	gbâ/atâ/a	   4	   4
+mape   	gbâ/aru  	   4	   4
+ono    	gbetut   	   4	  11
+komba  	gare     	   5	   4
+selepet	gâ/are   	   5	   4
+mesem  	osə      	   8	   8
+nabak  	ou       	  10	  10
+timbe  	parut    	  13	  11
+tobo   	kpali    	  14	   4
+#
+Concept: 1458_SAY, False Positives: yes, False Negatives: yes
+borong 	dzo 	   1	   1
+burum  	dzi 	   1	   1
+dedua  	de  	   1	   1
+kube   	dze 	   1	   1
+mesem  	dzə 	   1	   1
+mindik 	dzi 	   1	   1
+nabak  	dzei	   1	   1
+tobo   	dzi 	   1	   1
+komba  	s   	   1	   5
+selepet	j   	   1	   5
+kate   	mu  	   4	   4
+mape   	mi  	   4	   4
+ono    	ra  	  11	  11
+timbe  	ma  	  13	   4
+#
+Concept: 1489_CLOUD, False Positives: yes, False Negatives: no
+borong 	koːsuk 	   1	   1
+burum  	kousu  	   1	   1
+kube   	hosesu 	   1	   1
+mindik 	kousu  	   1	   1
+tobo   	kosu   	   1	   1
+dedua  	kurumeŋ	   3	   3
+kate   	karorac	   4	   4
+komba  	sasa   	   5	   5
+mape   	gâ/aweŋ	   7	   7
+mesem  	kumbu  	   8	   8
+nabak  	dzandza	  10	   5
+ono    	kezoŋ  	  11	   1
+selepet	elem   	  12	  12
+timbe  	hamadat	  13	  13
+#
+Concept: 1493_ONE, False Positives: yes, False Negatives: yes
+borong 	motoːŋgok	   1	   1
+burum  	mohot    	   2	   2
+tobo   	mohok    	   2	   2
+dedua  	mokgu    	   3	   3
+kube   	momakgu  	   3	   3
+kate   	mocjaha  	   3	   4
+mindik 	mokuŋ    	   3	   7
+komba  	kâ/anok  	   5	   5
+selepet	konok    	   5	   5
+timbe  	kâ/anok  	   5	   5
+mape   	mokotoŋ  	   7	   7
+mesem  	kpedzi   	   8	   8
+nabak  	kpep     	   8	   8
+ono    	weku     	  11	  11
+#
+Concept: 1498_TWO, False Positives: no, False Negatives: yes
+borong 	woik     	   1	   1
+mindik 	wâ/ait   	   1	   1
+burum  	jahat    	   2	   2
+komba  	zâ/ahâ/at	   2	   2
+selepet	jâ/ahâ/ap	   2	   2
+kube   	rehek    	   2	   6
+tobo   	râ/ahâ/at	   2	   6
+dedua  	johokaŋ  	   3	   3
+kate   	jajahec  	   3	   4
+mape   	jojokak  	   3	   4
+mesem  	dzeba    	   8	   8
+nabak  	dzut     	  10	  10
+ono    	etke     	  11	  11
+timbe  	lâ/auwâ/a	  13	  13
+#
+Concept: 1507_FRUIT, False Positives: yes, False Negatives: yes
+borong 	oŋ       	   1	   1
+burum  	lâ/awâ/at	   2	   2
+dedua  	forak    	   3	   3
+kate   	fâ/aric  	   3	   3
+mape   	fâ/aik   	   3	   3
+kube   	fer      	   3	   6
+komba  	bon      	   5	   5
+selepet	bon      	   5	   5
+timbe  	bun      	   5	   5
+mesem  	kpən     	   8	   5
+nabak  	kpənəŋ   	   8	   5
+mindik 	hâ/al    	   9	   9
+tobo   	hal      	   9	   9
+ono    	wele     	  11	  11
+#
+Concept: 1554_MAN, False Positives: no, False Negatives: yes
+borong 	edzak 	   1	   1
+burum  	atsi  	   2	   2
+dedua  	ŋik   	   3	   3
+kate   	ŋic   	   3	   3
+mape   	ŋik   	   3	   3
+ono    	ŋei   	   3	   3
+kube   	ik    	   3	   6
+tobo   	ip    	   3	   6
+komba  	a     	   5	   5
+mesem  	ą/a   	   5	   5
+nabak  	an    	   5	   5
+mindik 	aiwi  	   9	   9
+selepet	lok   	  12	  12
+timbe  	luâ/ak	  12	  12
+#
+Concept: 156_RED, False Positives: yes, False Negatives: no
+borong 	osoga      	   1	   1
+burum  	pisikŋi    	   2	   1
+kube   	pesia      	   2	   1
+mindik 	pâ/asikŋi  	   2	   1
+tobo   	pâ/asâ/aha 	   2	   1
+dedua  	sak+sak    	   3	   3
+kate   	bâ/abâ/aroŋ	   4	   4
+mape   	bâ/abâ/aroŋ	   4	   4
+komba  	kuriŋ      	   5	   5
+selepet	kuriŋ      	   5	   5
+mesem  	kukŋ       	   8	   8
+nabak  	ŋaməŋ      	  10	  10
+ono    	weŋemka    	  11	  11
+timbe  	gilâ/amŋe  	  13	  13
+#
+Concept: 1573_SWELL, False Positives: yes, False Negatives: no
+borong 	somaro 	   1	   1
+burum  	kpari  	   2	   2
+dedua  	siwiŋe 	   3	   3
+kate   	siwiŋne	   3	   3
+mape   	siwiŋ  	   3	   3
+komba  	suk    	   5	   5
+ono    	sue    	   5	   5
+selepet	suk    	   5	   5
+kube   	boŋge  	   6	   6
+mindik 	boŋgo  	   6	   6
+tobo   	buŋgu  	   6	   6
+mesem  	simen  	   8	   1
+nabak  	səme   	   8	   1
+timbe  	kaule  	  13	   2
+#
+Concept: 1585_SLEEP, False Positives: yes, False Negatives: yes
+borong 	e      	   1	   1
+dedua  	fe     	   1	   3
+kate   	fo     	   1	   3
+kube   	fe     	   1	   3
+burum  	ahâ/a  	   2	   2
+mindik 	ahâ/a  	   2	   2
+selepet	i      	   5	   1
+komba  	zi     	   5	   5
+timbe  	je     	   5	  13
+mape   	kpe    	   7	   7
+nabak  	we     	   8	   3
+mesem  	we     	   8	   8
+ono    	pa     	  11	   7
+tobo   	gâ/aohe	  14	  14
+#
+Concept: 1588_TURN, False Positives: yes, False Negatives: no
+borong 	meleːn   	   1	   1
+burum  	meleŋ    	   1	   1
+dedua  	meren    	   1	   1
+kube   	meren    	   1	   1
+mindik 	meleŋ    	   1	   1
+tobo   	meleŋ    	   1	   1
+kate   	bâ/arisie	   4	   4
+mape   	perisie  	   4	   4
+komba  	purik    	   5	   4
+selepet	purik    	   5	   4
+timbe  	purik    	   5	   4
+mesem  	giridzə  	   8	   8
+nabak  	giridzəi 	   8	   8
+ono    	maiŋgi   	  11	   1
+#
+Concept: 163_BLACK, False Positives: yes, False Negatives: no
+borong 	indzaŋa      	   1	   1
+mindik 	indzaŋi      	   1	   1
+burum  	tâ/awuŋi     	   2	   2
+dedua  	dzadzu       	   3	   3
+kate   	gâ/agâ/apâ/ac	   4	   4
+mape   	gâ/agâ/awuk  	   4	   4
+komba  	sumun+sumun  	   5	   5
+kube   	dzapera      	   6	   6
+tobo   	dzapala      	   6	   6
+mesem  	səmbopm      	   8	   8
+nabak  	sopməŋ       	  10	   8
+ono    	dika         	  11	  11
+selepet	heleŋ        	  12	  12
+timbe  	heleŋ        	  12	  12
+#
+Concept: 1645_SHORT, False Positives: yes, False Negatives: yes
+borong 	torodaːmoŋ   	   1	   1
+burum  	tâ/arâ/ap    	   2	   2
+komba  	tâ/arâ/ap    	   2	   2
+mindik 	tâ/arâ/ap    	   2	   2
+selepet	tâ/alâ/awâ/ak	   2	  12
+timbe  	tâ/alâ/awâ/ak	   2	  12
+dedua  	wegen        	   3	   3
+kate   	bembeŋ       	   4	   4
+mape   	bembeŋ       	   4	   4
+kube   	hotoŋ        	   6	   6
+tobo   	katoŋ        	   6	   6
+mesem  	dandzi       	   8	   8
+nabak  	kutuməŋ      	  10	   6
+ono    	bomgoi       	  11	  11
+#
+Concept: 175_BLOW_OF_WIND, False Positives: yes, False Negatives: yes
+borong 	uː     	   1	   1
+mindik 	hu     	   1	   1
+dedua  	fifi   	   1	   3
+kate   	ficne  	   1	   3
+kube   	fi     	   1	   6
+tobo   	hi     	   1	   6
+burum  	unâ/aŋ 	   2	   2
+komba  	waː    	   5	   5
+timbe  	wai    	   5	   5
+mape   	pute   	   7	   7
+mesem  	orati  	   8	   8
+nabak  	kumbu  	  10	  10
+ono    	puani  	  11	   7
+selepet	hâ/angu	  12	  12
+#
+Concept: 1786_DRY_UP, False Positives: yes, False Negatives: yes
+borong 	tobori      	   1	   1
+burum  	â/arâ/aŋgâ/a	   2	   2
+komba  	ararâ/aŋ    	   2	   2
+mindik 	â/arâ/aŋgo  	   2	   2
+selepet	hâ/arâ/aŋ   	   2	   2
+mesem  	alaŋgə      	   2	   8
+dedua  	kereŋ       	   3	   2
+kate   	kereŋke     	   3	   2
+kube   	irege       	   6	   6
+mape   	dziga       	   7	   7
+nabak  	ko          	  10	  10
+ono    	dzipki      	  11	   7
+tobo   	dzipkâ/a    	  11	   7
+timbe  	kamili      	  13	  13
+#
+Concept: 1839_CRY, False Positives: yes, False Negatives: yes
+borong 	saː 	   1	   1
+kube   	siak	   1	   1
+tobo   	sia 	   1	   1
+burum  	saha	   1	   2
+mindik 	saha	   1	   2
+dedua  	kiak	   3	   3
+kate   	kio 	   4	   3
+komba  	isi 	   5	   5
+selepet	isi 	   5	   5
+mape   	kueː	   7	   3
+nabak  	su  	   8	   1
+mesem  	sisu	   8	   5
+ono    	arop	  11	  11
+timbe  	ide 	  13	  13
+#
+Concept: 1895_CLOTHES, False Positives: no, False Negatives: yes
+borong 	opo     	   1	   1
+kube   	obo     	   1	   1
+mindik 	opo     	   1	   1
+tobo   	owo     	   1	  14
+burum  	sâ/arâ/a	   2	   2
+dedua  	kambaŋ  	   3	   3
+kate   	kporuc  	   4	   4
+mape   	kporu   	   4	   4
+komba  	pet     	   5	   5
+ono    	poet    	   5	   5
+selepet	pet     	   5	   5
+mesem  	na      	   8	   8
+nabak  	nap     	   8	   8
+timbe  	jaban   	  13	  13
+#
+Concept: 189_HAIR_BODY, False Positives: yes, False Negatives: no
+borong 	dzui     	   1	   1
+burum  	dzup     	   1	   1
+kube   	dzu      	   1	   1
+mesem  	dzup     	   1	   1
+mindik 	dzup     	   1	   1
+nabak  	dzup     	   1	   1
+ono    	dzou     	   1	   1
+tobo   	dzu      	   1	   1
+dedua  	dzowe    	   3	   1
+kate   	dzâ/awâ/a	   3	   1
+komba  	sâ/amot  	   5	   5
+selepet	somot    	   5	   5
+timbe  	dumut    	   5	   5
+mape   	kaŋdzaŋ  	   7	   7
+#
+Concept: 1937_THERE, False Positives: yes, False Negatives: yes
+borong 	endu  	   1	   1
+burum  	endu  	   1	   1
+mesem  	inda  	   1	   1
+mindik 	endu  	   1	   1
+dedua  	edi   	   1	   3
+komba  	ade   	   1	   3
+selepet	eda   	   1	   3
+timbe  	idâ/a 	   1	   3
+kube   	eri   	   1	   6
+ono    	eri   	   1	   6
+tobo   	ere   	   1	   6
+kate   	ocna  	   4	   4
+mape   	aroː  	   7	   6
+nabak  	kainde	  10	   1
+#
+Concept: 2009_DOG, False Positives: yes, False Negatives: no
+borong 	kasuk  	   1	   1
+dedua  	kasi   	   1	   1
+kube   	kadzu  	   1	   1
+ono    	kasi   	   1	   1
+burum  	kiam   	   2	   2
+mindik 	kiam   	   2	   2
+tobo   	kiam   	   2	   2
+kate   	kpâ/ato	   4	   4
+mape   	kporo  	   4	   4
+komba  	wau    	   5	   5
+mesem  	tą/a   	   8	   8
+nabak  	tam    	   8	   8
+selepet	soso   	  12	  12
+timbe  	dua    	  13	   8
+#
+Concept: 2098_FOOT_OR_LEG, False Positives: yes, False Negatives: yes
+borong 	kani  	   1	   1
+burum  	kana  	   1	   1
+dedua  	hani  	   1	   1
+kube   	heni  	   1	   1
+mindik 	kana  	   1	   1
+tobo   	kani  	   1	   1
+kate   	kike  	   4	   4
+mape   	kigâ/a	   4	   4
+komba  	ki    	   4	   5
+ono    	ki    	   4	   5
+selepet	kâ/ai 	   4	   5
+timbe  	kei   	   4	   5
+mesem  	kət   	   8	   8
+nabak  	set   	  10	   8
+#
+Concept: 2101_BE_DEAD_OR_DIE, False Positives: no, False Negatives: yes
+borong 	komu  	   1	   1
+burum  	kâ/amu	   1	   1
+dedua  	home  	   1	   1
+kate   	hâ/amo	   1	   1
+kube   	humu  	   1	   1
+mape   	kâ/ame	   1	   1
+mindik 	komu  	   1	   1
+tobo   	kâ/amu	   1	   1
+komba  	mu    	   5	   5
+selepet	mu    	   5	   5
+timbe  	mo    	   5	   5
+mesem  	fəki  	   8	   8
+nabak  	gəki  	   8	  10
+ono    	seuki 	  11	  11
+#
+Concept: 2108_RAINING_OR_RAIN, False Positives: no, False Negatives: yes
+borong 	koŋ      	   1	   1
+burum  	kie      	   2	   2
+dedua  	kia      	   2	   2
+kube   	kia      	   2	   2
+mape   	kue      	   2	   2
+mindik 	kie      	   2	   2
+ono    	koia     	   2	   2
+tobo   	kia      	   2	   2
+kate   	hoe      	   2	   4
+komba  	map      	   5	   5
+mesem  	ma       	   5	   5
+nabak  	map      	   5	   5
+selepet	gelâ/ak  	  12	  12
+timbe  	tâ/anâ/ak	  13	  13
+#
+Concept: 2121_ARM_OR_HAND, False Positives: yes, False Negatives: yes
+borong 	borok   	   1	   1
+burum  	bâ/arâ/a	   2	   1
+dedua  	mari    	   2	   3
+kube   	meri    	   2	   3
+tobo   	mâ/arâ/a	   2	   3
+kate   	me      	   4	   3
+mape   	me      	   4	   3
+ono    	me      	   4	   3
+komba  	bit     	   5	   5
+mesem  	bət     	   5	   5
+nabak  	bet     	   5	   5
+selepet	bâ/at   	   5	   5
+timbe  	bâ/at   	   5	   5
+mindik 	dzâ/at  	   9	   5
+#
+Concept: 2272_HOT_OR_WARM, False Positives: yes, False Negatives: yes
+borong 	gerek                	   1	   1
+dedua  	gerek                	   1	   1
+kube   	gerik                	   1	   1
+tobo   	girua                	   1	   1
+ono    	gerep                	   1	  11
+burum  	kâ/andâ/ap           	   2	   2
+komba  	kâ/arâ/ap            	   2	   2
+mindik 	kâ/anâ/ap            	   2	   2
+selepet	kâ/alâ/ap            	   2	   2
+timbe  	kâ/alâ/ap            	   2	   2
+kate   	dzoc                 	   4	   4
+mape   	foro                 	   7	   7
+mesem  	tedzi                	   8	   8
+nabak  	tedzin               	   8	   8
+borong 	geriawok             	  15	   1
+burum  	kâ/andâ/ap+kâ/andâ/ap	  16	   2
+dedua  	hâ/aroŋa             	  17	  17
+kate   	hâ/aroŋne            	  17	  17
+mape   	koroŋine             	  17	  17
+komba  	uruk+uruk            	  19	  19
+selepet	uruk+uruk            	  19	  19
+kube   	fokŋea               	  20	  20
+mesem  	kipkipṃ/m            	  22	  22
+nabak  	kipməŋ               	  22	  22
+mindik 	kâ/anâ/apnaŋguk      	  23	  23
+ono    	geleune              	  25	  25
+timbe  	utunŋe+utudâ/ak      	  27	  27
+tobo   	komotia              	  28	  28
+#
+Concept: 2312_YOU_OBLIQUE_CASE_OF_YOU, False Positives: yes, False Negatives: yes
+borong 	oŋo  	   1	   1
+kate   	ŋoŋe 	   1	   1
+mape   	ŋoŋai	   1	   1
+burum  	ini  	   2	   1
+dedua  	ŋeni 	   2	   1
+kube   	ini  	   2	   1
+mindik 	iŋiŋi	   2	   1
+ono    	ŋine 	   2	   1
+tobo   	ini  	   2	   1
+nabak  	in   	   2	   5
+mesem  	lį/i 	   2	   8
+komba  	zen  	   5	   5
+selepet	jen  	   5	   5
+timbe  	je   	   5	  13
+#
+Concept: 239_FLOWER, False Positives: no, False Negatives: yes
+borong 	dzura  	   1	   1
+burum  	dzura  	   1	   1
+kube   	dzuri  	   1	   1
+mindik 	dzura  	   1	   1
+ono    	dzurai 	   1	   1
+selepet	suri   	   1	   1
+timbe  	huri   	   1	   1
+tobo   	dzuri  	   1	   1
+dedua  	ori    	   1	   3
+kate   	â/ari  	   1	   3
+mape   	â/ari  	   1	   3
+mesem  	dzolman	   1	   8
+komba  	bâ/alo 	   5	   5
+nabak  	kət    	  10	  10
+#
+Concept: 2457_PATH_OR_ROAD, False Positives: yes, False Negatives: yes
+borong 	kanak    	   1	   1
+burum  	kâ/ana   	   1	   1
+kube   	hena     	   1	   1
+mindik 	kâ/ana   	   1	   1
+tobo   	kâ/ana   	   1	   1
+mesem  	kə       	   1	   8
+dedua  	siŋ      	   3	   3
+kate   	hata     	   4	   4
+komba  	mâ/atâ/ap	   5	   5
+mape   	kari     	   7	   7
+nabak  	set      	  10	  10
+ono    	numa     	  11	  11
+selepet	giop     	  12	  12
+timbe  	dâ/ap    	  13	   5
+#
+Concept: 262_HE_OR_SHE_OR_IT, False Positives: yes, False Negatives: yes
+borong 	i    	   1	   1
+burum  	i    	   1	   1
+kate   	e    	   1	   1
+kube   	i    	   1	   1
+mape   	i    	   1	   1
+mindik 	i    	   1	   1
+ono    	e    	   1	   1
+tobo   	i    	   1	   1
+dedua  	je   	   1	   3
+komba  	zâ/ak	   5	   3
+nabak  	ək   	   5	   3
+selepet	jâ/ak	   5	   3
+timbe  	jâ/ak	   5	   3
+mesem  	lə   	   5	   8
+#
+Concept: 2_DUST, False Positives: yes, False Negatives: no
+borong 	ilawela 	   1	   1
+burum  	nesak   	   2	   2
+komba  	isak    	   2	   2
+dedua  	wondok  	   3	   3
+kate   	gâ/ac   	   4	   4
+kube   	iwai    	   6	   6
+mindik 	iwai    	   6	   6
+tobo   	iwai    	   6	   6
+mape   	jak     	   7	   4
+mesem  	wanawana	   8	   8
+nabak  	kpitnəki	  10	  10
+ono    	kinekine	  11	   8
+selepet	wahap   	  12	  12
+timbe  	gahap   	  12	  12
+#
+Concept: 323_FAT_ORGANIC_SUBSTANCE, False Positives: no, False Negatives: yes
+borong 	kelega 	   1	   1
+burum  	kelâ/ak	   1	   1
+komba  	kelâ/ak	   1	   1
+kube   	harek  	   1	   1
+mesem  	kerək  	   1	   1
+mindik 	kelâ/ak	   1	   1
+nabak  	kerak  	   1	   1
+ono    	kelok  	   1	   1
+tobo   	kalak  	   1	   1
+selepet	kelu   	   1	  12
+timbe  	kelu   	   1	  12
+dedua  	wokemaŋ	   3	   3
+kate   	wokemaŋ	   3	   3
+mape   	widzi  	   7	   7
+#
+Concept: 619_ANIMAL, False Positives: yes, False Negatives: yes
+borong 	osoŋ  	   1	   1
+ono    	osom  	   1	   1
+burum  	sumbup	   2	   2
+mindik 	sumbup	   2	   2
+dedua  	jaŋ   	   3	   3
+kube   	jaŋ   	   3	   3
+tobo   	jaŋ   	   3	  13
+kate   	kpowi 	   4	   4
+komba  	zu    	   5	   5
+mesem  	dzi   	   5	   8
+timbe  	jo    	   5	  13
+mape   	dzomak	   7	   7
+nabak  	soŋgo 	  10	  10
+selepet	sogo  	  10	  10
+#
+Concept: 624_LAKE, False Positives: no, False Negatives: yes
+borong 	aŋgoŋ     	   1	   1
+burum  	aŋgâ/a    	   1	   1
+mindik 	aŋgâ/a    	   1	   1
+dedua  	dzokoŋ    	   1	   3
+kate   	dzâ/akâ/aŋ	   1	   3
+komba  	degâ/an   	   1	   3
+kube   	dzekeŋ    	   1	   3
+mape   	dzâ/agâ/aŋ	   1	   3
+selepet	degâ/an   	   1	   3
+tobo   	dzokâ/am  	   1	   3
+mesem  	ləm       	   8	   8
+nabak  	ləmunəŋ   	   8	  10
+ono    	namuŋ     	  11	  11
+timbe  	bâ/atgum  	  13	  13
+#
+Concept: 639_MOUNTAIN, False Positives: yes, False Negatives: no
+borong 	baːŋa   	   1	   1
+kube   	boŋa    	   1	   1
+ono    	bonaga  	   1	   1
+tobo   	bohoŋa  	   1	   1
+burum  	kunduŋi 	   2	   2
+mindik 	kunduŋi 	   2	   2
+dedua  	tiki    	   3	   3
+kate   	tiki    	   3	   3
+mape   	tiki    	   3	   3
+komba  	bakŋa   	   5	   1
+mesem  	kalaŋ   	   8	   8
+nabak  	kaləŋ   	   8	   8
+selepet	gibâ/aŋe	  12	   1
+timbe  	gibâ/aŋe	  12	   1
+#
+Concept: 670_ROOT, False Positives: yes, False Negatives: yes
+borong 	tiːta       	   1	   1
+burum  	dzalâ/a     	   2	   2
+mindik 	dzalâ/a     	   2	   2
+dedua  	gode        	   3	   3
+kate   	gâ/atâ/a    	   3	   3
+kube   	gete        	   3	   3
+mape   	gâ/aru      	   3	   3
+komba  	â/adâ/aŋ    	   5	   5
+tobo   	â/ande      	   5	   8
+timbe  	kâ/adâ/arâ/a	   8	   3
+mesem  	kindiri     	   8	   8
+nabak  	kindi       	   8	   8
+ono    	ŋodi        	  11	  11
+selepet	gihit       	  12	  12
+#
+Concept: 671_SAND, False Positives: no, False Negatives: yes
+borong 	sakasiŋ 	   1	   1
+kube   	sakesa  	   1	   1
+mindik 	sakosiŋ 	   1	   1
+burum  	sak     	   1	   2
+komba  	sak     	   1	   2
+selepet	sak     	   1	   2
+timbe  	sak     	   1	   2
+tobo   	sak     	   1	   2
+dedua  	moŋgeŋ  	   3	   3
+kate   	moŋgeŋ  	   3	   3
+mape   	mageŋ   	   3	   3
+mesem  	gaŋa    	   8	   8
+nabak  	gambibit	  10	  10
+ono    	gbalak  	  11	  11
+#
+Concept: 714_SEED, False Positives: yes, False Negatives: no
+borong 	kota      	   1	   1
+burum  	kâ/at     	   1	   1
+mesem  	kət       	   1	   1
+mindik 	kâ/at     	   1	   1
+nabak  	kət       	   1	   1
+dedua  	honduŋ    	   3	   3
+kate   	hâ/andâ/aŋ	   3	   3
+komba  	keːt      	   5	   1
+selepet	kehet     	   5	   1
+kube   	gokme     	   6	   6
+mape   	fâ/aŋâ/aŋ 	   7	   7
+ono    	wau       	  11	  11
+timbe  	kâ/adet   	  13	   1
+tobo   	gopi      	  14	  14
+#
+Concept: 725_OLD_PERSON, False Positives: no, False Negatives: yes
+borong 	kerugaha	   1	   1
+burum  	walakŋi 	   2	   2
+mindik 	walakŋi 	   2	   2
+tobo   	walaha  	   2	   2
+kube   	wahara  	   2	   6
+dedua  	esea    	   3	   3
+kate   	raŋgbaŋ 	   4	   4
+mape   	raŋgbaŋ 	   4	   4
+komba  	sobâ/a  	   5	   5
+selepet	sobo    	   5	   5
+timbe  	sâ/abâ/a	   5	   5
+mesem  	kpən    	   8	   8
+nabak  	ŋokŋ    	  10	  10
+ono    	lewitne 	  11	  11
+#
+Concept: 72_CLAW, False Positives: yes, False Negatives: no
+borong 	kosi      	   1	   1
+burum  	kambâ/a   	   2	   2
+dedua  	boŋ       	   3	   3
+kube   	boŋsewe   	   3	   3
+kate   	misiŋ     	   4	   4
+komba  	pakit     	   5	   5
+selepet	pekat     	   5	   5
+timbe  	pekat     	   5	   5
+mape   	jujuŋ     	   7	   7
+mesem  	dziŋgəŋgəŋ	   8	   8
+mindik 	kesâ/at   	   9	   1
+nabak  	pəluk     	  10	  10
+ono    	zolip     	  11	  11
+tobo   	kawâ/an   	  14	  14
+#
+Concept: 730_SNAKE, False Positives: yes, False Negatives: yes
+borong 	mokoleŋ  	   1	   1
+burum  	mokoleŋ  	   1	   1
+kube   	mokoreŋ  	   1	   1
+mindik 	mokoleŋ  	   1	   1
+dedua  	bâ/aidzok	   3	   3
+kate   	homa     	   4	   4
+ono    	koma     	   4	   4
+komba  	mulum    	   5	   5
+mape   	kobeŋ    	   7	   7
+mesem  	asį/i    	   8	   8
+nabak  	nombe    	  10	  10
+timbe  	niabi    	  10	  13
+selepet	habe     	  12	  12
+tobo   	kemala   	  14	   4
+#
+Concept: 763_SKIN, False Positives: no, False Negatives: yes
+borong 	sele     	   1	   1
+burum  	sile     	   1	   1
+mindik 	sele     	   1	   1
+ono    	solai    	   1	   1
+dedua  	sebi     	   3	   3
+kube   	sewira   	   3	   3
+tobo   	sâ/awâ/al	   3	  14
+kate   	sahac    	   4	   4
+komba  	sâ/ak    	   5	   5
+mesem  	sək      	   5	   5
+nabak  	sək      	   5	   5
+selepet	hâ/ak    	   5	   5
+timbe  	hâ/ak    	   5	   5
+mape   	mâ/adzu  	   7	   7
+#
+Concept: 778_SMOKE_EXHAUST, False Positives: no, False Negatives: yes
+borong 	kaːsok 	   1	   1
+burum  	kasak  	   1	   1
+dedua  	husuk  	   1	   1
+kate   	hosâ/ac	   1	   1
+mape   	kosâ/ak	   1	   1
+mesem  	kəsə   	   1	   1
+nabak  	kəsək  	   1	   1
+tobo   	kasak  	   1	   1
+kube   	hofak  	   1	   6
+mindik 	kowak  	   1	   6
+komba  	mudo   	   5	   5
+ono    	ŋaup   	  11	  11
+selepet	utun   	  12	  12
+timbe  	dâ/awok	  13	  13
+#
+Concept: 78_THAT, False Positives: no, False Negatives: yes
+borong 	lo   	   1	   1
+dedua  	jo   	   1	   3
+kube   	jo   	   1	   3
+selepet	ja   	   1	   3
+komba  	zo   	   1	   5
+burum  	me   	   2	   2
+mindik 	me   	   2	   2
+tobo   	mi   	   2	   2
+mesem  	mei  	   2	   8
+kate   	i    	   4	   4
+mape   	â/a  	   7	   7
+nabak  	ke   	  10	  10
+ono    	eri  	  11	  11
+timbe  	idâ/a	  13	  13
+#
+Concept: 817_THEY, False Positives: yes, False Negatives: no
+borong 	ioŋoŋoŋ 	   1	   1
+burum  	jeŋâ/an 	   2	   2
+mindik 	jeŋgâ/an	   2	   2
+dedua  	jeni    	   3	   3
+tobo   	ini     	   3	   3
+kate   	jaŋe    	   4	   3
+mape   	jaŋa    	   4	   3
+komba  	zâ/ak   	   5	   5
+nabak  	ək      	   5	   5
+selepet	jâ/ak   	   5	   5
+timbe  	jâ/ak   	   5	   5
+kube   	iŋeŋ    	   6	   3
+ono    	eŋe     	   6	   3
+mesem  	lene    	   8	   3
+#
+Concept: 857_STONE, False Positives: yes, False Negatives: no
+borong 	dzamok   	   1	   1
+burum  	kâ/at    	   2	   2
+komba  	kâ/at    	   2	   2
+mindik 	kâ/at    	   2	   2
+selepet	kâ/at    	   2	   2
+timbe  	kâ/at    	   2	   2
+dedua  	hok      	   3	   3
+mape   	kâ/ak    	   3	   3
+kate   	kpâ/anâ/a	   4	   4
+kube   	gokmea   	   6	   6
+mesem  	nandza   	   8	   8
+nabak  	nandzəŋ  	   8	   8
+ono    	wesi     	  11	  11
+tobo   	baŋa     	  14	   4
+#
+Concept: 867_backofhand, False Positives: yes, False Negatives: no
+borong 	gemasit  	   1	   1
+kube   	gemagi   	   1	   1
+mindik 	gemat    	   1	   1
+tobo   	gemat    	   1	   1
+burum  	gâ/anesem	   2	   2
+dedua  	nade     	   3	   3
+kate   	râ/ape   	   4	   4
+komba  	kâ/adâ/at	   5	   5
+selepet	kâ/adâ/at	   5	   5
+mape   	ŋari     	   7	   3
+mesem  	beset    	   8	   8
+nabak  	bam      	  10	  10
+ono    	romo     	  11	  11
+timbe  	hame     	  13	  13
+#
+Concept: 906_TREE, False Positives: no, False Negatives: yes
+borong 	ik     	   1	   1
+dedua  	ik     	   1	   1
+kube   	ik     	   1	   1
+burum  	ip     	   1	   2
+mindik 	ip     	   1	   2
+tobo   	ip     	   1	   2
+kate   	jâ/ac  	   4	   4
+mape   	jâ/ak  	   4	   4
+komba  	nak    	   5	   5
+selepet	nak    	   5	   5
+mesem  	tə     	   8	   8
+nabak  	təp    	   8	   8
+ono    	eki    	  11	  11
+timbe  	lâ/awin	  13	  13
+#
+Concept: 946_BLOOD, False Positives: no, False Negatives: yes
+borong 	saja   	   1	   1
+burum  	sep    	   1	   2
+komba  	sep    	   1	   2
+mesem  	sip    	   1	   2
+mindik 	sep    	   1	   2
+nabak  	sip    	   1	   2
+selepet	hep    	   1	   2
+tobo   	sap    	   1	   2
+dedua  	sawa   	   1	   3
+kube   	sawa   	   1	   3
+kate   	soc    	   1	   4
+mape   	dari   	   7	   7
+ono    	weŋemi 	  11	  11
+timbe  	gilâ/am	  13	  13
+#
+Concept: 948_WATER, False Positives: yes, False Negatives: yes
+borong 	apuk 	   1	   1
+burum  	ou   	   2	   2
+mindik 	ou   	   2	   2
+mape   	owu  	   2	   4
+dedua  	doku 	   3	   3
+kube   	doku 	   3	   3
+ono    	doku 	   3	   3
+tobo   	duku 	   3	   3
+kate   	opâ/a	   4	   4
+komba  	to   	   5	   3
+mesem  	tu   	   5	   3
+nabak  	tu   	   5	   3
+selepet	to   	   5	   3
+timbe  	tu   	   5	   3
+#
+Concept: 960_WIND, False Positives: yes, False Negatives: no
+borong 	haːmok   	   1	   1
+burum  	luhut    	   2	   2
+kube   	rufuk    	   2	   2
+mindik 	luhut    	   2	   2
+tobo   	luhut    	   2	   2
+dedua  	firaŋ    	   3	   3
+kate   	mâ/aŋâ/aŋ	   4	   4
+mape   	mâ/aŋuŋ  	   4	   4
+komba  	berom    	   5	   3
+selepet	berom    	   5	   3
+mesem  	təgə     	   8	   8
+nabak  	tɔgɔ     	   8	   8
+ono    	momo     	  11	  11
+timbe  	seru     	  13	  13
+#
+Concept: 962_WOMAN, False Positives: no, False Negatives: yes
+borong 	embak   	   1	   1
+kube   	embak   	   1	   1
+burum  	ambi    	   1	   2
+mesem  	imbi    	   1	   2
+mindik 	ambi    	   1	   2
+nabak  	imbi    	   1	   2
+tobo   	embat   	   1	   2
+komba  	abâ/an  	   1	   5
+selepet	ibi     	   1	   5
+timbe  	â/abâ/ai	   1	   5
+dedua  	ŋak     	   3	   3
+kate   	ŋokac   	   3	   4
+mape   	ŋigok   	   3	   4
+ono    	ŋerep   	  11	  11
+#
+Concept: 98_ALL, False Positives: yes, False Negatives: no
+borong 	kuːja       	   1	   1
+burum  	kpakpak     	   2	   2
+dedua  	sasawa      	   3	   3
+kate   	sasawa      	   3	   3
+mape   	sâ/asâ/awâ/a	   3	   3
+komba  	aksik       	   5	   2
+kube   	mokdzoŋ     	   6	   6
+mesem  	pəsəkpep    	   8	   8
+mindik 	moːketaŋi   	   9	   9
+nabak  	ilinsakpep  	  10	   8
+ono    	korop       	  11	  11
+selepet	kerek       	  12	  11
+timbe  	hâ/arowâ/ak 	  13	  13
+tobo   	eŋalek      	  14	  14
+#
